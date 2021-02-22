@@ -1,0 +1,44 @@
+title Scroll Beta
+date 2021-02-22
+
+paragraph
+ Today I'm launching the beta of something new called
+ <a href="https://github.com/treenotation/dumbdown/blob/master/scroll/readme.md">Scroll</a>.
+
+paragraph
+ I've been reading the newspaper everyday since I was a kid.
+ I remember I'd have my feet on the ground, my body tilted at
+ an angle and my body weight pressed into the pages on the
+ counter. I remember staring intently at the pages spread out
+ before me. World news, local news, sports, business, comics.
+ I remember the smell of the print. The feel of the pages.
+ The ink that would be smeared on my forearms when I
+ finished reading and stood back up straight. Scroll has none
+ of that. But it does at least have the same big single page layout.
+
+paragraph
+ Scroll brings back <em>some</em> of the magic of newspapers.
+
+paragraph
+ In addition to the layout, Scroll has two important differences
+ from existing static publishing software.
+
+paragraph
+ First, Scroll is built for public domain sites and <em>only</em>
+ public domain sites. Builders of Scroll will spend 100% of the
+ time building for the amazing creators who understand and value
+ the public domain.
+
+paragraph
+ Second, Scroll uses <a
+ href="https://github.com/treenotation/dumbdown">Dumbdown</a>,
+ a language powered by <a
+ href="https://treenotation.org/">Tree Notation</a>. Unlike
+ Markdown, Dumbdown is easily extensible. We can create
+ and combine thousands of new sub languages to help people
+ be more creative and communicate more effectively.
+
+
+paragraph
+ I've had fun building Scroll so far and am excited to start
+ working on it with others.
