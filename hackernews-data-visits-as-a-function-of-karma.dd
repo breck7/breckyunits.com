@@ -1,0 +1,28 @@
+title HackerNews Data: Visits as a Function of Karma
+date 2010-03-08
+
+If a post on HackerNews gets more points, it gets more visits.
+
+But how much more? That's what <a href="http://news.ycombinator.com/item?id=1175277">Murkin</a> wanted to know.
+
+I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
+
+Here's how it looks if you plot visits by karma score:
+
+<img src="visits_by_karma.png">
+
+The Pearson Correlation is high: 0.894.
+
+Here's the raw data:
+
+code
+ karma,visits,page
+ 53,3389,<a href="twelve-tips-to-master-programming-faster.html">/twelve_tips_to_master_programming_faster</a>
+ 54,2075,<a href="/code/use_rsync_to_deploy_your_website">/code/use_rsync_to_deploy_your_website</a>
+ 54,1688,<a href="unfeatures.html">/unfeatures</a>
+ 34,1588,<a href="flee-the-bubble.html">/flee_the_bubble</a>
+ 25,1462,<a href="make-something-40-of-your-customers-must-have.html">/make_something_40_of_your_customers_must_have</a>
+ 14,1056,<a href="when-forced-to-wait-wait.html">/when_forced_to_wait_wait</a>
+ 4,214,<a href="diversification-in-startups.html">/diversification_in_startups</a>
+ 1,146,<a href="seo-made-easy-lumps.html">/seo_made_easy_lumps</a>
+ 1,36,<a href="dont-flip-the-bozo-bit.html">/dont_flip_the_bozo_bit</a>

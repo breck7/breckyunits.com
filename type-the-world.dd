@@ -1,0 +1,141 @@
+title Type the World
+date 2020-01-20
+
+In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
+
+This might be hard to follow unless you have experience working with types, whether that be types in programming languages, or types in databases, or types in Excel. Actually, this may be hard to follow regardless of your experience. I'm not sure I follow it. Maybe just stay for the links. Skimming is encouraged.
+
+title4 First, from the Land of Character Sets
+
+Humans invented characters roughly <a href="https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts">5,000 years ago</a>.
+
+<a href="https://en.wikipedia.org/wiki/Binary_code">Binary notation</a> was invented roughly 350 years ago.
+
+The first widely adopted system for using binary notation to represent characters was ASCII, which was created only <a href="https://en.wikipedia.org/wiki/ASCII">60 years ago</a>. ASCII encodes little more than the characters used by English.
+
+In 1992 <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8 was designed</a> which went on to become the first widespread system that encodes all the characters for all the world's languages.
+
+<strong>For about 99.6% of recorded history we did not have a globally used system to encode all human characters into a single system. Now we do.</strong>
+
+title4 Meanwhile, in the Land of Standards Organization
+
+Scientific standards are the original type schemas. Until recently, <a href="https://en.wikipedia.org/wiki/Standards_organization">Standards Organizations</a> dominated the creation of standards.
+
+You might be familiar with terms like meter, gram, amp, and so forth. These are well defined units of measure that were pinned down in the <a href="https://en.wikipedia.org/wiki/International_System_of_Units">International System of Units</a>, which was first published in 1960.
+
+The International Organization for Standardization (ISO) began around 100 years ago and is the organization behind a number of <a href="https://www.iso.org/popular-standards.html">popular standards</a> from <a href="https://www.iso.org/iso-4217-currency-codes.html">currency codes</a> to <a href="https://www.iso.org/iso-8601-date-and-time-format.html">date and time</a> formats.
+
+<strong>For 98% of recorded history we did not have global standards. Now we do.</strong>
+
+title4 Meanwhile, in Math Land
+
+My grasp of the history of mathematics isn't strong enough to speak confidently to trends in the field, but I do want to mention that in the past century there has been a lot of important research into <a href="https://en.wikipedia.org/wiki/Type_theory">type theories</a>.
+
+In the past 100 years type theories have taken their place as part of the <a href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundation of mathematics</a>.
+
+<strong>For 98% of recorded history we did not have strong theories of type systems. Now we do.</strong>
+
+title4 Meanwhile, in Programming Language Land
+
+The research into mathematical type and set theories in the 1900's led directly into the creation of useful new programming languages and programming language features.
+
+From the <a href="https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus">typed lambda calculus in the 1940's</a> to the static type system in languages like <a href="https://en.wikipedia.org/wiki/C_(programming_language">C</a>) to the ongoing experiments of <a href="https://www.haskell.org/">Haskell</a> or the rapid growth of the <a href="https://www.typescriptlang.org/">TypeScript ecosystem</a>, the research into types has led to hundreds of software inventions.
+
+In the late 1990's and 2000's, a slew of programming languages that underutilized innovations from type theory in the name of easier prototyping, like Python and Ruby and Javascript, became very popular. For a while this annoyed programmers who understood the benefits of type systems. But now they too are benefiting, as there is a bigger demand for richer type systems now due to the increase in the number of programmers.
+
+<strong>95%+ of the most popular programming languages use increasingly smarter type systems.</strong>
+
+title4 Meanwhile, in API Land
+
+Before the Internet became widespread, the job of most programmers was to write software that interacted only with other software on the local machine. That other software was generally under their control or well documented.
+
+In the late 1990's and 2000's, a big new market arose for programmers to write software that could interact over the Internet with software on other machines that they had no control of or knowledge about.
+
+At first there was not a good standard language to use that was agreed upon by many people. 1996's <a href="https://en.wikipedia.org/wiki/XML">XML</a>, a variant of <a href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a> from 1986, was the first attempt to get some traction for this job. But XML and the dialects of XML for APIs like <a href="https://en.wikipedia.org/wiki/SOAP">SOAP (1998)</a> and <a href="https://en.wikipedia.org/wiki/Web_Services_Description_Language">WSDL (2000)</a> were not easy to use. Then <a href="https://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a> created a new language called <a href="https://www.json.org/">JSON</a> in 2001. JSON made web API programming easier and helped create a huge wave of web API businesses. For me this was great. In the beginning of my programming career I got jobs working on these new JSON APIs.
+
+The main advantage that JSON had over XML was simple, well defined types. It had just a few primitive types—like numbers, booleans and strings—and a couple of complex types—lists and dicts. It was a very useful collection of structures that were important across all programming languages, put together in a simple and concise way. It took very little time to learn the entire thing. In contrast, XML was "extensible" and defined no types, leading to many massive dialects defined by committee.
+
+<strong>For 99.8% of recorded history we did not have a global network conducting automated business transactions with a typed language. Now we do.</strong>
+
+title4 Meanwhile, in SQL Land
+
+When talking about types and data one must pay homage to <a href="https://en.wikipedia.org/wiki/SQL">SQL</a> databases, which store most of the world's structured data and perform the transactions that our businesses depend on.
+
+SQL programmers spend a lot of time thinking about the structure of their data and defining it well in a SQL <a href="https://en.wikipedia.org/wiki/Data_definition_language">data definition language</a>.
+
+Types play a huge role in SQL. The dominant SQL databases such as MySQL, SQL Server, and Oracle all contain common primitives like ints, floats, and strings. Most of the main SQL databases also have more extensive type systems for things like dates and money and even geometric primitives like <a href="https://www.postgresql.org/docs/9.5/datatype-geometric.html">circles and polygons</a> in PostgreSQL.
+
+Critical information is stored in strongly typed SQL databases: Financial information; information about births, health and deaths; information about geography and addresses; information about inventories and purchase histories; information about experiments and chemical compounds.
+
+<strong>98% of the world's most valuable, processed information is now stored in typed databases.</strong>
+
+title4 Meanwhile, in the Land of Types as Code
+
+The standards we get from the Standards Organizations are vastly better than not having standards, but in the past they've been released as non-computable, weakly typed documents.
+
+There are lots of projects that are now writing schemas in computable languages. The <a href="http://schema.org/">Schema.org project</a> is working to build a common global database of rich type schemas. <a href="https://json-ld.org/">JSON LD</a> aims to make the types of JSON more extensible. The <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped</a> project has a rich collection of commonly used interfaces. <a href="https://developers.google.com/protocol-buffers">Protocol buffers</a> and <a href="https://capnproto.org/">similar</a> are another approach at language agnostic schemas. There are <a href="https://www.typedefs.com/">attempts</a> at languages just for types. <a href="https://graphql.org/">GraphQL</a> has a useful schema language with rich typing.
+
+<strong>100% of standards/type schemas can now themselves be written in strongly typed documents.</strong>
+
+title4 Meanwhile, in Git Land
+
+<a href="https://en.wikipedia.org/wiki/Git">Git</a> is a distributed version control system created in 2005.
+
+Git can be used to store and track changes to any type of data. You could theoretically put all of the English Wikipedia in Git, then CAPITALIZE all verbs, and save that as a single patch file. Then you could post your patch to the web and say "I propose the new standard is we should CAPITALIZE all verbs. Here's what it would look like." While this is a dumb idea, it demonstrates how Git makes it much cheaper to iterate on standards. Someone can propose both a change to the standard and the global updates all in a single operation. Someone can fork and branch to their heart's content.
+
+<strong>For 99.9% of recorded history, there was not a cheap way to experiment and evolve type schemas nor a safe way to roll them out. Now there is.</strong>
+
+title4 Meanwhile, in Hub Land
+
+In the past 30 years, central code hubs have emerged. There were early ones like <a href="https://sourceforge.net/">SourceForge</a> but in the past ten years <a href="http://github.com/">GitHub</a> has become the breakout star. GitHub has around 30 million users, which is also a good estimate of the total number of programmers worldwide, meaning nearly every programmer uses git.
+
+In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's <a href="https://cran.r-project.org/">CRAN</a> but the breakout star is 2010's <a href="http://npmjs.com/">NPM</a>, which has more packages than the package managers of all other languages combined. 
+
+Types are arbitrary. The utility of a type depends not only on its intrinsic utility but also on its popularity. You can create a better type system—maybe a simpler universal day/time schema—but unless it gains popularity it will be of limited value.
+
+Code hubs allow the sharing of code, including type definitions, and can help make type definitions more popular, which also makes them more useful.
+
+<strong>99% of programmers now use code hubs and hubs are a great place to increase adoption of types, making them even more useful.</strong>
+
+title4 Meanwhile, in Semantic Web Land
+
+The current web is a collection of untyped HTML pages. So if I were to open a web page with lots of information about diseases and had a semantic question requiring some computation, I'd have to read the page myself and use my slow brain to parse the information and then figure out the answer to my semantic question.
+
+<a href="https://en.wikipedia.org/wiki/Semantic_Web">The Semantic Web dream</a> is that the elements on web pages would be annotated with type information so the computer could do the parsing for us and compute the answers to our semantic questions.
+
+While the "Semantic Web" did not achieve adoption like the untyped web, that dream remains very relevant and is ceaselessly worked upon. In a sense <a href="https://www.wolframalpha.com/">Wolfram Alpha</a> embodies an early version of the type of UX that was envisioned for the Semantic Web. The typed data in Wolfram Alpha comes from a nicely <a href="https://datarepository.wolframcloud.com/">curated collection</a>.
+
+While lots of strongly typed proprietary databases exist on the web for various domains from <a href="http://imdb.com/">movies</a> to <a href="https://www.crunchbase.com/">startups</a>, and while Wikipedia is arguable undergoing <a href="https://en.wikipedia.org/wiki/Gradual_typing">gradual typing</a>, the open web still remains largely untyped and we don't have a universally accessible interface yet to the world's typed information.
+
+<strong>99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.</strong>
+
+title4 Meanwhile, in Deep Learning Land
+
+Deep Learning is creeping in everywhere. In the past decade it has come to be the dominant strategy for NLP. In the past two years, a new <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">general</a> learning strategy has become <a href="https://github.com/google-research/ALBERT">feasible</a>, where models learn some intrinsic structure of language and can use this knowledge to perform many different language tasks.
+
+One of those tasks could be to rewrite untyped data in a typed language.
+
+<strong>AI may soon be able to write a strongly typed semantic web from the weakly typed web.</strong>
+
+title3 Tying All These Threads Together
+
+I see a global pattern here that I call the "Type the World" trend. Here are some future predictions from these past trends.
+
+- We will always have creative, ambiguous, untyped human languages where new ideas can evolve freely
+- In the future great new ideas from the untyped realm will be adopted faster by the typed realm
+- Nearly all transactions in business and government will be in typed languages
+- Someone will invent a wildly popular new domain specific language(s) for type definitions
+- All the popular standards will be ones written in these new and improved TypeDSLs
+- Git—or git like systems—will be used to store both the TypeDSLs and the typed data
+- TypeHubs will arise hosting these widely used type schemas
+- Programmers will get their types from TypeHubs regardless of which programming language they use
+- Deep learning agents will be used to rewrite the web's untyped data into typed data
+- Deep learning agents will be used to improve type schemas
+- Human editors will review and sign off on the typing work of the deep learning agents
+- Silo-ed domain specific standards will merge into one or a handful of global monolithic type systems
+
+The result of this will be a future where all business, from finance to shopping to healthcare to law, is conducted in a rich, open type system, and untyped language work is relegated to research, entertainment and leisure.
+
+While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
+
+Posted 1/20/2020

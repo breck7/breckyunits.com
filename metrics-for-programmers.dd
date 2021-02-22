@@ -1,0 +1,72 @@
+title Metrics for Programmers
+date 2010-03-16
+
+I wrote a simple php program called <a href="http://github.com/breck7/phpcodestat">phpcodestat</a> that computes some simple statistics for any given directory.
+
+I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.
+
+If your code base is growing faster than your user base, you're in trouble. You might be attacking the wrong problem. You might be letting feature creep get the past of you.
+
+I thought it would be neat to compute some stats for popular open source PHP applications.
+
+My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
+
+paragraph
+ <table><tr style="font-weight:bold;"><td>Name</td><td>Directories</td><td>Files</td><td>PHP Files</td><td>PHP LOC</td><td>PHP Classes</td><td>PHP Functions</td></tr>
+ <tr>
+ <td>../cake-1.2.6</td>
+ <td>296</td>
+ 
+ <td>677</td>
+ <td>428</td>
+ <td>165183</td>
+ <td>746</td>
+ <td>3675</td>
+ </tr><tr>
+ 
+ <td>../wordpress-2.9.2</td>
+ <td>82</td>
+ <td>753</td>
+ <td>279</td>
+ <td>143907</td>
+ <td>149</td>
+ 
+ <td>3827</td>
+ </tr><tr>
+ <td>../phpMyAdmin-3.3.1-english</td>
+ <td>63</td>
+ <td>810</td>
+ <td>398</td>
+ 
+ <td>175867</td>
+ <td>44</td>
+ <td>3635</td>
+ </tr><tr>
+ <td>../CodeIgniter_1.7.2</td>
+ <td>44</td>
+ 
+ <td>321</td>
+ <td>136</td>
+ <td>43157</td>
+ <td>74</td>
+ <td>1211</td>
+ </tr><tr>
+ 
+ <td>../Zend-1.10</td>
+ <td>360</td>
+ <td>2145</td>
+ <td>1692</td>
+ <td>336419</td>
+ <td>42</td>
+ 
+ <td>11123</td>
+ </tr><tr>
+ <td>../symfony-1.4.3</td>
+ <td>770</td>
+ <td>2905</td>
+ <td>2091</td>
+ 
+ <td>298700</td>
+ <td>362</td>
+ <td>12198</td>
+ </tr></table>
