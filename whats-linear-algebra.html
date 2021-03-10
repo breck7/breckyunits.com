@@ -7,7 +7,7 @@
  
  Generally you don't want to edit it by hand.
 
- Scroll v6.0.0
+ Scroll v6.1.0
 
 -->
 <head>
@@ -33,12 +33,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 .scrollDescription {
   padding: 3px;
 }
-.scrollPageContainer {
-  border-top: 1px solid rgb(204,204,204);
-  border-bottom: 1px solid rgb(204,204,204);
-  margin-top: 8px;
-  margin-bottom: 8px;
-}
 .scrollTitle a {
   font-family: Exchange,Georgia,serif;
   text-decoration: none;
@@ -48,8 +42,9 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   padding-top: 3px;
 }
 .scrollIcons svg {
-  width: 16px;
-  fill: rgb(204,204,204);
+  width: 30px;
+  fill: rgba(204,204,204, .5);
+  margin-left: 15px;
 }
 .scrollIcons svg:hover {
   fill: #333;
@@ -67,6 +62,10 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   column-rule: 1px solid rgb(204,204,204);
   padding-left: 20px;
   padding-right: 20px;
+  border-top: 1px solid rgb(204,204,204);
+  border-bottom: 1px solid rgb(204,204,204);
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 .scrollArticleDate {
   text-align: center;
@@ -83,14 +82,20 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   color: #000;
   text-decoration: none;
 }
-.scrollHasMultipleArticles .scrollArticleCell {
-  break-inside: avoid;
+.scrollSingleArticle {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  column-rule: none;
+}
+.scrollSingleArticle .scrollArticleCell {
+  break-inside: avoid-page;
+  border-bottom: none;
 }
 .scrollArticleCell {
   border-bottom: 1px solid rgb(204,204,204);
   width: 35ch;
   padding: 1ch;
-  break-inside: avoid-page;
+  break-inside: avoid;
   overflow: hidden;
   text-align: justify;
   margin: auto;
@@ -115,11 +120,13 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   padding: 1em;
   overflow: auto;
   font-size: 80%;
+  break-inside: avoid;
 }
 .scrollArticleCell .scrollArticleCode,.scrollArticleCell table code {
   margin: 0;
   display: block;
   white-space: pre;
+  break-inside: avoid;
 }
 .scrollArticleCell h1 a {
   text-decoration: none;
@@ -145,9 +152,8 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   <a href="./">Breck Yunits' Scroll</a>
 </h1>
  <div class="scrollChrome scrollDescription">Some writing about probability, programming, economics and life.</div>
- <div class="scrollPageContainer">
-  <div class="scrollPage">
-   <div class="scrollArticleCell"><h1><a href="whats-linear-algebra.html">What's Linear Algebra?</a></h1>
+ <div class="scrollPage scrollSingleArticle">
+  <div class="scrollArticleCell"><h1><a href="whats-linear-algebra.html">What's Linear Algebra?</a></h1>
 <div class="scrollArticleDate">December 3, 2009 — </div>
 
 <p>What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!</p>
@@ -177,7 +183,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 <p>I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?</p>
 
 <p>I guess when you write about what you don't know, you write mostly questions.</p><p class="scrollArticleSourceLink"><a href="https://github.com/breck7/breckyunits.com/blob/main//whats-linear-algebra.scroll">Article source</a></p></div>
-</div>
 </div>
  <div class="scrollChrome scrollIcons">
   <a href="mailto:breck7@gmail.com"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg></a>
