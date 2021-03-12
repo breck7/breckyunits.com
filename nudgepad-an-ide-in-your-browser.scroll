@@ -1,50 +1,92 @@
 title NudgePad: An IDE in Your Browser
 date 2013-09-23
 
-Making websites is slow and frustrating.
+paragraph
+ Making websites is slow and frustrating.
 
-I met a young entrepreneur who wanted to create a website for his bed  and breakfast. He had spent dozens of hours with different tools and was no  closer to having what he wanted.
+paragraph
+ I met a young entrepreneur who wanted to create a website
+ for his bed and breakfast. He had spent dozens of hours
+ with different tools and was no closer to having what he
+ wanted.
 
-I met a teacher who wanted his students to turn in web pages for  homework instead of paper pages. No existing tool allows his students to  easily create pages without restricting their creativity.
+paragraph
+ I met a teacher who wanted his students to turn in web
+ pages for homework instead of paper pages. No existing
+ tool allows his students to  easily create pages without
+ restricting their creativity.
 
-I met an artist who wanted a website with a slideshow for her portfolio.
+paragraph
+ I met an artist who wanted a website with a slideshow for
+ her portfolio.
 
-A restaurant owner who wanted a website that could take online orders.
+paragraph
+ A restaurant owner who wanted a website that could take
+ online orders.
 
-An author who wanted a website with a blog.
+paragraph
+ An author who wanted a website with a blog.
 
-A saleswoman who wanted to build a members-only site for great deals she  gathered.
+paragraph
+ A saleswoman who wanted to build a members-only site for
+ great deals she  gathered.
 
-A candidate who wanted a website that could coordinate his volunteers.
+paragraph
+ A candidate who wanted a website that could coordinate his
+ volunteers.
 
-A nonprofit founder who wanted a website that told the story of  impoverished children in his country and accepted donations.
+paragraph
+ A nonprofit founder who wanted a website that told the
+ story of impoverished children in his country and accepted donations.
 
-These are just a handful of real people with real ideas who are  frustrated by the current tools.
+paragraph
+ These are just a handful of real people with real ideas who
+ are frustrated by the current tools.
 
-<h3>The problem</h3>
+title3 The problem
 
-<p class="lead">The fact is, people want to do millions of different things  with their websites, but the only two options are to use a tool that limits  your creative potential or to program your site from scratch. Neither option  is ideal.</p>
+paragraph
+ The fact is, people want to do millions of
+ different things  with their websites, but the only two
+ options are to use a tool that limits your creative
+ potential or to program your site from scratch. Neither
+ option is ideal.
 
-<h3>The solution</h3>
-Which is why we're building a third option. We are building an open source,  general purpose IDE for building websites.
+title3 The solution
 
-Here's a short video demonstrating how it works:
+paragraph
+ Which is why we're building a third option. We are building
+ an open source, general purpose IDE for building websites.
 
+paragraph
+ Here's a short video demonstrating how it works:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yh_EdtGpBak"  frameborder="0" allowfullscreen></iframe>
+paragraph
+ <a
+ href="https://www.youtube.com/watch?v=yh_EdtGpBak"><img
+ src="nudgepadYouTube.jpg"/></a>
 
-NudgePad is in early beta, but is powering a number of live websites  like these:
+paragraph
+ NudgePad is in early beta, but is powering a number of live websites  like these:
 
+paragraph
+ <img src="samples.gif">
 
-<img src="samples.gif">
+paragraph
+ Although we have a lot more to do to get to a stable
+ version 2.0, we thought the time was right to start
+ opening up NudgePad to more people and recruiting more help
+ for the project. We also want to get feedback on the core ideas in
+ NudgePad.
 
-Although we have a lot more to do to get to a stable version 2.0, we  thought the time was right to start opening up NudgePad to more people and  recruiting more help for the project. We also want to get feedback on the  core ideas in
-NudgePad.
+paragraph
+ To get involved, give NudgePad a try or <a
+ href="http://github.com/nudgepad">check out the source code
+ on GitHub.</a>
 
-To get involved, give NudgePad a try or <a href="http://github.com/nudgepad">check out the source code on GitHub.</a>
-
-We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future.  By this time next year, using NudgePad, it could be 100x faster and
-easier to build websites than it is today.
-
-
-<p>Published September 23rd 2013, 9:46:59 am</p>
+paragraph
+ We truly believe this new way to build websites--an IDE in
+ your browser-- is a faster way to build websites and the
+ way it will be done in the future. By this time next year,
+ using NudgePad, it could be 100x faster and easier to build
+ websites than it is today.
