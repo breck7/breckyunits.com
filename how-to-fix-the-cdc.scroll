@@ -1,0 +1,102 @@
+title How to fix the CDC
+
+date 2021-03-30
+
+paragraph
+ <b>The <a href="https://www.cdc.gov/">CDC</a> needs to
+ move to Git</b>. The CDC needs to move pretty much
+ <em>everything to Git</em>. And they should do it
+ <b>with urgency</b>. They should make it a priority to
+ never again publish anything without a link to a Git repo.
+ Not just papers, but also datasets and press releases.
+
+title3 How do you explain Git to a government leader?
+
+paragraph
+ Git is the "Global Information Tracker". It is software
+ that does three things that anyone can understand 1) git
+ makes lying hard 2) git makes sharing the truth easy 3) git
+ makes fixing mistakes easy.
+
+title3 Why does the CDC need to move to Git?
+
+paragraph
+ Because the CDC's publications are currently full of
+ misrepresentations, make it very hard to share the truth,
+ and are full of hard to fix mistakes.
+
+title3 Who builds on Git?
+
+paragraph
+ The whole world now builds on Git. The CDC is far
+ behind the times. Even Microsoft Windows, the biggest
+ proprietary software project in the world, <a
+ href="https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/">now builds on Git</a>.
+
+title3 What is Git?
+
+paragraph
+ <a href="https://en.wikipedia.org/wiki/Git">Git</a> is an
+ open source, very fast, very powerful piece of software
+ originally created by <a
+ href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus
+ Torvalds</a> (the same guy who created Linux) that makes
+ extensive use of principles from <a
+ href="https://en.wikipedia.org/wiki/Blockchain">blockchain<a/> and <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a>.
+
+
+title3 How can the CDC rapidly move to Git?
+
+title4 Double Down on Internal Leaders
+
+paragraph
+ The <a href="https://github.com/CDCgov">CDC's GitHub
+ account</a> has 169 repos and 10 people. I would
+ immediately promote every person working on these repos.
+ (There are probably one or two jokers in there but who cares,
+ it won't matter, just promote them all). Give them
+ everything they need to be successful. Give them raises.
+ Tell them part of their new job is to get everything the
+ CDC is invovled with published
+ to Git. This is probably really the only thing you need to
+ do, and these people can lead it from there.
+
+title4 Change Funding Requirements
+
+paragraph
+ Provide a hard deadline announcing that you will stop all
+ funding for any current grant recipient, researcher, or
+ company doing business of any kind who isn't putting their
+ sponsored work on a publically available Git server.
+
+title4 Education and Training
+
+paragraph
+ The CDC has 10,600 employees, so buying them all $20 worth
+ of great paper books on learning how to use Git would only
+ cost $201,200. For the most part, these are highly educated
+ people who are autodidacts and can probably learn enough
+ with just some books and websites, but for those who learn
+ better via courses or videos you can budget another $30 per
+ person for those. Then budget to ensure everyone is paid
+ for the time spent learning. We are still talking about far
+ less than 1% of the CDC's annual budget.
+
+
+title3 Why the urgency?
+
+paragraph
+ Because the CDC not only failed at it's mission by not
+ stopping COVID, but it continues to mishandle it. Mistake
+ after mistake. Miscommunication after miscommunication. I
+ just shook my head looking over an amateur hour report that
+ they just put out. It's sad and their #1 priority should be
+ to regain trust and to do that they need to focus on the
+ most trustworthy tool in information today: git.
+
+
+paragraph
+ <em>I am a computer scientist and former
+ software engineer at Microsoft, the University of Hawai'i
+ Cancer Center, and Our World in Data. Opinions are my
+ own.</em>
