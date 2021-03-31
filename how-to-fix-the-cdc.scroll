@@ -8,7 +8,10 @@ paragraph
  <em>everything to Git</em>. And they should do it
  <b>with urgency</b>. They should make it a priority to
  never again publish anything without a link to a Git repo.
- Not just papers, but also datasets and press releases.
+ Not just papers, but also datasets and press releases. It
+ doesn't matter under what account or on what service the
+ git repos a republished to—what matters is that <em>every
+ CDC publication includes a link to the Git repo</em>.
 
 title3 How do you explain Git to a government leader?
 
@@ -23,7 +26,9 @@ title3 Why does the CDC need to move to Git?
 paragraph
  Because the CDC's publications are currently full of
  misrepresentations, make it very hard to share the truth,
- and are full of hard to fix mistakes.
+ and are full of hard to fix mistakes. Preprints, Weekly
+ Reports, FAQs, press releases, all of these things need
+ links to the Gits.
 
 title3 Who builds on Git?
 
@@ -51,15 +56,16 @@ title4 Double Down on Internal Leaders
 
 paragraph
  The <a href="https://github.com/CDCgov">CDC's GitHub
- account</a> has 169 repos and 10 people. I would
- immediately promote every person working on these repos.
- (There are probably one or two jokers in there but who cares,
- it won't matter, just promote them all). Give them
- everything they need to be successful. Give them raises.
- Tell them part of their new job is to get everything the
- CDC is invovled with published
- to Git. This is probably really the only thing you need to
- do, and these people can lead it from there.
+ account</a> has 169 repos and 10 people (and I'm told many
+ hundreds of folks using pushing to Gits everywhere). I
+ would immediately promote every person working on these
+ repos. (There are probably one or two jokers in there but
+ who cares, it won't matter, just promote them all). Give
+ them everything they need to be successful. Give them
+ raises. Tell them part of their new job is to get
+ everything the CDC is invovled with published to Git. This
+ is probably really the only thing you need to do, and these
+ people can lead it from there.
 
 title4 Change Funding Requirements
 
@@ -67,7 +73,8 @@ paragraph
  Provide a hard deadline announcing that you will stop all
  funding for any current grant recipient, researcher, or
  company doing business of any kind who isn't putting their
- sponsored work on a publically available Git server.
+ sponsored work on a publically available Git server and
+ linking to it in all releases.
 
 title4 Education and Training
 
@@ -90,9 +97,9 @@ paragraph
  stopping COVID, but it continues to mishandle it. Mistake
  after mistake. Miscommunication after miscommunication. I
  just shook my head looking over an amateur hour report that
- they just put out. It's sad and their #1 priority should be
- to regain trust and to do that they need to focus on the
- most trustworthy tool in information today: git.
+ they just put out. It's sad and their number one priority
+ should be to regain trust and to do that they need to focus
+ on the most trustworthy tool in information today: git.
 
 
 paragraph
