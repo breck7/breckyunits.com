@@ -10,8 +10,8 @@ paragraph
  never again publish anything without a link to a Git repo.
  Not just papers, but also datasets and press releases. It
  doesn't matter under what account or on what service the
- git repos a republished to—what matters is that <em>every
- CDC publication includes a link to the Git repo</em>.
+ repos are republished to; what matters is that <em>every
+ CDC publication needs a link to a backing Git repo</em>.
 
 title3 How do you explain Git to a government leader?
 
@@ -57,15 +57,14 @@ title4 Double Down on Internal Leaders
 paragraph
  The <a href="https://github.com/CDCgov">CDC's GitHub
  account</a> has 169 repos and 10 people (and I'm told many
- hundreds of folks using pushing to Gits everywhere). I
- would immediately promote every person working on these
- repos. (There are probably one or two jokers in there but
- who cares, it won't matter, just promote them all). Give
- them everything they need to be successful. Give them
- raises. Tell them part of their new job is to get
- everything the CDC is invovled with published to Git. This
- is probably really the only thing you need to do, and these
- people can lead it from there.
+ hundreds more Git users). I would immediately promote every
+ person working on these repos. (There are probably one or
+ two jokers in there but who cares, it won't matter, just
+ promote them all). Give them everything they need to be
+ successful. Give them raises. Tell them part of their new
+ job is to get everything the CDC is invovled with published
+ to Git. This is probably really the only thing you need to
+ do, and these people can lead it from there.
 
 title4 Change Funding Requirements
 
