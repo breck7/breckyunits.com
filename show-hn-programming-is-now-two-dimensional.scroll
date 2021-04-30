@@ -1,41 +1,52 @@
 title Show HN: Programming is Now Two-Dimensional
 date 2017-06-21
 
-title2 Eureka!
+paragraph
+ <b>Eureka!</b> I wanted to announce something small, but slightly novel, and potentially useful.
 
-I wanted to announce something small, but slightly novel, and potentially useful.
+paragraph
+ What did I discover? That there might be useful general purpose programming languages that don't use any visible syntax characters at all.
 
-What did I discover? That there might be useful general purpose programming languages that don't use any visible syntax characters at all.
+paragraph
+ I call the whitespace-based notation <a href="https://treenotation.org/">Tree Notation</a> and languages built on top of it Tree Languages.
 
-I call the whitespace-based notation <a href="https://treenotation.org/">Tree Notation</a> and languages built on top of it Tree Languages.
-
-Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
+paragraph
+ Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
 
 code
  if true
   print Hello world
 
-This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
+paragraph
+ This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
 
+paragraph
+ <img src="3dprogram.png">
 
-<img src="3dprogram.png">
+paragraph
+ There are hundreds of very active programming languages, and they all have different syntax as well as different semantics.
 
+paragraph
+ I think there will always be a need for new semantic ideas. The world's knowledge domains are enormously complex (read: billions/trillions of concepts, if not more), machines are complex (billions of pieces), and both will always continue to get more complex.
 
-There are hundreds of very active programming languages, and they all have different syntax as well as different semantics.
+paragraph
+ But I wonder if we always need a new syntax for each new general purpose programming language. I wonder if we could unlock potentially very different editing environments and experiences with a simple geometric syntax, and if by making the syntax simpler folks could build better semantic tooling.
 
-I think there will always be a need for new semantic ideas. The world's knowledge domains are enormously complex (read: billions/trillions of concepts, if not more), machines are complex (billions of pieces), and both will always continue to get more complex.
+paragraph
+ Maybe there's nothing useful here. Perhaps it is best to have syntax characters and a unique syntax for each general purpose programming language. Tree Notation might be a bad idea or only useful for very small domains. But I think it's a long-shot idea worth exploring.
 
-But I wonder if we always need a new syntax for each new general purpose programming language. I wonder if we could unlock potentially very different editing environments and experiences with a simple geometric syntax, and if by making the syntax simpler folks could build better semantic tooling.
+paragraph
+ Thousands of language designers focus on the semantics and choose the syntax to best fit those semantics (or a syntax that doesn't deviate too much from a mainstream language). I've taken the opposite approach--on purpose--with the hopes of finding something overlooked but important. I've stuck to a simple syntax and tried to implement all semantic ideas without adding syntax.
 
-Maybe there's nothing useful here. Perhaps it is best to have syntax characters and a unique syntax for each general purpose programming language. Tree Notation might be a bad idea or only useful for very small domains. But I think it's a long-shot idea worth exploring.
+paragraph
+ Initially I just looked at Tree Notation as an alternative to declarative format languages like JSON and XML, but then in a minor "Eureka!" moment, realized it might work well as a syntax for general purpose Turing complete languages across all paradigms like functional, object-oriented, logic, dataflow, et cetera.
 
-Thousands of language designers focus on the semantics and choose the syntax to best fit those semantics (or a syntax that doesn't deviate too much from a mainstream language). I've taken the opposite approach--on purpose--with the hopes of finding something overlooked but important. I've stuck to a simple syntax and tried to implement all semantic ideas without adding syntax.
+paragraph
+ Someday I hope to have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax.
 
-Initially I just looked at Tree Notation as an alternative to declarative format languages like JSON and XML, but then in a minor "Eureka!" moment, realized it might work well as a syntax for general purpose Turing complete languages across all paradigms like functional, object-oriented, logic, dataflow, et cetera.
+paragraph
+ I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled <a href="https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf">Tree Notation: an antifragile program notation</a>. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
 
-Someday I hope to have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax.
-
-I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled <a href="https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf">Tree Notation: an antifragile program notation</a>. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
-
-Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a <a href="https://srfi.schemers.org/srfi-49/srfi-49.html">very similar notation</a> years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
+paragraph
+ Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a <a href="https://srfi.schemers.org/srfi-49/srfi-49.html">very similar notation</a> years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
 

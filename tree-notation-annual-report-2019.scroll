@@ -2,13 +2,18 @@ title 2019 Tree Notation Annual Report
 date 2020-12-09
 permalink tree-notation-annual-report-2019
 
-<em>Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests".</em>
+paragraph
+ <em>Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests".</em>
 
-In 2017 I wrote a <a href="https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html">post</a> about a half-baked idea I named <a href="https://treenotation.org/">Tree Notation</a>.
+paragraph
+ In 2017 I wrote a <a href="https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html">post</a> about a half-baked idea I named <a href="https://treenotation.org/">Tree Notation</a>.
 
-Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax."
+paragraph
+ Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax."
 
-My template for this (and maybe future) reports will be as follows:
+paragraph
+ My template for this (and maybe future) reports will be as follows:
+
 
 1. <a href="#status">High level status</a>
 2. <a href="#problem">Restate the problem</a>
@@ -204,11 +209,11 @@ I put the breaks on that for three reasons. The first is I just don't have a par
 
 There is a loose confederation of folks I work on this idea with, but no formal organization with an office so far.
 
-title2 Conclusion
+title3 Conclusion
 
 That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
-title3 Notes
+title5 Notes
 
 <a name="note-research"></a>
 ^ Regardless of whether or not Tree Notation turns out to be a good idea, as one part of the effort to prove/disprove it I've built a lot of big datasets on languages and notations, which seem to be useful for other people. Credit for that is due to a number of people who advised me back in 2017 to "learn to research properly".
