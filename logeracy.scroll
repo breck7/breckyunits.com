@@ -2,7 +2,7 @@ title Logeracy
 date 2021-04-26
 
 paragraph
- I coined a new word for the world<proof/>. <b><em>Logeracy</em></b>. I define it roughly as the ability to think in <a href="https://en.wikipedia.org/wiki/Logarithm">logarithms</a>. It mirrors the word <a href="https://en.wikipedia.org/wiki/Literacy">literacy</a>.
+ I present a new word<proof/>. <b><em>Logeracy</em></b>. I define it roughly as the ability to think in <a href="https://en.wikipedia.org/wiki/Logarithm">logarithms</a>. It mirrors the word <a href="https://en.wikipedia.org/wiki/Literacy">literacy</a>.
 
 paragraph
  Someone literate is fluent with reading and writing. Someone logerate is fluent with orders of magnitudes and the ubiquitous mathematical functions that dominate our universe.
@@ -20,7 +20,7 @@ paragraph
  Someone literate can read and write an address on the front of the envelope.
  Someone logerate can use the <a href="https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation">back of the envelope</a>.
 
-title2 Illogeracy
+title4 Illogeracy
 
 paragraph
  The opposite of logeracy is <em>illogeracy</em>: the inability to think in logarithms. An illogerate person is one who frequently gets the orders of magnitude wrong.
@@ -40,7 +40,7 @@ paragraph
 paragraph
  An illogerate is one who may be familiar with exponentials but unfamiliar with <a href="https://en.wikipedia.org/wiki/Sigmoid_function">sigmoids</a>.
 
-title2 Measuring Logeracy
+title4 Measuring Logeracy
 
 paragraph
  No country or organization measures logeracy yet<email/>. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
@@ -48,7 +48,7 @@ paragraph
 paragraph
  Countries have been <a href="https://ourworldindata.org/literacy">measuring literacy</a> for hundreds of years now. <a href="https://ourworldindata.org/literacy"><img src="literacy.png"/></a> As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
 
-title2 The upside of logeracy
+title4 The upside of logeracy
 
 paragraph
  Logeracy is how engineering works. Good engineers fluently and effortlessly work across scales. If we want to be an interplanetary species, we first must become a more logerate species.
@@ -59,7 +59,7 @@ paragraph
 paragraph
  You don't get wealthy without logeracy. An illogerate and his money are soon parted. <a href="https://en.wikipedia.org/wiki/Compound_interest">Compound interest</a> is a tool of the logerate. Money doesn't buy happiness, but the <a href="https://en.wikipedia.org/wiki/Kelly_criterion">logarithm of money</a> does.
 
-title2 Where is logeracy currently taught well?
+title4 Where is logeracy currently taught well?
 
 paragraph
  My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in <a href="https://en.wikipedia.org/wiki/Big_O_notation">Big O notation</a><bigO/>. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
@@ -73,27 +73,27 @@ paragraph
 paragraph
  It would be interesting to see logeracy rates across industries. Perhaps measuring that would lead to progress.
 
-title2 How much logeracy is the average person taught?
+title4 How much logeracy is the average person taught?
 
 paragraph
  My high school chemistry teacher first exposed me to logeracy when she taught me <a href="https://en.wikipedia.org/wiki/Scientific_notation">Scientific Notation</a>. That was probably the only real drilling I got in logeracy before getting into Computer Science. Scientific Notation is a handy notation and a great introduction to logeracy, but logeracy is so important that it probably deserves its own dedicated class in high schools where it is drilled repeatedly from many difference perspectives.
 
-title2 What are some good books for improving logeracy?
+title4 What are some good books for improving logeracy?
 
 paragraph
  I would recommend "The Art of Doing Science and Engineering: Learning to Learn" by Hamming. That's maybe the most logerate book I've ever read. I also love Taleb's Incerto series (ie Fooled by Randomness, Black Swan, Antifragile...).
 
-title2 Is logeracy fractal?
+title4 Is logeracy fractal?
 
 paragraph
  Yes<guess/>. Some industries, like engineering, demand logeracy. A randomly selected engineer is likely to be 10x+ more logerate than a randomly selected member of the general population. But what about the distribution of logeracy within a field? Only recently did it occur to me how fractal logeracy is. A surprising number of engineers I've worked with seem to compartmentalize their logerate thinking to their work and act illogerate in fields outside of their own. In Hamming's book I was surprised to read over and over again how very few engineers he worked with (at the world's top "logerate" organizations) operated with his level of logeracy. Logeracy seems fractal.
 
-title2 Can you be too logerate?
+title4 Can you be too logerate?
 
 paragraph
  I don't think so. However, I do believe you can be out of balance. One needs to be <em>linerate</em><uhoh/> as well as logerate. We have so many adages for people that focus <em>too much</em> on the dominant-in-time term of an equation and not enough about the linear but dominant-now parts. Adages like "head in the clouds", "crackpot", "ahead of her time". We also have common wisdom for how to avoid that trap "a journey of a single step...", "do things that don't scale", so it is likely that being extremely logerate without lineracy is a real pitfall to be aware of.
 
-title2 What about the term Numeracy?
+title4 What about the term Numeracy?
 
 paragraph
  I read Innumeracy and Beyond Numeracy by Paulos over a decade ago<numeracy/>. I love those books (and it's been too long since I reread them).
@@ -104,12 +104,12 @@ paragraph
 paragraph
  Numeracy is sort of like knowing the letters of the alphabet. Knowing the letters is a necessary thing on the path to literacy, but not that useful by itself. Likewise, being numerate is a step to being logerate, but the real bang for your buck comes with logeracy.
 
-title2 The Illogeracy Epidemic
+title4 The Illogeracy Epidemic
 
 paragraph
  Literacy without logeracy is dangerous. My back-of-the-envelope guess is that over 80% of writers and editors in today's media are illogerate (or perhaps are just acting like it in public). 2020 was an eye opening year for me. I had vastly underestimated how prevalent illogeracy was in our society. I am tired of talking about the pandemic, but to this day in the news I see a steady stream of "leaders" obliviously promoting their illogeracy, and walking around outside I see a huge percentage of my fellow citizens demonstrating the same. I would guess currently over 60% of America is illogerate. The funny thing is it may be correlated with education—if you are educated as a non-engineer you perhaps are more likely to be illogerate than a high school dropout, because you rely too much on your literacy and are oblivious to your illogeracy. I am very interested to see data on rates of logeracy.
 
-title2 Let's get to 99%+ logeracy
+title4 Let's get to 99%+ logeracy
 
 paragraph
  I wrote my first post on <a href="https://breckyunits.com/orders-of-magnitude.html">Orders of Magnitudes</a> nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: <b>become logerate</b>. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
