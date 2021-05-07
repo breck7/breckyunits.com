@@ -1,0 +1,33 @@
+title vim macros
+date 2010-3-9
+permalink vim-macros
+
+code
+ /**
+ * Returns the sum of 2 variables.
+ *
+ * @param int $a
+ * @param int $b
+ * @return int $sum
+ */
+ function sum($a, $b)
+ {
+ $sum = $a + $b;
+ return $sum;
+ }
+
+You can record a macro to help speed up the commenting process.
+
+Just type <code>q</code> followed by the letter you want to assign the macro to (in this case let's use <code>c</code>), type your keystrokes, then hit <code>q</code> again to stop recording. Now hit <code>c</code> to replay your macro.
+
+You can overwrite the macro by repeating the above steps.
+
+Bonus tip:
+
+<b>Bookmarks</b>.Use <code>m</code> + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
+
+<b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
+
+Notes
+1. <a href="http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html">Vim macro tutorial</a>.
+2. <a href="http://jmcpherson.org/editing.html">Another great vim resource.</a>

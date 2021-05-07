@@ -1,0 +1,13 @@
+title Turn off bell in cygwin
+date 2010-0-11
+permalink turn-off-bell-in-cygwin
+
+code
+ vim ~/.inputrc
+ 
+ (Then add or uncomment this line)
+ 
+ set bell-style none
+
+paragraph
+ Save and restart your shell.

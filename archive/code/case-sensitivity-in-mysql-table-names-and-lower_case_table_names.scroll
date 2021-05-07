@@ -1,0 +1,22 @@
+title Case sensitivity in MySQL table names and lower_case_table_names
+date 2010-2-27
+permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names
+
+
+On Windows, filenames are not case sensitive. <code>file</code> and <code>File</code> are the same file.
+
+MySQL saves a database to disk. A "database" is saved in a directory, and each table is saved as a file in that folder.
+
+Thus, say you transfer a database from Linux to Windows that has a table named "userBookmarks", this might cause a problem for you because MySQL on Windows will likely interpret it as "userbookmarks".
+
+There's a setting in your my.cnf file called "lower_case_table_names".
+
+The options are 0, 1, and 2.
+
+1 is the default, and you shouldn't need to change it.
+
+If you change it to 0 on Windows, you might run into problems. If you change it to 2, it doesn't seem to do much.
+
+So what's the solution? Try to avoid capital letters in table names (use _ instead of camel case). When you can't do that, write your code for the Linux database (ie "select * from userBookmarks"), and your queries should translate fine on Windows since Windows will convert that to "select * from userbookmarks".
+
+

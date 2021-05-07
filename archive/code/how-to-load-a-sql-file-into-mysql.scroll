@@ -1,0 +1,9 @@
+title How to load a sql file into MySql
+date 2010-1-6
+permalink how-to-load-a-sql-file-into-mysql
+
+
+code
+ mysql -u username -p < sqlfile.sql
+
+Make sure your sql file has a "use database" line.

@@ -1,0 +1,1379 @@
+#! /usr/bin/env node /usr/local/bin/jtree
+
+file about-this-blog.scroll
+ data
+  title About this Blog
+  date 2009-11-18
+  permalink about-this-blog
+  
+  
+  This is it.
+file get-vim-working-in-cygwin.scroll
+ data
+  title Get VIM Working in Cygwin
+  date 2009-11-20
+  permalink get-vim-working-in-cygwin
+  
+  
+  Specifically, the backspace and arrow keys were behaving badly in insert mode.
+  
+  The solution was dead simple.
+  
+  Just run:
+  
+  <blockquote>touch .vimrc</blockquote>
+  
+  in your root directory. 
+  
+  Links:
+  <a href="http://www.daniel-lemire.com/blog/archives/2005/02/17/using-vim-under-cygwin/">Found this solution in the comment from Gregg</a>
+  <a href="http://jmcpherson.org/vimrc.html">vimrc</a>
+  
+file ssh-into-your-server-without-a-password.scroll
+ data
+  title SSH into your server without a password
+  date 2009-11-20
+  permalink ssh-into-your-server-without-a-password
+  
+  
+  <blockquote>vim /etc/ssh/sshd_config</blockquote>
+  
+  Make sure allow rsa and the other RSA lines are uncommented
+  
+  <blockquote>service sshd restart</blockquote>
+  
+  Make sure the file ~/.ssh/authorized_keys exists(if it doesn't, make that directory and touch that file).
+  
+  Run this on your client computer:
+  
+  <blockquote>ssh-keygen -t rsa</blockquote>
+  
+  (hit enter a bunch of times)
+  
+  <blockquote>cat ~/.ssh/id_rsa.pub | ssh YOURUSERNAME@YOURDOMAIN.com "cat - >> ~/.ssh/authorized_keys"</blockquote>
+  
+  
+  Bam! Login without a password!
+  
+  This is my setup on Fedora VM's running at slicehost.
+  
+  ### If you are having problems
+  
+  1. Run sshd with the verbose option. -v
+  
+  2. The problem is likely due to bad file permissions. The owner of the directory .ssh should be your user/group. The file permissions on it should be: 755. (I think)
+  
+  authorized_keys should be the same owner/group and file permissions should be: 644
+file use-rsync-to-deploy-your-website.scroll
+ data
+  title Use rsync to deploy your website
+  date 2009-11-21
+  permalink use-rsync-to-deploy-your-website
+  
+  
+  Here's a one line command to deploy brecksblog:
+  
+  > rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
+  
+  This one line will do a fast, incremental file transfer from my local directory to the web server. 
+  
+  I saved this file as "deploy", and then run it by typing:
+  
+  > ./deploy
+  
+  The exclude option will exclude a file or directory from being synced.
+  
+  Here's an <a href="http://ubuntuforums.org/showthread.php?t=251516">explanation</a> about the options I use:
+  
+  I use rsync with these options:
+  
+  > rsync -arvuz /src/foo/ /dest/foo
+  
+  this will copy the contents of /src/foo/ into /dest/foo
+  
+  options explained:
+  
+  - a: archive mode (keep owner and permissions)
+  - r: recurse into directories
+  - v: increase verbosity
+  - u: update only (don't overwrite newer files - if you have edited files in destination)
+  - z: compress file data
+  
+  
+  Notes 
+  
+  1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
+file use-grep-to-search-multiple-files-at-once.scroll
+ data
+  title Use grep to search multiple files at once
+  date 2009-11-22
+  permalink use-grep-to-search-multiple-files-at-once
+  
+  
+  I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
+  
+  <blockquote>grep -r picture *</blockquote>
+  
+  This searched all the files in my current directory as well as all the files in each subdirectory, and printed the filename and line where the word "picture" appeared.
+  
+  Then I went in and changed the 2 files that needed modifying.
+  
+  Had I wanted to just search the current directory (without the subdirectories) I could have done:
+  
+  <blockquote>grep picture *.*</blockquote>
+  
+  This would have searched through all the files in the current directory.
+  
+  Had I wanted to search in just 1 specific file:
+  
+  <blockquote>grep picture filename.txt</blockquote>
+  
+  Had I wanted to do a case insensitive search:
+  
+  <blockquote>grep -ir picture *</blockquote>
+  
+  Had I wanted to exclude a directory and done a case insensitive search:
+  
+  <blockquote>grep -ri "searchstring" --exclude="*\.svn*" *</blockquote>
+  
+  (grep uses regular expressions)
+  
+  Links
+  1. <a href="http://en.wikipedia.org/wiki/Grep">Wikipedia grep</a>
+  2. <a href="http://stackoverflow.com/questions/221921/grep-exclude-include-syntax-do-not-grep-through-certain-files">Stackoverflow</a>.
+file cron-in-2-steps.scroll
+ data
+  title cron in 2 steps
+  date 2009-11-25
+  permalink cron-in-2-steps
+  
+  
+  For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.
+  
+  <b>Step 1: Write the cron command</b>
+  
+  Here is the cron command you would need:
+  
+  <blockquote>0  *  *  *  *  wget http://yourdomain.com/backup.zip</blockquote>
+  
+  You can either memorize the <a href="http://en.wikipedia.org/wiki/Cron#crontab_syntax">crontab syntax</a>, or just this simple Javascript <a href="http://www.openjs.com/scripts/jslibrary/demos/crontab.php">crontab gui</a> will easily generate the code for you.
+  
+  <b>Step 2: Append the command to your crontab file</b>
+  
+  There are 2 crontab files that get executed every minute. 1 of them is found in /etc or similar and is controlled by root only. In addition, each user can have a crontab.
+  
+  To add your command to crontab type:
+  
+  <blockquote>crontab -e</blockquote>
+  
+  This will open vim, and you can then paste and save your crontab file.
+  
+  Viola!
+  
+  Notes:
+  1. If you are using cron in cygwin, follow <a href="http://www.newmedialogic.com/node/33">these steps</a> after installing the cron package with the cygwin installer to install cron as a service:
+  
+  <blockquote>cygrunsrv -I cron -p /usr/sbin/cron -a D
+  
+  net start cron</blockquote>
+  
+  If there are problems, check the cron.log file in your home directory.
+  
+  
+file use-the-linux-find-command-to-find-files.scroll
+ data
+  title Use the linux find command to find files
+  date 2009-11-25
+  permalink use-the-linux-find-command-to-find-files
+  
+  
+  <blockquote>find -name "breck*"</blockquote>
+  
+  Will search the current directory <em>and all subdirectories</em> for files starting with the word "breck".
+file fix-permission-problems-using-chmod.scroll
+ data
+  title Fix permission problems using chmod
+  date 2009-11-25
+  permalink fix-permission-problems-using-chmod
+  
+  
+  <blockquote>chmod -R 755 directoryname</blockquote>
+  
+  Change the file permissions of all directories and files in directoryname to 755.
+file what-non-web-software-do-you-use-the-most.scroll
+ data
+  title What non-web software do you use the most?
+  date 2009-11-26
+  permalink what-non-web-software-do-you-use-the-most
+  
+  
+  What software do you use the most? What are your "must haves"?
+  
+  <b>My Machines</b>
+  
+  My primary development machine is a basic Compaq laptop with 4GB, 230GB, x2 Core Athlon, running Windows Vista/7. 
+  
+  My secondary machine is an Asus EEE netbook with XP which is great for working on the road, at a coffee shop, or on a plane. 
+  
+  Most of our servers are slices from slicehost running Fedora.
+  
+  On all my development machines I run Cygwin. Programs I run in Cygwin are noted by *. 
+  
+  The following is a list of the programs I use on my development machines.
+  
+  <h2>Daily</h2>
+  
+  <b>Cygwin</b>. I prefer Windows+cygwin over Macs, Fedora or Ubuntu, or Windows plus running virtualized machines.
+  
+  <b>Notepad++</b>. I do half my editing in Notepad++ and half in Vim. I love Notepad++'s speed, reliability, and autocomplete.
+  
+  <b>Dropbox</b>. Completely changed how I work. Allows me to work from multiple computers seamlessly. Allows me to share files easily with clients, family, and friends. Reinstalling Windows (which I do a few times per year), is made easy because all my important files are kept on my dropbox. The fact that install and uninstall is so easy and doesn't require a reboot really impresses me.
+  
+  <b>WAMP</b>. The "AMP" stack is what I develop for mostly. WAMP gives me an easy local testing environment to try things out before pushing to a server.
+  
+  <b>Chrome</b>. I spend most of my web time in Chrome. It's lighting fast. It's also simple. Tabs are done incredibly well.
+  
+  <b>Firefox</b>. Still need this guy. The extensions are great. Firebug and the Web Developer's Extension I use at least weekly, close to daily. It's also nice to have 2 browsers going if you want to log in to the same site with 2 different accounts.
+  
+  <b>Skype</b>. I don't use a cellphone, believe it or not. My Google Voice number points to my Skype In number. Skype allows me to not have a cellphone, which I greatly appreciate. My sister can call me from the Middle East just as easily and for the same price that my neighbors can call me from down the street.
+  
+  <b>*Vim</b>. The only Nix editor I know and love. Vim took me a while to learn, but is becoming more and more indispensable the better I get at "typing in Vim". 
+  
+  <b>*Git</b>. Easy to use version control that makes sense. Paired with github, becomes indispensable.
+  
+  <b>*Rsync</b>. Great for deploying simple websites and for downloading backups.
+  
+  <b>*Grep</b>. Great when you need to track down a word or line across multiple files.
+  
+  <b>*Find</b>. Simple and easy for finding files. I also use find over Windows 7's search occasionally.
+  
+  <b>*Cron</b>. Simple and essential.
+  
+  <b>*SSH</b>. Of course.
+  
+  <b>*Ruby</b>. I keep irb running in a window when I need to do quick calculations.
+  
+  <h2>Weekly</h2>
+  
+  <b>Navicat</b>. Great way to keep an eye on databases. I also like it for creating and editing schemas. Find it easier to visualize a schema than to code it out.
+  
+  <b>Filezilla</b>. Occasionally when I just want to drag and drop some things from or to a server. 
+  
+  <b>Photoshop</b>. I use an old version of Photoshop which is still way to advanced for me. But it's fast and gets the job done.
+  
+  <b>7zip</b>. "Extract to here" is a great little feature that it adds to the right click menu.
+  
+  <b>Word & Excel 2007</b>. Solid programs. Too bulky for my liking, but necessary in many cases.
+  
+  <h2>Monthly</h2>
+  
+  <b>Visual Studio</b>. When I get an urge to write a new desktop program. 
+file use-git-to-get-the-latest-source-code-only.scroll
+ data
+  title Use git to get the latest source code only
+  date 2009-11-27
+  permalink use-git-to-get-the-latest-source-code-only
+  
+  
+  <blockquote>git clone --depth 1 git://github.com/breck7/brecksblog.git</blockquote>
+file how-i-organize-my-dropbox.scroll
+ data
+  title How I organize my Dropbox
+  date 2009-11-27
+  permalink how-i-organize-my-dropbox
+  
+  
+  Email works great for search. For files though, sorting is often better.
+  
+  I have well over 20GB of files synced onto my Dropbox.
+  
+  The rest of my computer is spotless(I use Windows 7 and do a fresh install every 30-60 days).
+  
+  But the Dropbox can get cluttered.
+  
+  I take a simple approach that is a hybrid of search and sort. Here's how to do it:
+  
+  <blockquote>Put files into 2 sections: 
+  -Put commonly accessed folders in the root directory.
+  -Put everything else in a "Search" directory, which is in the Dropbox root directory.</blockquote>
+  
+  - Create a folder in your root Dropbox directory named "Search". Plop anything in here.
+  - Keep your most common folders in the root Dropbox directory. Sort these ones.
+  - Every few weeks, move any rarely used files and folders into the "Search" directory. Bring any commonly used files and folders back out to the root Dropbox directory.
+  
+  <b>End Result</b>
+  
+  Here's what the end result may look like:
+  
+  -My Dropbox
+  --Music
+  --Photos
+  --Blog
+  --eBooks
+  --Company Docs
+  --Search
+  
+  
+  The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
+  
+  This a hybrid of search and sort.
+  
+  Notes
+  1. All of my coding work is done in my cygwin home directory and then pushed to github. These are the only files that I don't store in Dropbox, but I push them frequently so don't worry much about losing them. 
+  
+file use-aliases-to-save-time.scroll
+ data
+  title Use aliases to save time
+  date 2009-11-28
+  permalink use-aliases-to-save-time
+  
+  
+  <blockquote>alias www='cd /var/www/html/'</blockquote>
+  
+  Instead of typing "cd /var/www/html/" to enter your web directory, now you can enter "www", a savings of at least 14 keystrokes each time you use it.
+  
+  This one will switch to the usr/sbin directory, restart apache, then switch to your home directory:
+  
+  <blockquote>alias apr='cd /usr/sbin/;sudo ./apachectl restart;cd'</blockquote>
+  
+  You can also just do:
+  
+  <blockquote>alias apr='/usr/sbin/apachectl restart'</blockquote>
+  
+  But the earlier example shows how you can string multiple commands together.
+  
+  <b>Bonus tip</b>
+  
+  Place these aliases in your HOME/.bash_profile file and they will be available each time you login to your machine.
+  
+  
+  Notes
+  1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
+file create-a-new-user-in-linux.scroll
+ data
+  title Create a new user in Linux
+  date 2010-0-5
+  permalink create-a-new-user-in-linux
+  
+  
+  <blockquote>useradd bob
+  
+  passwd bob
+  </blockquote>
+  
+  This adds a user "bob" and then prompts you to enter a password.
+file learn-symbolic-links-in-30-seconds.scroll
+ data
+  title Learn Symbolic Links in 30 seconds
+  date 2010-0-5
+  permalink learn-symbolic-links-in-30-seconds
+  
+  
+  Here's all you need to know:
+  
+  <blockquote>ln -s actual_file_or_directory new_symbolic_link_name</blockquote>
+  
+  Let's do a real example from your home directory:
+  
+  <blockquote>ln -s /var/www/html/yourwebsiteroot/yourblog blog</blockquote>
+  
+  Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
+  
+  Here's one more example from your home directory:
+  
+  <blockquote>ln -s /etc/httpd/conf/httpd.conf httpd.conf</blockquote>
+  
+  Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
+  
+  You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
+  
+  Notes
+  1. <a href="http://breckyunits.com/code/use_aliases_to_save_time">Aliases</a> are another great time saver.
+file git-clone-without-history.scroll
+ data
+  title git clone without history
+  date 2010-0-11
+  permalink git-clone-without-history
+  
+  
+  <blockquote>git clone --depth 1 your_repo_url</blockquote>
+  
+  <a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
+file turn-off-bell-in-cygwin.scroll
+ data
+  title Turn off bell in cygwin
+  date 2010-0-11
+  permalink turn-off-bell-in-cygwin
+  
+  
+  <blockquote>vim ~/.inputrc
+  
+  (Then add or uncomment this line)
+  
+  set bell-style none
+  </blockquote>
+  
+  Save and restart your shell.
+file list-only-directories-using-ls.scroll
+ data
+  title List only directories using ls
+  date 2010-0-13
+  permalink list-only-directories-using-ls
+  
+  
+  <blockquote>ls -l | egrep '^d'</blockquote>
+  
+  Add this to your .bash_profile and now you can just type "lsd" when you want list only directories. Who said lsd was a bad thing?
+  
+  <blockquote>alias lsd="ls -l | egrep '^d'"</blockquote>
+  
+  Notes
+  1. Found this <a href="http://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/">tip here</a>.
+file seven-aliases-that-can-save-you-time.scroll
+ data
+  title Seven aliases that can save you time
+  date 2010-0-13
+  permalink seven-aliases-that-can-save-you-time
+  
+  
+  alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
+  alias www='cd /var/www/html/' # enter your root web directory
+  alias hconf='vim /etc/httpd/conf/httpd.conf' # edit your apache config file
+  alias eprof='vim ~/.bash_profile' # edit this file
+  alias rprof='source ~/.bash_profile' # reload this file (after making edits)
+  alias pconf='vim /etc/php.ini' # edit php.ini
+  alias lsd="ls -l | egrep '^d'" # list only directories
+file how-to-fix-an-overwhelmed-gmail-accout.scroll
+ data
+  title How to fix an overwhelmed Gmail Accout
+  date 2010-0-17
+  permalink how-to-fix-an-overwhelmed-gmail-accout
+  
+  
+  Since then:
+  <ul>
+  <li>I've made dozens of other emails that forward to this address.</li>
+  <li>I've signed up for hundreds of web apps and newsletters.</li>
+  </ul>
+  As a result, my Gmail account gets inundated with email. Here are the stats:
+  
+  - 16,054 unread emails in my inbox
+  - 29,236 emails total in my inbox
+  - ?? who knows how many total emails in my archive
+  - 3.683 GB of email
+  - Using 49% of my Gmail quota
+  
+  My Gmail account had become a firehose.
+  
+  This was bad for two reasons.
+  
+  First, I started missing important emails. Not many, but a few per month. I had to write my own <a href="http://github.com/breck7/checkmygmail/">simple Bayes filter</a> to find them. 
+  
+  Second, I couldn't do what most people do: use my inbox as a "todo" list. Most people immediately archive or delete an email when they're done with it. This is a great organizational trick. I wanted to do this again.
+  
+  I considered starting a new email address and giving it out to important people, but that seemed like it would make my life more complex.
+  
+  As it turns out, the solution was simple.
+  
+  - Started liberally using the "Spam" button. I started clicking Spam on pretty much any type of mass email that wasn't very interesting to me. Will be interesting to see how this plays out.
+  - Starred all the recent messages that I still had to deal with.
+  - Archived all 29,000+ of my gmail messages at once.
+  - Went back to the starred folder and moved the important messages to inbox.
+  
+  
+  Notes
+  1. Thanks to this site for telling me how to <a href="http://www.supriyadisw.net/2008/04/how-to-archive-all-your-gmail-messages">archive all my gmail messages</a>.
+  
+  
+file bash-variables.scroll
+ data
+  title Bash variables
+  date 2010-0-18
+  permalink bash-variables
+  
+  $ FIVE=5
+  $ echo $FIVE
+  5
+  $ echo "The number five is $FIVE"
+  </blockquote>
+  <b>Variable scope</b>
+  
+  A shell script will launch a new shell that has a fresh scope.
+  <blockquote>
+  $ FIVE = 5
+  $ vim myshellscript.sh
+  #!/bin/bash
+  echo $FIVE
+  $ ./myshellscript.sh
+  </blockquote>
+  Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
+  
+  <b>Export command.</b>
+  
+  Use the export command to change the scope of your variable to global for your shell.
+  
+  To make a permanent global variable, add it to your .bash_profile like so:
+  <blockquote>
+  MY_NAME=breck; export MY_NAME
+  </blockquote>
+  <b>Accept input.</b>
+  
+  Use the read command to accept input.
+  <blockquote>
+  echo "What is 1+1?"
+  read ANSWER
+  echo "Your answer is $ANSWER"
+  </blockquote>
+  
+  
+  Notes
+  1. <a href="http://steve-parker.org/sh/variables1.shtml">Bash tutorial</a>
+  2. <a href="http://www.mcsr.olemiss.edu/unixhelp/environment/env3db.html">Another tutorial</a>.
+  3. <a href="http://steve-parker.org/sh/variables2.shtml">Bash parameters</a>
+file unix-date-command.scroll
+ data
+  title Unix date command
+  date 2010-0-19
+  permalink unix-date-command
+  
+  
+  date +%s
+  
+  Handy way to view it from the command line.
+  
+file use-sed-to-find-and-replace.scroll
+ data
+  title Use sed to find and replace
+  date 2010-0-20
+  permalink use-sed-to-find-and-replace
+  
+  
+  Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
+  
+  You can fix all occurrences using this one-liner:
+  
+  <blockquote>sed 's/imposible/impossible/g' stuff.txt</blockquote>
+  
+  Often it's more helpful to sed across multiple files.
+  
+  <blockquote>sed -i 's/1.0.1/"1.0.1"/g' *.php</blockquote>
+  
+  That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
+  
+  
+  
+  Notes
+  1. <a href="http://www.grymoire.com/Unix/Sed.html">sed tutorial</a>.
+  2. <a href="http://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html">find and replace with sed</a>.
+  3. <a href="http://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm">about.com on sed</a>.
+  4. <a href="http://drupal.org/node/128513">Very clear examples</a>.
+file clear-screen-in-cygwin.scroll
+ data
+  title Clear screen in cygwin
+  date 2010-0-20
+  permalink clear-screen-in-cygwin
+  
+  
+file use-scp-to-download-a-file-from-a-server.scroll
+ data
+  title Use scp to download a file from a server
+  date 2010-0-21
+  permalink use-scp-to-download-a-file-from-a-server
+  
+  
+  <blockquote>scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt</blockquote>
+  
+  This will download the file from your server to your local computer.
+file the-only-5-git-commands-you-need-to-know.scroll
+ data
+  title The only 5 git commands you need to know
+  date 2010-0-23
+  permalink the-only-5-git-commands-you-need-to-know
+  
+  
+  Nothing--they both don't exist!
+  
+  If *every single great programmer* uses version control, why do some beginning programmers avoid it?
+  
+  Because version control is made to seem intimidating. 
+  
+  But version control is actually very easy!
+  
+  If you are new to version control, there are only 5 commands you need to memorize. Can you memorize 5 words? Of course you can.
+  
+  So memorize these 5 words and you'll be practically an expert at version control:
+  
+  > init
+  >
+  > add
+  >
+  > status
+  >
+  > commit
+  >
+  > push
+  
+  If you just start playing around with these 5 and only these 5 commands, you'll become a git master in no time. 
+  
+  Here's a simple practice session you can follow to start getting good.
+  
+  ### What is git?
+  
+  Git is a simple command line program like "wget" or "vim" that you install and use by typing commands. If you don't have git installed, try one of these commands:
+  
+  > yum install git-core
+  >
+  > apt-get install git-core
+  >
+  > sudo port install git-core
+  
+  Let's say you're creating a new website for your mom and want to use version control to do it.
+  
+  > mkdir moms_website
+  >
+  > cd moms_website
+  >
+  > git init
+  
+  This creates a git repository. Now type:
+  
+  > ls -a
+  
+  Do you see the new ".git" directory? That's the git repository. It's basically a folder that stores the whole history of your project. Now, when you type a git command, it will do something with the files in that folder. That's all that's really going on. You never need to go into that folder manually, I was just explaining what git is doing.
+  
+  Now, let's create a file and add it to your repository.
+  
+  > vim index.php
+  >
+  > Hello World
+  >
+  > :wq
+  >
+  > git status
+  
+  This will show the presence of an untracked file, "index.php". Let's add this file.
+  
+  > git add index.php
+  
+  You've now added the file to git, let's *commit* our changes.
+  
+  > git commit -m "first commit"
+  
+  Now you've made your first commit. 
+  
+  The last command you'll need is *push*. It works like this:
+  
+  > git push
+  
+  That will upload your repository to an online host like github so that other people can collaborate.
+  
+  Create a github account and follow the instructions for creating a new repository to test out this final command.
+  
+  That's it! Those are the 5 commands you'll use over and over again. Master those and slowly you'll start learning a few other helpful git commands.
+  
+  #### Recap
+  
+  > git init
+  >
+  > git status
+  >
+  > git add *filename*
+  >
+  > git commit -m *"your message about what you changed and why"*
+  >
+  > git push
+file run-multiple-commands-at-once.scroll
+ data
+  title Run multiple commands at once
+  date 2010-0-26
+  permalink run-multiple-commands-at-once
+  
+  
+  For instance:
+  
+  > cd;ls
+  
+  This will change the directory to your home directory, then list the contents. You can use as many semicolons as you wish.
+  
+  Another option is to use && if you only want the next command to execute if the previous command executed successfully.
+  
+  > cd ~/myfiles; cp file.txt ~/backup/ && rm file.txt
+  
+  This will only run the last command if the cp command executed successfully.
+  
+  You can swap the && for || to run a command if the previous one fails.
+  
+  
+file pipes-standard-output-and-standard-input.scroll
+ data
+  title Pipes, standard output and standard input
+  date 2010-0-26
+  permalink pipes-standard-output-and-standard-input
+  
+  
+  Standard output refers to the stream of bits that appear on your screen(terminal).
+  
+  You can change this around so that standard input comes from another source(say, a file) or so that standard output gets directed somewhere else (say, a file).
+  
+  For example, say we wanted to email someone a file containing the contents of our home directory. We could do this:
+  
+  > ls ~ | vim -
+  
+  This will pipe the output from the ls command to vim. You can then edit and save this file normally as you would in vim.
+  
+  There's another type of pipe you could use for this example: greater than.
+  
+  > ls ~ > contents.txt
+  
+  This will redirect the output to the contents.txt file.
+  
+  You can also append output by using two greater than signs:
+  
+  > ls ~ >> some_file.txt
+  
+  As you would expect, the less than sign can be used to direct a file as standard in.
+  
+  
+  Notes
+  
+  1. <a href="http://www.amazon.com/gp/product/0672328380?ie=UTF8&tag=smartyounginv-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672328380">Linux Phrasebook</a><img src="http://www.assoc-amazon.com/e/ir?t=smartyounginv-20&l=as2&o=1&a=0672328380" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  2. <a href="http://ubuntuforums.org/showthread.php?t=713210">pipe to vim</a>.
+  
+  
+  
+  
+  
+file use-cat-to-combine-or-print-the-contents-of-a-file.scroll
+ data
+  title Use cat to combine or print the contents of a file
+  date 2010-0-26
+  permalink use-cat-to-combine-or-print-the-contents-of-a-file
+  
+  
+  > cat filename.txt
+  
+  Pipe the contents of the file to less, so you can view it one page at a time:
+  
+  > cat filename | less
+  
+  In less, the 3 key commands are:
+  
+  - spacebar to go forward one page
+  - b to go back one page
+  - q to quit
+  
+  You can also do regular expression searches like in vim: /regex (n to go to next match)
+  
+  
+  Append file1 to the end of file 2:
+  
+  > cat file1 >> file2
+  
+  Combine two files into a third file:
+  
+  > cat file1 file2 > file3
+  
+  
+file new-tricks-in-vim.scroll
+ data
+  title New tricks in Vim
+  date 2010-0-29
+  permalink new-tricks-in-vim
+  
+  
+  > 4G - Move to line #4
+  
+  > mb - Mark the current spot as point b
+  > 'b - Go back to point b
+  
+  > vim file1 file2 - open 2 files at once
+  
+  > :e file - edit a different file
+  
+  > :split file - split the current window and edit a different file (vsplit for vertical split)
+  
+  > ctrl+w j/k - move down/up a window
+  
+  > :hide - hide the current window
+  
+  > :ls - show current buffers
+  
+  Notes
+  
+  1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+file cygwin-treats-the-windows-clipboard-like-a-file.scroll
+ data
+  title Cygwin treats the Windows Clipboard like a file
+  date 2010-0-30
+  permalink cygwin-treats-the-windows-clipboard-like-a-file
+  
+  
+  Want to copy the current cygwin directory into your clipboard?
+  
+  > pwd > /dev/clipboard
+  
+  Want to print the contents of the clipboard?
+  
+  > cat /dev/clipboard
+  
+  
+  Notes
+  
+  1. <a href="http://williammitchell.blogspot.com/2008/03/fun-with-cygwins-devclipboard.html">Fun with Cygwin's /dev/clipboard</a>.
+file shortcut-for-switching-to-a-windows-directory-in-cygwin.scroll
+ data
+  title Shortcut for switching to a Windows directory in Cygwin
+  date 2010-1-1
+  permalink shortcut-for-switching-to-a-windows-directory-in-cygwin
+  
+  
+  I made a small bash script called `wcd` that makes it easier.
+  
+  ### wcd
+  
+  #!/bin/bash
+  echo $1
+  newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
+  echo $newpath
+  cd "$newpath" 
+  
+  The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
+  
+  Make this file executable and add an alias into your bash_profile:
+  
+  alias wcd="source ~/wcd"
+  
+  Now you can just type(or actually copy/paste) something like this:
+  
+  wcd "C:\Users\breck\Documents\My Dropbox"
+  
+  ...and that will take you to the Windows directory.
+  
+  Notes
+  
+  1. <a href="http://gist.github.com/291822">wcd gist</a>.
+file how-to-load-a-sql-file-into-mysql.scroll
+ data
+  title How to load a sql file into MySql
+  date 2010-1-6
+  permalink how-to-load-a-sql-file-into-mysql
+  
+  
+  > mysql -u username -p < sqlfile.sql
+  
+  Make sure your sql file has a "use database" line.
+file change-the-file-owner-or-group-in-linux.scroll
+ data
+  title Change the file owner or group in Linux
+  date 2010-1-8
+  permalink change-the-file-owner-or-group-in-linux
+  
+  
+  > chown newowner filename
+  
+  Change the group of a file or folder:
+  
+  > chgrp newgroup filenameorfoldername
+file bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.scroll
+ data
+  title Bug Workaround for JS Charts Error: Not enough data to display chart 
+  date 2010-1-16
+  permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-
+  
+  
+  > nullData = new Array( );
+  > myChart.setDataArray(nullData,"null");
+  
+  Add these 2 lines to your javascript.
+  
+  Basically, if the first data set has only 1 data point, JSCharts will fire the alert. If it has 0 or 2+ data points, it won't. This fix creates an empty data series which disables this alert.
+file should-your-source-code-be-in-one-folder-or-should-it-be-nested.scroll
+ data
+  title Should your source code be in one folder or should it be nested?
+  date 2010-1-25
+  permalink should-your-source-code-be-in-one-folder-or-should-it-be-nested
+  
+  
+  Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
+  <blockquote>
+  <i>>myproject/</i>
+  - index.php
+  - theme.css
+  - helper_functions.php
+  - logo.png
+  </blockquote>
+  Here's an example of a <b>nested</b> structure(4 directories, 4 files):
+  <blockquote>
+  <i>>myproject/</i>
+  - index.php
+  <i>> styles/</i>
+  -- theme.css
+  <i>> images/</i>
+  -- logo.png
+  <i>> helpers/</i>
+  -- helper_functions.php
+  </blockquote>
+  Both of these structures can accomplish the same thing. Which is better?
+  
+  If you've worked with me on any project before, you'll know I prefer flatter structures. I try to resist adding directories as much as possible (you always have to add them eventually, but I like to fight it to minimize this effect).
+  
+  I don't know why my gut tells me to minimize directories, so I thought I'd write about it and see if any rationale emerged.
+  
+  <h2>Benefits of a Flat Structure</h2>
+  
+  <b>Benefit #1 - Quicker access to files</b>
+  
+  I primarily edit files using Notepad++ on Windows 7 or vim. If you keep all your files in 1 directory, you can open them faster ("Control+O", type a few letters on Win 7, or just "vim filename"). So, a flat structure gives you quicker access to files. I've never timed this before, but am pretty positive it works.
+  
+  <b>Benefit #2 - Avoid file path issues</b>
+  
+  Dealing with paths when working with a website is often the cause of careless bugs. If everything is in one directory, it makes it painless to include things on both the server side(include 'file.php';) and the client side ('src="script.hs"'). Once you start nesting directories, it's easy to make mistakes.
+  
+  <b>Benefit #3 - Easier to bring people up to speed</b>
+  
+  When I join an in-progress project or use a new library, I like to try and wrap my head around the whole thing. I can't do that if I have to dig into different directories to see all the files. Why hide 50% of the project in subdirectories?
+  
+  <b>Benefit #4 - Avoid overwriting issues</b>
+  
+  Occasionally you'll have a structure like this:
+  <blockquote>
+  - index.php
+  <i>> admin/</i>
+  -- index.php
+  </blockquote>
+  You might accidentally overwrite one index with the other, or edit one index when you think you're editing the other. Doesn't happen too often, but occasionally it can be annoying. By sticking everything in one directory, you don't run into that problem as much.
+  
+  <h2>Benefits of a Nested Structure</h2>
+  
+  Of course there are benefits to having multiple directories, otherwise this style wouldn't be so popular.
+  
+  <b>Benefit #1 - Looks more organized</b>
+  
+  It's nice and neat to have your files tucked away into nicely labeled directories. 
+  
+  <b>Benefit #2 - Easier for teams</b>
+  
+  It can be easier to divide work between team members when things are in different directories. For instance, why should the designers need their images mixed in with backend files?
+  
+  <b>Benefit #3 - A directory with too many files becomes unwieldy</b>
+  
+  I'll admit, once you have more than some threshold of files in a directory, it can quickly become hard to manage. If the files are nearly all of the same type (say, php files), then it's not as bad. But once you have 20 php files, 3 javascript files, 15 images, 4 css files, 2 bash files, 3 readmes, and 45 text files, it might be time to split things up.
+  
+  
+  <h2>My theory on why directories are bad.</h2>
+  
+  Less paths create an easier mental model. 
+  
+  If you walk into a messy room, it can be hard to create a mental model of the contents of that room. This is the equivalent to a file structure like the one below:
+  
+  <b>Bad</b>
+  
+  <blockquote>
+  <i>>myproject/</i>
+  - a_image.png
+  - base_functions.php
+  - dog.js
+  - index.php
+  - mike.png
+  - names.csv
+  - new_logo.jpg
+  - test.php
+  - xmlfunctions.php
+  - zlib.js
+  </blockquote>
+  It's a mess.
+  
+  If you walk into a room where everything is put away(clothes in the dresser, books on a bookshelf, odds and ends in the drawers) it's easier and an improvement. A room organized like this looks like the file structure below:
+  
+  <b>Ok</b>
+  
+  <blockquote>
+  <i>>myproject/</i>
+  - index.php
+  <i>> images/</i>
+  -- a_image.png
+  -- mike.png
+  -- new_logo.jpg
+  <i>> php/</i>
+  -- base_functions.php
+  -- test.php
+  -- xmlfunctions.php
+  <i>> scripts/</i>
+  -- dog.js
+  -- zlib.js
+  <i>> data/</i>
+  -- names.csv
+  </blockquote>
+  But now you've introduced the problem that to access nearly anything, you have to "open a drawer". You also can't see everything all at once. 
+  
+  <b>Best</b>
+  
+  The optimal solution is to not put your stuff into drawers, but to:
+  
+  1. Remove as much stuff as possible.
+  2. Put the remaining stuff out in the open in neats piles in separate parts of the room.
+  3. If, and only if, you have a ton of the same type of thing, put those into their own drawer/cabinet.
+  
+  If you apply this algorithm to a sample project, you might get something like a project I just made with <a href="http://github.com/breck7/uno">PHPUno</a>
+  
+  <blockquote>
+  <i>>dropdate/</i>
+  <i>> - data/</i>
+  -- 1
+  -- 2
+  -- ..
+  -- 578
+  - index.php
+  - logo.png
+  - sprites.png
+  - style.css
+  - uno_controller.php
+  - uno_app.php
+  - uno_models.php
+  - uno_helpers.php
+  </blockquote>
+  
+  <h2>Search, don't sort</h2>
+  
+  Gmail has an adage "search, don't sort". I think it applies here. Directories are a form of sorting, while autocomplete(which is integrated into practically everything nowadays) is a form of searching. By sticking everything into one directory, you enable search. Create multiple directories, and you disable search.
+  
+  <h2>The Rule of Three</h2>
+  
+  Here's a simple rule of thumb to help you organize your folder structure better:
+  
+  - No folder in your project should have more than 3 subfolders.
+  - There should not be more than 3 levels in any project.
+  
+  In other words, the directory "icon" should never have a subdirectory in it. 
+  <blockquote>
+  <i>>myproject/</i>
+  <i>> images/</i>
+  <i>>- icons/</i>
+  </blockquote>
+  This means that any project should have at most 9 subdirectories.
+file linux-go-back-to-previous-directory.scroll
+ data
+  title Linux Go Back to Previous Directory
+  date 2010-2-1
+  permalink linux-go-back-to-previous-directory
+  
+  
+  > cd -
+  
+  To go back to the last directory you were in. Basically an "undo" for the cd command.
+file more-tips-on-using-rsync-to-deploy-your-website.scroll
+ data
+  title More tips on using rsync to deploy your website
+  date 2010-2-3
+  permalink more-tips-on-using-rsync-to-deploy-your-website
+  
+  
+  I thought I'd add some more tips:
+  
+  - use the "--delete" option if you want to delete files on the destination directory that no longer exist in the source directory.
+  - add "$1" after your options like this:
+  > rsync -rvz$1
+  Then you can easily do a DRY RUN. Just type:
+  
+  > ./deploy.sh n
+  
+  The n will get substituted for $1.
+  
+  ### Troubleshooting
+  
+  I've found a lot of times rsync appears to be copying the same files over and over.
+  
+  There are a few things you can do to troubleshoot <a href="http://samba.anu.edu.au/rsync/FAQ.html">when rsync recopies the same files</a>.
+  
+  The options that I've found come in real handy are:
+  
+  1. The <b>i</b> option, which shows you why a file is being copied (all pluses means rsync thinks it doesn't exist in the destination; t means the times differ; s means the contents differ (?)).
+  2. The <b>--modify-window=1</b> option. This lets you ignore differences in modified timestamps. You can set 1 to a high number to ignore large differences.
+  
+file plugins-for-notepad.scroll
+ data
+  title Plugins for Notepad++
+  date 2010-2-6
+  permalink plugins-for-notepad
+  
+  
+  The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
+  
+  To install a plugin:
+  
+  1. Download the zip file and unzip it.
+  2. Copy the dll to your Program Files/Notepad++/Plugins folder.
+  
+  The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
+  
+  That's it!
+file cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.scroll
+ data
+  title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
+  date 2010-2-21
+  permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution
+  
+  
+  > Could not resolve hostname X: Non-recoverable failure in name resolution
+  
+  It happens a lot when I run a deploy script or git push. Haven't found a solution yet, and am trying to track one down.
+  
+  The problem is this bug is hard to reproduce. It happens only 5-10% of the time.
+  
+  Edit #1:
+  <a href="http://technet.microsoft.com/en-us/library/bb727005.aspx">Helpful article from Microsoft on Host Name Resolution</a>
+  
+  Edit #2:
+  Upon closer examination, it seems this error only happens with ssh:
+  
+  > ssh: Could not resolve hostname X: Non-recoverable failure in name resolution
+  
+  That's narrowed it down a bit but still no solution. Sadly because it only happens once or twice out of 10-20 times I run the "ssh" command, it's taking longer to pin down.
+file the-bash-programming-language.scroll
+ data
+  title The BASH Programming Language
+  date 2010-2-25
+  permalink the-bash-programming-language
+  
+  
+  Then I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.
+  
+  Here's the core of what you need to know:
+  
+  <b>Use the .sh file extension</b>
+  
+  A BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.
+  
+  <b>Start your scripts with #!/bin/bash</b>
+  
+  > #!/bin/bash
+  
+  PHP scripts start with The echo statement</b>
+  
+  Here's your first bash script (name it hello.sh):
+  
+  > #!/bin/bash<br>
+  > echo "Hello World"
+  
+  The *echo* command prints a string and also a new line at the end.
+  
+  <b>Running your script</b>
+  
+  Your script must be **executable**. To make it executable, you need to change the <a href="http://breckyunits.com/code/fix_permission_problems_using_chmod">file permissions</a>. This would make your hello.sh script executable:
+  
+  > chmod 777 hello.sh
+  
+  To run your script, from the directory where your script is located, type this:
+  
+  > ./hello.sh
+  
+  The "./" substitutes the current directory. In other words, typing
+  
+  > ./hello.sh
+  
+  is equivalent to typing the full path to the file such as this:
+  
+  > /home/breck/hello.sh
+  
+  <b>Command line Paramters</b>
+  
+  Command line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:
+  
+  > #!/bin/bash
+  > echo "Hello World"
+  > echo $1
+  > echo $2
+  
+  Now run your script like this:
+  
+  > ./hello2.sh hi breck
+  
+  It should print this:
+  
+  > Hello World
+  > hi
+  > breck
+  
+  The hi got stored in $1, and the breck got stored in $2.
+  
+  <b>Functions</b>
+  
+  Functions are pretty simple and straightforward:
+  
+  > #!/bin/bash
+  > echo "Hello World"
+  > echo $1
+  > echo $2
+  > function hi_name {
+  > echo "hi"
+  > echo $1
+  > }
+  > hi_name $3
+  
+  Notice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:
+  
+  > ./hello2.sh hi breck conor
+  
+  It should print this:
+  
+  > Hello World
+  > hi
+  > breck
+  > hi
+  > conor
+  
+  Notice what's going on with parameter passing and scope.
+  
+  That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
+file ansi-or-ascii-and-unicode-or-utf-8-and-newlines.scroll
+ data
+  title ANSI or ASCII and Unicode or UTF-8 and Newlines
+  date 2010-2-25
+  permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines
+  
+  
+  ANSI (aka ASCII) and UTF-8 (aka "UnicodeTransformation Format" or just "Unicode") are ways to encode text files into binary data.
+  
+  I'm simplifying things but actually what I'm leaving out is not important. There are basically 2 character sets: ASCII or ANSI and UTF8 or Unicode. It's probably easiest to just call them ASCII and Unicode.
+  
+  Unicode is the new guy, and is slowly replacing ASCII.
+  
+  The main problem you'll run into with ASCII is line breaks. This isn't really an ASCII issue, it's a Windows issue but it often seems like it's an ASCII issue.
+  
+  Windows does \r\n, whereas Unicode just does \n.
+  
+  Here's an experiment you can do using Notepad++ and Notepad.
+  
+  Open Notepad++ and start a new document.
+  
+  Type in:
+  
+  <blockquote>hello<br>world</blockquote>
+  
+  Click "Edit", "EOL Completion" and click "Windows Format" (if it's gray, that means it's already on Windows format). Now cut and paste the text into Notepad. You'll see that it comes out on 2 lines. All good right?
+  
+  Now go back to Notepad++ and click "Edit", "EOL Completion" and click "UNIX Format". Now cut and paste the text into Notepad. It's on 1 line, right?
+  
+  Tada!
+  
+  Now when you're having line problems just use this nifty feature in Notepad++.
+  
+  Notes
+  1. Okay so this article turned out to be about line breaks and not about character encoding. I blame ADD.
+  2. <A href="http://vlaurie.com/computers2/Articles/characters.htm">Cast of Characters- ASCII, ANSI, UTF-8 and all that</a>
+  3. <a href="http://www.rapidintellect.com/AEQweb/mansub1.htm">ANSI versus Unicode</a>
+file case-sensitivity-in-mysql-table-names-and-lower_case_table_names.scroll
+ data
+  title Case sensitivity in MySQL table names and lower_case_table_names
+  date 2010-2-27
+  permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names
+  
+  
+  On Windows, filenames are not case sensitive. <code>file</code> and <code>File</code> are the same file.
+  
+  MySQL saves a database to disk. A "database" is saved in a directory, and each table is saved as a file in that folder.
+  
+  Thus, say you transfer a database from Linux to Windows that has a table named "userBookmarks", this might cause a problem for you because MySQL on Windows will likely interpret it as "userbookmarks".
+  
+  There's a setting in your my.cnf file called "lower_case_table_names".
+  
+  The options are 0, 1, and 2.
+  
+  1 is the default, and you shouldn't need to change it.
+  
+  If you change it to 0 on Windows, you might run into problems. If you change it to 2, it doesn't seem to do much.
+  
+  So what's the solution? Try to avoid capital letters in table names (use _ instead of camel case). When you can't do that, write your code for the Linux database (ie "select * from userBookmarks"), and your queries should translate fine on Windows since Windows will convert that to "select * from userbookmarks".
+  
+  
+  
+file pwd-while-in-a-symlink-directory.scroll
+ data
+  title pwd while in a symlink directory
+  date 2010-3-1
+  permalink pwd-while-in-a-symlink-directory
+  
+  
+  > /bin/pwd
+file vim-macros.scroll
+ data
+  title vim macros
+  date 2010-3-9
+  permalink vim-macros
+  
+  
+  <blockquote>/**
+  * Returns the sum of 2 variables.
+  *
+  * @param int $a
+  * @param int $b
+  * @return int $sum
+  */
+  function sum($a, $b)
+  {
+  $sum = $a + $b;
+  return $sum;
+  }
+  </blockquote>
+  
+  You can record a macro to help speed up the commenting process.
+  
+  Just type <code>q</code> followed by the letter you want to assign the macro to (in this case let's use <code>c</code>), type your keystrokes, then hit <code>q</code> again to stop recording. Now hit <code>c</code> to replay your macro.
+  
+  You can overwrite the macro by repeating the above steps.
+  
+  Bonus tip:
+  
+  <b>Bookmarks</b>.Use <code>m</code> + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
+  
+  <b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
+  
+  
+  
+  Notes
+  1. <a href="http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html">Vim macro tutorial</a>.
+  2. <a href="http://jmcpherson.org/editing.html">Another great vim resource.</a>
+  
+  
+file recursive-ls.scroll
+ data
+  title Recursive ls
+  date 2010-3-10
+  permalink recursive-ls
+  
+  
+file gca-alias-for-faster-git.scroll
+ data
+  title gca alias for faster git
+  date 2010-3-10
+  permalink gca-alias-for-faster-git
+  
+  One of my most frequent commands is:
+  
+  <blockquote>git commit -am "message"</blockquote>
+  
+  I made a simple <a href="http://breckyunits.com/code/use_aliases_to_save_time">alias</a> to save keystrokes:
+  
+  <blockquote>alias gca="git commit -am "</blockquote>
+file dump-mysql-schema-only.scroll
+ data
+  title Dump MySQL schema only
+  date 2010-3-10
+  permalink dump-mysql-schema-only
+  
+  
+  <blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql </blockquote>
+  
+  You can then <a href="http://breckyunits.com/code/how_to_load_a_sql_file_into_mysql">load the file easily</a>.
+file ls-color-scheme.scroll
+ data
+  title ls color scheme
+  date 2010-3-10
+  permalink ls-color-scheme
+  
+  
+  <blockquote>
+  alias ls="ls --color=auto"
+  LS_COLORS="di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1"
+  export LS_COLORS
+  </blockquote>

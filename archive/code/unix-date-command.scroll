@@ -1,0 +1,8 @@
+title Unix date command
+date 2010-01-19
+permalink unix-date-command
+
+code
+ date +%s
+
+Handy way to view it from the command line.

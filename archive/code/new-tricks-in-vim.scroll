@@ -1,0 +1,18 @@
+title New tricks in Vim
+date 2010-0-29
+permalink new-tricks-in-vim
+
+
+code
+ 4G - Move to line #4
+ mb - Mark the current spot as point b 'b - Go back to point b
+ vim file1 file2 - open 2 files at once
+ :e file - edit a different file
+ :split file - split the current window and edit a different file (vsplit for vertical split)
+ ctrl+w j/k - move down/up a window
+ :hide - hide the current window
+ :ls - show current buffers
+
+Notes
+
+1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)

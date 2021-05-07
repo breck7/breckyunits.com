@@ -1,0 +1,6 @@
+title Use git to get the latest source code only
+date 2009-11-27
+permalink use-git-to-get-the-latest-source-code-only
+
+code
+ git clone --depth 1 git://github.com/breck7/brecksblog.git

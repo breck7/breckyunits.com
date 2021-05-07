@@ -1,0 +1,9 @@
+title Use scp to download a file from a server
+date 2010-0-21
+permalink use-scp-to-download-a-file-from-a-server
+
+
+code
+ scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt
+
+This will download the file from your server to your local computer.

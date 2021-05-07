@@ -1,0 +1,25 @@
+title Use sed to find and replace
+date 2010-0-20
+permalink use-sed-to-find-and-replace
+
+
+Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
+
+You can fix all occurrences using this one-liner:
+
+code
+ sed 's/imposible/impossible/g' stuff.txt
+
+Often it's more helpful to sed across multiple files.
+
+code
+ sed -i 's/1.0.1/"1.0.1"/g' *.php
+
+That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
+
+
+Notes
+1. <a href="http://www.grymoire.com/Unix/Sed.html">sed tutorial</a>.
+2. <a href="http://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html">find and replace with sed</a>.
+3. <a href="http://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm">about.com on sed</a>.
+4. <a href="http://drupal.org/node/128513">Very clear examples</a>.

@@ -1,0 +1,35 @@
+title Pipes, standard output and standard input
+date 2010-0-26
+permalink pipes-standard-output-and-standard-input
+
+
+Standard output refers to the stream of bits that appear on your screen(terminal).
+
+You can change this around so that standard input comes from another source(say, a file) or so that standard output gets directed somewhere else (say, a file).
+
+For example, say we wanted to email someone a file containing the contents of our home directory. We could do this:
+
+code
+ ls ~ | vim -
+
+This will pipe the output from the ls command to vim. You can then edit and save this file normally as you would in vim.
+
+There's another type of pipe you could use for this example: greater than.
+
+code
+ ls ~ > contents.txt
+
+This will redirect the output to the contents.txt file.
+
+You can also append output by using two greater than signs:
+
+code
+ ls ~ >> some_file.txt
+
+As you would expect, the less than sign can be used to direct a file as standard in.
+
+Notes
+
+1. <a href="http://www.amazon.com/gp/product/0672328380?ie=UTF8&tag=smartyounginv-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672328380">Linux Phrasebook</a><img src="http://www.assoc-amazon.com/e/ir?t=smartyounginv-20&l=as2&o=1&a=0672328380" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+2. <a href="http://ubuntuforums.org/showthread.php?t=713210">pipe to vim</a>.
+

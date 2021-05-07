@@ -1,0 +1,8 @@
+title Use the linux find command to find files
+date 2009-11-25
+permalink use-the-linux-find-command-to-find-files
+
+code
+ find -name "breck*"
+
+Will search the current directory <em>and all subdirectories</em> for files starting with the word "breck".

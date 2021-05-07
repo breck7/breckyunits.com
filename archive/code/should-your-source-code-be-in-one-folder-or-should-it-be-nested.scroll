@@ -1,0 +1,165 @@
+title Should your source code be in one folder or should it be nested?
+date 2010-1-25
+permalink should-your-source-code-be-in-one-folder-or-should-it-be-nested
+
+
+Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
+
+code
+ <i>>myproject/</i>
+ - index.php
+ - theme.css
+ - helper_functions.php
+ - logo.png
+ 
+ Here's an example of a <b>nested</b> structure(4 directories, 4 files):
+ 
+code
+ <i>>myproject/</i>
+ - index.php
+ <i>> styles/</i>
+ -- theme.css
+ <i>> images/</i>
+ -- logo.png
+ <i>> helpers/</i>
+ -- helper_functions.php
+
+Both of these structures can accomplish the same thing. Which is better?
+
+If you've worked with me on any project before, you'll know I prefer flatter structures. I try to resist adding directories as much as possible (you always have to add them eventually, but I like to fight it to minimize this effect).
+
+I don't know why my gut tells me to minimize directories, so I thought I'd write about it and see if any rationale emerged.
+
+<h2>Benefits of a Flat Structure</h2>
+
+<b>Benefit #1 - Quicker access to files</b>
+
+I primarily edit files using Notepad++ on Windows 7 or vim. If you keep all your files in 1 directory, you can open them faster ("Control+O", type a few letters on Win 7, or just "vim filename"). So, a flat structure gives you quicker access to files. I've never timed this before, but am pretty positive it works.
+
+<b>Benefit #2 - Avoid file path issues</b>
+
+Dealing with paths when working with a website is often the cause of careless bugs. If everything is in one directory, it makes it painless to include things on both the server side(include 'file.php';) and the client side ('src="script.hs"'). Once you start nesting directories, it's easy to make mistakes.
+
+<b>Benefit #3 - Easier to bring people up to speed</b>
+
+When I join an in-progress project or use a new library, I like to try and wrap my head around the whole thing. I can't do that if I have to dig into different directories to see all the files. Why hide 50% of the project in subdirectories?
+
+<b>Benefit #4 - Avoid overwriting issues</b>
+
+Occasionally you'll have a structure like this:
+
+code
+ - index.php
+ <i>> admin/</i>
+ -- index.php
+
+You might accidentally overwrite one index with the other, or edit one index when you think you're editing the other. Doesn't happen too often, but occasionally it can be annoying. By sticking everything in one directory, you don't run into that problem as much.
+
+<h2>Benefits of a Nested Structure</h2>
+
+Of course there are benefits to having multiple directories, otherwise this style wouldn't be so popular.
+
+<b>Benefit #1 - Looks more organized</b>
+
+It's nice and neat to have your files tucked away into nicely labeled directories. 
+
+<b>Benefit #2 - Easier for teams</b>
+
+It can be easier to divide work between team members when things are in different directories. For instance, why should the designers need their images mixed in with backend files?
+
+<b>Benefit #3 - A directory with too many files becomes unwieldy</b>
+
+I'll admit, once you have more than some threshold of files in a directory, it can quickly become hard to manage. If the files are nearly all of the same type (say, php files), then it's not as bad. But once you have 20 php files, 3 javascript files, 15 images, 4 css files, 2 bash files, 3 readmes, and 45 text files, it might be time to split things up.
+
+
+<h2>My theory on why directories are bad.</h2>
+
+Less paths create an easier mental model. 
+
+If you walk into a messy room, it can be hard to create a mental model of the contents of that room. This is the equivalent to a file structure like the one below:
+
+<b>Bad</b>
+
+code
+ <i>>myproject/</i>
+ - a_image.png
+ - base_functions.php
+ - dog.js
+ - index.php
+ - mike.png
+ - names.csv
+ - new_logo.jpg
+ - test.php
+ - xmlfunctions.php
+ - zlib.js
+
+It's a mess.
+
+If you walk into a room where everything is put away(clothes in the dresser, books on a bookshelf, odds and ends in the drawers) it's easier and an improvement. A room organized like this looks like the file structure below:
+
+<b>Ok</b>
+
+code
+ <i>>myproject/</i>
+ - index.php
+ <i>> images/</i>
+ -- a_image.png
+ -- mike.png
+ -- new_logo.jpg
+ <i>> php/</i>
+ -- base_functions.php
+ -- test.php
+ -- xmlfunctions.php
+ <i>> scripts/</i>
+ -- dog.js
+ -- zlib.js
+ <i>> data/</i>
+ -- names.csv
+
+But now you've introduced the problem that to access nearly anything, you have to "open a drawer". You also can't see everything all at once. 
+
+<b>Best</b>
+
+The optimal solution is to not put your stuff into drawers, but to:
+
+1. Remove as much stuff as possible.
+2. Put the remaining stuff out in the open in neats piles in separate parts of the room.
+3. If, and only if, you have a ton of the same type of thing, put those into their own drawer/cabinet.
+
+If you apply this algorithm to a sample project, you might get something like a project I just made with <a href="http://github.com/breck7/uno">PHPUno</a>
+
+code
+ <i>>dropdate/</i>
+ <i>> - data/</i>
+ -- 1
+ -- 2
+ -- ..
+ -- 578
+ - index.php
+ - logo.png
+ - sprites.png
+ - style.css
+ - uno_controller.php
+ - uno_app.php
+ - uno_models.php
+ - uno_helpers.php
+
+<h2>Search, don't sort</h2>
+
+Gmail has an adage "search, don't sort". I think it applies here. Directories are a form of sorting, while autocomplete(which is integrated into practically everything nowadays) is a form of searching. By sticking everything into one directory, you enable search. Create multiple directories, and you disable search.
+
+<h2>The Rule of Three</h2>
+
+Here's a simple rule of thumb to help you organize your folder structure better:
+
+- No folder in your project should have more than 3 subfolders.
+- There should not be more than 3 levels in any project.
+
+In other words, the directory "icon" should never have a subdirectory in it. 
+
+code
+ <i>>myproject/</i>
+ <i>> images/</i>
+ <i>>- icons/</i>
+
+This means that any project should have at most 9 subdirectories.
