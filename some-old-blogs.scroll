@@ -2,9 +2,11 @@ title Some old blogs
 date 2021-05-07
 permalink some-old-blogs
 
+<style>.wayback{text-decoration: none;}</style>
+
 paragraph
  I found it mildly interesting to dig up my earlier blogs and put them in this git.
- This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine ❤️.
+ This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine heart ❤️.
 
 title3 August 2007 - Running Wordpress on my own domain
 
@@ -12,7 +14,7 @@ paragraph
  It looks like I registered breckyunits.com on August 24th, 2007.
 
 paragraph
- It appears I used Wordpress. Here's <a href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">what it looked like that September</a>.
+ It appears I used Wordpress <a class="wayback" href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">🕸</a>.
 
 paragraph
  There's a Flash widget on there.
@@ -26,20 +28,20 @@ paragraph
 title3 July 2009 - Two years of Wordpress
 
 paragraph
- About two years later, my Wordpress blog had grown <a href="https://web.archive.org/web/20090713043922/http://breckyunits.com/">to many pages<a>.
+ About two years later, my Wordpress blog had grown to many pages <a class="wayback" href="https://web.archive.org/web/20090713043922/http://breckyunits.com/">🕸<a>.
 
 title3 August 2009 - Switched to Posterous
 
 paragraph
- Looks like I started a <a href="https://web.archive.org/web/20090813063739/http://breckyunits.com/">transition</a> to a new site, and moved my blog from my own server running Wordpress to <a href="https://web.archive.org/web/20130307210904/http://breck7.posterous.com/">posterous</a>.
+ Looks like I started transitioning to a new site <a  class="wayback" href="https://web.archive.org/web/20090813063739/http://breckyunits.com/">🕸</a> , and moved my blog from my own server running Wordpress to posterous <a  class="wayback" href="https://web.archive.org/web/20130307210904/http://breck7.posterous.com/">🕸</a>.
 
 paragraph
- After I moved to posterous, I put up this <a href="oldHomepage/">homepage<a>. You can also see it on <a href="https://web.archive.org/web/20091103021126/http://www.breckyunits.com/">WayBack Machine</a>.
+ After I moved to posterous, I put up this <a href="oldHomepage/">homepage<a> <a  class="wayback" href="https://web.archive.org/web/20091103021126/http://www.breckyunits.com/">🕸</a>.
 
 title3 December 2009 - Switched to Brecksblog
 
 paragraph
- In December 2009 I wrote my own blog software called <a href="https://github.com/breck7/brecksblog">brecksblog</a>. Here's what my new site <a href="https://web.archive.org/web/20091204020806/http://breckyunits.com/">looked like</a>.
+ In December 2009 I wrote my own blog software called <a href="https://github.com/breck7/brecksblog">brecksblog</a>. Here's what my new site looked like <a  class="wayback" href="https://web.archive.org/web/20091204020806/http://breckyunits.com/">🕸</a>.
 
 paragraph
  I kept it simple. My <a href="https://breckyunits.com/">current homepage</a>, now powered by <a href="https://scroll.publicdomaincompany.com/">Scroll</a>, evolved from brecksblog.
@@ -47,4 +49,4 @@ paragraph
 title3 December 2009 - My "Computer science" blog
 
 paragraph
- It looks like I also maintained a programming blog from December 2009 to <a href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">January 2012</a>. Here is that <a href="oldProgrammingBlog/">blog</a> migrated to Scroll.
+ It looks like I also maintained a programming blog from December 2009 to January 2012 <a  class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that <a href="oldProgrammingBlog/">blog</a> migrated to Scroll.
