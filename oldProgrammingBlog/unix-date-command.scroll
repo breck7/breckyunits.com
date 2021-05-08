@@ -2,6 +2,8 @@ title Unix date command
 date 2010-01-19
 permalink unix-date-command
 
+Display the current unix timestamp:
+
 code
  date +%s
 

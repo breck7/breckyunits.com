@@ -2,6 +2,7 @@ title Run multiple commands at once
 date 2010-0-26
 permalink run-multiple-commands-at-once
 
+Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
 
 For instance:
 

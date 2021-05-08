@@ -2,6 +2,7 @@ title Get VIM Working in Cygwin
 date 2009-11-20
 permalink get-vim-working-in-cygwin
 
+I had trouble getting VIM behaving as expected under Cygwin.
 
 Specifically, the backspace and arrow keys were behaving badly in insert mode.
 

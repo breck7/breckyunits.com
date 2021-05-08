@@ -2,6 +2,7 @@ title ANSI or ASCII and Unicode or UTF-8 and Newlines
 date 2010-2-25
 permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines
 
+The key things you need to know:
 
 ANSI (aka ASCII) and UTF-8 (aka "UnicodeTransformation Format" or just "Unicode") are ways to encode text files into binary data.
 

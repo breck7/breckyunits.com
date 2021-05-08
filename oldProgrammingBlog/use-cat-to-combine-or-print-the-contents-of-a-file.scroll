@@ -2,6 +2,7 @@ title Use cat to combine or print the contents of a file
 date 2010-0-26
 permalink use-cat-to-combine-or-print-the-contents-of-a-file
 
+Print the contents of a file:
 
 code
  cat filename.txt

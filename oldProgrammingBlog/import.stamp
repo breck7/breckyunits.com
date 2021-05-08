@@ -6,6 +6,7 @@ file about-this-blog.scroll
   date 2009-11-18
   permalink about-this-blog
   
+  I constantly want to share little coding tidbits, snippets, or stories on how to solve specific little coding problems. Instead of clogging up the <a href="/">main blog</a> with these shorter, more specific technical posts, I decided to launch a second blog.
   
   This is it.
 file get-vim-working-in-cygwin.scroll
@@ -14,6 +15,7 @@ file get-vim-working-in-cygwin.scroll
   date 2009-11-20
   permalink get-vim-working-in-cygwin
   
+  I had trouble getting VIM behaving as expected under Cygwin.
   
   Specifically, the backspace and arrow keys were behaving badly in insert mode.
   
@@ -35,6 +37,7 @@ file ssh-into-your-server-without-a-password.scroll
   date 2009-11-20
   permalink ssh-into-your-server-without-a-password
   
+  On your server:
   
   <blockquote>vim /etc/ssh/sshd_config</blockquote>
   
@@ -70,6 +73,7 @@ file use-rsync-to-deploy-your-website.scroll
   date 2009-11-21
   permalink use-rsync-to-deploy-your-website
   
+  rsync is a nifty little tool that can deploy a website to a testing or production server.
   
   Here's a one line command to deploy brecksblog:
   
@@ -109,6 +113,7 @@ file use-grep-to-search-multiple-files-at-once.scroll
   date 2009-11-22
   permalink use-grep-to-search-multiple-files-at-once
   
+  grep lets you search through multiple text files at once.
   
   I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
   
@@ -147,6 +152,7 @@ file cron-in-2-steps.scroll
   date 2009-11-25
   permalink cron-in-2-steps
   
+  cron lets you schedule linux commands to execute on a regular basis.
   
   For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.
   
@@ -154,7 +160,7 @@ file cron-in-2-steps.scroll
   
   Here is the cron command you would need:
   
-  <blockquote>0  *  *  *  *  wget http://yourdomain.com/backup.zip</blockquote>
+  <blockquote>0 *   *   *   *   wget http://yourdomain.com/backup.zip</blockquote>
   
   You can either memorize the <a href="http://en.wikipedia.org/wiki/Cron#crontab_syntax">crontab syntax</a>, or just this simple Javascript <a href="http://www.openjs.com/scripts/jslibrary/demos/crontab.php">crontab gui</a> will easily generate the code for you.
   
@@ -186,6 +192,7 @@ file use-the-linux-find-command-to-find-files.scroll
   date 2009-11-25
   permalink use-the-linux-find-command-to-find-files
   
+  Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
   
   <blockquote>find -name "breck*"</blockquote>
   
@@ -196,6 +203,7 @@ file fix-permission-problems-using-chmod.scroll
   date 2009-11-25
   permalink fix-permission-problems-using-chmod
   
+  Permission problems driving you crazy? Here's a common command to fix them:
   
   <blockquote>chmod -R 755 directoryname</blockquote>
   
@@ -206,6 +214,7 @@ file what-non-web-software-do-you-use-the-most.scroll
   date 2009-11-26
   permalink what-non-web-software-do-you-use-the-most
   
+  Here are the programs I use everyday, every week, and every month. 
   
   What software do you use the most? What are your "must haves"?
   
@@ -274,6 +283,7 @@ file use-git-to-get-the-latest-source-code-only.scroll
   date 2009-11-27
   permalink use-git-to-get-the-latest-source-code-only
   
+  Say you want to get just the source code of a git repository without all the history(without the ".git" directory). Use this:
   
   <blockquote>git clone --depth 1 git://github.com/breck7/brecksblog.git</blockquote>
 file how-i-organize-my-dropbox.scroll
@@ -282,6 +292,7 @@ file how-i-organize-my-dropbox.scroll
   date 2009-11-27
   permalink how-i-organize-my-dropbox
   
+  Gmail encourages users to "search not sort". I do that.
   
   Email works great for search. For files though, sorting is often better.
   
@@ -312,7 +323,7 @@ file how-i-organize-my-dropbox.scroll
   --eBooks
   --Company Docs
   --Search
-  
+   
   
   The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
   
@@ -327,6 +338,7 @@ file use-aliases-to-save-time.scroll
   date 2009-11-28
   permalink use-aliases-to-save-time
   
+  Using aliases in Linux can save you a lot of time. Here's an example:
   
   <blockquote>alias www='cd /var/www/html/'</blockquote>
   
@@ -355,6 +367,7 @@ file create-a-new-user-in-linux.scroll
   date 2010-0-5
   permalink create-a-new-user-in-linux
   
+  <nomarkdown>Creating a new user in Linux is dead simple.
   
   <blockquote>useradd bob
   
@@ -368,6 +381,7 @@ file learn-symbolic-links-in-30-seconds.scroll
   date 2010-0-5
   permalink learn-symbolic-links-in-30-seconds
   
+  Symbolic links are simple and can save you time.
   
   Here's all you need to know:
   
@@ -395,6 +409,7 @@ file git-clone-without-history.scroll
   date 2010-0-11
   permalink git-clone-without-history
   
+  If you're using a library from git in another project, you may want to download it without the history. Here's how:
   
   <blockquote>git clone --depth 1 your_repo_url</blockquote>
   
@@ -405,6 +420,7 @@ file turn-off-bell-in-cygwin.scroll
   date 2010-0-11
   permalink turn-off-bell-in-cygwin
   
+  The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
   
   <blockquote>vim ~/.inputrc
   
@@ -420,6 +436,7 @@ file list-only-directories-using-ls.scroll
   date 2010-0-13
   permalink list-only-directories-using-ls
   
+  the "ls" command lists all files and directories. What if you just wanted to list the directories?
   
   <blockquote>ls -l | egrep '^d'</blockquote>
   
@@ -435,6 +452,7 @@ file seven-aliases-that-can-save-you-time.scroll
   date 2010-0-13
   permalink seven-aliases-that-can-save-you-time
   
+  Add these to your .bash_profile to speed up common tasks:
   
   alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
   alias www='cd /var/www/html/' # enter your root web directory
@@ -449,6 +467,7 @@ file how-to-fix-an-overwhelmed-gmail-accout.scroll
   date 2010-0-17
   permalink how-to-fix-an-overwhelmed-gmail-accout
   
+  I have used the same Gmail address as my main email for over 5 years. 
   
   Since then:
   <ul>
@@ -491,6 +510,7 @@ file bash-variables.scroll
   date 2010-0-18
   permalink bash-variables
   
+  <nomarkdown><blockquote>
   $ FIVE=5
   $ echo $FIVE
   5
@@ -536,6 +556,7 @@ file unix-date-command.scroll
   date 2010-0-19
   permalink unix-date-command
   
+  Display the current unix timestamp:
   
   date +%s
   
@@ -547,6 +568,7 @@ file use-sed-to-find-and-replace.scroll
   date 2010-0-20
   permalink use-sed-to-find-and-replace
   
+  <nomarkdown><a href="http://breckyunits.com/code/use_grep_to_search_multiple_files_at_once">grep</a> is to find what sed is to replace.
   
   Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
   
@@ -573,13 +595,14 @@ file clear-screen-in-cygwin.scroll
   date 2010-0-20
   permalink clear-screen-in-cygwin
   
-  
+  Just hit ctrl+l
 file use-scp-to-download-a-file-from-a-server.scroll
  data
   title Use scp to download a file from a server
   date 2010-0-21
   permalink use-scp-to-download-a-file-from-a-server
   
+  You can easily grab a file off a server from the command line using secure copy:
   
   <blockquote>scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt</blockquote>
   
@@ -590,6 +613,7 @@ file the-only-5-git-commands-you-need-to-know.scroll
   date 2010-0-23
   permalink the-only-5-git-commands-you-need-to-know
   
+  What's the difference between a great programmer who acts cool around girls and a great programmer who does not use version control?
   
   Nothing--they both don't exist!
   
@@ -688,6 +712,7 @@ file run-multiple-commands-at-once.scroll
   date 2010-0-26
   permalink run-multiple-commands-at-once
   
+  Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
   
   For instance:
   
@@ -703,13 +728,14 @@ file run-multiple-commands-at-once.scroll
   
   You can swap the && for || to run a command if the previous one fails.
   
-  
+   
 file pipes-standard-output-and-standard-input.scroll
  data
   title Pipes, standard output and standard input
   date 2010-0-26
   permalink pipes-standard-output-and-standard-input
   
+  In linux, standard input refers to the stream of bits that come from your keyboard.
   
   Standard output refers to the stream of bits that appear on your screen(terminal).
   
@@ -749,6 +775,7 @@ file use-cat-to-combine-or-print-the-contents-of-a-file.scroll
   date 2010-0-26
   permalink use-cat-to-combine-or-print-the-contents-of-a-file
   
+  Print the contents of a file:
   
   > cat filename.txt
   
@@ -780,6 +807,7 @@ file new-tricks-in-vim.scroll
   date 2010-0-29
   permalink new-tricks-in-vim
   
+  I learned some new tricks with vim today.
   
   > 4G - Move to line #4
   
@@ -807,6 +835,7 @@ file cygwin-treats-the-windows-clipboard-like-a-file.scroll
   date 2010-0-30
   permalink cygwin-treats-the-windows-clipboard-like-a-file
   
+  In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
   
   Want to copy the current cygwin directory into your clipboard?
   
@@ -826,26 +855,27 @@ file shortcut-for-switching-to-a-windows-directory-in-cygwin.scroll
   date 2010-1-1
   permalink shortcut-for-switching-to-a-windows-directory-in-cygwin
   
+  In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
   
   I made a small bash script called `wcd` that makes it easier.
   
   ### wcd
   
-  #!/bin/bash
-  echo $1
-  newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
-  echo $newpath
-  cd "$newpath" 
+   #!/bin/bash
+   echo $1
+   newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
+   echo $newpath
+   cd "$newpath" 
   
   The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
   
   Make this file executable and add an alias into your bash_profile:
   
-  alias wcd="source ~/wcd"
+   alias wcd="source ~/wcd"
   
   Now you can just type(or actually copy/paste) something like this:
   
-  wcd "C:\Users\breck\Documents\My Dropbox"
+   wcd "C:\Users\breck\Documents\My Dropbox"
   
   ...and that will take you to the Windows directory.
   
@@ -858,6 +888,7 @@ file how-to-load-a-sql-file-into-mysql.scroll
   date 2010-1-6
   permalink how-to-load-a-sql-file-into-mysql
   
+  It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
   
   > mysql -u username -p < sqlfile.sql
   
@@ -868,6 +899,7 @@ file change-the-file-owner-or-group-in-linux.scroll
   date 2010-1-8
   permalink change-the-file-owner-or-group-in-linux
   
+  Change the owner of a file or folder:
   
   > chown newowner filename
   
@@ -880,6 +912,7 @@ file bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.scroll
   date 2010-1-16
   permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-
   
+  If you get this alert using JSCharts, here's a quick hack to fix it:
   
   > nullData = new Array( );
   > myChart.setDataArray(nullData,"null");
@@ -893,6 +926,7 @@ file should-your-source-code-be-in-one-folder-or-should-it-be-nested.scroll
   date 2010-1-25
   permalink should-your-source-code-be-in-one-folder-or-should-it-be-nested
   
+  <nomarkdown>There are two ways to organize source code files for a project: flat or nested.
   
   Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
   <blockquote>
@@ -1057,6 +1091,7 @@ file linux-go-back-to-previous-directory.scroll
   date 2010-2-1
   permalink linux-go-back-to-previous-directory
   
+  Just type:
   
   > cd -
   
@@ -1067,6 +1102,7 @@ file more-tips-on-using-rsync-to-deploy-your-website.scroll
   date 2010-2-3
   permalink more-tips-on-using-rsync-to-deploy-your-website
   
+  My post on <a href="http://breckyunits.com/code/use_rsync_to_deploy_your_website">deploying a website using rsync</a> has gotten quite a few hits.
   
   I thought I'd add some more tips:
   
@@ -1096,6 +1132,7 @@ file plugins-for-notepad.scroll
   date 2010-2-6
   permalink plugins-for-notepad
   
+  Notepad++ is my go to editor.
   
   The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
   
@@ -1113,6 +1150,7 @@ file cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-r
   date 2010-2-21
   permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution
   
+  I've been getting this error a lot in Cygwin on Windows 7:
   
   > Could not resolve hostname X: Non-recoverable failure in name resolution
   
@@ -1135,6 +1173,7 @@ file the-bash-programming-language.scroll
   date 2010-2-25
   permalink the-bash-programming-language
   
+  I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
   
   Then I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.
   
@@ -1231,6 +1270,7 @@ file ansi-or-ascii-and-unicode-or-utf-8-and-newlines.scroll
   date 2010-2-25
   permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines
   
+  <nomarkdown>The key things you need to know:
   
   ANSI (aka ASCII) and UTF-8 (aka "UnicodeTransformation Format" or just "Unicode") are ways to encode text files into binary data.
   
@@ -1268,6 +1308,7 @@ file case-sensitivity-in-mysql-table-names-and-lower_case_table_names.scroll
   date 2010-2-27
   permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names
   
+  <nomarkdown>On linux, filenames and directories are case sensitive. <code>file</code> and <code>File</code> are different files.
   
   On Windows, filenames are not case sensitive. <code>file</code> and <code>File</code> are the same file.
   
@@ -1293,6 +1334,7 @@ file pwd-while-in-a-symlink-directory.scroll
   date 2010-3-1
   permalink pwd-while-in-a-symlink-directory
   
+  to get the actual directory, run:
   
   > /bin/pwd
 file vim-macros.scroll
@@ -1301,6 +1343,7 @@ file vim-macros.scroll
   date 2010-3-9
   permalink vim-macros
   
+  <nomarkdown>Let's say you want to add comments to your php functions following the conventional format:
   
   <blockquote>/**
   * Returns the sum of 2 variables.
@@ -1311,8 +1354,8 @@ file vim-macros.scroll
   */
   function sum($a, $b)
   {
-  $sum = $a + $b;
-  return $sum;
+   $sum = $a + $b;
+   return $sum;
   }
   </blockquote>
   
@@ -1341,13 +1384,14 @@ file recursive-ls.scroll
   date 2010-3-10
   permalink recursive-ls
   
-  
+  Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
 file gca-alias-for-faster-git.scroll
  data
   title gca alias for faster git
   date 2010-3-10
   permalink gca-alias-for-faster-git
   
+  <nomarkdown>
   One of my most frequent commands is:
   
   <blockquote>git commit -am "message"</blockquote>
@@ -1361,6 +1405,7 @@ file dump-mysql-schema-only.scroll
   date 2010-3-10
   permalink dump-mysql-schema-only
   
+  I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
   
   <blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql </blockquote>
   
@@ -1371,6 +1416,7 @@ file ls-color-scheme.scroll
   date 2010-3-10
   permalink ls-color-scheme
   
+  <nomarkdown>found this <a href="http://cygwin.com/ml/cygwin/2002-06/msg00594.html">helpful color scheme</a> for ls. toss in your bash_profile.
   
   <blockquote>
   alias ls="ls --color=auto"

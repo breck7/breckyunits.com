@@ -2,6 +2,7 @@ title Use grep to search multiple files at once
 date 2009-11-22
 permalink use-grep-to-search-multiple-files-at-once
 
+grep lets you search through multiple text files at once.
 
 I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
 

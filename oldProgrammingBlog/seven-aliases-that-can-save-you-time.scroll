@@ -2,6 +2,8 @@ title Seven aliases that can save you time
 date 2010-0-13
 permalink seven-aliases-that-can-save-you-time
 
+Add these to your .bash_profile to speed up common tasks:
+
 code
  alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
  alias www='cd /var/www/html/' # enter your root web directory

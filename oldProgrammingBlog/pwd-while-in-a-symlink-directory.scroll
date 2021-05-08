@@ -2,5 +2,7 @@ title pwd while in a symlink directory
 date 2010-3-1
 permalink pwd-while-in-a-symlink-directory
 
+to get the actual directory, run:
+
 code
  /bin/pwd

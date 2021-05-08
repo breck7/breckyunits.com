@@ -2,6 +2,7 @@ title Use aliases to save time
 date 2009-11-28
 permalink use-aliases-to-save-time
 
+Using aliases in Linux can save you a lot of time. Here's an example:
 
 code
  alias www='cd /var/www/html/'

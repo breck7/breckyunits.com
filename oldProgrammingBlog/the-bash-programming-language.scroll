@@ -2,6 +2,7 @@ title The BASH Programming Language
 date 2010-2-25
 permalink the-bash-programming-language
 
+I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
 
 Then I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.
 

@@ -2,6 +2,7 @@ title Use sed to find and replace
 date 2010-0-20
 permalink use-sed-to-find-and-replace
 
+<a href="http://breckyunits.com/code/use_grep_to_search_multiple_files_at_once">grep</a> is to find what sed is to replace.
 
 Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
 

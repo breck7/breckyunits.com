@@ -2,6 +2,8 @@ title ls color scheme
 date 2010-3-10
 permalink ls-color-scheme
 
+found this <a href="http://cygwin.com/ml/cygwin/2002-06/msg00594.html">helpful color scheme</a> for ls. toss in your bash_profile.
+
 code
  alias ls="ls --color=auto"
  LS_COLORS="di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1"

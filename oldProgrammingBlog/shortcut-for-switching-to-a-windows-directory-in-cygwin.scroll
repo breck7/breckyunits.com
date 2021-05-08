@@ -2,6 +2,7 @@ title Shortcut for switching to a Windows directory in Cygwin
 date 2010-1-1
 permalink shortcut-for-switching-to-a-windows-directory-in-cygwin
 
+In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
 
 I made a small bash script called `wcd` that makes it easier.
 
