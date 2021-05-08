@@ -1,11 +1,167 @@
 {
+	"1317054733": {
+		"Title": "ack and ackmate",
+		"Essay": "So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.\r\n\r\nGrep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href=\"http://betterthangrep.com/\">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).\r\n\r\nThis is probably something I would have learned faster had I been doing more pair programming with senior devs."
+	},
+	"1316732606": {
+		"Title": "nohup and disown",
+		"Essay": "Just read a good guide on how to keep commands running when you exit ssh:\r\n\r\n<a href=\"http://playingwithsid.blogspot.com/2007/10/disown-nohup-bash-commands.html\">Disown, nohup : Bash Commands</a>.\r\n\r\nBasically:\r\n\r\n> nohup ./mycommand &\r\n\r\nAdding the ampersand to the end of a command in Nix executes the command in the background and gives you back your shell. However, if you quit your terminal the process will be killed. The nohup command takes care of that. \r\n\r\nWhat is nohup? It's another obfuscated Nix low level utility that is an abbreviation for \"No Hangup Signal\", in other words: if the terminal sends a hangup signal, normally that kills all running processes, but this says ignore that.\r\n\r\n<a href=\"http://en.wikipedia.org/wiki/Nohup\">More on nohup.</a>"
+	},
+	"1316062820": {
+		"Title": "New shortcuts",
+		"Essay": "Gmail:\r\n\r\ngi - go to inbox\r\nc - compose\r\nj/k - go up and down, enter go to a page.\r\ngt - go to sent\r\n\r\nMac:\r\nctrl+a - home/start of line\r\nctrl+e - end"
+	},
+	"1316021279": {
+		"Title": "Apache, SSL and self signed certificates",
+		"Essay": "Just read an excellent guide about <a href=\"http://www.akadia.com/services/ssh_test_certificate.html\">how to create self-signed certificates.</a>\r\n\r\nHere's what it boils down to:\r\n<pre>\r\n# The cool thing about SSL is it's just 2 text files. A public key and a private key.\r\n# They have a \"pem\" and a \"crt\" extension, but they are just plain text. Neat. \r\n\r\n# Okay, first step is to create a private key \"pem\" file.\r\n# every time you run this the random output pem file will be different:\r\nopenssl genrsa -des3 -out private_key.pem 1024\r\n# (enter passphrase)\r\n\r\n# Next, generate a \"signing request\".\r\nopenssl req -new -key private_key.pem -out private_key_certificate_signing_request.csr\r\n# (for common name enter the full domain name:\r\n# (the extra options aren't necessary--just hit enter)\r\n\r\n# Next remove the password from the private_key. Otherwise you'd have to enter\r\n# that password at all sorts of inconvenient times.....be careful because\r\n# if someone gets this unencrypted ket, you'll need to get a new cert..so make your pem readable\r\n# only by root!\r\ncp private_key.pem private_key.pem.original\r\nopenssl rsa -in private_key.pem.original -out private_key.pem\r\n\r\n# now you can generate your public self signed certificate:\r\nopenssl x509 -req -days 365 -in private_key_certificate_signing_request.csr -signkey private_key.pem -out self_signed_public_certificate.crt\r\n\r\n# now copy the private key (pem file) and the public key ( crt file ) to your web server.\r\nmkdir /etc/httpd/certs\r\ncp self_signed_public_certificate.cert /etc/httpd/certs\r\ncp private_key.pem /etc/httpd/certs\r\n# you can delete the CRT file. you don't need that crap anymore. you got the cert/public key and the pem/private key. thats all you need\r\nrm private_key_certificate_signing_request.csr\r\n\r\n\r\n# if you don't have mod_ssl installed you need to install it. on fedora:\r\nyum install mod_ssl\r\n\r\n#now edit the apache config to let apache with mod_ssl know where the keys are:\r\nSSLEngine on\r\nSSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt\r\nSSLCertificateKeyFile /etc/httpd/certs/private_key.pem\r\n</pre>"
+	},
+	"1315959061": {
+		"Title": "EC2 Command Line Tools",
+		"Essay": "Step 1. Download them. http://aws.amazon.com/developertools/351\r\n\r\nStep 2. Set Java path in your .bash_profile:\r\n\r\n> export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Home/\r\n\r\nStep 3. test Java path is correct:\r\n\r\n> $JAVA_HOME/bin/java -version \r\n\r\nStep 4. set ec2 path in your .bash_profile:\r\n\r\n> export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1\r\n> export PATH=$PATH:$EC2_HOME/bin \r\n\r\nStep 5.\r\n"
+	},
+	"1315609266": {
+		"Title": "zip a directory in linux",
+		"Essay": "> zip -r backup mydir/\r\n\r\n> zip -r backup ."
+	},
+	"1315255596": {
+		"Title": "Recursive Sed",
+		"Essay": "As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:\r\n\r\n> #!/bin/bash\r\n> perl -e \"s/$1/$2/g;\" -pi $(find . -type f)\r\n\r\nI put this in a file named ~/rsed\r\n\r\nThen in my .bash_profile:\r\n\r\n> alias rsed=\"~/rsed\"\r\n\r\nNow I can use it like so:\r\n\r\n> rsed old new"
+	},
+	"1314912731": {
+		"Title": "netstat",
+		"Essay": "Every wonder what's listening on what ports?\r\n\r\n> netstat -lp"
+	},
+	"1313597303": {
+		"Title": "Bash History",
+		"Essay": "Understanding and mastering bash history can:\r\n\r\n1. Save you a lot of time, keystrokes, and errors.\r\n2. Allow you to easily create shell scripts for common tasks (such as setting up a server).\r\n\r\nHere's a terrific guide on using <a href=\"http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/\">Bash History effectively</a>."
+	},
+	"1313519187": {
+		"Title": "Amazing SSH Tricks",
+		"Essay": "Just read an article that contains some <a href=\"http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html\">amazing SSH tricks.</a>"
+	},
+	"1313252370": {
+		"Title": "ngrep for packet monitoring",
+		"Essay": "I just came across a neat command line tool, ngrep, via this <a href=\"http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/\">site</a>.\r\n\r\nSample usage:\r\n\r\n> ngrep -q -W byline \"^(GET|POST) .*\""
+	},
+	"1312916840": {
+		"Title": "Basic Linux Monitoring",
+		"Essay": "Show memory usage:\r\n\r\n> free -m\r\n\r\nAdd this to your bash_profile:\r\n\r\n> alias free=\"free -m\"\r\n\r\n> top\r\n\r\nShow all processes\r\n\r\n> ps -a\r\n\r\nDisk free space:\r\n\r\n> df"
+	},
+	"1312829719": {
+		"Title": "Creating a bootable Linux USB disk on Mac",
+		"Essay": "- Download the ISO\r\n- Convert iso to img on terminal:\r\n\r\n> hdiutil convert -format UDRW -o ~/path/to/new.img ~/path/to/source.iso\r\n\r\n- Open Disk Utility. Right click the drive and click Information, then note the drive path (disk1 or disk2 for example)\r\n- Right click the Disk and click Unmount\r\n- Back in terminal:\r\n\r\n> sudo su root\r\n> dd if=/path/to/new.img of=/dev/rDISKNUMBER bs=1m\r\n\r\nWhere DISKNUMBER = disk1 or disk2 for example. Add that leading \"r\".\r\n\r\n> Back in Disk Utility, unmount/eject the disk.\r\n\r\nDone!"
+	},
+	"1312417196": {
+		"Title": "Notepad++ HAML Syntax Highlighting and other custom extension mapping",
+		"Essay": "I want my HAML files to have PHP(or Ruby) syntax highlighting. \r\n\r\nSettings > Style Configurator\r\n\r\nThen click php and under \"user ext\" (in the bottom left) add haml"
+	},
+	"1312395808": {
+		"Title": "Mac Terminal Cursor Trick",
+		"Essay": "If you hold the \"option\" key while using the Mac terminal you can use your mouse and click on where you want the cursor to go. This comes in handy if you mistype a command and don't want to retype the whole thing. It also kind of negates the need for a \"home\" key on the terminal."
+	},
+	"1312044120": {
+		"Title": "Apache Conf and Htaccess Examples",
+		"Essay": "Configuring Apache can be a pain. I'm going to try and collect links to great resources. The official docs are good, but they really need to add commenting so people can expand upon the resources available.\r\n\r\n<a href=\"http://www.evolt.org/ultimate_htaccess_examples\">http://www.evolt.org/ultimate_htaccess_examples</a>"
+	},
+	"1311812311": {
+		"Title": "Fix for \"selinux 3.82\" stuck while installing Ubuntu from USB Drive",
+		"Essay": "If you are installing Ubuntu from USB and are getting stuck at the \"SELINUX 3.82\" screen, you'll need to edit the selinux/selinux.cnf file on the USB stick and comment out the \"vesamenu.c32\" line, and remove the \"ui\" from the last line."
+	},
+	"1309448821": {
+		"Title": "My Programming Setup",
+		"Essay": "Here's my setup. This is kind of for my reference but you can also check it out if you're interested.\r\n\r\n- Macbook Air. 4GB. 256GB HD.\r\n- VMWare Fusion almost solely to run Notepad++\r\n- In Fusion I removed the Apple+W shortcut they map by default. Also, I map the Apple Key to the windows Ctrl key and the Mac control key to the Windows Key.\r\n- I configure Notepad++ to use 2 spaces instead of tabs.\r\n- I run Fusion in Unity mode and have the Windows taskbar at the bottom of the screen.\r\n- I make the Mac tray pretty small at the bottom of the screen and set it to disappear.\r\n- I run Cinch on my Mac to get the next drag and drop for side by side comparison function that comes with Windows 7.\r\n- I run Dropbox on the Mac. I share a folder using Fusion to have access to it in Windows.\r\n- I disable network access on the Windows virtual machine so I don't have to worry about viruses etc on that guy.\r\n- I enabled a firmware password on my macbook.\r\n- I add a lot of things to my bash_profile on the mac and pretty much always have at least 1 terminal window open.\r\n- I use textmate on the mac occasionally but try to do all my work in Notepad++.\r\n- I run MAMP on the Mac and WAMP on the WinVM.\r\n- I bump up the font size on a lot of things like terminal etc.\r\n- I go to \"Keyboard\" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.\r\n\r\n\r\n"
+	},
+	"1309229322": {
+		"Title": "What Happens When you Open a 1.7 GB text file?",
+		"Essay": "I downloaded the Verisign Master .com TLD zone file which weighs in at a hefty 1.7 GB. What happens when I open it with different programs on my Windows 7 Samsung netbook?\r\n\r\nWith Windows Notepad:\r\n\r\n> You quickly get a \"File is too large. Open with a different text editor.\" message. Graceful <b>FAIL</b>\r\n\r\nWith Microsoft Wordpad:\r\n\r\n> Immediately got a \"Not Responding\". On the status bar it says \"3% complete\" but 3 minutes later it hasn't changed. I'm going to go ahead and CtrlAltDelete this one. Disgraceful <b>FAIL</b>.\r\n\r\nWith Notepad++:\r\n\r\n> \"File is too big\" error. Graceful <b>FAIL</b>.\r\n\r\nVIM in Cygwin:\r\n\r\n> It appears frozen.\r\n\r\nI will continue this post at a later date.\r\n\r\n\r\n\r\n"
+	},
+	"1306257695": {
+		"Title": "Wildcard Subdomains with GoDaddy",
+		"Essay": "Just create a new A Record with * as the host and your IP in the points to field."
+	},
+	"1302737806": {
+		"Title": "Quickly Set up a Web Proxy Server",
+		"Essay": "Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.\r\n\r\nHere's a great article that shows how:\r\n<a href=\"http://articles.slicehost.com/2009/1/6/ssh-socks-proxy\">http://articles.slicehost.com/2009/1/6/ssh-socks-proxy</a>.\r\n\r\nI also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off."
+	},
+	"1302606972": {
+		"Title": "A few new Tricks in Notepad++",
+		"Essay": "I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). \r\n\r\nThe one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.\r\n\r\nHere are some things I'm using a lot more now in Notepad++:\r\n\r\n- Bookmarks. Hit Ctrl+F2 to set a bookmark on any line of code and then hit F2 to jump between bookmarks. Shift+F2 goes back a bookmark.\r\n- SourceCookifier. This is a neat plugin that lets you jump to the definition of a function by hitting Ctrl+Shift+Enter. This is one feature from IDEs that I missed. It also provides a nice sidebar with a breakdown of your code(functions, vars, etc.). \r\n- FileSwitcher. A plugin that lets you hit Ctrl+Shift+o and then just type the name of the file you want to work on. Much quicker way to switch files than clicking or ctrl tabbing.\r\n- Goto. Ctrl+G lets you jump to a line number quick. I've used this in the past but am using it more often now.\r\n- Column Editor. Pretty handy sometimes.\r\n- Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code. \r\n"
+	},
+	"1294859631": {
+		"Title": "RVM Quick Reference",
+		"Essay": "Return to the Mac OS X default Ruby install:\r\n\r\n> rvm system\r\n\r\nSwitch to Ruby 1.9.2:\r\n\r\n> rvm 1.9.2\r\n\r\nCreate a new gemset:\r\n\r\n> rvm gemset create rails3\r\n\r\nSwitch to newly created gemset:\r\n\r\n> rvm 1.9.2@rails3\r\n\r\nInstall rails 3 on new gemset:\r\n\r\n> gem install rails -v 3.0.3\r\n\r\nReturn to default ruby install:\r\n\r\n> rvm system\r\n\r\nInstall a new version of Ruby:\r\n\r\n> rvm install 1.9.2"
+	},
+	"1294169376": {
+		"Title": "Forward a port on a remote server to your local machine with an SSH Reverse Tunnel",
+		"Essay": "Say you are running a web server locally and want to show it to someone else remotely.\r\n\r\nYou have a few ways to do this:\r\n\r\n1. Provide your local IP address to the person.\r\n2. Setup DNS to point a domain to your local IP.\r\n\r\nBut what if your local computer is behind a NAT and you don't want to configure port forwarding on your router?\r\n\r\nOne option if you have a publicly facing server already is to create a reverse SSH tunnel with that server. This allows you to forward a port on that server to a port on your local server.\r\n\r\nFor instance, on my Mac OS X machine I open terminal and type this command:\r\n\r\n> ssh -nNT -R 3333:localhost:3333 username@yourdomain.com\r\n\r\nThis will connect to my server (yourdomain.com), and forward traffic from port 3333 on that server to my local machine. Now I can tell someone to go to yourdomain.com:3333 and that would be the equivalent of them going to localhost:3333.\r\n\r\nNotes:\r\nMake sure to add a rule to your IPTables config to allow inbound traffic to port 3333."
+	},
+	"1289930923": {
+		"Title": "Features I Miss from Notepad++ in Textmate",
+		"Essay": "Here are a few things I really miss from Notepad++:\r\n\r\n- When you doubleclick a word in Notepad++, all occurrences of that word are highlighted in green. \r\n\r\n- Notepad++ has great autocompletion. Once you type a word in a document, that word is added to the autocompletion list. Autocompletion drops down inline too which is great.\r\n\r\nIf anyone nows how to replicate these things in Textmate please let me know! Thanks."
+	},
+	"1288825550": {
+		"Title": "Git ignore a file that's in the repo",
+		"Essay": "Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:\r\n\r\n> git update-index --assume-unchanged filepath\r\n\r\nand to reverse:\r\n\r\n> git update-index --no-assume-unchanged filepath\r\n\r\n<a href=\"http://www.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/\">Learn more here.</a>"
+	},
+	"1288748539": {
+		"Title": "Adjusting to a Mac",
+		"Essay": "For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.\r\n\r\nAfter a week I'm finally starting to get used to it. I'm starting to really customize it and that seems to make all the difference. I've removed nearly everything from the dock, added a bunch of things to my bash profile, and a friend at work gave me a crash course in Textmate.\r\n\r\nI've downloaded a program called <a href=\"http://www.irradiatedsoftware.com/sizeup/\">Sizeup</a>, which not only emulates the awesome \"Snap\" feature of Windows 7, but in fact is even better. It gives you the left/right 50% snap feature just like in Win7, but also lets you snap things into top/bottom and even snap things into quadrants. Pretty nice software.\r\n\r\nFirefox is my favorite of the 3 browsers on the Mac. I loved Chrome on Windows because it was so fast, but this Air is so blazing fast that running Firefox or Chrome on Mac makes little difference.\r\n\r\nI've added the Secret Preferences menu and turned \"show all hidden files and folders\" on. I hate not seeing everything in a folder. \r\n\r\nI created an alias \"dsdelete\" to quickly recursively delete DS_Store hidden files (helpful when zipping folders for sharing). \r\n\r\nI learned the \"open .\" command and changed the terminal color scheme. \r\n\r\nI installed RubyMine and Web Developer Toolbar and Tamper Data and Charles and Dropbox. I'm still trying out VMWare Fusion and haven't decided if I want it yet.\r\n\r\nI've slowly gotten used to the keyboard. I tried spaces but have turned it back off for now. Expose I hardly use yet.\r\n\r\nAll in all, I'm really enjoying the speed, instant on, the light weight of the computer, Ruby on a Mac (doing Rails dev on Windows is a pain), having a real terminal(cygwin is great, but native is better), and the fact that 50% of my CPU isn't dedicated to fighting viruses. I'm still developing slower on this machine but hoping that my speed will improve with time.\r\n\r\nI'd say the odds at this point are 60-40 in favor of me sticking with it this time."
+	},
+	"1288388448": {
+		"Title": "Remove all DS_Store files recursively",
+		"Essay": "> find . -type f -name \".DS_Store\" -exec rm {} \\;"
+	},
+	"1284513372": {
+		"Title": "Windows 7 Hosts File",
+		"Essay": "<nomarkdown>\r\nThe file is located at:\r\n\r\n> windows/system32/drivers/etc/host\r\n\r\nMac hosts file:\r\n\r\n> /private/etc/hosts\r\n"
+	},
+	"1284513347": {
+		"Title": "Rubyful Soup",
+		"Essay": "<nomarkdown>\r\nI was a big fan of BeautifulSoup in Python and was excited to see a Ruby port(http://www.crummy.com/software/RubyfulSoup/).\r\n\r\nSadly it's no longer being maintained.\r\n\r\nTo get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:\r\n\r\nLine 19 - comment out 'require 'jcode''\r\n\r\nLine 233 - remove the colon"
+	},
+	"1284399453": {
+		"Title": "VIM and Rails",
+		"Essay": "<a href=\"http://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide/\">Check out this guide.</a>\r\n<nomarkdown>\r\nfiletype on  \" Automatically detect file types.\r\nset nocompatible  \" We don't want vi compatibility.\r\n\r\n\" Add recently accessed projects menu (project plugin)\r\nset viminfo^=!\r\n\r\n\" Minibuffer Explorer Settings\r\nlet g:miniBufExplMapWindowNavVim = 1\r\nlet g:miniBufExplMapWindowNavArrows = 1\r\nlet g:miniBufExplMapCTabSwitchBufs = 1\r\nlet g:miniBufExplModSelTarget = 1\r\n\r\n\" alt+n or alt+p to navigate between entries in QuickFix\r\nmap <silent> <m-p> :cp <cr>\r\nmap <silent> <m-n> :cn <cr>\r\n\r\n\" Change which file opens after executing :Rails command\r\nlet g:rails_default_file='config/database.yml'\r\n\r\nsyntax enable\r\n\r\nset ruler  \" Ruler on\r\nset nu  \" Line numbers on\r\nset ruler  \" Ruler on\r\nset nu  \" Line numbers on\r\nset nowrap  \" Line wrapping offset nowrap  \" Line wrapping off\r\n\r\nset timeoutlen=250  \" Time to wait after ESC (default causes an annoying\r\nset ts=2  \" Tabs are 2 spaces\r\n\r\nset laststatus=2  \" Always show status line."
+	},
+	"1284138524": {
+		"Title": "PHPUnit Filter Option",
+		"Essay": "Say you are running PHPUnit from the command line and want to run just a specific test as opposed to a whole class of tests.\r\n\r\nFor example, say you have a tests.php file that contains a FileWriter_Test_Class with a test method named testFileWriter that you want to run.\r\n\r\nDo this:\r\n\r\n> phpunit --filter testFileWriter FileWriter_Test_Class tests.php"
+	},
+	"1284065402": {
+		"Title": "Kill a Detached Rails Webrick Server",
+		"Essay": "From your rails app's root:\r\n\r\n> cat tmp/pids/server.pid\r\n\r\n> kill -9 {pid}"
+	},
+	"1283795300": {
+		"Title": "Cygwin SSH Client Keep Alive",
+		"Essay": "<nomarkdown>\r\nAdd this to your /etc/defaults/etc/ssh_config file to prevent SSH servers from disconnecting you after inactivity:\r\n\r\n> ServerAliveInterval 60\r\n\r\n\r\n"
+	},
+	"1283657196": {
+		"Title": "A Pretty Picture",
+		"Essay": "<img src=\"ca.png\">\r\n<pre>\r\n<style>\r\nbody {\r\nmargin: 0px;\r\n\tpadding: 0px;\r\n\ttext-align:right;\r\n}\r\ndiv {\r\n\theight: 1px;\r\n\twidth:1px;\r\n\tdisplay:inline-block;\r\n}\r\n</style>\r\n<table cellpadding=0 cellspacing = 0>\r\n<?php\r\n// http://php.net/manual/ja/function.base-convert.php\r\nfunction unfucked_base_convert ($numstring, $frombase, $tobase) {\r\n\r\n $chars = \"0123456789abcdefghijklmnopqrstuvwxyz\";\r\n   $tostring = substr($chars, 0, $tobase);\r\n\r\n   $length = strlen($numstring);\r\n   $result = '';\r\n   for ($i = 0; $i < $length; $i++) {\r\n       $number[$i] = strpos($chars, $numstring{$i});\r\n   }\r\n   do {\r\n       $divide = 0;\r\n $newlen = 0;\r\n       for ($i = 0; $i < $length; $i++) {\r\n  $divide = $divide * $frombase + $number[$i];\r\n           if ($divide >= $tobase) {\r\n               $number[$newlen++] = (int)($divide / $tobase);\r\n               $divide = $divide % $tobase;\r\n           } elseif ($newlen > 0) {\r\n $number[$newlen++] = 0;\r\n           }\r\n       }\r\n       $length = $newlen;\r\n       $result = $tostring{$divide} . $result;\r\n }\r\n   while ($newlen != 0);\r\n   return $result;\r\n}\r\n\r\nfunction print_ca($number)\r\n{\r\n\t\r\n\t$digits = str_split(unfucked_base_convert($number,10,2));\r\n\t\r\n\tforeach ($digits as $digit)\r\n\t{\r\n\t\t?><div style=\"background:#<?=($digit ?\"000\":\"fff\")?>;\"></div><?php\r\n\t}\r\n\techo \"<div style='background:red;' title='$number'></div><br>\";\r\n}\r\n\r\nfor ($x = 1; $x < 300; $x++)\r\n{\r\n\t$str = \"1\";\r\n\t$z = $x;\r\n\twhile ($z)\r\n\t{\r\n\t\t$str .= \"0\";\r\n\t\t$z--;\r\n\t}\r\n\tprint_ca($str);\r\n}\r\n</pre>"
+	},
+	"1283627386": {
+		"Title": "Augmented Gitignore",
+		"Essay": "<nomarkdown>\r\n.bundle\r\ndb/*.sqlite3*\r\nlog/*.log\r\n*.log\r\ntmp/**/*\r\ntmp/*\r\ndoc/api\r\ndoc/app\r\n*.swp\r\n*~\r\n.DS_Store\r\n\r\n<a href=\"http://railstutorial.org/chapters/beginning#sec:adding_and_committing\">Source</a>"
+	},
+	"1280510661": {
+		"Title": "Windows Flush DNS",
+		"Essay": "Open cmd.exe.\r\n\r\nRun:\r\n\r\n> ipconfig /flushdns"
+	},
+	"1277849559": {
+		"Title": "Insert a line of text to the top of a file",
+		"Essay": "If you have a massive text file you want to add a line to without opening the file, here's a quick solution:\r\n\r\n> sed -e '1i\\text_to_insert' -i file.txt\r\n\r\n"
+	},
+	"1272417738": {
+		"Title": "wget don't save file",
+		"Essay": "> wget -O /dev/null http://address.com"
+	},
 	"1270943514": {
 		"Title": "ls color scheme",
 		"Essay": "<nomarkdown>found this <a href=\"http://cygwin.com/ml/cygwin/2002-06/msg00594.html\">helpful color scheme</a> for ls. toss in your bash_profile.\r\n\r\n<blockquote>\r\nalias ls=\"ls --color=auto\"\r\nLS_COLORS=\"di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1\"\r\nexport LS_COLORS\r\n</blockquote>"
 	},
 	"1270936782": {
 		"Title": "Dump MySQL schema only",
-		"Essay": "I found this command to <a href=\"http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/\">dump just the schema</a>.\r\n\r\n<blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql </blockquote>\r\n\r\nYou can then <a href=\"http://breckyunits.com/code/how_to_load_a_sql_file_into_mysql\">load the file easily</a>."
+		"Essay": "I found this command to <a href=\"http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/\">dump just the schema</a>.\r\n\r\n<blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql  </blockquote>\r\n\r\nYou can then <a href=\"http://breckyunits.com/code/how_to_load_a_sql_file_into_mysql\">load the file easily</a>."
 	},
 	"1270935201": {
 		"Title": "gca alias for faster git",
@@ -33,7 +189,7 @@
 	},
 	"1269546681": {
 		"Title": "The BASH Programming Language",
-		"Essay": "I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.\r\n\r\nThen I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.\r\n\r\nHere's the core of what you need to know:\r\n\r\n<b>Use the .sh file extension</b>\r\n\r\nA BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.\r\n\r\n<b>Start your scripts with #!/bin/bash</b>\r\n\r\n> #!/bin/bash\r\n\r\nPHP scripts start with The echo statement</b>\r\n\r\nHere's your first bash script (name it hello.sh):\r\n\r\n> #!/bin/bash<br>\r\n> echo \"Hello World\"\r\n\r\nThe *echo* command prints a string and also a new line at the end.\r\n\r\n<b>Running your script</b>\r\n\r\nYour script must be **executable**. To make it executable, you need to change the <a href=\"http://breckyunits.com/code/fix_permission_problems_using_chmod\">file permissions</a>. This would make your hello.sh script executable:\r\n\r\n> chmod 777 hello.sh\r\n\r\nTo run your script, from the directory where your script is located, type this:\r\n\r\n> ./hello.sh\r\n\r\nThe \"./\" substitutes the current directory. In other words, typing\r\n\r\n> ./hello.sh\r\n\r\nis equivalent to typing the full path to the file such as this:\r\n\r\n> /home/breck/hello.sh\r\n\r\n<b>Command line Paramters</b>\r\n\r\nCommand line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:\r\n\r\n> #!/bin/bash\r\n> echo \"Hello World\"\r\n> echo $1\r\n> echo $2\r\n\r\nNow run your script like this:\r\n\r\n> ./hello2.sh hi breck\r\n\r\nIt should print this:\r\n\r\n> Hello World\r\n> hi\r\n> breck\r\n\r\nThe hi got stored in $1, and the breck got stored in $2.\r\n\r\n<b>Functions</b>\r\n\r\nFunctions are pretty simple and straightforward:\r\n\r\n> #!/bin/bash\r\n> echo \"Hello World\"\r\n> echo $1\r\n> echo $2\r\n> function hi_name {\r\n> echo \"hi\"\r\n> echo $1\r\n> }\r\n> hi_name $3\r\n\r\nNotice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:\r\n\r\n> ./hello2.sh hi breck conor\r\n\r\nIt should print this:\r\n\r\n> Hello World\r\n> hi\r\n> breck\r\n> hi\r\n> conor\r\n\r\nNotice what's going on with parameter passing and scope.\r\n\r\nThat's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it."
+		"Essay": "I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.\r\n\r\nThen I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.\r\n\r\nHere's the core of what you need to know:\r\n\r\n<b>Use the .sh file extension</b>\r\n\r\nA BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.\r\n\r\n<b>Start your scripts with #!/bin/bash</b>\r\n\r\n> #!/bin/bash\r\n\r\nPHP scripts start with <?php. Bash scripts should start with #!/bin/bash. No closing tag necessary.\r\n\r\n<b>The echo statement</b>\r\n\r\nHere's your first bash script (name it hello.sh):\r\n\r\n> #!/bin/bash<br>\r\n> echo \"Hello World\"\r\n\r\nThe *echo* command prints a string and also a new line at the end.\r\n\r\n<b>Running your script</b>\r\n\r\nYour script must be **executable**. To make it executable, you need to change the <a href=\"http://breckyunits.com/code/fix_permission_problems_using_chmod\">file permissions</a>. This would make your hello.sh script executable:\r\n\r\n> chmod 777 hello.sh\r\n\r\nTo run your script, from the directory where your script is located, type this:\r\n\r\n> ./hello.sh\r\n\r\nThe \"./\" substitutes the current directory. In other words, typing\r\n\r\n> ./hello.sh\r\n\r\nis equivalent to typing the full path to the file such as this:\r\n\r\n> /home/breck/hello.sh\r\n\r\n<b>Command line Paramters</b>\r\n\r\nCommand line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:\r\n\r\n> #!/bin/bash\r\n> echo \"Hello World\"\r\n> echo $1\r\n> echo $2\r\n\r\nNow run your script like this:\r\n\r\n> ./hello2.sh hi breck\r\n\r\nIt should print this:\r\n\r\n> Hello World\r\n> hi\r\n> breck\r\n\r\nThe hi got stored in $1, and the breck got stored in $2.\r\n\r\n<b>Functions</b>\r\n\r\nFunctions are pretty simple and straightforward:\r\n\r\n> #!/bin/bash\r\n> echo \"Hello World\"\r\n> echo $1\r\n> echo $2\r\n> function hi_name {\r\n> echo \"hi\"\r\n> echo $1\r\n> }\r\n> hi_name $3\r\n\r\nNotice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:\r\n\r\n> ./hello2.sh hi breck conor\r\n\r\nIt should print this:\r\n\r\n> Hello World\r\n> hi\r\n> breck\r\n> hi\r\n> conor\r\n\r\nNotice what's going on with parameter passing and scope.\r\n\r\nThat's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it."
 	},
 	"1269240910": {
 		"Title": "Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution",
@@ -69,7 +225,7 @@
 	},
 	"1265044016": {
 		"Title": "Shortcut for switching to a Windows directory in Cygwin",
-		"Essay": "In cygwin it can be a pain to change to a Windows directory like `C:\\Users\\breck\\Documents\\My Dropbox`.\r\n\r\nI made a small bash script called `wcd` that makes it easier.\r\n\r\n### wcd\r\n\r\n #!/bin/bash\r\n echo $1\r\n newpath=$(echo $1 | sed 's|\\\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')\r\n echo $newpath\r\n cd \"$newpath\" \r\n\r\nThe echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.\r\n\r\nMake this file executable and add an alias into your bash_profile:\r\n\r\n alias wcd=\"source ~/wcd\"\r\n\r\nNow you can just type(or actually copy/paste) something like this:\r\n\r\n wcd \"C:\\Users\\breck\\Documents\\My Dropbox\"\r\n\r\n...and that will take you to the Windows directory.\r\n\r\nNotes\r\n\r\n1. <a href=\"http://gist.github.com/291822\">wcd gist</a>."
+		"Essay": "In cygwin it can be a pain to change to a Windows directory like `C:\\Users\\breck\\Documents\\My Dropbox`.\r\n\r\nI made a small bash script called `wcd` that makes it easier.\r\n\r\n### wcd\r\n\r\n #!/bin/bash\r\n    echo $1\r\n    newpath=$(echo $1 | sed 's|\\\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')\r\n    echo $newpath\r\n    cd \"$newpath\" \r\n\r\nThe echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.\r\n\r\nMake this file executable and add an alias into your bash_profile:\r\n\r\n    alias wcd=\"source ~/wcd\"\r\n\r\nNow you can just type(or actually copy/paste) something like this:\r\n\r\n wcd \"C:\\Users\\breck\\Documents\\My Dropbox\"\r\n\r\n...and that will take you to the Windows directory.\r\n\r\nNotes\r\n\r\n1. <a href=\"http://gist.github.com/291822\">wcd gist</a>."
 	},
 	"1264906475": {
 		"Title": "Cygwin treats the Windows Clipboard like a file",
@@ -121,7 +277,7 @@
 	},
 	"1263401315": {
 		"Title": "Seven aliases that can save you time",
-		"Essay": "Add these to your .bash_profile to speed up common tasks:\n\nalias apr='sudo ./usr/sbin/apachectl restart' # restart apache\nalias www='cd /var/www/html/' # enter your root web directory\nalias hconf='vim /etc/httpd/conf/httpd.conf' # edit your apache config file\nalias eprof='vim ~/.bash_profile' # edit this file\nalias rprof='source ~/.bash_profile' # reload this file (after making edits)\nalias pconf='vim /etc/php.ini' # edit php.ini\nalias lsd=\"ls -l | egrep '^d'\" # list only directories"
+		"Essay": "<nomarkdown>Add these to your .bash_profile to speed up common tasks:\r\n\r\nalias apr='sudo ./usr/sbin/apachectl restart' # restart apache\r\nalias www='cd /var/www/html/' # enter your root web directory\r\nalias hconf='vim /etc/httpd/conf/httpd.conf' # edit your apache config file\r\nalias eprof='vim ~/.bash_profile' # edit this file\r\nalias rprof='source ~/.bash_profile' # reload this file (after making edits)\r\nalias pconf='vim /etc/php.ini' # edit php.ini\r\nalias lsd=\"ls -l | egrep '^d'\" # list only directories"
 	},
 	"1263401184": {
 		"Title": "List only directories using ls",
@@ -181,7 +337,7 @@
 	},
 	"1261331534": {
 		"Title": "SSH into your server without a password",
-		"Essay": "On your server:\r\n\r\n<blockquote>vim /etc/ssh/sshd_config</blockquote>\r\n\r\nMake sure allow rsa and the other RSA lines are uncommented\r\n\r\n<blockquote>service sshd restart</blockquote>\r\n\r\nMake sure the file ~/.ssh/authorized_keys exists(if it doesn't, make that directory and touch that file).\r\n\r\nRun this on your client computer:\r\n\r\n<blockquote>ssh-keygen -t rsa</blockquote>\r\n\r\n(hit enter a bunch of times)\r\n\r\n<blockquote>cat ~/.ssh/id_rsa.pub | ssh YOURUSERNAME@YOURDOMAIN.com \"cat - >> ~/.ssh/authorized_keys\"</blockquote>\r\n\r\n\r\nBam! Login without a password!\r\n\r\nThis is my setup on Fedora VM's running at slicehost.\r\n\r\n### If you are having problems\r\n\r\n1. Run sshd with the verbose option. -v\r\n\r\n2. The problem is likely due to bad file permissions. The owner of the directory .ssh should be your user/group. The file permissions on it should be: 755. (I think)\r\n\r\nauthorized_keys should be the same owner/group and file permissions should be: 644"
+		"Essay": "On your server:\r\n\r\n<blockquote>vim /etc/ssh/sshd_config</blockquote>\r\n\r\nMake sure allow rsa and the other RSA lines are uncommented\r\n\r\n<blockquote>service sshd restart</blockquote>\r\n\r\nMake sure the file ~/.ssh/authorized_keys exists(if it doesn't, make that directory and touch that file).\r\n\r\nRun this on your client computer:\r\n\r\n<blockquote>ssh-keygen -t rsa</blockquote>\r\n\r\n(hit enter a bunch of times)\r\n\r\n<blockquote>cat ~/.ssh/id_rsa.pub | ssh YOURUSERNAME@YOURDOMAIN.com \"cat - >> ~/.ssh/authorized_keys\"</blockquote>\r\n\r\n\r\nBam! Login without a password!\r\n\r\nThis is my setup on Fedora VM's running at slicehost.\r\n\r\n### If you are having problems\r\n\r\n1. Run sshd with the verbose option. -v\r\n\r\n2. The problem is likely due to bad file permissions. The owner of the directory .ssh should be your user/group. The file permissions on it should be: 755. (I think)\r\n\r\nauthorized_keys should be the same owner/group and file permissions should be:  644"
 	},
 	"1261331286": {
 		"Title": "Get VIM Working in Cygwin",

@@ -66,7 +66,7 @@ file ssh-into-your-server-without-a-password.scroll
   
   2. The problem is likely due to bad file permissions. The owner of the directory .ssh should be your user/group. The file permissions on it should be: 755. (I think)
   
-  authorized_keys should be the same owner/group and file permissions should be: 644
+  authorized_keys should be the same owner/group and file permissions should be:  644
 file use-rsync-to-deploy-your-website.scroll
  data
   title Use rsync to deploy your website
@@ -160,7 +160,7 @@ file cron-in-2-steps.scroll
   
   Here is the cron command you would need:
   
-  <blockquote>0 *   *   *   *   wget http://yourdomain.com/backup.zip</blockquote>
+  <blockquote>0	*	*	*	*	wget http://yourdomain.com/backup.zip</blockquote>
   
   You can either memorize the <a href="http://en.wikipedia.org/wiki/Cron#crontab_syntax">crontab syntax</a>, or just this simple Javascript <a href="http://www.openjs.com/scripts/jslibrary/demos/crontab.php">crontab gui</a> will easily generate the code for you.
   
@@ -452,7 +452,7 @@ file seven-aliases-that-can-save-you-time.scroll
   date 2010-0-13
   permalink seven-aliases-that-can-save-you-time
   
-  Add these to your .bash_profile to speed up common tasks:
+  <nomarkdown>Add these to your .bash_profile to speed up common tasks:
   
   alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
   alias www='cd /var/www/html/' # enter your root web directory
@@ -862,16 +862,16 @@ file shortcut-for-switching-to-a-windows-directory-in-cygwin.scroll
   ### wcd
   
    #!/bin/bash
-   echo $1
-   newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
-   echo $newpath
-   cd "$newpath" 
+      echo $1
+      newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
+      echo $newpath
+      cd "$newpath" 
   
   The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
   
   Make this file executable and add an alias into your bash_profile:
   
-   alias wcd="source ~/wcd"
+      alias wcd="source ~/wcd"
   
   Now you can just type(or actually copy/paste) something like this:
   
@@ -1187,7 +1187,9 @@ file the-bash-programming-language.scroll
   
   > #!/bin/bash
   
-  PHP scripts start with The echo statement</b>
+  PHP scripts start with <?php. Bash scripts should start with #!/bin/bash. No closing tag necessary.
+  
+  <b>The echo statement</b>
   
   Here's your first bash script (name it hello.sh):
   
@@ -1407,7 +1409,7 @@ file dump-mysql-schema-only.scroll
   
   I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
   
-  <blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql </blockquote>
+  <blockquote>mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql  </blockquote>
   
   You can then <a href="http://breckyunits.com/code/how_to_load_a_sql_file_into_mysql">load the file easily</a>.
 file ls-color-scheme.scroll
@@ -1423,3 +1425,714 @@ file ls-color-scheme.scroll
   LS_COLORS="di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1"
   export LS_COLORS
   </blockquote>
+file wget-dont-save-file.scroll
+ data
+  title wget don't save file
+  date 2010-3-27
+  permalink wget-dont-save-file
+  
+  > wget -O /dev/null http://address.com
+file insert-a-line-of-text-to-the-top-of-a-file.scroll
+ data
+  title Insert a line of text to the top of a file
+  date 2010-5-29
+  permalink insert-a-line-of-text-to-the-top-of-a-file
+  
+  If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
+  
+  > sed -e '1i\text_to_insert' -i file.txt
+  
+  
+file windows-flush-dns.scroll
+ data
+  title Windows Flush DNS
+  date 2010-6-30
+  permalink windows-flush-dns
+  
+  Open cmd.exe.
+  
+  Run:
+  
+  > ipconfig /flushdns
+file augmented-gitignore.scroll
+ data
+  title Augmented Gitignore
+  date 2010-8-4
+  permalink augmented-gitignore
+  
+  <nomarkdown>
+  .bundle
+  db/*.sqlite3*
+  log/*.log
+  *.log
+  tmp/**/*
+  tmp/*
+  doc/api
+  doc/app
+  *.swp
+  *~
+  .DS_Store
+  
+  <a href="http://railstutorial.org/chapters/beginning#sec:adding_and_committing">Source</a>
+file a-pretty-picture.scroll
+ data
+  title A Pretty Picture
+  date 2010-8-4
+  permalink a-pretty-picture
+  
+  <img src="ca.png">
+  <pre>
+  <style>
+  body {
+  margin: 0px;
+  	padding: 0px;
+  	text-align:right;
+  }
+  div {
+  	height: 1px;
+  	width:1px;
+  	display:inline-block;
+  }
+  </style>
+  <table cellpadding=0 cellspacing = 0>
+  <?php
+  // http://php.net/manual/ja/function.base-convert.php
+  function unfucked_base_convert ($numstring, $frombase, $tobase) {
+  
+   $chars = "0123456789abcdefghijklmnopqrstuvwxyz";
+     $tostring = substr($chars, 0, $tobase);
+  
+     $length = strlen($numstring);
+     $result = '';
+     for ($i = 0; $i < $length; $i++) {
+         $number[$i] = strpos($chars, $numstring{$i});
+     }
+     do {
+         $divide = 0;
+   $newlen = 0;
+         for ($i = 0; $i < $length; $i++) {
+    $divide = $divide * $frombase + $number[$i];
+             if ($divide >= $tobase) {
+                 $number[$newlen++] = (int)($divide / $tobase);
+                 $divide = $divide % $tobase;
+             } elseif ($newlen > 0) {
+   $number[$newlen++] = 0;
+             }
+         }
+         $length = $newlen;
+         $result = $tostring{$divide} . $result;
+   }
+     while ($newlen != 0);
+     return $result;
+  }
+  
+  function print_ca($number)
+  {
+  	
+  	$digits = str_split(unfucked_base_convert($number,10,2));
+  	
+  	foreach ($digits as $digit)
+  	{
+  		?><div style="background:#<?=($digit ?"000":"fff")?>;"></div><?php
+  	}
+  	echo "<div style='background:red;' title='$number'></div><br>";
+  }
+  
+  for ($x = 1; $x < 300; $x++)
+  {
+  	$str = "1";
+  	$z = $x;
+  	while ($z)
+  	{
+  		$str .= "0";
+  		$z--;
+  	}
+  	print_ca($str);
+  }
+  </pre>
+file cygwin-ssh-client-keep-alive.scroll
+ data
+  title Cygwin SSH Client Keep Alive
+  date 2010-8-6
+  permalink cygwin-ssh-client-keep-alive
+  
+  <nomarkdown>
+  Add this to your /etc/defaults/etc/ssh_config file to prevent SSH servers from disconnecting you after inactivity:
+  
+  > ServerAliveInterval 60
+  
+  
+  
+file kill-a-detached-rails-webrick-server.scroll
+ data
+  title Kill a Detached Rails Webrick Server
+  date 2010-8-9
+  permalink kill-a-detached-rails-webrick-server
+  
+  From your rails app's root:
+  
+  > cat tmp/pids/server.pid
+  
+  > kill -9 {pid}
+file phpunit-filter-option.scroll
+ data
+  title PHPUnit Filter Option
+  date 2010-8-10
+  permalink phpunit-filter-option
+  
+  Say you are running PHPUnit from the command line and want to run just a specific test as opposed to a whole class of tests.
+  
+  For example, say you have a tests.php file that contains a FileWriter_Test_Class with a test method named testFileWriter that you want to run.
+  
+  Do this:
+  
+  > phpunit --filter testFileWriter FileWriter_Test_Class tests.php
+file vim-and-rails.scroll
+ data
+  title VIM and Rails
+  date 2010-8-13
+  permalink vim-and-rails
+  
+  <a href="http://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide/">Check out this guide.</a>
+  <nomarkdown>
+  filetype on  " Automatically detect file types.
+  set nocompatible  " We don't want vi compatibility.
+  
+  " Add recently accessed projects menu (project plugin)
+  set viminfo^=!
+  
+  " Minibuffer Explorer Settings
+  let g:miniBufExplMapWindowNavVim = 1
+  let g:miniBufExplMapWindowNavArrows = 1
+  let g:miniBufExplMapCTabSwitchBufs = 1
+  let g:miniBufExplModSelTarget = 1
+  
+  " alt+n or alt+p to navigate between entries in QuickFix
+  map <silent> <m-p> :cp <cr>
+  map <silent> <m-n> :cn <cr>
+  
+  " Change which file opens after executing :Rails command
+  let g:rails_default_file='config/database.yml'
+  
+  syntax enable
+  
+  set ruler  " Ruler on
+  set nu  " Line numbers on
+  set ruler  " Ruler on
+  set nu  " Line numbers on
+  set nowrap  " Line wrapping offset nowrap  " Line wrapping off
+  
+  set timeoutlen=250  " Time to wait after ESC (default causes an annoying
+  set ts=2  " Tabs are 2 spaces
+  
+  set laststatus=2  " Always show status line.
+file rubyful-soup.scroll
+ data
+  title Rubyful Soup
+  date 2010-8-14
+  permalink rubyful-soup
+  
+  <nomarkdown>
+  I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port(http://www.crummy.com/software/RubyfulSoup/).
+  
+  Sadly it's no longer being maintained.
+  
+  To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:
+  
+  Line 19 - comment out 'require 'jcode''
+  
+  Line 233 - remove the colon
+file windows-7-hosts-file.scroll
+ data
+  title Windows 7 Hosts File
+  date 2010-8-14
+  permalink windows-7-hosts-file
+  
+  <nomarkdown>
+  The file is located at:
+  
+  > windows/system32/drivers/etc/host
+  
+  Mac hosts file:
+  
+  > /private/etc/hosts
+  
+file remove-all-ds_store-files-recursively.scroll
+ data
+  title Remove all DS_Store files recursively
+  date 2010-9-29
+  permalink remove-all-ds_store-files-recursively
+  
+  > find . -type f -name ".DS_Store" -exec rm {} \;
+file adjusting-to-a-mac.scroll
+ data
+  title Adjusting to a Mac
+  date 2010-10-2
+  permalink adjusting-to-a-mac
+  
+  For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.
+  
+  After a week I'm finally starting to get used to it. I'm starting to really customize it and that seems to make all the difference. I've removed nearly everything from the dock, added a bunch of things to my bash profile, and a friend at work gave me a crash course in Textmate.
+  
+  I've downloaded a program called <a href="http://www.irradiatedsoftware.com/sizeup/">Sizeup</a>, which not only emulates the awesome "Snap" feature of Windows 7, but in fact is even better. It gives you the left/right 50% snap feature just like in Win7, but also lets you snap things into top/bottom and even snap things into quadrants. Pretty nice software.
+  
+  Firefox is my favorite of the 3 browsers on the Mac. I loved Chrome on Windows because it was so fast, but this Air is so blazing fast that running Firefox or Chrome on Mac makes little difference.
+  
+  I've added the Secret Preferences menu and turned "show all hidden files and folders" on. I hate not seeing everything in a folder. 
+  
+  I created an alias "dsdelete" to quickly recursively delete DS_Store hidden files (helpful when zipping folders for sharing). 
+  
+  I learned the "open ." command and changed the terminal color scheme. 
+  
+  I installed RubyMine and Web Developer Toolbar and Tamper Data and Charles and Dropbox. I'm still trying out VMWare Fusion and haven't decided if I want it yet.
+  
+  I've slowly gotten used to the keyboard. I tried spaces but have turned it back off for now. Expose I hardly use yet.
+  
+  All in all, I'm really enjoying the speed, instant on, the light weight of the computer, Ruby on a Mac (doing Rails dev on Windows is a pain), having a real terminal(cygwin is great, but native is better), and the fact that 50% of my CPU isn't dedicated to fighting viruses. I'm still developing slower on this machine but hoping that my speed will improve with time.
+  
+  I'd say the odds at this point are 60-40 in favor of me sticking with it this time.
+file git-ignore-a-file-thats-in-the-repo.scroll
+ data
+  title Git ignore a file that's in the repo
+  date 2010-10-3
+  permalink git-ignore-a-file-thats-in-the-repo
+  
+  Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:
+  
+  > git update-index --assume-unchanged filepath
+  
+  and to reverse:
+  
+  > git update-index --no-assume-unchanged filepath
+  
+  <a href="http://www.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/">Learn more here.</a>
+file features-i-miss-from-notepad-in-textmate.scroll
+ data
+  title Features I Miss from Notepad++ in Textmate
+  date 2010-10-16
+  permalink features-i-miss-from-notepad-in-textmate
+  
+  Here are a few things I really miss from Notepad++:
+  
+  - When you doubleclick a word in Notepad++, all occurrences of that word are highlighted in green. 
+  
+  - Notepad++ has great autocompletion. Once you type a word in a document, that word is added to the autocompletion list. Autocompletion drops down inline too which is great.
+  
+  If anyone nows how to replicate these things in Textmate please let me know! Thanks.
+file forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.scroll
+ data
+  title Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
+  date 2011-0-4
+  permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel
+  
+  Say you are running a web server locally and want to show it to someone else remotely.
+  
+  You have a few ways to do this:
+  
+  1. Provide your local IP address to the person.
+  2. Setup DNS to point a domain to your local IP.
+  
+  But what if your local computer is behind a NAT and you don't want to configure port forwarding on your router?
+  
+  One option if you have a publicly facing server already is to create a reverse SSH tunnel with that server. This allows you to forward a port on that server to a port on your local server.
+  
+  For instance, on my Mac OS X machine I open terminal and type this command:
+  
+  > ssh -nNT -R 3333:localhost:3333 username@yourdomain.com
+  
+  This will connect to my server (yourdomain.com), and forward traffic from port 3333 on that server to my local machine. Now I can tell someone to go to yourdomain.com:3333 and that would be the equivalent of them going to localhost:3333.
+  
+  Notes:
+  Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.
+file rvm-quick-reference.scroll
+ data
+  title RVM Quick Reference
+  date 2011-0-12
+  permalink rvm-quick-reference
+  
+  Return to the Mac OS X default Ruby install:
+  
+  > rvm system
+  
+  Switch to Ruby 1.9.2:
+  
+  > rvm 1.9.2
+  
+  Create a new gemset:
+  
+  > rvm gemset create rails3
+  
+  Switch to newly created gemset:
+  
+  > rvm 1.9.2@rails3
+  
+  Install rails 3 on new gemset:
+  
+  > gem install rails -v 3.0.3
+  
+  Return to default ruby install:
+  
+  > rvm system
+  
+  Install a new version of Ruby:
+  
+  > rvm install 1.9.2
+file a-few-new-tricks-in-notepad.scroll
+ data
+  title A few new Tricks in Notepad++
+  date 2011-3-12
+  permalink a-few-new-tricks-in-notepad
+  
+  I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). 
+  
+  The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
+  
+  Here are some things I'm using a lot more now in Notepad++:
+  
+  - Bookmarks. Hit Ctrl+F2 to set a bookmark on any line of code and then hit F2 to jump between bookmarks. Shift+F2 goes back a bookmark.
+  - SourceCookifier. This is a neat plugin that lets you jump to the definition of a function by hitting Ctrl+Shift+Enter. This is one feature from IDEs that I missed. It also provides a nice sidebar with a breakdown of your code(functions, vars, etc.). 
+  - FileSwitcher. A plugin that lets you hit Ctrl+Shift+o and then just type the name of the file you want to work on. Much quicker way to switch files than clicking or ctrl tabbing.
+  - Goto. Ctrl+G lets you jump to a line number quick. I've used this in the past but am using it more often now.
+  - Column Editor. Pretty handy sometimes.
+  - Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code. 
+  
+file quickly-set-up-a-web-proxy-server.scroll
+ data
+  title Quickly Set up a Web Proxy Server
+  date 2011-3-13
+  permalink quickly-set-up-a-web-proxy-server
+  
+  Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
+  
+  Here's a great article that shows how:
+  <a href="http://articles.slicehost.com/2009/1/6/ssh-socks-proxy">http://articles.slicehost.com/2009/1/6/ssh-socks-proxy</a>.
+  
+  I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
+file wildcard-subdomains-with-godaddy.scroll
+ data
+  title Wildcard Subdomains with GoDaddy
+  date 2011-4-24
+  permalink wildcard-subdomains-with-godaddy
+  
+  Just create a new A Record with * as the host and your IP in the points to field.
+file what-happens-when-you-open-a-1.7-gb-text-file.scroll
+ data
+  title What Happens When you Open a 1.7 GB text file?
+  date 2011-5-27
+  permalink what-happens-when-you-open-a-1.7-gb-text-file
+  
+  I downloaded the Verisign Master .com TLD zone file which weighs in at a hefty 1.7 GB. What happens when I open it with different programs on my Windows 7 Samsung netbook?
+  
+  With Windows Notepad:
+  
+  > You quickly get a "File is too large. Open with a different text editor." message. Graceful <b>FAIL</b>
+  
+  With Microsoft Wordpad:
+  
+  > Immediately got a "Not Responding". On the status bar it says "3% complete" but 3 minutes later it hasn't changed. I'm going to go ahead and CtrlAltDelete this one. Disgraceful <b>FAIL</b>.
+  
+  With Notepad++:
+  
+  > "File is too big" error. Graceful <b>FAIL</b>.
+  
+  VIM in Cygwin:
+  
+  > It appears frozen.
+  
+  I will continue this post at a later date.
+  
+  
+  
+  
+file my-programming-setup.scroll
+ data
+  title My Programming Setup
+  date 2011-5-30
+  permalink my-programming-setup
+  
+  Here's my setup. This is kind of for my reference but you can also check it out if you're interested.
+  
+  - Macbook Air. 4GB. 256GB HD.
+  - VMWare Fusion almost solely to run Notepad++
+  - In Fusion I removed the Apple+W shortcut they map by default. Also, I map the Apple Key to the windows Ctrl key and the Mac control key to the Windows Key.
+  - I configure Notepad++ to use 2 spaces instead of tabs.
+  - I run Fusion in Unity mode and have the Windows taskbar at the bottom of the screen.
+  - I make the Mac tray pretty small at the bottom of the screen and set it to disappear.
+  - I run Cinch on my Mac to get the next drag and drop for side by side comparison function that comes with Windows 7.
+  - I run Dropbox on the Mac. I share a folder using Fusion to have access to it in Windows.
+  - I disable network access on the Windows virtual machine so I don't have to worry about viruses etc on that guy.
+  - I enabled a firmware password on my macbook.
+  - I add a lot of things to my bash_profile on the mac and pretty much always have at least 1 terminal window open.
+  - I use textmate on the mac occasionally but try to do all my work in Notepad++.
+  - I run MAMP on the Mac and WAMP on the WinVM.
+  - I bump up the font size on a lot of things like terminal etc.
+  - I go to "Keyboard" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.
+  
+  
+  
+file fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.scroll
+ data
+  title Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive
+  date 2011-6-27
+  permalink fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive
+  
+  If you are installing Ubuntu from USB and are getting stuck at the "SELINUX 3.82" screen, you'll need to edit the selinux/selinux.cnf file on the USB stick and comment out the "vesamenu.c32" line, and remove the "ui" from the last line.
+file apache-conf-and-htaccess-examples.scroll
+ data
+  title Apache Conf and Htaccess Examples
+  date 2011-6-30
+  permalink apache-conf-and-htaccess-examples
+  
+  Configuring Apache can be a pain. I'm going to try and collect links to great resources. The official docs are good, but they really need to add commenting so people can expand upon the resources available.
+  
+  <a href="http://www.evolt.org/ultimate_htaccess_examples">http://www.evolt.org/ultimate_htaccess_examples</a>
+file mac-terminal-cursor-trick.scroll
+ data
+  title Mac Terminal Cursor Trick
+  date 2011-7-3
+  permalink mac-terminal-cursor-trick
+  
+  If you hold the "option" key while using the Mac terminal you can use your mouse and click on where you want the cursor to go. This comes in handy if you mistype a command and don't want to retype the whole thing. It also kind of negates the need for a "home" key on the terminal.
+file notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.scroll
+ data
+  title Notepad++ HAML Syntax Highlighting and other custom extension mapping
+  date 2011-7-3
+  permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping
+  
+  I want my HAML files to have PHP(or Ruby) syntax highlighting. 
+  
+  Settings > Style Configurator
+  
+  Then click php and under "user ext" (in the bottom left) add haml
+file creating-a-bootable-linux-usb-disk-on-mac.scroll
+ data
+  title Creating a bootable Linux USB disk on Mac
+  date 2011-7-8
+  permalink creating-a-bootable-linux-usb-disk-on-mac
+  
+  - Download the ISO
+  - Convert iso to img on terminal:
+  
+  > hdiutil convert -format UDRW -o ~/path/to/new.img ~/path/to/source.iso
+  
+  - Open Disk Utility. Right click the drive and click Information, then note the drive path (disk1 or disk2 for example)
+  - Right click the Disk and click Unmount
+  - Back in terminal:
+  
+  > sudo su root
+  > dd if=/path/to/new.img of=/dev/rDISKNUMBER bs=1m
+  
+  Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
+  
+  > Back in Disk Utility, unmount/eject the disk.
+  
+  Done!
+file basic-linux-monitoring.scroll
+ data
+  title Basic Linux Monitoring
+  date 2011-7-9
+  permalink basic-linux-monitoring
+  
+  Show memory usage:
+  
+  > free -m
+  
+  Add this to your bash_profile:
+  
+  > alias free="free -m"
+  
+  > top
+  
+  Show all processes
+  
+  > ps -a
+  
+  Disk free space:
+  
+  > df
+file ngrep-for-packet-monitoring.scroll
+ data
+  title ngrep for packet monitoring
+  date 2011-7-13
+  permalink ngrep-for-packet-monitoring
+  
+  I just came across a neat command line tool, ngrep, via this <a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">site</a>.
+  
+  Sample usage:
+  
+  > ngrep -q -W byline "^(GET|POST) .*"
+file amazing-ssh-tricks.scroll
+ data
+  title Amazing SSH Tricks
+  date 2011-7-16
+  permalink amazing-ssh-tricks
+  
+  Just read an article that contains some <a href="http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html">amazing SSH tricks.</a>
+file bash-history.scroll
+ data
+  title Bash History
+  date 2011-7-17
+  permalink bash-history
+  
+  Understanding and mastering bash history can:
+  
+  1. Save you a lot of time, keystrokes, and errors.
+  2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
+  
+  Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.
+file netstat.scroll
+ data
+  title netstat
+  date 2011-8-1
+  permalink netstat
+  
+  Every wonder what's listening on what ports?
+  
+  > netstat -lp
+file recursive-sed.scroll
+ data
+  title Recursive Sed
+  date 2011-8-5
+  permalink recursive-sed
+  
+  As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
+  
+  > #!/bin/bash
+  > perl -e "s/$1/$2/g;" -pi $(find . -type f)
+  
+  I put this in a file named ~/rsed
+  
+  Then in my .bash_profile:
+  
+  > alias rsed="~/rsed"
+  
+  Now I can use it like so:
+  
+  > rsed old new
+file zip-a-directory-in-linux.scroll
+ data
+  title zip a directory in linux
+  date 2011-8-9
+  permalink zip-a-directory-in-linux
+  
+  > zip -r backup mydir/
+  
+  > zip -r backup .
+file ec2-command-line-tools.scroll
+ data
+  title EC2 Command Line Tools
+  date 2011-8-13
+  permalink ec2-command-line-tools
+  
+  Step 1. Download them. http://aws.amazon.com/developertools/351
+  
+  Step 2. Set Java path in your .bash_profile:
+  
+  > export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Home/
+  
+  Step 3. test Java path is correct:
+  
+  > $JAVA_HOME/bin/java -version 
+  
+  Step 4. set ec2 path in your .bash_profile:
+  
+  > export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1
+  > export PATH=$PATH:$EC2_HOME/bin 
+  
+  Step 5.
+  
+file apache-ssl-and-self-signed-certificates.scroll
+ data
+  title Apache, SSL and self signed certificates
+  date 2011-8-14
+  permalink apache-ssl-and-self-signed-certificates
+  
+  Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
+  
+  Here's what it boils down to:
+  <pre>
+  # The cool thing about SSL is it's just 2 text files. A public key and a private key.
+  # They have a "pem" and a "crt" extension, but they are just plain text. Neat. 
+  
+  # Okay, first step is to create a private key "pem" file.
+  # every time you run this the random output pem file will be different:
+  openssl genrsa -des3 -out private_key.pem 1024
+  # (enter passphrase)
+  
+  # Next, generate a "signing request".
+  openssl req -new -key private_key.pem -out private_key_certificate_signing_request.csr
+  # (for common name enter the full domain name:
+  # (the extra options aren't necessary--just hit enter)
+  
+  # Next remove the password from the private_key. Otherwise you'd have to enter
+  # that password at all sorts of inconvenient times.....be careful because
+  # if someone gets this unencrypted ket, you'll need to get a new cert..so make your pem readable
+  # only by root!
+  cp private_key.pem private_key.pem.original
+  openssl rsa -in private_key.pem.original -out private_key.pem
+  
+  # now you can generate your public self signed certificate:
+  openssl x509 -req -days 365 -in private_key_certificate_signing_request.csr -signkey private_key.pem -out self_signed_public_certificate.crt
+  
+  # now copy the private key (pem file) and the public key ( crt file ) to your web server.
+  mkdir /etc/httpd/certs
+  cp self_signed_public_certificate.cert /etc/httpd/certs
+  cp private_key.pem /etc/httpd/certs
+  # you can delete the CRT file. you don't need that crap anymore. you got the cert/public key and the pem/private key. thats all you need
+  rm private_key_certificate_signing_request.csr
+  
+  
+  # if you don't have mod_ssl installed you need to install it. on fedora:
+  yum install mod_ssl
+  
+  #now edit the apache config to let apache with mod_ssl know where the keys are:
+  SSLEngine on
+  SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
+  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
+  </pre>
+file new-shortcuts.scroll
+ data
+  title New shortcuts
+  date 2011-8-14
+  permalink new-shortcuts
+  
+  Gmail:
+  
+  gi - go to inbox
+  c - compose
+  j/k - go up and down, enter go to a page.
+  gt - go to sent
+  
+  Mac:
+  ctrl+a - home/start of line
+  ctrl+e - end
+file nohup-and-disown.scroll
+ data
+  title nohup and disown
+  date 2011-8-22
+  permalink nohup-and-disown
+  
+  Just read a good guide on how to keep commands running when you exit ssh:
+  
+  <a href="http://playingwithsid.blogspot.com/2007/10/disown-nohup-bash-commands.html">Disown, nohup : Bash Commands</a>.
+  
+  Basically:
+  
+  > nohup ./mycommand &
+  
+  Adding the ampersand to the end of a command in Nix executes the command in the background and gives you back your shell. However, if you quit your terminal the process will be killed. The nohup command takes care of that. 
+  
+  What is nohup? It's another obfuscated Nix low level utility that is an abbreviation for "No Hangup Signal", in other words: if the terminal sends a hangup signal, normally that kills all running processes, but this says ignore that.
+  
+  <a href="http://en.wikipedia.org/wiki/Nohup">More on nohup.</a>
+file ack-and-ackmate.scroll
+ data
+  title ack and ackmate
+  date 2011-8-26
+  permalink ack-and-ackmate
+  
+  So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.
+  
+  Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href="http://betterthangrep.com/">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
+  
+  This is probably something I would have learned faster had I been doing more pair programming with senior devs.

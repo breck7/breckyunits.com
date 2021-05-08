@@ -1,0 +1,18 @@
+title Augmented Gitignore
+date 2010-8-4
+permalink augmented-gitignore
+
+code
+ .bundle
+ db/*.sqlite3*
+ log/*.log
+ *.log
+ tmp/**/*
+ tmp/*
+ doc/api
+ doc/app
+ *.swp
+ *~
+ .DS_Store
+
+<a href="http://railstutorial.org/chapters/beginning#sec:adding_and_committing">Source</a>

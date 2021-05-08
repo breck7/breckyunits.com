@@ -1,0 +1,8 @@
+title netstat
+date 2011-8-1
+permalink netstat
+
+Every wonder what's listening on what ports?
+
+code
+ netstat -lp

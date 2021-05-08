@@ -1,0 +1,26 @@
+title Basic Linux Monitoring
+date 2011-7-9
+permalink basic-linux-monitoring
+
+Show memory usage:
+
+code
+ free -m
+
+Add this to your bash_profile:
+
+code
+ alias free="free -m"
+
+code
+ top
+
+Show all processes
+
+code
+ ps -a
+
+Disk free space:
+
+code
+ df

@@ -1,0 +1,8 @@
+title Insert a line of text to the top of a file
+date 2010-5-29
+permalink insert-a-line-of-text-to-the-top-of-a-file
+
+If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
+
+code
+ sed -e '1i\text_to_insert' -i file.txt

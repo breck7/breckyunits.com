@@ -1,0 +1,5 @@
+title Wildcard Subdomains with GoDaddy
+date 2011-4-24
+permalink wildcard-subdomains-with-godaddy
+
+Just create a new A Record with * as the host and your IP in the points to field.

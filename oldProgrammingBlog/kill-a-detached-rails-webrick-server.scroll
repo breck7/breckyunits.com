@@ -1,0 +1,9 @@
+title Kill a Detached Rails Webrick Server
+date 2010-8-9
+permalink kill-a-detached-rails-webrick-server
+
+From your rails app's root:
+
+code
+ cat tmp/pids/server.pid
+ kill -9 {pid}

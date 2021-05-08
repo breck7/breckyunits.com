@@ -1,0 +1,6 @@
+title wget don't save file
+date 2010-3-27
+permalink wget-dont-save-file
+
+code
+ wget -O /dev/null http://address.com
