@@ -44,13 +44,11 @@ title3 Setting Ranges
 paragraph
  Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
 
-<table><tr><td>Low Bar</td><td>High Bar</td></tr><tr><td>
-- Get 2 new customers<br>
-- Implement 2 product improvements<br>
-- Write 1 blog post</td><td>
-- Get 7 new customers<br>
-- Implement 4 product improvements<br>
-- Write 3 blog posts</td></tr></table>
+table
+ LowBar HighBar What
+ 2 7 new customers
+ 2 4 product improvements
+ 1 3 blog posts
 
 paragraph
  If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy. 

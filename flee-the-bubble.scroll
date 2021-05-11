@@ -1,12 +1,18 @@
 title Flee the Bubble
 date 2010-01-05
 
-Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years.
+paragraph
+ Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years.
 
-The raw numbers:
-<style type="text/css">#fleebubble td{ border: 1px solid #d2d2d2;}</style><table id="fleebubble" cellspacing="0" cellpadding="5px"> <tr><td></td><td>Total #</td><td># of Successes</td><td>Average time to Beta Launch</td><td>Cumulative Gross Revenues</td><td>% of Total Traffic(to all my sites over this period)</td><td>Cumulative Profits</td><td>Emotional Toll</td></tr> <tr><td>Bubble</td><td>3</td><td>0</td><td>Months</td><td><$5,000</td><td><1%</td><td>-$10,000's</td><td>High</td></tr> <tr><td>Nonbubble</td><td>10</td><td>5-8</td><td>Days-2 weeks</td><td>$100,000's</td><td>>99%</td><td>Good</td><td>None-low</td></tr> </table>
-<br><br>
-<b>What is "the bubble"?</b>
+paragraph
+ The raw numbers:
+
+table
+ Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll	
+ Bubble 3 0 Months <$5,000 <1% -$10,000's High
+ NonBubble 10 5-8 1-14Days $100,000's >99% Good None-low
+
+title3 What is "the bubble"?
 
 The bubble is the early, early product development stage. When new people aren't constantly using and falling in love with your product, you're in the bubble. You want to get out of here as fast as possible.
 
