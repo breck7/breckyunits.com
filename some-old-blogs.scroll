@@ -2,8 +2,6 @@ title Some old blogs
 date 2021-05-07
 permalink some-old-blogs
 
-<style>.wayback{text-decoration: none;}</style>
-
 paragraph
  I found it mildly interesting to dig up my earlier blogs and put them in this git.
  This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine heart ❤️.
@@ -50,3 +48,5 @@ title3 December 2009 - My "Computer science" blog
 
 paragraph
  It looks like I also maintained a programming blog from December 2009 to January 2012 <a  class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that <a href="oldProgrammingBlog/">blog</a> migrated to Scroll.
+
+<style>.wayback{text-decoration: none;}</style>
