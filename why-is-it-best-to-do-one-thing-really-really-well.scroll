@@ -1,48 +1,64 @@
 title Why is it best to do one thing really, really well?
 date 2010-03-22
 
-Google has a list of <a href="http://www.google.com/intl/en/corporate/tenthings.html">10 principles</a> that guide its actions. Number 2 on this list is:
+paragraph
+ Google has a list of <a href="http://www.google.com/intl/en/corporate/tenthings.html">10 principles</a> that guide its actions. Number 2 on this list is:
 
-> It's best to do one thing really, really well.
+quote
+ It's best to do one thing really, really well.
 
-This advice is so often repeated that I thought it would be worthwhile to think hard about why this might be the case.
+paragraph
+ This advice is so often repeated that I thought it would be worthwhile to think hard about why this might be the case.
 
 title3 Why is it best to do one thing really, really well?
 
-For two reasons: economies of scale and network effects.
+paragraph
+ For two reasons: economies of scale and network effects.
 
-<b>Economies of scale</b>. The more you do something, the better you get at it. You can automate and innovate. You'll be able to solve the problem better than it's been solved in the past and please more people with your solutions. You'll discover tricks you'd never imagine that help you create and deliver a better "thing".
+paragraph
+ <b>Economies of scale</b>. The more you do something, the better you get at it. You can automate and innovate. You'll be able to solve the problem better than it's been solved in the past and please more people with your solutions. You'll discover tricks you'd never imagine that help you create and deliver a better "thing".
 
-<b>Network effects</b>. If you work on a hard problem for a long time, you'll put a great deal of distance between yourself and the average competitor, and in our economy it doesn't take too big a lead to dominate a market. If your product and marketing is 90% as good as the competitor's, it will capture much less than 47% of the market. The press likes to write about the #1 company in an industry. The gold medalist doesn't get 1/3 of the glory, they get 95% of the glory. The network effects in our economy are very strong. If you only do something really well, the company that does it really, really well will eat your lunch.
+paragraph
+ <b>Network effects</b>. If you work on a hard problem for a long time, you'll put a great deal of distance between yourself and the average competitor, and in our economy it doesn't take too big a lead to dominate a market. If your product and marketing is 90% as good as the competitor's, it will capture much less than 47% of the market. The press likes to write about the #1 company in an industry. The gold medalist doesn't get 1/3 of the glory, they get 95% of the glory. The network effects in our economy are very strong. If you only do something really well, the company that does it really, really well will eat your lunch.
 
-A simpler analogy: You can make Italian food and Chinese food in the same restaurant, but the Italian restaurant down the street will probably have better Italian food and the Chinese restaurant will probably have better Chinese food, and you'll be out of business soon.
+paragraph
+ A simpler analogy: You can make Italian food and Chinese food in the same restaurant, but the Italian restaurant down the street will probably have better Italian food and the Chinese restaurant will probably have better Chinese food, and you'll be out of business soon.
 
 title3 Why the <em>"really, really"</em>?
 
-My English teacher would have told me that at least one of the "really"'s was unneccessary. But if you think about the statement in terms of math having the two "really"'s makes sense. 
+paragraph
+ My English teacher would have told me that at least one of the "really"'s was unneccessary. But if you think about the statement in terms of math having the two "really"'s makes sense. 
 
-Let's define doing one thing well as being in the top 10% of companies that do that thing.<br>
+paragraph
+ Let's define doing one thing well as being in the top 10% of companies that do that thing.<br>
 Doing one thing really well means being in the top 1% of companies that do that thing.<br>
 Doing one thing really, really well means being in the top 0.1% of companies that do that thing.
 
-Thus, what Google is striving for is to be the #1 company that does search. They don't want to just be in the top 10% or even top 1% of search companies, they want to do it so well that they are at the very top. If you think about it like that, the 2 "really's" make perfect sense.
+paragraph
+ Thus, what Google is striving for is to be the #1 company that does search. They don't want to just be in the top 10% or even top 1% of search companies, they want to do it so well that they are at the very top. If you think about it like that, the 2 "really's" make perfect sense.
 
 title3 What's the most common mistake companies make when following this advice?
 
-My guess is they don't choose the correct "thing" for their given team. They pick the wrong thing to focus on. For instance, if Ben and I started a jellyfish business, and decided to do <a href="http://jellyfishart.com">jellyfish tanks</a> really, really well, we would be making a huge mistake because we just don't have the right team for that business. It makes more sense when <a href="http://www.jellyfishart.com/aboutus.asp">Al</a>, a marine biology major and highly skilled builder, decides to do jellyfish tanks really, really well.
+paragraph
+ My guess is they don't choose the correct "thing" for their given team. They pick the wrong thing to focus on. For instance, if Ben and I started a jellyfish business, and decided to do <a href="http://jellyfishart.com">jellyfish tanks</a> really, really well, we would be making a huge mistake because we just don't have the right team for that business. It makes more sense when <a href="http://www.jellyfishart.com/aboutus.asp">Al</a>, a marine biology major and highly skilled builder, decides to do jellyfish tanks really, really well.
 
-It makes perfect sense for the Google founders to start Google since they were getting their PhD's in search.
+paragraph
+ It makes perfect sense for the Google founders to start Google since they were getting their PhD's in search.
 
-You need good team/market fit. The biggest mistake people make when following the "do one thing really, really well" advice is choosing the wrong product or market for their team.
+paragraph
+ You need good team/market fit. The biggest mistake people make when following the "do one thing really, really well" advice is choosing the wrong product or market for their team.
 
 title3 What's the second most common mistake companies make when following this advice?
 
-Picking a "thing" that's too easy. You should go after a problem that's hard with a big market. Instead of writing custom software for ten of your neighbors that helps them do their taxes, generalize the problem and write internet software that can help anyone do their taxes. It's good to start small of course, but be in a market with a lot of room to grow.
+paragraph
+ Picking a "thing" that's too easy. You should go after a problem that's hard with a big market. Instead of writing custom software for ten of your neighbors that helps them do their taxes, generalize the problem and write internet software that can help anyone do their taxes. It's good to start small of course, but be in a market with a lot of room to grow.
 
 title3 Can you change the one thing you do?
 
-Yes. It's good to be flexible until you stumble upon the one thing your team can do really, really well that can address a large market. Don't be stubborn. If at first you thought it was going to be social gaming, and then you learn that you can actually do photo sharing really, really well and people really want that, do photo sharing.
+paragraph
+ Yes. It's good to be flexible until you stumble upon the one thing your team can do really, really well that can address a large market. Don't be stubborn. If at first you thought it was going to be social gaming, and then you learn that you can actually do photo sharing really, really well and people really want that, do photo sharing.
 
 title3 How do you explain the fact that successful companies actually do a lot of different things?
 
-Microsoft Windows brings in something like $15 billion per year. Google Adwords brings in something like $15 billion per year. When you make that kind of money, you can drop $100 million selling ice cream and it won't hurt you too much. But to get there, you've first got to do one hard thing really, really well, whether it be operating systems or search.
+paragraph
+ Microsoft Windows brings in something like $15 billion per year. Google Adwords brings in something like $15 billion per year. When you make that kind of money, you can drop $100 million selling ice cream and it won't hurt you too much. But to get there, you've first got to do one hard thing really, really well, whether it be operating systems or search.

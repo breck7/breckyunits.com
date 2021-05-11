@@ -7,7 +7,7 @@ paragraph
 paragraph
  This might be hard to follow unless you have experience working with types, whether that be types in programming languages, or types in databases, or types in Excel. Actually, this may be hard to follow regardless of your experience. I'm not sure I follow it. Maybe just stay for the links. Skimming is encouraged.
 
-title4 First, from the Land of Character Sets
+title3 First, from the Land of Character Sets
 
 paragraph
  Humans invented characters roughly <a href="https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts">5,000 years ago</a>.
@@ -24,7 +24,7 @@ paragraph
 paragraph
  <strong>For about 99.6% of recorded history we did not have a globally used system to encode all human characters into a single system. Now we do.</strong>
 
-title4 Meanwhile, in the Land of Standards Organization
+title3 Meanwhile, in the Land of Standards Organization
 
 paragraph
  Scientific standards are the original type schemas. Until recently, <a href="https://en.wikipedia.org/wiki/Standards_organization">Standards Organizations</a> dominated the creation of standards.
@@ -38,7 +38,7 @@ paragraph
 paragraph
  <strong>For 98% of recorded history we did not have global standards. Now we do.</strong>
 
-title4 Meanwhile, in Math Land
+title3 Meanwhile, in Math Land
 
 paragraph
  My grasp of the history of mathematics isn't strong enough to speak confidently to trends in the field, but I do want to mention that in the past century there has been a lot of important research into <a href="https://en.wikipedia.org/wiki/Type_theory">type theories</a>.
@@ -49,7 +49,7 @@ paragraph
 paragraph
  <strong>For 98% of recorded history we did not have strong theories of type systems. Now we do.</strong>
 
-title4 Meanwhile, in Programming Language Land
+title3 Meanwhile, in Programming Language Land
 
 paragraph
  The research into mathematical type and set theories in the 1900's led directly into the creation of useful new programming languages and programming language features.
@@ -63,7 +63,7 @@ paragraph
 paragraph
  <strong>95%+ of the most popular programming languages use increasingly smarter type systems.</strong>
 
-title4 Meanwhile, in API Land
+title3 Meanwhile, in API Land
 
 paragraph
  Before the Internet became widespread, the job of most programmers was to write software that interacted only with other software on the local machine. That other software was generally under their control or well documented.
@@ -80,7 +80,7 @@ paragraph
 paragraph
  <strong>For 99.8% of recorded history we did not have a global network conducting automated business transactions with a typed language. Now we do.</strong>
 
-title4 Meanwhile, in SQL Land
+title3 Meanwhile, in SQL Land
 
 paragraph
  When talking about types and data one must pay homage to <a href="https://en.wikipedia.org/wiki/SQL">SQL</a> databases, which store most of the world's structured data and perform the transactions that our businesses depend on.
@@ -97,7 +97,7 @@ paragraph
 paragraph
  <strong>98% of the world's most valuable, processed information is now stored in typed databases.</strong>
 
-title4 Meanwhile, in the Land of Types as Code
+title3 Meanwhile, in the Land of Types as Code
 
 paragraph
  The standards we get from the Standards Organizations are vastly better than not having standards, but in the past they've been released as non-computable, weakly typed documents.
@@ -108,7 +108,7 @@ paragraph
 paragraph
  <strong>100% of standards/type schemas can now themselves be written in strongly typed documents.</strong>
 
-title4 Meanwhile, in Git Land
+title3 Meanwhile, in Git Land
 
 paragraph
  <a href="https://en.wikipedia.org/wiki/Git">Git</a> is a distributed version control system created in 2005.
@@ -119,7 +119,7 @@ paragraph
 paragraph
  <strong>For 99.9% of recorded history, there was not a cheap way to experiment and evolve type schemas nor a safe way to roll them out. Now there is.</strong>
 
-title4 Meanwhile, in Hub Land
+title3 Meanwhile, in Hub Land
 
 paragraph
  In the past 30 years, central code hubs have emerged. There were early ones like <a href="https://sourceforge.net/">SourceForge</a> but in the past ten years <a href="http://github.com/">GitHub</a> has become the breakout star. GitHub has around 30 million users, which is also a good estimate of the total number of programmers worldwide, meaning nearly every programmer uses git.
@@ -136,7 +136,7 @@ paragraph
 paragraph
  <strong>99% of programmers now use code hubs and hubs are a great place to increase adoption of types, making them even more useful.</strong>
 
-title4 Meanwhile, in Semantic Web Land
+title3 Meanwhile, in Semantic Web Land
 
 paragraph
  The current web is a collection of untyped HTML pages. So if I were to open a web page with lots of information about diseases and had a semantic question requiring some computation, I'd have to read the page myself and use my slow brain to parse the information and then figure out the answer to my semantic question.
@@ -153,7 +153,7 @@ paragraph
 paragraph
  <strong>99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.</strong>
 
-title4 Meanwhile, in Deep Learning Land
+title3 Meanwhile, in Deep Learning Land
 
 paragraph
  Deep Learning is creeping in everywhere. In the past decade it has come to be the dominant strategy for NLP. In the past two years, a new <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">general</a> learning strategy has become <a href="https://github.com/google-research/ALBERT">feasible</a>, where models learn some intrinsic structure of language and can use this knowledge to perform many different language tasks.
@@ -169,7 +169,7 @@ title3 Tying All These Threads Together
 paragraph
  I see a global pattern here that I call the "Type the World" trend. Here are some future predictions from these past trends.
 
-quote
+list
  - We will always have creative, ambiguous, untyped human languages where new ideas can evolve freely
  - In the future great new ideas from the untyped realm will be adopted faster by the typed realm
  - Nearly all transactions in business and government will be in typed languages
@@ -189,4 +189,3 @@ paragraph
 paragraph
  While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
 
-Posted 1/20/2020

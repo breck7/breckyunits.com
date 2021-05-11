@@ -1,37 +1,48 @@
 title The Least You Can Do
 date 2010-02-02
 
-My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about. 
+paragraph
+ My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about. 
 
-I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
+paragraph
+ I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
 
-Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
+paragraph
+ Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
 
-So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
+paragraph
+ So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
 
-Ever since, my room has been at least 5x cleaner on average.
+paragraph
+ Ever since, my room has been at least 5x cleaner on average.
 
 quote
  Almost always, there is one simple change you can make that will have <em>drastic</em> effects. This change is called <strong>the least you can do</strong>.
 
-I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
+paragraph
+ I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
 
-These are trivial examples, but the technique works on real problems as well.
+paragraph
+ These are trivial examples, but the technique works on real problems as well.
 
-The key is to figure out what the "least you can do" is.
+paragraph
+ The key is to figure out what the "least you can do" is.
 
-You can discover it by working harder or smarter:
+paragraph
+ You can discover it by working harder or smarter:
 
-- <strong>The hard way.</strong> You can try a ton of things, go through a to-do list dozens of items long, and hope you hit upon it.
-- <strong>The smart way.</strong> You can invest time learning instead of doing. Reading books, learning new math or programming techniques, talking to other people, thinking critically, etc. You'll then have a much better hunch at what the "least you can do is".
+list
+ - <strong>The hard way.</strong> You can try a ton of things, go through a to-do list dozens of items long, and hope you hit upon it.
+ - <strong>The smart way.</strong> You can invest time learning instead of doing. Reading books, learning new math or programming techniques, talking to other people, thinking critically, etc. You'll then have a much better hunch at what the "least you can do is".
 
-In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
+paragraph
+ In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
 
+title5 Notes
 
-Notes
-
-1. Thanks to <a href="http://massbeacon.com">Conor</a> for providing feedback.
-2. I never shop for clothes. Once a year, maybe twice. The reason I had so many was because I never got rid of any clothes.
-3. This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
-4. Finding the least you can do is kind of like <a href="http://en.wikipedia.org/wiki/Diff">diff</a>. You are trying to find the smallest change you can make to turn the status quo into an improved version. 
-5. Another relevant computer science topics is the <a href="http://en.wikipedia.org/wiki/Longest_common_subsequence_problem">The longest common subsequence problem</a>.
+orderedList
+ 1. Thanks to <a href="http://massbeacon.com">Conor</a> for providing feedback.
+ 2. I never shop for clothes. Once a year, maybe twice. The reason I had so many was because I never got rid of any clothes.
+ 3. This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
+ 4. Finding the least you can do is kind of like <a href="http://en.wikipedia.org/wiki/Diff">diff</a>. You are trying to find the smallest change you can make to turn the status quo into an improved version. 
+ 5. Another relevant computer science topics is the <a href="http://en.wikipedia.org/wiki/Longest_common_subsequence_problem">The longest common subsequence problem</a>.
