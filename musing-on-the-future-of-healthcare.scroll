@@ -1,20 +1,26 @@
 title Musing on the Future of Healthcare
-date 2020-03-01
+date 2020-03-02
 
-I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
+paragraph
+ I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
 
-These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.
+paragraph
+ These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.
 
-Most of the data is collected passively and regularly. But sometimes your Health app prompts you to take out the digital otoscope or digital stethoscope to examine an unusual condition more closely.
+paragraph
+ Most of the data is collected passively and regularly. But sometimes your Health app prompts you to take out the digital otoscope or digital stethoscope to examine an unusual condition more closely.
 
-This data is not stored in a network at the hospital you don't have access to. Instead you can access all of that data as easily as you can access your email. You can see that data on your wrist, on your phone, on your tablet.
+paragraph
+ This data is not stored in a network at the hospital you don't have access to. Instead you can access all of that data as easily as you can access your email. You can see that data on your wrist, on your phone, on your tablet.
 
-You can understand that data too. You can click and dive into the definitions of every term. You can see what is meant by macro concepts like "VO2 max" and micro concepts like "RBC Count" or "BRC1 expression". Everything is explained precisely and thoroughly. Not only in words but in interactive visualizations that are customized to your body. The algorithms and models that turn the raw signals into higher level concepts are constantly improving.
+paragraph
+ You can understand that data too. You can click and dive into the definitions of every term. You can see what is meant by macro concepts like "VO2 max" and micro concepts like "RBC Count" or "BRC1 expression". Everything is explained precisely and thoroughly. Not only in words but in interactive visualizations that are customized to your body. The algorithms and models that turn the raw signals into higher level concepts are constantly improving.
 
-When you get flu like symptoms, you don't alternate between anxiously Googling symptoms and scheduling doctor's appointments. Instead, your Health app alerts you that your signals have changed, it diagnoses your condition, shows you how your patterns compare to tens of thousands of people who have experienced similar changes, and makes recommendations about what to do next. You can even see forecasts of how your condition will change in the days ahead, and you can simulate how different treatment strategies might affect those outcomes.
+paragraph
+ When you get flu like symptoms, you don't alternate between anxiously Googling symptoms and scheduling doctor's appointments. Instead, your Health app alerts you that your signals have changed, it diagnoses your condition, shows you how your patterns compare to tens of thousands of people who have experienced similar changes, and makes recommendations about what to do next. You can even see forecasts of how your condition will change in the days ahead, and you can simulate how different treatment strategies might affect those outcomes.
 
-You can not only reduce illness, but you can improve well-being too. You can see how your physical habits, social habits, eating habits, sleeping habits, correlate with hundreds of health and other signals.
+paragraph
+ You can not only reduce illness, but you can improve well-being too. You can see how your physical habits, social habits, eating habits, sleeping habits, correlate with hundreds of health and other signals.
 
-The best part of all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
-
-Published 03/02/2020
+paragraph
+ The best part of all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
