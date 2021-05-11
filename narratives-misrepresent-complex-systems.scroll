@@ -14,7 +14,7 @@ With this picture in mind, let's do a thought experiment.
 
 Let's imagine that right now, once again, Billy and his mom are standing in the laundry room and she's about to give him the mail. What are the odds that Billy gets to the mailbox in time?
 
-Pick a range, and then <a onclick="$('#answer').show()">click here to see the answer.</a>
+Pick a range, and then <a onclick="$('#answer').show()" style="color:blue;">click here</a> to see the answer.
 
 
 <div style="display: none;" id="answer">If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
