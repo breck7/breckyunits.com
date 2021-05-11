@@ -1,16 +1,22 @@
 title Dataset Needed
 date 2020-01-23
 
-The phrase "citation needed" needs to go. In its place we should use the far superior "dataset needed".
+paragraph
+ The phrase "citation needed" needs to go. In its place we should use the far superior "dataset needed".
 
-Whether it's an academic paper, news report, blog post, or marketing ad, citations linking to text summaries should be frowned upon.
+paragraph
+ Whether it's an academic paper, news report, blog post, or marketing ad, citations linking to text summaries should be frowned upon.
 
-Link to the dataset. If you want to include a conclusion, provide a deep link to the relevant query of the dataset. Do not repeat conclusions that don't have an accompanying query. Otherwise like a game of Telephone the truth gets distorted with each relay.
+paragraph
+ Link to the dataset. If you want to include a conclusion, provide a deep link to the relevant query of the dataset. Do not repeat conclusions that don't have an accompanying query. Otherwise like a game of Telephone the truth gets distorted with each relay.
 
-Of course, most sources don't currently publish their datasets. And almost none of them publish their datasets in deep-linkable way. So step one is fixing that problem. <a href="https://observablehq.com/">Lots</a> <a href="https://cloud.google.com/bigquery/">of</a> <a href="https://datarepository.wolframcloud.com/">cool</a> <a href="https://public.tableau.com/en-us/s/">work</a> <a href="https://idl.cs.washington.edu/">is</a> <a href="https://github.com/BurntSushi/xsv">going</a> <a href="https://github.com/jupyterlab/jupyterlab">on</a> <a href="https://github.com/awesomedata/awesome-public-datasets">in</a> <a href="https://usafacts.org/">these</a> <a href="https://datasetsearch.research.google.com/">areas</a>.
+paragraph
+ Of course, most sources don't currently publish their datasets. And almost none of them publish their datasets in deep-linkable way. So step one is fixing that problem. <a href="https://observablehq.com/">Lots</a> <a href="https://cloud.google.com/bigquery/">of</a> <a href="https://datarepository.wolframcloud.com/">cool</a> <a href="https://public.tableau.com/en-us/s/">work</a> <a href="https://idl.cs.washington.edu/">is</a> <a href="https://github.com/BurntSushi/xsv">going</a> <a href="https://github.com/jupyterlab/jupyterlab">on</a> <a href="https://github.com/awesomedata/awesome-public-datasets">in</a> <a href="https://usafacts.org/">these</a> <a href="https://datasetsearch.research.google.com/">areas</a>.
 
-I remember being a high school student and getting graded on our dataset notebooks we made in the lab. Writing clean data should be widely taught in school, and there's an army of potential workers who could help us create more public, deep-linkable datasets.
+paragraph
+ I remember being a high school student and getting graded on our dataset notebooks we made in the lab. Writing clean data should be widely taught in school, and there's an army of potential workers who could help us create more public, deep-linkable datasets.
 
-Thanks to DL for helping me refine my thinking from this <a href="https://breckyunits.com/dreaming-of-a-data-checked-language.html">earlier post</a>.
+title3 Notes
 
-1/23/2020
+paragraph
+ Thanks to DL for helping me refine my thinking from this <a href="https://breckyunits.com/dreaming-of-a-data-checked-language.html">earlier post</a>.

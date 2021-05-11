@@ -3,55 +3,73 @@ date 2019-08-19
 
 title3 The Attempt to Capture Truth
 
-Back in the 2000's <a href="https://www.fooledbyrandomness.com/">Nassim Taleb's books</a> set me on a new path in search of truth. One truth I became convinced of is that <a href="https://breckyunits.com/narratives-misrepresent-complex-systems.html">most stories are false due to oversimplification</a>. I largely stopped writing over the years because I didn't want to contribute more false stories, and instead I've been searching for and building new <a href="https://breckyunits.com/ohayo.html">forms of communication</a> and <a href="https://treenotation.org/">ways of representing data</a> that hopefully can get us closer to truth.
+paragraph
+ Back in the 2000's <a href="https://www.fooledbyrandomness.com/">Nassim Taleb's books</a> set me on a new path in search of truth. One truth I became convinced of is that <a href="https://breckyunits.com/narratives-misrepresent-complex-systems.html">most stories are false due to oversimplification</a>. I largely stopped writing over the years because I didn't want to contribute more false stories, and instead I've been searching for and building new <a href="https://breckyunits.com/ohayo.html">forms of communication</a> and <a href="https://treenotation.org/">ways of representing data</a> that hopefully can get us closer to truth.
 
-I've tried my best to make my writings encode "real" and "true" information, but it's impossible to overcome the limitations of language. The longer any work of English writing is, the more inaccuracies it contains. This post itself will probably be more than 50% false.
+paragraph
+ I've tried my best to make my writings encode "real" and "true" information, but it's impossible to overcome the limitations of language. The longer any work of English writing is, the more inaccuracies it contains. This post itself will probably be more than 50% false.
 
-But most people aren't aware of the problem.
+paragraph
+ But most people aren't aware of the problem.
 
 title3 Fake news is a great idea.
 
-Then came DT and "fake news". One nice thing I can say about DT is that "fake news" is a great idea.
+paragraph
+ Then came DT and "fake news". One nice thing I can say about DT is that "fake news" is a great idea.
 
-<em>If your ideas are any good, you'll have to ram them down people's throats. - Howard H. Aiken</em>
+quote
+ If your ideas are any good, you'll have to ram them down people's throats.
+ - Howard H. Aiken
 
-<em>..in science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs. - Francis Darwin</em>
+quote
+ ..in science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs.
+ - Francis Darwin
 
-DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
+paragraph
+ DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
 
 title3 What's the underlying problem?
 
-English is a fantastic story telling language that has been very effective at sharing stories, coordinating commerce and motivating armies, but English evolved in a simpler time with simpler technologies and far less understanding about how the world really works.
+paragraph
+ English is a fantastic story telling language that has been very effective at sharing stories, coordinating commerce and motivating armies, but English evolved in a simpler time with simpler technologies and far less understanding about how the world really works.
 
-English oversimplifies the world which makes it easy to communicate something to be done. English is a modern day cave painting language. Nothing motivates a person better than a good story, and that motivation was essential to get us out of the cave. It didn't matter so much in which direction people went, as long as they went in some direction together.
+paragraph
+ English oversimplifies the world which makes it easy to communicate something to be done. English is a modern day cave painting language. Nothing motivates a person better than a good story, and that motivation was essential to get us out of the cave. It didn't matter so much in which direction people went, as long as they went in some direction together.
 
-But we are now out of the cave, and it is not enough to communicate what is to be done. We have many more options now and it's important that we have langauges that can better decide what is the best thing to do.
+paragraph
+ But we are now out of the cave, and it is not enough to communicate what is to be done. We have many more options now and it's important that we have langauges that can better decide what is the best thing to do.
 
 title3 What will a language that supports Real News look like?
 
-Real News is starting to emerge in a few places. The <a href="https://www.wsj.com">WSJ</a> has long been on the forefront but newer things like <a href="http://observablehq.com/">Observable</a> are also popping up.
+paragraph
+ Real News is starting to emerge in a few places. The <a href="https://www.wsj.com">WSJ</a> has long been on the forefront but newer things like <a href="http://observablehq.com/">Observable</a> are also popping up.
 
-I don't know exactly what a language for truth will look like but I imagine it will have some of these properties:
+paragraph
+ I don't know exactly what a language for truth will look like but I imagine it will have some of these properties:
 
-- It will be a language that is hard to lie with
-- It will contain more numerics and be more data driven
-- It will be interactive, with assumptions made clear and adjustable by the reader
-- It will be blameable, with the source and history of every line and character auditable
-- It will be linked and auditable, with the ability to "go to definitions"
-- It will discourage obfuscation, and will make it easy to compare 2 representations and choose the simpler one
-- It will be more visual, expanding beyond character alphabets and embracing more charts and visualizations
-- It will be more Random Access, like bullet points
+list
+ - It will be a language that is hard to lie with
+ - It will contain more numerics and be more data driven
+ - It will be interactive, with assumptions made clear and adjustable by the reader
+ - It will be blameable, with the source and history of every line and character auditable
+ - It will be linked and auditable, with the ability to "go to definitions"
+ - It will discourage obfuscation, and will make it easy to compare 2 representations and choose the simpler one
+ - It will be more visual, expanding beyond character alphabets and embracing more charts and visualizations
+ - It will be more Random Access, like bullet points
 
 title3 English and Sapir–Whorf
 
-I would say until we move away from English and other story-telling langauges to encodings that are better for truth telling, our thinking will also be limited.
+paragraph
+ I would say until we move away from English and other story-telling langauges to encodings that are better for truth telling, our thinking will also be limited.
 
-<em>A language that doesn’t affect the way you think about programming, is not worth knowing. – Alan Perlis</em>
+quote
+ A language that doesn’t affect the way you think about programming, is not worth knowing.
+ – Alan Perlis
 
-New languages designed for truth telling might not just be useful in our everyday lives, they could very much change the way we think.
+paragraph
+ New languages designed for truth telling might not just be useful in our everyday lives, they could very much change the way we think.
 
 title3 Finally
 
-Again, to channel Taleb, I'm not saying English is bad. By all means, <em>enjoy the stories</em>. But just remember they are stories. If you are reading English, know that you are not reading Real News.
-
-8/19/2019
+paragraph
+ Again, to channel Taleb, I'm not saying English is bad. By all means, <em>enjoy the stories</em>. But just remember they are stories. If you are reading English, know that you are not reading Real News.
