@@ -29,7 +29,7 @@ The *echo* command prints a string and also a new line at the end.
 
 <b>Running your script</b>
 
-Your script must be **executable**. To make it executable, you need to change the <a href="http://breckyunits.com/code/fix_permission_problems_using_chmod">file permissions</a>. This would make your hello.sh script executable:
+Your script must be **executable**. To make it executable, you need to change the <a href="fix-permission-problems-using-chmod.html">file permissions</a>. This would make your hello.sh script executable:
 
 code
  chmod 777 hello.sh

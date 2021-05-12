@@ -2,28 +2,37 @@ title Learn Symbolic Links in 30 seconds
 date 2010-0-5
 permalink learn-symbolic-links-in-30-seconds
 
-Symbolic links are simple and can save you time.
+paragraph
+ Symbolic links are simple and can save you time.
 
-Here's all you need to know:
+paragraph
+ Here's all you need to know:
 
 code
  ln -s actual_file_or_directory new_symbolic_link_name
 
-Let's do a real example from your home directory:
+paragraph
+ Let's do a real example from your home directory:
 
 code
  ln -s /var/www/html/yourwebsiteroot/yourblog blog
 
-Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
+paragraph
+ Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
 
-Here's one more example from your home directory:
+paragraph
+ Here's one more example from your home directory:
 
 code
  ln -s /etc/httpd/conf/httpd.conf httpd.conf
 
-Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
+paragraph
+ Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
 
-You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
+paragraph
+ You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
 
-Notes
-1. <a href="http://breckyunits.com/code/use_aliases_to_save_time">Aliases</a> are another great time saver.
+title5 Notes
+
+links
+ use-aliases-to-save-time.html Aliases are another great time saver

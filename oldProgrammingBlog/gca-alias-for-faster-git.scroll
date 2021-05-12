@@ -2,12 +2,14 @@ title gca alias for faster git
 date 2010-3-10
 permalink gca-alias-for-faster-git
 
-One of my most frequent commands is:
+paragraph
+ One of my most frequent commands is:
 
 code
  git commit -am "message"
 
-I made a simple <a href="http://breckyunits.com/code/use_aliases_to_save_time">alias</a> to save keystrokes:
+paragraph
+ I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystrokes:
 
 code
  alias gca="git commit -am "
