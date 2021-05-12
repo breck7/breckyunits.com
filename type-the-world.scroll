@@ -55,7 +55,7 @@ paragraph
  The research into mathematical type and set theories in the 1900's led directly into the creation of useful new programming languages and programming language features.
 
 paragraph
- From the <a href="https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus">typed lambda calculus in the 1940's</a> to the static type system in languages like <a href="https://en.wikipedia.org/wiki/C_(programming_language">C</a>) to the ongoing experiments of <a href="https://www.haskell.org/">Haskell</a> or the rapid growth of the <a href="https://www.typescriptlang.org/">TypeScript ecosystem</a>, the research into types has led to hundreds of software inventions.
+ From the <a href="https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus">typed lambda calculus in the 1940's</a> to the static type system in languages like <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a> to the ongoing experiments of <a href="https://www.haskell.org/">Haskell</a> or the rapid growth of the <a href="https://www.typescriptlang.org/">TypeScript ecosystem</a>, the research into types has led to hundreds of software inventions.
 
 paragraph
  In the late 1990's and 2000's, a slew of programming languages that underutilized innovations from type theory in the name of easier prototyping, like Python and Ruby and Javascript, became very popular. For a while this annoyed programmers who understood the benefits of type systems. But now they too are benefiting, as there is a bigger demand for richer type systems now due to the increase in the number of programmers.
