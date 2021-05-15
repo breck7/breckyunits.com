@@ -1,0 +1,34 @@
+title Scrolldown now has Dialogues
+date 2021-05-14
+permalink dialogues
+
+chat
+ hey. I just added Dialogues to Scrolldown.
+ cool. But what's Scrolldown?
+ Scrolldown is a new alternative to Markdown that is easier to extend.
+ how is it easier to extend?
+ because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of grammar code and 16 lines of CSS.
+ okay, how do I use this new feature?
+ the source is below!
+
+code
+ chat
+  hey. I just added Dialogues to Scrolldown.
+  cool. But what's Scrolldown?
+  Scrolldown is a new alternative to Markdown that is easier to extend.
+  why is it easier to extend?
+  because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of grammar code and 16 lines of CSS.
+  okay, how do I use this new feature?
+  the source is below!
+
+paragraph
+ Here is the Grammar code that added support for Dialogues:
+
+<img src="dialogues.png" />
+
+
+title4 Links
+
+links
+ https://scroll.publicdomaincompany.com/ Try Scroll 
+ https://codepen.io/karolsw3/pen/KZmvGG Chat CSS inspiration
