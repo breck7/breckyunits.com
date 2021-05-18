@@ -15,7 +15,7 @@ paragraph
 title3 Saying #2: No Speed Limit
 
 paragraph
- There is another saying that I just <a href="http://sivers.org/kimo">read</a>, which inspired me to write this, that says "there is no speed limit".
+ There is another saying that I just read🔗sivers.org/kimo, which inspired me to write this, that says "there is no speed limit".
 
 paragraph
  In that post, Derek Sivers claims that a talented and generous guy named Kimo Williams taught him 2 years worth of music theory in five lessons. I have been learning to program for 2 years, and despite the fact that I've made great progress, my process has been slow and inefficient. 
@@ -89,11 +89,11 @@ paragraph
 
 title4 Links
 
-links
- http://github.com Github
- http://dropbox.com Dropbox
- http://stackoverflow.com Stackoverflow - when you need help, and eventually where you can give help
- http://www.cygwin.com/ Cygwin
+list
+ - Github🔗github.com
+ - Dropbox🔗dropbox.com
+ - Stackoverflow🔗stackoverflow.com - when you need help, and eventually where you can give help
+ - Cygwin🔗www.cygwin.com
 
 title3 Notes
 

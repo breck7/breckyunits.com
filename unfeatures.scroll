@@ -27,7 +27,7 @@ paragraph
  When you have an idea or receive a feature request, there's a physical, OCD-like urge to do something with it. Now, instead of building it or putting it on a todo list, you can simply write it down on your (un)features list, and be done with it. Then maybe your water bottles will look more like water bottles.
 
 paragraph
- This blog is powered by software with an <a href="http://github.com/breck7/brecksblog">(un)features list</a>.
+ This blog is powered by software🔗github.com/breck7/brecksblog with an (un)features list.
 
 title4 Notes
 
@@ -36,11 +36,10 @@ orderedList
 
 title4 Links
 
-links
- http://gaborcselle.posterous.com/the-best-quotes-from-startup-school More great quotes from this year's Startup School
- http://startupschool.org/ Startup School
- http://37signals.com 37signals
- http://37signals.com/svn/ The great 37signals blog
+list
+ - More great quotes🔗gaborcselle.posterous.com/the-best-quotes-from-startup-school from this year's Startup School
+ - StartupSchool🔗startupschool.org/
+ - 37signals🔗37signals.com and their great blog🔗37signals.com/svn
 
 paragraph
- Edit: 01/05/2010. Features are a great <a href="http://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7">way to make money</a>.
+ Edit: 01/05/2010. Features are a great way🔗evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 to make money.

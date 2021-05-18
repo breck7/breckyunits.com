@@ -3,7 +3,7 @@ date 2010-0-20
 permalink use-sed-to-find-and-replace
 
 paragraph
- <a href="use-grep-to-search-multiple-files-at-once.html">grep</a> is to find what sed is to replace.
+ grep🔗./use-grep-to-search-multiple-files-at-once.html is to find what sed is to replace.
 
 paragraph
  Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
@@ -25,8 +25,8 @@ paragraph
 
 title5 Notes
 
-links
- http://www.grymoire.com/Unix/Sed.html sed tutorial
- http://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html find and replace with sed
- http://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm about.com on sed
- http://drupal.org/node/128513 Very clear examples
+list
+ - sed tutorial🔗www.grymoire.com/Unix/Sed.html
+ - findAndReplace🔗www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html with sed
+ - sed on about.com🔗linux.about.com/od/bgb_guide/a/gdebgb44t03.htm
+ - Very clear examples🔗drupal.org/node/128513
