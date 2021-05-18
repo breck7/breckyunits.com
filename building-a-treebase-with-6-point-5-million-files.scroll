@@ -6,7 +6,7 @@ paragraph
  In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
 
 paragraph
- <a href="https://treebase.treenotation.org/">TreeBase</a> is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with <a href="https://treenotation.org/">Tree Notation</a>. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.
+ TreeBase🔗treebase.treenotation.org/ is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with <a href="https://treenotation.org/">Tree Notation</a>. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.
 
 paragraph
  For example, in this tiny demo <a href="https://github.com/treenotation/jtree/blob/master/treeBase/planets">TreeBase of the planets</a> the file <code>mars.planet</code> looks like this:
@@ -32,7 +32,7 @@ paragraph
 title3 TreeBase Compared to Other Database Systems
 
 paragraph
- Probably hundreds of billions of dollars has gone into designing robust database systems like <a href="https://www.microsoft.com/en-us/sql-server/default.aspx">SQL Server</a>, <a href="https://en.wikipedia.org/wiki/Oracle_Database">Oracle</a>, <a href="https://www.postgresql.org/">PostgreSQL</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://www.sqlite.org/index.html">SQLite</a>, and so forth. These things run the world. They are incredibly robust and battle-hardened. Everything that can happen is thought of and planned for, and everything that can go wrong has gone wrong (and learned from). These databases can handle trillions of rows, can conduct complex real-time transactions, and survive disasters of all sort. They use sophisticated binary formats and are tuned for specific file systems. Thousands of people have gotten their PhD's working on database technology.
+ Probably hundreds of billions of dollars has gone into designing robust database systems like <a href="https://www.microsoft.com/en-us/sql-server/default.aspx">SQL Server</a>, Oracle🔗en.wikipedia.org/wiki/Oracle_Database, PostgreSQL🔗www.postgresql.org, MySQL🔗www.mysql.com, MongoDB🔗www.mongodb.com, SQLite🔗www.sqlite.org, and so forth. These things run the world. They are incredibly robust and battle-hardened. Everything that can happen is thought of and planned for, and everything that can go wrong has gone wrong (and learned from). These databases can handle trillions of rows, can conduct complex real-time transactions, and survive disasters of all sort. They use sophisticated binary formats and are tuned for specific file systems. Thousands of people have gotten their PhD's working on database technology.
 
 paragraph
  TreeBase doesn't have any of that. TreeBase is stupid. It's just a bunch of files in a folder.
@@ -72,7 +72,7 @@ paragraph
  To test TreeBase on a big scale I want something realistic. I wanted to choose some big structured database that thousands of people have contributed to that's been around for a while and see what it would look like as a TreeBase.
 
 paragraph
- IMDB is just such a database and amazingly makes a lot of their data available for <a href="https://www.imdb.com/interfaces/">download</a>. So movies will be the topic and the IMDB dataset will be my test case. 
+ IMDB is just such a database and amazingly makes a lot of their data available for download🔗www.imdb.com/interfaces/. So movies will be the topic and the IMDB dataset will be my test case. 
 
 title3 The Dataset
 
@@ -110,7 +110,7 @@ paragraph
  A file doesn't just take up space for its contents: it also has metadata. Every file contains metadata like permissions, modification time, etc. That metadata must take up some space, right? If I were to create 6.5M new files, how much extra space would that take up?
 
 paragraph
- My MacBook uses <a href="https://en.wikipedia.org/wiki/Apple_File_System">APFS</a>. It can hold up to 9,000,000,000,000,000,000 files. I can't easily find hard numbers on how much metadata one file takes up but can at least start with a ballpark estimate.
+ My MacBook uses APFS🔗en.wikipedia.org/wiki/Apple_File_System. It can hold up to 9,000,000,000,000,000,000 files. I can't easily find hard numbers on how much metadata one file takes up but can at least start with a ballpark estimate.
 
 paragraph
  I'll start by considering the space filenames will take up.
@@ -132,7 +132,7 @@ code
   1102213 3564906 21815916
 
 paragraph
- <a href="https://github.com/BurntSushi/xsv">XSV</a> didn't like something in that file. Instead of getting bogged down, I'll just work around it.
+ XSV🔗github.com/BurntSushi/xsv didn't like something in that file. Instead of getting bogged down, I'll just work around it.
 
 paragraph
  I'll build a subset from the first 1M rows with <code>head -n 1000000 title.basics.tsv > 1m.title.basics.tsv</code>. Now I will compute against that subset with <code>xsv select primaryTitle 1m.title.basics.tsv | wc</code>. I get <code>19751733</code> so an average of 20 characters per title.
@@ -500,7 +500,7 @@ paragraph
  I will now look some stuff up. Could Git be creating 1 file for each file in my TreeBase? I found <a href="https://www.monperrus.net/martin/one-million-files-on-git-and-github">this post</a> from someone who created a Git repo with 1.7M files which should turn out to contain useful information. From that post it looks like you can indeed expect 1 file for Git for each file in the project.
 
 paragraph
- The first <code>git commit</code> took about 10 seconds. Why? Git printed a message about <a href="https://stackoverflow.com/questions/8633981/what-does-auto-packing-the-repository-for-optimum-performance-mean/16233094">Autopacking</a>. It seems Git will combine a lot of small files into packs (perhaps in bundles of 6,700, though I haven't dug in to this) to speed things up. Makes sense.
+ The first <code>git commit</code> took about 10 seconds. Why? Git printed a message about Autopacking🔗stackoverflow.com/questions/8633981/what-does-auto-packing-the-repository-for-optimum-performance-mean/16233094. It seems Git will combine a lot of small files into packs (perhaps in bundles of 6,700, though I haven't dug in to this) to speed things up. Makes sense.
 
 paragraph
  💣 I forgot to mention, while doing the tasks for the 60k TreeBase, my computer fan kicked on. A brief look at Activity Monitor showed a number of <code>mdworker_shared</code> processes using single digit CPU percentages each, which appears to be some <a href="https://discussions.apple.com/thread/8510132">OS level indexing process</a>. That's hinting that a bigger TreeBase might require at least some basic OS/file system config'ing.
@@ -802,7 +802,7 @@ paragraph
  People have recognized the value of semantic, strongly typed content for a long time. Databases have been strongly typed since the beginning of databases. Strongly typed programming languages have dominated the software world since the beginning of software.
 
 paragraph
- People have been attempting to build a system for collaborative semantic content for decades. <a href="https://en.wikipedia.org/wiki/XML">XML</a>, <a href="https://www.w3.org/RDF/">RDF</a>, <a href="https://www.w3.org/TR/owl2-overview/">OWL2</a>, <a href="https://json-ld.org/">JSON-LD</a>, <a href="http://schema.org/">Schema.org</a>—these are all great projects. I just think they can be simplified and I think one strong refinement is Tree Notation.
+ People have been attempting to build a system for collaborative semantic content for decades. XML🔗en.wikipedia.org/wiki/XML, RDF🔗www.w3.org/RDF/, OWL2🔗www.w3.org/TR/owl2-overview/, JSON-LD🔗json-ld.org/, <a href="http://schema.org/">Schema.org</a>—these are all great projects. I just think they can be simplified and I think one strong refinement is Tree Notation.
 
 paragraph
  I imagine a world where you can effortlessly pass TreeBases around and combine them in interesting ways. As a kid I used to collect baseball cards. I think it would be cool if you could just as easily pass around "cards" like a "TreeBase of all the World's Medicines" or a "TreeBase of all the world's academic papers" or a "TreeBase of all the world's chemical compounds" and because I know how to work with one TreeBase I could get value out of any of these TreeBases. Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of.

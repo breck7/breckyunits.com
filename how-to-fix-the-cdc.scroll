@@ -2,7 +2,7 @@ title How to fix the CDC
 date 2021-03-30
 
 paragraph
- <b>The <a href="https://www.cdc.gov/">CDC</a> needs to
+ <b>The CDC🔗www.cdc.gov/ needs to
  move to Git</b>. The CDC needs to move pretty much
  <em>everything to Git</em>. And they should do it
  <b>with urgency</b>. They should make it a priority to
@@ -40,7 +40,7 @@ paragraph
 title3 What is Git?
 
 paragraph
- <a href="https://en.wikipedia.org/wiki/Git">Git</a> is an
+ Git🔗en.wikipedia.org/wiki/Git is an
  open source, very fast, very powerful piece of software
  originally created by <a
  href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus

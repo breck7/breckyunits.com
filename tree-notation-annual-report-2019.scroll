@@ -6,7 +6,7 @@ paragraph
  <em>Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests".</em>
 
 paragraph
- In 2017 I wrote a <a href="https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html">post</a> about a half-baked idea I named <a href="https://treenotation.org/">Tree Notation</a>.
+ In 2017 I wrote a post🔗breckyunits.com/show-hn-programming-is-now-two-dimensional.html about a half-baked idea I named <a href="https://treenotation.org/">Tree Notation</a>.
 
 paragraph
  Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax."
@@ -44,7 +44,7 @@ title3 Restating the Problem
 title4 What is the idea?
 
 paragraph
- In these reports I'll try and restate the idea in a fresh way, but you can also find the idea explained in different places via <a href="https://treenotation.org/">visuals</a>, an <a href="https://faq.treenotation.org/">FAQ</a>, a <a href="https://github.com/treenotation/faq.treenotation.org/blob/master/spec.txt">spec</a>, <a href="https://jtree.treenotation.org/designer/">demos</a>, etc.
+ In these reports I'll try and restate the idea in a fresh way, but you can also find the idea explained in different places via visuals🔗treenotation.org/, an FAQ🔗faq.treenotation.org/, a spec🔗github.com/treenotation/faq.treenotation.org/blob/master/spec.txt, demos🔗jtree.treenotation.org/designer/, etc.
 
 paragraph
  My hypothesis is that there exists a <strong>Simplest Universal Notation for Symbolic Abstraction (SUNSA)</strong>. I propose Tree Notation as a potential candidate for that notation. It is hard to assign probabilities to events that haven't happened before, but I would say I am between 1% and 10% confident that a SUNSA exists and that Tree Notation is somewhat close to it<a href="#note-risk">^</a>. If Tree Notation is not the SUNSA, it at least gives me an angle of attack on the general problem.
@@ -64,7 +64,7 @@ paragraph
  Similarly, I think there is another missing dependency that fits somewhere between binary the idea and <code>binary</code> the symbolic word.
 
 paragraph
- Consider <a href="https://en.wikipedia.org/wiki/Euclid's_Elements">Euclid's Elements</a>, maybe the most famous math book of all time written around 2,500 years ago. The book begins with the title "Στοιχεῖα"<a href="#note-euclid">^</a>. Already there is a problem: where is <code>import the letter Σ</code>?. Euclid has imported undefined abstractions: letters and a word. Now, if we were to digitally encode the Elements today from scratch, we would first include the binary dependency and then a character encoding dependency like <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8</a>. We abstract first from binary to symbols. Then maybe once we have things in a text stream, we might abstract again to encode the Elements book into something like XML and markdown. I think there is a missing notation in both of these abstractions: the abstraction leap from binary to characters, and abstraction leap from characters to words and beyond.
+ Consider <a href="https://en.wikipedia.org/wiki/Euclid's_Elements">Euclid's Elements</a>, maybe the most famous math book of all time written around 2,500 years ago. The book begins with the title "Στοιχεῖα"<a href="#note-euclid">^</a>. Already there is a problem: where is <code>import the letter Σ</code>?. Euclid has imported undefined abstractions: letters and a word. Now, if we were to digitally encode the Elements today from scratch, we would first include the binary dependency and then a character encoding dependency like UTF-8🔗en.wikipedia.org/wiki/UTF-8. We abstract first from binary to symbols. Then maybe once we have things in a text stream, we might abstract again to encode the Elements book into something like XML and markdown. I think there is a missing notation in both of these abstractions: the abstraction leap from binary to characters, and abstraction leap from characters to words and beyond.
 
 paragraph
  I think to represent the jumps from binary to symbols to systems, there is a best natural notation. A SUNSA that fits in between languages that let's us build mountains of abstraction without introducing extra syntax.
@@ -120,7 +120,7 @@ paragraph
 title4 Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Level
 
 paragraph
- I love projects like <a href="https://godbolt.org/">https://godbolt.org/</a>, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they <em>are</em> roughly the same!).
+ I love projects like https://godbolt.org/🔗godbolt.org/, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they <em>are</em> roughly the same!).
 
 title3 What would the properties of a SUNSA be?
 
@@ -143,7 +143,7 @@ paragraph
  I also will list one thing I don't think a SUNSA will have:
 
 paragraph
- 1. A single entry point. Currently most documents and programs are parsed with a start to finish in a linear order. With Tree Notation you can parse things in any order you want—start from anywhere, move in any direction, or even start in multiple places at the same time. I think this will be a property of a SUNSA. Maybe SUNSA programs will look more like <a href="https://en.wikipedia.org/wiki/M%C3%B6bius_strip">this</a> than <a href="https://en.wikipedia.org/wiki/Source_code#/media/File:CodeCmmt002.svg">this</a>.
+ 1. A single entry point. Currently most documents and programs are parsed with a start to finish in a linear order. With Tree Notation you can parse things in any order you want—start from anywhere, move in any direction, or even start in multiple places at the same time. I think this will be a property of a SUNSA. Maybe SUNSA programs will look more like this🔗en.wikipedia.org/wiki/M%C3%B6bius_strip than this🔗en.wikipedia.org/wiki/Source_code#/media/File:CodeCmmt002.svg.
 
 paragraph
  So those are a few things that I think we'll find in a SUNSA. Will we ever find a SUNSA?
@@ -205,7 +205,7 @@ paragraph
 title3 Status of Predictions in Paper
 
 paragraph
- My Tree Notation <a href="https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf">paper</a> was my first ever attempt at writing a scientific paper and my understanding was that a good theory would make some refutable predictions. Here are the predictions I made in that paper and where they stand today.
+ My Tree Notation paper🔗github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf was my first ever attempt at writing a scientific paper and my understanding was that a good theory would make some refutable predictions. Here are the predictions I made in that paper and where they stand today.
 
 title4 Prediction 1: no structure will be found that cannot serialize to TN.
 

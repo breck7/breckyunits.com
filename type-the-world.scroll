@@ -55,7 +55,7 @@ paragraph
  The research into mathematical type and set theories in the 1900's led directly into the creation of useful new programming languages and programming language features.
 
 paragraph
- From the <a href="https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus">typed lambda calculus in the 1940's</a> to the static type system in languages like <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a> to the ongoing experiments of <a href="https://www.haskell.org/">Haskell</a> or the rapid growth of the <a href="https://www.typescriptlang.org/">TypeScript ecosystem</a>, the research into types has led to hundreds of software inventions.
+ From the <a href="https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus">typed lambda calculus in the 1940's</a> to the static type system in languages like C🔗en.wikipedia.org/wiki/C_(programming_language) to the ongoing experiments of Haskell🔗www.haskell.org/ or the rapid growth of the <a href="https://www.typescriptlang.org/">TypeScript ecosystem</a>, the research into types has led to hundreds of software inventions.
 
 paragraph
  In the late 1990's and 2000's, a slew of programming languages that underutilized innovations from type theory in the name of easier prototyping, like Python and Ruby and Javascript, became very popular. For a while this annoyed programmers who understood the benefits of type systems. But now they too are benefiting, as there is a bigger demand for richer type systems now due to the increase in the number of programmers.
@@ -72,7 +72,7 @@ paragraph
  In the late 1990's and 2000's, a big new market arose for programmers to write software that could interact over the Internet with software on other machines that they had no control of or knowledge about.
 
 paragraph
- At first there was not a good standard language to use that was agreed upon by many people. 1996's <a href="https://en.wikipedia.org/wiki/XML">XML</a>, a variant of <a href="https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a> from 1986, was the first attempt to get some traction for this job. But XML and the dialects of XML for APIs like <a href="https://en.wikipedia.org/wiki/SOAP">SOAP (1998)</a> and <a href="https://en.wikipedia.org/wiki/Web_Services_Description_Language">WSDL (2000)</a> were not easy to use. Then <a href="https://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a> created a new language called <a href="https://www.json.org/">JSON</a> in 2001. JSON made web API programming easier and helped create a huge wave of web API businesses. For me this was great. In the beginning of my programming career I got jobs working on these new JSON APIs.
+ At first there was not a good standard language to use that was agreed upon by many people. 1996's XML🔗en.wikipedia.org/wiki/XML, a variant of SGML🔗en.wikipedia.org/wiki/Standard_Generalized_Markup_Language from 1986, was the first attempt to get some traction for this job. But XML and the dialects of XML for APIs like <a href="https://en.wikipedia.org/wiki/SOAP">SOAP (1998)</a> and <a href="https://en.wikipedia.org/wiki/Web_Services_Description_Language">WSDL (2000)</a> were not easy to use. Then <a href="https://en.wikipedia.org/wiki/Douglas_Crockford">Douglas Crockford</a> created a new language called JSON🔗www.json.org/ in 2001. JSON made web API programming easier and helped create a huge wave of web API businesses. For me this was great. In the beginning of my programming career I got jobs working on these new JSON APIs.
 
 paragraph
  The main advantage that JSON had over XML was simple, well defined types. It had just a few primitive types—like numbers, booleans and strings—and a couple of complex types—lists and dicts. It was a very useful collection of structures that were important across all programming languages, put together in a simple and concise way. It took very little time to learn the entire thing. In contrast, XML was "extensible" and defined no types, leading to many massive dialects defined by committee.
@@ -83,7 +83,7 @@ paragraph
 title3 Meanwhile, in SQL Land
 
 paragraph
- When talking about types and data one must pay homage to <a href="https://en.wikipedia.org/wiki/SQL">SQL</a> databases, which store most of the world's structured data and perform the transactions that our businesses depend on.
+ When talking about types and data one must pay homage to SQL🔗en.wikipedia.org/wiki/SQL databases, which store most of the world's structured data and perform the transactions that our businesses depend on.
 
 paragraph
  SQL programmers spend a lot of time thinking about the structure of their data and defining it well in a SQL <a href="https://en.wikipedia.org/wiki/Data_definition_language">data definition language</a>.
@@ -103,7 +103,7 @@ paragraph
  The standards we get from the Standards Organizations are vastly better than not having standards, but in the past they've been released as non-computable, weakly typed documents.
 
 paragraph
- There are lots of projects that are now writing schemas in computable languages. The <a href="http://schema.org/">Schema.org project</a> is working to build a common global database of rich type schemas. <a href="https://json-ld.org/">JSON LD</a> aims to make the types of JSON more extensible. The <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">DefinitelyTyped</a> project has a rich collection of commonly used interfaces. <a href="https://developers.google.com/protocol-buffers">Protocol buffers</a> and <a href="https://capnproto.org/">similar</a> are another approach at language agnostic schemas. There are <a href="https://www.typedefs.com/">attempts</a> at languages just for types. <a href="https://graphql.org/">GraphQL</a> has a useful schema language with rich typing.
+ There are lots of projects that are now writing schemas in computable languages. The <a href="http://schema.org/">Schema.org project</a> is working to build a common global database of rich type schemas. <a href="https://json-ld.org/">JSON LD</a> aims to make the types of JSON more extensible. The DefinitelyTyped🔗github.com/DefinitelyTyped/DefinitelyTyped project has a rich collection of commonly used interfaces. <a href="https://developers.google.com/protocol-buffers">Protocol buffers</a> and similar🔗capnproto.org/ are another approach at language agnostic schemas. There are attempts🔗www.typedefs.com/ at languages just for types. GraphQL🔗graphql.org/ has a useful schema language with rich typing.
 
 paragraph
  <strong>100% of standards/type schemas can now themselves be written in strongly typed documents.</strong>
@@ -111,7 +111,7 @@ paragraph
 title3 Meanwhile, in Git Land
 
 paragraph
- <a href="https://en.wikipedia.org/wiki/Git">Git</a> is a distributed version control system created in 2005.
+ Git🔗en.wikipedia.org/wiki/Git is a distributed version control system created in 2005.
 
 paragraph
  Git can be used to store and track changes to any type of data. You could theoretically put all of the English Wikipedia in Git, then CAPITALIZE all verbs, and save that as a single patch file. Then you could post your patch to the web and say "I propose the new standard is we should CAPITALIZE all verbs. Here's what it would look like." While this is a dumb idea, it demonstrates how Git makes it much cheaper to iterate on standards. Someone can propose both a change to the standard and the global updates all in a single operation. Someone can fork and branch to their heart's content.
@@ -122,10 +122,10 @@ paragraph
 title3 Meanwhile, in Hub Land
 
 paragraph
- In the past 30 years, central code hubs have emerged. There were early ones like <a href="https://sourceforge.net/">SourceForge</a> but in the past ten years <a href="http://github.com/">GitHub</a> has become the breakout star. GitHub has around 30 million users, which is also a good estimate of the total number of programmers worldwide, meaning nearly every programmer uses git.
+ In the past 30 years, central code hubs have emerged. There were early ones like SourceForge🔗sourceforge.net/ but in the past ten years <a href="http://github.com/">GitHub</a> has become the breakout star. GitHub has around 30 million users, which is also a good estimate of the total number of programmers worldwide, meaning nearly every programmer uses git.
 
 paragraph
- In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's <a href="https://cran.r-project.org/">CRAN</a> but the breakout star is 2010's <a href="http://npmjs.com/">NPM</a>, which has more packages than the package managers of all other languages combined. 
+ In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's CRAN🔗cran.r-project.org/ but the breakout star is 2010's <a href="http://npmjs.com/">NPM</a>, which has more packages than the package managers of all other languages combined. 
 
 paragraph
  Types are arbitrary. The utility of a type depends not only on its intrinsic utility but also on its popularity. You can create a better type system—maybe a simpler universal day/time schema—but unless it gains popularity it will be of limited value.
@@ -148,7 +148,7 @@ paragraph
  While the "Semantic Web" did not achieve adoption like the untyped web, that dream remains very relevant and is ceaselessly worked upon. In a sense <a href="https://www.wolframalpha.com/">Wolfram Alpha</a> embodies an early version of the type of UX that was envisioned for the Semantic Web. The typed data in Wolfram Alpha comes from a nicely <a href="https://datarepository.wolframcloud.com/">curated collection</a>.
 
 paragraph
- While lots of strongly typed proprietary databases exist on the web for various domains from <a href="http://imdb.com/">movies</a> to <a href="https://www.crunchbase.com/">startups</a>, and while Wikipedia is arguable undergoing <a href="https://en.wikipedia.org/wiki/Gradual_typing">gradual typing</a>, the open web still remains largely untyped and we don't have a universally accessible interface yet to the world's typed information.
+ While lots of strongly typed proprietary databases exist on the web for various domains from <a href="http://imdb.com/">movies</a> to startups🔗www.crunchbase.com/, and while Wikipedia is arguable undergoing <a href="https://en.wikipedia.org/wiki/Gradual_typing">gradual typing</a>, the open web still remains largely untyped and we don't have a universally accessible interface yet to the world's typed information.
 
 paragraph
  <strong>99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.</strong>
@@ -156,7 +156,7 @@ paragraph
 title3 Meanwhile, in Deep Learning Land
 
 paragraph
- Deep Learning is creeping in everywhere. In the past decade it has come to be the dominant strategy for NLP. In the past two years, a new <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">general</a> learning strategy has become <a href="https://github.com/google-research/ALBERT">feasible</a>, where models learn some intrinsic structure of language and can use this knowledge to perform many different language tasks.
+ Deep Learning is creeping in everywhere. In the past decade it has come to be the dominant strategy for NLP. In the past two years, a new general🔗cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf learning strategy has become feasible🔗github.com/google-research/ALBERT, where models learn some intrinsic structure of language and can use this knowledge to perform many different language tasks.
 
 paragraph
  One of those tasks could be to rewrite untyped data in a typed language.

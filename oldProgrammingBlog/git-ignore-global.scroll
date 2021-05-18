@@ -2,7 +2,8 @@ title Git Ignore Global
 date 2012-01-04
 permalink git-ignore-global
 
-Create a global .gitignore file to ignore common pains:
+paragraph
+ Create a global .gitignore file to ignore common pains:
 
 code
  vim ~/.gitignore_global
@@ -13,4 +14,5 @@ code
 code
  git config --global core.excludesfile ~/.gitignore_global
 
-Thanks to <a href="https://web.archive.org/web/20120614225952/http://help.github.com/ignore-files/">github</a>
+paragraph
+ Thanks to github🔗web.archive.org/web/20120614225952/http://help.github.com/ignore-files/
