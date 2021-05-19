@@ -49,4 +49,5 @@ title3 December 2009 - My "Computer science" blog
 paragraph
  It looks like I also maintained a programming blog from December 2009 to January 2012 <a  class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that <a href="oldProgrammingBlog/">blog</a> migrated to Scroll.
 
-<style>.wayback{text-decoration: none;}</style>
+html
+ <style>.wayback{text-decoration: none;}</style>

@@ -15,7 +15,7 @@ paragraph
 paragraph
  If you were to plot the cumulative medical data storage use for the average American patient, it would look something like the abstract chart below, going up in small increments during each visit to the doctor:
 
-<img src="medicalRecords/providers.png" />
+image medicalRecords/providers.png
 
 paragraph
  A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of <em>all</em> of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
@@ -25,12 +25,12 @@ title3 Medical Records at Home
 paragraph
  Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing <a href="https://nanoporetech.com/products">lab devices</a> will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
 
-<img src="medicalRecords/devices.png" />
+image medicalRecords/devices.png
 
 paragraph
  When you put the two together you can see the issue:
 
-<img src="medicalRecords/both.png" />
+image medicalRecords/both.png
 
 paragraph
  <strong>Patients will log <em>far</em> more medical data on their own than they do at their providers'.</strong>
@@ -77,7 +77,7 @@ orderedList
 paragraph
  This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
 
-<img src="medicalRecords/categories.png" />
+image medicalRecords/categories.png
 
 paragraph
  I am assuming that sensor development advances <em>a lot</em> in 40 years. I am assuming our patient of the future has:
@@ -94,7 +94,7 @@ paragraph
 paragraph
  If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a human readable form—i.e. print the text, print the time series data as line charts, print the images, and print various types of output for the various protocols—the printed version would be about <strong>138,000,000 pages</strong> which laid end-to-end would stretch <strong>24,000 miles</strong>. If you printed it double-sided and stacked it like a book it would be <strong>4.2 miles high</strong>.
 
-<img src="medicalRecords/moon.png" />
+image medicalRecords/moon.png
 
 paragraph
  <strong>So for a 120 year old in 2140, their printed MRD would not reach the moon.</strong> Though it may make it halfway there.

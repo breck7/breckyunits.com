@@ -58,19 +58,15 @@ paragraph
  Which is why we're building a third option. We are building
  an open source, general purpose IDE for building websites.
 
-paragraph
- Here's a short video demonstrating how it works:
+image nudgepadYouTube.jpg
 
 paragraph
- <a
- href="https://www.youtube.com/watch?v=yh_EdtGpBak"><img
- src="nudgepadYouTube.jpg"/></a>
+ Here's a short video🔗youtube.com/watch?v=yh_EdtGpBak demonstrating how it works:
 
 paragraph
  NudgePad is in early beta, but is powering a number of live websites  like these:
 
-paragraph
- <img src="samples.gif">
+image samples.gif
 
 paragraph
  Although we have a lot more to do to get to a stable

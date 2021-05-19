@@ -45,8 +45,10 @@ title4 Measuring Logeracy
 paragraph
  No country or organization measures logeracy yet<email/>. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
 
+image literacy.png
+
 paragraph
- Countries have been <a href="https://ourworldindata.org/literacy">measuring literacy</a> for hundreds of years now. <a href="https://ourworldindata.org/literacy"><img src="literacy.png"/></a> As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
+ Countries have been measuring literacy🔗ourworldindata.org/literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
 
 title4 The upside of logeracy
 
@@ -117,7 +119,9 @@ paragraph
 title5 Notes
 
 paragraph
- <proof>^ I was very surprised to be the one to invent the word logeracy<a href="logeracy.png">(proof)</a>. Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available. <a href="illogeracy.png"><img src="illogeracy.png"/></a>.
+ <proof>^ I was very surprised to be the one to invent the word logeracy<a href="logeracy.png">(proof)</a>. Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
+
+image illogeracy.png
 
 paragraph
  <bigO/>^ Even if you are familiar with Big O Notation, the orders of common functions table is a handy thing to periodically refresh on.

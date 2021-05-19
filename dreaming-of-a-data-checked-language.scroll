@@ -39,8 +39,7 @@ paragraph
  You would be skeptical of National Geographic if their
  homepage looked like this:
 
-paragraph
- <img src="dataChecked_spellCheck.png">
+image dataChecked_spellCheck.png
 
 paragraph
  We generally expect zero spelling errors when reading any
@@ -86,8 +85,7 @@ paragraph
 
 title4 Results
 
-paragraph
- <img src="dataErrorPandemic.jpg">
+image dataErrorPandemic.jpg
 
 paragraph
  In the screenshots above, you can see that 10/10 of these

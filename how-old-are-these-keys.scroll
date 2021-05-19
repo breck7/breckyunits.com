@@ -1,8 +1,7 @@
 title How Old Are These Keys?
 date 2020-02-25
 
-paragraph
- <img src="keyboard/screenshot.png">
+image keyboard/screenshot.png
 
 paragraph
  One of the questions I often come back to is this: how much

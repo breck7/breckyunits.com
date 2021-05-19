@@ -18,8 +18,7 @@ paragraph
 
 title3 Transcript of <em>How I Built This</em> with James Park
 
-paragraph
- <img src="jamesPark.jpeg" />
+image jamesPark.jpeg
 
 paragraph
  Guy Raz(🎙): From NPR, It's How I Built This. A show about innovators,
@@ -759,12 +758,12 @@ paragraph
 
 paragraph
  🎙: All right. So 2008, you've got the name Fitbit, you go to
- <a href="https://youtu.be/RRR26GPpQ4A?t=218">TechCrunch to present</a>, to unveil this product. And what was the
+ TechCrunch50🔗youtu.be/RRR26GPpQ4A?t=218 to present, to unveil this product. And what was the
  product that you were offering? Well, you said, "All right, we've got
  to think of the Fitbit and it does this." What did you say it did at
  that point?
 
-<a href="https://youtu.be/RRR26GPpQ4A?t=218"><img src="fitbit2008.jpg" /></a>
+image fitbit2008.jpg
 
 paragraph
  ⌚️: Our pitch to the crowd at TechCrunch, and ultimately to

@@ -238,8 +238,7 @@ paragraph
 paragraph
  Here are the results of the script for the small 60 file TreeBase:
 
-paragraph
- <img src="60files.png" />
+image 60files.png
 
 title3 Building the Grammar File
 
@@ -340,8 +339,7 @@ paragraph
 paragraph
  Now I have rudimentary syntax highlighting for these new title files:
 
-paragraph
- <img src="sublimeText.png" />
+image sublimeText.png
 
 paragraph
  Notice the syntax highlighting is a little broken. The Sublime syntax generating still <a href="https://github.com/treenotation/jtree/issues/8">needs some work</a>.
@@ -581,14 +579,12 @@ paragraph
 paragraph
  💣 Opening the <code>600k</code> folder in Apple's Finder gave me a loading screen for about 3 minutes
 
-paragraph
- <img src="600k-finder-loading.png">
+image 600k-finder-loading.png
 
 paragraph
  At least it eventually came up:
 
-paragraph
- <img src="600k-finder.png">
+image 600k-finder.png
 
 paragraph
  Now, how about Git?

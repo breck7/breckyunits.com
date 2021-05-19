@@ -13,7 +13,7 @@ paragraph
 paragraph
  Here's how it looks if you plot visits by karma score:
 
-<img src="visits_by_karma.png">
+image visits_by_karma.png
 
 paragraph
  The Pearson Correlation is high: 0.894. Here's the raw data:
