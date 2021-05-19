@@ -9,24 +9,24 @@ paragraph
  Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
 
 code
- <i>>myproject/</i>
- - index.php
- - theme.css
- - helper_functions.php
- - logo.png
+ 📁myproject
+  index.php
+  theme.css
+  helper_functions.php
+  logo.png
 
 paragraph
  Here's an example of a <b>nested</b> structure(4 directories, 4 files):
  
 code
- <i>>myproject/</i>
- - index.php
- <i>> styles/</i>
- -- theme.css
- <i>> images/</i>
- -- logo.png
- <i>> helpers/</i>
- -- helper_functions.php
+ 📁myproject
+  index.php
+  📁styles
+   theme.css
+  📁images
+   logo.png
+  📁 helpers
+   helper_functions.php
 
 paragraph
  Both of these structures can accomplish the same thing. Which is better?
@@ -60,9 +60,9 @@ paragraph
  Occasionally you'll have a structure like this:
 
 code
- - index.php
- <i>> admin/</i>
- -- index.php
+ index.php
+ 📁admin
+  index.php
 
 paragraph
  You might accidentally overwrite one index with the other, or edit one index when you think you're editing the other. Doesn't happen too often, but occasionally it can be annoying. By sticking everything in one directory, you don't run into that problem as much.
@@ -98,17 +98,17 @@ paragraph
 title5 Bad
 
 code
- <i>>myproject/</i>
- - a_image.png
- - base_functions.php
- - dog.js
- - index.php
- - mike.png
- - names.csv
- - new_logo.jpg
- - test.php
- - xmlfunctions.php
- - zlib.js
+ 📁myproject
+  a_image.png
+  base_functions.php
+  dog.js
+  index.php
+  mike.png
+  names.csv
+  new_logo.jpg
+  test.php
+  xmlfunctions.php
+  zlib.js
 
 paragraph
  It's a mess.
@@ -119,21 +119,21 @@ paragraph
 title5 Ok
 
 code
- <i>>myproject/</i>
- - index.php
- <i>> images/</i>
- -- a_image.png
- -- mike.png
- -- new_logo.jpg
- <i>> php/</i>
- -- base_functions.php
- -- test.php
- -- xmlfunctions.php
- <i>> scripts/</i>
- -- dog.js
- -- zlib.js
- <i>> data/</i>
- -- names.csv
+ 📁myproject
+  index.php
+  📁images
+   a_image.png
+   mike.png
+   new_logo.jpg
+  📁php
+   base_functions.php
+   test.php
+   xmlfunctions.php
+  📁scripts
+   dog.js
+   zlib.js
+  📁data
+   names.csv
 
 paragraph
  But now you've introduced the problem that to access nearly anything, you have to "open a drawer". You also can't see everything all at once. 
@@ -152,20 +152,20 @@ paragraph
  If you apply this algorithm to a sample project, you might get something like a project I just made with <a href="http://github.com/breck7/uno">PHPUno</a>
 
 code
- <i>>dropdate/</i>
- <i>> - data/</i>
- -- 1
- -- 2
- -- ..
- -- 578
- - index.php
- - logo.png
- - sprites.png
- - style.css
- - uno_controller.php
- - uno_app.php
- - uno_models.php
- - uno_helpers.php
+ 📁dropdate
+  📁data
+   1
+   2
+   ..
+   578
+  index.php
+  logo.png
+  sprites.png
+  style.css
+  uno_controller.php
+  uno_app.php
+  uno_models.php
+  uno_helpers.php
 
 title3 Search, don't sort
 
@@ -185,9 +185,9 @@ paragraph
  In other words, the directory "icon" should never have a subdirectory in it. 
 
 code
- <i>>myproject/</i>
- <i>> images/</i>
- <i>>- icons/</i>
+ 📁myproject
+  📁images
+   📁icons
 
 paragraph
  This means that any project should have at most 9 subdirectories.
