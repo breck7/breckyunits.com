@@ -2,9 +2,12 @@ title Bash History
 date 2011-7-17
 permalink bash-history
 
-Understanding and mastering bash history can:
+paragraph
+ Understanding and mastering bash history can:
 
-1. Save you a lot of time, keystrokes, and errors.
-2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
+orderedList
+ 1. Save you a lot of time, keystrokes, and errors.
+ 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
 
-Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.
+paragraph
+ Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.

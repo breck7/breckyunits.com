@@ -2,40 +2,45 @@ title Use rsync to deploy your website
 date 2009-11-21
 permalink use-rsync-to-deploy-your-website
 
-rsync is a nifty little tool that can deploy a website to a testing or production server.
+paragraph
+ rsync is a nifty little tool that can deploy a website to a testing or production server.
 
-Here's a one line command to deploy brecksblog:
+paragraph
+ Here's a one line command to deploy brecksblog:
 
 code
  rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
 
-This one line will do a fast, incremental file transfer from my local directory to the web server. 
+paragraph
+ This one line will do a fast, incremental file transfer from my local directory to the web server. 
 
-I saved this file as "deploy", and then run it by typing:
+paragraph
+ I saved this file as "deploy", and then run it by typing:
 
 code
  ./deploy
 
-The exclude option will exclude a file or directory from being synced.
+paragraph
+ The exclude option will exclude a file or directory from being synced.
 
-Here's an <a href="http://ubuntuforums.org/showthread.php?t=251516">explanation</a> about the options I use:
-
-I use rsync with these options:
+paragraph
+ Here's an explanation🔗ubuntuforums.org/showthread.php?t=251516 about the options I use. I use rsync with these options:
 
 code
  rsync -arvuz /src/foo/ /dest/foo
 
-this will copy the contents of /src/foo/ into /dest/foo
+paragraph
+ This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
-options explained:
+list
+ - a: archive mode (keep owner and permissions)
+ - r: recurse into directories
+ - v: increase verbosity
+ - u: update only (don't overwrite newer files - if you have edited files in destination)
+ - z: compress file data
 
-- a: archive mode (keep owner and permissions)
-- r: recurse into directories
-- v: increase verbosity
-- u: update only (don't overwrite newer files - if you have edited files in destination)
-- z: compress file data
 
+title3 Notes 
 
-Notes 
-
-1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
+paragraph
+ 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"

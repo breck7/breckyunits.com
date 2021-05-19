@@ -2,10 +2,12 @@ title Create a new user in Linux
 date 2010-0-5
 permalink create-a-new-user-in-linux
 
-Creating a new user in Linux is dead simple.
+paragraph
+ Creating a new user in Linux is dead simple.
 
 code
  useradd bob
  passwd bob
 
-This adds a user "bob" and then prompts you to enter a password.
+paragraph
+ This adds a user "bob" and then prompts you to enter a password.

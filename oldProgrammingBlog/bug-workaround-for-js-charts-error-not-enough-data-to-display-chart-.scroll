@@ -6,6 +6,8 @@ code
  nullData = new Array( );
  myChart.setDataArray(nullData,"null");
 
-Add these 2 lines to your javascript.
+paragraph
+ Add these 2 lines to your javascript.
 
-Basically, if the first data set has only 1 data point, JSCharts will fire the alert. If it has 0 or 2+ data points, it won't. This fix creates an empty data series which disables this alert.
+paragraph
+ Basically, if the first data set has only 1 data point, JSCharts will fire the alert. If it has 0 or 2+ data points, it won't. This fix creates an empty data series which disables this alert.

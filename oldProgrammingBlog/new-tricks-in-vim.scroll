@@ -2,7 +2,8 @@ title New tricks in Vim
 date 2010-0-29
 permalink new-tricks-in-vim
 
-I learned some new tricks with vim today.
+paragraph
+ I learned some new tricks with vim today.
 
 code
  4G - Move to line #4
@@ -14,6 +15,8 @@ code
  :hide - hide the current window
  :ls - show current buffers
 
-Notes
+paragraph
+ Notes
 
-1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+paragraph
+ 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)

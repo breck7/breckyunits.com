@@ -2,9 +2,11 @@ title Quickly Set up a Web Proxy Server
 date 2011-3-13
 permalink quickly-set-up-a-web-proxy-server
 
-Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
+paragraph
+ Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
 
-Here's a great article that shows how:
-<a href="http://articles.slicehost.com/2009/1/6/ssh-socks-proxy">http://articles.slicehost.com/2009/1/6/ssh-socks-proxy</a>.
+paragraph
+ Here's a great article🔗articles.slicehost.com/2009/1/6/ssh-socks-proxy that shows how.
 
-I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
+paragraph
+ I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.

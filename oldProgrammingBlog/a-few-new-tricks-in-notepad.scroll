@@ -2,15 +2,19 @@ title A few new Tricks in Notepad++
 date 2011-3-12
 permalink a-few-new-tricks-in-notepad
 
-I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). 
+paragraph
+ I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). 
 
-The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
+paragraph
+ The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
 
-Here are some things I'm using a lot more now in Notepad++:
+paragraph
+ Here are some things I'm using a lot more now in Notepad++:
 
-- Bookmarks. Hit Ctrl+F2 to set a bookmark on any line of code and then hit F2 to jump between bookmarks. Shift+F2 goes back a bookmark.
-- SourceCookifier. This is a neat plugin that lets you jump to the definition of a function by hitting Ctrl+Shift+Enter. This is one feature from IDEs that I missed. It also provides a nice sidebar with a breakdown of your code(functions, vars, etc.). 
-- FileSwitcher. A plugin that lets you hit Ctrl+Shift+o and then just type the name of the file you want to work on. Much quicker way to switch files than clicking or ctrl tabbing.
-- Goto. Ctrl+G lets you jump to a line number quick. I've used this in the past but am using it more often now.
-- Column Editor. Pretty handy sometimes.
-- Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code. 
+list
+ - Bookmarks. Hit Ctrl+F2 to set a bookmark on any line of code and then hit F2 to jump between bookmarks. Shift+F2 goes back a bookmark.
+ - SourceCookifier. This is a neat plugin that lets you jump to the definition of a function by hitting Ctrl+Shift+Enter. This is one feature from IDEs that I missed. It also provides a nice sidebar with a breakdown of your code(functions, vars, etc.). 
+ - FileSwitcher. A plugin that lets you hit Ctrl+Shift+o and then just type the name of the file you want to work on. Much quicker way to switch files than clicking or ctrl tabbing.
+ - Goto. Ctrl+G lets you jump to a line number quick. I've used this in the past but am using it more often now.
+ - Column Editor. Pretty handy sometimes.
+ - Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code. 

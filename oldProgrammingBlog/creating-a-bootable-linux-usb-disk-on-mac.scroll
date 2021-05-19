@@ -2,22 +2,27 @@ title Creating a bootable Linux USB disk on Mac
 date 2011-7-8
 permalink creating-a-bootable-linux-usb-disk-on-mac
 
-- Download the ISO
-- Convert iso to img on terminal:
+list
+ - Download the ISO
+ - Convert iso to img on terminal:
 
 code
  hdiutil convert -format UDRW -o ~/path/to/new.img ~/path/to/source.iso
 
-- Open Disk Utility. Right click the drive and click Information, then note the drive path (disk1 or disk2 for example)
-- Right click the Disk and click Unmount
-- Back in terminal:
+list
+ - Open Disk Utility. Right click the drive and click Information, then note the drive path (disk1 or disk2 for example)
+ - Right click the Disk and click Unmount
+ - Back in terminal:
 
 code
  sudo su root
  dd if=/path/to/new.img of=/dev/rDISKNUMBER bs=1m
 
-Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
+paragraph
+ Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
 
-Back in Disk Utility, unmount/eject the disk.
+paragraph
+ Back in Disk Utility, unmount/eject the disk.
 
-Done!
+paragraph
+ Done!

@@ -2,31 +2,37 @@ title Use cat to combine or print the contents of a file
 date 2010-0-26
 permalink use-cat-to-combine-or-print-the-contents-of-a-file
 
-Print the contents of a file:
+paragraph
+ Print the contents of a file:
 
 code
  cat filename.txt
 
-Pipe the contents of the file to less, so you can view it one page at a time:
+paragraph
+ Pipe the contents of the file to less, so you can view it one page at a time:
 
 code
  cat filename | less
 
-In less, the 3 key commands are:
+paragraph
+ In less, the 3 key commands are:
 
-- spacebar to go forward one page
-- b to go back one page
-- q to quit
+list
+ - spacebar to go forward one page
+ - b to go back one page
+ - q to quit
 
-You can also do regular expression searches like in vim: /regex (n to go to next match)
+paragraph
+ You can also do regular expression searches like in vim: /regex (n to go to next match)
 
-
-Append file1 to the end of file 2:
+paragraph
+ Append file1 to the end of file 2:
 
 code
  cat file1 >> file2
 
-Combine two files into a third file:
+paragraph
+ Combine two files into a third file:
 
 code
  cat file1 file2 > file3

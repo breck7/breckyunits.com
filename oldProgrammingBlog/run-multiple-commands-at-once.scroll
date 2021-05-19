@@ -2,21 +2,26 @@ title Run multiple commands at once
 date 2010-0-26
 permalink run-multiple-commands-at-once
 
-Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
+paragraph
+ Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
 
-For instance:
+paragraph
+ For instance:
 
 code
  cd;ls
 
-This will change the directory to your home directory, then list the contents. You can use as many semicolons as you wish.
+paragraph
+ This will change the directory to your home directory, then list the contents. You can use as many semicolons as you wish.
 
-Another option is to use && if you only want the next command to execute if the previous command executed successfully.
+paragraph
+ Another option is to use && if you only want the next command to execute if the previous command executed successfully.
 
 code
  cd ~/myfiles; cp file.txt ~/backup/ && rm file.txt
 
-This will only run the last command if the cp command executed successfully.
+paragraph
+ This will only run the last command if the cp command executed successfully.
 
-You can swap the && for || to run a command if the previous one fails.
-
+paragraph
+ You can swap the && for || to run a command if the previous one fails.

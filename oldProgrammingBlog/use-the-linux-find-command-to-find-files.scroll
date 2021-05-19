@@ -2,9 +2,11 @@ title Use the linux find command to find files
 date 2009-11-25
 permalink use-the-linux-find-command-to-find-files
 
-Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
+paragraph
+ Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
 
 code
  find -name "breck*"
 
-Will search the current directory <em>and all subdirectories</em> for files starting with the word "breck".
+paragraph
+ Will search the current directory <em>and all subdirectories</em> for files starting with the word "breck".

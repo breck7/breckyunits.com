@@ -2,9 +2,11 @@ title Shortcut for switching to a Windows directory in Cygwin
 date 2010-1-1
 permalink shortcut-for-switching-to-a-windows-directory-in-cygwin
 
-In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
+paragraph
+ In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
 
-I made a small bash script called `wcd` that makes it easier.
+paragraph
+ I made a small bash script called `wcd` that makes it easier.
 
 title2 wcd
 
@@ -15,20 +17,26 @@ code
  echo $newpath
  cd "$newpath" 
 
-The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
+paragraph
+ The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
 
-Make this file executable and add an alias into your bash_profile:
+paragraph
+ Make this file executable and add an alias into your bash_profile:
 
 code
  alias wcd="source ~/wcd"
 
-Now you can just type(or actually copy/paste) something like this:
+paragraph
+ Now you can just type(or actually copy/paste) something like this:
 
 code
  wcd "C:\Users\breck\Documents\My Dropbox"
 
-...and that will take you to the Windows directory.
+paragraph
+ ...and that will take you to the Windows directory.
 
-Notes
+paragraph
+ Notes
 
-1. <a href="http://gist.github.com/291822">wcd gist</a>.
+paragraph
+ 1. wcd gist🔗gist.github.com/291822.

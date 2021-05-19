@@ -2,12 +2,14 @@ title Change the file owner or group in Linux
 date 2010-1-8
 permalink change-the-file-owner-or-group-in-linux
 
-Change the owner of a file or folder:
+paragraph
+ Change the owner of a file or folder:
 
 code
  chown newowner filename
 
-Change the group of a file or folder:
+paragraph
+ Change the group of a file or folder:
 
 code
  chgrp newgroup filenameorfoldername

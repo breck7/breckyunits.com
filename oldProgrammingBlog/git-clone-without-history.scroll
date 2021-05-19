@@ -2,9 +2,11 @@ title git clone without history
 date 2010-0-11
 permalink git-clone-without-history
 
-If you're using a library from git in another project, you may want to download it without the history. Here's how:
+paragraph
+ If you're using a library from git in another project, you may want to download it without the history. Here's how:
 
 code
  git clone --depth 1 your_repo_url
 
-<a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
+paragraph
+ <a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>

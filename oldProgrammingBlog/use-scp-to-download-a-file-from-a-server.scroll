@@ -2,9 +2,11 @@ title Use scp to download a file from a server
 date 2010-0-21
 permalink use-scp-to-download-a-file-from-a-server
 
-You can easily grab a file off a server from the command line using secure copy:
+paragraph
+ You can easily grab a file off a server from the command line using secure copy:
 
 code
  scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt
 
-This will download the file from your server to your local computer.
+paragraph
+ This will download the file from your server to your local computer.
