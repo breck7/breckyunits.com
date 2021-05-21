@@ -21,13 +21,13 @@ paragraph
  TreeBase is composed of 3 key ingredients.
 
 paragraph
- <strong>Ingredient 1: A folder</strong> All that TreeBase requires is a file system (although in theory you could build an analog TreeBase on paper). This means that you can use any tools on your system for editing files for editing your database.
+ <b>Ingredient 1: A folder</b> All that TreeBase requires is a file system (although in theory you could build an analog TreeBase on paper). This means that you can use any tools on your system for editing files for editing your database.
 
 paragraph
- <strong>Ingredient 2: Git</strong> Instead of having code to implement any sort of versioning or metadata tracking, you just use Git. Edit your files and use Git for history, branching, collaboration, etc. Because Tree Notation is a line and word based syntax it meshes really well with Git workflows.
+ <b>Ingredient 2: Git</b> Instead of having code to implement any sort of versioning or metadata tracking, you just use Git. Edit your files and use Git for history, branching, collaboration, etc. Because Tree Notation is a line and word based syntax it meshes really well with Git workflows.
 
 paragraph
- <strong>Ingredient 3: Tree Notation</strong> The Third Ingredient for making a TreeBase is Tree Notation. Both schemas and data use <a href="https://treenotation.org/">Tree Notation</a>. This is a new very simple syntax for encoding strongly typed data. It's simple, extensible, and plays well with Git.
+ <b>Ingredient 3: Tree Notation</b> The Third Ingredient for making a TreeBase is Tree Notation. Both schemas and data use <a href="https://treenotation.org/">Tree Notation</a>. This is a new very simple syntax for encoding strongly typed data. It's simple, extensible, and plays well with Git.
 
 title3 TreeBase Compared to Other Database Systems
 
@@ -41,7 +41,7 @@ paragraph
  You might be asking yourself "Why use TreeBase at all when great databases exist?". To further put the stupidity of the current TreeBase design into perspective, the <a href="https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/">Largest Git Repo on the Planet is Windows</a> which has 3.5 million files. I'm going to try and create a repo with 6.5 million files on my laptop.
 
 paragraph
- Even if you think TreeBase is silly aren't you curious what happens when I try to put 6.5 million files into one folder? I kind of am. If you want an explanation of <em>why</em> TreeBase, I'll get to that near the end of this post.
+ Even if you think TreeBase is silly aren't you curious what happens when I try to put 6.5 million files into one folder? I kind of am. If you want an explanation of <i>why</i> TreeBase, I'll get to that near the end of this post.
 
 paragraph
  But first...
@@ -138,7 +138,7 @@ paragraph
  I'll build a subset from the first 1M rows with <code>head -n 1000000 title.basics.tsv > 1m.title.basics.tsv</code>. Now I will compute against that subset with <code>xsv select primaryTitle 1m.title.basics.tsv | wc</code>. I get <code>19751733</code> so an average of 20 characters per title.
 
 paragraph
- I'll combine that with the space for file extension and round that to say 30 extra bytes of file information for each of the 6.5 million titles. <strong>So about 200MB of extra data required to split this 500MB file into filenames. Even though that's a 50% increase, 200MB is dirt cheap so that doesn't seem so bad.</strong>
+ I'll combine that with the space for file extension and round that to say 30 extra bytes of file information for each of the 6.5 million titles. <b>So about 200MB of extra data required to split this 500MB file into filenames. Even though that's a 50% increase, 200MB is dirt cheap so that doesn't seem so bad.</b>
 
 paragraph
  You may think that I could save a roughly equivalent amount by dropping the primaryTitle field. However, even though my filenames now contain information from the title, my permalink schema will generally distort the title so I need to preserve it in each file and won't get savings there. I use a more restrictive character set in the permalink schema than the file contents just to make things like URLs easier.
@@ -156,7 +156,7 @@ paragraph
  You might be wondering why not just drop the column names from each file? Again, it's just not the TreeBase way. By including the column names, each file is self-documenting. I can open up any file with a text editor and easily change it.
 
 paragraph
- <strong>So to recap: splitting this 1 TSV file into 6.5 million files is going to take up 2-3x more space due to metadata and repetition of column names.</strong>
+ <b>So to recap: splitting this 1 TSV file into 6.5 million files is going to take up 2-3x more space due to metadata and repetition of column names.</b>
 
 paragraph
  Because this is text data, that's actually not so bad. I don't foresee problems arising from wasted disk space.
@@ -173,12 +173,12 @@ paragraph
  Disk space won't be a problem. But are the software tools I work with on a day-to-day basis designed to handle millions of files in a single folder? How will they hold up?
 
 list
- - <strong>Bash</strong> How will the basics like <code>ls</code> and <code>grep</code> hold up in a folder with 6.5M files?
- - <strong>Git</strong> How slow will <code>git status</code> be? What about <code>git add</code> and <code>git commit</code>?
- - <strong>Sublime Text</strong> Will I even be able to open this folder in Sublime Text? Find/replace is something I so commonly use, will that work?  How about regex find/replace?
- - <strong>Finder</strong> Will I be able to visually browse around?
- - <strong>TreeBase Scripts</strong> Will my simple TreeBase scripts be usable? Will I be able to type check a TreeBase?
- - <strong>GitHub</strong> Will GitHub be able to handle 6.5M files?
+ - <b>Bash</b> How will the basics like <code>ls</code> and <code>grep</code> hold up in a folder with 6.5M files?
+ - <b>Git</b> How slow will <code>git status</code> be? What about <code>git add</code> and <code>git commit</code>?
+ - <b>Sublime Text</b> Will I even be able to open this folder in Sublime Text? Find/replace is something I so commonly use, will that work?  How about regex find/replace?
+ - <b>Finder</b> Will I be able to visually browse around?
+ - <b>TreeBase Scripts</b> Will my simple TreeBase scripts be usable? Will I be able to type check a TreeBase?
+ - <b>GitHub</b> Will GitHub be able to handle 6.5M files?
 
 title3 Proceeding in Stages
 
@@ -590,7 +590,7 @@ paragraph
  Now, how about Git?
 
 paragraph
- 💣 The first <code>git add .</code> took <em>40 minutes</em>! Yikes.
+ 💣 The first <code>git add .</code> took <i>40 minutes</i>! Yikes.
 
 bashCode
  real  39m30.215s

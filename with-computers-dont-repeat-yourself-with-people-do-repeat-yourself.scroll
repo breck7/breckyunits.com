@@ -8,10 +8,10 @@ paragraph
  The downside of DRY's popularity is that programmers might start applying the principle to conversations with other humans. 
 
 paragraph
- This fails because computers and people are <em>polar opposites.</em> 
+ This fails because computers and people are <i>polar opposites.</i> 
 
 paragraph
- With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you <em>don't</em> repeat yourself!
+ With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you <i>don't</i> repeat yourself!
 
 title3 Four Ways Computers and People are Different
 
@@ -59,7 +59,7 @@ paragraph
 title3 Repeat yourself until you overcommunicate
 
 paragraph
- To communicate well you should try to <em>overcommunicate</em>. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
+ To communicate well you should try to <i>overcommunicate</i>. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
 
 title3 An example of how I repeat myself
 

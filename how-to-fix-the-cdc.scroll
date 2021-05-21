@@ -4,13 +4,13 @@ date 2021-03-30
 paragraph
  <b>The CDC🔗www.cdc.gov/ needs to
  move to Git</b>. The CDC needs to move pretty much
- <em>everything to Git</em>. And they should do it
+ <i>everything to Git</i>. And they should do it
  <b>with urgency</b>. They should make it a priority to
  never again publish anything without a link to a Git repo.
  Not just papers, but also datasets and press releases. It
  doesn't matter under what account or on what service the
- repos are republished to; what matters is that <em>every
- CDC publication needs a link to a backing Git repo</em>.
+ repos are republished to; what matters is that <i>every
+ CDC publication needs a link to a backing Git repo</i>.
 
 title3 How do you explain Git to a government leader?
 
@@ -101,7 +101,7 @@ paragraph
 
 
 paragraph
- <em>I am a computer scientist and former
+ <i>I am a computer scientist and former
  software engineer at Microsoft, the University of Hawai'i
  Cancer Center, and Our World in Data. Opinions are my
- own.</em>
+ own.</i>

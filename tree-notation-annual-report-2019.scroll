@@ -3,7 +3,7 @@ date 2020-12-09
 permalink tree-notation-annual-report-2019
 
 paragraph
- <em>Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests".</em>
+ <i>Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests".</i>
 
 paragraph
  In 2017 I wrote a post🔗breckyunits.com/show-hn-programming-is-now-two-dimensional.html about a half-baked idea I named TreeNotation🔗treenotation.org.
@@ -45,7 +45,7 @@ paragraph
  In these reports I'll try and restate the idea in a fresh way, but you can also find the idea explained in different places via visuals🔗treenotation.org/, an FAQ🔗faq.treenotation.org/, a spec🔗github.com/treenotation/faq.treenotation.org/blob/master/spec.txt, demos🔗jtree.treenotation.org/designer/, etc.
 
 paragraph
- My hypothesis is that there exists a <strong>Simplest Universal Notation for Symbolic Abstraction (SUNSA)</strong>. I propose Tree Notation as a potential candidate for that notation. It is hard to assign probabilities to events that haven't happened before, but I would say I am between 1% and 10% confident that a SUNSA exists and that Tree Notation is somewhat close to it<a href="#note-risk">^</a>. If Tree Notation is not the SUNSA, it at least gives me an angle of attack on the general problem.
+ My hypothesis is that there exists a <b>Simplest Universal Notation for Symbolic Abstraction (SUNSA)</b>. I propose Tree Notation as a potential candidate for that notation. It is hard to assign probabilities to events that haven't happened before, but I would say I am between 1% and 10% confident that a SUNSA exists and that Tree Notation is somewhat close to it<a href="#note-risk">^</a>. If Tree Notation is not the SUNSA, it at least gives me an angle of attack on the general problem.
 
 paragraph
  Let's define a notation as a set of physical rules that can be used to represent abstractions. By simplest universal notation I mean the notation that can represent any and every abstraction representable by other notations that also has the smallest set of rules.
@@ -96,7 +96,7 @@ paragraph
 title4 Idea #1: Mapping the Frontiers of Symbolic Science
 
 paragraph
- A SUNSA would greatly <em>reduce the cost</em> of a common knowledge base of science. While it may be possible to do it today without a SUNSA, having one would be at least a one order of magnitude cost reduction. Additionally, if there is not a SUNSA, than it may take just as long to come to agreement on what UNSA to use for a common knowledge base of science as it would to actual build the base!
+ A SUNSA would greatly <i>reduce the cost</i> of a common knowledge base of science. While it may be possible to do it today without a SUNSA, having one would be at least a one order of magnitude cost reduction. Additionally, if there is not a SUNSA, than it may take just as long to come to agreement on what UNSA to use for a common knowledge base of science as it would to actual build the base!
 
 paragraph
  By encoding all of science into a universal syntax, in addition to tremendous pedagogical benefits, we could take analogies like this:
@@ -120,7 +120,7 @@ paragraph
 title4 Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Level
 
 paragraph
- I love projects like https://godbolt.org/🔗godbolt.org/, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they <em>are</em> roughly the same!).
+ I love projects like https://godbolt.org/🔗godbolt.org/, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they <i>are</i> roughly the same!).
 
 title3 What would the properties of a SUNSA be?
 
@@ -151,7 +151,7 @@ paragraph
 title3 Why might there not be a SUNSA?
 
 paragraph
- I think a really good piece of evidence that we don't need a SUNSA is that we've seen <strong>STUPENDOUS SUCCESS WITH THOUSANDS OF SYNTAXES</strong>. The pace of progress in computing in the 1900's and 2000's has been tremendous, perhaps <strong>because</strong> of the Smörgåsbord of notations.
+ I think a really good piece of evidence that we don't need a SUNSA is that we've seen <b>STUPENDOUS SUCCESS WITH THOUSANDS OF SYNTAXES</b>. The pace of progress in computing in the 1900's and 2000's has been tremendous, perhaps <b>because</b> of the Smörgåsbord of notations.
 
 paragraph
  Who's to say that a SUNSA is needed? I guess my retort to that, is that although we do indeed have thousands of digital notations and languages, all of them, without exception, compile down to binary, so clearly having some low level universal notation has proved incredibly advantageous so far.
@@ -207,7 +207,7 @@ paragraph
  While this prediction has held, a number of people have commented that it doesn't predict much, as the same could really be said about most languages. Anything you can represent in Tree Notation you can represent in many encodings like XML.
 
 paragraph
- What I should have predicted is something along the lines of this: <em>Tree Notation is the smallest set of syntax rules that can represent all abstractions</em>. I think trying to formalize a prediction along those lines would be a worthwhile endeavor (possibly for the reason that in trying to do what I just said, I may learn that what I just said doesn't make sense).
+ What I should have predicted is something along the lines of this: <i>Tree Notation is the smallest set of syntax rules that can represent all abstractions</i>. I think trying to formalize a prediction along those lines would be a worthwhile endeavor (possibly for the reason that in trying to do what I just said, I may learn that what I just said doesn't make sense).
 
 title4 Prediction 2: TLs will be found for every popular 1DL.
 
@@ -241,7 +241,7 @@ paragraph
  In 2019 I explored the idea of putting together a proper research group and a more formal organization around the idea.
 
 paragraph
- I put the breaks on that for three reasons. The first is I just don't have a particularly keen interest in building an organization. I love to be <em>part of a team</em>, but I like to be more hands on with the ideas and the work of the team rather than the meta aspect. I've gotten great help for this project at an informal level, so there's no rush to formalize it. The second reason is I don't have a great aptitude for team building, and I'm not ready yet to dedicate the time to that. I get excited by ideas and am good at quickly explore new idea spaces, but being the captain who calmly guides the ship toward a known destination just isn't me right now. The third reason is just the idea remains too risky and ill-defined. If it's a good idea, growth will happen eventually, and there's no need to force it.
+ I put the breaks on that for three reasons. The first is I just don't have a particularly keen interest in building an organization. I love to be <i>part of a team</i>, but I like to be more hands on with the ideas and the work of the team rather than the meta aspect. I've gotten great help for this project at an informal level, so there's no rush to formalize it. The second reason is I don't have a great aptitude for team building, and I'm not ready yet to dedicate the time to that. I get excited by ideas and am good at quickly explore new idea spaces, but being the captain who calmly guides the ship toward a known destination just isn't me right now. The third reason is just the idea remains too risky and ill-defined. If it's a good idea, growth will happen eventually, and there's no need to force it.
 
 paragraph
  There is a loose confederation of folks I work on this idea with, but no formal organization with an office so far.
@@ -255,5 +255,5 @@ title5 Notes
 
 list
  ^ <a name="note-research"></a>Regardless of whether or not Tree Notation turns out to be a good idea, as one part of the effort to prove/disprove it I've built a lot of big datasets on languages and notations, which seem to be useful for other people. Credit for that is due to a number of people who advised me back in 2017 to "learn to research properly".
- ^ <a name="note-risk"></a> Note that this means I am between 90-99% confident that Tree Notation is <em>not</em> a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
+ ^ <a name="note-risk"></a> Note that this means I am between 90-99% confident that Tree Notation is <i>not</i> a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
  ^ <a name="note-euclid"></a> When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.

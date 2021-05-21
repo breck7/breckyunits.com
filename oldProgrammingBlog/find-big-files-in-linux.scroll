@@ -3,7 +3,7 @@ date 2011-10-06
 permalink find-big-files-in-linux
 
 paragraph
- <em>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</em>
+ <i>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</i>
 
 paragraph
  How to find files larger than a certain size:

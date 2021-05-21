@@ -22,7 +22,7 @@ paragraph
  In 1992 <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8 was designed</a> which went on to become the first widespread system that encodes all the characters for all the world's languages.
 
 paragraph
- <strong>For about 99.6% of recorded history we did not have a globally used system to encode all human characters into a single system. Now we do.</strong>
+ <b>For about 99.6% of recorded history we did not have a globally used system to encode all human characters into a single system. Now we do.</b>
 
 title3 Meanwhile, in the Land of Standards Organization
 
@@ -36,7 +36,7 @@ paragraph
  The International Organization for Standardization (ISO) began around 100 years ago and is the organization behind a number of <a href="https://www.iso.org/popular-standards.html">popular standards</a> from <a href="https://www.iso.org/iso-4217-currency-codes.html">currency codes</a> to <a href="https://www.iso.org/iso-8601-date-and-time-format.html">date and time</a> formats.
 
 paragraph
- <strong>For 98% of recorded history we did not have global standards. Now we do.</strong>
+ <b>For 98% of recorded history we did not have global standards. Now we do.</b>
 
 title3 Meanwhile, in Math Land
 
@@ -47,7 +47,7 @@ paragraph
  In the past 100 years type theories have taken their place as part of the <a href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">foundation of mathematics</a>.
 
 paragraph
- <strong>For 98% of recorded history we did not have strong theories of type systems. Now we do.</strong>
+ <b>For 98% of recorded history we did not have strong theories of type systems. Now we do.</b>
 
 title3 Meanwhile, in Programming Language Land
 
@@ -61,7 +61,7 @@ paragraph
  In the late 1990's and 2000's, a slew of programming languages that underutilized innovations from type theory in the name of easier prototyping, like Python and Ruby and Javascript, became very popular. For a while this annoyed programmers who understood the benefits of type systems. But now they too are benefiting, as there is a bigger demand for richer type systems now due to the increase in the number of programmers.
 
 paragraph
- <strong>95%+ of the most popular programming languages use increasingly smarter type systems.</strong>
+ <b>95%+ of the most popular programming languages use increasingly smarter type systems.</b>
 
 title3 Meanwhile, in API Land
 
@@ -78,7 +78,7 @@ paragraph
  The main advantage that JSON had over XML was simple, well defined types. It had just a few primitive types—like numbers, booleans and strings—and a couple of complex types—lists and dicts. It was a very useful collection of structures that were important across all programming languages, put together in a simple and concise way. It took very little time to learn the entire thing. In contrast, XML was "extensible" and defined no types, leading to many massive dialects defined by committee.
 
 paragraph
- <strong>For 99.8% of recorded history we did not have a global network conducting automated business transactions with a typed language. Now we do.</strong>
+ <b>For 99.8% of recorded history we did not have a global network conducting automated business transactions with a typed language. Now we do.</b>
 
 title3 Meanwhile, in SQL Land
 
@@ -95,7 +95,7 @@ paragraph
  Critical information is stored in strongly typed SQL databases: Financial information; information about births, health and deaths; information about geography and addresses; information about inventories and purchase histories; information about experiments and chemical compounds.
 
 paragraph
- <strong>98% of the world's most valuable, processed information is now stored in typed databases.</strong>
+ <b>98% of the world's most valuable, processed information is now stored in typed databases.</b>
 
 title3 Meanwhile, in the Land of Types as Code
 
@@ -106,7 +106,7 @@ paragraph
  There are lots of projects that are now writing schemas in computable languages. The <a href="http://schema.org/">Schema.org project</a> is working to build a common global database of rich type schemas. <a href="https://json-ld.org/">JSON LD</a> aims to make the types of JSON more extensible. The DefinitelyTyped🔗github.com/DefinitelyTyped/DefinitelyTyped project has a rich collection of commonly used interfaces. <a href="https://developers.google.com/protocol-buffers">Protocol buffers</a> and similar🔗capnproto.org/ are another approach at language agnostic schemas. There are attempts🔗www.typedefs.com/ at languages just for types. GraphQL🔗graphql.org/ has a useful schema language with rich typing.
 
 paragraph
- <strong>100% of standards/type schemas can now themselves be written in strongly typed documents.</strong>
+ <b>100% of standards/type schemas can now themselves be written in strongly typed documents.</b>
 
 title3 Meanwhile, in Git Land
 
@@ -117,7 +117,7 @@ paragraph
  Git can be used to store and track changes to any type of data. You could theoretically put all of the English Wikipedia in Git, then CAPITALIZE all verbs, and save that as a single patch file. Then you could post your patch to the web and say "I propose the new standard is we should CAPITALIZE all verbs. Here's what it would look like." While this is a dumb idea, it demonstrates how Git makes it much cheaper to iterate on standards. Someone can propose both a change to the standard and the global updates all in a single operation. Someone can fork and branch to their heart's content.
 
 paragraph
- <strong>For 99.9% of recorded history, there was not a cheap way to experiment and evolve type schemas nor a safe way to roll them out. Now there is.</strong>
+ <b>For 99.9% of recorded history, there was not a cheap way to experiment and evolve type schemas nor a safe way to roll them out. Now there is.</b>
 
 title3 Meanwhile, in Hub Land
 
@@ -134,7 +134,7 @@ paragraph
  Code hubs allow the sharing of code, including type definitions, and can help make type definitions more popular, which also makes them more useful.
 
 paragraph
- <strong>99% of programmers now use code hubs and hubs are a great place to increase adoption of types, making them even more useful.</strong>
+ <b>99% of programmers now use code hubs and hubs are a great place to increase adoption of types, making them even more useful.</b>
 
 title3 Meanwhile, in Semantic Web Land
 
@@ -151,7 +151,7 @@ paragraph
  While lots of strongly typed proprietary databases exist on the web for various domains from <a href="http://imdb.com/">movies</a> to startups🔗www.crunchbase.com/, and while Wikipedia is arguable undergoing <a href="https://en.wikipedia.org/wiki/Gradual_typing">gradual typing</a>, the open web still remains largely untyped and we don't have a universally accessible interface yet to the world's typed information.
 
 paragraph
- <strong>99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.</strong>
+ <b>99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.</b>
 
 title3 Meanwhile, in Deep Learning Land
 
@@ -162,7 +162,7 @@ paragraph
  One of those tasks could be to rewrite untyped data in a typed language.
 
 paragraph
- <strong>AI may soon be able to write a strongly typed semantic web from the weakly typed web.</strong>
+ <b>AI may soon be able to write a strongly typed semantic web from the weakly typed web.</b>
 
 title3 Tying All These Threads Together
 
