@@ -51,7 +51,7 @@ paragraph
  Let's define a notation as a set of physical rules that can be used to represent abstractions. By simplest universal notation I mean the notation that can represent any and every abstraction representable by other notations that also has the smallest set of rules.
 
 paragraph
- You could say there exists many "UNSAs", or Universal Notations for Symbolic Abstractions. For example, thousands of domain specific languages are built on the XML and JSON notations, but my hypothesis is that there is a single SUNSA. XML is not the SUNSA, because an XML document like <code><a>b</a></code> can be equivalently represented as <code>a b</code> using a notation with a smaller set of rules.
+ You could say there exists many "UNSAs", or Universal Notations for Symbolic Abstractions. For example, thousands of domain specific languages are built on the XML and JSON notations, but my hypothesis is that there is a single SUNSA. XML is not the SUNSA, because an XML document like <code>&lt;a>b&lt;/a></code> can be equivalently represented as <code>a b</code> using a notation with a smaller set of rules.
 
 title4 Where would a SUNSA fit?
 
