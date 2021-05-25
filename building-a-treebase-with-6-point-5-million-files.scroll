@@ -85,7 +85,7 @@ paragraph
 paragraph
  Here's what that file looks like with <code>head -5 title.basics.tsv</code>:
 
-tsvCode
+tabTable
  tconst  titleType primaryTitle  originalTitle isAdult startYear endYear runtimeMinutes  genres
  tt0000001 short Carmencita  Carmencita  0 1894  \N  1 Documentary,Short
  tt0000002 short Le clown et ses chiens  Le clown et ses chiens  0 1892  \N  5 Animation,Short
@@ -431,7 +431,7 @@ paragraph
 paragraph
  The results for 6k are below.
 
-csvCode
+commaTable
  category,description,result
  bash,ls,instant
  sublime,Start sublime in the TreeBase folder,instant
@@ -468,7 +468,7 @@ paragraph
 paragraph
  I now repeat the tasks from above to see how things are holding up.
 
-csvCode
+commaTable
  category,description,result
  bash,ls,aFewSeconds
  sublime,Start sublime in the TreeBase folder,aFewSeconds with Beachball
@@ -547,7 +547,7 @@ paragraph
 paragraph
  We now have our 600k TreeBase.
 
-csvCode
+commaTable
  category,description,result
  bash,ls,~30 seconds
  sublime,Start sublime in the TreeBase folder,failed
@@ -705,7 +705,7 @@ title3 It's Alive!
 paragraph
  It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.
 
-csvCode
+commaTable
  category,description,result
  bash,ls,X
  sublime,Start sublime in the TreeBase folder,X
