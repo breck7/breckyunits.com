@@ -18,7 +18,7 @@ image visits_by_karma.png
 paragraph
  The Pearson Correlation is high: 0.894. Here's the raw data:
 
-table
+spaceTable
  Karma Visits Page
  53 3389 <a href="twelve-tips-to-master-programming-faster.html">/twelve_tips_to_master_programming_faster</a>
  54 2075 <a href="oldProgrammingBlog/use-rsync-to-deploy-your-website.html">/code/use_rsync_to_deploy_your_website</a>

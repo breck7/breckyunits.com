@@ -16,7 +16,7 @@ paragraph
 paragraph
  My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
 
-table
+spaceTable
  Name Directories Files PHPFiles PHPLOC PHPClasses PHPFunctions
  ../cake-1.2.6 296 677 428 165183 746 3675
  ../wordpress-2.9.2 82 753 279 143907 149 3827
