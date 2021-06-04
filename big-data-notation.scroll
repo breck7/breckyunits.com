@@ -1,7 +1,8 @@
 title Big Data Notation
-date 2013-09-24
 
 title3 A Suggestion for a Simple Notation
+
+date 2013-09-24
 
 paragraph
  What if instead of talking about Big Data, we talked about 12 Data, 13 Data, 14 Data, 15 Data, et cetera? The # refers to the number of zeroes we are dealing with.
