@@ -85,12 +85,12 @@ paragraph
 paragraph
  Here's what that file looks like with <code>head -5 title.basics.tsv</code>:
 
-tabTable
- tconst  titleType primaryTitle  originalTitle isAdult startYear endYear runtimeMinutes  genres
- tt0000001 short Carmencita  Carmencita  0 1894  \N  1 Documentary,Short
- tt0000002 short Le clown et ses chiens  Le clown et ses chiens  0 1892  \N  5 Animation,Short
- tt0000003 short Pauvre Pierrot  Pauvre Pierrot  0 1892  \N  4 Animation,Comedy,Romance
- tt0000004 short Un bon bock Un bon bock 0 1892  \N  \N  Animation,Short
+pipeTable
+ tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
+ tt0000001|short|Carmencita|Carmencita|0|1894|\N|1|Documentary,Short
+ tt0000002|short|Le clown et ses chiens|Le clown et ses chiens|0|1892|\N|5|Animation,Short
+ tt0000003|short|Pauvre Pierrot|Pauvre Pierrot|0|1892|\N|4|Animation,Comedy,Romance
+ tt0000004|short|Un bon bock|Un bon bock|0|1892|\N|\N|Animation,Short
 
 paragraph
  This looks like a good candidate for TreeBase. With this TSV I can create a file for each movie. I don't need the other 6 files for this experiment, though if this was a real project I'd like to merge in that data as well (in that case I'd probably create a second TreeBase for the <code>names</code> in the IMDB dataset).
