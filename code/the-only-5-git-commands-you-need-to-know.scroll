@@ -27,7 +27,7 @@ paragraph
 paragraph
  Here's a simple practice session you can follow to start getting good.
 
-title3 What is git?
+question What is git?
 
 paragraph
  Git is a simple command line program like "wget" or "vim" that you install and use by typing commands. If you don't have git installed, try one of these commands:
@@ -93,7 +93,7 @@ paragraph
 paragraph
  That's it! Those are the 5 commands you'll use over and over again. Master those and slowly you'll start learning a few other helpful git commands.
 
-title4 Recap
+section Recap
 
 code
  git init

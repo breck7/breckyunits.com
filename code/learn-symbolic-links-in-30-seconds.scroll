@@ -32,7 +32,7 @@ paragraph
 paragraph
  You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
 
-title5 Notes
+section Notes
 
 paragraph
  Aliases🔗./use-aliases-to-save-time.html are another great time saver.

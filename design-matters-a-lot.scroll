@@ -16,7 +16,7 @@ orderedList
  2. The company was too lazy to put much effort into design.
  3. The company's engineering team is incapable of working effectively with the design team.
 
-title3 Why Design is Important, In Princple
+section Why Design is Important, In Princple
 
 paragraph
  For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end. 
@@ -30,7 +30,7 @@ paragraph
 paragraph
  A computer, program, or product should always embody a good design, because the means to the end is nearly important as the end itself.  True, when riding in a car I care about the end--getting to my destination. But why shouldn't we care about the style in which we ride? Why shouldn't we care about the means? After all, isn't living all about appreciating the means? We all know what the end of life is, the important thing is to live the means with style. I've realized that I want style--and I'm a little late to the party, most people want style.
 
-title3 Why Design is Important, In Practice
+section Why Design is Important, In Practice
 
 paragraph
  If that argument didn't make sense, there are a number of practical reasons why a great design is important.
@@ -47,7 +47,7 @@ paragraph
 paragraph
  <b>A great design is easy to get people behind.</b> People like to support sites and products that are designed well. People love to show off their Apple products. Airbnb's beautiful design had a large role in making it easy for people to support the fledgling site.
 
-title3 What to do if you aren't good at design
+section What to do if you aren't good at design
 
 paragraph
  Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do? 
@@ -61,7 +61,7 @@ paragraph
 paragraph
  Great engineering can't compensate for poor design just as great design can't compensate for poor engineering. To create great products, you need both. Don't be lazy when it comes to design. It could be the make or break difference between your product's success or failure.
 
-title3 Notes
+section Notes
 
 orderedList
  1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.

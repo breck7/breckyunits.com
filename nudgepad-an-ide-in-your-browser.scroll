@@ -43,7 +43,7 @@ paragraph
  These are just a handful of real people with real ideas who
  are frustrated by the current tools.
 
-title3 The problem
+section The problem
 
 paragraph
  The fact is, people want to do millions of
@@ -52,7 +52,7 @@ paragraph
  potential or to program your site from scratch. Neither
  option is ideal.
 
-title3 The solution
+section The solution
 
 paragraph
  Which is why we're building a third option. We are building

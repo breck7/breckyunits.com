@@ -8,7 +8,7 @@ code
  5
  $ echo "The number five is $FIVE"
 
-title3 Variable scope
+section Variable scope
 
 paragraph
  A shell script will launch a new shell that has a fresh scope.
@@ -23,7 +23,7 @@ code
 paragraph
  Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
 
-title3 Export command.
+section Export command.
 
 paragraph
  Use the export command to change the scope of your variable to global for your shell.
@@ -34,7 +34,7 @@ paragraph
 code
  MY_NAME=breck; export MY_NAME
 
-title3 Accept input.
+section Accept input.
 
 paragraph
  Use the read command to accept input.
@@ -44,7 +44,7 @@ code
  read ANSWER
  echo "Your answer is $ANSWER"
 
-title3 Notes
+section Notes
 
 paragraph
  1. Bash tutorial🔗steve-parker.org/sh/variables1.shtml

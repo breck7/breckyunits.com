@@ -20,7 +20,7 @@ list
  - Keep your most common folders in the root Dropbox directory. Sort these ones.
  - Every few weeks, move any rarely used files and folders into the "Search" directory. Bring any commonly used files and folders back out to the root Dropbox directory.
 
-title3 End Result
+section End Result
 
 paragraph
  Here's what the end result may look like:
@@ -40,7 +40,7 @@ paragraph
 paragraph
  This a hybrid of search and sort.
 
-title4  Notes
+section  Notes
 
 orderedList
  1. All of my coding work is done in my cygwin home directory and then pushed to github. These are the only files that I don't store in Dropbox, but I push them frequently so don't worry much about losing them. 

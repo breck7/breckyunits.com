@@ -37,7 +37,7 @@ paragraph
 paragraph
  <b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
 
-title3 Notes
+section Notes
 
 orderedList
  1. <a href="http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html">Vim macro tutorial</a>.

@@ -23,7 +23,7 @@ code
 paragraph
  That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
 
-title5 Notes
+section Notes
 
 list
  - sed tutorial🔗www.grymoire.com/Unix/Sed.html

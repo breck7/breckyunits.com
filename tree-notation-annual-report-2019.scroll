@@ -23,7 +23,7 @@ orderedList
  6. Status of Predictions
  7. Organization Status
 
-title3 High Level Status
+section High Level Status
 
 paragraph
  I've followed the "Strong Opinions, Weakly Held" philosophy with this idea. I came out with a very strong claim: there is some natural and universal syntax that we could use for all of our symbolic languages that would be very useful—it would let us remove a lot of unnecessary complexity, allow us to focus more on semantics alone, and reap a lot of benefits by exploiting isomorphisms and network effects across domains. I've then spent a lot of time trying to destroy that claim.
@@ -37,9 +37,9 @@ paragraph
 paragraph
  So the high level status remains: strong opinion, weakly held. I am sticking to my big claim and still awaiting/working on proof or refutation.
 
-title3 Restating the Problem
+section Restating the Problem
 
-title4 What is the idea?
+question What is the idea?
 
 paragraph
  In these reports I'll try and restate the idea in a fresh way, but you can also find the idea explained in different places via visuals🔗treenotation.org/, an FAQ🔗faq.treenotation.org/, a spec🔗github.com/treenotation/faq.treenotation.org/blob/master/spec.txt, demos🔗jtree.treenotation.org/designer/, etc.
@@ -53,7 +53,7 @@ paragraph
 paragraph
  You could say there exists many "UNSAs", or Universal Notations for Symbolic Abstractions. For example, thousands of domain specific languages are built on the XML and JSON notations, but my hypothesis is that there is a single SUNSA. XML is not the SUNSA, because an XML document like <code>&lt;a>b&lt;/a></code> can be equivalently represented as <code>a b</code> using a notation with a smaller set of rules.
 
-title4 Where would a SUNSA fit?
+question Where would a SUNSA fit?
 
 paragraph
  Inventions aren't always built in a linear fashion. For example, when you add <code>2+3</code> on your computer, your machine will break down that statement into a binary form and compute something like <code>0010</code> + <code>0011</code>. The higher level base 10 <a href="https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system">Hindu-Arabic numerals</a> are converted into the lower level base 2 <a href="https://en.wikipedia.org/wiki/Binary_number">binary numbers</a>. So, before your computer solves <code>2+3</code>, it must do the equivalent of <code>import binary</code>. But we had Hindu-Arabic numerals centuries before we had boolean numerals. Dependencies can be built out of order.
@@ -85,7 +85,7 @@ code
   title Elements
  ...
 
-title3 Why would a SUNSA be advantageous?
+question Why would a SUNSA be advantageous?
 
 paragraph
  Given that I still consider this idea half-baked at best; given that I don't have compelling evidence that this notation is worthwhile; given that no one else has built a killer app using the idea (even though I've collaborated publically and privately with many dozens of people on project ideas at this point); why does this idea still excite me so much?
@@ -93,7 +93,7 @@ paragraph
 paragraph
  The reason is because I think IF we had a SUNSA, there would be tremendous benefits and applications. I'll throw out three potential application domains that I personally find very interesting.
 
-title4 Idea #1: Mapping the Frontiers of Symbolic Science
+section Idea #1: Mapping the Frontiers of Symbolic Science
 
 paragraph
  A SUNSA would greatly <i>reduce the cost</i> of a common knowledge base of science. While it may be possible to do it today without a SUNSA, having one would be at least a one order of magnitude cost reduction. Additionally, if there is not a SUNSA, than it may take just as long to come to agreement on what UNSA to use for a common knowledge base of science as it would to actual build the base!
@@ -109,7 +109,7 @@ comment
 paragraph
  And make them actual concrete visualizations.
 
-title4 Idea #2: Law (and Taxes)
+section Idea #2: Law (and Taxes)
 
 paragraph
  This one always gets me excited. I believe there is a deep connection between simplicity, justice, and fairness. I believe legal systems with unnecessary complexity are unfair, prima facie. While legal systems will always be human-made, rich in depth, nuanced, and evolving, we could shed the noise. I dream of a world where paychecks, receipts, and taxes are all written in the same language; where medical records can be cut and pasted; and where when I want to start a business I don't have to fill out forms in Delaware (the codesmell in that last one is so obvious!).
@@ -117,12 +117,12 @@ paragraph
 paragraph
  I believe a SUNSA would give us a way to measure complexity as neatly as we measure distance, and allow us to simplify laws to their signal, so that they serve all people, and we don't suffer from all that noise and inefficiency.
 
-title4 Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Level
+section Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Level
 
 paragraph
  I love projects like https://godbolt.org/🔗godbolt.org/, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they <i>are</i> roughly the same!).
 
-title3 What would the properties of a SUNSA be?
+question What would the properties of a SUNSA be?
 
 paragraph
  Tree Notation might not be the SUNSA, but it has a few properties that I think a SUNSA would have.
@@ -148,7 +148,7 @@ paragraph
 paragraph
  So those are a few things that I think we'll find in a SUNSA. Will we ever find a SUNSA?
 
-title3 Why might there not be a SUNSA?
+question Why might there not be a SUNSA?
 
 paragraph
  I think a really good piece of evidence that we don't need a SUNSA is that we've seen <b>STUPENDOUS SUCCESS WITH THOUSANDS OF SYNTAXES</b>. The pace of progress in computing in the 1900's and 2000's has been tremendous, perhaps <b>because</b> of the Smörgåsbord of notations.
@@ -156,7 +156,7 @@ paragraph
 paragraph
  Who's to say that a SUNSA is needed? I guess my retort to that, is that although we do indeed have thousands of digital notations and languages, all of them, without exception, compile down to binary, so clearly having some low level universal notation has proved incredibly advantageous so far.
 
-title3 2019 Pros
+section 2019 Pros
 
 paragraph
  So that concludes my restatement of the Tree Notation idea in terms of a more generic SUNSA concept. Now let me continue on and mention briefly some developments in 2019.
@@ -173,7 +173,7 @@ list
  - Dozens of new Tree Languages
  - More feedback than ever. Tens of thousands of visitors. Hundreds of conversations.
 
-title3 2019 Cons
+section 2019 Cons
 
 paragraph
  Here I just list some marks against this idea.
@@ -188,7 +188,7 @@ list
  - One argument put to me: "there's no need for a universal syntax with deep learning—complexity IS the universal syntax."
  - Another argument put to me: "sure it is still simple BUT there are 2 types of inventions: ones that get more complex over time and ones that no one uses"
 
-title3 Next Steps
+section Next Steps
 
 paragraph
  Next steps is more of the same. Keep attempting to solve problems by simplifying the encoding of them to their essence (which happens to be Tree Notation, according to the theory). Build tools ot make that easier and leverage those encodings. This year LSP will likely be a focus, Grid Notation, and the PLDB.
@@ -196,12 +196,12 @@ paragraph
 paragraph
  Tree Notation has a secret weapon: Simplicity does not go out of style. Slippers today look just like slippers in Egypt 3,000 years ago
 
-title3 Status of Predictions in Paper
+section Status of Predictions in Paper
 
 paragraph
  My Tree Notation paper🔗github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf was my first ever attempt at writing a scientific paper and my understanding was that a good theory would make some refutable predictions. Here are the predictions I made in that paper and where they stand today.
 
-title4 Prediction 1: no structure will be found that cannot serialize to TN.
+section Prediction 1: no structure will be found that cannot serialize to TN.
 
 paragraph
  While this prediction has held, a number of people have commented that it doesn't predict much, as the same could really be said about most languages. Anything you can represent in Tree Notation you can represent in many encodings like XML.
@@ -209,7 +209,7 @@ paragraph
 paragraph
  What I should have predicted is something along the lines of this: <i>Tree Notation is the smallest set of syntax rules that can represent all abstractions</i>. I think trying to formalize a prediction along those lines would be a worthwhile endeavor (possibly for the reason that in trying to do what I just said, I may learn that what I just said doesn't make sense).
 
-title4 Prediction 2: TLs will be found for every popular 1DL.
+section Prediction 2: TLs will be found for every popular 1DL.
 
 paragraph
  This one has not come true yet. While I have made many <a href="https://jtree.treenotation.org/designer/">public Tree Languages</a> myself and many more private ones, and I have prototyped many with other people, the net utility of Tree Languages is not high enough that people are rushing to design these things. Many people have kicked the tires, but things are not good enough and there is a lack of demand.
@@ -217,17 +217,17 @@ paragraph
 paragraph
  On the supply side, it has turned out to be a bit harder to design useful Tree Languages than I expected. Not by 100x, but maybe by as much as 10x. I learned a lot of bad design patterns not to put in Tree Languages. I learned that bad tooling will force compromises in language design. For example, before I had syntax highlighting I relied on wierd punctation like "@" vs "#" prefixes for distinguishing types. I also learned a lot of patterns that seem to be useful in Tree Languages (like word suffixes for types). I learned good tooling leads to simpler and better languges.
 
-title4 Prediction 3: Tree Oriented Programming (TOP) will supersede Object Oriented Programming.
+section Prediction 3: Tree Oriented Programming (TOP) will supersede Object Oriented Programming.
 
 paragraph
  This one has not come true yet. While there is a tremendous amount of what I would call "Tree Oriented Programming" going on, programmers are still talking about objects and message passing and are not viewing the world as trees.
 
-title4 Prediction 4: The simplest 2D text encodings for neural networks will be TLs.
+section Prediction 4: The simplest 2D text encodings for neural networks will be TLs.
 
 paragraph
  This one is a fun one. Definitely has not come true yet. But I've got a new attack vector to try and potentially crack it.
 
-title4 Status of Long Bet
+section Status of Long Bet
 
 paragraph
  After someone suggested it, I made a <a href="http://longbets.org/793/">Long Bet</a> predicting the rise of Tree Notation or a SUNSA within ten years of my initial Tree Notation post. Clearly I am far off from winning this bet at this point, as there are not any candidate languages even noted in TIOBE, never mind in the Top 10. However, IF I were to win the bet, I'd expect it wouldn't be until around 2025 that we'd see any candidate languages even appear on TIOBE's radar. In other words, absense of evidence is not evidence of absense.
@@ -235,7 +235,7 @@ paragraph
 paragraph
  As an aside, I really like the idea of Long Bet, and I'm hoping it may prompt someone to come up with a theoretical argument against a SUNSA that buries my ideas for good. Now, it would be very easy to take the opposing side of my bet with the simple argument that the idea of 7/10 TIOBE languages dropping by 2027 won't happen because such a shift has never happened so quickly. However, I'd probably reject that kind of challenge as non-constructive, unless it was accompanied by something like a detailed data-backed case with models showing potential speed limits on the adoption of any language (which would be a constructive contribution).
 
-title3 Organization Status
+section Organization Status
 
 paragraph
  In 2019 I explored the idea of putting together a proper research group and a more formal organization around the idea.
@@ -246,12 +246,12 @@ paragraph
 paragraph
  There is a loose confederation of folks I work on this idea with, but no formal organization with an office so far.
 
-title3 Conclusion
+section Conclusion
 
 paragraph
  That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
-title5 Notes
+section Notes
 
 list
  ^ <a name="note-research"></a>Regardless of whether or not Tree Notation turns out to be a good idea, as one part of the effort to prove/disprove it I've built a lot of big datasets on languages and notations, which seem to be useful for other people. Credit for that is due to a number of people who advised me back in 2017 to "learn to research properly".

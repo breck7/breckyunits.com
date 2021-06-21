@@ -24,7 +24,7 @@ code
 paragraph
  The n will get substituted for $1.
 
-title3 Troubleshooting
+section Troubleshooting
 
 paragraph
  I've found a lot of times rsync appears to be copying the same files over and over.

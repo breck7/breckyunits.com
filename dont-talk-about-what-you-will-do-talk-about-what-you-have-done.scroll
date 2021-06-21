@@ -13,7 +13,7 @@ paragraph
 paragraph
  I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you <i>will do</i> entirely, and only talk about things you <i>have done</i>. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
 
-title4 Why we are bad at making predictions.
+section Why we are bad at making predictions.
 
 paragraph
  Pretend you are walking down a path:
@@ -60,12 +60,12 @@ paragraph
 paragraph
  This second example models real life better. <i>The future is always foggy</i>.
 
-title4 Why is the future foggy?
+question Why is the future foggy?
 
 paragraph
  I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
 
-title4 Notes
+section Notes
 
 orderedList
  1. In other words, don't overpromise and underdeliver.

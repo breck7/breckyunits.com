@@ -33,7 +33,7 @@ paragraph
  decisions that lead to many deaths and wasted
  resources</span>.
 
-title4 If Data Errors Were Spelling Errors
+section If Data Errors Were Spelling Errors
 
 paragraph
  You would be skeptical of National Geographic if their
@@ -55,7 +55,7 @@ paragraph
  for data errors and when you look for them you see them
  everywhere.
 
-title3 The Pandemic: An Experiment
+section The Pandemic: An Experiment
 
 paragraph
  Data errors are so pervasive that I came up with a
@@ -63,7 +63,7 @@ paragraph
  this: <b>100% of "reputable" publications will have at
  least one data error on their front page</b>.
 
-title4 Method
+section Method
 
 paragraph
  I wrote down 10 reputable sources off the top of my head:
@@ -83,7 +83,7 @@ paragraph
  screenshot of their homepage, above the fold, and skimmed
  their top stories for data errors.
 
-title4 Results
+section Results
 
 image dataErrorPandemic.jpg
 
@@ -91,7 +91,7 @@ paragraph
  In the screenshots above, you can see that 10/10 of these
  publications had data errors front and center.
 
-title4 Breaking Down These Errors
+section Breaking Down These Errors
 
 paragraph
  Data errors in English fall into common categories. My
@@ -215,7 +215,7 @@ paragraph
  collections I'm 99.9% confident you'd see the same classes
  of errors. This site is no exception.
 
-title3 The Problem is Language Tools
+section The Problem is Language Tools
 
 paragraph
  I don't think anyone's to blame for the proliferation of
@@ -232,7 +232,7 @@ paragraph
  (0,1,2,3,4,5,6,7,8,9) is one example that made it a lot
  easier to utilize arithmetic.
 
-title4 Taking Inspiration from Programming Language Design
+section Taking Inspiration from Programming Language Design
 
 paragraph
  Domains with low tolerance for data errors, <span
@@ -279,7 +279,7 @@ paragraph
  emerges</span> about what is good and bad in language
  design (though this too seesaws).
 
-title5 Typed Checked Languages
+section Typed Checked Languages
 
 paragraph
  One of the patterns that has <span
@@ -320,7 +320,7 @@ paragraph
  like Type Checking, could be useful for building the
  missing data checker for English.
 
-title3 A Blue Squiggly to Highlight Data Errors
+section A Blue Squiggly to Highlight Data Errors
 
 paragraph
  Perhaps what we need is a new color of squiggly:
@@ -350,7 +350,7 @@ paragraph
  <style id="styleHolder"></style>
  <button class="bigButton" onclick="document.getElementById('styleHolder').innerHTML = '.dataError {text-decoration: underline;text-decoration-style: wavy;text-decoration-color: blue;}'">Highlight data errors</button>
 
-title3 How Do We Reduce Data Errors?
+question How Do We Reduce Data Errors?
 
 paragraph
  If someone created a working data checker today and applied

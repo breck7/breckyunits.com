@@ -15,7 +15,7 @@ paragraph
  built a small little <a href="/keyboard/">experiment to
  explore the history of the keys on my keyboard</a>.
 
-title3 The Five Waves of Symbols
+section The Five Waves of Symbols
 
 paragraph
  Painting with broad strokes, there were approximately five
@@ -32,7 +32,7 @@ paragraph
  dataset, but you can roughly make out these waves in the
  interactive visualization by moving the slider around.
 
-title3 Concentric Circles
+section Concentric Circles
 
 paragraph
  An interesting pattern that I never saw before is how the
@@ -44,7 +44,7 @@ paragraph
  era. Again, painting with broad strokes, but I found that
  to be an interesting pattern.
 
-title3 Standing on the Shoulders of Giants
+section Standing on the Shoulders of Giants
 
 paragraph
  All of these waves happened invented before my generation.
@@ -52,7 +52,7 @@ paragraph
  keyboard dataset provides strong evidence that most of our
  collective wealth is inherited.
 
-title3 Build Notes
+section Build Notes
 
 paragraph
  I got this idea last week and couldn't get it out of my

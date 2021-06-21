@@ -4,7 +4,7 @@ date 2020-03-02
 paragraph
  A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: <b>in the future will someone's medical record stretch to the moon?</b>
 
-title3 Medical Records at the Provider
+section Medical Records at the Provider
 
 paragraph
  Medical records are generally stored with healthcare providers and currently at least 86%-96%🔗dashboard.healthit.gov/apps/health-information-technology-data-summaries.php?state=National&cat9=all+data&cat1=ehr+adoption#summary-data of providers use an EHR system.
@@ -20,7 +20,7 @@ image medicalRecords/providers.png
 paragraph
  A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of <i>all</i> of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
 
-title3 Medical Records at Home
+section Medical Records at Home
 
 paragraph
  Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing <a href="https://nanoporetech.com/products">lab devices</a> will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
@@ -35,7 +35,7 @@ image medicalRecords/both.png
 paragraph
  <b>Patients will log <i>far</i> more medical data on their own than they do at their providers'.</b>
 
-title3 Implication #1: Change in Ownership
+section Implication #1: Change in Ownership
 
 paragraph
  It seems highly likely then that the possession of medical records will flip from providers to patients. I now have 120 million heart rate readings from my own devices, while I might have a few dozen from my providers. The gravity of the former will be harder and harder to overcome.
@@ -46,7 +46,7 @@ paragraph
 paragraph
  I'm noticing a number🔗www.khealth.ai/ of startups🔗www.humanapi.co/ innovating along this wave (and if you know of other exciting ones, please share!). However, it seems that <a href="https://en.wikipedia.org/wiki/Health_(Apple)">Apple Health</a> and FitBit🔗en.wikipedia.org/wiki/Fitbit are in strong positions to emerge as leading providers of PHR as-a-service due to data gravity.
 
-title3 Implication #2: Change in Design
+section Implication #2: Change in Design
 
 paragraph
  Currently EHR providers like Epic🔗www.epic.com/ design and sell their products for providers first. If patients start making the decisions about which PHR tool to use, product designers will have to consider the patient experience first.
@@ -57,7 +57,7 @@ paragraph
 paragraph
  One simple UX innovation in medical records that I love is BlueButton🔗www.va.gov/bluebutton/. Developed by the V.A. in 2010, BlueButton allows patients to download their entire medical records as a single file. While the grammar and parse-ability of BlueButton leave much to be desired, I think the concept of "your entire medical history in a single document" is a very elegant design.
 
-title3 Implication #3: Change in Scale
+section Implication #3: Change in Scale
 
 paragraph
  As more and more different devices contribute to patients' medical documents, what will the documents look like and how big will they get? Will someone's medical records stretch to the moon?

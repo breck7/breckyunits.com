@@ -7,12 +7,12 @@ paragraph
 paragraph
  If you don't know what that means, you probably do it unknowingly!
 
-title3 What it means
+section What it means
 
 paragraph
  When you "flip the bozo bit" on someone you ignore everything they say or do. You flip the bozo bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bozo bit unconsciously.
 
-title3 An example
+section An example
 
 paragraph
  You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bozo bit!
@@ -20,7 +20,7 @@ paragraph
 paragraph
  This is bad for everyone. Now you are doing more work, and Bob is becoming resentful because you are ignoring his ideas and work.
 
-title3 Alternatives to Flipping the Bozo Bit
+section Alternatives to Flipping the Bozo Bit
 
 paragraph
  Instead of flipping the bozo bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
@@ -31,7 +31,7 @@ paragraph
 paragraph
  2. <b>Change Roles</b>. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
 
-title3 Why We Flip the Bozo Bit
+section Why We Flip the Bozo Bit
 
 paragraph
  It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bozo bit.
@@ -39,12 +39,12 @@ paragraph
 paragraph
  But this is a bad solution. The two presented above are better.
 
-title4 Notes
+section Notes
 
 orderedList
  1. Thanks to Tom Price for telling me about this.
 
-title4 Links
+section Links
 
 list
  - Bozo_bit🔗en.wikipedia.org/wiki/Bozo_bit

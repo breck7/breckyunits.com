@@ -1,5 +1,5 @@
 title English cannot encode Real News
-title3 The Attempt to Capture Truth
+section The Attempt to Capture Truth
 
 date 2019-08-19
 
@@ -12,7 +12,7 @@ paragraph
 paragraph
  But most people aren't aware of the problem.
 
-title3 Fake news is a great idea.
+section Fake news is a great idea.
 
 paragraph
  Then came DT and "fake news". One nice thing I can say about DT is that "fake news" is a great idea.
@@ -28,7 +28,7 @@ quote
 paragraph
  DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
 
-title3 What's the underlying problem?
+question What's the underlying problem?
 
 paragraph
  English is a fantastic story telling language that has been very effective at sharing stories, coordinating commerce and motivating armies, but English evolved in a simpler time with simpler technologies and far less understanding about how the world really works.
@@ -39,7 +39,7 @@ paragraph
 paragraph
  But we are now out of the cave, and it is not enough to communicate what is to be done. We have many more options now and it's important that we have langauges that can better decide what is the best thing to do.
 
-title3 What will a language that supports Real News look like?
+question What will a language that supports Real News look like?
 
 paragraph
  Real News is starting to emerge in a few places. The WSJ🔗www.wsj.com has long been on the forefront but newer things like <a href="http://observablehq.com/">Observable</a> are also popping up.
@@ -57,7 +57,7 @@ list
  - It will be more visual, expanding beyond character alphabets and embracing more charts and visualizations
  - It will be more Random Access, like bullet points
 
-title3 English and Sapir–Whorf
+section English and Sapir–Whorf
 
 paragraph
  I would say until we move away from English and other story-telling langauges to encodings that are better for truth telling, our thinking will also be limited.
@@ -69,7 +69,7 @@ quote
 paragraph
  New languages designed for truth telling might not just be useful in our everyday lives, they could very much change the way we think.
 
-title3 Finally
+section Finally
 
 paragraph
  Again, to channel Taleb, I'm not saying English is bad. By all means, <i>enjoy the stories</i>. But just remember they are stories. If you are reading English, know that you are not reading Real News.

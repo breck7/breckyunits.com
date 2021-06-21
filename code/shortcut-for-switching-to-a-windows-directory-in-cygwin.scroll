@@ -8,7 +8,7 @@ paragraph
 paragraph
  I made a small bash script called `wcd` that makes it easier.
 
-title2 wcd
+section wcd
 
 code
  #!/bin/bash

@@ -15,7 +15,7 @@ paragraph
 paragraph
  The clear edges of physical products make it much harder for feature creep to happen. But in software feature creep happens, and happens a lot.
 
-title3 A proposal to fight feature creep
+section A proposal to fight feature creep
 
 paragraph
  How do you fight feature creep in software? Here's an idea: do not put each new feature request or idea on a to-do list. Instead, put them on an (un)features list.
@@ -29,12 +29,12 @@ paragraph
 paragraph
  This blog is powered by software🔗github.com/breck7/brecksblog with an (un)features list.
 
-title4 Notes
+section Notes
 
 orderedList
  1. Feel free to move an (un)feature to your features list if you change your mind about it.
 
-title4 Links
+section Links
 
 list
  - More great quotes🔗gaborcselle.posterous.com/the-best-quotes-from-startup-school from this year's Startup School

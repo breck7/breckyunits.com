@@ -8,7 +8,7 @@ comment
 paragraph
  Note is a structured, human readable, concise language for encoding data.
 
-title3 XML to JSON to Note
+section XML to JSON to Note
 
 paragraph
  In 1998, a large group of developers were working on technologies to make the web simpler, more collaborative, and more powerful. Their vision and hard work led to XML and SOAP.
@@ -28,7 +28,7 @@ paragraph
 paragraph
  Luckily, in 2001 Douglas Crockford specified a simpler, more concise language called <a href="http://www.json.org/">JSON</a>. Today JSON has become the de facto language for web services.
 
-title3 Could JSON be improved?
+question Could JSON be improved?
 
 paragraph
  Early last year, one idea that struck me was that subtle improvements to underlying technologies can have exponential impact. Fix a bug in subversion and save someone hours of effort, but <a href="http://en.wikipedia.org/wiki/Git_(software)">replace subversion</a> and save someone weeks.
@@ -36,7 +36,7 @@ paragraph
 paragraph
  The switch from XML to JSON had made my life so much easier, I wondered if you could extract an even simpler alternative to JSON. JSON, while simple, still takes a while to learn, particularly if you are new to coding. Although more concise than XML, JSON has at present six types and eight syntax characters, all of which can easily derail developers of all skill levels. Because whitespace is insignificant in JSON, it quickly becomes messy. These are all relatively small details, but I think perhaps getting the details right in a new encoding could make a big difference in developers' lives.
 
-title3 Introducing Note
+section Introducing Note
 
 paragraph
  After almost two years of tinkering, and with a lot of inspiration from JSON, XML, HAML, Python, YAML, and other languages, we have a new simple encoding that I hope might make it easier for people to create and use web services.

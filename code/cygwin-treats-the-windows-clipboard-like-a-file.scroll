@@ -18,7 +18,7 @@ code
  cat /dev/clipboard
 
 
-title3 Notes
+section Notes
 
 paragraph
  1. <a href="http://williammitchell.blogspot.com/2008/03/fun-with-cygwins-devclipboard.html">Fun with Cygwin's /dev/clipboard</a>.

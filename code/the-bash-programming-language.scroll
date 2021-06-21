@@ -11,12 +11,12 @@ paragraph
 paragraph
  Here's the core of what you need to know:
 
-title3 Use the .sh file extension
+section Use the .sh file extension
 
 paragraph
  A BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.
 
-title3 Start your scripts with #!/bin/bash
+section Start your scripts with #!/bin/bash
 
 code
  #!/bin/bash
@@ -31,7 +31,7 @@ code
 paragraph
  The *echo* command prints a string and also a new line at the end.
 
-title3 Running your script
+section Running your script
 
 paragraph
  Your script must be **executable**. To make it executable, you need to change the <a href="fix-permission-problems-using-chmod.html">file permissions</a>. This would make your hello.sh script executable:
@@ -57,7 +57,7 @@ paragraph
 code
  /home/breck/hello.sh
 
-title3 Command line Paramters
+section Command line Paramters
 
 paragraph
  Command line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:
@@ -85,7 +85,7 @@ code
 paragraph
  The hi got stored in $1, and the breck got stored in $2.
 
-title3 Functions
+section Functions
 
 paragraph
  Functions are pretty simple and straightforward:

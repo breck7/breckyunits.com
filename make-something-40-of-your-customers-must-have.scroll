@@ -21,12 +21,12 @@ paragraph
 paragraph
  Does this advice work? I think it would for 3 reasons.
 
-title3 #1 The Sources
+section #1 The Sources
 
 paragraph
  PG and Sean Ellis know what they're talking about.
 
-title3 #2 Companies that make my "Must Haves" are successful</b>
+section #2 Companies that make my "Must Haves" are successful</b>
 
 paragraph
  I made a list of my "must have" products and they are all largely successful. I suggest you try this too. It's a good exercise.
@@ -63,7 +63,7 @@ list
  - HackerNews
  - Navicat
 
-title3 #3 The Only "Must Have" Product I Built was the Biggest Success
+section #3 The Only "Must Have" Product I Built was the Biggest Success
 
 paragraph
  I've worked on a number of products over the past 3 years. 
@@ -74,7 +74,7 @@ paragraph
 paragraph
  All the others did not have that same "must-have" rate. We launched Jobpic this summer at Demo Day. People definitely wanted it. But we didn't get good product/market fit. If we had surveyed our users, I bet less than 10% of them would report being disappointed if Jobpic disappeared. Our options are to change the product to achieve better product/market fit, or go forward with an entirely new product that will be a must have. 
 
-title3 Concluding thoughts
+section Concluding thoughts
 
 paragraph
  I don't know if this advice will work. But I'm going to try it.
@@ -95,7 +95,7 @@ paragraph
 paragraph
  But you laugh it off and keep chugging along. 
 
-title3 Notes
+section Notes
 
 orderedList
  1. Thanks Nivi for the great Venture Hacks interview!

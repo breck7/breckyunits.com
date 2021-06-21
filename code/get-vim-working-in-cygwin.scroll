@@ -11,7 +11,7 @@ paragraph
 code
  touch .vimrc
 
-title4 Links
+section Links
 
 list
  - Found this solution in the comment from Gregg🔗www.daniel-lemire.com/blog/archives/2005/02/17/using-vim-under-cygwin

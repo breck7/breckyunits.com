@@ -37,24 +37,24 @@ paragraph
 paragraph
  I don't know why my gut tells me to minimize directories, so I thought I'd write about it and see if any rationale emerged.
 
-title3 Benefits of a Flat Structure
+section Benefits of a Flat Structure
 
-title5 Benefit #1 - Quicker access to files
+section Benefit #1 - Quicker access to files
 
 paragraph
  I primarily edit files using Notepad++ on Windows 7 or vim. If you keep all your files in 1 directory, you can open them faster ("Control+O", type a few letters on Win 7, or just "vim filename"). So, a flat structure gives you quicker access to files. I've never timed this before, but am pretty positive it works.
 
-title5 Benefit #2 - Avoid file path issues
+section Benefit #2 - Avoid file path issues
 
 paragraph
  Dealing with paths when working with a website is often the cause of careless bugs. If everything is in one directory, it makes it painless to include things on both the server side(include 'file.php';) and the client side ('src="script.hs"'). Once you start nesting directories, it's easy to make mistakes.
 
-title5 Benefit #3 - Easier to bring people up to speed
+section Benefit #3 - Easier to bring people up to speed
 
 paragraph
  When I join an in-progress project or use a new library, I like to try and wrap my head around the whole thing. I can't do that if I have to dig into different directories to see all the files. Why hide 50% of the project in subdirectories?
 
-title5 Benefit #4 - Avoid overwriting issues
+section Benefit #4 - Avoid overwriting issues
 
 paragraph
  Occasionally you'll have a structure like this:
@@ -67,27 +67,27 @@ code
 paragraph
  You might accidentally overwrite one index with the other, or edit one index when you think you're editing the other. Doesn't happen too often, but occasionally it can be annoying. By sticking everything in one directory, you don't run into that problem as much.
 
-title3 Benefits of a Nested Structure
+section Benefits of a Nested Structure
 
 paragraph
  Of course there are benefits to having multiple directories, otherwise this style wouldn't be so popular.
 
-title5 Benefit #1 - Looks more organized
+section Benefit #1 - Looks more organized
 
 paragraph
  It's nice and neat to have your files tucked away into nicely labeled directories. 
 
-title5 Benefit #2 - Easier for teams
+section Benefit #2 - Easier for teams
 
 paragraph
  It can be easier to divide work between team members when things are in different directories. For instance, why should the designers need their images mixed in with backend files?
 
-title5 Benefit #3 - A directory with too many files becomes unwieldy
+section Benefit #3 - A directory with too many files becomes unwieldy
 
 paragraph
  I'll admit, once you have more than some threshold of files in a directory, it can quickly become hard to manage. If the files are nearly all of the same type (say, php files), then it's not as bad. But once you have 20 php files, 3 javascript files, 15 images, 4 css files, 2 bash files, 3 readmes, and 45 text files, it might be time to split things up.
 
-title4 My theory on why directories are bad.
+section My theory on why directories are bad.
 
 paragraph
  Less paths create an easier mental model. 
@@ -95,7 +95,7 @@ paragraph
 paragraph
  If you walk into a messy room, it can be hard to create a mental model of the contents of that room. This is the equivalent to a file structure like the one below:
 
-title5 Bad
+section Bad
 
 code
  📁myproject
@@ -116,7 +116,7 @@ paragraph
 paragraph
  If you walk into a room where everything is put away(clothes in the dresser, books on a bookshelf, odds and ends in the drawers) it's easier and an improvement. A room organized like this looks like the file structure below:
 
-title5 Ok
+section Ok
 
 code
  📁myproject
@@ -138,7 +138,7 @@ code
 paragraph
  But now you've introduced the problem that to access nearly anything, you have to "open a drawer". You also can't see everything all at once. 
 
-title5 Best
+section Best
 
 paragraph
  The optimal solution is to not put your stuff into drawers, but to:
@@ -167,12 +167,12 @@ code
   uno_models.php
   uno_helpers.php
 
-title3 Search, don't sort
+section Search, don't sort
 
 paragraph
  Gmail has an adage "search, don't sort". I think it applies here. Directories are a form of sorting, while autocomplete(which is integrated into practically everything nowadays) is a form of searching. By sticking everything into one directory, you enable search. Create multiple directories, and you disable search.
 
-title3 The Rule of Three
+section The Rule of Three
 
 paragraph
  Here's a simple rule of thumb to help you organize your folder structure better:

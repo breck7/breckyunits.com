@@ -40,7 +40,7 @@ list
  - z: compress file data
 
 
-title3 Notes 
+section Notes 
 
 paragraph
  1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"

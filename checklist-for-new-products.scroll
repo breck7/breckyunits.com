@@ -13,7 +13,7 @@ paragraph
 paragraph
  Here's a 10 question form that you can fill out for each of your products.
 
-title2 Product Checklist
+section Product Checklist
 
 orderedList
  1. How many users/customers does the product have? <input value="#" size="6">

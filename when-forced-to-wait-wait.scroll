@@ -10,22 +10,22 @@ paragraph
 paragraph
  I used to, and it made me less productive. I would try to squeeze more tasks into these short little idle periods, and as a result I would get less done.
 
-title3 Multitasking during idle times <i>seems</i> smart
+section Multitasking during idle times <i>seems</i> smart
 
 paragraph
  Doing other things during idle times <i>seems</i> like it would increase productivity. After all, while you're waiting for something to load you're not getting anything done. So doing something else in the interim couldn't hurt, right? Wrong.
 
-title3 Switching tasks during idle times is bad, very bad
+section Switching tasks during idle times is bad, very bad
 
 paragraph
  While you're solving one problem, you likely are "holding that problem in your head". It takes a while to load that problem in your head. You can only hold one important problem in your head at a time. If you switch tasks, even for a brief moment, you're going to need to spend X minutes "reloading" that problem for what is often only a 30 second vacation to Gmail, Facebook, Gchat, Hackernews, Digg, etc. It's clearly a bad deal.
 
-title3 Don't multitask
+section Don't multitask
 
 paragraph
  If you're doing something worth doing, give it all of your attention until it's done. Don't work on anything else, even if you're given idle time.
 
-title3 Why you can't multitask well
+section Why you can't multitask well
 
 paragraph
  Human intelligence is overrated. Even the smartest people I know still occasionally misplace their keys or burn toast. We are good at following simple tasks when we focus, most of the time. But we are not built for multitasking.
@@ -36,7 +36,7 @@ paragraph
 paragraph
  Dead simple, right? But can you do all three at once? If you can, by all means ignore my advice and go multitask.
 
-title3 Wait out those idle times
+section Wait out those idle times
 
 paragraph
  If what you are doing is easy or mundane, multitasking is permissible because loading a simple problem like "laundry" into your head does not take much time. But if what you are doing is <i>important and worth doing</i>, you are obligated to give it your full attention and to wait out those "idle times". 
@@ -45,7 +45,7 @@ paragraph
  If you switch tasks during your idle times, you're implying that the time to reload the problem is less than the time gained doing something else. In other words, you are implying what you are doing is not worth doing. If that's the case, why work on it at all?
 
 
-title3 Notes
+section Notes
 
 orderedList
  1. Influenced by Paul Graham's <a href="http://paulgraham.com/head.html">Holding a Program in One's Head</a>

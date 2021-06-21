@@ -19,17 +19,17 @@ paragraph
 paragraph
  3. <b>Reach.</b> Do a lot of people have this problem? Some problems, like searching for information, are shared by nearly everyone. Others, like online version control, are shared by a much smaller niche but still a significant amount of people. If a problem is shared by only a handful of people, it's probably not worth programming a solution.
 
-title3 Great Programmers Solve Important Problems
+section Great Programmers Solve Important Problems
 
 paragraph
  The best programmers aren't simply the ones that write the best solutions: they're the ones that solve the best problems. The best programmers write kernels that allow billions of people to run other software, write highly reliable code that puts astronauts into space, write crawlers and indexers that organize the world's information. They make the right choices not only about how to solve a problem, but what problem to solve.
 
-title3 Life is Short
+section Life is Short
 
 paragraph
  Life is too short to solve unimportant problems. If you want to solve important problems, it's now or never. The greatest programmers only get to solve a relatively small amount of truly important problems. The sooner you get started working on those, the better.
 
-title3 Ignore Speed Limits
+section Ignore Speed Limits
 
 paragraph
  If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.

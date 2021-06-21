@@ -26,12 +26,12 @@ code
 paragraph
  But the earlier example shows how you can string multiple commands together.
 
-title3 Bonus tip
+section Bonus tip
 
 paragraph
  Place these aliases in your HOME/.bash_profile file and they will be available each time you login to your machine.
 
-title4 Notes
+section Notes
 
 orderedList
  1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.

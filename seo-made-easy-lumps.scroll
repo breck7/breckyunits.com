@@ -23,7 +23,7 @@ paragraph
 paragraph
  Let's break each one down a bit more.
 
-title3 Links
+section Links
 
 paragraph
  External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
@@ -43,7 +43,7 @@ paragraph
 paragraph
  External links are the most important thing you need for SEO. Internal links you can easily control, but it takes time to accumulate a lot of quality external links. Focus on creating quality content(or even better, build a User Generated Content site). People will link to interesting content.
 
-title3 URL Structure
+section URL Structure
 
 paragraph
  The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing. 
@@ -51,7 +51,7 @@ paragraph
 paragraph
  Luckily, URL Structure is not just important, it's also relatively easy to do well and you can generally set up friendly URLs in an hour or so. I could explain how to do it with .htaccess and so forth, but there are plenty of articles out there with more details on that.
 
-title3 Metadata Content
+section Metadata Content
 
 paragraph
  Your TITLE tags and META DESCRIPTIONS tags are important for 2 reasons. First, search engines will use the content in them to rank your pages. Second, when a user sees a search results page, the title and description tags are what the user sees. You need good copy that will increase the Click Through Rate. Think of your title and description tags as the Link Text and Description in an AdWords ad. Just as you'd optimize the AdWords ad, you need to optimize this "seo ad". Make the copy compelling and clear.
@@ -59,22 +59,22 @@ paragraph
 paragraph
  Like URL structure, you can generally set up a system that generates good meta and description tags relatively easily.
 
-title3 Page Content
+section Page Content
 
 paragraph
  Content is king. If you've got the other 3 things taken care of and you have great content, you're golden. Not only will great content please your visitors, but it will likely be keyword rich which helps with SEO. Most importantly, it is much easier to get links to valuable, interesting content than to bad content. Figure out a way to get great content and the whole SEO process will work a lot better.
 
-title3 Sitemaps
+section Sitemaps
 
 paragraph
  Sitemaps are not the most crucial thing you can do, but they help and are an easy thing to check off your list. Use Google Webmaster tools and follow all recommendations and submit links to your sitemaps.
 
-title4 Summary
+section Summary
 
 paragraph
  There you have it, SEO made easy! Just remember LUMPS.
 
-title4 Links
+section Links
 
 list
  - Google WebmasterTools🔗www.google.com/webmasters/tools

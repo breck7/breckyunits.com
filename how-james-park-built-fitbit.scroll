@@ -1,5 +1,5 @@
 title How James Park built FitBit
-title4 Introduction
+section Introduction
 
 date 2021-03-11
 
@@ -15,7 +15,7 @@ paragraph
  I loved the story so much but couldn't find a transcript, so made
  the one below. Subtitles (and all mistakes) added by me.
 
-title3 Transcript of <i>How I Built This</i> with James Park
+section Transcript of <i>How I Built This</i> with James Park
 
 image jamesPark.jpeg
 
@@ -75,7 +75,7 @@ paragraph
  immigrants, they had a hard time getting those same jobs in the US. So
  instead, his parents became small business owners.
 
-title3 Growing Up (1977)
+section Growing Up (1977)
 
 paragraph
  ⌚️: The first conscious memory I have is, my parents actually
@@ -129,7 +129,7 @@ paragraph
  then, but you could tell that their expectations were pretty high from
  the very beginning.
 
-title3 Dropping out of Harvard (1998)
+section Dropping out of Harvard (1998)
 
 paragraph
  🎙: James did in fact meet his mom's expectations. He did go to
@@ -164,7 +164,7 @@ paragraph
  easy in themselves and pretty high risk. But I do understand obviously
  the perspective at the time.
 
-title3 The eCommerce Start Up
+section The eCommerce Start Up
 
 paragraph
  🎙: Okay. You decide you want to start something up, and I think
@@ -204,7 +204,7 @@ paragraph
  which was so Swahili for fast. And so that was the ultimate name of
  the company.
 
-title3 Raising a "few million" dollars
+section Raising a "few million" dollars
 
 paragraph
  🎙: And you guys were actually able to raise a fair amount of
@@ -223,7 +223,7 @@ paragraph
  many hours of the day. And we hired up to, it was close to about 30
  people.
 
-title3 Meeting his eventual FitBit cofounder
+section Meeting his eventual FitBit cofounder
 
 paragraph
  🎙: Wow. One super important thing that happened there was you
@@ -250,7 +250,7 @@ paragraph
  dot-com crash happened. And all of our potential customers, the whole
  industry, the whole economy started taking a downturn.
 
-title3 Dot Com Bust (2001)
+section Dot Com Bust (2001)
 
 paragraph
  🎙: So this company spirals out in 2001. And when that happened,
@@ -271,7 +271,7 @@ paragraph
 paragraph
  🎙: So what'd you do?
 
-title3 Getting Real Jobs
+section Getting Real Jobs
 
 paragraph
  ⌚️: We all ended up working at the same place actually. It was
@@ -290,7 +290,7 @@ paragraph
  I think, in terms of the numbers of hours, I don't think anything
  changed from our first startup to trying to figure this next one out.
 
-title3 Startup #2 (2002)
+section Startup #2 (2002)
 
 paragraph
  🎙: And before too long, you decide to do another startup. This
@@ -374,7 +374,7 @@ paragraph
  🎙: Got it. Got it.
 
 
-title3 The pivotal $300 Press Release
+section The pivotal $300 Press Release
 
 paragraph
  ⌚️: And so, our primary goal was making sure that a lot of
@@ -409,7 +409,7 @@ paragraph
  ⌚️: Yeah, exactly. We were like, "Whoa, this is magic. How did
  this happen?"
 
-title3 Bought by CNET for millions (2005)
+section Bought by CNET for millions (2005)
 
 paragraph
  🎙: <a href="https://www.wsj.com/articles/SB111265965498397840">2005, it gets purchased by CNET</a>. They make an offer to buy
@@ -449,7 +449,7 @@ paragraph
  market products. I really enjoyed my experience there. I think it was
  pretty formative.
 
-title3 Nintendo Wii and Leaving CNET (2007)
+section Nintendo Wii and Leaving CNET (2007)
 
 paragraph
  🎙: Why did you leave CNET?
@@ -483,7 +483,7 @@ paragraph
 paragraph
  🎙: Wow.
 
-title3 The Genesis of Fitbit (2007)
+section The Genesis of Fitbit (2007)
 
 paragraph
  ⌚️: I couldn't let it go. And I ultimately ended up calling up
@@ -498,7 +498,7 @@ paragraph
  we just create an electronic pedometer?" But I think even electronic
  pedometers were around in 2007, right?
 
-title3 Existing Pedometers
+section Existing Pedometers
 
 paragraph
  ⌚️: Yeah. Pedometers were definitely around back then.
@@ -565,7 +565,7 @@ paragraph
 paragraph
  🎙: What did it look like?
 
-title3 The prototype
+section The prototype
 
 paragraph
  ⌚️: It was rectangular circuit board, a little bit smaller
@@ -608,7 +608,7 @@ paragraph
  come up with a prototype that quickly run out of that. So it's 2008,
  and you're trying to raise money, how much did you raise?
 
-title3 Raising $2M (2008)
+section Raising $2M (2008)
 
 paragraph
  ⌚️: I think our first round was about $2 million.
@@ -669,7 +669,7 @@ paragraph
 paragraph
  🎙: And by the way, how did you come up with the name Fitbit?
 
-title3 Buying FitBit.com from a Russian for $2,000
+section Buying FitBit.com from a Russian for $2,000
 
 paragraph
  ⌚️: It's never easy to name a company, and it's even more
@@ -721,7 +721,7 @@ paragraph
 paragraph
  ⌚️: Exactly.
 
-title3 Doing a consumer hardware startup before KickStarter
+section Doing a consumer hardware startup before KickStarter
 
 paragraph
  🎙: So where do you begin? I mean, you got to make it, you got to
@@ -809,7 +809,7 @@ paragraph
 paragraph
  🎙: But it worked.
 
-title3 The TechCrunch pitch and 2,000 preorders
+section The TechCrunch pitch and 2,000 preorders
 
 paragraph
  ⌚️: It worked, and actually it did crash in the middle of the
@@ -865,7 +865,7 @@ paragraph
  problem is, they have no finished product. They haven't even figured
  out how they're going to make it and pre-orders are pouring in.
 
-title3 Being Open and Transparent
+section Being Open and Transparent
 
 paragraph
  ⌚️: And they just kept coming in. It was crazy. We were like,
@@ -904,7 +904,7 @@ paragraph
 paragraph
  🎙: Please start.
 
-title3 Manufacturing in Asia
+section Manufacturing in Asia
 
 paragraph
  ⌚️: In some ways a lot of people, I think when you think about
@@ -997,7 +997,7 @@ paragraph
  all these, was there tension at all between the two of you, or you
  guys totally are on the same page?
 
-title3 Importance of cofounders
+section Importance of cofounders
 
 paragraph
  ⌚️: I don't think there was that much tension. I mean, a lot
@@ -1020,7 +1020,7 @@ paragraph
  produced and the radio range was not good at all. It was supposed to
  have a range-
 
-title3 Hardware is Hard
+section Hardware is Hard
 
 paragraph
  🎙: 10 feet or 15 feet?
@@ -1118,7 +1118,7 @@ paragraph
  put on that list. And literally, we went to number 40 before we were
  able to raise money.
 
-title3 Raising money from VCs: 40 nos.
+section Raising money from VCs: 40 nos.
 
 paragraph
  🎙: And just giving the same pitch, again, again, answering the
@@ -1132,7 +1132,7 @@ paragraph
  questions and same objections, et cetera. That was not a fun or
  stimulating time for me.
 
-title3 Raising $8M (2010)
+section Raising $8M (2010)
 
 paragraph
  🎙: All right. Eventually, the 40th investor does decide to give
@@ -1152,7 +1152,7 @@ paragraph
  those days pretty much made it up to and passed our IPO, which I think
  rarely happens.
 
-title3 Building a community
+section Building a community
 
 paragraph
  🎙: It's so crazy to think about it now. But I think early on,
@@ -1214,7 +1214,7 @@ paragraph
  database of activities. It must be fine." That was quite a shock and a
  wake up call for us.
 
-title3 $76M in revenue (2012)
+section $76M in revenue (2012)
 
 paragraph
  🎙: Fitbit for the first couple of years was, a, still a clip.
@@ -1246,7 +1246,7 @@ paragraph
  ⌚️: Exactly. It was very driven by word of mouth. And this
  viral spread was a huge driver of our growth in those days.
 
-title3 Worrying about Competition (2013)
+section Worrying about Competition (2013)
 
 paragraph
  🎙: I think by 2013, you had some competitors coming in. Nike was
@@ -1292,7 +1292,7 @@ paragraph
  kept saying that every six months. It was pretty much an ongoing
  thing, pretty much up to the IPO.
 
-title3 The IPO (2015)
+section The IPO (2015)
 
 paragraph
  🎙: 2015 was a huge turning point for you in many ways. You go
@@ -1307,7 +1307,7 @@ paragraph
  that or did you really think that was true that the Apple Watch
  wouldn't actually have much of an impact?
 
-title3 The Apple Watch (2015)
+section The Apple Watch (2015)
 
 paragraph
  ⌚️: We were definitely concerned with Apple. I mean, this was
@@ -1330,7 +1330,7 @@ paragraph
  running a publicly traded company and the stock was just tumbling.
  What did you think? I mean, I can't imagine that was pleasant for you.
 
-title3 Running a Public Company
+section Running a Public Company
 
 paragraph
  ⌚️: No, it was definitely a stressful period. And you could
@@ -1360,7 +1360,7 @@ paragraph
  ⌚️: ... By the stock price, you're not really given a lot of
  breathing room to try to fix things.
 
-title3 On Critical Feedback
+section On Critical Feedback
 
 paragraph
  🎙: Even though you were introducing new products, revenue was
@@ -1429,7 +1429,7 @@ paragraph
 paragraph
  🎙: Like a subscription.
 
-title3 The Subscription Service
+section The Subscription Service
 
 paragraph
  ⌚️: Exactly. We were so focused on growing our hardware
@@ -1465,7 +1465,7 @@ paragraph
  company and figuring out what are the products and services that
  really deliver that both to people and to businesses.
 
-title3 The Google Acquisition (2019)
+section The Google Acquisition (2019)
 
 paragraph
  🎙: So we get to the end of last year where Google announces that
@@ -1539,7 +1539,7 @@ paragraph
  with my doctor just for a quick question. It's actually super
  convenient.
 
-title3 The Future of Medicine
+section The Future of Medicine
 
 paragraph
  ⌚️: Exactly. And if during these telemedicine visits, if they
@@ -1558,7 +1558,7 @@ paragraph
  of that do you think is because of your intelligence and skill and how
  much do you attribute to luck?
 
-title3 Closing thoughts
+section Closing thoughts
 
 paragraph
  ⌚️: Yeah, that's always a tricky question to answer. I think,

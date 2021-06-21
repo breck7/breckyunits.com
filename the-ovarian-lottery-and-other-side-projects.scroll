@@ -13,7 +13,7 @@ paragraph
 paragraph
  The second project I'll expand on a bit more here.
 
-title3 TheOvarianLottery.com
+section TheOvarianLottery.com
 
 paragraph
  Warren Buffett coined the idea of the "ovarian lottery"--his basic idea is that the most important factor in determining how you end up in life is your birth. You either are born "lucky"--in a rich country, with no major diseases, to an affluent member of society, etc.--or you aren't. Other factors like hard work, education, smart decision making and so forth have a role, but play a relatively tiny role in determining what your life will be like.
@@ -29,7 +29,7 @@ list
  - Your Religion
  - Silly things like whether you will ever be a Facebook user (with 500 million users potentially 1 in every 200 people that has ever lived has used Facebook!)
 
-title4 Two Surprises
+section Two Surprises
 
 paragraph
  I've encountered two major surprises with the theOvarianLottery.
@@ -48,34 +48,34 @@ list
 paragraph
  But cooler than interesting descriptive statistics are the philosophical questions that this idea of the Ovarian Lottery raises. If I was a philosopher I might ponder these questions at depth and write more about each one, but I don't think that's a great use of time and so I'll just list them. Philosophy is most often a fruitless excercise.
 
-title4 How does the real Ovarian Lottery work?
+question How does the real Ovarian Lottery work?
 
 paragraph
  My site is just a computer program. It's interesting to think about how the real ovarian lottery works. Is there a place where everyone is hanging out, and then you spin a wheel and your "soul" is magically transported to a newborn somewhere in the world?
 
-title4 What if the multiverse theory is correct?
+question What if the multiverse theory is correct?
 
 paragraph
  If the multiverse🔗en.wikipedia.org/wiki/Multiverse theory is correct, then my odds are almost certainly off. In other words, theOvarianLottery assumes there's only 1 universe and extrapolates the odds from that. If there are dozens or infinite universes, who knows what the real odds are.
 
-title4 What role has chaos played in the development of humanity?
+question What role has chaos played in the development of humanity?
 
 paragraph
  If you go back to around 10,000 B.C., somewhere around 2-10 million people roamed the planet. Go back earlier and the number is even smaller. It's interesting to think of how small differences in events back then would have created radically different outcomes today. I've dabbled a bit into chaos theory and find it quite humbling.
 
-title4 What does the fact that we are alive today tell us about the future?
+question What does the fact that we are alive today tell us about the future?
 
 paragraph
  Depending on the estimate, between 4-20% of all humans that have ever lived are alive today. In other words, the odds of you being alive right now (according to my model) are higher than they've ever been. The odds of you being alive in 10,000 BC are over 1,000 times less. If humans indeed go on to live for another ten thousand years and the population grows another 1,000 times the odds of you being born today would be vastly smaller. In other words, if my model represented reality than we could conclude that odds are high that the human population does not continue growing like it has.
 
-title4 What's the future shape of the population curve?
+question What's the future shape of the population curve?
 
 image World-Population-1800-2100.png
 
 paragraph
  The growth of human population has followed an exponential curve. How long will it last? Will earth become overpopulated? Will we invent technology to leave earth? Will human population decline? Human population growth is hard to predict over any long term time period.
 
-title4 Complete Uselessness of This Model
+section Complete Uselessness of This Model
 
 paragraph
  I don't believe you can take the concept of the Ovarian Lottery any more seriously than you can take religion. It provides food for thought, but it doesn't provide any real answers to much. The stats though could certainly be used in debates.
@@ -83,7 +83,7 @@ paragraph
 paragraph
  Oh well. Ars gratia artis
 
-title5 Notes
+section Notes
 
 paragraph
  I hope to finish up theOvarianLottery and slap a frontend on it sometime in the future.

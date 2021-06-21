@@ -29,7 +29,7 @@ paragraph
 paragraph
  <b>Ingredient 3: Tree Notation</b> The Third Ingredient for making a TreeBase is Tree Notation. Both schemas and data use <a href="https://treenotation.org/">Tree Notation</a>. This is a new very simple syntax for encoding strongly typed data. It's simple, extensible, and plays well with Git.
 
-title3 TreeBase Compared to Other Database Systems
+section TreeBase Compared to Other Database Systems
 
 paragraph
  Probably hundreds of billions of dollars has gone into designing robust database systems like <a href="https://www.microsoft.com/en-us/sql-server/default.aspx">SQL Server</a>, Oracle🔗en.wikipedia.org/wiki/Oracle_Database, PostgreSQL🔗www.postgresql.org, MySQL🔗www.mysql.com, MongoDB🔗www.mongodb.com, SQLite🔗www.sqlite.org, and so forth. These things run the world. They are incredibly robust and battle-hardened. Everything that can happen is thought of and planned for, and everything that can go wrong has gone wrong (and learned from). These databases can handle trillions of rows, can conduct complex real-time transactions, and survive disasters of all sort. They use sophisticated binary formats and are tuned for specific file systems. Thousands of people have gotten their PhD's working on database technology.
@@ -46,7 +46,7 @@ paragraph
 paragraph
  But first...
 
-title3 Let's Break TreeBase
+section Let's Break TreeBase
 
 paragraph
  Here again is <a href="https://github.com/treenotation/jtree/tree/master/treeBase/planets">a demo TreeBase</a> with only 8 files.
@@ -63,7 +63,7 @@ paragraph
 paragraph
  Every time something bad happens I'll include a 💣.
 
-title3 Choosing a Topic
+section Choosing a Topic
 
 paragraph
  TreeBase is meant for knowledge bases. So all TreeBases center around a topic.
@@ -74,7 +74,7 @@ paragraph
 paragraph
  IMDB is just such a database and amazingly makes a lot of their data available for download🔗www.imdb.com/interfaces/. So movies will be the topic and the IMDB dataset will be my test case. 
 
-title3 The Dataset
+section The Dataset
 
 paragraph
  First I grabbed the data. I downloaded the 7 files from IMDB to my laptop. After unzipping, they were about 7GB.
@@ -101,7 +101,7 @@ paragraph
 paragraph
  The TreeBase design calls for me to create 1 file for every row in that TSV file. To again stress how dumb this design is keep in mind a 500MB TSV with 6.5M rows can be parsed and analyzed with tools like R or Python in seconds. You could even load the thing near instantly into a SQLite database and utilize any SQL tool to explore the dataset. Instead I am about to spend hours, perhaps days, turning it into a TreeBase.
 
-title3 From 1 File to 6.5 Million Files
+section From 1 File to 6.5 Million Files
 
 paragraph
  What will happen when I split 1 file into 6.5 million files? Well, it's clear I am going to waste some space.
@@ -161,7 +161,7 @@ paragraph
 paragraph
  Because this is text data, that's actually not so bad. I don't foresee problems arising from wasted disk space.
 
-title3 Foreseeing Speed Problems
+section Foreseeing Speed Problems
 
 paragraph
  Before I get to the fun part, I'm going to stop for a second and try and predict what the problems are going to be.
@@ -180,7 +180,7 @@ list
  - <b>TreeBase Scripts</b> Will my simple TreeBase scripts be usable? Will I be able to type check a TreeBase?
  - <b>GitHub</b> Will GitHub be able to handle 6.5M files?
 
-title3 Proceeding in Stages
+section Proceeding in Stages
 
 paragraph
  Since I am going to make a 3 order of magnitude jump, I figured it would be best to make those jumps one at a time.
@@ -240,7 +240,7 @@ paragraph
 
 image 60files.png
 
-title3 Building the Grammar File
+section Building the Grammar File
 
 paragraph
  The Grammar file adds some intelligence to a TreeBase. You can think of it as the schema for your base. TreeBase scripts can read those Grammar files and then do things like provide type checking or syntax highlighting.
@@ -350,7 +350,7 @@ paragraph
 paragraph
  Let's get started with the bigger tests now.
 
-title3 A 6k TreeBase
+section A 6k TreeBase
 
 paragraph
  I'm expecting this to be an easy one. I update my script to target the 6k files and run it with <code>/Users/breck/imdb/build.js</code>. A little alarmingly, it takes a couple of seconds to run:
@@ -457,7 +457,7 @@ paragraph
 paragraph
  Now for the first of three 10x jumps.
 
-title3 A 60k TreeBase
+section A 60k TreeBase
 
 paragraph
  💣 This markdown file that I'm writing was in the parent folder of the 60k directory and Sublime text seemed to be slowing a bit, so I closed Sublime and created a new unrelated folder to hold this writeup separate from the TreeBase folders.
@@ -509,7 +509,7 @@ paragraph
 paragraph
  Let's move on to the first real challenge.
 
-title3 A 600k TreeBase
+section A 600k TreeBase
 
 paragraph
  💣 The first problem I hit immediately in that my <code>build.js</code> is not efficient. I hit a v8 out of memory error. I could solve this by either 1) streaming the TSV one row at a time or 2) cleaning up the unoptimized jtree library to handle bigger data better. I chose to spend a few minutes and go with option 1).
@@ -653,7 +653,7 @@ paragraph
 paragraph
  Git blame locally was also just a couple of seconds.
 
-title4 Pause to Reflect
+section Pause to Reflect
 
 paragraph
  So TreeBase struggles at the 600k level. You cannot just use TreeBase at the 100k level without preparing your system for it. Issues arise with GUIs like Finder and Sublime, background file system processes, shells, git, basic bash utilities, and so forth.
@@ -667,7 +667,7 @@ paragraph
 paragraph
  However, I've come this far! No turning back now.
 
-title3 A 6.5M TreeBase
+section A 6.5M TreeBase
 
 paragraph
  To recap what I am doing here: I am taking a single 6.5 million row 500MB TSV file that could easily be parsed into a SQLite or other battle hardened database and instead turning it into a monstrous 6.5 million file TreeBase backed by Git and writing it to my hard disk with no special configuration.
@@ -700,7 +700,7 @@ paragraph
 paragraph
  (Later the next day...)
 
-title3 It's Alive!
+section It's Alive!
 
 paragraph
  It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.
@@ -751,7 +751,7 @@ paragraph
 paragraph
  💣 NOTE: I do not recommend trying this at home. My laptop became lava hot at points. Who knows what wear and tear I added to my hard disk.
 
-title3 What have I learned?
+question What have I learned?
 
 paragraph
  So that is the end of the experiment. Can you build a Git-backed TreeBase with 6.5M files in a single folder? Yes. Should you? No. Most of your tools won't work or will be far too slow. There's infrastructure and design work to be done.
@@ -762,7 +762,7 @@ paragraph
 paragraph
  I also now know that the hardware for this type of system feels ready and it's just parts of some software systems that need to be adapted to handle folders with lots of files. I think those software improvements across the stack will be made and this dumb thing could indeed scale.
 
-title3 What's Next?
+question What's Next?
 
 paragraph
  Now, my focus at the moment is not on big TreeBases. My focus is on making the experience of working with little TreeBases great. I want to help get things like <a href="https://github.com/treenotation/jtree/issues/2">Language Server Protocol</a> going for TreeBases and a Content Management System backed by TreeBase.
@@ -773,12 +773,12 @@ paragraph
 paragraph
  That being said, it would be fun to do this experiment again but this time try and make it work. Once that's a success, it would be fun to try and scale it another 100x, and try to build a TreeBase for something like the 180M paper <a href="https://www.semanticscholar.org/">Semantic Scholar</a> dataset.
 
-title3 Why Oh Why TreeBase?
+question Why Oh Why TreeBase?
 
 paragraph
  Okay, you might be wondering what is the point of this system? Specifically, why use the file system and why use Tree Notation?
 
-title4 1) The File System is Going to Be Here for a Long Long Time
+section 1) The File System is Going to Be Here for a Long Long Time
 
 paragraph
  1) About 30m programmers use approximately 100 to 500 general purpose programming languages. All of these actively used general purpose languages have battle tested APIs for interacting with file systems. They don't all have interfaces to every database program. Any programmer, no matter what language they use, without having to learn a new protocol, language, or package, could write code to interact with a TreeBase using knowledge they already have. Almost every programmer uses Git now as well, so they'd be familiar with how TreeBase change control works.
@@ -792,7 +792,7 @@ paragraph
 paragraph
  People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for <a href="https://en.wikipedia.org/wiki/Papyrus">at least 4,500 years</a> and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better. 
 
-title4 2) Tree Notation is All You Need to Create Meaningful Semantic Content
+section 2) Tree Notation is All You Need to Create Meaningful Semantic Content
 
 paragraph
  People have recognized the value of semantic, strongly typed content for a long time. Databases have been strongly typed since the beginning of databases. Strongly typed programming languages have dominated the software world since the beginning of software.

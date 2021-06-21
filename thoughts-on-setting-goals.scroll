@@ -10,7 +10,7 @@ paragraph
 quote
  Make them good. Make them small.
 
-title4 Make them Good
+section Make them Good
 
 paragraph
  Good goals create value. Some examples:
@@ -21,7 +21,7 @@ list
  - Learn how to cook.
  - Organize weather information.
 
-title4 Make them Small
+section Make them Small
 
 paragraph
  Start small. It is better to set one or two goals per time period than to set two dozen goals. Instead of a goal like "get 1,000,000 people to your website", start with a smaller goal like "get 10 people to your website."
@@ -29,7 +29,7 @@ paragraph
 paragraph
  If you exceed a goal and still think it's a good thing, raise the goal an order of magnitude. If you get those 10 visitors, aim for 100.
 
-title4 Why Small Goals Are Better
+section Why Small Goals Are Better
 
 paragraph
  Setting smaller goals is better because:
@@ -41,7 +41,7 @@ list
  - It's less stressful and makes you happier. Low expectations are good because in most cases you will exceed them and feel happy. High expectations, by definition, are bad because in most cases you will not meet them and feel bad. 
  - Goals are arbitrary anyway. All goals are simply arbitrary constraints that help you focus--often with a team--to get stuff done. So since they're arbitrary, and as long as they're good goals, might as well make them simpler and easier.
 
-title3 Setting Ranges
+section Setting Ranges
 
 paragraph
  Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:

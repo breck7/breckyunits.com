@@ -19,7 +19,7 @@ paragraph
 paragraph
  Orders of magnitude is a great system because generally there's a huge difference between 2 numbers in different orders of magnitude. Thus to cross from one order of magnitude to the next, a different type of effort is required than to simply increment a number. For example, if you run 2 miles each day and then decide to run one more, 3 total, it should be easy. But if you decided to run one more order of magnitude, 20 miles, it would take a totally new kind of effort. You'd have to train longer, eat differently, and so forth. To go from 2 to 3 requires a simple approach, just increase what you're doing a bit. To go from 2 to 20, to increase by an order of magnitude, requires a totally different kind of effort.
 
-title3 A Business Example
+section A Business Example
 
 paragraph
  Let's do a business example. 
@@ -56,7 +56,7 @@ list
  - Going from $50,000 to $500,000 might mean doing all that, plus making some good investments.
  - ... and so forth.
 
-title4 More examples
+section More examples
 
 list
  - If your room is 200 square feet, the world is 13 orders of magnitude greater than your room.
@@ -65,7 +65,7 @@ list
  - The population of California is about 35 million. The population of the US is one order of magnitude bigger, about 300 million. The population of China is about 4 times that of the U.S. at 1,300,000, which is less than an order of magnitude difference.
  - Shaq is about 1 order of magnitude taller than a newborn, but besides that height is much more narrowly distributed. Everyone is within the same order of magnitude tall.
 
-title4 Notes
+section Notes
 
 paragraph
  WolframAlpha🔗www.wolframalpha.com. Thanks to Mairi and <a href="http://www.30words.com">Andrew Kitchell</a> for providing feedback.

@@ -12,7 +12,7 @@ paragraph
  repos are republished to; what matters is that <i>every
  CDC publication needs a link to a backing Git repo</i>.
 
-title3 How do you explain Git to a government leader?
+question How do you explain Git to a government leader?
 
 paragraph
  Git is the "Global Information Tracker". It is software
@@ -20,7 +20,7 @@ paragraph
  makes lying hard 2) git makes sharing the truth easy 3) git
  makes fixing mistakes easy.
 
-title3 Why does the CDC need to move to Git?
+question Why does the CDC need to move to Git?
 
 paragraph
  Because the CDC's publications are currently full of
@@ -29,7 +29,7 @@ paragraph
  Reports, FAQs, press releases, all of these things need
  links to the Gits.
 
-title3 Who builds on Git?
+question Who builds on Git?
 
 paragraph
  The whole world now builds on Git. The CDC is far
@@ -37,7 +37,7 @@ paragraph
  proprietary software project in the world, <a
  href="https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/">now builds on Git</a>.
 
-title3 What is Git?
+question What is Git?
 
 paragraph
  Git🔗en.wikipedia.org/wiki/Git is an
@@ -49,9 +49,9 @@ paragraph
  href="https://en.wikipedia.org/wiki/Blockchain">blockchain</a> and <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a>.
 
 
-title3 How can the CDC rapidly move to Git?
+question How can the CDC rapidly move to Git?
 
-title4 Double Down on Internal Leaders
+section Double Down on Internal Leaders
 
 paragraph
  The <a href="https://github.com/CDCgov">CDC's GitHub
@@ -65,7 +65,7 @@ paragraph
  to Git. This is probably really the only thing you need to
  do, and these people can lead it from there.
 
-title4 Change Funding Requirements
+section Change Funding Requirements
 
 paragraph
  Provide a hard deadline announcing that you will stop all
@@ -74,7 +74,7 @@ paragraph
  sponsored work on a publically available Git server and
  linking to it in all releases.
 
-title4 Education and Training
+section Education and Training
 
 paragraph
  The CDC has 10,600 employees, so buying them all $20 worth
@@ -88,7 +88,7 @@ paragraph
  less than 1% of the CDC's annual budget.
 
 
-title3 Why the urgency?
+question Why the urgency?
 
 paragraph
  Because the CDC not only failed at it's mission by not
