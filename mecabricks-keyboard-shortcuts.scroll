@@ -1,7 +1,9 @@
-title Keyboard Shorcuts for Mecabricks
+title Keyboard Shortcuts for Mecabricks
 skipIndexPage
 
 subsection Global
+
+
 
 pipeTable
  Combo|Command
@@ -106,3 +108,6 @@ pipeTable
 pipeTable
  Combo|Command
  Del or Bak|Delete selected nodes
+
+paragraph
+ As Printable Image🔗./mecabricks-keyboard-shortcuts.png
