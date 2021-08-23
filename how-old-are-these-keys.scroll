@@ -20,12 +20,14 @@ section The Five Waves of Symbols
 paragraph
  Painting with broad strokes, there were approximately five
  big waves of inventions that have left their mark on the
- keyboard. The first wave was the invention of the phonetic
- alphabet letters. The second wave was the Hindu-Arabic
- Numerals. The third wave was the mathematical punctuation
- of the Enlightenment period. The fourth wave was the
- invention of the typewriter. And the fifth and most recent
- wave was the invention of the personal computer.
+ keyboard:
+
+orderedList
+ 1. The first wave was the invention of the phonetic alphabet letters.
+ 2. The second wave was the Hindu-Arabic Numerals.
+ 3. The third wave was the mathematical punctuation of the Enlightenment period.
+ 4. The fourth wave was the invention of the typewriter.
+ 5. And the fifth and most recent wave was the invention of the personal computer.
 
 paragraph
  I haven't made any traditional charts yet with this
@@ -57,18 +59,31 @@ section Build Notes
 paragraph
  I got this idea last week and couldn't get it out of my
  head. Yesterday I took a quick crack at it. I didn't have
- much time to spare, just enough to explore the big ideas. I
- started by typing all the characters on my keyboard into a
+ much time to spare, just enough to explore the big ideas.
+
+paragraph
+ I started by typing all the characters on my keyboard into a
  Tree Notation document. Then I dug up some years for a
- handful of the symbols. Then I found the great Apple CSS
+ handful of the symbols.
+
+paragraph
+ Next I found the great Apple CSS
  keyboard. I stitched together the two and it seemed to be
- at least mildly interesting so I opted to continue. I then
- flushed out most of the dataset. Finally I played around
- with a number of visualization effects. At first I thought
+ at least mildly interesting so I opted to continue.
+
+paragraph
+ I then flushed out most of the dataset.
+
+paragraph
+ Finally I played around with a number of visualization effects. At first I thought
  heatmaps would work well, and tried a few variations on
  that, but wasn't happy with anything. I posted my
  work-in-progress to a few friends last night and called it
  a day. Today I switched to the "disappearing keys"
  visualization. That definitely felt like a better approach
- than the heatmap. I made the thing as fun as I could given
- time constraints and then shipped.
+ than the heatmap.
+
+paragraph
+ I made the thing as fun as I could given time constraints and then shipped.
+
+maxColumns 2
