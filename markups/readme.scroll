@@ -2,7 +2,7 @@ title Indented Heredocs Demo: Markdown, Textile, and BBCode in one file with no 
 date 08-23-2021
 
 paragraph
- TreeNotation🔗treenotation.org is a great glue notation for combining multiple languages into one file. On this demo page, I've extended the Scroll🔗scroll.pub grammar to include nodes for Markdown🔗en.wikipedia.org/wiki/Markdown, Textile🔗en.wikipedia.org/wiki/Textile_(markup_language), and BBCode🔗en.wikipedia.org/wiki/BBCode. (As well as a nifty special keyword as a bonus treat for readers who check out the source)
+ TreeNotation🔗treenotation.org is a great glue notation for combining multiple languages into one file. On this demo page, I've extended the Scroll🔗scroll.pub grammar to include nodes for Markdown🔗en.wikipedia.org/wiki/Markdown, Textile🔗en.wikipedia.org/wiki/Textile_(markup_language), and BBCode🔗en.wikipedia.org/wiki/BBCode. (As well as a nifty special keyword as a bonus treat for readers who check out the source🔗github.com/breck7/breckyunits.com/tree/main/markups )
 
 section Indented Heredocs
 
@@ -37,7 +37,7 @@ bbCode
  [u]bbCode rules![/u]
 
 paragraph
- Check out the source link at the bottom of this page for the full source of this article. More extensive examples are pasted below.
+ More extensive examples are pasted below. Source is here🔗github.com/breck7/breckyunits.com/tree/main/markups.
 
 section Extended Examples
 
