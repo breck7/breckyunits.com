@@ -1,0 +1,16 @@
+🐕
+ onTick .2
+  turnToward 🥓
+  move
+ onTick .2
+  jitter
+🥓
+ onTouch
+  🐕
+   remove
+🥦
+
+
+insert 1 🐕
+insert 3 🥓
+insert 10 🥦
