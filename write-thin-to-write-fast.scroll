@@ -46,7 +46,7 @@ paragraph
 question If column width has such a significant impact on writing speed, why have I not seen this stressed more?
 
 paragraph
- I don't remember ever being told to use thinner columns when writing. In programming we often cap line length, but this is generaly pitched for the benefit of future <i>readers</i>, not to help the authors at write time.
+ I don't remember ever being told to use thinner columns when writing. In programming we often cap line length, but this is generally pitched for the benefit of future <i>readers</i>, not to help the authors at write time.
 
 paragraph
  I have long overlooked the benefit of thin columns at write time. How could I have overlooked this? Two obvious explanations come to mind.
@@ -71,6 +71,7 @@ list
  - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
  - I am a middling writer, so don't forget to weight this advice appropriately!
  - The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
+ - Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at <i>write time</i> with certain font and column settings. At <i>read time</i> those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
 
 comment Further threads to explore
  - This may be an inconsequential tip on how to I went from a 0.1x writer a 0.2x writer.
