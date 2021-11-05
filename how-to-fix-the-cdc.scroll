@@ -99,9 +99,38 @@ paragraph
  should be to regain trust and to do that they need to focus
  on the most trustworthy tool in information today: git.
 
+section Specific Examples
 
 paragraph
- <i>I am a computer scientist and former
- software engineer at Microsoft, the University of Hawai'i
- Cancer Center, and Our World in Data. Opinions are my
- own.</i>
+ I'm adding two very clear and specific examples to illustrate the problem. But my sense is the problem is prolific.
+
+subsection #1 - COVID-19 in kids vs the Flu
+
+quote
+ For young children, especially children younger than 5 years old, the risk of serious complications is higher for flu compared with COVID-19.
+ - CDC
+
+paragraph
+ This statement appeared on the CDC's website for more than a year. As it should have. Every big dataset I've looked at agrees with this, from the very first🔗https://twitter.com/breckyunits/status/1228117546974371840 COVID-19 data dump in February 2020.
+
+paragraph
+ I started actively sharing and quoting that CDC page🔗https://web.archive.org/web/20210820184423/https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm in August 2021. Coincidentally or not, within days they removed🔗https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm that quote. There is no record of why they made the change. In fact the updated page misleadingly states "Page last reviewed: June 7, 2021", despite the August edit*.
+
+paragraph
+ To recap, they quietly <i>reversed</i> the most critical piece of contextual advice on how parents should think about COVID-19 in relation to their children. No record, no explanation. (In case you are wondering, the data has not changed, and the latest data aligns with the original statement which they removed. Perhaps the change was made for political reasons).
+
+
+subsection #2 - Changing the definition of vaccine
+
+paragraph
+ The second example is well documented elsewhere🔗alexberenson.substack.com/p/a-lawsuit-in-three-acts, but the CDC changed their online definition of the word "vaccine", again perhaps for political reasons. That sort of thing seems like the kind of change that maybe should have some audit trail behind it, no?
+
+section Conclusion
+
+paragraph
+ I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
+
+section Notes
+
+list
+ - * Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
