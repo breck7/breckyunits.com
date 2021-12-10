@@ -6,13 +6,14 @@ date 2021-03-11
 comment
  todo: add custom grammar.
 
-paragraph
+aftertext
  I have been a FitBit user for many years but did not know
  the story behind the company. Recently came across a podcast
- by Guy Raz called <a
- href="https://www.npr.org/podcasts/510313/how-i-built-this">How I Built This</a>.
- In this episode🔗www.npr.org/2020/04/22/841267648/fitbit-james-park he interviews James Park who
+ by Guy Raz called How I Built This.
+ In this episode he interviews James Park who
  explains the story of FitBit.
+ https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
+ https://www.npr.org/2020/04/22/841267648/fitbit-james-park episode
 
 paragraph
  I loved the story so much but couldn't find a transcript, so made
@@ -414,11 +415,12 @@ paragraph
 
 section Bought by CNET for millions (2005)
 
-paragraph
- <b>Guy:</b> <a href="https://www.wsj.com/articles/SB111265965498397840">2005, it gets purchased by CNET</a>. They make an offer to buy
+aftertext
+ <b>Guy:</b> 2005, it gets purchased by CNET. They make an offer to buy
  this company, buy this product from you guys and you sell it to CNET.
  Was that life-changing money? Did that mean that you never had to work
  again?
+ https://www.wsj.com/articles/SB111265965498397840 2005, it gets purchased by CNET
 
 paragraph
  <b>James:</b> It was definitely a good acquisition for all of us at the
@@ -591,10 +593,10 @@ paragraph
  product that even such a crude prototype could track movement? Did you
  have other people help you do that?
 
-paragraph
+aftertext
  <b>James:</b> That was our big task was to find the right people who
  could help us. I knew the founder of a really great industrial design
- firm in San Francisco called <a href="https://www.newdealdesign.com/">New Deal Design</a>. His name is Gadi Amit.
+ firm in San Francisco called New Deal Design. His name is Gadi Amit.
  And then on the algorithm side, because it was going to take a lot of
  sophisticated algorithms to translate this motion data to actual data
  that users would be able to understand, I ended up asking my best
@@ -605,6 +607,7 @@ paragraph
  smart. We need to get him working on the algorithms." So he ended up
  working on the side while doing his PHD, helping us out with a lot of
  the software.
+ https://www.newdealdesign.com/ New Deal Design
 
 paragraph
  <b>Guy:</b> I mean, you leave CNET in 2007, and you've got 400,000 to
@@ -1470,9 +1473,8 @@ paragraph
 
 section The Google Acquisition (2019)
 
-paragraph
- <b>Guy:</b> So we get to the end of last year where Google announces that
- they were going to <a href="https://techcrunch.com/2019/11/01/google-is-acquiring-fitbit/">buy Fitbit, $2.1 billion</a>. We should mention that,
+aftertext
+ <b>Guy:</b> So we get to the end of last year where Google announces that they were going to buy Fitbit, $2.1 billion. We should mention that,
  at the time of this recording, it hasn't closed yet. To me, it makes
  perfect sense. If I'm you or Eric, I would have done it. I would've
  said, "$2.1 billion, that's great. That's a great outcome because now
@@ -1480,6 +1482,7 @@ paragraph
  and all the people who work there and the analytics and our ability to
  really go to the next level." Why did it make sense from your
  perspective to sell to Google?
+ https://techcrunch.com/2019/11/01/google-is-acquiring-fitbit/ Google announces that they were going to buy Fitbit, $2.1 billion
 
 paragraph
  <b>James:</b> Yeah, that's a very complicated and emotionally fraught
@@ -1578,15 +1581,19 @@ paragraph
  think you start to discount the actual things, actions that you can
  take on your own to affect the future. And that's really important.
 
-paragraph
+aftertext
  <b>Guy:</b> That's James Park, co-founder of Fitbit. And here's a number
  for you, 34,642,772, that is how many steps James has tracked since he
  first put on that balsa wood Fitbit prototype. At least as of this
  recording. It's about 15,430 miles or 24,832 kilometers. And thanks so
  much for listening to the show this week, you can subscribe wherever
  you get your podcasts. You can also write to us at hibt@npr.org. And
- if you want to send a tweet, it's @HowIBuiltThis🔗twitter.com/HowIBuiltThis or @guyraz🔗twitter.com/guyraz. This
+ if you want to send a tweet, it's @HowIBuiltThis or @guyraz. This
  episode was produced by James Delahoussaye, with music composed by
  Ramtin Arablouei. Thanks also to Sarah Saracen, Candice Lim, Julia
  Carney, Neva Grant, Casey Herman, and Jeff Rogers. I'm Guy Raz, and
- you've been listening to <a href="https://www.npr.org/podcasts/510313/how-i-built-this">How I Built This</a>. This is NPR.
+ you've been listening to How I Built This. This is NPR.
+ email hibt@npr.org hibt@npr.org
+ https://twitter.com/HowIBuiltThis @HowIBuiltThis
+ https://twitter.com/guyraz @guyraz
+ https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
