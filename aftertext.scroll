@@ -17,8 +17,8 @@ code
   A link in Markdown looks like [this](hi.html).
 
 aftertext
- I needed an alternative where content is separate from markup. I made an experimental minilang I'm calling aftertext.
- bold aftertext
+ I needed an alternative where content is separate from markup. I made an experimental minilang I'm calling Aftertext.
+ italics Aftertext
  italics content is separate from markup
 
 code
@@ -27,7 +27,7 @@ code
   link hi.html this
 
 aftertext
- You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in aftertext and the source code looks like:
+ You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
  italics After your text
  italics selectors
 aboveAsCode
@@ -50,17 +50,14 @@ comment Why, oh God, why?
 comment
  As a child I was bitten by a right parenthesis ), and ever since have had a strong aversion to closing brackets. Rather than talk to a therapist, I've tried to invent ways to eradicate closing brackets from the world.
 
-question Why might this be useful?
+question Why did I make this?
 
 aftertext
- First I should explicitly state that embedded markup in HTML and Markdown are extremely popular and Scroll always will support those. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
+ First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
  https://github.com/publicdomaincompany/scroll/blob/main/grammar/ grammar nodes
 
 aftertext
- I may find Aftertext to be an anti-pattern and throw it away. Perhaps the way we mark up text is the way we should mark up text. I'm open to this being a bad idea.
-
-aftertext
- With those disclaimers out of the way, I see two potential upsides of Aftertext over the status quo. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
+ With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
 
 subsection Benefits of Keeping Text and Markup Separate
 
@@ -172,7 +169,7 @@ aftertext
 section Notes
 
 list
- - There's no reason it has to be "aftertext". The markups could come before the text too. 
+ - There's no reason it has to be "Aftertext". The markups could come before the text too. 
 
 comment
  In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
