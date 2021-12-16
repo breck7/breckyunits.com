@@ -100,6 +100,9 @@ aftertext
  Adding a new markup command is just a few lines of code.
  https://github.com/publicdomaincompany/scroll/blob/main/grammar/aftertext.grammar lines of code
 
+comment
+ *a few lines of code and some time fighting the JTree SDK, unless someone sometime makes a better Tree Notation SDK
+
 question What are the downsides of Aftertext?
 
 aftertext
@@ -113,6 +116,12 @@ aftertext
 aftertext
  A similar issue to the breakage problem is verbosity. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed. 
  italics verbosity
+
+aftertext
+ Another problem of Aftertext is when markup is semantic and not just an augmentation. "*I* did not say that" is different from "I did not say *that*". Without embedded markup in these situations meaning could be lost.
+ italics semantic
+ code *I* did not say that
+ code I did not say *that*
 
 question What are the problems with the initial implementation?
 
@@ -167,13 +176,39 @@ aftertext
  https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html troff directives
 
 aftertext
- The Codex project has a related idea called standoff properties. It doesn't quite work for my use case where editing by hand is a requirement.
+ Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem esolangy now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
+ https://www.templetons.com/tech/oob.html OOB
+ https://www.templetons.com/tech/proletext.html Proletext
+ italics esolangy
+
+aftertext
+ The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
  https://zfdg.de/sb004_008#hd14 standoff properties
+
+question Why now?
+
+aftertext
+ Issues with embedded markup and alternative solutions have been discussed for decades. I would say it's a safe bet to say embedded markup is superior since it so thoroughly dominates usage. Nevertheless, as I mentioned in my use case, there is a time and a place for alternatives. Aftertext would have been simple enough to understand decades ago and use with pen and paper. So why hasn't Aftertext's been tried before?
+
+comment
+ millennia ago, really, though markup langs not relevant until the computing age (maybe printing press age?)
+
+aftertext
+ Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocomplete) used to be more expensive, so Aftertext would have been inefficient. It probably was worthwhile to have a learning curve and force users to memorize cryptic acronyms. It paid off to minimize keystrokes.
+
+aftertext
+ I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
+
+aftertext
+ Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets <i>its own scope</i> and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
+ https://treenotation.org/ Tree Notation
 
 section Notes
 
 list
- - There's no reason it has to be "Aftertext". The markups could come before the text too. 
+ - There's no reason it has to be "Aftertext". The markups could come before the text too.
+ - Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
+ - Another downside of the current implementation, pointed out by <a href="https://github.com/davidchisnall">David Chisnall</a>, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
 
 comment
  In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
