@@ -143,7 +143,7 @@ aftertext
 section Related Work
 
 aftertext
- Thank you to Kartik, Shalabh, Mariano, and Joe for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
+ Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
  link http://akkartik.name/ Kartik
  https://shalabh.com/ Shalabh
  https://twitter.com/warianoguerra Mariano
@@ -161,6 +161,10 @@ aftertext
  When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup" implementation
  https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
+
+aftertext
+ A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff 50 years later, when characters/bytes aren't so expensive anymore.
+ https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html troff directives
 
 aftertext
  The Codex project has a related idea called standoff properties. It doesn't quite work for my use case where editing by hand is a requirement.
