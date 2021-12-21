@@ -5,8 +5,9 @@ date 12/15/2021
 comment
  This invention falls somewhere between trivial and mildly interesting.
 
-paragraph
+aftertext
  Both HTML and Markdown mix content with markup:
+ dateline
 
 code
  html
