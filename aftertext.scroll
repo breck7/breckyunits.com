@@ -173,8 +173,9 @@ aftertext
  https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
 
 aftertext
- A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff 50 years later, when characters/bytes aren't so expensive anymore.
+ A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
  https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html troff directives
+ https://www.systutorials.com/docs/linux/man/7-groff_man/ groff
 
 aftertext
  Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem esolangy now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
@@ -185,6 +186,10 @@ aftertext
 aftertext
  The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
  https://zfdg.de/sb004_008#hd14 standoff properties
+
+aftertext
+ AtJSON is a similar project and has clear documentation. AtJSON has a useful collection of markups evolved to support a large corpus of documents at CondeNast. AtJSON uses character indexes for selectors so hand editing is not practical.
+ https://github.com/CondeNast/atjson AtJSON
 
 question Why now?
 
