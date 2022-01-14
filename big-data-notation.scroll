@@ -4,8 +4,9 @@ section A Suggestion for a Simple Notation
 
 date 2013-09-24
 
-paragraph
+aftertext
  What if instead of talking about Big Data, we talked about 12 Data, 13 Data, 14 Data, 15 Data, et cetera? The # refers to the number of zeroes we are dealing with.
+ dateline
 
 paragraph
  You can then easily differentiate problems. Some companies are dealing with 12 Data, some companies are dealing with 15 Data. No company is yet dealing with 19 Data. Big Data starts at 12 Data, and maybe over time you could say Big Data starts at 13 Data, et cetera.

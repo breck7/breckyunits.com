@@ -2,9 +2,10 @@ title Some old blogs
 date 2021-05-07
 permalink some-old-blogs
 
-paragraph
+aftertext
  I found it mildly interesting to dig up my earlier blogs and put them in this git.
  This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine heart ❤️.
+ dateline
 
 section August 2007 - Running Wordpress on my own domain
 

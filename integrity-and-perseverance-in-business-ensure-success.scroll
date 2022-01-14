@@ -5,12 +5,15 @@ image integrity.jpg
 
 date 2020-02-09
 
-paragraph
- <i>Richard Brhel of placepeep🔗placepeep.com shared a great
- quote the other day on StartupSchool🔗startupschool.org.
+aftertext
+ <i>Richard Brhel of placepeep shared a great
+ quote the other day on StartupSchool.
  He saw the quote on a poster years ago when he was helping
  a digitization effort in Ohio. I had never seen this exact
  quote before so wanted to transcribe it for the web.</i>
+ link https://placepeep.com placepeep
+ link https://startupschool.org StartupSchool
+ dateline
 
 paragraph
  In 1851 an instructor named Ezekiel G. Folsom incorporated

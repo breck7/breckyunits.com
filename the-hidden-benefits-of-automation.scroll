@@ -1,8 +1,9 @@
 title The Hidden Benefits of Automation
 date 2010-03-17
 
-paragraph
+aftertext
  If you automate a process which you repeat <i>Y</i> times, that takes <i>X</i> minutes, what would your payoff be?
+ dateline
 
 paragraph
  Payoff = <i>XY</i> minutes saved, right?

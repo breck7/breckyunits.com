@@ -1,8 +1,9 @@
 title Metrics for Programmers
 date 2010-03-16
 
-paragraph
+aftertext
  I wrote a simple php program called <a href="http://github.com/breck7/phpcodestat">phpcodestat</a> that computes some simple statistics for any given directory.
+ dateline
 
 paragraph
  I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.

@@ -1,8 +1,9 @@
 title Show HN: Programming is Now Two-Dimensional
 date 2017-06-21
 
-paragraph
+aftertext
  <b>Eureka!</b> I wanted to announce something small, but slightly novel, and potentially useful.
+ dateline
 
 paragraph
  What did I discover? That there might be useful general purpose programming languages that don't use any visible syntax characters at all.

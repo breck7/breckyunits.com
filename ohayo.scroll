@@ -1,8 +1,10 @@
 title Ohayo
 date 2017-06-23
 
-paragraph
- I just pushed a project I've been working on called Ohayo🔗ohayo.computer.
+aftertext
+ I just pushed a project I've been working on called Ohayo.
+ link https://ohayo.computer Ohayo
+ dateline
 
 paragraph
  You can also view it on GitHub: https://github.com/treenotation/ohayo🔗github.com/treenotation/ohayo

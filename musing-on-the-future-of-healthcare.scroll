@@ -1,8 +1,9 @@
 title Musing on the Future of Healthcare
 date 2020-03-02
 
-paragraph
+aftertext
  I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
+ dateline
 
 paragraph
  These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.

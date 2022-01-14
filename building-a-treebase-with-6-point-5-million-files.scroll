@@ -2,8 +2,9 @@ title Building a TreeBase with 6.5 million files
 date 2020-01-29
 permalink building-a-treebase-with-6.5-million-files
 
-paragraph
+aftertext
  In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
+ dateline
 
 paragraph
  TreeBase🔗treebase.treenotation.org/ is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with <a href="https://treenotation.org/">Tree Notation</a>. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.

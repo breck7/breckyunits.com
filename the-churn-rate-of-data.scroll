@@ -1,8 +1,9 @@
 title The Churn Rate of Data
 date 2010-06-15
 
-paragraph
+aftertext
  I think it's interesting to ponder the value of information over it's lifetime.
+ dateline
 
 paragraph
  Different types of data become outdated at different rates. A street map is probably mostly relevant 10 years later, while a 10 year old weather forecast is much less valuable.

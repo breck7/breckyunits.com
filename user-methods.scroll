@@ -2,8 +2,9 @@ title User Methods
 
 date 8/11/2021
 
-paragraph
+aftertext
  In this essay I'm going to talk about a design pattern in writing applications that requires effectively no extra work and more than triples the power of your code. It's one of the biggest wins I've found in programming and I don't think this pattern is emphasized enough. The tldr; is this:
+ dateline
 
 quote
  When building applications, distinguish methods that will be called by the user.

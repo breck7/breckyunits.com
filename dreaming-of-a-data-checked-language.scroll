@@ -1,12 +1,13 @@
 title Dreaming of a Data Checked Language
 date 2020-01-3
 
-paragraph
+aftertext
  <span class="redSquig">Speling</span> errors and <span
  class="greenSquig">errors grammar</span> are <span
  class="dataError">nearly extinct in published
  content</span>. <b>Data errors</b>, however, <span
  class="dataError">are prolific</span>.
+ dateline
 
 paragraph
  By data error I mean one the following errors: a statement

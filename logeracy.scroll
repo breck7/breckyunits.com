@@ -1,8 +1,11 @@
 title Logeracy
 date 2021-04-26
 
-paragraph
- I present a new word<proof/>. <b><i>Logeracy</i></b>. I define it roughly as the ability to think in logarithms🔗en.wikipedia.org/wiki/Logarithm. It mirrors the word literacy🔗en.wikipedia.org/wiki/Literacy.
+aftertext
+ I present a new word<proof/>. <b><i>Logeracy</i></b>. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
+ link https://en.wikipedia.org/wiki/Logarithm logarithms
+ link https://en.wikipedia.org/wiki/Literacy literacy
+ dateline
 
 paragraph
  Someone literate is fluent with reading and writing. Someone logerate is fluent with orders of magnitudes and the ubiquitous mathematical functions that dominate our universe.

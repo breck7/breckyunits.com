@@ -1,9 +1,11 @@
 title Scroll Beta
 date 2021-02-22
 
-paragraph
+aftertext
  Today I'm launching the beta of something new called
- Scroll🔗github.com/publicdomaincompany/scroll.
+ Scroll.
+ link https://github.com/publicdomaincompany/scroll Scroll
+ dateline
 
 paragraph
  I've been reading the newspaper everyday since I was a kid.

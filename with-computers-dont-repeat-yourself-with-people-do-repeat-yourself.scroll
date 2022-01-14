@@ -1,8 +1,9 @@
 title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 date 2010-01-15
 
-paragraph
+aftertext
  In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."
+ dateline
 
 paragraph
  The downside of DRY's popularity is that programmers might start applying the principle to conversations with other humans. 

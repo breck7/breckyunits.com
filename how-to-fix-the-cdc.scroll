@@ -1,8 +1,8 @@
 title How to fix the CDC
 date 2021-03-30
 
-paragraph
- <b>The CDC🔗www.cdc.gov/ needs to
+aftertext
+ <b>The CDC needs to
  move to Git</b>. The CDC needs to move pretty much
  <i>everything to Git</i>. And they should do it
  <b>with urgency</b>. They should make it a priority to
@@ -11,6 +11,8 @@ paragraph
  doesn't matter under what account or on what service the
  repos are republished to; what matters is that <i>every
  CDC publication needs a link to a backing Git repo</i>.
+ link https://www.cdc.gov/ CDC
+ dateline
 
 question How do you explain Git to a government leader?
 
