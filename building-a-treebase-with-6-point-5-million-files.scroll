@@ -9,6 +9,8 @@ aftertext
 paragraph
  TreeBase🔗treebase.treenotation.org/ is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with <a href="https://treenotation.org/">Tree Notation</a>. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.
 
+endSnippet
+
 paragraph
  For example, in this tiny demo <a href="https://github.com/treenotation/jtree/blob/master/treeBase/planets">TreeBase of the planets</a> the file <code>mars.planet</code> looks like this:
 

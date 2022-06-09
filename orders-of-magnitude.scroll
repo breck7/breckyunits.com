@@ -8,6 +8,8 @@ aftertext
 paragraph
  If you think in orders of magnitude you can quickly visualize how big a number is and how much effort it would take to reach it.
 
+endSnippet
+
 paragraph
  Orders of magnitude is a way of grouping numbers. The numbers 5, 8 and 11 are all in the same order of magnitude. The numbers 95, 98 and 109 are in the same order of magnitude as well, but their order of magnitude is one order of magnitude greater than 5, 8, 11.
 

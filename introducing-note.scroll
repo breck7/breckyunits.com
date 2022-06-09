@@ -9,6 +9,8 @@ aftertext
  Note is a structured, human readable, concise language for encoding data.
  dateline
 
+endSnippet
+
 section XML to JSON to Note
 
 paragraph

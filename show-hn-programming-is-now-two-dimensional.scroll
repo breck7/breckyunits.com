@@ -11,6 +11,8 @@ paragraph
 paragraph
  I call the whitespace-based notation <a href="https://treenotation.org/">Tree Notation</a> and languages built on top of it Tree Languages.
 
+endSnippet
+
 paragraph
  Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
 

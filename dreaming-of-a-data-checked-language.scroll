@@ -9,6 +9,8 @@ aftertext
  class="dataError">are prolific</span>.
  dateline
 
+endSnippet
+
 paragraph
  By data error I mean one the following errors: a statement
  without a backing dataset and/or definitions, a statement

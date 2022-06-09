@@ -5,6 +5,9 @@ permalink simple-is
 aftertext
  <b>Concise but not cryptic</b>. e = mc2 is precise and not too cryptic. Shell commands, such as chmod -R 755 some_dir are concise but very cryptic.
  dateline
+ code chmod -R 755 some_dir
+
+endSnippet
 
 paragraph
  <b>Understandable but not misleading</b>. "Computing all boils down to ones and zeros" is understandable and not misleading. "Milk: it does a body good", is understandable but misleading.
