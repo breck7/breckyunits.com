@@ -29,31 +29,28 @@ endSnippet
 section Benchmarking ckmeans
 
 aftertext
- We didn't write the k-means function ourselves, instead we used the function ckmeans from the widely-used package Simple Statistics. 
+ We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package Simple Statistics. 
  https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js ckmeans
  https://github.com/simple-statistics/simple-statistics Simple Statistics
- code ckmeans
+ wrapsOn
 
 aftertext
  My first naive thought was that I could just quickly write a better k-means function. It didn't take long to realize that was a non-trivial problem and should be a last resort.
 
 aftertext
- My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a 2011 paper and the comments in the code claimed it ran in O(nlog(n)) time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
+ My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a 2011 paper and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
  https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf 2011 paper
- code O(nlog(n))
+ wrapsOn
  caveat O(nlog(n))
   To be precise O(knlog(n)) time, where k is the number of groups. But I've simplified for this story as that detail is not important.
 
 section Benchmarking shows closer to n² than n·log(n)
 
 aftertext
- Indeed, my benchmark results indicated ckmeans was closer to the much slower O(n²) class than the claimed O(n·log(n)) class.
- code ckmeans
- code O(n·log(n))
-  matchAll
- code O(n²)
+ Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
+ wrapsOn
  caveat slower
-  Much slower for larger N, of course. Also, if you fit the curve you see not quite quadratic behavior, but worse than n log(n). A todo item would be to hone in on the curve it was approaching.
+  Much slower for larger N, of course. Also, if you fit the curve you see not quite quadratic behavior, but worse than n log(n). A todo item would be to hone in on the curve it was approaching, but that did depend on the combination of N and K due to some discrete if branches.
 
 comment
  Wolfram Alpha fits of the runtime data:
@@ -81,9 +78,8 @@ comment
 section A fix!
 
 aftertext
- Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a 3 character fix that sped up our particular case by 20x!
- code [0]
- italics 3 character fix
+ Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
+ wrapsOn
  https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
 
 code
@@ -94,8 +90,13 @@ code
  if (iMax < matrix[0].length - 1) {
 
 aftertext
- He had read through the original ckmeans C++ implementation and found the line above where the C++ version had the <code>[0]</code> but the Javascript port did not. The Javascript version was doing a lot of loops that were effectively no-ops.
+ He had read through the original ckmeans C++ implementation and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
  https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp original ckmeans C++ implementation
+ wrapsOn
+ caveat small
+  k - the number of buckets
+ caveat large
+  (N - the number of data points)
 
 aftertext
  I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, with a particular focus on the loops".
