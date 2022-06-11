@@ -2,22 +2,21 @@ title The Intellectual Freedom Amendment
 date 2021-05-12
 
 aftertext
- This post is written for people who already are "partisans" on the issues of copyrights and patents. Here I am not trying to educate newcomers on the pros of Intellectual Freedom. I am writing to those who are already strong supporters of open source, Sci-Hub, the Internet Archive, and others. To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws could be a root contributor to some of the big problems of our day, like misinformation (or fake news) and inequality, this post is for you.
- https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
- https://archive.org/ Internet Archive
- italics could be
- italics fake news
+ This post is written for people who already are "partisans" on the issues of copyrights and patents. Here I am not trying to educate newcomers on the pros of Intellectual Freedom. I am writing to those who are already strong supporters of open source, @Sci-Hub@, the ##Internet Archive##, and others. To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws _could be_ a root contributor to some of the big problems of our day, like misinformation (or _fake news_) and inequality, this post is for you.
+ wrap @ https://en.wikipedia.org/wiki/Sci-Hub
+ wrap ## https://archive.org/
+ wrapsOn
  dateline
 
 endSnippet
 
 aftertext
- I suggest we rally around a simple long-term vision of passing a new Intellectual Freedom Amendment to the U.S. Constitution. I am not positive that if we abolished copyright and patent systems the world would be a better place. Just as I'm not positive that if we switch to clean energy the world would be a better place. Society is a big complex system, and it would be intellectually dishonest to make such a guarantee. But there are reasons to believe abolishing copyright and patent systems would be a good bet based on low level first principles. In my study of the spread of truth and knowledge it seems like more publishers and remixers leads to improved truthflow, education, stability and prosperity. Other people might come with other arguments and perspectives. But big debate is not being had. The problem is the debate is always held on the Intellectual Monopoly Industry's home turf. So when the debate is on details like what is the ideal length of monopolies, or when illogical terms like "Intellectual Property" are used, you've already conceded too much, and are fighting for local maxima. A stronger and more logical place to  have the debate is upstream of that: debate whether we should have these systems at all. I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
- https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md U.S. Constitution
+ I suggest we rally around a simple long-term vision of passing a new Intellectual Freedom Amendment to the @U.S. Constitution@. I am not positive that if we abolished copyright and patent systems the world would be a better place. Just as I'm not positive that if we switch to clean energy the world would be a better place. Society is a big complex system, and it would be intellectually dishonest to make such a guarantee. But there are reasons to believe abolishing copyright and patent systems would be a good bet based on low level first principles. In my study of the spread of truth and knowledge it seems like more publishers and remixers leads to improved truthflow, education, stability and prosperity. Other people might come with other arguments and perspectives. But big debate is not being had. The problem is the debate is always held on the Intellectual Monopoly Industry's home turf. So when the debate is on details like what is the ideal length of monopolies, or when illogical terms like "Intellectual Property" are used, you've already conceded too much, and are fighting for local maxima. A stronger and more logical place to  have the debate is upstream of that: debate whether we should have these systems at all. I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
+ wrap @ https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md
 
 aftertext
- Let's say my hunch is wrong, and that momentum for an Amendment grows, and then in some trial regional experiment it turns out to be a bad idea, society would likely still benefit because the Intellectual Monopoly Industry would have to play defense for once, as opposed to constantly pushing for (and winning) extensions of monopolies.  The best defense is a good offense. It's an adage, but there's usually some truth to adages.
- italics The best defense is a good offense.
+ Let's say my hunch is wrong, and that momentum for an Amendment grows, and then in some trial regional experiment it turns out to be a bad idea, society would likely still benefit because the Intellectual Monopoly Industry would have to play defense for once, as opposed to constantly pushing for (and winning) extensions of monopolies. _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
+ wrapsOn
 
 comment
  Of course, my personal hunch is that Intellectual Freedom is a good idea and the movement would gain steam.
@@ -33,5 +32,5 @@ quote
 
 aftertext
  I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
- I also started a 👉👉 Subreddit 👈👈.
- https://www.reddit.com/r/ifa/ Subreddit
+ I also started a 👉👉 @Subreddit@ 👈👈.
+ wrap @ https://www.reddit.com/r/ifa/

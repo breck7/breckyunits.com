@@ -19,8 +19,8 @@ image map-view.png
 section k-means was the culprit
 
 aftertext
- To color our map charts an engineer on our team utilized a very effective technique called k-means clustering, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow. Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
- https://en.wikipedia.org/wiki/K-means_clustering k-means clustering
+ To color our map charts an engineer on our team utilized a very effective technique called @k-means clustering@, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow. Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
+ wrap @ https://en.wikipedia.org/wiki/K-means_clustering
  caveat map charts
   The industry term for this kind of chart is Choropleth map. See https://en.wikipedia.org/wiki/Choropleth_map
 
@@ -29,17 +29,17 @@ endSnippet
 section Benchmarking ckmeans
 
 aftertext
- We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package Simple Statistics. 
+ We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package @Simple Statistics@.
  https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js ckmeans
- https://github.com/simple-statistics/simple-statistics Simple Statistics
+ wrap @ https://github.com/simple-statistics/simple-statistics
  wrapsOn
 
 aftertext
  My first naive thought was that I could just quickly write a better k-means function. It didn't take long to realize that was a non-trivial problem and should be a last resort.
 
 aftertext
- My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a 2011 paper and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
- https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf 2011 paper
+ My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a @2011 paper@ and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
+ wrap @ https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf
  wrapsOn
  caveat O(nlog(n))
   To be precise O(knlog(n)) time, where k is the number of groups. But I've simplified for this story as that detail is not important.
@@ -69,8 +69,8 @@ commaTable
 section Opening an issue
 
 aftertext
- After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
- https://github.com/simple-statistics/simple-statistics/issues/520 issue
+ After triple checking my logic, I created an @issue@ on the Simple Statistics repo with my benchmark script.
+ wrap @ https://github.com/simple-statistics/simple-statistics/issues/520
 
 comment
  Sidenote: I was a bit anxious, as I always am when opening an issue on someone else's project, because often I then learn that I made some dumb error on my side.
@@ -78,9 +78,9 @@ comment
 section A fix!
 
 aftertext
- Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
+ Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and @found a fix@. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
  wrapsOn
- https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
+ wrap @ https://github.com/simple-statistics/simple-statistics/pull/521
 
 code
  Before:
@@ -90,8 +90,8 @@ code
  if (iMax < matrix[0].length - 1) {
 
 aftertext
- He had read through the original ckmeans C++ implementation and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
- https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp original ckmeans C++ implementation
+ He had read through the @original ckmeans C++ implementation@ and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
+ wrap @ https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp
  wrapsOn
  caveat small
   k - the number of buckets
@@ -111,8 +111,8 @@ code
 section Merged
 
 aftertext
- Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
- https://github.com/tmcw creator
+ Very shortly after he submitted the fix, the @creator@ of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
+ wrap @ https://github.com/tmcw
 
 section Thanks!
 
