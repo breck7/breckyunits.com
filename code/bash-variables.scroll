@@ -10,8 +10,9 @@ code
 
 section Variable scope
 
-paragraph
+aftertext
  A shell script will launch a new shell that has a fresh scope.
+ dateline
 
 code
  $ FIVE = 5

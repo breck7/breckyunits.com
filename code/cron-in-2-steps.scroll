@@ -2,8 +2,9 @@ title cron in 2 steps
 date 2009-11-25
 permalink cron-in-2-steps
 
-paragraph
+aftertext
  cron lets you schedule linux commands to execute on a regular basis.
+ dateline
 
 paragraph
  For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.

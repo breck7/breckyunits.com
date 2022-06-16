@@ -2,8 +2,9 @@ title Forward a port on a remote server to your local machine with an SSH Revers
 date 2011-0-4
 permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel
 
-paragraph
+aftertext
  Say you are running a web server locally and want to show it to someone else remotely.
+ dateline
 
 paragraph
  You have a few ways to do this:

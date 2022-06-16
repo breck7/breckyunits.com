@@ -2,8 +2,9 @@ title Use scp to download a file from a server
 date 2010-0-21
 permalink use-scp-to-download-a-file-from-a-server
 
-paragraph
+aftertext
  You can easily grab a file off a server from the command line using secure copy:
+ dateline
 
 code
  scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt

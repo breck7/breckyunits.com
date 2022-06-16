@@ -2,8 +2,9 @@ title PHPUnit Filter Option
 date 2010-8-10
 permalink phpunit-filter-option
 
-paragraph
+aftertext
  Say you are running PHPUnit from the command line and want to run just a specific test as opposed to a whole class of tests.
+ dateline
 
 paragraph
  For example, say you have a tests.php file that contains a FileWriter_Test_Class with a test method named testFileWriter that you want to run.

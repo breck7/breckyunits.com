@@ -2,8 +2,9 @@ title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 date 2011-7-3
 permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping
 
-paragraph
+aftertext
  I want my HAML files to have PHP(or Ruby) syntax highlighting. 
+ dateline
 
 paragraph
  Settings > Style Configurator

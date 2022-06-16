@@ -2,8 +2,9 @@ title Windows 7 Hosts File
 date 2010-8-14
 permalink windows-7-hosts-file
 
-paragraph
+aftertext
  The file is located at:
+ dateline
 
 code
  windows/system32/drivers/etc/host

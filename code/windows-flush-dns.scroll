@@ -2,8 +2,9 @@ title Windows Flush DNS
 date 2010-6-30
 permalink windows-flush-dns
 
-paragraph
+aftertext
  Open cmd.exe. Run:
+ dateline
 
 code
  ipconfig /flushdns

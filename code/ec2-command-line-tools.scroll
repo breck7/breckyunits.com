@@ -2,8 +2,9 @@ title EC2 Command Line Tools
 date 2011-8-13
 permalink ec2-command-line-tools
 
-paragraph
+aftertext
  Step 1. Download them. http://aws.amazon.com/developertools/351
+ dateline
 
 paragraph
  Step 2. Set Java path in your .bash_profile:

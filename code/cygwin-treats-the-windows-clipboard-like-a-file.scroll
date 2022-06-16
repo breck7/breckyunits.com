@@ -2,8 +2,9 @@ title Cygwin treats the Windows Clipboard like a file
 date 2010-0-30
 permalink cygwin-treats-the-windows-clipboard-like-a-file
 
-paragraph
+aftertext
  In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
+ dateline
 
 paragraph
  Want to copy the current cygwin directory into your clipboard?

@@ -2,8 +2,9 @@ title List only directories using ls
 date 2010-0-13
 permalink list-only-directories-using-ls
 
-paragraph
+aftertext
  the "ls" command lists all files and directories. What if you just wanted to list the directories?
+ dateline
 
 code
  ls -l | egrep '^d'

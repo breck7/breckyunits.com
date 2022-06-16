@@ -2,8 +2,9 @@ title Git Ignore Global
 date 2012-01-04
 permalink git-ignore-global
 
-paragraph
+aftertext
  Create a global .gitignore file to ignore common pains:
+ dateline
 
 code
  vim ~/.gitignore_global

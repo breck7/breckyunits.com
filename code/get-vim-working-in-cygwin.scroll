@@ -2,8 +2,9 @@ title Get VIM Working in Cygwin
 date 2009-11-20
 permalink get-vim-working-in-cygwin
 
-paragraph
+aftertext
  I had trouble getting VIM behaving as expected under Cygwin. Specifically, the backspace and arrow keys were behaving badly in insert mode.
+ dateline
 
 paragraph
  The solution was dead simple. In your root directory just run:

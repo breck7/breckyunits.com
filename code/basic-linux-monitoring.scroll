@@ -2,8 +2,9 @@ title Basic Linux Monitoring
 date 2011-7-9
 permalink basic-linux-monitoring
 
-paragraph
+aftertext
  Show memory usage:
+ dateline
 
 code
  free -m

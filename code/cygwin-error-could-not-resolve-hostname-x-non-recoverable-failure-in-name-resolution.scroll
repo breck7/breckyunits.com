@@ -2,8 +2,9 @@ title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in nam
 date 2010-2-21
 permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution
 
-paragraph
+aftertext
  I've been getting this error a lot in Cygwin on Windows 7:
+ dateline
 
 code
  Could not resolve hostname X: Non-recoverable failure in name resolution

@@ -2,8 +2,9 @@ title Fix permission problems using chmod
 date 2009-11-25
 permalink fix-permission-problems-using-chmod
 
-paragraph
+aftertext
  Permission problems driving you crazy? Here's a common command to fix them:
+ dateline
 
 code
  chmod -R 755 directoryname

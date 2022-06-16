@@ -1,8 +1,9 @@
 title Git Clone over SSH
 date 07/08/2021
 
-paragraph
+aftertext
  Using Git with your own servers—without a hub like GitHub or GitLab—is easy. This is the straightforward, quick and dirty way with no new concepts to learn. There are more advanced ways (like -bare), but I find 4 times out of 5 I just need a quick way to sync repos between machines.
+ dateline
 
 section Cloning from your server to your local machine
 

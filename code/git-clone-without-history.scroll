@@ -2,8 +2,9 @@ title git clone without history
 date 2010-0-11
 permalink git-clone-without-history
 
-paragraph
+aftertext
  If you're using a library from git in another project, you may want to download it without the history. Here's how:
+ dateline
 
 code
  git clone --depth 1 your_repo_url

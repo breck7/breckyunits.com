@@ -2,8 +2,9 @@ title New shortcuts
 date 2011-8-14
 permalink new-shortcuts
 
-paragraph
+aftertext
  Gmail:
+ dateline
 
 code
  gi - go to inbox

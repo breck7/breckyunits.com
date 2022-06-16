@@ -2,8 +2,9 @@ title Bash History
 date 2011-7-17
 permalink bash-history
 
-paragraph
+aftertext
  Understanding and mastering bash history can:
+ dateline
 
 orderedList
  1. Save you a lot of time, keystrokes, and errors.

@@ -2,8 +2,9 @@ title vim macros
 date 2010-3-9
 permalink vim-macros
 
-paragraph
+aftertext
  Let's say you want to add comments to your php functions following the conventional format:
+ dateline
 
 code
  /**

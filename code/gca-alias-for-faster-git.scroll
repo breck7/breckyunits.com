@@ -2,8 +2,9 @@ title gca alias for faster git
 date 2010-3-10
 permalink gca-alias-for-faster-git
 
-paragraph
+aftertext
  One of my most frequent commands is:
+ dateline
 
 code
  git commit -am "message"

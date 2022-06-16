@@ -2,8 +2,9 @@ title Dump MySQL schema only
 date 2010-3-10
 permalink dump-mysql-schema-only
 
-paragraph
+aftertext
  I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
+ dateline
 
 code
  mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql

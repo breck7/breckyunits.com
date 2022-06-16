@@ -2,8 +2,9 @@ title Quickly Set up a Web Proxy Server
 date 2011-3-13
 permalink quickly-set-up-a-web-proxy-server
 
-paragraph
+aftertext
  Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
+ dateline
 
 paragraph
  Here's a great article🔗articles.slicehost.com/2009/1/6/ssh-socks-proxy that shows how.

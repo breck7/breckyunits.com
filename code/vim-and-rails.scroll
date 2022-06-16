@@ -2,8 +2,10 @@ title VIM and Rails
 date 2010-8-13
 permalink vim-and-rails
 
-paragraph
- Check out this guide🔗biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide.
+aftertext
+ Check out this guide.
+ link https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide guide
+ dateline
 
 code
  filetype on  " Automatically detect file types.

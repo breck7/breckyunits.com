@@ -2,8 +2,10 @@ title Rubyful Soup
 date 2010-8-14
 permalink rubyful-soup
 
-paragraph
- I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port🔗www.crummy.com/software/RubyfulSoup. Sadly it's no longer being maintained.
+aftertext
+ I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port. Sadly it's no longer being maintained.
+ link https://www.crummy.com/software/RubyfulSoup port
+ dateline
 
 paragraph
  To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:

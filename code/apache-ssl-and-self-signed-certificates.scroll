@@ -2,8 +2,9 @@ title Apache, SSL and self signed certificates
 date 2011-8-14
 permalink apache-ssl-and-self-signed-certificates
 
-paragraph
+aftertext
  Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
+ dateline
 
 paragraph
  Here's what it boils down to:

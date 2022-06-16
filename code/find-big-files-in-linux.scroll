@@ -2,8 +2,9 @@ title Find big files in Linux
 date 2011-10-06
 permalink find-big-files-in-linux
 
-paragraph
+aftertext
  <i>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</i>
+ dateline
 
 paragraph
  How to find files larger than a certain size:

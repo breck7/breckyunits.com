@@ -18,8 +18,9 @@ code
  sudo su root
  dd if=/path/to/new.img of=/dev/rDISKNUMBER bs=1m
 
-paragraph
+aftertext
  Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
+ dateline
 
 paragraph
  Back in Disk Utility, unmount/eject the disk.

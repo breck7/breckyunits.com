@@ -2,8 +2,9 @@ title More tips on using rsync to deploy your website
 date 2010-2-3
 permalink more-tips-on-using-rsync-to-deploy-your-website
 
-paragraph
+aftertext
  My post on <a href="http://breckyunits.com/code/use_rsync_to_deploy_your_website">deploying a website using rsync</a> has gotten quite a few hits.
+ dateline
 
 paragraph
  I thought I'd add some more tips:

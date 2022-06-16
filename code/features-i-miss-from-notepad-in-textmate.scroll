@@ -2,8 +2,9 @@ title Features I Miss from Notepad++ in Textmate
 date 2010-10-16
 permalink features-i-miss-from-notepad-in-textmate
 
-paragraph
+aftertext
  Here are a few things I really miss from Notepad++:
+ dateline
 
 list
  - When you doubleclick a word in Notepad++, all occurrences of that word are highlighted in green. 

@@ -2,8 +2,9 @@ title Apache Conf and Htaccess Examples
 date 2011-6-30
 permalink apache-conf-and-htaccess-examples
 
-paragraph
+aftertext
  Configuring Apache can be a pain. I'm going to try and collect links to great resources. The official docs are good, but they really need to add commenting so people can expand upon the resources available.
+ dateline
 
 paragraph
  <a href="http://www.evolt.org/ultimate_htaccess_examples">http://www.evolt.org/ultimate_htaccess_examples</a>

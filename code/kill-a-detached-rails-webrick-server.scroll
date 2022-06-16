@@ -2,8 +2,9 @@ title Kill a Detached Rails Webrick Server
 date 2010-8-9
 permalink kill-a-detached-rails-webrick-server
 
-paragraph
+aftertext
  From your rails app's root:
+ dateline
 
 code
  cat tmp/pids/server.pid

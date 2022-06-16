@@ -2,8 +2,10 @@ title Use sed to find and replace
 date 2010-0-20
 permalink use-sed-to-find-and-replace
 
-paragraph
- grep🔗./use-grep-to-search-multiple-files-at-once.html is to find what sed is to replace.
+aftertext
+ grep is to find what sed is to replace.
+ link use-grep-to-search-multiple-files-at-once.html grep
+ dateline
 
 paragraph
  Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".

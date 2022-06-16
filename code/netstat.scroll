@@ -2,8 +2,9 @@ title netstat
 date 2011-8-1
 permalink netstat
 
-paragraph
+aftertext
  Every wonder what's listening on what ports?
+ dateline
 
 code
  netstat -lp

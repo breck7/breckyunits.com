@@ -8,8 +8,9 @@ chat
  If *every single great programmer* uses version control, why do some beginning programmers avoid it?
  Because version control is made to seem intimidating. But version control is actually very easy!
 
-paragraph
+aftertext
  If you are new to version control, there are only 5 commands you need to memorize. Can you memorize 5 words? Of course you can.
+ dateline
 
 paragraph
  So memorize these 5 words and you'll be practically an expert at version control:

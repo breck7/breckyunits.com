@@ -2,8 +2,9 @@ title Create a new user in Linux
 date 2010-0-5
 permalink create-a-new-user-in-linux
 
-paragraph
+aftertext
  Creating a new user in Linux is dead simple.
+ dateline
 
 code
  useradd bob

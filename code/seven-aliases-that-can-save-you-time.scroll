@@ -2,8 +2,9 @@ title Seven aliases that can save you time
 date 2010-0-13
 permalink seven-aliases-that-can-save-you-time
 
-paragraph
+aftertext
  Add these to your .bash_profile to speed up common tasks:
+ dateline
 
 code
  alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
