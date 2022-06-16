@@ -48,3 +48,5 @@ code
  SSLEngine on
  SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
+
+maxColumns 1
