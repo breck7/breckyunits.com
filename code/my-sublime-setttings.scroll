@@ -1,0 +1,14 @@
+title My Sublime Settings
+date 2022-6-21
+
+aftertext
+ dateline
+ I'm going to start sticking my Sublime Text settings and plugins here.
+
+code
+ "goto_anything_exclude_gitignore": true,
+
+aftertext
+ This setting is new in ST4. Set it to true and any file that matches your `.gitignore` patterns will not show up in ST's autocomplete, navigation, et cetera. Found this one on StackOverflow.
+ https://stackoverflow.com/questions/18482976/tell-sublime-text-to-ignore-everything-in-gitignore StackOverflow
+
