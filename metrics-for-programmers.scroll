@@ -6,6 +6,7 @@ aftertext
  dateline
 
 endSnippet
+keyboardNav
 
 paragraph
  I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.

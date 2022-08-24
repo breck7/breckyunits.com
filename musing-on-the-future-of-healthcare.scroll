@@ -6,6 +6,7 @@ aftertext
  dateline
 
 endSnippet
+keyboardNav
 
 paragraph
  These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.

@@ -10,6 +10,7 @@ quote
  When building applications, distinguish methods that will be called by the user.
 
 endSnippet
+keyboardNav
 
 section The Missing Access Modifier
 

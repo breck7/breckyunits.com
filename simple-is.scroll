@@ -8,6 +8,7 @@ aftertext
  code chmod -R 755 some_dir
 
 endSnippet
+keyboardNav
 
 paragraph
  <b>Understandable but not misleading</b>. "Computing all boils down to ones and zeros" is understandable and not misleading. "Milk: it does a body good", is understandable but misleading.
