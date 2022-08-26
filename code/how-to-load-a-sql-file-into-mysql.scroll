@@ -1,5 +1,8 @@
 title How to load a sql file into MySql
 date 2010-1-6
+import settings.scroll
+groups index
+keyboardNav
 permalink how-to-load-a-sql-file-into-mysql.html
 
 aftertext

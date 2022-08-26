@@ -1,5 +1,8 @@
 title Run multiple commands at once
 date 2010-0-26
+import settings.scroll
+groups index
+keyboardNav
 permalink run-multiple-commands-at-once.html
 
 aftertext

@@ -1,5 +1,8 @@
 title Bash variables
 date 2010-0-18
+import settings.scroll
+groups index
+keyboardNav
 permalink bash-variables.html
 
 code

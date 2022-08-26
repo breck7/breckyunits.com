@@ -1,5 +1,8 @@
 title Apache Conf and Htaccess Examples
 date 2011-6-30
+import settings.scroll
+groups index
+keyboardNav
 permalink apache-conf-and-htaccess-examples.html
 
 aftertext

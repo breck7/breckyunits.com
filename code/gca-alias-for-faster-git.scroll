@@ -1,5 +1,8 @@
 title gca alias for faster git
 date 2010-3-10
+import settings.scroll
+groups index
+keyboardNav
 permalink gca-alias-for-faster-git.html
 
 aftertext

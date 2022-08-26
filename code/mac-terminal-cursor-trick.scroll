@@ -1,5 +1,8 @@
 title Mac Terminal Cursor Trick
 date 2011-7-3
+import settings.scroll
+groups index
+keyboardNav
 permalink mac-terminal-cursor-trick.html
 
 aftertext

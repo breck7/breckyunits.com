@@ -1,5 +1,8 @@
 title Seven aliases that can save you time
 date 2010-0-13
+import settings.scroll
+groups index
+keyboardNav
 permalink seven-aliases-that-can-save-you-time.html
 
 aftertext

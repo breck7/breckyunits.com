@@ -1,5 +1,8 @@
 title Windows Flush DNS
 date 2010-6-30
+import settings.scroll
+groups index
+keyboardNav
 permalink windows-flush-dns.html
 
 aftertext

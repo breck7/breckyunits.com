@@ -1,5 +1,8 @@
 title Bash History
 date 2011-7-17
+import settings.scroll
+groups index
+keyboardNav
 permalink bash-history.html
 
 aftertext

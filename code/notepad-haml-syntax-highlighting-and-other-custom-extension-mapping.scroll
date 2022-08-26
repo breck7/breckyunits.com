@@ -1,5 +1,8 @@
 title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 date 2011-7-3
+import settings.scroll
+groups index
+keyboardNav
 permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
 
 aftertext

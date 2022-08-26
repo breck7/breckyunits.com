@@ -1,5 +1,8 @@
 title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 date 2010-2-21
+import settings.scroll
+groups index
+keyboardNav
 permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
 
 aftertext

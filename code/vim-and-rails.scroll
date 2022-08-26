@@ -1,5 +1,8 @@
 title VIM and Rails
 date 2010-8-13
+import settings.scroll
+groups index
+keyboardNav
 permalink vim-and-rails.html
 
 aftertext

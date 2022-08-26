@@ -1,5 +1,8 @@
 title Use sed to find and replace
 date 2010-0-20
+import settings.scroll
+groups index
+keyboardNav
 permalink use-sed-to-find-and-replace.html
 
 aftertext

@@ -1,5 +1,8 @@
 title Use rsync to deploy your website
 date 2009-11-21
+import settings.scroll
+groups index
+keyboardNav
 permalink use-rsync-to-deploy-your-website.html
 
 aftertext

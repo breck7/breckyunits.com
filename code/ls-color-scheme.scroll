@@ -1,5 +1,8 @@
 title ls color scheme
 date 2010-3-10
+import settings.scroll
+groups index
+keyboardNav
 permalink ls-color-scheme.html
 
 aftertext

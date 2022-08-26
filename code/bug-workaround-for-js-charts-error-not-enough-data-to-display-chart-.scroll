@@ -1,5 +1,8 @@
 title Bug Workaround for JS Charts Error: Not enough data to display chart 
 date 2010-1-16
+import settings.scroll
+groups index
+keyboardNav
 permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
 
 code

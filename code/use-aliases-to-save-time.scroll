@@ -1,5 +1,8 @@
 title Use aliases to save time
 date 2009-11-28
+import settings.scroll
+groups index
+keyboardNav
 permalink use-aliases-to-save-time.html
 
 aftertext

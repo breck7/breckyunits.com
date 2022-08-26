@@ -1,5 +1,8 @@
 title Recursive ls
 date 2010-3-10
+import settings.scroll
+groups index
+keyboardNav
 permalink recursive-ls.html
 
 aftertext

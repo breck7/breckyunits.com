@@ -1,5 +1,8 @@
 title Unix date command
 date 2010-01-19
+import settings.scroll
+groups index
+keyboardNav
 permalink unix-date-command.html
 
 aftertext

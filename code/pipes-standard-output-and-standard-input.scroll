@@ -1,5 +1,8 @@
 title Pipes, standard output and standard input
 date 2010-0-26
+import settings.scroll
+groups index
+keyboardNav
 permalink pipes-standard-output-and-standard-input.html
 
 aftertext

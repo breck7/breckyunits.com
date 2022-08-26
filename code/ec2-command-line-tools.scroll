@@ -1,5 +1,8 @@
 title EC2 Command Line Tools
 date 2011-8-13
+import settings.scroll
+groups index
+keyboardNav
 permalink ec2-command-line-tools.html
 
 aftertext

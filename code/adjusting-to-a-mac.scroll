@@ -1,5 +1,8 @@
 title Adjusting to a Mac
 date 2010-10-2
+import settings.scroll
+groups index
+keyboardNav
 permalink adjusting-to-a-mac.html
 
 aftertext

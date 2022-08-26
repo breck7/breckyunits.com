@@ -1,5 +1,8 @@
 title vim macros
 date 2010-3-9
+import settings.scroll
+groups index
+keyboardNav
 permalink vim-macros.html
 
 aftertext

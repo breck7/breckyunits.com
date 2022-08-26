@@ -1,5 +1,8 @@
 title Cygwin SSH Client Keep Alive
 date 2010-8-6
+import settings.scroll
+groups index
+keyboardNav
 permalink cygwin-ssh-client-keep-alive.html
 
 aftertext

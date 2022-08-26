@@ -1,5 +1,8 @@
 title My Programming Setup
 date 2011-5-30
+import settings.scroll
+groups index
+keyboardNav
 permalink my-programming-setup.html
 
 aftertext

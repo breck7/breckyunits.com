@@ -1,5 +1,8 @@
 title Learn Symbolic Links in 30 seconds
 date 2010-0-5
+import settings.scroll
+groups index
+keyboardNav
 permalink learn-symbolic-links-in-30-seconds.html
 
 aftertext

@@ -1,5 +1,8 @@
 title More tips on using rsync to deploy your website
 date 2010-2-3
+import settings.scroll
+groups index
+keyboardNav
 permalink more-tips-on-using-rsync-to-deploy-your-website.html
 
 aftertext

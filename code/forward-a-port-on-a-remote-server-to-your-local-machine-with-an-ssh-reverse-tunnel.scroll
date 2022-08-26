@@ -1,5 +1,8 @@
 title Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
 date 2011-0-4
+import settings.scroll
+groups index
+keyboardNav
 permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
 
 aftertext
