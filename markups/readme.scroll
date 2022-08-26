@@ -9,9 +9,9 @@ viewSourceUrl https://github.com/breck7/breckyunits.com/tree/main/markups/readme
 scrollHeader
 scrollFooter
 
-define TreeNotationLinked <a href="https://treenotation.org">Tree Notation</a>
-define ScrollLinked <a href="https://scroll.pub">Scroll</a>
-define GrammarLinked <a href="https://jtree.treenotation.org/designer/#standard%20grammar">Grammar</a>
+replace TreeNotationLinked <a href="https://treenotation.org">Tree Notation</a>
+replace ScrollLinked <a href="https://scroll.pub">Scroll</a>
+replace GrammarLinked <a href="https://jtree.treenotation.org/designer/#standard%20grammar">Grammar</a>
 
 paragraph
  ScrollLinked is a new language and static site generator that is mostly written in a new language called GrammarLinked which are both built on a new syntax called TreeNotationLinked.
