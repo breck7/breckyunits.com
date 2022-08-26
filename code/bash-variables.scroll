@@ -1,6 +1,6 @@
 title Bash variables
 date 2010-0-18
-permalink bash-variables
+permalink bash-variables.html
 
 code
  $ FIVE=5

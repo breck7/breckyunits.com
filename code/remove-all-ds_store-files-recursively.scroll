@@ -1,6 +1,6 @@
 title Remove all DS_Store files recursively
 date 2010-9-29
-permalink remove-all-ds_store-files-recursively
+permalink remove-all-ds_store-files-recursively.html
 
 code
  find . -type f -name ".DS_Store" -exec rm {} \;

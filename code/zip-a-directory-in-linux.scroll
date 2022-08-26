@@ -1,6 +1,6 @@
 title zip a directory in linux
 date 2011-8-9
-permalink zip-a-directory-in-linux
+permalink zip-a-directory-in-linux.html
 
 code
  zip -r backup mydir/

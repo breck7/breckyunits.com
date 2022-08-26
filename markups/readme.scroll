@@ -1,13 +1,30 @@
-title Indented Heredocs Demo: Markdown, Textile, and BBCode in one file with no escaping
+title The Power of Indented Heredocs: Markdown, Textile, and BBCode in one file with no escaping
+import markups.scroll
 date 08-23-2021
+maxColumns 1
+columnWidth 60
+permalink index.html
+viewSourceUrl https://github.com/breck7/breckyunits.com/tree/main/markups/readme.scroll
+scrollHeader
+scrollFooter
+
+define TreeNotationLinked <a href="https://treenotation.org">Tree Notation</a>
+define ScrollLinked <a href="https://scroll.pub">Scroll</a>
+define GrammarLinked <a href="https://jtree.treenotation.org/designer/#standard%20grammar">Grammar</a>
 
 paragraph
- TreeNotation🔗treenotation.org is a great glue notation for combining multiple languages into one file. On this demo page, I've extended the Scroll🔗scroll.pub grammar to include nodes for Markdown🔗en.wikipedia.org/wiki/Markdown, Textile🔗en.wikipedia.org/wiki/Textile_(markup_language), and BBCode🔗en.wikipedia.org/wiki/BBCode. (As well as a nifty special keyword as a bonus treat for readers who check out the source🔗github.com/breck7/breckyunits.com/tree/main/markups )
+ ScrollLinked is a new language and static site generator that is mostly written in a new language called GrammarLinked which are both built on a new syntax called TreeNotationLinked.
+
+paragraph
+ In this demo, I extend Scroll by adding support for Markdown🔗en.wikipedia.org/wiki/Markdown, Textile🔗en.wikipedia.org/wiki/Textile_(markup_language), and BBCode🔗en.wikipedia.org/wiki/BBCode.
+
+paragraph
+ My code is still a bit researchy and buggy, but I think the more important thing here is to demo how simple and powerful indented heredocs are. They allow you to compose many languages in a clean and scalable way. You don't need escaping. I think this is a very helpful pattern you can use in your own languages and code.
 
 section Indented Heredocs
 
 paragraph
- One way to think of it is that TreeNotation discovered indented HereDocs🔗en.wikipedia.org/wiki/Here_document. A single indent down your block is all you need, no end delimiters or encoding necessary. It takes a little getting used to (can be much better as tooling ecosystem improves), but I thoroughly enjoy it already and am surprised this simple trick was overlooked for so long.
+ A simple but largely accurate description of Tree Notation is that it is indented HereDocs🔗en.wikipedia.org/wiki/Here_document. A single indent down your block is all you need, no end delimiters or encoding necessary. It takes a little getting used to (it keeps improving as the Tree Notation tooling ecosystem improves), but I thoroughly enjoy it already and am surprised this simple trick was overlooked for so long.
 
 section Quick Example
 
@@ -161,8 +178,4 @@ bbCode
   [*]Entry B
  [/list]
 
-maxColumns 1
-columnWidth 60
-header
-footer
-permalink index
+

@@ -1,6 +1,6 @@
 title Use the linux find command to find files
 date 2009-11-25
-permalink use-the-linux-find-command-to-find-files
+permalink use-the-linux-find-command-to-find-files.html
 
 aftertext
  Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:

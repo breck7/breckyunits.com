@@ -1,6 +1,6 @@
 title About this Blog
 date 2009-11-18
-permalink about-this-blog
+permalink about-this-blog.html
 
 aftertext
  I constantly want to share little coding tidbits, snippets, or stories on how to solve specific little coding problems. Instead of clogging up the <a href="/">main blog</a> with these shorter, more specific technical posts, I decided to launch a second blog.

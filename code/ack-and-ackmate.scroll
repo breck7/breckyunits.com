@@ -1,6 +1,6 @@
 title ack and ackmate
 date 2011-8-26
-permalink ack-and-ackmate
+permalink ack-and-ackmate.html
 
 aftertext
  So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.

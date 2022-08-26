@@ -1,6 +1,6 @@
 title Use rsync to deploy your website
 date 2009-11-21
-permalink use-rsync-to-deploy-your-website
+permalink use-rsync-to-deploy-your-website.html
 
 aftertext
  rsync is a nifty little tool that can deploy a website to a testing or production server.

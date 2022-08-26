@@ -1,6 +1,6 @@
 title Recursive Sed
 date 2011-8-5
-permalink recursive-sed
+permalink recursive-sed.html
 
 aftertext
  As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:

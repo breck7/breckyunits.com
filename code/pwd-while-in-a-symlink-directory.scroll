@@ -1,6 +1,6 @@
 title pwd while in a symlink directory
 date 2010-3-1
-permalink pwd-while-in-a-symlink-directory
+permalink pwd-while-in-a-symlink-directory.html
 
 aftertext
  to get the actual directory, run:

@@ -1,6 +1,6 @@
 title Use grep to search multiple files at once
 date 2009-11-22
-permalink use-grep-to-search-multiple-files-at-once
+permalink use-grep-to-search-multiple-files-at-once.html
 
 aftertext
  grep lets you search through multiple text files at once.

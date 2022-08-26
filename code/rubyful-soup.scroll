@@ -1,6 +1,6 @@
 title Rubyful Soup
 date 2010-8-14
-permalink rubyful-soup
+permalink rubyful-soup.html
 
 aftertext
  I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port. Sadly it's no longer being maintained.

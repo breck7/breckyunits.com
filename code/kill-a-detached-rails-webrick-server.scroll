@@ -1,6 +1,6 @@
 title Kill a Detached Rails Webrick Server
 date 2010-8-9
-permalink kill-a-detached-rails-webrick-server
+permalink kill-a-detached-rails-webrick-server.html
 
 aftertext
  From your rails app's root:

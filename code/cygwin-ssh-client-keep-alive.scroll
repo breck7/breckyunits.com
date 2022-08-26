@@ -1,6 +1,6 @@
 title Cygwin SSH Client Keep Alive
 date 2010-8-6
-permalink cygwin-ssh-client-keep-alive
+permalink cygwin-ssh-client-keep-alive.html
 
 aftertext
  Add this to your /etc/defaults/etc/ssh_config file to prevent SSH servers from disconnecting you after inactivity:

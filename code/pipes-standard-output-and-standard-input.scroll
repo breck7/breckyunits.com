@@ -1,6 +1,6 @@
 title Pipes, standard output and standard input
 date 2010-0-26
-permalink pipes-standard-output-and-standard-input
+permalink pipes-standard-output-and-standard-input.html
 
 aftertext
  In linux, standard input refers to the stream of bits that come from your keyboard.

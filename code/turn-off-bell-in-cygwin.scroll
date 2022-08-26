@@ -1,6 +1,6 @@
 title Turn off bell in cygwin
 date 2010-0-11
-permalink turn-off-bell-in-cygwin
+permalink turn-off-bell-in-cygwin.html
 
 aftertext
  The beep on tab completion in cygwin can be annoying. Here's how to turn it off:

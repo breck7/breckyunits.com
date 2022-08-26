@@ -1,6 +1,6 @@
 title Use git to get the latest source code only
 date 2009-11-27
-permalink use-git-to-get-the-latest-source-code-only
+permalink use-git-to-get-the-latest-source-code-only.html
 
 aftertext
  Say you want to get just the source code of a git repository without all the history(without the ".git" directory). Use this:

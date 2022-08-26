@@ -1,6 +1,6 @@
 title Execute commands on remote server via ssh
 date 2011-11-07
-permalink execute-commands-on-remote-server-via-ssh
+permalink execute-commands-on-remote-server-via-ssh.html
 
 aftertext
  Ever want to non interactively execute commands on a remote server?

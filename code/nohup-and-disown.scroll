@@ -1,6 +1,6 @@
 title nohup and disown
 date 2011-8-22
-permalink nohup-and-disown
+permalink nohup-and-disown.html
 
 aftertext
  Just read a good guide on how to keep commands running when you exit ssh:

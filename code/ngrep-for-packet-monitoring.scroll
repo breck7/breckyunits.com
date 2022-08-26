@@ -1,6 +1,6 @@
 title ngrep for packet monitoring
 date 2011-7-13
-permalink ngrep-for-packet-monitoring
+permalink ngrep-for-packet-monitoring.html
 
 aftertext
  I just came across a neat command line tool, ngrep, via this <a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">site</a>.

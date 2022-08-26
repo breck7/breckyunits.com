@@ -1,6 +1,6 @@
 title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 date 2011-7-3
-permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping
+permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
 
 aftertext
  I want my HAML files to have PHP(or Ruby) syntax highlighting. 

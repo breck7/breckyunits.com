@@ -1,16 +1,19 @@
+importOnly
 markupLineNode
  catchAllCellType anyCell
  catchAllNodeType markupLineNode
-abstractMarkupNode
+abstractMarkupLangNode
  extends abstractScrollNode
  catchAllNodeType markupLineNode
  javascript
   compile() {
-   return `${this.compiler(this.childrenToString())}`
+   return this.compiler(this.childrenToString())
   }
   get compiler() {
     try {
-      return require(this.globalPath + '/' + this.packageName)
+      const path = require("path")
+      const compiler = require(path.join(this.globalPath, this.packageName))
+      return this.importName ? compiler[this.importName] : compiler
     } catch (err) {
       console.error(`❌ ${this.getWord(0)} skipped. Try "npm install -g ${this.packageName}"`)
       return str => str
@@ -23,28 +26,22 @@ abstractMarkupNode
 markdownNode
  description If npm package `marked` is installed globally will compile markdown.
  crux markdown
- extends abstractMarkupNode
+ extends abstractMarkupLangNode
  javascript
   packageName = "marked"
+  importName = "marked"
 textileNode
  description If npm package `textile-js` is installed globally will compile textile.
  crux textile
- extends abstractMarkupNode
+ extends abstractMarkupLangNode
  javascript
   packageName = "textile-js"
 bbCodeNode
  description If npm package `ya-bbcode` is installed globally will compile BBcode.
  crux bbCode
- extends abstractMarkupNode
+ extends abstractMarkupLangNode
  javascript
   packageName = "ya-bbcode"
   compile() {
-   return `${new this.compiler().parse(this.childrenToString())}`
-  }
-belowAsCodeNode
- extends abstractScrollNode
- crux belowAsCode
- javascript
-  compile() {
-   return `<code class="scrollCodeBlockComponent">${this.getNext().childrenToString().replace(/\</g, "&lt;")}</code>`
+   return new this.compiler().parse(this.childrenToString())
   }

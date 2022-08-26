@@ -1,0 +1,8 @@
+importOnly
+siteTitle Programming Notes to Self
+siteDescription Helpful one liners, and more, that I may need later
+github https://github.com/breck7/breckyunits.com
+twitter https://twitter.com/breckyunits
+baseUrl https://breckyunits.com/code/
+viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/code
+email breck7@gmail.com

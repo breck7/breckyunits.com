@@ -1,6 +1,6 @@
 title Case sensitivity in MySQL table names and lower_case_table_names
 date 2010-2-27
-permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names
+permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html
 
 aftertext
  On linux, filenames and directories are case sensitive. <code>file</code> and <code>File</code> are different files.

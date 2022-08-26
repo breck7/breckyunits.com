@@ -1,6 +1,6 @@
 title cron in 2 steps
 date 2009-11-25
-permalink cron-in-2-steps
+permalink cron-in-2-steps.html
 
 aftertext
  cron lets you schedule linux commands to execute on a regular basis.

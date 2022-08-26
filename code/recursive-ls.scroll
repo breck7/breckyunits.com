@@ -1,6 +1,6 @@
 title Recursive ls
 date 2010-3-10
-permalink recursive-ls
+permalink recursive-ls.html
 
 aftertext
  Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.

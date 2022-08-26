@@ -1,6 +1,6 @@
 title Find big files in Linux
 date 2011-10-06
-permalink find-big-files-in-linux
+permalink find-big-files-in-linux.html
 
 aftertext
  <i>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</i>

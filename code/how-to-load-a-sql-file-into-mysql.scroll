@@ -1,6 +1,6 @@
 title How to load a sql file into MySql
 date 2010-1-6
-permalink how-to-load-a-sql-file-into-mysql
+permalink how-to-load-a-sql-file-into-mysql.html
 
 aftertext
  It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.

@@ -1,6 +1,6 @@
 title The BASH Programming Language
 date 2010-2-25
-permalink the-bash-programming-language
+permalink the-bash-programming-language.html
 
 aftertext
  I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.

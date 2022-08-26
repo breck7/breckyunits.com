@@ -1,6 +1,6 @@
 title Bug Workaround for JS Charts Error: Not enough data to display chart 
 date 2010-1-16
-permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-
+permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
 
 code
  nullData = new Array( );

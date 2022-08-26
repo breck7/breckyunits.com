@@ -1,6 +1,6 @@
 title Git Ignore Global
 date 2012-01-04
-permalink git-ignore-global
+permalink git-ignore-global.html
 
 aftertext
  Create a global .gitignore file to ignore common pains:
