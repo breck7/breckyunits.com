@@ -9,6 +9,8 @@ paragraph
  The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

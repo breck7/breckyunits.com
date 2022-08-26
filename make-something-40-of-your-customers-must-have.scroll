@@ -9,6 +9,8 @@ quote
  Make something 40% of your users must have
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

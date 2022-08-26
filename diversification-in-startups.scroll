@@ -16,6 +16,8 @@ quote
  Diversify heavily early. Then focus.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

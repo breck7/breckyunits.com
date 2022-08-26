@@ -27,6 +27,8 @@ code
   link hi.html this
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

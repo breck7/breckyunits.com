@@ -1,6 +1,8 @@
 title Infinite Futures
 date 2013-02-12
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

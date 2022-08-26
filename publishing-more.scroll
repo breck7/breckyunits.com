@@ -9,6 +9,8 @@ paragraph
  What caused me to stop publishing?
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

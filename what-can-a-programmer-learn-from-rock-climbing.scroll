@@ -12,6 +12,8 @@ paragraph
  1. <b>You should always be pushing yourself.</b> Each day spent climbing I've made it to a slightly higher level than the previous day. The lazy part of me has then wanted to just spend one day enjoying this new level without pushing myself further. Luckily I've had a great climbing partner who's refused that and has forced me to reach for the next level each day. In both rock climbing and programming you should always be reaching for that new level. It's not easy, you have to risk a fall to reach a new height, but it's necessary if you want to become good. In programming, just like in climbing, you should be tagging along with the climbers at levels above you. That's how you get great. Of course, don't forget to enjoy the moment too.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

@@ -16,6 +16,8 @@ paragraph
  The bubble is the early, early product development stage. When new people aren't constantly using and falling in love with your product, you're in the bubble. You want to get out of here as fast as possible.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

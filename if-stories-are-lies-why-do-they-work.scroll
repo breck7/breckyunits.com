@@ -16,6 +16,8 @@ quote
  Simple: nothing else works.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

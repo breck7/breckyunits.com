@@ -9,6 +9,8 @@ paragraph
  My question is: <b>how are the brain's resources allocated for its different tasks?</b>
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

@@ -1,6 +1,8 @@
 title Critical Thinking
 date 2010-08-25
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

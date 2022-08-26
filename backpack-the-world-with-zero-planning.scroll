@@ -11,6 +11,8 @@ paragraph
  <b>set a savings goal.</b> you'll need money to travel around the world, and the more money you have, the easier, longer, and more fun your journey will be.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

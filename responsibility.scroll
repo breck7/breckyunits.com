@@ -16,6 +16,8 @@ paragraph
  It is not Tesla's fault that hundreds of millions of cars are burning gasoline and polluting our atmosphere, but they have claimed responsibility for the problem and are attempting to solve it with their electric cars.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

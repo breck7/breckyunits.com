@@ -9,6 +9,8 @@ paragraph
  Warren Buffett is perhaps the king of buying low and selling high. These tips are largely regurgitated from his speeches and biographies which I've been reading over the past two years.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Let the market serve you, not instruct you.

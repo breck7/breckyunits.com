@@ -10,6 +10,8 @@ paragraph
  In other words, put 90% of your time into safe, conservative things but take some risks with the other 10%.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

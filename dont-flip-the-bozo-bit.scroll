@@ -9,6 +9,8 @@ paragraph
  If you don't know what that means, you probably do it unknowingly!
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section What it means

@@ -9,6 +9,8 @@ paragraph
  Today's topic is linear algebra. I know almost nothing about vectors, matrices, and linear algebra.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

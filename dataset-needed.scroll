@@ -9,6 +9,8 @@ paragraph
  Whether it's an academic paper, news report, blog post, or marketing ad, citations linking to text summaries should be frowned upon.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

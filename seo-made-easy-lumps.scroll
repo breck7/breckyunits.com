@@ -16,6 +16,8 @@ list
  - <b>S</b> itemaps
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

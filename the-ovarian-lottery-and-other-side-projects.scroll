@@ -9,6 +9,8 @@ paragraph
  They all largely involve probability/statistics and have no practical or monetary purpose. If I was a painter and not a programmer you might call them "art projects".
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

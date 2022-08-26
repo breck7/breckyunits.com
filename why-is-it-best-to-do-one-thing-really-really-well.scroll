@@ -12,6 +12,8 @@ paragraph
  This advice is so often repeated that I thought it would be worthwhile to think hard about why this might be the case.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 question Why is it best to do one thing really, really well?

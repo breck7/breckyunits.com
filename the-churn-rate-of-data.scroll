@@ -1,6 +1,8 @@
 title The Churn Rate of Data
 date 2010-06-15
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

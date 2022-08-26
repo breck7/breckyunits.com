@@ -9,6 +9,8 @@ paragraph
  The answer is simple. Once you've spent 10,000 hours practicing something, no one can crush you like a bug.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

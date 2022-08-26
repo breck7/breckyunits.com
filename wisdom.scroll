@@ -24,6 +24,8 @@ quote
  <a class="rightQuote" href="https://www.ycombinator.com/library/5l-how-not-to-fail">Jessica Livingston</a>
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

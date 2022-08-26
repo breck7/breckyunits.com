@@ -12,6 +12,8 @@ paragraph
  I want to spend more time engaged with life.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

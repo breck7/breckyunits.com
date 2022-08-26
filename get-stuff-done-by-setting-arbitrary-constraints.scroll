@@ -12,6 +12,8 @@ paragraph
  But these constraints are valuable, despite the fact that they are arbitrary. <i>They help you get things done</i>. 
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Constraints Help You Focus

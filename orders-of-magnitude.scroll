@@ -9,6 +9,8 @@ paragraph
  If you think in orders of magnitude you can quickly visualize how big a number is and how much effort it would take to reach it.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

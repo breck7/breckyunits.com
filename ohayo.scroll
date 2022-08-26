@@ -1,6 +1,8 @@
 title Ohayo
 date 2017-06-23
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

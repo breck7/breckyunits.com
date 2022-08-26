@@ -9,6 +9,8 @@ paragraph
  Over time I realized that these questions are all different ways of asking the same thing: how do complex systems work?
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

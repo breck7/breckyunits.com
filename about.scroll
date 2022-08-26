@@ -1,6 +1,6 @@
 title About Me
 
-keyboardNav
+import settings.scroll
 
 aftertext
  This is my personal Scroll. I am a software engineer, data science and probability

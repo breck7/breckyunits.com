@@ -17,6 +17,8 @@ paragraph
  explore the history of the keys on my keyboard</a>.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section The Five Waves of Symbols

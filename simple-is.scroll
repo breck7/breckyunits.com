@@ -8,6 +8,8 @@ aftertext
  code chmod -R 755 some_dir
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

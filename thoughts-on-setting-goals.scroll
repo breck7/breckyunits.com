@@ -12,6 +12,8 @@ quote
  Make them good. Make them small.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Make them Good

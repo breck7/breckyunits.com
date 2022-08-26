@@ -8,6 +8,8 @@ aftertext
 image family_circus/0.png
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

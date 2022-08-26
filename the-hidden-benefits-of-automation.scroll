@@ -18,6 +18,8 @@ paragraph
  What is E? It's the extra something you get from not having to waste time and energy on XY.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section An Example

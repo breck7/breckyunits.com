@@ -13,6 +13,8 @@ paragraph
  I do think the real world is a pretty place, but about design, I was completely wrong.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

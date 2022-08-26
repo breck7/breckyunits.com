@@ -12,6 +12,8 @@ paragraph
  I call the whitespace-based notation <a href="https://treenotation.org/">Tree Notation</a> and languages built on top of it Tree Languages.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

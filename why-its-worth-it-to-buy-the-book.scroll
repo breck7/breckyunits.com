@@ -9,6 +9,8 @@ paragraph
  If you're reading a book primarily to gain value from it(as opposed to reading it for pleasure) you should always buy it unless it's a bad book.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

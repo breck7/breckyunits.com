@@ -15,6 +15,8 @@ paragraph
  The father shrugs and says "Because you have free will, and chose to do it."
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Free Will was Born

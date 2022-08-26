@@ -9,6 +9,8 @@ paragraph
  But you don't have to wait until you're rich and famous to write a book about your experiences and ideas.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 quote

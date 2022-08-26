@@ -6,6 +6,8 @@ aftertext
  dateline
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Saying #1: 10,000 Hours

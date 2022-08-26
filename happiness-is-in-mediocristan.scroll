@@ -21,6 +21,8 @@ paragraph
  The explanation, I finally realized, is simple.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Happiness is a physical quantity, like Height or Weight

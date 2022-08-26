@@ -6,6 +6,8 @@ aftertext
  dateline
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 section Why I love simplicity

@@ -1,6 +1,8 @@
 title The Public Domain Publishing Company
 date 2021-02-28 1
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

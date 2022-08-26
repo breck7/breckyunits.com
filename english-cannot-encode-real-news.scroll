@@ -12,6 +12,8 @@ aftertext
  https://treenotation.org/ ways of representing data
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

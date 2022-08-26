@@ -19,6 +19,8 @@ paragraph
  of that. But it does at least have the same big single page layout.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

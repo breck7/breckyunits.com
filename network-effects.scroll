@@ -9,6 +9,8 @@ paragraph
  Sometimes a product becomes more valuable simply as more people use it. This means the product has a "network effect".
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

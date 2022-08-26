@@ -9,6 +9,8 @@ paragraph
  For example, if you are uploading a bunch of new web pages and it's taking a minute, do you almost instinctively open a new website or instant message?
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

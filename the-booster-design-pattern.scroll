@@ -1,6 +1,8 @@
 title The Booster Design Pattern
 date 2013-03-08
 
+groups index
+import settings.scroll
 keyboardNav
 
 aftertext

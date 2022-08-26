@@ -33,6 +33,8 @@ paragraph
  Fitbit.
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

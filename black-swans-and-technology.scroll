@@ -10,6 +10,8 @@ quote
  - <a href="http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why">Quora</a>
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph

@@ -9,6 +9,8 @@ paragraph
  Recommendations work terrible for everyone but decently on average. 
 
 endSnippet
+groups index
+import settings.scroll
 keyboardNav
 
 paragraph
