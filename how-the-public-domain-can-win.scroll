@@ -67,3 +67,5 @@ scrollHeader
 scrollFooter
 maxColumns 1
 columnWidth 53
+
+comment todo: Build a dataset of public domain products, as suggested by jmiven
