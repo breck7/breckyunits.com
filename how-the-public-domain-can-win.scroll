@@ -1,0 +1,69 @@
+title How the public domain can win
+date 08-30-2022
+
+replace KEY_MESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
+
+aftertext
+ KEY_MESSAGE If enough capable people start building public domain products we can change the world.
+ dateline
+
+aftertext
+ It took me 18 years to figure this out. In 2004 I did what you would now call "first principles thinking" about copyright law. Even a dumb 20 year old college kid can deduce it's a bad system and unethical. _I have to tell people so we can fix this_. I was naive. Thus began 18 years of failed strategies and tactics.
+ wrapsOn
+ footnote bad system
+  It retards the progress of arts and science, creates distrust, and increases inequality. 
+ footnote unethical
+  If you define ethical so 'copyright is ethical' is true the word 'ethical' becomes meaningless.
+
+image openLibrary.png
+ caption One of the many moves in the struggle for intellectual freedom. <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> is a hero whose name and impact will expand for eons.
+
+endSnippet
+
+subsection Trust
+
+paragraph
+ You cannot trust non public domain information products. You can only make due. By definition, non public domain information products have a hidden agenda.
+
+subsection Speed
+
+aftertext
+ Public domain products are _strictly_ faster to use than non public domain products. Not just faster, orders of magnitude faster.
+ wrapsOn
+
+subsection Cost to build
+
+aftertext
+ Public domain products are far cheaper to build than non public domain products. Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude.
+
+section The Rise of Public Domain Products
+
+aftertext
+ SQLite's meteoric success is not a fluke. Public domain products dominate non public domain alternatives on trust and speed and cost to build. SQLite is the first of millions to come.
+ https://www.sqlite.org SQLite's
+ footnote the first
+  To be precise: SQLite is _one of_ the first. There are many other great examples, including a little thing called the World Wide Web.
+
+question Is Disney dead?
+
+aftertext
+ Heck no. No way future people will be paying $10 for crappy streams. People will watch their own downloaded public domain files locally. But have you seen _Inside Out_? Amazing movie. It sticks with you. Makes you eager to spend $1,000 on a trip with your family to an _Inside Out_ theme park. Money finds a way. Companies that engage in first principles thinking will also conclude that the math is clear: KEY_MESSAGE
+ wrapsOn
+
+section Build a public domain product
+
+aftertext
+ It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes. 
+ wrapsOn
+
+groups index
+
+footnoteNode
+ extends caveatNode
+ crux footnote
+
+import settings.scroll
+scrollHeader
+scrollFooter
+maxColumns 1
+columnWidth 53
