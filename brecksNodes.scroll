@@ -1,0 +1,16 @@
+importOnly
+
+footnoteNode
+ extends caveatNode
+ crux footnote
+
+thoughtNode
+ extends aftertextNode
+ crux *
+ javascript
+  compile() {
+    // Hacky, I know. I will fix and upstream to scroll.
+    this.prependLine(this.getContent())
+    this.appendLine('wrapsOn')
+    return super.compile()
+  }
