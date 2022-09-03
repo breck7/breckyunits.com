@@ -35,7 +35,7 @@ section $5,000 investments
 
 section Reading List
 
-* More posts in the category of angel investors publishing their data:
+* More posts in the category of Angel Investors publishing data:
 
 readingList
  https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
@@ -44,4 +44,5 @@ readingList
 
 import settings.scroll
 import brecksNodes.scroll
+maxColumns 2
 groups index
