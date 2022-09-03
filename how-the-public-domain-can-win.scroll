@@ -64,10 +64,10 @@ aftertext
 groups index
 
 import settings.scroll
-import brecksNodes.scroll
 scrollHeader
 scrollFooter
 maxColumns 1
 columnWidth 53
+keyboardNav
 
 comment todo: Build a dataset of public domain products, as suggested by jmiven

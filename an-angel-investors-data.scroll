@@ -43,6 +43,6 @@ readingList
 
 
 import settings.scroll
-import brecksNodes.scroll
 maxColumns 2
 groups index
+keyboardNav
