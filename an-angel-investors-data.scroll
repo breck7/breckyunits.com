@@ -33,6 +33,15 @@ section $5,000 investments
 
 * I included only the investments I made where I wired $10,000 or more. That is 17. I made lots of smaller bets but those don't change the dataset much. My one piece of advice if you're getting in this game is to make as many investments as you can of small sizes to increase your learning rate.
 
+section Reading List
+
+* More posts in the category of angel investors publishing their data:
+
+readingList
+ https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
+
+
+
 import settings.scroll
 import brecksNodes.scroll
 groups index
