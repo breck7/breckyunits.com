@@ -3,13 +3,10 @@ date 08-30-2022
 
 replace KEY_MESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
 
-aftertext
- KEY_MESSAGE If enough capable people start building public domain products we can change the world.
+* KEY_MESSAGE If enough capable people start building public domain products we can change the world.
  dateline
 
-aftertext
- It took me 18 years to figure this out. In 2004 I did what you would now call "first principles thinking" about copyright law. Even a dumb 20 year old college kid can deduce it's a bad system and unethical. _I have to tell people so we can fix this_. I was naive. Thus began 18 years of failed strategies and tactics.
- wrapsOn
+* It took me 18 years to figure this out. In 2004 I did what you would now call "first principles thinking" about copyright law. Even a dumb 20 year old college kid can deduce it's a bad system and unethical. _I have to tell people so we can fix this_. I was naive. Thus began 18 years of failed strategies and tactics.
  footnote bad system
   It retards the progress of arts and science, creates distrust, and increases inequality. 
  footnote unethical
@@ -20,46 +17,34 @@ image openLibrary.png
 
 endSnippet
 
-subsection Trust
+## Trust
 
-paragraph
- You cannot trust non public domain information products. You can only make do. By definition, non public domain information products have a hidden agenda.
+* You cannot trust non public domain information products. You can only make do. By definition, non public domain information products have a hidden agenda.
 
-subsection Speed
+## Speed
 
-aftertext
- Public domain products are _strictly_ faster to use than non public domain products. Not just faster, orders of magnitude faster. You can deduce this for yourself. Pick any non public domain product. Now enumerate every possible way you might use that product. Write down a estimate of how long it would take you to do that task. Now pretend the author just announced the product is now public domain. Enumerate over your list again, again estimating the time it would take you to do each task. For some tasks that time estimate won't change, for many it will drop from hours to _instant_. For some it might drop from _years_ to instant. For example, say the product is a newspaper article about some new government bill and your task is updating it with links to the actual bill on your government's website and then sharing that with friends—that task goes from something that may take _months_ (getting permissions) to _instant_. When you sum the time savings across all possible use cases of all possible products, you'll see the _orders of magnitude_ speed up caused by public domain products.
- wrapsOn
+* Public domain products are _strictly_ faster to use than non public domain products. Not just faster, orders of magnitude faster. You can deduce this for yourself. Pick any non public domain product. Now enumerate every possible way you might use that product. Write down a estimate of how long it would take you to do that task. Now pretend the author just announced the product is now public domain. Enumerate over your list again, again estimating the time it would take you to do each task. For some tasks that time estimate won't change, for many it will drop from hours to _instant_. For some it might drop from _years_ to instant. For example, say the product is a newspaper article about some new government bill and your task is updating it with links to the actual bill on your government's website and then sharing that with friends—that task goes from something that may take _months_ (getting permissions) to _instant_. When you sum the time savings across all possible use cases of all possible products, you'll see the _orders of magnitude_ speed up caused by public domain products.
 
-subsection Cost to build
+## Cost to build
 
-aftertext
- Public domain products are far cheaper to build than non public domain products. Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking. Time and resources you are currently wasting on worthless tasks can be reallocated to building the parts of your product that matter.
- wrapsOn
+* Public domain products are far cheaper to build than non public domain products. Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking. Time and resources you are currently wasting on worthless tasks can be reallocated to building the parts of your product that matter.
 
-aftertext
- Imagine that! You get to _do less_, _move faster_, and your products will be better and _trusted more_. I can't believe it took me so long to realize the overwhelming superiority of public domain products.
- wrapsOn
+* Imagine that! You get to _do less_, _move faster_, and your products will be better and _trusted more_. I can't believe it took me so long to realize the overwhelming superiority of public domain products.
 
-section The Rise of Public Domain Products
+# The Rise of Public Domain Products
 
-aftertext
- SQLite's meteoric success is not a fluke. Public domain products dominate non public domain alternatives on trust and speed and cost to build. SQLite is the first of millions to come.
+* SQLite's meteoric success is not a fluke. Public domain products dominate non public domain alternatives on trust and speed and cost to build. SQLite is the first of millions to come.
  https://www.sqlite.org SQLite's
  footnote the first
   To be precise: SQLite is _one of_ the first. There are many other great examples, including a little thing called the World Wide Web.
 
-question Is Disney dead?
+? Is Disney dead?
 
-aftertext
- Heck no. No way future people will be paying $10 for crappy streams. People will watch their own downloaded public domain files locally. But have you seen _Inside Out_? Amazing movie. It sticks with you. Makes you eager to spend $1,000 on a trip with your family to an _Inside Out_ theme park. Money finds a way. Companies that engage in first principles thinking will also conclude that the math is clear: KEY_MESSAGE
- wrapsOn
+* Heck no. No way future people will be paying $10 for crappy streams. People will watch their own downloaded public domain files locally. But have you seen _Inside Out_? Amazing movie. It sticks with you. Makes you eager to spend $1,000 on a trip with your family to an _Inside Out_ theme park. Money finds a way. Companies that engage in first principles thinking will also conclude that the math is clear: KEY_MESSAGE
 
-section Build a public domain product
+# Build a public domain product
 
-aftertext
- It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes. 
- wrapsOn
+* It took me 18 years to figure out that you can't _tell_ people the public domain is better. You have to _show_ them. Try building your own public domain product. Look through the telescope with your own eyes.
 
 groups index
 
