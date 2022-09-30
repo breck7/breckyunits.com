@@ -7,6 +7,9 @@
     "url": "git+https://github.com/breck7/breckyunits.com.git"
   },
   "author": "Breck Yunits",
+  "scripts": {
+    "build": "scroll list | scroll build"
+  },
   "bugs": {
     "url": "https://github.com/breck7/breckyunits.com/issues"
   },
