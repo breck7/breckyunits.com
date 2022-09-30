@@ -4,3 +4,5 @@ keyboard
 *.html
 feed.xml
 scrollStyle.css
+node_modules
+package-lock.json
