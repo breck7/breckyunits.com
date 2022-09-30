@@ -49,8 +49,6 @@ endSnippet
 groups index
 
 import settings.scroll
-scrollHeader
-scrollFooter
 maxColumns 1
 columnWidth 53
 keyboardNav
