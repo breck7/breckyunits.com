@@ -1,6 +1,5 @@
 title Cancer and Copyright
 date 10/04/2022
-author https://github.com/breck7 Breck Yunits
 
 * Every second your body makes 2.83 million new cells. If you studied _just one_ of those cells—sequencing all the DNA, RNA, and proteins, you would generate more data than can fit in Google, Microsoft, and Amazon's datacenters combined. *Cancer is an information problem*.
  dateline
@@ -25,7 +24,7 @@ endSnippet
 
 * Though we will save hundreds of lives a day if we do this, it will still take a far larger more herculean effort to solve the toughest types of cancer and that will come down to the men and women in the white coats—I only know how to solve the bottlenecks in the dry labs.
 
-* Sincerely, John Breck Yunits. University of Hawai'i Cancer Center (laid off, now just a volunteer)
+author https://github.com/breck7 Breck Yunits, University of Hawai'i Cancer Center (laid off, now just a volunteer)
 
 import settings.scroll
 maxColumns 2
