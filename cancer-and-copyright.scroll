@@ -6,6 +6,8 @@ author https://github.com/breck7 Breck Yunits
  caveat
   At least 19.1% of statistics are made up on the spot.
 
+endSnippet
+
 * Mitosis refers to the process where a cell splits and takes about 2 hours. If you were building a startup and it was the fastest startup ever and your team doubled in size every month, you would be going at 0.0028 the speed of mitosis. *Mitosis is very very fast*.
  caveat
   At least 28.3% of statistics are made up on the spot.
@@ -22,3 +24,8 @@ author https://github.com/breck7 Breck Yunits
 * Though we will save hundreds of lives a day if we do this, it will still take a far larger more herculean effort to solve the toughest types of cancer and that will come down to the men and women in the white coats—I only know how to solve the bottlenecks in the dry labs.
 
 * Sincerely, John Breck Yunits. University of Hawai'i Cancer Center (laid off, now just a volunteer)
+
+import settings.scroll
+maxColumns 2
+groups index
+keyboardNav
