@@ -1,143 +1,85 @@
 title How to fix the CDC
 date 2021-03-30
 
-aftertext
- <b>The CDC needs to
- move to Git</b>. The CDC needs to move pretty much
- <i>everything to Git</i>. And they should do it
- <b>with urgency</b>. They should make it a priority to
- never again publish anything without a link to a Git repo.
- Not just papers, but also datasets and press releases. It
- doesn't matter under what account or on what service the
- repos are republished to; what matters is that <i>every
- CDC publication needs a link to a backing Git repo</i>.
+* *The CDC needs to move to Git*. The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
  link https://www.cdc.gov/ CDC
  dateline
 
-endSnippet
-groups index
-import settings.scroll
-keyboardNav
+? How do you explain Git to a government leader?
 
-question How do you explain Git to a government leader?
+* Git is the "Global Information Tracker". It is software that does three things that anyone can understand 1) git makes lying hard 2) git makes sharing the truth easy 3) git makes fixing mistakes easy.
 
-paragraph
- Git is the "Global Information Tracker". It is software
- that does three things that anyone can understand 1) git
- makes lying hard 2) git makes sharing the truth easy 3) git
- makes fixing mistakes easy.
+? Why does the CDC need to move to Git?
 
-question Why does the CDC need to move to Git?
+* Because the CDC's publications are currently full of misrepresentations, make it very hard to share the truth, and are full of hard to fix mistakes. Preprints, Weekly Reports, FAQs, press releases, all of these things need links to the Gits.
 
-paragraph
- Because the CDC's publications are currently full of
- misrepresentations, make it very hard to share the truth,
- and are full of hard to fix mistakes. Preprints, Weekly
- Reports, FAQs, press releases, all of these things need
- links to the Gits.
+? Who builds on Git?
 
-question Who builds on Git?
+* The whole world now builds on Git. The CDC is far behind the times. Even Microsoft Windows, the biggest proprietary software project in the world, now builds on Git.
+ https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/ now builds on Git
 
-paragraph
- The whole world now builds on Git. The CDC is far
- behind the times. Even Microsoft Windows, the biggest
- proprietary software project in the world, <a
- href="https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/">now builds on Git</a>.
+? What is Git?
 
-question What is Git?
+* Git is an open source, very fast, very powerful piece of software originally created by Linus Torvalds (the same guy who created Linux) and led by Junio C Hamano that makes extensive use of principles from blockchain and information theory.
+ https://en.wikipedia.org/wiki/Git Git
+ https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds
+ https://github.com/gitster Junio C Hamano
+ https://en.wikipedia.org/wiki/Blockchain blockchain
+ https://en.wikipedia.org/wiki/Information_theory information theory
 
-paragraph
- Git🔗en.wikipedia.org/wiki/Git is an
- open source, very fast, very powerful piece of software
- originally created by <a
- href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus
- Torvalds</a> (the same guy who created Linux) that makes
- extensive use of principles from <a
- href="https://en.wikipedia.org/wiki/Blockchain">blockchain</a> and <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a>.
+? How can the CDC rapidly move to Git?
+
+# Double Down on Internal Leaders
+
+* The CDC's GitHub account has 169 repos and 10 people (and I'm told many hundreds more Git users). I would immediately promote every person working on these repos. (There are probably one or two jokers in there but who cares, it won't matter, just promote them all). Give them everything they need to be successful. Give them raises. Tell them part of their new job is to get everything the CDC is invovled with published to Git. This is probably really the only thing you need to do, and these people can lead it from there.
+ https://github.com/CDCgov CDC's GitHub account
+
+# Change Funding Requirements
+
+* Provide a hard deadline announcing that you will stop all funding for any current grant recipient, researcher, or company doing business of any kind who isn't putting their sponsored work on a publically available Git server and linking to it in all releases.
+
+# Education and Training
+
+* The CDC has 10,600 employees, so buying them all $20 worth of great paper books on learning how to use Git would only cost $201,200. For the most part, these are highly educated people who are autodidacts and can probably learn enough with just some books and websites, but for those who learn better via courses or videos you can budget another $30 per person for those. Then budget to ensure everyone is paid for the time spent learning. We are still talking about far less than 1% of the CDC's annual budget.
 
 
-question How can the CDC rapidly move to Git?
+? Why the urgency?
 
-section Double Down on Internal Leaders
+* Because the CDC not only failed at it's mission by not stopping COVID, but it continues to mishandle it. Mistake after mistake. Miscommunication after miscommunication. I just shook my head looking over an amateur hour report that they just put out. It's sad and their number one priority should be to regain trust and to do that they need to focus on the most trustworthy tool in information today: git.
 
-paragraph
- The <a href="https://github.com/CDCgov">CDC's GitHub
- account</a> has 169 repos and 10 people (and I'm told many
- hundreds more Git users). I would immediately promote every
- person working on these repos. (There are probably one or
- two jokers in there but who cares, it won't matter, just
- promote them all). Give them everything they need to be
- successful. Give them raises. Tell them part of their new
- job is to get everything the CDC is invovled with published
- to Git. This is probably really the only thing you need to
- do, and these people can lead it from there.
+# Specific Examples
 
-section Change Funding Requirements
+* I'm adding two very clear and specific examples to illustrate the problem. But my sense is the problem is prolific.
 
-paragraph
- Provide a hard deadline announcing that you will stop all
- funding for any current grant recipient, researcher, or
- company doing business of any kind who isn't putting their
- sponsored work on a publically available Git server and
- linking to it in all releases.
-
-section Education and Training
-
-paragraph
- The CDC has 10,600 employees, so buying them all $20 worth
- of great paper books on learning how to use Git would only
- cost $201,200. For the most part, these are highly educated
- people who are autodidacts and can probably learn enough
- with just some books and websites, but for those who learn
- better via courses or videos you can budget another $30 per
- person for those. Then budget to ensure everyone is paid
- for the time spent learning. We are still talking about far
- less than 1% of the CDC's annual budget.
-
-
-question Why the urgency?
-
-paragraph
- Because the CDC not only failed at it's mission by not
- stopping COVID, but it continues to mishandle it. Mistake
- after mistake. Miscommunication after miscommunication. I
- just shook my head looking over an amateur hour report that
- they just put out. It's sad and their number one priority
- should be to regain trust and to do that they need to focus
- on the most trustworthy tool in information today: git.
-
-section Specific Examples
-
-paragraph
- I'm adding two very clear and specific examples to illustrate the problem. But my sense is the problem is prolific.
-
-subsection #1 - COVID-19 in kids vs the Flu
+## #1 - COVID-19 in kids vs the Flu
 
 quote
  For young children, especially children younger than 5 years old, the risk of serious complications is higher for flu compared with COVID-19.
  - CDC
 
-paragraph
- This statement appeared on the CDC's website for more than a year. As it should have. Every big dataset I've looked at agrees with this, from the very first🔗https://twitter.com/breckyunits/status/1228117546974371840 COVID-19 data dump in February 2020.
+* This statement appeared on the CDC's website for more than a year. As it should have. Every big dataset I've looked at agrees with this, from the very first COVID-19 data dump in February 2020.
+ https://twitter.com/breckyunits/status/1228117546974371840 first COVID-19 data dump
 
-paragraph
- I started actively sharing and quoting that CDC page🔗https://web.archive.org/web/20210820184423/https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm in August 2021. Coincidentally or not, within days they removed🔗https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm that quote. There is no record of why they made the change. In fact the updated page misleadingly states "Page last reviewed: June 7, 2021", despite the August edit*.
+* I started actively sharing and quoting that CDC page in August 2021. Coincidentally or not, within days they removed that quote. There is no record of why they made the change. In fact the updated page misleadingly states "Page last reviewed: June 7, 2021", despite the August edit*.
+ https://web.archive.org/web/20210820184423/https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm August 2021
+ https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm removed that quote
 
-paragraph
- To recap, they quietly <i>reversed</i> the most critical piece of contextual advice on how parents should think about COVID-19 in relation to their children. No record, no explanation. (In case you are wondering, the data has not changed, and the latest data aligns with the original statement which they removed. Perhaps the change was made for political reasons).
+* To recap, they quietly _reversed_ the most critical piece of contextual advice on how parents should think about COVID-19 in relation to their children. No record, no explanation. (In case you are wondering, the data has not changed, and the latest data aligns with the original statement which they removed. Perhaps the change was made for political reasons).
 
+## #2 - Changing the definition of vaccine
 
-subsection #2 - Changing the definition of vaccine
+* The second example is well documented elsewhere, but the CDC changed their online definition of the word "vaccine", again perhaps for political reasons. That sort of thing seems like the kind of change that maybe should have some audit trail behind it, no?
+ alexberenson.substack.com/p/a-lawsuit-in-three-acts documented
 
-paragraph
- The second example is well documented elsewhere🔗alexberenson.substack.com/p/a-lawsuit-in-three-acts, but the CDC changed their online definition of the word "vaccine", again perhaps for political reasons. That sort of thing seems like the kind of change that maybe should have some audit trail behind it, no?
+# Conclusion
 
-section Conclusion
+* I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
 
-paragraph
- I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
+# Notes
 
-section Notes
+- * Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
-list
- - * Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
+endSnippet
+groups index
+import settings.scroll
+keyboardNav
