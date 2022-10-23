@@ -5,6 +5,8 @@ date 2021-03-30
  link https://www.cdc.gov/ CDC
  dateline
 
+endSnippet
+
 ? How do you explain Git to a government leader?
 
 * Git is the "Global Information Tracker". It is software that does three things that anyone can understand 1) git makes lying hard 2) git makes sharing the truth easy 3) git makes fixing mistakes easy.
@@ -75,11 +77,13 @@ quote
 
 * I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
 
+image cdc.jpeg
+
 # Notes
 
 - * Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
-endSnippet
 groups index
 import settings.scroll
 keyboardNav
+openGraphImage https://breckyunits.com/cdc.jpeg
