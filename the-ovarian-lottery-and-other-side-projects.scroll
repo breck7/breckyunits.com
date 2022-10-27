@@ -1,106 +1,91 @@
 title The Ovarian Lottery and Other Side Projects
 date 2010-08-11
 
-aftertext
- I've had some free time the past two weeks to work on a few random ideas I've had. 
+* I've had some free time the past two weeks to work on a few random ideas I've had. 
  dateline
 
-paragraph
- They all largely involve probability/statistics and have no practical or monetary purpose. If I was a painter and not a programmer you might call them "art projects".
+* They all largely involve probability/statistics and have no practical or monetary purpose. If I was a painter and not a programmer you might call them "art projects".
 
 endSnippet
-groups index
-import settings.scroll
-keyboardNav
 
-paragraph
- One project deals with categorizing data into "Extremistan" and "Mediocristan". Taleb's books🔗www.fooledbyrandomness.com, the Black Swan and Fooled by Randomness, list a number of different examples for each, and I thought it would be interesting to extend that categorization further.
+* One project deals with categorizing data into "Extremistan" and "Mediocristan". Taleb's books, the Black Swan and Fooled by Randomness, list a number of different examples for each, and I thought it would be interesting to extend that categorization further.
+ https://www.fooledbyrandomness.com Taleb's books
 
-paragraph
- The second project I'll expand on a bit more here.
+* The second project I'll expand on a bit more here.
 
-section TheOvarianLottery.com
+# TheOvarianLottery.com
 
-paragraph
- Warren Buffett coined the idea of the "ovarian lottery"--his basic idea is that the most important factor in determining how you end up in life is your birth. You either are born "lucky"--in a rich country, with no major diseases, to an affluent member of society, etc.--or you aren't. Other factors like hard work, education, smart decision making and so forth have a role, but play a relatively tiny role in determining what your life will be like.
+* Warren Buffett coined the idea of the "ovarian lottery"--his basic idea is that the most important factor in determining how you end up in life is your birth. You either are born "lucky"--in a rich country, with no major diseases, to an affluent member of society, etc.--or you aren't. Other factors like hard work, education, smart decision making and so forth have a role, but play a relatively tiny role in determining what your life will be like.
 
-paragraph
- I thought this was a very interesting idea and so I started a program that lets you be "born again" and see how things turn out. When you click "Play", theOvarianLottery will show you:
+* I thought this was a very interesting idea and so I started a program that lets you be "born again" and see how things turn out. When you click "Play", theOvarianLottery will show you:
 
-list
- - What year you were born in(or you can choose this yourself)
- - What continent/country you were born in
- - What your gender is
- - How old you will be when you die
- - Your Religion
- - Silly things like whether you will ever be a Facebook user (with 500 million users potentially 1 in every 200 people that has ever lived has used Facebook!)
+- What year you were born in(or you can choose this yourself)
+- What continent/country you were born in
+- What your gender is
+- How old you will be when you die
+- Your Religion
+- Silly things like whether you will ever be a Facebook user (with 500 million users potentially 1 in every 200 people that has ever lived has used Facebook!)
 
-section Two Surprises
+# Two Surprises
 
-paragraph
- I've encountered two major surprises with the theOvarianLottery.
+* I've encountered two major surprises with the theOvarianLottery.
 
-paragraph
- First, I thought theOvarianLottery would take me an hour or two. I was wrong. It turns out the coding isn't hard at all--the tricky part is finding the statistics. Not a whole lot of countries provide detailed statistics on their current populations. Once you start looking up stats for human population before 1950, the search gets an order of magnitude harder. (I've listed a few good sources and resources at the bottom of this post if anyone's interested)
+* First, I thought theOvarianLottery would take me an hour or two. I was wrong. It turns out the coding isn't hard at all--the tricky part is finding the statistics. Not a whole lot of countries provide detailed statistics on their current populations. Once you start looking up stats for human population before 1950, the search gets an order of magnitude harder. (I've listed a few good sources and resources at the bottom of this post if anyone's interested)
 
-paragraph
- Second, I've found so many fascinating diversions while working on this. I've encountered cool stats like:
+* Second, I've found so many fascinating diversions while working on this. I've encountered cool stats like:
 
-list
- - Estimates on the total number of births that have happened so far range from 40 - 150 billion. This doesn't include species prior to homo sapiens.
- - Around 1 in 5 births today happens in China. Odds of being born in the U.S. are around 4%.
- - Potentially around 40% of all babies that have ever been born have died before the age of 1. Nowadays the infant mortality rate is around 2% (and less in many countries).
+- Estimates on the total number of births that have happened so far range from 40 - 150 billion. This doesn't include species prior to homo sapiens.
+- Around 1 in 5 births today happens in China. Odds of being born in the U.S. are around 4%.
+- Potentially around 40% of all babies that have ever been born have died before the age of 1. Nowadays the infant mortality rate is around 2% (and less in many countries).
 
-paragraph
- But cooler than interesting descriptive statistics are the philosophical questions that this idea of the Ovarian Lottery raises. If I was a philosopher I might ponder these questions at depth and write more about each one, but I don't think that's a great use of time and so I'll just list them. Philosophy is most often a fruitless excercise.
+* But cooler than interesting descriptive statistics are the philosophical questions that this idea of the Ovarian Lottery raises. If I was a philosopher I might ponder these questions at depth and write more about each one, but I don't think that's a great use of time and so I'll just list them. Philosophy is most often a fruitless excercise.
 
-question How does the real Ovarian Lottery work?
+? How does the real Ovarian Lottery work?
 
-paragraph
- My site is just a computer program. It's interesting to think about how the real ovarian lottery works. Is there a place where everyone is hanging out, and then you spin a wheel and your "soul" is magically transported to a newborn somewhere in the world?
+* My site is just a computer program. It's interesting to think about how the real ovarian lottery works. Is there a place where everyone is hanging out, and then you spin a wheel and your "soul" is magically transported to a newborn somewhere in the world?
 
-question What if the multiverse theory is correct?
+? What if the multiverse theory is correct?
 
-paragraph
- If the multiverse🔗en.wikipedia.org/wiki/Multiverse theory is correct, then my odds are almost certainly off. In other words, theOvarianLottery assumes there's only 1 universe and extrapolates the odds from that. If there are dozens or infinite universes, who knows what the real odds are.
+* If the multiverse theory is correct, then my odds are almost certainly off. In other words, theOvarianLottery assumes there's only 1 universe and extrapolates the odds from that. If there are dozens or infinite universes, who knows what the real odds are.
+ https://en.wikipedia.org/wiki/Multiverse multiverse
 
-question What role has chaos played in the development of humanity?
+? What role has chaos played in the development of humanity?
 
-paragraph
- If you go back to around 10,000 B.C., somewhere around 2-10 million people roamed the planet. Go back earlier and the number is even smaller. It's interesting to think of how small differences in events back then would have created radically different outcomes today. I've dabbled a bit into chaos theory and find it quite humbling.
+* If you go back to around 10,000 B.C., somewhere around 2-10 million people roamed the planet. Go back earlier and the number is even smaller. It's interesting to think of how small differences in events back then would have created radically different outcomes today. I've dabbled a bit into chaos theory and find it quite humbling.
 
-question What does the fact that we are alive today tell us about the future?
+? What does the fact that we are alive today tell us about the future?
 
-paragraph
- Depending on the estimate, between 4-20% of all humans that have ever lived are alive today. In other words, the odds of you being alive right now (according to my model) are higher than they've ever been. The odds of you being alive in 10,000 BC are over 1,000 times less. If humans indeed go on to live for another ten thousand years and the population grows another 1,000 times the odds of you being born today would be vastly smaller. In other words, if my model represented reality than we could conclude that odds are high that the human population does not continue growing like it has.
+* Depending on the estimate, between 4-20% of all humans that have ever lived are alive today. In other words, the odds of you being alive right now (according to my model) are higher than they've ever been. The odds of you being alive in 10,000 BC are over 1,000 times less. If humans indeed go on to live for another ten thousand years and the population grows another 1,000 times the odds of you being born today would be vastly smaller. In other words, if my model represented reality than we could conclude that odds are high that the human population does not continue growing like it has.
 
-question What's the future shape of the population curve?
+? What's the future shape of the population curve?
 
 image World-Population-1800-2100.png
 
-paragraph
- The growth of human population has followed an exponential curve. How long will it last? Will earth become overpopulated? Will we invent technology to leave earth? Will human population decline? Human population growth is hard to predict over any long term time period.
+* The growth of human population has followed an exponential curve. How long will it last? Will earth become overpopulated? Will we invent technology to leave earth? Will human population decline? Human population growth is hard to predict over any long term time period.
 
-section Complete Uselessness of This Model
+# Complete Uselessness of This Model
 
-paragraph
- I don't believe you can take the concept of the Ovarian Lottery any more seriously than you can take religion. It provides food for thought, but it doesn't provide any real answers to much. The stats though could certainly be used in debates.
+* I don't believe you can take the concept of the Ovarian Lottery any more seriously than you can take religion. It provides food for thought, but it doesn't provide any real answers to much. The stats though could certainly be used in debates.
 
-paragraph
- Oh well. Ars gratia artis
+* Oh well. Ars gratia artis
 
-section Notes
+# Notes
 
 paragraph
  I hope to finish up theOvarianLottery and slap a frontend on it sometime in the future.
 
-paragraph
- Helpful Links for Population Statistics(beyond wikipedia):
+* Helpful Links for Population Statistics(beyond wikipedia):
 
-list
- - US Census Bureau Historical Stats🔗census.gov/ipc/www/worldhis.html
- - Human population by year rough approximation🔗population.htm
- - NationMaster.com🔗nationmaster.com
+- US Census Bureau Historical Stats
+ https://census.gov/ipc/www/worldhis.html
+- Human population by year rough approximation
+ link population.html
+- NationMaster.com
+ https://nationmaster.com
 
 comment
  Relevant photo (and thread): https://twitter.com/SlowwCo/status/1458263107885617153/photo/2
+
+groups index
+import settings.scroll
+keyboardNav
