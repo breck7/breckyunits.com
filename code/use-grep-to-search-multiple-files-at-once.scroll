@@ -42,7 +42,6 @@ code
 * (grep uses regular expressions)
 
 # Links
-list
  - grep🔗en.wikipedia.org/wiki/Grep on Wikipedia
  - Stackoverflow🔗stackoverflow.com/questions/221921/grep-exclude-include-syntax-do-not-grep-through-certain-files grep help
 

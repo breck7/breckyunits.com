@@ -131,7 +131,6 @@ code
 
 * Disk space won't be a problem. But are the software tools I work with on a day-to-day basis designed to handle millions of files in a single folder? How will they hold up?
 
-list
  - <b>Bash</b> How will the basics like <code>ls</code> and <code>grep</code> hold up in a folder with 6.5M files?
  - <b>Git</b> How slow will <code>git status</code> be? What about <code>git add</code> and <code>git commit</code>?
  - <b>Sublime Text</b> Will I even be able to open this folder in Sublime Text? Find/replace is something I so commonly use, will that work?  How about regex find/replace?

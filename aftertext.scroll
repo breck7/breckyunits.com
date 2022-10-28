@@ -141,7 +141,7 @@ comment
 
 quote
  The text and the markup are treated as separate parallel members, presumably (but not necessarily) in different files.
- - Ted Nelson
+ @ Ted Nelson
 
 * When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup" implementation
@@ -178,10 +178,9 @@ comment
 
 # Notes
 
-list
- - There's no reason it has to be "Aftertext". The markups could come before the text too.
- - Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
- - Another downside of the current implementation, pointed out by <a href="https://github.com/davidchisnall">David Chisnall</a>, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
+- There's no reason it has to be "Aftertext". The markups could come before the text too.
+- Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
+- Another downside of the current implementation, pointed out by <a href="https://github.com/davidchisnall">David Chisnall</a>, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
 
 comment
  In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
@@ -191,4 +190,3 @@ image aftertext.png
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
 maxColumns 2
-

@@ -25,11 +25,11 @@ keyboardNav
 
 quote
  If your ideas are any good, you'll have to ram them down people's throats.
- - Howard H. Aiken
+ @ Howard H. Aiken
 
 quote
  ..in science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs.
- - Francis Darwin
+ @ Francis Darwin
 
 * DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
 
@@ -47,7 +47,6 @@ quote
 
 * I don't know exactly what a language for truth will look like but I imagine it will have some of these properties:
 
-list
  - It will be a language that is hard to lie with
  - It will contain more numerics and be more data driven
  - It will be interactive, with assumptions made clear and adjustable by the reader

@@ -12,11 +12,9 @@ permalink how-i-organize-my-dropbox.html
 
 * Put files into 2 sections: 
 
-list
  -Put commonly accessed folders in the root directory.
  -Put everything else in a "Search" directory, which is in the Dropbox root directory.
 
-list
  - Create a folder in your root Dropbox directory named "Search". Plop anything in here.
  - Keep your most common folders in the root Dropbox directory. Sort these ones.
  - Every few weeks, move any rarely used files and folders into the "Search" directory. Bring any commonly used files and folders back out to the root Dropbox directory.

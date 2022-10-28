@@ -21,7 +21,6 @@ keyboardNav
 
 * Everything is built off of probability. You are reading this because of countless compounded probabilities like:
 
-list
  - There is a high probability that your Internet connection works
  - There is a high probability that my web server is responding to connections
  - There is a high probability that my web server's disk works

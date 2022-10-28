@@ -24,7 +24,6 @@ permalink what-non-web-software-do-you-use-the-most.html
 
 # Daily
 
-list
  - <b>Cygwin</b>. I prefer Windows+cygwin over Macs, Fedora or Ubuntu, or Windows plus running virtualized machines.
  - <b>Notepad++</b>. I do half my editing in Notepad++ and half in Vim. I love Notepad++'s speed, reliability, and autocomplete.
  - <b>Dropbox</b>. Completely changed how I work. Allows me to work from multiple computers seamlessly. Allows me to share files easily with clients, family, and friends. Reinstalling Windows (which I do a few times per year), is made easy because all my important files are kept on my dropbox. The fact that install and uninstall is so easy and doesn't require a reboot really impresses me.
@@ -43,7 +42,6 @@ list
 
 # Weekly
 
-list
  - <b>Navicat</b>. Great way to keep an eye on databases. I also like it for creating and editing schemas. Find it easier to visualize a schema than to code it out.
  - <b>Filezilla</b>. Occasionally when I just want to drag and drop some things from or to a server. 
  - <b>Photoshop</b>. I use an old version of Photoshop which is still way to advanced for me. But it's fast and gets the job done.
@@ -52,5 +50,4 @@ list
 
 # Monthly
 
-list
  - <b>Visual Studio</b>. When I get an urge to write a new desktop program. 
