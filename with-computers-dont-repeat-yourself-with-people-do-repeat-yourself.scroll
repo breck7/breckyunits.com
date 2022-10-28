@@ -17,39 +17,35 @@ keyboardNav
 
 # Four Ways Computers and People are Different
 
-orderedList
- - <b>A computer's memory is perfect.</b> A computer forgets nothing. Tell it something once, and it will remember it forever. A human remembers almost nothing. I forget what I had for breakfast 2 days ago. I don't remember which people I talked to last week, nevermind what was said. If memory were cheese, a computer's would be cheddar and a human's would be swiss. You've got to repeat yourself when communicating with people because people forget.
- - <b>A computer is always paying attention.</b> Computers are perfect listeners. They are always listening to your input and storing it in memory. You, the operator, are the only thing they care about. Computers don't have needs. They don't daydream or have cellphones(yet). People on the other hand, rarely if ever pay full attention. They zone in and out. It's hard to even tell if they're zoned in, as we've all learned it's better to nod our heads. People have their own needs and concerns and opinions. You've got to repeat yourself when communicating with people because people don't pay attention.
- - <b>A computer understands your logic.</b> When you write a program, a computer never misunderstands. It will execute the program exactly as you typed it. People, however, do not communicate so flawlessly. Until I was 22 I used to think "hors d'oeuvres" meant dress nice. I did not understand the pronunciation. One time a friend emailed me about an event and said "Our place. Hors d'oeuvres. 7pm" and I responded "Awesome. Will there be food?" You've got to repeat yourself when communicating with people because people don't understand.
- - <b>A computer doesn't need to know what's most important.</b> Computers don't make decisions on their own and so don't need to know what's most important. A computer will remember everything equally. Then it will sit awaiting your commands. It won't make decisions without you. A person, however, will make decisions without you and so needs to know the order of importance of things. For example, if you're not a fan of peanuts, you might tell the waiter once that you'd prefer the salad without nuts. But if you're deathly allergic to peanuts, you should probably repeat yourself a few times so the waiter knows there better not be any nuts on your salad. You've got to repeat yourself when communicating with people because people need to know what's most important.
+- *A computer's memory is perfect.* A computer forgets nothing. Tell it something once, and it will remember it forever. A human remembers almost nothing. I forget what I had for breakfast 2 days ago. I don't remember which people I talked to last week, nevermind what was said. If memory were cheese, a computer's would be cheddar and a human's would be swiss. You've got to repeat yourself when communicating with people because people forget.
+- *A computer is always paying attention.* Computers are perfect listeners. They are always listening to your input and storing it in memory. You, the operator, are the only thing they care about. Computers don't have needs. They don't daydream or have cellphones(yet). People on the other hand, rarely if ever pay full attention. They zone in and out. It's hard to even tell if they're zoned in, as we've all learned it's better to nod our heads. People have their own needs and concerns and opinions. You've got to repeat yourself when communicating with people because people don't pay attention.
+- *A computer understands your logic.* When you write a program, a computer never misunderstands. It will execute the program exactly as you typed it. People, however, do not communicate so flawlessly. Until I was 22 I used to think "hors d'oeuvres" meant dress nice. I did not understand the pronunciation. One time a friend emailed me about an event and said "Our place. Hors d'oeuvres. 7pm" and I responded "Awesome. Will there be food?" You've got to repeat yourself when communicating with people because people don't understand.
+- *A computer doesn't need to know what's most important.* Computers don't make decisions on their own and so don't need to know what's most important. A computer will remember everything equally. Then it will sit awaiting your commands. It won't make decisions without you. A person, however, will make decisions without you and so needs to know the order of importance of things. For example, if you're not a fan of peanuts, you might tell the waiter once that you'd prefer the salad without nuts. But if you're deathly allergic to peanuts, you should probably repeat yourself a few times so the waiter knows there better not be any nuts on your salad. You've got to repeat yourself when communicating with people because people need to know what's most important.
 
 # A Numeric Explanation
 
 * If you tell something to your computer once:
 
-list
- - The odds the computer remembers: 100%.
- - The odds the computer was paying attention: 100%.
- - The odds the computer understood you: 100%.
- - The odds the computer gets the importance right: 100%.
+- The odds the computer remembers: 100%.
+- The odds the computer was paying attention: 100%.
+- The odds the computer understood you: 100%.
+- The odds the computer gets the importance right: 100%.
 
 * If you tell something to a person once:
 
-list
- - The odds the person remembers: 30%?
- - The odds the person was paying attention: 40%?
- - The odds the person understood you: 50%?
- - The odds the person gets the importance right: 30%?
+- The odds the person remembers: 30%?
+- The odds the person was paying attention: 40%?
+- The odds the person understood you: 50%?
+- The odds the person gets the importance right: 30%?
 
 * In other words, the odds of communicating perfectly are very low: <b>1.8%</b>! You are highly likely to run into at least one of those four problems. 
 
 * Now, if you repeat yourself 1 time, and we assume independence, here's how the probabilities change:
 
-list
- - The odds the person remembers: 51%
- - The odds the person was paying attention: 64%
- - The odds the person understood you: 75%
- - The odds the person gets the importance right: 51%
+- The odds the person remembers: 51%
+- The odds the person was paying attention: 64%
+- The odds the person understood you: 75%
+- The odds the person gets the importance right: 51%
 
 * By repeating yourself just once you've increased the chances of perfect communication from 1.8% to <b>12.5%</b>! Repeat yourself one more time and the probability of perfect communication increases to over 90%. Well, in this simplistic model anyway. But I hope you get the idea.
 
@@ -69,5 +65,4 @@ list
 
 # Notes
 
-orderedList
- 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
+- 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.

@@ -10,9 +10,8 @@ permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-re
 
 * You have a few ways to do this:
 
-orderedList
- 1. Provide your local IP address to the person.
- 2. Setup DNS to point a domain to your local IP.
+- 1. Provide your local IP address to the person.
+- 2. Setup DNS to point a domain to your local IP.
 
 * But what if your local computer is behind a NAT and you don't want to configure port forwarding on your router?
 

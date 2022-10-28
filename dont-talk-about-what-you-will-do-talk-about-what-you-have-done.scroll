@@ -43,11 +43,10 @@ image path6.png
 
 * What do you do? Do you say:
 
-orderedList
- 1. Dirt
- 2. Grass
- 3. I don't know. It could be either dirt or grass, or maybe something else entirely.
- 4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
+- 1. Dirt
+- 2. Grass
+- 3. I don't know. It could be either dirt or grass, or maybe something else entirely.
+- 4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
 
 * In my opinion you should say something like 3 or 4.
 
@@ -59,5 +58,4 @@ orderedList
 
 # Notes
 
-orderedList
- 1. In other words, don't overpromise and underdeliver.
+- 1. In other words, don't overpromise and underdeliver.

@@ -57,11 +57,10 @@ image medicalRecords/both.png
 
 * Let's imagine a 30 year old in 2050. They'd have around 11,200 days worth of data (I included some days for in utero records). Let's say there are 4 "buckets" of medical data in their MRD:
 
-orderedList
- 1. Time series sensor data
- 2. Image and point cloud data
- 3. Data from microbio protocols like genomic and metabolomic data
- 4. Text data
+- Time series sensor data
+- Image and point cloud data
+- Data from microbio protocols like genomic and metabolomic data
+- Text data
 
 * This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
 
@@ -69,11 +68,10 @@ image medicalRecords/categories.png
 
 * I am assuming that sensor development advances <i>a lot</i> in 40 years. I am assuming our patient of the future has:
 
-orderedList
- 1. 1,000 different passive 1-D biomedical sensors recording a reading once per second
- 2. 10 different passive photo and 3-D cameras capturing 100 frames per day each
- 3. 100 passive microbio systems generating 1GB of data per protocol (don't ask me how these will work, maybe something like this🔗www.youtube.com/watch?v=DJklHwoYgBQ )
- 4. For good measure I throw in a fourth bucket of 100k characters a day of plain text data
+- 1,000 different passive 1-D biomedical sensors recording a reading once per second
+- 10 different passive photo and 3-D cameras capturing 100 frames per day each
+- 100 passive microbio systems generating 1GB of data per protocol (don't ask me how these will work, maybe something like this🔗www.youtube.com/watch?v=DJklHwoYgBQ )
+- For good measure I throw in a fourth bucket of 100k characters a day of plain text data
 
 * By my estimate this person would log about <b>100GB of medical data per day, or about 100 petabytes of data in 30 years</b>. That would fit on roughly 1,000 of today's <a href="https://nimbusdata.com/products/exadrive-platform/scalable-ssds/">hard drives</a>.
 

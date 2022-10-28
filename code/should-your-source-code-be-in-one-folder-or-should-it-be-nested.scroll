@@ -126,10 +126,9 @@ code
 
 * The optimal solution is to not put your stuff into drawers, but to:
 
-orderedList
- 1. Remove as much stuff as possible.
- 2. Put the remaining stuff out in the open in neats piles in separate parts of the room.
- 3. If, and only if, you have a ton of the same type of thing, put those into their own drawer/cabinet.
+- 1. Remove as much stuff as possible.
+- 2. Put the remaining stuff out in the open in neats piles in separate parts of the room.
+- 3. If, and only if, you have a ton of the same type of thing, put those into their own drawer/cabinet.
 
 * If you apply this algorithm to a sample project, you might get something like a project I just made with <a href="http://github.com/breck7/uno">PHPUno</a>
 

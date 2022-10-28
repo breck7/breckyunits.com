@@ -29,16 +29,15 @@ quote
 * You can discover it by working harder or smarter:
 
 list
- - <b>The hard way.</b> You can try a ton of things, go through a to-do list dozens of items long, and hope you hit upon it.
- - <b>The smart way.</b> You can invest time learning instead of doing. Reading books, learning new math or programming techniques, talking to other people, thinking critically, etc. You'll then have a much better hunch at what the "least you can do is".
+ - *The hard way.* You can try a ton of things, go through a to-do list dozens of items long, and hope you hit upon it.
+ - *The smart way.* You can invest time learning instead of doing. Reading books, learning new math or programming techniques, talking to other people, thinking critically, etc. You'll then have a much better hunch at what the "least you can do is".
 
 * In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
 
 # Notes
 
-orderedList
- 1. Thanks to <a href="http://massbeacon.com">Conor</a> for providing feedback.
- 2. I never shop for clothes. Once a year, maybe twice. The reason I had so many was because I never got rid of any clothes.
- 3. This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
- 4. Finding the least you can do is kind of like <a href="http://en.wikipedia.org/wiki/Diff">diff</a>. You are trying to find the smallest change you can make to turn the status quo into an improved version. 
- 5. Another relevant computer science topics is the <a href="http://en.wikipedia.org/wiki/Longest_common_subsequence_problem">The longest common subsequence problem</a>.
+- Thanks to <a href="http://massbeacon.com">Conor</a> for providing feedback.
+- I never shop for clothes. Once a year, maybe twice. The reason I had so many was because I never got rid of any clothes.
+- This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
+- Finding the least you can do is kind of like <a href="http://en.wikipedia.org/wiki/Diff">diff</a>. You are trying to find the smallest change you can make to turn the status quo into an improved version. 
+- Another relevant computer science topics is the <a href="http://en.wikipedia.org/wiki/Longest_common_subsequence_problem">The longest common subsequence problem</a>.

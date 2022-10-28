@@ -14,14 +14,13 @@ endSnippet
 
 * My template for this (and maybe future) reports will be as follows:
 
-orderedList
- 1. High level status
- 2. Restate the problem
- 3. 2019 Pros
- 4. 2019 Cons
- 5. Next Steps
- 6. Status of Predictions
- 7. Organization Status
+- 1. High level status
+- 2. Restate the problem
+- 3. 2019 Pros
+- 4. 2019 Cons
+- 5. Next Steps
+- 6. Status of Predictions
+- 7. Organization Status
 
 # High Level Status
 
