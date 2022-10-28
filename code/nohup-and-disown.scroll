@@ -19,4 +19,4 @@ code
 
 * What is nohup? It's another obfuscated Nix low level utility that is an abbreviation for "No Hangup Signal", in other words: if the terminal sends a hangup signal, normally that kills all running processes, but this says ignore that.
 
-* Wikipedia article on nohup🔗en.wikipedia.org/wiki/Nohup.
+* Wikipedia article on <a href="https://en.wikipedia.org/wiki/Nohup.">nohup</a>

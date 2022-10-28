@@ -15,13 +15,13 @@ replace GrammarLinked <a href="https://jtree.treenotation.org/designer/#standard
 
 * ScrollLinked is a new language and static site generator that is mostly written in a new language called GrammarLinked which are both built on a new syntax called TreeNotationLinked.
 
-* In this demo, I extend Scroll by adding support for Markdown🔗en.wikipedia.org/wiki/Markdown, Textile🔗en.wikipedia.org/wiki/Textile_(markup_language), and BBCode🔗en.wikipedia.org/wiki/BBCode.
+* In this demo, I extend Scroll by adding support for <a href="https://en.wikipedia.org/wiki/Markdown,">Markdown</a> <a href="https://en.wikipedia.org/wiki/Textile_(markup_language),">Textile</a> and <a href="https://en.wikipedia.org/wiki/BBCode.
 
-* My code is still a bit researchy and buggy, but I think the more important thing here is to demo how simple and powerful indented heredocs are. They allow you to compose many languages in a clean and scalable way. You don't need escaping. I think this is a very helpful pattern you can use in your own languages and code.
+*">BBCode</a> My code is still a bit researchy and buggy, but I think the more important thing here is to demo how simple and powerful indented heredocs are. They allow you to compose many languages in a clean and scalable way. You don't need escaping. I think this is a very helpful pattern you can use in your own languages and code.
 
 # Indented Heredocs
 
-* A simple but largely accurate description of Tree Notation is that it is indented HereDocs🔗en.wikipedia.org/wiki/Here_document. A single indent down your block is all you need, no end delimiters or encoding necessary. It takes a little getting used to (it keeps improving as the Tree Notation tooling ecosystem improves), but I thoroughly enjoy it already and am surprised this simple trick was overlooked for so long.
+* A simple but largely accurate description of Tree Notation is that it is indented <a href="https://en.wikipedia.org/wiki/Here_document.">HereDocs</a> A single indent down your block is all you need, no end delimiters or encoding necessary. It takes a little getting used to (it keeps improving as the Tree Notation tooling ecosystem improves), but I thoroughly enjoy it already and am surprised this simple trick was overlooked for so long.
 
 # Quick Example
 
@@ -48,9 +48,9 @@ textile
 bbCode
  [u]bbCode rules![/u]
 
-* More extensive examples are pasted below. Source is here🔗github.com/breck7/breckyunits.com/tree/main/markups.
+* More extensive examples are pasted below. Source is <a href="https://github.com/breck7/breckyunits.com/tree/main/markups.
 
-# Extended Examples
+#">here</a> Extended Examples
 
 ## Markdown
 

@@ -22,7 +22,7 @@ code
 
 * The exclude option will exclude a file or directory from being synced.
 
-* Here's an explanation🔗ubuntuforums.org/showthread.php?t=251516 about the options I use. I use rsync with these options:
+* Here's an <a href="https://ubuntuforums.org/showthread.php?t=251516">explanation</a> about the options I use. I use rsync with these options:
 
 code
  rsync -arvuz /src/foo/ /dest/foo

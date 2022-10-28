@@ -16,4 +16,5 @@ code
 code
  git update-index --no-assume-unchanged filepath
 
-* Learn more here🔗www.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/.
+* Learn more <a href="https://www.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/.
+">here</a>

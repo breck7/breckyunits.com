@@ -37,7 +37,7 @@ keyboardNav
 
 * After almost two years of tinkering, and with a lot of inspiration from JSON, XML, HAML, Python, YAML, and other languages, we have a new simple encoding that I hope might make it easier for people to create and use web services.
 
-* We dubbed the encoding Note, and have put an early version with Javascript support up on Github🔗github.com/breck7/note. We've also put out a quick demonstration site that allows you to interact with some popular APIs using Note.
+* We dubbed the encoding Note, and have put an early version with Javascript support up on <a href="https://github.com/breck7/note.">Github</a> We've also put out a quick demonstration site that allows you to interact with some popular APIs using Note.
 
 * Note is a text based encoding that uses whitespace to give your data structure. Note is simple: there are only two syntax characters (newline and space). It is concise--not a single keystroke is wasted (we use a single space for indentation--why use 2 when one is sufficient?). Note is neat: the meaningful whitespace forces adherance to a clean style. These features make Note very easy to read and to write.
 

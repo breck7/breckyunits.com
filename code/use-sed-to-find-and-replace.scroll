@@ -25,7 +25,8 @@ code
 
 # Notes
 
-- sed tutorial🔗www.grymoire.com/Unix/Sed.html
-- findAndReplace🔗www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html with sed
-- sed on about.com🔗linux.about.com/od/bgb_guide/a/gdebgb44t03.htm
-- Very clear examples🔗drupal.org/node/128513
+- sed <a href="https://www.grymoire.com/Unix/Sed.html
+-">tutorial</a> <a href="https://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html">findAndReplace</a> with sed
+- sed on <a href="https://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm
+-">about.com</a> Very clear <a href="https://drupal.org/node/128513
+">examples</a>
