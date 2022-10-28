@@ -5,37 +5,31 @@ groups index
 keyboardNav
 permalink use-aliases-to-save-time.html
 
-aftertext
- Using aliases in Linux can save you a lot of time. Here's an example:
+* Using aliases in Linux can save you a lot of time. Here's an example:
  dateline
 
 code
  alias www='cd /var/www/html/'
 
-paragraph
- Instead of typing "cd /var/www/html/" to enter your web directory, now you can enter "www", a savings of at least 14 keystrokes each time you use it.
+* Instead of typing "cd /var/www/html/" to enter your web directory, now you can enter "www", a savings of at least 14 keystrokes each time you use it.
 
-paragraph
- This one will switch to the usr/sbin directory, restart apache, then switch to your home directory:
+* This one will switch to the usr/sbin directory, restart apache, then switch to your home directory:
 
 code
  alias apr='cd /usr/sbin/;sudo ./apachectl restart;cd'
 
-paragraph
- You can also just do:
+* You can also just do:
 
 code
  alias apr='/usr/sbin/apachectl restart'
 
-paragraph
- But the earlier example shows how you can string multiple commands together.
+* But the earlier example shows how you can string multiple commands together.
 
-section Bonus tip
+# Bonus tip
 
-paragraph
- Place these aliases in your HOME/.bash_profile file and they will be available each time you login to your machine.
+* Place these aliases in your HOME/.bash_profile file and they will be available each time you login to your machine.
 
-section Notes
+# Notes
 
 orderedList
  1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.

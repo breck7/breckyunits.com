@@ -1,8 +1,7 @@
 title Make Something 40% of Your Customers Must Have
 date 2009-12-16
 
-aftertext
- If you combine Paul Graham's "make something people want" advice with Sean Ellis' <a href="http://venturehacks.com/articles/sean-ellis-interview">product-market fit advice</a> (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
+* If you combine Paul Graham's "make something people want" advice with Sean Ellis' <a href="http://venturehacks.com/articles/sean-ellis-interview">product-market fit advice</a> (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
  dateline
 
 quote
@@ -13,32 +12,26 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Your steps are then: 
+* Your steps are then: 
 
 orderedList
  1. Make something people want. 
  2. Put it out there. 
  3. Survey your users. If less than 40% would be disappointed if your product disappeared, go back to step 1.
 
-paragraph
- Only when you hit that 40% number(or something in that range) should you be comfortable that you've really made something people want.
+* Only when you hit that 40% number(or something in that range) should you be comfortable that you've really made something people want.
 
-paragraph
- Does this advice work? I think it would for 3 reasons.
+* Does this advice work? I think it would for 3 reasons.
 
-section #1 The Sources
+# #1 The Sources
 
-paragraph
- PG and Sean Ellis know what they're talking about.
+* PG and Sean Ellis know what they're talking about.
 
-section #2 Companies that make my "Must Haves" are successful</b>
+# #2 Companies that make my "Must Haves" are successful</b>
 
-paragraph
- I made a list of my "must have" products and they are all largely successful. I suggest you try this too. It's a good exercise.
+* I made a list of my "must have" products and they are all largely successful. I suggest you try this too. It's a good exercise.
 
-paragraph
- My List of Must Haves:
+* My List of Must Haves:
 
 list
  - Google Search
@@ -69,39 +62,31 @@ list
  - HackerNews
  - Navicat
 
-section #3 The Only "Must Have" Product I Built was the Biggest Success
+# #3 The Only "Must Have" Product I Built was the Biggest Success
 
-paragraph
- I've worked on a number of products over the past 3 years. 
+* I've worked on a number of products over the past 3 years. 
 
-paragraph
- One of them I can tell you had a "I'd be disappointed if this disappeared" rate of over 40%. We sold that site.
+* One of them I can tell you had a "I'd be disappointed if this disappeared" rate of over 40%. We sold that site.
 
-paragraph
- All the others did not have that same "must-have" rate. We launched Jobpic this summer at Demo Day. People definitely wanted it. But we didn't get good product/market fit. If we had surveyed our users, I bet less than 10% of them would report being disappointed if Jobpic disappeared. Our options are to change the product to achieve better product/market fit, or go forward with an entirely new product that will be a must have. 
+* All the others did not have that same "must-have" rate. We launched Jobpic this summer at Demo Day. People definitely wanted it. But we didn't get good product/market fit. If we had surveyed our users, I bet less than 10% of them would report being disappointed if Jobpic disappeared. Our options are to change the product to achieve better product/market fit, or go forward with an entirely new product that will be a must have. 
 
-section Concluding thoughts
+# Concluding thoughts
 
-paragraph
- I don't know if this advice will work. But I'm going to try it.
+* I don't know if this advice will work. But I'm going to try it.
 
-paragraph
- Startup advice can be both exhilarating and demoralizing. 
+* Startup advice can be both exhilarating and demoralizing. 
 
-paragraph
- On the plus side, good advice can drastically help you. At the same time, if it's really good advice that means two things:
+* On the plus side, good advice can drastically help you. At the same time, if it's really good advice that means two things:
 
 orderedList
  1. This is how you should be doing things.
  2. You were not doing things this way.
 
-paragraph
- That can frustrating. I've spent a few years now in the space and to realize you've been doing certain things wrong for a few <i>years</i> is...well...painful.
+* That can frustrating. I've spent a few years now in the space and to realize you've been doing certain things wrong for a few <i>years</i> is...well...painful.
 
-paragraph
- But you laugh it off and keep chugging along. 
+* But you laugh it off and keep chugging along. 
 
-section Notes
+# Notes
 
 orderedList
  1. Thanks Nivi for the great Venture Hacks interview!

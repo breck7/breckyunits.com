@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink git-ignore-global.html
 
-aftertext
- Create a global .gitignore file to ignore common pains:
+* Create a global .gitignore file to ignore common pains:
  dateline
 
 code
@@ -18,5 +17,4 @@ code
 code
  git config --global core.excludesfile ~/.gitignore_global
 
-paragraph
- Thanks to github🔗web.archive.org/web/20120614225952/http://help.github.com/ignore-files/
+* Thanks to github🔗web.archive.org/web/20120614225952/http://help.github.com/ignore-files/

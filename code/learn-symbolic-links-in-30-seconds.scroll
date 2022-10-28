@@ -5,38 +5,30 @@ groups index
 keyboardNav
 permalink learn-symbolic-links-in-30-seconds.html
 
-aftertext
- Symbolic links are simple and can save you time.
+* Symbolic links are simple and can save you time.
  dateline
 
-paragraph
- Here's all you need to know:
+* Here's all you need to know:
 
 code
  ln -s actual_file_or_directory new_symbolic_link_name
 
-paragraph
- Let's do a real example from your home directory:
+* Let's do a real example from your home directory:
 
 code
  ln -s /var/www/html/yourwebsiteroot/yourblog blog
 
-paragraph
- Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
+* Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
 
-paragraph
- Here's one more example from your home directory:
+* Here's one more example from your home directory:
 
 code
  ln -s /etc/httpd/conf/httpd.conf httpd.conf
 
-paragraph
- Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
+* Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
 
-paragraph
- You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
+* You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
 
-section Notes
+# Notes
 
-paragraph
- Aliases🔗./use-aliases-to-save-time.html are another great time saver.
+* Aliases🔗./use-aliases-to-save-time.html are another great time saver.

@@ -1,44 +1,36 @@
 title The Invention of Free Will
 
-section Or..We Think we have Free Will because we only Observe One Path.
+# Or..We Think we have Free Will because we only Observe One Path.
 
 date 2010-03-24
 
-aftertext
- "Dad, I finished my homework. Why?"
+* "Dad, I finished my homework. Why?"
  dateline
 
-paragraph
- The father thinks for a moment. He realizes the answer involves explaining the state of the world prior to the child doing the homework. It involves explaining the complex probabilities that combined would calculate the odds the child was going to do the homework. And it likely involved explaining quantum mechanics.
+* The father thinks for a moment. He realizes the answer involves explaining the state of the world prior to the child doing the homework. It involves explaining the complex probabilities that combined would calculate the odds the child was going to do the homework. And it likely involved explaining quantum mechanics.
 
-paragraph
- The father shrugs and says "Because you have free will, and chose to do it."
+* The father shrugs and says "Because you have free will, and chose to do it."
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-section Free Will was Born
+# Free Will was Born
 
-paragraph
- Thus was born the notion of free will, a concept to explain why we have gone down certain paths when alternatives seemed perfectly plausible. We attribute the past to free will, and we attribute the unpredictability of the future to free will as well (i.e. "we haven't decided yet").
+* Thus was born the notion of free will, a concept to explain why we have gone down certain paths when alternatives seemed perfectly plausible. We attribute the past to free will, and we attribute the unpredictability of the future to free will as well (i.e. "we haven't decided yet").
 
-section One little problem
+# One little problem
 
-paragraph
- The problem is, this is wrong. You never choose just one path to go down. In fact, you go down all the paths. The catch is you only get to observe one.
+* The problem is, this is wrong. You never choose just one path to go down. In fact, you go down all the paths. The catch is you only get to observe one.
 
-paragraph
- In one world the child did their homework. In another world, they didn't.
+* In one world the child did their homework. In another world, they didn't.
 
-paragraph
- The child who did their homework will never encounter the child who didn't, but they both exist, albeit in different universes or dimensions. Both of them are left wondering why they "chose" the way they did. The reality is that they chose nothing. They're both just along for the ride.
+* The child who did their homework will never encounter the child who didn't, but they both exist, albeit in different universes or dimensions. Both of them are left wondering why they "chose" the way they did. The reality is that they chose nothing. They're both just along for the ride.
 
-paragraph
- Even the smug boy who says free will doesn't exist, is just one branch of the smug boy.
+* Even the smug boy who says free will doesn't exist, is just one branch of the smug boy.
 
-section Notes
+# Notes
 
 orderedList
  1. This all assumes, of course, that there are many🔗./the-many-worlds-law.html worlds and not just one.

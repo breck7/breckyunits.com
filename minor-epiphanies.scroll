@@ -1,41 +1,31 @@
 title Minor Epiphanies
 date 2013-03-16
 
-aftertext
- A kid says <i>Mommy</i> or <i>Daddy</i> or <i>Jack</i> or <i>Jill</i> hundreds of times before grasping the concept of a <i>name</i>.
+* A kid says <i>Mommy</i> or <i>Daddy</i> or <i>Jack</i> or <i>Jill</i> hundreds of times before grasping the concept of a <i>name</i>.
  dateline
 
-paragraph
- Likewise, a programmer types <i>name = Breck</i> or <i>age=15</i> hundreds of times before grasping the concept of a <i>variable</i>.
+* Likewise, a programmer types <i>name = Breck</i> or <i>age=15</i> hundreds of times before grasping the concept of a <i>variable</i>.
 
-paragraph
- What do you call it when someone finally sees the <i>concept</i>?
+* What do you call it when someone finally sees the <i>concept</i>?
 
-paragraph
- John Calcote, a programmer with decades of experience, calls it a <b>minor epiphany</b>.
+* John Calcote, a programmer with decades of experience, calls it a <b>minor epiphany</b>.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Minor epiphanies. Anyone who's programmed for a while can appreciate that term.
+* Minor epiphanies. Anyone who's programmed for a while can appreciate that term.
 
-paragraph
- When you start programming you do pure trial and error. <i>What will happen when I type this or click that?</i> You rely on memorization of action and reaction. Nothing makes sense. Every single term--variable, object, register, boolean, int, string, array, and so on--is completely and utterly foreign.
+* When you start programming you do pure trial and error. <i>What will happen when I type this or click that?</i> You rely on memorization of action and reaction. Nothing makes sense. Every single term--variable, object, register, boolean, int, string, array, and so on--is completely and utterly foreign.
 
-paragraph
- But you start to encounter these moments. These minor epiphanies, where suddenly you see the connection between a class of things. Suddenly something makes sense. Suddenly one term is not so foreign anymore. You have a new tool at your disposable. You have removed another obstacle that used to trip you.
+* But you start to encounter these moments. These minor epiphanies, where suddenly you see the connection between a class of things. Suddenly something makes sense. Suddenly one term is not so foreign anymore. You have a new tool at your disposable. You have removed another obstacle that used to trip you.
 
-paragraph
- In programming the well of minor epiphanies never runs dry. Even after you've learned thousands of things the epiphanies keep flowing at the same rate. Maybe the epiphanies are no longer about <i>what</i> the concept is, or <i>how</i> you can use it, but now are more about <i>where</i> did this concept come from, <i>when</i> was it created, <i>who</i> created it, and most fascinating of all, <i>why did they create it</i>?
+* In programming the well of minor epiphanies never runs dry. Even after you've learned thousands of things the epiphanies keep flowing at the same rate. Maybe the epiphanies are no longer about <i>what</i> the concept is, or <i>how</i> you can use it, but now are more about <i>where</i> did this concept come from, <i>when</i> was it created, <i>who</i> created it, and most fascinating of all, <i>why did they create it</i>?
 
-paragraph
- Minor epiphanies give you a rush, save you time, help you make better products, and help you earn more.
+* Minor epiphanies give you a rush, save you time, help you make better products, and help you earn more.
 
-paragraph
- As someone who loves to learn, my favorite thing about them is the rush you get from having something suddenly click. They make this programming thing really, really fun. Day in and day out.
+* As someone who loves to learn, my favorite thing about them is the rush you get from having something suddenly click. They make this programming thing really, really fun. Day in and day out.
 
 list
  * Stumbled upon the term in John Calcote's book "Autotools".

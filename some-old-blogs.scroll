@@ -2,48 +2,40 @@ title Some old blogs
 date 2021-05-07
 permalink some-old-blogs.html
 
-aftertext
- I found it mildly interesting to dig up my earlier blogs and put them in this git.
+* I found it mildly interesting to dig up my earlier blogs and put them in this git.
  This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine heart ❤️.
  dateline
 
-section August 2007 - Running Wordpress on my own domain
+# August 2007 - Running Wordpress on my own domain
 
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- It looks like I registered breckyunits.com on August 24th, 2007. It appears I used Wordpress <a class="wayback" href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">🕸</a>.
+* It looks like I registered breckyunits.com on August 24th, 2007. It appears I used Wordpress <a class="wayback" href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">🕸</a>.
  There's a Flash widget on there.
  The title of the site is "The Best Blog on the Internet". I think it was a good joke.
  I had just recently graduated college, and had not yet moved to the West Coast.
 
-section July 2009 - Two years of Wordpress
+# July 2009 - Two years of Wordpress
 
-paragraph
- About two years later, my Wordpress blog had grown to many pages <a class="wayback" href="https://web.archive.org/web/20090713043922/http://breckyunits.com/">🕸</a>.
+* About two years later, my Wordpress blog had grown to many pages <a class="wayback" href="https://web.archive.org/web/20090713043922/http://breckyunits.com/">🕸</a>.
 
-section August 2009 - Switched to Posterous
+# August 2009 - Switched to Posterous
 
-paragraph
- Looks like I started transitioning to a new site <a class="wayback" href="https://web.archive.org/web/20090813063739/http://breckyunits.com/">🕸</a> , and moved my blog from my own server running Wordpress to posterous <a class="wayback" href="https://web.archive.org/web/20130307210904/http://breck7.posterous.com/">🕸</a>.
+* Looks like I started transitioning to a new site <a class="wayback" href="https://web.archive.org/web/20090813063739/http://breckyunits.com/">🕸</a> , and moved my blog from my own server running Wordpress to posterous <a class="wayback" href="https://web.archive.org/web/20130307210904/http://breck7.posterous.com/">🕸</a>.
 
-paragraph
- After I moved to posterous, I put up this homepage🔗./oldHomepage/ <a class="wayback" href="https://web.archive.org/web/20091103021126/http://www.breckyunits.com/">🕸</a>.
+* After I moved to posterous, I put up this homepage🔗./oldHomepage/ <a class="wayback" href="https://web.archive.org/web/20091103021126/http://www.breckyunits.com/">🕸</a>.
 
-section December 2009 - Switched to Brecksblog
+# December 2009 - Switched to Brecksblog
 
-paragraph
- In December 2009 I wrote my own blog software called brecksblog🔗github.com/breck7/brecksblog. Here's what my new site looked like <a class="wayback" href="https://web.archive.org/web/20091204020806/http://breckyunits.com/">🕸</a>.
+* In December 2009 I wrote my own blog software called brecksblog🔗github.com/breck7/brecksblog. Here's what my new site looked like <a class="wayback" href="https://web.archive.org/web/20091204020806/http://breckyunits.com/">🕸</a>.
 
-paragraph
- I kept it simple. My current homepage🔗breckyunits.com, now powered by Scroll🔗scroll.pub, evolved from brecksblog.
+* I kept it simple. My current homepage🔗breckyunits.com, now powered by Scroll🔗scroll.pub, evolved from brecksblog.
  
-section December 2009 - My "Computer science" blog
+# December 2009 - My "Computer science" blog
 
-paragraph
- It looks like I also maintained a programming blog from December 2009 to January 2012 <a class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that blog🔗./code/ migrated to Scroll.
+* It looks like I also maintained a programming blog from December 2009 to January 2012 <a class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that blog🔗./code/ migrated to Scroll.
 
 html
  <style>.wayback{text-decoration: none;}</style>

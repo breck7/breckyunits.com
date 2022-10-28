@@ -1,8 +1,7 @@
 title The Many Worlds Law
 date 2009-12-06
 
-aftertext
- Imagine you are eating dinner with 9 friends and you all agree to play Credit Card Roulette. Credit Card Roulette is a game where everyone puts their credit card in a pile and the server randomly chooses one and charges the whole meal to it.
+* Imagine you are eating dinner with 9 friends and you all agree to play Credit Card Roulette. Credit Card Roulette is a game where everyone puts their credit card in a pile and the server randomly chooses one and charges the whole meal to it.
  dateline
 
 endSnippet
@@ -10,32 +9,24 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Imagine you are playing this game with your own friends. Pause for a second and picture it happening. 
+* Imagine you are playing this game with your own friends. Pause for a second and picture it happening. 
 
-paragraph
- ...
+* ...
 
-paragraph
- What did you see?
+* What did you see?
 
-paragraph
- I bet you saw one person's card get picked and that person was sad and everyone else laughed.
+* I bet you saw one person's card get picked and that person was sad and everyone else laughed.
 
-paragraph
- Wrong!
+* Wrong!
 
-paragraph
- This is <i>not what really happened</i>! In reality, despite the fact that you observed only one's person card getting picked, in reality <i>everyone's card got chosen</i>. 
+* This is <i>not what really happened</i>! In reality, despite the fact that you observed only one's person card getting picked, in reality <i>everyone's card got chosen</i>. 
 
-paragraph
- In reality, when you played the game, the world split into 10 paths, and every person's card got picked in one of those paths. You only observed one path, but trust me, there were 9 others. 
+* In reality, when you played the game, the world split into 10 paths, and every person's card got picked in one of those paths. You only observed one path, but trust me, there were 9 others. 
 
-paragraph
- This is a simple example of the many worlds law. You probably were not taught the many worlds law in school, which is a shame. It's one of the most important laws in the world. 
+* This is a simple example of the many worlds law. You probably were not taught the many worlds law in school, which is a shame. It's one of the most important laws in the world. 
 
 
-section Notes
+# Notes
 
 orderedList
  1. I love this game because I don't have a credit card

@@ -18,6 +18,5 @@ code
  *~
  .DS_Store
 
-aftertext
- <a href="http://railstutorial.org/chapters/beginning#sec:adding_and_committing">Source</a>
+* <a href="http://railstutorial.org/chapters/beginning#sec:adding_and_committing">Source</a>
  dateline

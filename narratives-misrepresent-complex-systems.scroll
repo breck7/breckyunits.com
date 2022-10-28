@@ -1,8 +1,7 @@
 title Narratives Misrepresent Complex Systems
 date 2012-12-16
 
-aftertext
- When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
+* When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
  dateline
 
 image family_circus/0.png
@@ -12,104 +11,78 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- These strips gave a clear narrative of Billy's day. In the strip above, Billy, a fun loving kid, was given a task by his mother to put some letters in the mailbox before the mailman arrives. Billy took the letters, ran into the kitchen, then dashed into the living room, jumped on the couch, sprinted to the dining room, crawled under the dining room table, skipped into the TV room, jumped into the crib, twirled into the foyer, stumbled outside, swung around the light post, then ran to the mailbox.
+* These strips gave a clear narrative of Billy's day. In the strip above, Billy, a fun loving kid, was given a task by his mother to put some letters in the mailbox before the mailman arrives. Billy took the letters, ran into the kitchen, then dashed into the living room, jumped on the couch, sprinted to the dining room, crawled under the dining room table, skipped into the TV room, jumped into the crib, twirled into the foyer, stumbled outside, swung around the light post, then ran to the mailbox.
 
-paragraph
- We know the end result: Billy failed to get to the mailbox in time.
+* We know the end result: Billy failed to get to the mailbox in time.
 
-paragraph
- With this picture in mind, let's do a thought experiment.
+* With this picture in mind, let's do a thought experiment.
 
-paragraph
- Let's imagine that right now, once again, Billy and his mom are standing in the laundry room and she's about to give him the mail. What are the odds that Billy gets to the mailbox in time?
+* Let's imagine that right now, once again, Billy and his mom are standing in the laundry room and she's about to give him the mail. What are the odds that Billy gets to the mailbox in time?
 
-paragraph
- Pick a range, and then <a onclick="document.getElementById('answer').style.display='block'" style="color:blue; cursor: pointer;">click here</a> to see the answer.
+* Pick a range, and then <a onclick="document.getElementById('answer').style.display='block'" style="color:blue; cursor: pointer;">click here</a> to see the answer.
 
 html
  <div style="display: none;" id="answer">
 
-paragraph
- If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
+* If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
 
-paragraph
- But, if you're like me, it would be hard to resist making a more precise guess based upon the story we saw. Humans, at least many of us, are quick to build narratives around events and then rely on those narratives to make predictions.
+* But, if you're like me, it would be hard to resist making a more precise guess based upon the story we saw. Humans, at least many of us, are quick to build narratives around events and then rely on those narratives to make predictions.
 
-paragraph
- We know what happened before, so we try to predict the future off of that. This wouldn't be a problem if we truly knew what happened before. The problem is: we don't actually know what happened before. We only know what we witnessed before. <i>A lot happened that we didn't witness</i>.
+* We know what happened before, so we try to predict the future off of that. This wouldn't be a problem if we truly knew what happened before. The problem is: we don't actually know what happened before. We only know what we witnessed before. <i>A lot happened that we didn't witness</i>.
 
-paragraph
- The problem is we only get to witness one universe, one path, but nature in fact, is constantly generating many, many paths. What we witnessed is not the whole story. What we witnessed is just a slice of the story.
+* The problem is we only get to witness one universe, one path, but nature in fact, is constantly generating many, many paths. What we witnessed is not the whole story. What we witnessed is just a slice of the story.
 
-paragraph
- Words might not be the best way to explain this. Let's draw it out.
+* Words might not be the best way to explain this. Let's draw it out.
 
-paragraph
- I'm going to redraw the strip above to show you more of the story. More of what actually happened. Because I suck at drawing, my first step will be to simplify the strip a bit. Here is my simplified Family Circus house:
+* I'm going to redraw the strip above to show you more of the story. More of what actually happened. Because I suck at drawing, my first step will be to simplify the strip a bit. Here is my simplified Family Circus house:
 
 image family_circus/1.png
 
-paragraph
- And here is the path in the actual comic redrawn in my version:
+* And here is the path in the actual comic redrawn in my version:
 
 image family_circus/2.png
 
-paragraph
- Now, my assumption, based on the hunch that the multiverse theory of the world is correct, is that the universe is constantly branching, and so, somewhere out there, Billy took a direct path to the mailbox:
+* Now, my assumption, based on the hunch that the multiverse theory of the world is correct, is that the universe is constantly branching, and so, somewhere out there, Billy took a direct path to the mailbox:
 
 image family_circus/3.png
 
-paragraph
- There's proably also a universe where he took a direct route but also took a minute to watch some TV:
+* There's proably also a universe where he took a direct route but also took a minute to watch some TV:
 
 image family_circus/4.png
 
-paragraph
- And there's a universe where he took the same winding route as in the original, except without the trip to the dining room:
+* And there's a universe where he took the same winding route as in the original, except without the trip to the dining room:
 
 image family_circus/5.png
 
-paragraph
- A universe where he took an even longer route than the original:
+* A universe where he took an even longer route than the original:
 
 image family_circus/6.png
 
-paragraph
- And maybe a universe where he snuck out the back door and took a real quick route:
+* And maybe a universe where he snuck out the back door and took a real quick route:
 
 image family_circus/7.png
 
-paragraph
- Finally, perhaps there was a universe where he refused his mother's order and didn't go to the mailbox at all:
+* Finally, perhaps there was a universe where he refused his mother's order and didn't go to the mailbox at all:
 
 image family_circus/8.png
 
-paragraph
- Now, although this is still just a sliver of what actually happened, it is a lot more realistic picture of what happened than just having the original, which does not tell us what happened, but just what we witnessed.
+* Now, although this is still just a sliver of what actually happened, it is a lot more realistic picture of what happened than just having the original, which does not tell us what happened, but just what we witnessed.
 
-paragraph
- It is easy to build a narrative off of what we witnessed. But that is the problem.
+* It is easy to build a narrative off of what we witnessed. But that is the problem.
 
-paragraph
- Predicting what is going to happen in the future requires us understanding what happened in the past.
+* Predicting what is going to happen in the future requires us understanding what happened in the past.
 
-paragraph
- We can combine all of the paths above to get a more realistic look at what happened in the past:
+* We can combine all of the paths above to get a more realistic look at what happened in the past:
 
 image family_circus/9.png
 
-paragraph
- You cannot build much of a narrative out of that. When you look honestly at nature, you cannot create a narrative. As Taleb would say, nature is what it is, it does not need a narrative.
+* You cannot build much of a narrative out of that. When you look honestly at nature, you cannot create a narrative. As Taleb would say, nature is what it is, it does not need a narrative.
 
-paragraph
- The bottom line is, beware of narratives. Don't make predictions based off narratives.
+* The bottom line is, beware of narratives. Don't make predictions based off narratives.
 
-paragraph
- Experiments, where we get to witness thousands or millions of universes are good for instruction, for prediction. But narratives are for entertainment.
+* Experiments, where we get to witness thousands or millions of universes are good for instruction, for prediction. But narratives are for entertainment.
 
-paragraph
- (Influenced a lot by Taleb's new book, Antifragile.)
+* (Influenced a lot by Taleb's new book, Antifragile.)
 
 html
  </div>

@@ -5,23 +5,19 @@ groups index
 import settings.scroll
 keyboardNav
 
-aftertext
- I thought it unlikely that I'd actually cofound another
+* I thought it unlikely that I'd actually cofound another
  startup, but here we are. Sometimes you gotta do what you
  gotta do.
  dateline
 
-paragraph
- We are starting <a
+* We are starting <a
  href="https://publicdomaincompany.com/">the Public
  Domain Publishing Company</a>. The name should be largely
  self-explanatory.
 
-paragraph
- If I had to bet, I'd say I'll probably be actively working
+* If I had to bet, I'd say I'll probably be actively working
  on this for a while. But there's a chance I go on
  sabbatical quick.
 
-paragraph
- The team is coming together. Check out the homepage for a
+* The team is coming together. Check out the homepage for a
  list of open positions.

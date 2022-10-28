@@ -5,45 +5,38 @@ groups index
 keyboardNav
 permalink rvm-quick-reference.html
 
-aftertext
- Return to the Mac OS X default Ruby install:
+* Return to the Mac OS X default Ruby install:
  dateline
 
 code
  rvm system
 
-paragraph
- Switch to Ruby 1.9.2:
+* Switch to Ruby 1.9.2:
 
 code
  rvm 1.9.2
 
-paragraph
- Create a new gemset:
+* Create a new gemset:
 
 code
  rvm gemset create rails3
 
-paragraph
- Switch to newly created gemset:
+* Switch to newly created gemset:
 
 code
  rvm 1.9.2@rails3
 
-paragraph
- Install rails 3 on new gemset:
+* Install rails 3 on new gemset:
 
 code
  gem install rails -v 3.0.3
 
-paragraph
- Return to default ruby install:
+* Return to default ruby install:
 
 code
  rvm system
 
-paragraph
- Install a new version of Ruby:
+* Install a new version of Ruby:
 
 code
  rvm install 1.9.2

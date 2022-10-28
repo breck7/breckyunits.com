@@ -5,12 +5,9 @@ groups index
 keyboardNav
 permalink ack-and-ackmate.html
 
-aftertext
- So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.
+* So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.
  dateline
 
-paragraph
- Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href="http://betterthangrep.com/">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
+* Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href="http://betterthangrep.com/">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
 
-paragraph
- This is probably something I would have learned faster had I been doing more pair programming with senior devs.
+* This is probably something I would have learned faster had I been doing more pair programming with senior devs.

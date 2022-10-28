@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink pwd-while-in-a-symlink-directory.html
 
-aftertext
- to get the actual directory, run:
+* to get the actual directory, run:
  dateline
 
 code

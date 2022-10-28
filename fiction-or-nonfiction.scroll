@@ -1,8 +1,7 @@
 title Fiction or Nonfiction?
 date 2009-12-02 3
 
-aftertext
- What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
+* What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
  dateline
 
 endSnippet
@@ -10,23 +9,17 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Do you have your list yet? Writing it down may help. Try to write down 10 books that you think have most impacted your life. 
+* Do you have your list yet? Writing it down may help. Try to write down 10 books that you think have most impacted your life. 
 
-paragraph
- Take all the time you need before moving on.
+* Take all the time you need before moving on.
 
-paragraph
- Are you done yet? Don't cheat. Write it down then continue reading.
+* Are you done yet? Don't cheat. Write it down then continue reading.
 
-paragraph
- Okay, at this point I'm assuming you've followed instructions and wrote down your list of 10 books. 
+* Okay, at this point I'm assuming you've followed instructions and wrote down your list of 10 books. 
 
-paragraph
- Now you have one more step. To the right of each book title, write "fiction" or "nonfiction". You can use the abbreviations "F" and "NF" if you wish.
+* Now you have one more step. To the right of each book title, write "fiction" or "nonfiction". You can use the abbreviations "F" and "NF" if you wish.
 
-paragraph
- You should now have a list that looks something like mine:
+* You should now have a list that looks something like mine:
 
 list
  - How to Read a Book - NF
@@ -40,16 +33,13 @@ list
  - Lord of the Flies - F
  - The Illiad - F
 
-paragraph
- Now, count the NF's. How many do you have? I have 7. So 7 out of the 10 books that I think have most impacted my life are non-fiction. Therefore, if I have to guess whether the next book I read that greatly impacts my life will be fiction or nonfiction, my guess is it will be nonfiction. 
+* Now, count the NF's. How many do you have? I have 7. So 7 out of the 10 books that I think have most impacted my life are non-fiction. Therefore, if I have to guess whether the next book I read that greatly impacts my life will be fiction or nonfiction, my guess is it will be nonfiction. 
 
-paragraph
- What's your list? Do you think the next book that will greatly impact your life will be fiction or non-fiction?
+* What's your list? Do you think the next book that will greatly impact your life will be fiction or non-fiction?
 
-paragraph
- Share your results <a href="http://news.ycombinator.com/item?id=973741">here</a>.
+* Share your results <a href="http://news.ycombinator.com/item?id=973741">here</a>.
 
-section Notes
+# Notes
 
 orderedList
  1. I read about equal amounts fiction and nonfiction. So on average, I get greater return from nonfiction reading.

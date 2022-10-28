@@ -5,15 +5,13 @@ groups index
 keyboardNav
 permalink gca-alias-for-faster-git.html
 
-aftertext
- One of my most frequent commands is:
+* One of my most frequent commands is:
  dateline
 
 code
  git commit -am "message"
 
-paragraph
- I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystrokes:
+* I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystrokes:
 
 code
  alias gca="git commit -am "

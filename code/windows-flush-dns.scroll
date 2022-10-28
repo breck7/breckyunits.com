@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink windows-flush-dns.html
 
-aftertext
- Open cmd.exe. Run:
+* Open cmd.exe. Run:
  dateline
 
 code

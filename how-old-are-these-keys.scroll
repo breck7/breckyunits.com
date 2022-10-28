@@ -4,14 +4,12 @@ image keyboard/screenshot.png
 
 date 2020-02-25
 
-aftertext
- One of the questions I often come back to is this: how much
+* One of the questions I often come back to is this: how much
  of our collective wealth is inherited by our generations
  versus created by our generations?
  dateline
 
-paragraph
- I realized that the keys on the keyboard in front of me
+* I realized that the keys on the keyboard in front of me
  might make a good dataset to attack that problem. So I
  built a small little <a href="/keyboard/">experiment to
  explore the history of the keys on my keyboard</a>.
@@ -21,10 +19,9 @@ groups index
 import settings.scroll
 keyboardNav
 
-section The Five Waves of Symbols
+# The Five Waves of Symbols
 
-paragraph
- Painting with broad strokes, there were approximately five
+* Painting with broad strokes, there were approximately five
  big waves of inventions that have left their mark on the
  keyboard:
 
@@ -35,15 +32,13 @@ orderedList
  4. The fourth wave was the invention of the typewriter.
  5. And the fifth and most recent wave was the invention of the personal computer.
 
-paragraph
- I haven't made any traditional charts yet with this
+* I haven't made any traditional charts yet with this
  dataset, but you can roughly make out these waves in the
  interactive visualization by moving the slider around.
 
-section Concentric Circles
+# Concentric Circles
 
-paragraph
- An interesting pattern that I never saw before is how the
+* An interesting pattern that I never saw before is how the
  five waves above are roughly arranged in circles. The
  oldest symbols (letters) are close to the center, followed
  by the Hindu-Arabic Numbers, surrounded by the punctuation
@@ -52,36 +47,30 @@ paragraph
  era. Again, painting with broad strokes, but I found that
  to be an interesting pattern.
 
-section Standing on the Shoulders of Giants
+# Standing on the Shoulders of Giants
 
-paragraph
- All of these waves happened invented before my generation.
+* All of these waves happened invented before my generation.
  Almost all of them before any generation alive today. The
  keyboard dataset provides strong evidence that most of our
  collective wealth is inherited.
 
-section Build Notes
+# Build Notes
 
-paragraph
- I got this idea last week and couldn't get it out of my
+* I got this idea last week and couldn't get it out of my
  head. Yesterday I took a quick crack at it. I didn't have
  much time to spare, just enough to explore the big ideas.
 
-paragraph
- I started by typing all the characters on my keyboard into a
+* I started by typing all the characters on my keyboard into a
  Tree Notation document. Then I dug up some years for a
  handful of the symbols.
 
-paragraph
- Next I found the great Apple CSS
+* Next I found the great Apple CSS
  keyboard. I stitched together the two and it seemed to be
  at least mildly interesting so I opted to continue.
 
-paragraph
- I then flushed out most of the dataset.
+* I then flushed out most of the dataset.
 
-paragraph
- Finally I played around with a number of visualization effects. At first I thought
+* Finally I played around with a number of visualization effects. At first I thought
  heatmaps would work well, and tried a few variations on
  that, but wasn't happy with anything. I posted my
  work-in-progress to a few friends last night and called it
@@ -89,7 +78,6 @@ paragraph
  visualization. That definitely felt like a better approach
  than the heatmap.
 
-paragraph
- I made the thing as fun as I could given time constraints and then shipped.
+* I made the thing as fun as I could given time constraints and then shipped.
 
 maxColumns 2

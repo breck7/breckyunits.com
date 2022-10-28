@@ -1,12 +1,10 @@
 title Thoughts on Setting Goals
 date 2009-12-23
 
-aftertext
- It is better to set small, meaningful goals than to set wild, audacious goals.
+* It is better to set small, meaningful goals than to set wild, audacious goals.
  dateline
 
-paragraph
- Here's one way to set goals:
+* Here's one way to set goals:
 
 quote
  Make them good. Make them small.
@@ -16,10 +14,9 @@ groups index
 import settings.scroll
 keyboardNav
 
-section Make them Good
+# Make them Good
 
-paragraph
- Good goals create value. Some examples:
+* Good goals create value. Some examples:
 
 list
  - Make a customer smile.
@@ -27,18 +24,15 @@ list
  - Learn how to cook.
  - Organize weather information.
 
-section Make them Small
+# Make them Small
 
-paragraph
- Start small. It is better to set one or two goals per time period than to set two dozen goals. Instead of a goal like "get 1,000,000 people to your website", start with a smaller goal like "get 10 people to your website."
+* Start small. It is better to set one or two goals per time period than to set two dozen goals. Instead of a goal like "get 1,000,000 people to your website", start with a smaller goal like "get 10 people to your website."
 
-paragraph
- If you exceed a goal and still think it's a good thing, raise the goal an order of magnitude. If you get those 10 visitors, aim for 100.
+* If you exceed a goal and still think it's a good thing, raise the goal an order of magnitude. If you get those 10 visitors, aim for 100.
 
-section Why Small Goals Are Better
+# Why Small Goals Are Better
 
-paragraph
- Setting smaller goals is better because:
+* Setting smaller goals is better because:
 
 list
  - It feels good when you exceed a goal. Occasionally you'll wildly exceed a goal and that will feel great.
@@ -47,10 +41,9 @@ list
  - It's less stressful and makes you happier. Low expectations are good because in most cases you will exceed them and feel happy. High expectations, by definition, are bad because in most cases you will not meet them and feel bad. 
  - Goals are arbitrary anyway. All goals are simply arbitrary constraints that help you focus--often with a team--to get stuff done. So since they're arbitrary, and as long as they're good goals, might as well make them simpler and easier.
 
-section Setting Ranges
+# Setting Ranges
 
-paragraph
- Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
+* Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
 
 spaceTable
  LowBar HighBar What
@@ -58,5 +51,4 @@ spaceTable
  2 4 product improvements
  1 3 blog posts
 
-paragraph
- If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy. 
+* If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy. 

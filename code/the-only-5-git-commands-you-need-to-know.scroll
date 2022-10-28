@@ -11,12 +11,10 @@ chat
  If *every single great programmer* uses version control, why do some beginning programmers avoid it?
  Because version control is made to seem intimidating. But version control is actually very easy!
 
-aftertext
- If you are new to version control, there are only 5 commands you need to memorize. Can you memorize 5 words? Of course you can.
+* If you are new to version control, there are only 5 commands you need to memorize. Can you memorize 5 words? Of course you can.
  dateline
 
-paragraph
- So memorize these 5 words and you'll be practically an expert at version control:
+* So memorize these 5 words and you'll be practically an expert at version control:
 
 code
  init
@@ -25,41 +23,34 @@ code
  commit
  push
 
-paragraph
- If you just start playing around with these 5 and only these 5 commands, you'll become a git master in no time. 
+* If you just start playing around with these 5 and only these 5 commands, you'll become a git master in no time. 
 
-paragraph
- Here's a simple practice session you can follow to start getting good.
+* Here's a simple practice session you can follow to start getting good.
 
-question What is git?
+? What is git?
 
-paragraph
- Git is a simple command line program like "wget" or "vim" that you install and use by typing commands. If you don't have git installed, try one of these commands:
+* Git is a simple command line program like "wget" or "vim" that you install and use by typing commands. If you don't have git installed, try one of these commands:
 
 code
  yum install git-core
  apt-get install git-core
  sudo port install git-core
 
-paragraph
- Let's say you're creating a new website for your mom and want to use version control to do it.
+* Let's say you're creating a new website for your mom and want to use version control to do it.
 
 code
  mkdir moms_website
  cd moms_website
  git init
 
-paragraph
- This creates a git repository. Now type:
+* This creates a git repository. Now type:
 
 code
  ls -a
 
-paragraph
- Do you see the new ".git" directory? That's the git repository. It's basically a folder that stores the whole history of your project. Now, when you type a git command, it will do something with the files in that folder. That's all that's really going on. You never need to go into that folder manually, I was just explaining what git is doing.
+* Do you see the new ".git" directory? That's the git repository. It's basically a folder that stores the whole history of your project. Now, when you type a git command, it will do something with the files in that folder. That's all that's really going on. You never need to go into that folder manually, I was just explaining what git is doing.
 
-paragraph
- Now, let's create a file and add it to your repository.
+* Now, let's create a file and add it to your repository.
 
 code
  vim index.php
@@ -67,37 +58,30 @@ code
  :wq
  git status
 
-paragraph
- This will show the presence of an untracked file, "index.php". Let's add this file.
+* This will show the presence of an untracked file, "index.php". Let's add this file.
 
 code
  git add index.php
 
-paragraph
- You've now added the file to git, let's *commit* our changes.
+* You've now added the file to git, let's *commit* our changes.
 
 code
  git commit -m "first commit"
 
-paragraph
- Now you've made your first commit. 
+* Now you've made your first commit. 
 
-paragraph
- The last command you'll need is *push*. It works like this:
+* The last command you'll need is *push*. It works like this:
 
 code
  git push
 
-paragraph
- That will upload your repository to an online host like github so that other people can collaborate.
+* That will upload your repository to an online host like github so that other people can collaborate.
 
-paragraph
- Create a github account and follow the instructions for creating a new repository to test out this final command.
+* Create a github account and follow the instructions for creating a new repository to test out this final command.
 
-paragraph
- That's it! Those are the 5 commands you'll use over and over again. Master those and slowly you'll start learning a few other helpful git commands.
+* That's it! Those are the 5 commands you'll use over and over again. Master those and slowly you'll start learning a few other helpful git commands.
 
-section Recap
+# Recap
 
 code
  git init

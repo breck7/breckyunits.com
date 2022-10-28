@@ -5,53 +5,43 @@ groups index
 keyboardNav
 permalink use-grep-to-search-multiple-files-at-once.html
 
-aftertext
- grep lets you search through multiple text files at once.
+* grep lets you search through multiple text files at once.
  dateline
 
-paragraph
- I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
+* I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
 
 code
  grep -r picture *
 
-paragraph
- This searched all the files in my current directory as well as all the files in each subdirectory, and printed the filename and line where the word "picture" appeared.
+* This searched all the files in my current directory as well as all the files in each subdirectory, and printed the filename and line where the word "picture" appeared.
 
-paragraph
- Then I went in and changed the 2 files that needed modifying.
+* Then I went in and changed the 2 files that needed modifying.
 
-paragraph
- Had I wanted to just search the current directory (without the subdirectories) I could have done:
+* Had I wanted to just search the current directory (without the subdirectories) I could have done:
 
 code
  grep picture *.*
 
-paragraph
- This would have searched through all the files in the current directory.
+* This would have searched through all the files in the current directory.
 
-paragraph
- Had I wanted to search in just 1 specific file:
+* Had I wanted to search in just 1 specific file:
 
 code
  grep picture filename.txt
 
-paragraph
- Had I wanted to do a case insensitive search:
+* Had I wanted to do a case insensitive search:
 
 code
  grep -ir picture *
 
-paragraph
- Had I wanted to exclude a directory and done a case insensitive search:
+* Had I wanted to exclude a directory and done a case insensitive search:
 
 code
  grep -ri "searchstring" --exclude="*\.svn*" *
 
-paragraph
- (grep uses regular expressions)
+* (grep uses regular expressions)
 
-section Links
+# Links
 list
  - grep🔗en.wikipedia.org/wiki/Grep on Wikipedia
  - Stackoverflow🔗stackoverflow.com/questions/221921/grep-exclude-include-syntax-do-not-grep-through-certain-files grep help

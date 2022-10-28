@@ -5,44 +5,35 @@ groups index
 keyboardNav
 permalink pipes-standard-output-and-standard-input.html
 
-aftertext
- In linux, standard input refers to the stream of bits that come from your keyboard.
+* In linux, standard input refers to the stream of bits that come from your keyboard.
  dateline
 
-paragraph
- Standard output refers to the stream of bits that appear on your screen(terminal).
+* Standard output refers to the stream of bits that appear on your screen(terminal).
 
-paragraph
- You can change this around so that standard input comes from another source(say, a file) or so that standard output gets directed somewhere else (say, a file).
+* You can change this around so that standard input comes from another source(say, a file) or so that standard output gets directed somewhere else (say, a file).
 
-paragraph
- For example, say we wanted to email someone a file containing the contents of our home directory. We could do this:
+* For example, say we wanted to email someone a file containing the contents of our home directory. We could do this:
 
 code
  ls ~ | vim -
 
-paragraph
- This will pipe the output from the ls command to vim. You can then edit and save this file normally as you would in vim.
+* This will pipe the output from the ls command to vim. You can then edit and save this file normally as you would in vim.
 
-paragraph
- There's another type of pipe you could use for this example: greater than.
+* There's another type of pipe you could use for this example: greater than.
 
 code
  ls ~ > contents.txt
 
-paragraph
- This will redirect the output to the contents.txt file.
+* This will redirect the output to the contents.txt file.
 
-paragraph
- You can also append output by using two greater than signs:
+* You can also append output by using two greater than signs:
 
 code
  ls ~ >> some_file.txt
 
-paragraph
- As you would expect, the less than sign can be used to direct a file as standard in.
+* As you would expect, the less than sign can be used to direct a file as standard in.
 
-section Notes
+# Notes
 
 list
  - Linux Phrasebook🔗www.amazon.com/Linux-Phrasebook-Granneman-Scott-Paperback/dp/B011DB5ZDQ

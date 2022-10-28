@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink new-shortcuts.html
 
-aftertext
- Gmail:
+* Gmail:
  dateline
 
 code
@@ -15,8 +14,7 @@ code
  j/k - go up and down, enter go to a page.
  gt - go to sent
 
-paragraph
- Mac:
+* Mac:
 
 code
  ctrl+a - home/start of line

@@ -1,56 +1,46 @@
 title Don't Flip the Bozo Bit
 date 2009-12-13
 
-aftertext
- Do you "flip the bozo bit" on people? 
+* Do you "flip the bozo bit" on people? 
  dateline
 
-paragraph
- If you don't know what that means, you probably do it unknowingly!
+* If you don't know what that means, you probably do it unknowingly!
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-section What it means
+# What it means
 
-paragraph
- When you "flip the bozo bit" on someone you ignore everything they say or do. You flip the bozo bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bozo bit unconsciously.
+* When you "flip the bozo bit" on someone you ignore everything they say or do. You flip the bozo bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bozo bit unconsciously.
 
-section An example
+# An example
 
-paragraph
- You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bozo bit!
+* You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bozo bit!
 
-paragraph
- This is bad for everyone. Now you are doing more work, and Bob is becoming resentful because you are ignoring his ideas and work.
+* This is bad for everyone. Now you are doing more work, and Bob is becoming resentful because you are ignoring his ideas and work.
 
-section Alternatives to Flipping the Bozo Bit
+# Alternatives to Flipping the Bozo Bit
 
-paragraph
- Instead of flipping the bozo bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
+* Instead of flipping the bozo bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
 
-paragraph
- 1. <b>Teach</b>. Talk to Bob and figure out why he is making repeated mistakes. We all have large gaps in our education. If you've never been exposed to a concept, there's no reason why you should understand it. Try and find what it is Bob hasn't been exposed to yet, and help him learn it. 
+* 1. <b>Teach</b>. Talk to Bob and figure out why he is making repeated mistakes. We all have large gaps in our education. If you've never been exposed to a concept, there's no reason why you should understand it. Try and find what it is Bob hasn't been exposed to yet, and help him learn it. 
 
-paragraph
- 2. <b>Change Roles</b>. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
+* 2. <b>Change Roles</b>. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
 
-section Why We Flip the Bozo Bit
+# Why We Flip the Bozo Bit
 
-paragraph
- It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bozo bit.
+* It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bozo bit.
 
-paragraph
- But this is a bad solution. The two presented above are better.
+* But this is a bad solution. The two presented above are better.
 
-section Notes
+# Notes
 
 orderedList
  1. Thanks to Tom Price for telling me about this.
 
-section Links
+# Links
 
 list
  - Bozo_bit🔗en.wikipedia.org/wiki/Bozo_bit

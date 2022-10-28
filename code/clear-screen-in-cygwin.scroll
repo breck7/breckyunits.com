@@ -5,6 +5,5 @@ groups index
 keyboardNav
 permalink clear-screen-in-cygwin.html
 
-aftertext
- Just hit ctrl+l
+* Just hit ctrl+l
  dateline

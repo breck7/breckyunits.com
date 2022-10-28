@@ -5,25 +5,21 @@ groups index
 keyboardNav
 permalink recursive-sed.html
 
-aftertext
- As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
+* As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
  dateline
 
 code
  #!/bin/bash
  perl -e "s/$1/$2/g;" -pi $(find . -type f)
 
-paragraph
- I put this in a file named ~/rsed
+* I put this in a file named ~/rsed
 
-paragraph
- Then in my .bash_profile:
+* Then in my .bash_profile:
 
 code
  alias rsed="~/rsed"
 
-paragraph
- Now I can use it like so:
+* Now I can use it like so:
 
 code
  rsed old new

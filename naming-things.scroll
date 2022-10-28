@@ -1,41 +1,30 @@
 title Naming Things
 date 2012-10-20
 
-aftertext
- I love to name things.
+* I love to name things.
  dateline
 
-paragraph
- I spend a lot of time naming ideas in my work. At work I write my code using a program called TextMate. TextMate is a great little program with a pleasant purple theme. I spend a lot of time using TextMate. For the past year I've been using TextMate to write a program that now consists of a few hundred files. There are thousands of words in this program. There are hundreds of objects and concepts and functions that each have a name. The names are super simple like "Pen" for an object that draws on the screen, and "delete" for a method that deletes something. Some of the things in our program are more important than others and those really important ones I've renamed dozens of times searching for the right fit.
+* I spend a lot of time naming ideas in my work. At work I write my code using a program called TextMate. TextMate is a great little program with a pleasant purple theme. I spend a lot of time using TextMate. For the past year I've been using TextMate to write a program that now consists of a few hundred files. There are thousands of words in this program. There are hundreds of objects and concepts and functions that each have a name. The names are super simple like "Pen" for an object that draws on the screen, and "delete" for a method that deletes something. Some of the things in our program are more important than others and those really important ones I've renamed dozens of times searching for the right fit.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- There's a feature in TextMate that lets me find and replace a word across all 400+ files in the project. If I am unhappy with my word choice for a variable or concept, I'll think about it for weeks if not months. I'll use Thesaurus.com, I'll read about similar concepts, I'll run a subconscious search for the simplest, best word. When I find it, I'll hit Command+Shift+F in TextMate and excitedly and carefully execute a find and replace across the whole project. Those are some of my favorite programming days--when I find a better name for an important part of the program.
+* There's a feature in TextMate that lets me find and replace a word across all 400+ files in the project. If I am unhappy with my word choice for a variable or concept, I'll think about it for weeks if not months. I'll use Thesaurus.com, I'll read about similar concepts, I'll run a subconscious search for the simplest, best word. When I find it, I'll hit Command+Shift+F in TextMate and excitedly and carefully execute a find and replace across the whole project. Those are some of my favorite programming days--when I find a better name for an important part of the program.
 
-paragraph
- Naming a thing is like creating life from inorganic material in a lab. You observe some pattern, combine a bunch of letters to form a name, and then see what happens. Sometimes your name doesn't fit and sits lifeless. But sometimes the name is just right. You use it in conversation or in code and people instantly get it. It catches on. It leaves the lab. Your name takes a life of its own and spreads.
+* Naming a thing is like creating life from inorganic material in a lab. You observe some pattern, combine a bunch of letters to form a name, and then see what happens. Sometimes your name doesn't fit and sits lifeless. But sometimes the name is just right. You use it in conversation or in code and people instantly get it. It catches on. It leaves the lab. Your name takes a life of its own and spreads.
 
-paragraph
- Words are very contagious. The better the word, the more contagious it can be. Like viruses, small differences in the quality of a word can have exponential differences on it's spread.  So I like to spend time searching for the right words.
+* Words are very contagious. The better the word, the more contagious it can be. Like viruses, small differences in the quality of a word can have exponential differences on it's spread.  So I like to spend time searching for the right words.
 
-paragraph
- Great names are short. Short names are less effort to communicate. The quality of a name drops exponentially with each syllable you add. Coke is better than Coca-Cola. Human is better than homo sapiens.
+* Great names are short. Short names are less effort to communicate. The quality of a name drops exponentially with each syllable you add. Coke is better than Coca-Cola. Human is better than homo sapiens.
 
-paragraph
- Great names are visual. A good test of whether a name is accurate is whether you can draw a picture of the name that makes sense. Net is better than cyberspace. If you drew a picture of the physical components of the Internet, it would look a lot like a fishing net. Net is a great name.
+* Great names are visual. A good test of whether a name is accurate is whether you can draw a picture of the name that makes sense. Net is better than cyberspace. If you drew a picture of the physical components of the Internet, it would look a lot like a fishing net. Net is a great name.
 
-paragraph
- Great names are used for great ideas. You should match the quality of a name to the quality of the idea compared to the other ideas in the space. This is particularly applicable in the digital world. If you are working on an important idea that will be used by a lot of people in a broad area, use a short, high quality name. If you are working on a smaller idea in that same area, don't hog a better name than your idea deserves. Linux is filled with great programs with bad names and bad programs with great names. I've been very happy so far with my experience with NPM, where it seems programmers who are using the best names are making their programs live up to them.
+* Great names are used for great ideas. You should match the quality of a name to the quality of the idea compared to the other ideas in the space. This is particularly applicable in the digital world. If you are working on an important idea that will be used by a lot of people in a broad area, use a short, high quality name. If you are working on a smaller idea in that same area, don't hog a better name than your idea deserves. Linux is filled with great programs with bad names and bad programs with great names. I've been very happy so far with my experience with NPM, where it seems programmers who are using the best names are making their programs live up to them.
 
-paragraph
- I think the exercise of naming things can be very helpful in improving things. Designing things from first principles is a proven way to arrive at novel, sometimes better ideas. Attempting to rename something is a great way to rethink the thing from the ground up.
+* I think the exercise of naming things can be very helpful in improving things. Designing things from first principles is a proven way to arrive at novel, sometimes better ideas. Attempting to rename something is a great way to rethink the thing from the ground up.
 
-paragraph
- For example, lately I've been trying to come up with a way to explain the fundamentals of computing. A strategy I recently employed was to change the names we use for the 2 boolean states from True and False to Absent or Present. It seems like it gets closer to the truth of how computers work. I mean, it doesn't make sense to ask a bit whether it is True or False. The only question an electronic bit can answer is whether a charge is present or absent. When we compare variable A to variable B, the CPU sets a flag in the comparison bit and we are really asking that bit whether a charge is present.
+* For example, lately I've been trying to come up with a way to explain the fundamentals of computing. A strategy I recently employed was to change the names we use for the 2 boolean states from True and False to Absent or Present. It seems like it gets closer to the truth of how computers work. I mean, it doesn't make sense to ask a bit whether it is True or False. The only question an electronic bit can answer is whether a charge is present or absent. When we compare variable A to variable B, the CPU sets a flag in the comparison bit and we are really asking that bit whether a charge is present.
 
-paragraph
- What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things. 
+* What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things. 

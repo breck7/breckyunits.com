@@ -1,42 +1,32 @@
 title The Hidden Benefits of Automation
 date 2010-03-17
 
-aftertext
- If you automate a process which you repeat <i>Y</i> times, that takes <i>X</i> minutes, what would your payoff be?
+* If you automate a process which you repeat <i>Y</i> times, that takes <i>X</i> minutes, what would your payoff be?
  dateline
 
-paragraph
- Payoff = <i>XY</i> minutes saved, right?
+* Payoff = <i>XY</i> minutes saved, right?
 
-paragraph
- Surprisingly I've found that is almost never the case. Instead, the benefits are almost always greater than <i>XY</i>. In some cases, much greater. The benefits of automating a process are greater than the sum of the process' parts.
+* Surprisingly I've found that is almost never the case. Instead, the benefits are almost always greater than <i>XY</i>. In some cases, much greater. The benefits of automating a process are greater than the sum of the process' parts.
 
-paragraph
- Actual Payoff = <i>XY minutes saved + E</i>
+* Actual Payoff = <i>XY minutes saved + E</i>
 
-paragraph
- What is E? It's the extra something you get from not having to waste time and energy on XY.
+* What is E? It's the extra something you get from not having to waste time and energy on XY.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-section An Example
+# An Example
 
-paragraph
- Last year I did a fair amount of consulting work I found via craigslist. I used to check the Computer Gigs page for a few different cities, multiple times per day. I would check about 5 cities, spending about 2 minutes on each page, about 3 times per day. Thus, I'd spend 30 minutes a day just checking and evaluating potential leads.
+* Last year I did a fair amount of consulting work I found via craigslist. I used to check the Computer Gigs page for a few different cities, multiple times per day. I would check about 5 cities, spending about 2 minutes on each page, about 3 times per day. Thus, I'd spend 30 minutes a day just checking and evaluating potential leads.
 
-paragraph
- I then wrote a script that aggregated all of these listings onto one page(including the contents so I didn't have to click to a new page to read a listing). It also highlighted a gig if it met a certain criteria that I had found to be promising. The script even automated a lot of the email response I would write to each potential client.
+* I then wrote a script that aggregated all of these listings onto one page(including the contents so I didn't have to click to a new page to read a listing). It also highlighted a gig if it met a certain criteria that I had found to be promising. The script even automated a lot of the email response I would write to each potential client.
 
-paragraph
- It cut my "searching time" down to about 10 minutes per day. But then something happened: I suddenly had more time and energy to focus on the <i>next aspect</i> of the problem: getting hired. It wasn't long before I was landing more than half the gigs I applied to, even as I raised my rates.
+* It cut my "searching time" down to about 10 minutes per day. But then something happened: I suddenly had more time and energy to focus on the <i>next aspect</i> of the problem: getting hired. It wasn't long before I was landing more than half the gigs I applied to, even as I raised my rates.
 
-paragraph
- I think this is where the unexpected benefits come from. The E is the extra energy you'll have to focus on other problems once you don't have to spend so much time doing rote work.
+* I think this is where the unexpected benefits come from. The E is the extra energy you'll have to focus on other problems once you don't have to spend so much time doing rote work.
 
-section Automate. Automate. Automate
+# Automate. Automate. Automate
 
-paragraph
- Try to automate as much as possible. The great thing about automation is that once you automate one task you'll have more time to automate the next task. Automation is a great investment with compounding effects. Try to get a process down to as few steps or keystrokes as possible(your ideal goal is zero keystrokes). Every step you eliminate will pay off more than you think.
+* Try to automate as much as possible. The great thing about automation is that once you automate one task you'll have more time to automate the next task. Automation is a great investment with compounding effects. Try to get a process down to as few steps or keystrokes as possible(your ideal goal is zero keystrokes). Every step you eliminate will pay off more than you think.

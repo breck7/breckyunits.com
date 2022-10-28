@@ -1,8 +1,7 @@
 title Dreaming of a Data Checked Language
 date 2020-01-3
 
-aftertext
- <span class="redSquig">Speling</span> errors and <span
+* <span class="redSquig">Speling</span> errors and <span
  class="greenSquig">errors grammar</span> are <span
  class="dataError">nearly extinct in published
  content</span>. <b>Data errors</b>, however, <span
@@ -14,21 +13,18 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- By data error I mean one the following errors: a statement
+* By data error I mean one the following errors: a statement
  without a backing dataset and/or definitions, a statement
  with data but a bad reduction(s), or a statement with
  backing data but lacking integrated context. I will provide
  examples of these errors later.
 
-paragraph
- The hard sciences like physics, chemistry and most branches
+* The hard sciences like physics, chemistry and most branches
  of engineering have low tolerance for data errors. <span
  class="dataError">But outside of those domains data errors
  are everywhere</span>.
 
-paragraph
- <span class="dataError">Fields like medicine, law, media,
+* <span class="dataError">Fields like medicine, law, media,
  policy,  the social sciences, and many more are teeming
  with data errors, which are far more consequential than
  spelling or grammar errors</span>. If a drug company
@@ -39,20 +35,17 @@ paragraph
  decisions that lead to many deaths and wasted
  resources</span>.
 
-section If Data Errors Were Spelling Errors
+# If Data Errors Were Spelling Errors
 
-paragraph
- You would be skeptical of National Geographic if their
+* You would be skeptical of National Geographic if their
  homepage looked like this:
 
 image dataChecked_spellCheck.png
 
-paragraph
- We generally expect zero spelling errors when reading any
+* We generally expect zero spelling errors when reading any
  published material.
 
-paragraph
- Spell checking is now an effortless technology and <span
+* Spell checking is now an effortless technology and <span
  class="dataError">everyone uses it</span>. Published books,
  periodicals, websites, tweets, advertisements, product
  labels: <span class="dataError">we are accustomed to
@@ -61,18 +54,16 @@ paragraph
  for data errors and when you look for them you see them
  everywhere.
 
-section The Pandemic: An Experiment
+# The Pandemic: An Experiment
 
-paragraph
- Data errors are so pervasive that I came up with a
+* Data errors are so pervasive that I came up with a
  hypothesis today and put it to the test. My hypothesis was
  this: <b>100% of "reputable" publications will have at
  least one data error on their front page</b>.
 
-section Method
+# Method
 
-paragraph
- I wrote down 10 reputable sources off the top of my head:
+* I wrote down 10 reputable sources off the top of my head:
  the WSJ🔗www.wsj.com/, <a
  href="https://www.nejm.org/">the New England Journal of
  Medicine</a>, Nature🔗www.nature.com/,
@@ -84,31 +75,27 @@ paragraph
  <a href="https://www.fda.gov/home">the FDA</a>, and the <a
  href="https://www.nih.gov/">NIH</a>.
 
-paragraph
- For each source, I went to their website and took a single
+* For each source, I went to their website and took a single
  screenshot of their homepage, above the fold, and skimmed
  their top stories for data errors.
 
-section Results
+# Results
 
 image dataErrorPandemic.jpg
 
-paragraph
- In the screenshots above, you can see that 10/10 of these
+* In the screenshots above, you can see that 10/10 of these
  publications had data errors front and center.
 
-section Breaking Down These Errors
+# Breaking Down These Errors
 
-paragraph
- Data errors in English fall into common categories. My
+* Data errors in English fall into common categories. My
  working definition provides three: a lack of dataset and/or
  definitions, a bad reduction, or a lack of integrated
  context. There could be more, this experiment is just a
  starting point where I'm naming some of the common patterns
  I see.
 
-paragraph
- The top article in the WSJ begins with "Tensions Rise in
+* The top article in the WSJ begins with "Tensions Rise in
  the Middle East". There are at least 2 data errors here.
  First is the <b>Lack of Dataset</b> error. Simply put: you
  need a dataset to make a statement like that. There is no
@@ -120,8 +107,7 @@ paragraph
  definition of what some sort of "Tensions" dataset would
  look like.
 
-paragraph
- In the New England Journal of Medicine, the lead figure
+* In the New England Journal of Medicine, the lead figure
  shows "excessive alcohol consumption is associated with
  atrial fibrillation" between 2 groups. One group had 0
  drinks over a 6 month period and the other group had over
@@ -138,8 +124,7 @@ paragraph
  rule of thumb is anything you read that includes p-values
  to explain why it is significant is not significant.
 
-paragraph
- In Nature we see the line "world's growing water shortage".
+* In Nature we see the line "world's growing water shortage".
  This is a <b>Bad Reduction</b>, another very common data
  error. While certain areas have a water shortage, other
  areas have a surplus. Any time you see a broad diverse
@@ -148,8 +133,7 @@ paragraph
  data, and you'll often see a more complex distribution that
  would prevent broad true statements like those.
 
-paragraph
- In The Economist the lead story talks about an action that
+* In The Economist the lead story talks about an action that
  "will have profound consequences for the region". Again we
  have the <b>Lack of Definitions</b> error. We also have a
  <b>Forecast without a Dataset</b> error. There's nothing
@@ -158,20 +142,17 @@ paragraph
  actually create and publish that dataset and not just a
  vague unfalsifiable statement.
 
-paragraph
- The New Yorker lead paragraph claims an event "was the most
+* The New Yorker lead paragraph claims an event "was the most
  provocative U.S. act since...". I'll save you the suspense:
  the article did not include a thorough dataset of such
  historical acts with a defined measurement of provocative.
  Another <b>Lack of Dataset</b> error.
 
-paragraph
- In Al Jazeera we see "Iran is transformed" and also a
+* In Al Jazeera we see "Iran is transformed" and also a
  <b>Bad Reduction</b>, <b>Lack of Dataset</b> and <b>Lack of
  Definition</b> errors.
 
-paragraph
- Harvard Business Review has a lead article about the
+* Harvard Business Review has a lead article about the
  Post-Holiday funk. In that article the phrase
  "research...suggests" is often a dead giveaway for a
  <b>Hidden Data</b> error, where the data is behind a
@@ -181,8 +162,7 @@ paragraph
  all see the data for ourselves. Don't trust any data you
  don't have access to.
 
-paragraph
- Google News has a link to an interesting article on the
+* Google News has a link to an interesting article on the
  invention of a new type of color changing fiber, but the
  article goes beyond the matter at hand to make the claim:
  "What Exactly Makes One Knot Better Than Another Has Not
@@ -190,8 +170,7 @@ paragraph
  Dataset</b> error for meta claims about the <i>knowledge
  of knot models</i>.
 
-paragraph
- The FDA's lead article is on the Flu and begins with the
+* The FDA's lead article is on the Flu and begins with the
  words "Most viral respiratory infections...", then proceeds
  for many paragraphs with zero datasets. There is an overall
  huge <b>Lack of Datasets</b> in that article. There's also
@@ -202,8 +181,7 @@ paragraph
  infrastructure in place to monitor and adjust to changing
  data is a data error.
 
-paragraph
- The NIH has an article on how increased exercise may be
+* The NIH has an article on how increased exercise may be
  linked to reduced cancer risk. This is actually an
  informative article with 42 links to many studies with lots
  of datasets, however the huge data error here is <b>Lack of
@@ -214,42 +192,37 @@ paragraph
  never tried to integrate them, you have no idea if the
  pieces actually will fit together to support your claims.
 
-paragraph
- While my experiment didn't touch books or essays, I'm quite
+* While my experiment didn't touch books or essays, I'm quite
  confident the hypothesis will hold in those realms as well.
  If I flipped through some "reputable" books or essayist
  collections I'm 99.9% confident you'd see the same classes
  of errors. This site is no exception.
 
-section The Problem is Language Tools
+# The Problem is Language Tools
 
-paragraph
- I don't think anyone's to blame for the proliferation of
+* I don't think anyone's to blame for the proliferation of
  data errors. I think it's still relatively recent that
  we've harnessed the power of data in specialized domains,
  and no one has yet invented ways to easily and fluently
  incorporate true data into our human languages.
 
-paragraph
- <span class="dataError">Human languages have absorbed a
+* <span class="dataError">Human languages have absorbed a
  number of sublanguages over thousands of years</span> that
  have made it easier to communicate with ease in a more
  precise way. The base 10 number system 
  (0,1,2,3,4,5,6,7,8,9) is one example that made it a lot
  easier to utilize arithmetic.
 
-section Taking Inspiration from Programming Language Design
+# Taking Inspiration from Programming Language Design
 
-paragraph
- Domains with low tolerance for data errors, <span
+* Domains with low tolerance for data errors, <span
  class="dataError">like aeronautical engineering or computer
  chip design</span>, are heavily reliant on programming
  languages. I think it's worthwhile to explore the world of
  programming language design for ideas that might inspire
  improvements to our everyday human languages.
 
-paragraph
- Some quick numbers for people not familiar with the world
+* Some quick numbers for people not familiar with the world
  of programming languages. <span class="dataError">Around
  10,000 computer languages have been released in history 
  (most of them in the past 70 years)</span>. <span
@@ -258,8 +231,7 @@ paragraph
  them may be familiar to even non-programmers such as Java,
  Javascript, Python, HTML or Excel.
 
-paragraph
- Not all programming languages are created equal. The
+* Not all programming languages are created equal. The
  designers of a language end up making <span
  class="dataError">thousands of decisions</span> about how
  their particular language works. While <span
@@ -268,27 +240,23 @@ paragraph
  designed consciously by small groups and <span
  class="dataError">can evolve much faster</span>.
 
-paragraph
- Often the designers change a language to make it easier to
+* Often the designers change a language to make it easier to
  do something good or harder to do something bad.
 
-paragraph
- Sometimes what is good and bad is up to the whims of the
+* Sometimes what is good and bad is up to the whims of the
  designer. Imagine I was an overly optimistic person and
  decided that English was too boring or pessimistic. I may
  invent a language without periods, where all sentences must
  end with an exclamation point! I'll call it Relish!
 
-paragraph
- <span class="dataError">Most of the time though, as data
+* <span class="dataError">Most of the time though, as data
  and experience accumulates, a rough consensus
  emerges</span> about what is good and bad in language
  design (though this too seesaws).
 
-section Typed Checked Languages
+# Typed Checked Languages
 
-paragraph
- One of the patterns that has <span
+* One of the patterns that has <span
  class="dataError">emerged</span> as generally a good thing
  over the decades to many languages is what's called "type
  checking". When you are programming you often create
@@ -298,8 +266,7 @@ paragraph
  reading from a wind speed sensor and so create a bucket
  named "windSpeed".
 
-paragraph
- <span class="dataError">Some languages</span> are designed
+* <span class="dataError">Some languages</span> are designed
  to enforce stricter logic checking of your buckets to help
  catch mistakes. <span class="dataError">Others</span> will
  try to make your program work as written. For example, if
@@ -310,8 +277,7 @@ paragraph
  discover your error in the air. The former style of
  languages generally do this by having "type checking".
 
-paragraph
- Type Checking of programming languages is somewhat similar
+* Type Checking of programming languages is somewhat similar
  to Grammar Checking of English, though it can be a lot more
  extensive. If you make a change in one part of the program
  in a typed language, the type checker can recheck the
@@ -321,51 +287,41 @@ paragraph
  conclusions anywhere are suddenly invalid, it would be
  helpful to have the checker alert you.
 
-paragraph
- Perhaps lessons learned from programing language design,
+* Perhaps lessons learned from programing language design,
  like Type Checking, could be useful for building the
  missing data checker for English.
 
-section A Blue Squiggly to Highlight Data Errors
+# A Blue Squiggly to Highlight Data Errors
 
-paragraph
- Perhaps what we need is a new color of squiggly:
+* Perhaps what we need is a new color of squiggly:
 
-paragraph
- ✅ Spell Checkers: <span class="redSquig">red squiggly</span>
+* ✅ Spell Checkers: <span class="redSquig">red squiggly</span>
 
-paragraph
- ✅ Grammar Checkers: <span class="greenSquig">green squiggly</span>
+* ✅ Grammar Checkers: <span class="greenSquig">green squiggly</span>
 
-paragraph
- ❌ Data Checkers: <span class="blueSquig">blue squiggly</span>
+* ❌ Data Checkers: <span class="blueSquig">blue squiggly</span>
 
-paragraph
- If we had a data checker that highlighted data errors <span
+* If we had a data checker that highlighted data errors <span
  class="dataError" title="Dataless Forecast. Lack of
  Definitions.">we would eventually see a drastic reduction
  in data errors</span>.
 
-paragraph
- If we had a checker for data errors appear today our
+* If we had a checker for data errors appear today our
  screens <span class="dataError">would be full of
  blue</span>. For example, click the button below to
  highlight just some of the data errors on this page alone.
 
-paragraph
- <style id="styleHolder"></style>
+* <style id="styleHolder"></style>
  <button class="bigButton" onclick="document.getElementById('styleHolder').innerHTML = '.dataError {text-decoration: underline;text-decoration-style: wavy;text-decoration-color: blue;}'">Highlight data errors</button>
 
-question How Do We Reduce Data Errors?
+? How Do We Reduce Data Errors?
 
-paragraph
- If someone created a working data checker today and applied
+* If someone created a working data checker today and applied
  it to all of our top publications, <span class="dataError"
  title="Dataless Forecast">blue squigglies would be
  everywhere</span>.
 
-paragraph
- <span class="dataError">It is very expensive and time
+* <span class="dataError">It is very expensive and time
  consuming to build datasets</span> and make data driven
  statements without data errors, so am I saying until we can
  publish content free of data errors we should stop
@@ -375,36 +331,31 @@ paragraph
  publications above had disclaimers about how laden with
  data errors their stories are.
 
-paragraph
- Of course I don't believe either of those are likely to
+* Of course I don't believe either of those are likely to
  happen. I think we are stuck with data errors until people
  have invented great new things so that it becomes a lot
  easier to publish material without data errors. I hope we
  somehow create a data checked language.
 
-paragraph
- I still don't know what that looks like, exactly. I spend
+* I still don't know what that looks like, exactly. I spend
  half my work time attempting to create such new languages
  and tools and the other half searching the world to see if
  someone else has already solved it. I feel like I'm making
  decent progress on both fronts but I still have no idea
  whether we are months or decades away from a solution.
 
-paragraph
- While I don't know what the solution will be, I would not
+* While I don't know what the solution will be, I would not
  be surprised if the following patterns play a big role in
  moving us to a world where data errors are extinct:
 
-paragraph
- 1. <b>Radical increases in collaborative data projects</b>.
+* 1. <b>Radical increases in collaborative data projects</b>.
  It is very easy for a person or small group to crank out
  content laden with data errors. It takes small armies of
  people making steady contributions over a long time period
  to build the big datasets that can power content free of
  data errors.
 
-paragraph
- 2. <b>Widespread improvements in data usability</b>. <span
+* 2. <b>Widespread improvements in data usability</b>. <span
  class="dataError">Lots of people and organizations have
  moved in the past decade to make more of their data
  open</span>. However, it generally <span
@@ -415,27 +366,23 @@ paragraph
  word. That's the state of data usability right now. We need
  widespread improvements here to make integrated contexts easier.
 
-paragraph
- 3. <b>Stop subsidizing content laden with data errors</b>.
+* 3. <b>Stop subsidizing content laden with data errors</b>.
  We grant monopolies on information and so there's even more
  incentive to create stories laden with data errors—because
  there are more ways to lie than to tell the truth. We
  should revisit intellectual monopoly laws.
 
-paragraph
- 4. <b>Novel innovations in language</b>. Throughout history
+* 4. <b>Novel innovations in language</b>. Throughout history
  novel new sublanguages have enhanced our cognitive
  abilities. Things like geometry, Hindu-Arabic numerals,
  calculus, binary notation, etc. I hope some innovators will
  create very novel data sublanguages that make it much
  easier to communicate with data and reduce data errors.
 
-paragraph
- Have you invented a data checked language, or are working
+* Have you invented a data checked language, or are working
  on one? If so, please get in touch.
 
-paragraph
- <style>
+* <style>
   .redSquig {
     text-decoration: underline; text-decoration-style: wavy; text-decoration-color: red; 
   }

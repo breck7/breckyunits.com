@@ -1,13 +1,12 @@
 title How James Park built FitBit
-section Introduction
+# Introduction
 
 date 2021-03-11
 
 comment
  todo: add custom grammar.
 
-aftertext
- I have been a FitBit user for many years but did not know
+* I have been a FitBit user for many years but did not know
  the story behind the company. Recently came across a podcast
  by Guy Raz called How I Built This.
  In this episode he interviews James Park who
@@ -16,16 +15,14 @@ aftertext
  https://www.npr.org/2020/04/22/841267648/fitbit-james-park episode
  dateline
 
-paragraph
- I loved the story so much but couldn't find a transcript, so made
+* I loved the story so much but couldn't find a transcript, so made
  the one below. Subtitles (and all mistakes) added by me.
 
-section Transcript of <i>How I Built This</i> with James Park
+# Transcript of <i>How I Built This</i> with James Park
 
 image jamesPark.jpeg
 
-paragraph
- <b>Guy:</b> From NPR, It's How I Built This. A show about innovators,
+* <b>Guy:</b> From NPR, It's How I Built This. A show about innovators,
  entrepreneurs, idealists, and the stories behind the movements. Here
  we go. I'm Guy Raz, and on the show today, how the Nintendo Wii
  inspired James Park to build a device and then a company that would
@@ -37,8 +34,7 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- It's taken me a few weeks to get motivated about exercise.
+* It's taken me a few weeks to get motivated about exercise.
  This whole pandemic thing just had me in a state of anxiety and it
  messed with my routine, but I was inspired to jump back into it about
  two weeks ago, after watching my 11-year-old proudly announce his
@@ -47,8 +43,7 @@ paragraph
  that it could be fun to hit 5,000 or 10,000 steps a day, that's what
  matters.
 
-paragraph
- This is the stroke of insight James Park had soon after he
+* This is the stroke of insight James Park had soon after he
  stood in line at a Best Buy in San Francisco to buy the brand new
  video game system called Nintendo Wii. And you'll hear James explain
  the story a bit later, but what he realized playing the Wii is that
@@ -63,23 +58,19 @@ paragraph
  and Fitbit and its market share got hammered. When I spoke to James
  Park a few days ago, he was in San Francisco, living in an Airbnb.
 
-paragraph
- <b>James:</b> I'm in a temporary Airbnb because the place that I
+* <b>James:</b> I'm in a temporary Airbnb because the place that I
  typically live in has been flooded out by a malfunctioning washing
  machine. I woke up at it 1:00 AM
 
-paragraph
- <b>Guy:</b> In the middle of this whole thing, flooded
+* <b>Guy:</b> In the middle of this whole thing, flooded
  washing machine went... You woke up in the middle of the night and
  there was water everywhere?
 
-paragraph
- <b>James:</b> I know. Amazing timing. Yeah. I woke up at 1:00 AM, and I
+* <b>James:</b> I know. Amazing timing. Yeah. I woke up at 1:00 AM, and I
  just woke up to the sound of water gushing everywhere. It was coming
  through the ceiling. It was a massive flood.
 
-paragraph
- <b>Guy:</b> Okay. So on top of sheltering in place and running his
+* <b>Guy:</b> Okay. So on top of sheltering in place and running his
  company remotely, James had to move out of his apartment in the middle
  of the night and then set up the microphone and gear we sent him for
  this interview. He started to tell us about his parents who immigrated
@@ -88,18 +79,15 @@ paragraph
  immigrants, they had a hard time getting those same jobs in the US. So
  instead, his parents became small business owners.
 
-section Growing Up (1977)
+# Growing Up (1977)
 
-paragraph
- <b>James:</b> The first conscious memory I have is, my parents actually
+* <b>James:</b> The first conscious memory I have is, my parents actually
  own the wig shop in downtown Cleveland.
 
-paragraph
- <b>Guy:</b> Wow. How did they get into that? Was it just a way to earn a
+* <b>Guy:</b> Wow. How did they get into that? Was it just a way to earn a
  living?
 
-paragraph
- <b>James:</b> Yeah. I think a way to earn a living and the typical
+* <b>James:</b> Yeah. I think a way to earn a living and the typical
  immigrant story is you have friends who live in the country that
  you're immigrating to. And I think my dad had a friend who worked in
  wig wholesaling. That's where he started out. There were selling wigs
@@ -107,59 +95,48 @@ paragraph
  women. And I remember my mom, she'd spend a lot of time just looking
  through black fashion magazine, styling hair, beating them, et cetera.
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> They had a wig shop, dry cleaners, a fish market. At one
+* <b>James:</b> They had a wig shop, dry cleaners, a fish market. At one
  point we moved to Atlanta and they ran an ice cream shop there. We
  sold track suits, starter jackets, fitted baseball caps, thick gold
  chains.
 
-paragraph
- <b>Guy:</b> Sort of hip-hop urban wear, right? Like FUBU, and stuff like
+* <b>Guy:</b> Sort of hip-hop urban wear, right? Like FUBU, and stuff like
  that?
 
-paragraph
- <b>James:</b> Yeah. Yeah. Yep. They sold FUBU jeans. Yep. I remember
+* <b>James:</b> Yeah. Yeah. Yep. They sold FUBU jeans. Yep. I remember
  that. And they could switch from one genre or one type of business to
  another and really not skip a beat.
 
-paragraph
- <b>Guy:</b> And were your parents, did they expect you perform well at
+* <b>Guy:</b> And were your parents, did they expect you perform well at
  school? Was that just a given?
 
-paragraph
- <b>James:</b> I think they had incredibly high expectations then as a
+* <b>James:</b> I think they had incredibly high expectations then as a
  kid. I think I remember my mom telling me when I was pretty young, I
  don't know, five, six, seven, that she expected me to go to Harvard.
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> Yeah. I don't think I quite knew what that meant back
+* <b>James:</b> Yeah. I don't think I quite knew what that meant back
  then, but you could tell that their expectations were pretty high from
  the very beginning.
 
-section Dropping out of Harvard (1998)
+# Dropping out of Harvard (1998)
 
-paragraph
- <b>Guy:</b> James did in fact meet his mom's expectations. He did go to
+* <b>Guy:</b> James did in fact meet his mom's expectations. He did go to
  Harvard. He put in three years studying computer science, but after
  his junior year, he got a summer internship at Morgan Stanley and then
  ended up deciding to start his own business. And then we had hoped to
  finish his college degree, he never went back.
 
-paragraph
- <b>James:</b> I always had a little bit of a stubborn streak, and that
+* <b>James:</b> I always had a little bit of a stubborn streak, and that
  was when I was trying to figure things out, try to think of ideas. I
  think there is a lot of opportunity, a lot of problems to be solved. I
  was also looking for a co-founder at the time. So those are two
  critical ingredients, an idea and a co-founder.
 
-paragraph
- <b>Guy:</b> This is 1998. This is not 2015 when these kinds of
+* <b>Guy:</b> This is 1998. This is not 2015 when these kinds of
  conversations seem so common. This was unusual in 1998 for a young
  person. It was just less common for a young person to just sort of
  say, "I'm going to look into a tech startup and try to find a
@@ -169,22 +146,19 @@ paragraph
  don't really know what I'm going to do, but I'm just going to think
  about it."
 
-paragraph
- <b>James:</b> Yeah. They were understandably pretty upset, angry even
+* <b>James:</b> Yeah. They were understandably pretty upset, angry even
  I'd say. And the irony is that, they probably took away more
  incredible personal risk moving from Korea to United States and
  running these series of businesses, which are commonly done, but not
  easy in themselves and pretty high risk. But I do understand obviously
  the perspective at the time.
 
-section The eCommerce Start Up
+# The eCommerce Start Up
 
-paragraph
- <b>Guy:</b> Okay. You decide you want to start something up, and I think
+* <b>Guy:</b> Okay. You decide you want to start something up, and I think
  you eventually landed on e-commerce, right?
 
-paragraph
- <b>James:</b> Yeah. That was not a groundbreaking thing at the time.
+* <b>James:</b> Yeah. That was not a groundbreaking thing at the time.
  Obviously, Amazon was around, et cetera. A lot of e-commerce startups,
  but settled on this idea of making e-commerce a lot more seamless and
  frictionless and came up at this idea of a electronic wallet that
@@ -192,70 +166,56 @@ paragraph
  of different e-commerce sites and the goal there was that we would
  take a cut of every transaction.
 
-paragraph
- <b>Guy:</b> Right. And what was the company called?
+* <b>Guy:</b> Right. And what was the company called?
 
-paragraph
- <b>James:</b> That was interesting. We originally named it Kapoof, that
+* <b>James:</b> That was interesting. We originally named it Kapoof, that
  was how it was incorporated, until a lot of people said, "That might
  not be the best name for a company." Sounds like, we called it Kapoof
  because it sounded like magic, et cetera, Kapoof. Things are done.
  Your transaction is completed by Kapoof.
 
-paragraph
- <b>Guy:</b> It sounds like, "Kapoof, your money is gone."
+* <b>Guy:</b> It sounds like, "Kapoof, your money is gone."
 
-paragraph
- <b>James:</b> Yeah, exactly.
+* <b>James:</b> Yeah, exactly.
 
-paragraph
- <b>Guy:</b> "You've no more money."
+* <b>Guy:</b> "You've no more money."
 
-paragraph
- <b>James:</b> Exactly. Time of crazy names like Yahoo, et cetera. But we
+* <b>James:</b> Exactly. Time of crazy names like Yahoo, et cetera. But we
  decided to change our name at some point and we changed it to Epesi,
  which was so Swahili for fast. And so that was the ultimate name of
  the company.
 
-section Raising a "few million" dollars
+# Raising a "few million" dollars
 
-paragraph
- <b>Guy:</b> And you guys were actually able to raise a fair amount of
+* <b>Guy:</b> And you guys were actually able to raise a fair amount of
  money. Right?
 
-paragraph
- <b>James:</b> We did. We ended up raising a few million dollars from
+* <b>James:</b> We did. We ended up raising a few million dollars from
  some individuals and some from some venture capital firms as well. And
  we hired some people. We found a cool renovated firehouse. That was-
 
-paragraph
- <b>Guy:</b> Nice. Nice
+* <b>Guy:</b> Nice. Nice
 
-paragraph
- <b>James:</b> ... Really amazing place to hang out in for many, many,
+* <b>James:</b> ... Really amazing place to hang out in for many, many,
  many hours of the day. And we hired up to, it was close to about 30
  people.
 
-section Meeting his eventual FitBit cofounder
+# Meeting his eventual FitBit cofounder
 
-paragraph
- <b>Guy:</b> Wow. One super important thing that happened there was you
+* <b>Guy:</b> Wow. One super important thing that happened there was you
  met Eric Friedman, right? The guy that you would eventually launch
  Fitbit with.
 
-paragraph
- <b>James:</b> I did. And that's probably one of the more fortunate turns
+* <b>James:</b> I did. And that's probably one of the more fortunate turns
  in my life. Eric, we didn't know each other at all before the company,
  Epesi. He was actually just graduating from Yale in computer science.
  And I interviewed him. I liked him a lot. And he ended up ultimately
  becoming the first employee at the company.
 
-paragraph
- <b>Guy:</b> Okay. So you hire Eric, and I think the company lasted 18
+* <b>Guy:</b> Okay. So you hire Eric, and I think the company lasted 18
  months, or a little less than two years.
 
-paragraph
- <b>James:</b> Yeah. About two years, and a lot of ups and downs during
+* <b>James:</b> Yeah. About two years, and a lot of ups and downs during
  that period. If I had to think back, I would attribute two-thirds of
  the challenges and problems we faced as a business to myself, just
  because I had never managed people. I didn't really know how to run a
@@ -263,16 +223,14 @@ paragraph
  dot-com crash happened. And all of our potential customers, the whole
  industry, the whole economy started taking a downturn.
 
-section Dot Com Bust (2001)
+# Dot Com Bust (2001)
 
-paragraph
- <b>Guy:</b> So this company spirals out in 2001. And when that happened,
+* <b>Guy:</b> So this company spirals out in 2001. And when that happened,
  did you think, "Okay, I should go back to college now and finish my
  degree." Or, "I got to start something else." Where was your head at
  that point?
 
-paragraph
- <b>James:</b> Well, it was a really challenging personal time for me.
+* <b>James:</b> Well, it was a really challenging personal time for me.
  Towards the end of the company, we obviously had to lay off most of
  the company, and trying to doing it in a way that was compassionate
  was really, really difficult. I don't think the thought of entering
@@ -281,66 +239,52 @@ paragraph
  failure, I knew this was what I wanted to do. I had a firm conviction
  about that. And so I knew I wasn't going to go back.
 
-paragraph
- <b>Guy:</b> So what'd you do?
+* <b>Guy:</b> So what'd you do?
 
-section Getting Real Jobs
+# Getting Real Jobs
 
-paragraph
- <b>James:</b> We all ended up working at the same place actually. It was
+* <b>James:</b> We all ended up working at the same place actually. It was
  a company, a pretty large company called Dun & Bradstreet at the time.
  Very stable company. And we were all fortunate to be able to find work
  there as engineers.
 
-paragraph
- <b>Guy:</b> So daytime working at Dun & Bradstreet, and then what? At
+* <b>Guy:</b> So daytime working at Dun & Bradstreet, and then what? At
  night sitting around just-
 
-paragraph
- <b>James:</b> Brainstorming. Yeah. We go into work during the daytime
+* <b>James:</b> Brainstorming. Yeah. We go into work during the daytime
  and then we'd come home in the evenings, code different things, try
  different things out. So it was a pretty intense.
  I think, in terms of the numbers of hours, I don't think anything
  changed from our first startup to trying to figure this next one out.
 
-section Startup #2 (2002)
+# Startup #2 (2002)
 
-paragraph
- <b>Guy:</b> And before too long, you decide to do another startup. This
+* <b>Guy:</b> And before too long, you decide to do another startup. This
  time, with Eric Friedman from your previous company, and then another
  guy named Gokhan Kutlu. I think this was what? 2003, 2004?
 
-paragraph
- <b>James:</b> Yeah. This was about 2002 actually.
+* <b>James:</b> Yeah. This was about 2002 actually.
 
-paragraph
- <b>Guy:</b> Okay. And this time the startup was a photo editing platform,
+* <b>Guy:</b> Okay. And this time the startup was a photo editing platform,
  sharing platform. What was it called?
 
-paragraph
- <b>James:</b> The company's name at the time was called HeyPix and the
+* <b>James:</b> The company's name at the time was called HeyPix and the
  product itself was called electric shoe box because a lot of people
  put their old photos in shoe boxes and this was just going to be a
  digital.
 
-paragraph
- <b>Guy:</b> Yes. I still have them in shoe boxes.
+* <b>Guy:</b> Yes. I still have them in shoe boxes.
 
-paragraph
- <b>James:</b> You'll digitize them probably.
+* <b>James:</b> You'll digitize them probably.
 
-paragraph
- <b>Guy:</b> I should. I know.
+* <b>Guy:</b> I should. I know.
 
-paragraph
- <b>James:</b> Yeah. And so electric shoe box, which is going to be a
+* <b>James:</b> Yeah. And so electric shoe box, which is going to be a
  digital version of your shoe box.
 
-paragraph
- <b>Guy:</b> And what could you do?
+* <b>Guy:</b> And what could you do?
 
-paragraph
- <b>James:</b> Well, there are digital cameras were coming about back
+* <b>James:</b> Well, there are digital cameras were coming about back
  then. It still wasn't easy to connect them, upload photos. It was
  getting easier, but nowhere near what it is today, obviously. The
  whole idea of electric shoe box was to make the whole process of
@@ -348,49 +292,41 @@ paragraph
  wanted to make the process of sharing these photos with your friends
  and family a lot easier.
 
-paragraph
- <b>Guy:</b> So did you raise money for the product, for the electric shoe
+* <b>Guy:</b> So did you raise money for the product, for the electric shoe
  box?
 
-paragraph
- <b>James:</b> We did. We ended up raising money primarily from one of my
+* <b>James:</b> We did. We ended up raising money primarily from one of my
  friends from middle school who was a mutual fund manager in Boston.
  And so, he put in a bit of money, not a lot. I think about, at least
  for him, it was about 100,000. And we had a bunch of savings ourselves
  that we were going to use. And in anticipation, I also opened up a few
  more credit cards as well.
 
-paragraph
- <b>Guy:</b> And it was just really the three of you, sitting at your
+* <b>Guy:</b> And it was just really the three of you, sitting at your
  computers and just tapping the keys all night?
 
-paragraph
- <b>James:</b> You pretty much nailed it. I mean, all we did was, we
+* <b>James:</b> You pretty much nailed it. I mean, all we did was, we
  would wake up in the morning, walk over to the third bedroom and just
  start typing away for 12 hours. We'd take meal breaks. I remember Eric
  did a lot of cooking. So we'd eat our dinners on some TV stands
  watching TV. That was a good break for us, watching Seinfeld, and then
  go to bed and then repeat it the following day.
 
-paragraph
- <b>Guy:</b> Wow. All right. So you come up with this product, and by the
+* <b>Guy:</b> Wow. All right. So you come up with this product, and by the
  way, how are you going to make money off of this thing? This is a free
  service. How were you going to pay for it?
 
-paragraph
- <b>James:</b> I guess, it would be called freemium software. It would be
+* <b>James:</b> I guess, it would be called freemium software. It would be
  free for a period of time, and the trial period would end and then
  you'd have to submit your credit card information to continue using
  the software.
 
-paragraph
- <b>Guy:</b> Got it. Got it.
+* <b>Guy:</b> Got it. Got it.
 
 
-section The pivotal $300 Press Release
+# The pivotal $300 Press Release
 
-paragraph
- <b>James:</b> And so, our primary goal was making sure that a lot of
+* <b>James:</b> And so, our primary goal was making sure that a lot of
  people knew about the software. So we put it on shareware sites, et
  cetera. And then we spent a lot of time debating, "Should we send out
  a press release?" And I remember it was a huge debate because sending
@@ -401,60 +337,49 @@ paragraph
  actually it was probably the most pivotal decision we ever made in
  that company's history.
 
-paragraph
- <b>Guy:</b> Because?
+* <b>Guy:</b> Because?
 
-paragraph
- <b>James:</b> The first email came in a few hours later. I think the
+* <b>James:</b> The first email came in a few hours later. I think the
  second one came in a day later. But we got two emails, one from CNET,
  which is a huge digital publishing company. And then we got another
  email from Yahoo saying, "Hey, we just heard about this launch of this
  software product. And we'd like to talk to you guys more about it."
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> Exactly. This was coming from their corporate development
+* <b>James:</b> Exactly. This was coming from their corporate development
  arms, which typically deals with M&A, with buying, buying companies.
 
-paragraph
- <b>James:</b> Yeah, exactly. We were like, "Whoa, this is magic. How did
+* <b>James:</b> Yeah, exactly. We were like, "Whoa, this is magic. How did
  this happen?"
 
-section Bought by CNET for millions (2005)
+# Bought by CNET for millions (2005)
 
-aftertext
- <b>Guy:</b> 2005, it gets purchased by CNET. They make an offer to buy
+* <b>Guy:</b> 2005, it gets purchased by CNET. They make an offer to buy
  this company, buy this product from you guys and you sell it to CNET.
  Was that life-changing money? Did that mean that you never had to work
  again?
  https://www.wsj.com/articles/SB111265965498397840 2005, it gets purchased by CNET
 
-paragraph
- <b>James:</b> It was definitely a good acquisition for all of us at the
+* <b>James:</b> It was definitely a good acquisition for all of us at the
  time. Remember we were three guys working out of our apartments. I was
  at the time about $40,000 in credit card debt as well. We were down to
  some desperate times and we were negotiating numbers and they threw
  out a number which was, their first offer was 4 million, and we were
  like, "Whoa, that's amazing."
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> Like, "God, I can't believe we built something that's
+* <b>James:</b> Like, "God, I can't believe we built something that's
  worth this much at the time." We were just stunned. And then, we
  quickly got to, "Okay, how do we negotiate something better?"
 
-paragraph
- <b>Guy:</b> So you sell your company to CNET in 2005 and you've got some
+* <b>Guy:</b> So you sell your company to CNET in 2005 and you've got some
  money in your pocket. And you move to San Francisco to work for CNET.
  Did you enjoy it? I mean, it was probably a huge company at this
  point, right?
 
-paragraph
- <b>James:</b> It was a huge company, but I think the moment, at least
+* <b>James:</b> It was a huge company, but I think the moment, at least
  for me, that I moved to San Francisco, I instantly fell in love with
  the city. And CNET, even though was a larger company, I actually found
  it to be an amazing time. I learned a lot. I got some management
@@ -463,13 +388,11 @@ paragraph
  market products. I really enjoyed my experience there. I think it was
  pretty formative.
 
-section Nintendo Wii and Leaving CNET (2007)
+# Nintendo Wii and Leaving CNET (2007)
 
-paragraph
- <b>Guy:</b> Why did you leave CNET?
+* <b>Guy:</b> Why did you leave CNET?
 
-paragraph
- <b>James:</b> We left CNET just because of, I guess you could call it a
+* <b>James:</b> We left CNET just because of, I guess you could call it a
  bolt of lightning in some ways. It was December of 2006 and Nintendo
  had just announced the Nintendo Wii. And I remember coming home,
  putting it together. At the time Nintendo had come up with this really
@@ -482,128 +405,103 @@ paragraph
  was just blown away by this whole idea, really excited about. I
  couldn't stop thinking about it.
 
-paragraph
- <b>James:</b> And after some time of playing Wii Fit and the Wii and a
+* <b>James:</b> And after some time of playing Wii Fit and the Wii and a
  lot of other games, I thought, "This is great. It's in my living room,
  but what if I want to take this outside of the living room?" And I
  kept thinking about that idea, like-
 
-paragraph
- <b>Guy:</b> "How do you take Wii Fit outside?"
+* <b>Guy:</b> "How do you take Wii Fit outside?"
 
-paragraph
- <b>James:</b> Outside. Exactly.
+* <b>James:</b> Outside. Exactly.
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-section The Genesis of Fitbit (2007)
+# The Genesis of Fitbit (2007)
 
-paragraph
- <b>James:</b> I couldn't let it go. And I ultimately ended up calling up
+* <b>James:</b> I couldn't let it go. And I ultimately ended up calling up
  Eric and we started talking about this idea for hours and hours and we
  couldn't stop talking about it. It's like, "How do we capture this
  magic and make it more portable? How do we give it to people 24-7?"
  And that was really the Genesis of Fitbit.
 
-paragraph
- <b>Guy:</b> So the technology, I mean, pedometers have been around
+* <b>Guy:</b> So the technology, I mean, pedometers have been around
  forever. Was that where your head was going, or thinking, "Okay, maybe
  we just create an electronic pedometer?" But I think even electronic
  pedometers were around in 2007, right?
 
-section Existing Pedometers
+# Existing Pedometers
 
-paragraph
- <b>James:</b> Yeah. Pedometers were definitely around back then.
+* <b>James:</b> Yeah. Pedometers were definitely around back then.
  Actually, they had been around for probably 100 years. One of the
  things though is that, they weren't something that people would want
  to use or to wear. They were very big. They were pretty ugly. They
  looked like medical devices.
 
-paragraph
- <b>Guy:</b> A lot of senior citizens used them.
+* <b>Guy:</b> A lot of senior citizens used them.
 
-paragraph
- <b>James:</b> Yeah. They weren't a very aspirational device. It wasn't
+* <b>James:</b> Yeah. They weren't a very aspirational device. It wasn't
  something that people were excited to use. And so, I think that's why
  that whole category of device just never really had any innovation.
  And there are also much higher-end devices. You could buy much fancier
  running watches, like GPS watches, et cetera. But those are really
  expensive for people. There are 300, $400 at the time.
 
-paragraph
- <b>Guy:</b> So you had this idea, and that means you had to raise money.
+* <b>Guy:</b> So you had this idea, and that means you had to raise money.
  And this is going to be the third time now that you've had to do that
  for a business. And I think I read that you raised $400,000 to launch
  this. I mean, I don't know a lot about hardware, but that doesn't seem
  like it was going to take you very far in building a physical product.
 
-paragraph
- <b>James:</b> As we quickly found out, yes, we had grossly
+* <b>James:</b> As we quickly found out, yes, we had grossly
  underestimated the cost of taking this to market.
 
-paragraph
- <b>Guy:</b> And what did that initial amount of money, how far did they
+* <b>Guy:</b> And what did that initial amount of money, how far did they
  get you into actually conceding of what this product was going to be?
 
-paragraph
- <b>James:</b> It got us to a prototype, write some rudimentary software,
+* <b>James:</b> It got us to a prototype, write some rudimentary software,
  get some industrial design concepts done and some models.
 
-paragraph
- <b>Guy:</b> What did the prototype look like? Did it look like a Fitbit?
+* <b>Guy:</b> What did the prototype look like? Did it look like a Fitbit?
 
-paragraph
- <b>James:</b> It looked absolutely nothing like a Fitbit. There are two
+* <b>James:</b> It looked absolutely nothing like a Fitbit. There are two
  things, there was actual, somewhat working prototype and then there
  was an industrial design model.
 
-paragraph
- <b>Guy:</b> Which was a piece of plastic.
+* <b>Guy:</b> Which was a piece of plastic.
 
-paragraph
- <b>James:</b> Plastic, and metal that was supposed to look like the
+* <b>James:</b> Plastic, and metal that was supposed to look like the
  ultimate product. And so, that actually looked really, really nice.
 
-paragraph
- <b>Guy:</b> But it didn't work?
+* <b>Guy:</b> But it didn't work?
 
-paragraph
- <b>James:</b> Yeah. It was totally nonfunctional. And we'd always have
+* <b>James:</b> Yeah. It was totally nonfunctional. And we'd always have
  to tell people before showing, "This doesn't work here." Because they
  get all excited looking at the model. "No, no, no. That doesn't work."
  The thing that actually worked looked like something that came out of
  a garage, literally.
 
-paragraph
- <b>Guy:</b> What did it look like?
+* <b>Guy:</b> What did it look like?
 
-section The prototype
+# The prototype
 
-paragraph
- <b>James:</b> It was rectangular circuit board, a little bit smaller
+* <b>James:</b> It was rectangular circuit board, a little bit smaller
  than your. And it had a motion sensor, it had a
  radio, it had a microcontroller, which was the brains of the product.
  And it had a rudimentary case, which was a balsa with box.
 
-paragraph
- <b>Guy:</b> Wow. So you would take to investors, a circuit board and a
+* <b>Guy:</b> Wow. So you would take to investors, a circuit board and a
  balsa wood box as your prototype?
 
-paragraph
- <b>James:</b> Yeah. That was the prototype. And actually that was what
+* <b>James:</b> Yeah. That was the prototype. And actually that was what
  we had demoed. When we first announced the company, that was the
  prototype that was actually being used at the announcement.
 
-paragraph
- <b>Guy:</b> Wow. I mean, how did you even get it to that point? Because
+* <b>Guy:</b> Wow. I mean, how did you even get it to that point? Because
  you guys are both software engineers, how did you develop a physical
  product that even such a crude prototype could track movement? Did you
  have other people help you do that?
 
-aftertext
- <b>James:</b> That was our big task was to find the right people who
+* <b>James:</b> That was our big task was to find the right people who
  could help us. I knew the founder of a really great industrial design
  firm in San Francisco called New Deal Design. His name is Gadi Amit.
  And then on the algorithm side, because it was going to take a lot of
@@ -618,32 +516,26 @@ aftertext
  the software.
  https://www.newdealdesign.com/ New Deal Design
 
-paragraph
- <b>Guy:</b> I mean, you leave CNET in 2007, and you've got 400,000 to
+* <b>Guy:</b> I mean, you leave CNET in 2007, and you've got 400,000 to
  come up with a prototype that quickly run out of that. So it's 2008,
  and you're trying to raise money, how much did you raise?
 
-section Raising $2M (2008)
+# Raising $2M (2008)
 
-paragraph
- <b>James:</b> I think our first round was about $2 million.
+* <b>James:</b> I think our first round was about $2 million.
 
-paragraph
- <b>Guy:</b> Which was not going to take you that far if you wanted to
+* <b>Guy:</b> Which was not going to take you that far if you wanted to
  develop a physical product that was super sophisticated, a piece of
  hardware.
 
-paragraph
- <b>James:</b> We thought we could do it. We thought we knew a little bit
+* <b>James:</b> We thought we could do it. We thought we knew a little bit
  more about the hardware business. We put together another business
  plan budget. It was actually a pretty challenging time to raise money
  as well because-
 
-paragraph
- <b>Guy:</b> Oh, with the financial crisis. Yeah.
+* <b>Guy:</b> Oh, with the financial crisis. Yeah.
 
-paragraph
- <b>James:</b> Exactly. It was the fall of 2008, when we were trying to
+* <b>James:</b> Exactly. It was the fall of 2008, when we were trying to
  raise money. One of the, I guess the good and bad things about VCs is,
  the good thing about VCs is they're incredibly healthy people. They're
  super fit. But it also made it difficult for a lot of them to
@@ -658,14 +550,12 @@ paragraph
  to put their own bias on these products. It's naturally human to do
  that.
 
-paragraph
- <b>Guy:</b> And did you know right away that this was going to be... I
+* <b>Guy:</b> And did you know right away that this was going to be... I
  mean, now Fitbit's are watches mainly. They're wrists, there on your
  wrist. But at that time, you were thinking that this was just going to
  be something you would clip to your clothing?
 
-paragraph
- <b>James:</b> Yeah. Something to clip to your clothing for men. And then
+* <b>James:</b> Yeah. Something to clip to your clothing for men. And then
  what we found out in talking to a lot of women was that they wanted to
  tuck it away somewhere hidden. They didn't want people to see it. And
  we said, "Okay, where would you want to put it?" And said, "Well, a
@@ -675,19 +565,15 @@ paragraph
  to come up with a product that would be very slim, slender, and
  clipped people's bra.
 
-paragraph
- <b>Guy:</b> And hidden.
+* <b>Guy:</b> And hidden.
 
-paragraph
- <b>James:</b> And hidden and clipped the bras pretty easily.
+* <b>James:</b> And hidden and clipped the bras pretty easily.
 
-paragraph
- <b>Guy:</b> And by the way, how did you come up with the name Fitbit?
+* <b>Guy:</b> And by the way, how did you come up with the name Fitbit?
 
-section Buying FitBit.com from a Russian for $2,000
+# Buying FitBit.com from a Russian for $2,000
 
-paragraph
- <b>James:</b> It's never easy to name a company, and it's even more
+* <b>James:</b> It's never easy to name a company, and it's even more
  challenging just because of domain names. That's typically a lot of
  the limiting factor in naming a great company. And so, we would spend
  hours and hours and days just going through different permutations of
@@ -695,11 +581,9 @@ paragraph
  theme. So we were thinking like Fitberry or Berryfit or Fitcado. Just
  some really awful names.
 
-paragraph
- <b>Guy:</b> The Fitcado.
+* <b>Guy:</b> The Fitcado.
 
-paragraph
- <b>James:</b> The Fitcado. Yes. History might've turned out a lot
+* <b>James:</b> The Fitcado. Yes. History might've turned out a lot
  differently for sure. I was just taking a nap in my office one
  afternoon. I think I was actually napping on the rug because I was so
  tired. And I woke up and it just hit me, it was Fitbit. And the next
@@ -713,55 +597,43 @@ paragraph
  "Oh, okay. 2000, deal." I think it was literally two or three emails
  that we sent back and forth in this negotiation.
 
-paragraph
- <b>Guy:</b> Probably the best $2,000 you ever spent in your life, except
+* <b>Guy:</b> Probably the best $2,000 you ever spent in your life, except
  for the 300 you spent on the press release a couple years earlier.
 
-paragraph
- <b>James:</b> Yeah, yeah. Definitely a good return.
+* <b>James:</b> Yeah, yeah. Definitely a good return.
 
-paragraph
- <b>Guy:</b> You've probably spent many millions of dollars on other
+* <b>Guy:</b> You've probably spent many millions of dollars on other
  things in your life that were not as good of a deal as that $2,000.
 
-paragraph
- <b>James:</b> Yeah. It's tens of thousands on naming consultants and
+* <b>James:</b> Yeah. It's tens of thousands on naming consultants and
  focus groups and trademark searches and all of that. It's kind of
  funny.
 
-paragraph
- <b>Guy:</b> Hey, as they say, small companies, small problems, big
+* <b>Guy:</b> Hey, as they say, small companies, small problems, big
  company, big problems.
 
-paragraph
- <b>James:</b> Exactly.
+* <b>James:</b> Exactly.
 
-section Doing a consumer hardware startup before KickStarter
+# Doing a consumer hardware startup before KickStarter
 
-paragraph
- <b>Guy:</b> So where do you begin? I mean, you got to make it, you got to
+* <b>Guy:</b> So where do you begin? I mean, you got to make it, you got to
  find a factory, you got to find designers. Where do you go?
 
-paragraph
- <b>James:</b> Very good question. We obviously had zero connections. The
+* <b>James:</b> Very good question. We obviously had zero connections. The
  challenge though, was not actually the connections to the
  manufacturers, but finding a manufacturer who we could actually
  convince to build this product because we didn't have a background in
  hardware. And so, would they actually want to work with us? That was
  the biggest concern at the time.
 
-paragraph
- <b>Guy:</b> So how did you find them?
+* <b>Guy:</b> So how did you find them?
 
-paragraph
- <b>James:</b> We went out to China. We went out to Singapore. And we
+* <b>James:</b> We went out to China. We went out to Singapore. And we
  were never going to be able to get the Foxconn's.
 
-paragraph
- <b>Guy:</b> You had to go to a smaller place.
+* <b>Guy:</b> You had to go to a smaller place.
 
-paragraph
- <b>James:</b> We had to go to a smaller place, who'd be more nimble,
+* <b>James:</b> We had to go to a smaller place, who'd be more nimble,
  more flexible, who'd want to take a financial risk. And we finally
  found a great manufacturer based in Singapore called Racer
  Technologies. And the good thing is actually, it was the best of all
@@ -770,8 +642,7 @@ paragraph
  facilities that were in Indonesia. The labor there was going to be
  lower cost than in Singapore.
 
-paragraph
- <b>Guy:</b> All right. So 2008, you've got the name Fitbit, you go to
+* <b>Guy:</b> All right. So 2008, you've got the name Fitbit, you go to
  TechCrunch50🔗youtu.be/RRR26GPpQ4A?t=218 to present, to unveil this product. And what was the
  product that you were offering? Well, you said, "All right, we've got
  to think of the Fitbit and it does this." What did you say it did at
@@ -779,8 +650,7 @@ paragraph
 
 image fitbit2008.jpg
 
-paragraph
- <b>James:</b> Our pitch to the crowd at TechCrunch, and ultimately to
+* <b>James:</b> Our pitch to the crowd at TechCrunch, and ultimately to
  our consumer was that, it was a product that would track your steps,
  distance, calories, and how much you slept and would answer some basic
  questions about your health, "Was I active enough today? Did I get
@@ -792,42 +662,34 @@ paragraph
  don't even think about it, and all this magic would happen. That was
  the promise of Fitbit at the time.
 
-paragraph
- <b>Guy:</b> There was a lot of excitement there, but I'm wondering, were
+* <b>Guy:</b> There was a lot of excitement there, but I'm wondering, were
  you nervous to do these presentations? Did you have to prepare like
  crazy, or did you just find your ability to be this person you had to
  be on stage when you got up there?
 
-paragraph
- <b>James:</b> Yeah, I think there was no other choice. It was just
+* <b>James:</b> Yeah, I think there was no other choice. It was just
  something we had to do. And I think-
 
-paragraph
- <b>Guy:</b> Are you better at it than Eric, or is Eric better at it than
+* <b>Guy:</b> Are you better at it than Eric, or is Eric better at it than
  you?
 
-paragraph
- <b>James:</b> I think we're both good in our different ways. It just
+* <b>James:</b> I think we're both good in our different ways. It just
  fell upon me. I don't even know how we decide those things. But
  actually, what was running through our minds, was not what we were
  going to say and how we're going to say it, but whether the demo would
  actually work on stage, because again, it was a little sketchy. It was
  still very early. It was still in the wooden box.
 
-paragraph
- <b>Guy:</b> In the balsa wood box.
+* <b>Guy:</b> In the balsa wood box.
 
-paragraph
- <b>James:</b> Balsa wood box phase. So we were just worried that the
+* <b>James:</b> Balsa wood box phase. So we were just worried that the
  demo would just fail or crash.
 
-paragraph
- <b>Guy:</b> But it worked.
+* <b>Guy:</b> But it worked.
 
-section The TechCrunch pitch and 2,000 preorders
+# The TechCrunch pitch and 2,000 preorders
 
-paragraph
- <b>James:</b> It worked, and actually it did crash in the middle of the
+* <b>James:</b> It worked, and actually it did crash in the middle of the
  presentation because the whole demo was about me walking on stage, the
  device would be collecting stats. And at one point I would turn to
  Eric and say, "Hey, Eric, why don't you refresh the page and show that
@@ -838,8 +700,7 @@ paragraph
  work. And so, to many people, it seemed like magic. Literally, people
  started clapping. It was really amazing.
 
-paragraph
- <b>James:</b> Originally, right before TechCrunch, Eric and I, we made
+* <b>James:</b> Originally, right before TechCrunch, Eric and I, we made
  just a verbal bet. "How many pre-orders are we going to get after this
  conference when we announce and make the company public?" And I think
  Eric said, "I think we'll get like five pre-orders." So it's like,
@@ -849,15 +710,13 @@ paragraph
  so we got off stage, and by the end of the day, we had about 2000
  pre-orders.
 
-paragraph
- <b>Guy:</b> Wow. When we come back in just a moment, James and Eric have
+* <b>Guy:</b> Wow. When we come back in just a moment, James and Eric have
  a prototype in the balsa wood box and they don't exactly know how they
  are going to get from there to filling thousands of pre-orders. But a
  lot of people are expecting them in time for Christmas. Stay with us,
  I'm Guy Raz, and you're listening to How I Built This from NPR.
 
-paragraph
- <b>Guy:</b> This message comes from NPR sponsor, Sell on Amazon. When you
+* <b>Guy:</b> This message comes from NPR sponsor, Sell on Amazon. When you
  sell on Amazon there's room to grow, ways to move and countless
  reasons to believe that your brand can do more. Amazon can help you
  set up your products and tell your brand's story. Give you access to
@@ -873,17 +732,15 @@ paragraph
  guaranteed. ClickUp is free forever. So get started at clickup.com/npr
  today.
 
-paragraph
- <b>Guy:</b> Hey, welcome back to How I Built This from NPR, I'm guy Raz.
+* <b>Guy:</b> Hey, welcome back to How I Built This from NPR, I'm guy Raz.
  So it's 2008, and James and his co-founder Eric Friedman show off
  their Fitbit prototype at TechCrunch, and it makes a huge splash. The
  problem is, they have no finished product. They haven't even figured
  out how they're going to make it and pre-orders are pouring in.
 
-section Being Open and Transparent
+# Being Open and Transparent
 
-paragraph
- <b>James:</b> And they just kept coming in. It was crazy. We were like,
+* <b>James:</b> And they just kept coming in. It was crazy. We were like,
  "Oh my god, it's not just dozens of these units we have to build, it's
  now thousands, and more and more every day." And so we were still
  thinking Christmas of that year that we were going to start shipping
@@ -896,14 +753,12 @@ paragraph
  wrote maybe weekly updates on how things were going, challenges and
  delays that we were facing.
 
-paragraph
- <b>James:</b> And I was really surprised, actually, it worked. It made
+* <b>James:</b> And I was really surprised, actually, it worked. It made
  people understand what we were going through. They're literally seeing
  the thing being made, the sausage being made behind the scenes. And I
  think that kept people really engaged throughout the process.
 
-paragraph
- <b>Guy:</b> So you have basically a bunch of contractors and freelancers
+* <b>Guy:</b> So you have basically a bunch of contractors and freelancers
  and you guys are going back and forth to Asia. You got people working
  on the software to transmit the data to the web. You've got some
  people working on the hardware, presumably, in Singapore trying shrink
@@ -912,122 +767,95 @@ paragraph
  that, "Oh, here it is." And then somebody would hit the go button and
  then it would just fizzle out, it wouldn't work?
 
-paragraph
- <b>James:</b> Yeah. I can't even enumerate the number of challenges with
+* <b>James:</b> Yeah. I can't even enumerate the number of challenges with
  the product that we had.
 
-paragraph
- <b>Guy:</b> Please start.
+* <b>Guy:</b> Please start.
 
-section Manufacturing in Asia
+# Manufacturing in Asia
 
-paragraph
- <b>James:</b> In some ways a lot of people, I think when you think about
+* <b>James:</b> In some ways a lot of people, I think when you think about
  hardware, it's like, "Oh, I'll find a manufacturer in China. I'll
  throw over a design."
 
-paragraph
- <b>Guy:</b> Yeah, right. No problem.
+* <b>Guy:</b> Yeah, right. No problem.
 
-paragraph
- <b>James:</b> "They'll just run with it."
+* <b>James:</b> "They'll just run with it."
 
-paragraph
- <b>Guy:</b> And then, "Just send me the bill," and then it's done.
+* <b>Guy:</b> And then, "Just send me the bill," and then it's done.
 
-paragraph
- <b>James:</b> And they'll just crank out thousands, tens of thousands of
+* <b>James:</b> And they'll just crank out thousands, tens of thousands of
  this. But that's never-
 
-paragraph
- <b>Guy:</b> And that works if it's a suitcase, we've done a way. It works
+* <b>Guy:</b> And that works if it's a suitcase, we've done a way. It works
  if it's that thing.
 
-paragraph
- <b>James:</b> If it's that thing or something that's very similar to
+* <b>James:</b> If it's that thing or something that's very similar to
  something that they've built before.
 
-paragraph
- <b>Guy:</b> Right.
+* <b>Guy:</b> Right.
 
-paragraph
- <b>James:</b> Well, that's a different story than this thing that this
+* <b>James:</b> Well, that's a different story than this thing that this
  manufacturer never had built before.
 
-paragraph
- <b>Guy:</b> So they would send you things and say, "Yep, we got it." And
+* <b>Guy:</b> So they would send you things and say, "Yep, we got it." And
  then you would get it and it sucked. It just didn't work.
 
-paragraph
- <b>James:</b> Yeah. We wouldn't wait for them to send it. I mean, either
+* <b>James:</b> Yeah. We wouldn't wait for them to send it. I mean, either
  myself or Eric would be in Indonesia or Singapore at any given time.
  We'd trade off different weeks. And we were out there on the
  production lines pretty much inspecting every part of the process.
 
-paragraph
- <b>Guy:</b> But were you convinced this thing was going to work or did
+* <b>Guy:</b> But were you convinced this thing was going to work or did
  you have doubt?
 
-paragraph
- <b>James:</b> I was absolutely convinced that it was going to happen.
+* <b>James:</b> I was absolutely convinced that it was going to happen.
 
-paragraph
- <b>Guy:</b> You had no doubts that this-
+* <b>Guy:</b> You had no doubts that this-
 
-paragraph
- <b>James:</b> I had no doubts because we were getting proof every day
+* <b>James:</b> I had no doubts because we were getting proof every day
  that this was something that was going to be big. And I think the
  first evidence of that was at TechCrunch where we had 2,000 pre-orders
  and we were getting pre-orders every day. I think by the summer time,
  we had about 25,000 pre-orders at $100 per unit. That's a fair amount
  of revenue if we could ship these units.
 
-paragraph
- <b>Guy:</b> And how much was it going to cost you to make each unit?
+* <b>Guy:</b> And how much was it going to cost you to make each unit?
 
-paragraph
- <b>James:</b> That was a very good question. We didn't know that.
+* <b>James:</b> That was a very good question. We didn't know that.
  Hopefully, under $100.
 
-paragraph
- <b>Guy:</b> You didn't know? You were selling them for $100, but you
+* <b>Guy:</b> You didn't know? You were selling them for $100, but you
  didn't know how much it was going to cost you.
 
-paragraph
- <b>James:</b> We had a sense of the bill of materials. I think we were
+* <b>James:</b> We had a sense of the bill of materials. I think we were
  trying to shoot for a gross margin of about 50%. So we're targeting
  the full cost of the product, including shipping, et cetera, being no
  more than $50. That's what we were targeting.
 
-paragraph
- <b>Guy:</b> Which is a lot. That's high. It's a high cost.
+* <b>Guy:</b> Which is a lot. That's high. It's a high cost.
 
-paragraph
- <b>James:</b> It's a high cost, but that was a cost at which we felt we
+* <b>James:</b> It's a high cost, but that was a cost at which we felt we
  could sustain ourselves as a business.
 
-paragraph
- <b>Guy:</b> How did you and Eric manage your relationship and friendship?
+* <b>Guy:</b> How did you and Eric manage your relationship and friendship?
  I mean, with the stress of this delay and inability to meet demand and
  all these, was there tension at all between the two of you, or you
  guys totally are on the same page?
 
-section Importance of cofounders
+# Importance of cofounders
 
-paragraph
- <b>James:</b> I don't think there was that much tension. I mean, a lot
+* <b>James:</b> I don't think there was that much tension. I mean, a lot
  of stress, but not tension. I think we trust in our ability to help
  each other out. And there are periods when either of us would be
  pretty down on the company and the product. And luckily, we weren't
  down both at the same time. And that's why it helps, I think, to have
  a co-founder.
 
-paragraph
- <b>Guy:</b> So there were times where you were really down and he could
+* <b>Guy:</b> So there were times where you were really down and he could
  give you a pep talk and.
 
-paragraph
- <b>James:</b> Exactly. And then I'd wonder why he wasn't down. And
+* <b>James:</b> Exactly. And then I'd wonder why he wasn't down. And
  there're some pretty dark times right before we shipped. I remember we
  were months before we thought we could finally get the first unit off
  the production line. And I was sitting in my hotel room in Singapore,
@@ -1035,45 +863,35 @@ paragraph
  produced and the radio range was not good at all. It was supposed to
  have a range-
 
-section Hardware is Hard
+# Hardware is Hard
 
-paragraph
- <b>Guy:</b> 10 feet or 15 feet?
+* <b>Guy:</b> 10 feet or 15 feet?
 
-paragraph
- <b>James:</b> That was the hope that it would have 15 to 20 feet range,
+* <b>James:</b> That was the hope that it would have 15 to 20 feet range,
  but the range was actually two inches.
 
-paragraph
- <b>Guy:</b> Oh god. Wait, so the antenna in the device had a two inch
+* <b>Guy:</b> Oh god. Wait, so the antenna in the device had a two inch
  range.
 
-paragraph
- <b>James:</b> Yeah. It would only work at two inches. And I'm thinking,
+* <b>James:</b> Yeah. It would only work at two inches. And I'm thinking,
  we've got to ship this holiday season. I've got tens of thousands of
  these people waiting.
 
-paragraph
- <b>Guy:</b> Oh god.
+* <b>Guy:</b> Oh god.
 
-paragraph
- <b>James:</b> And so, I'm just freaking out in hotel room.
+* <b>James:</b> And so, I'm just freaking out in hotel room.
 
-paragraph
- <b>Guy:</b> You might as well have a cord and just plug it in.
+* <b>Guy:</b> You might as well have a cord and just plug it in.
 
-paragraph
- <b>James:</b> Exactly, exactly. I couldn't sleep that night obviously.
+* <b>James:</b> Exactly, exactly. I couldn't sleep that night obviously.
  And I took the unit apart. I had a multimeter and I was measuring
  different voltages and currents. And what I realized was, huh, the
  cable for the display was flexible and long enough that maybe it was
  actually trooping down and touching the antenna and that was causing-
 
-paragraph
- <b>Guy:</b> That was creating interference.
+* <b>Guy:</b> That was creating interference.
 
-paragraph
- <b>James:</b> Creating interference. And I could see that when you put
+* <b>James:</b> Creating interference. And I could see that when you put
  the whole thing together, that it might troop down. And I thought,
  "Okay, how do I create a shim that would prop the antenna?" So I went
  to the bathroom, grabbed some toilet paper, rolled a little bit of it
@@ -1081,18 +899,14 @@ paragraph
  put the device back together. And it started working. The range was
  great.
 
-paragraph
- <b>Guy:</b> Wow. So you had to separate one wire from the antenna and
+* <b>Guy:</b> Wow. So you had to separate one wire from the antenna and
  that was it, with toilet paper?
 
-paragraph
- <b>James:</b> With toilet paper. Yeah, that was it.
+* <b>James:</b> With toilet paper. Yeah, that was it.
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> And I still couldn't sleep. So as early as possible, the
+* <b>James:</b> And I still couldn't sleep. So as early as possible, the
  following morning I raced into our manufacturing and said, "Okay, I
  think I found the problem," but obviously a toilet paper is not a
  scalable high volume situation. So they went back and figured out how
@@ -1100,30 +914,24 @@ paragraph
  little tiny tie cut pieces of rubber that they would glue onto the
  circuit board to keep the antenna away from the display cable.
 
-paragraph
- <b>Guy:</b> Wow. Wow. So that was, basically, was just, inserting
+* <b>Guy:</b> Wow. Wow. So that was, basically, was just, inserting
  something in there and then it worked?
 
-paragraph
- <b>James:</b> Yeah, it wasn't exactly duct tape, but that was the
+* <b>James:</b> Yeah, it wasn't exactly duct tape, but that was the
  equivalent of duct tape
 
-paragraph
- <b>Guy:</b> It was pretty close.
+* <b>Guy:</b> It was pretty close.
 
-paragraph
- <b>James:</b> It was pretty close. Yeah.
+* <b>James:</b> It was pretty close. Yeah.
 
-paragraph
- <b>Guy:</b> So you guys launched this product in Christmas of 2009, and
+* <b>Guy:</b> So you guys launched this product in Christmas of 2009, and
  it was a pretty successful product launch. You had 25,000 orders and
  sounds like you're off to the races, but I guess even with this
  success, when you went out to raise money, this is 2010, were
  investors more excited or was it still a challenge to get more
  investors in?
 
-paragraph
- <b>James:</b> It was still a challenge. And at the time, it wasn't,
+* <b>James:</b> It was still a challenge. And at the time, it wasn't,
  "Okay, I guess you guys are having some success, consumers are buying
  the product, et cetera." And they congratulated us on that. But they
  were very scared of hardware businesses. I think there had been a lot
@@ -1133,31 +941,27 @@ paragraph
  put on that list. And literally, we went to number 40 before we were
  able to raise money.
 
-section Raising money from VCs: 40 nos.
+# Raising money from VCs: 40 nos.
 
-paragraph
- <b>Guy:</b> And just giving the same pitch, again, again, answering the
+* <b>Guy:</b> And just giving the same pitch, again, again, answering the
  same questions?
 
-paragraph
- <b>James:</b> Same pitch. We're in San Francisco driving down 101 to
+* <b>James:</b> Same pitch. We're in San Francisco driving down 101 to
  Sand Hill Road, constantly giving the same pitch to 40 VCs. That's
  probably the one thing I didn't like about that whole time period was,
  I hate giving the same pitch over and over and hearing the same
  questions and same objections, et cetera. That was not a fun or
  stimulating time for me.
 
-section Raising $8M (2010)
+# Raising $8M (2010)
 
-paragraph
- <b>Guy:</b> All right. Eventually, the 40th investor does decide to give
+* <b>Guy:</b> All right. Eventually, the 40th investor does decide to give
  you some money. I think you raised about $8 million. And at this
  point, were you able to then have a proper office and a staff. Were
  you able to begin to recruit real full-time engineers and developers
  and people like that?
 
-paragraph
- <b>James:</b> We were. We did that with the round that was right after
+* <b>James:</b> We were. We did that with the round that was right after
  our first $2 million institutional round. We hired a bunch of customer
  support personnel. I interviewed and hired our first head of sales. I
  interviewed and hired someone to finally run all of our manufacturing
@@ -1167,10 +971,9 @@ paragraph
  those days pretty much made it up to and passed our IPO, which I think
  rarely happens.
 
-section Building a community
+# Building a community
 
-paragraph
- <b>Guy:</b> It's so crazy to think about it now. But I think early on,
+* <b>Guy:</b> It's so crazy to think about it now. But I think early on,
  with the Fitbit, the idea was to be part of a bigger community. Like
  the data from your activity would be available. You would just go to a
  site and you could see it and you could see everybody else's because
@@ -1180,8 +983,7 @@ paragraph
  this being a privacy thing. I always thought that people would just
  want to share stuff."
 
-paragraph
- <b>James:</b> Yeah. This was still the early days of sharing things like
+* <b>James:</b> Yeah. This was still the early days of sharing things like
  that. And I found out about it because I saw this tweet about someone
  going, "Hey, if you do this Google search, you'll see," because Google
  was indexing all our public pages where people are logging things that
@@ -1192,47 +994,38 @@ paragraph
  I had to call an emergency board meeting. We had to scramble to delete
  all that stuff, turn everything private.
 
-paragraph
- <b>Guy:</b> Because the default setting, initially, when you got to
+* <b>Guy:</b> Because the default setting, initially, when you got to
  Fitbit was, it's not private, it's open. Because the idea was, it was
  going to be a big community of people trying to get fit.
 
-paragraph
- <b>James:</b> Yeah. I mean, we made a lot of things private by default.
+* <b>James:</b> Yeah. I mean, we made a lot of things private by default.
  We made sure that people's weight was private because we thought that
  would be sensitive, but we didn't think that people's activities,
  there wasn't any harm in doing that and we just didn't realize that
  people would start logging that.
 
-paragraph
- <b>Guy:</b> And just to be clear, people who logged sexual activity, this
+* <b>Guy:</b> And just to be clear, people who logged sexual activity, this
  was not a category that you offered up, it was just people were
  voluntarily deciding to just log that as one of their activities.
 
-paragraph
- <b>James:</b> Well, it was a category, but it wasn't something that we
+* <b>James:</b> Well, it was a category, but it wasn't something that we
  had realized. We use this database from the government that was
  thousands of different activities that people would do.
 
-paragraph
- <b>Guy:</b> Oh, I see. 
+* <b>Guy:</b> Oh, I see. 
 
-paragraph
- <b>James:</b> And so, it was an option. We just didn't think people
+* <b>James:</b> And so, it was an option. We just didn't think people
  would with log that.
 
-paragraph
- <b>Guy:</b> You were just naive about that.
+* <b>Guy:</b> You were just naive about that.
 
-paragraph
- <b>James:</b> We were naive. We were like, "Okay, this is a government
+* <b>James:</b> We were naive. We were like, "Okay, this is a government
  database of activities. It must be fine." That was quite a shock and a
  wake up call for us.
 
-section $76M in revenue (2012)
+# $76M in revenue (2012)
 
-paragraph
- <b>Guy:</b> Fitbit for the first couple of years was, a, still a clip.
+* <b>Guy:</b> Fitbit for the first couple of years was, a, still a clip.
  Mainly a clip. And then, I think really 2011, you released the first
  product, Christmas of 2009, you've got 2010. By 2011, just business
  exploded, 5X growth from 2011, 2012. You went from $15 million in
@@ -1241,8 +1034,7 @@ paragraph
  investing in marketing? Was it just unearned media, just people
  reporting on it? What was going on?
 
-paragraph
- <b>James:</b> I think, the primary reason is, because we had baked in
+* <b>James:</b> I think, the primary reason is, because we had baked in
  this social element, this community element into it from the very
  beginning, it ended up being a very viral product. So one family
  member would get it, and to really realize the potential, the
@@ -1251,26 +1043,22 @@ paragraph
  parents and they would start competing and then they'd buy it for
  their friends and they'd try to get their friends to buy the product.
 
-paragraph
- <b>Guy:</b> So they could each see how many steps you were... Because I
+* <b>Guy:</b> So they could each see how many steps you were... Because I
  remember this, I remember this in NPR. People were wearing Fitbits and
  they were talking and there was, I think there was even, people were
  encouraged to get Fitbits.
 
-paragraph
- <b>James:</b> Exactly. It was very driven by word of mouth. And this
+* <b>James:</b> Exactly. It was very driven by word of mouth. And this
  viral spread was a huge driver of our growth in those days.
 
-section Worrying about Competition (2013)
+# Worrying about Competition (2013)
 
-paragraph
- <b>Guy:</b> I think by 2013, you had some competitors coming in. Nike was
+* <b>Guy:</b> I think by 2013, you had some competitors coming in. Nike was
  making one and Jawbone was making one. I mean, I remember going to the
  TED Conference in 2013 and getting a Jawbone in my gift bag. Were you
  worried about the competition at that point, or not really?
 
-paragraph
- <b>James:</b> Yeah. At that time I think people were looking at the
+* <b>James:</b> Yeah. At that time I think people were looking at the
  success and there was even a name, coined for the whole category,
  which is quantified self. "How do I use sensors, et cetera, to measure
  everything that I'm doing in my entire life?" And so that attracted a
@@ -1278,25 +1066,21 @@ paragraph
  aspect was definitely worrying at the time, especially with Nike and
  Jawbone.
 
-paragraph
- <b>Guy:</b> Because they're so huge.
+* <b>Guy:</b> Because they're so huge.
 
-paragraph
- <b>James:</b> There are huge. I mean, Nike, obviously, it's a
+* <b>James:</b> There are huge. I mean, Nike, obviously, it's a
  multi-billion dollar, multi-national company with a lot of media
  dollars. I remember when they announced the FuelBand, they had all
  these celebrity athletes at the announcement and we're like, "Oh god,
  that's insane."
 
-paragraph
- <b>Guy:</b> And yet, by 2014 you had 67% of the activity tracking
+* <b>Guy:</b> And yet, by 2014 you had 67% of the activity tracking
  marketplace. I mean, Fitbit was just totally dominating the
  marketplace. I mean, were you and Eric doing victory laps and
  high-fiving each other and thinking back to all those doubters? I
  mean, what was going on?
 
-paragraph
- <b>James:</b> I think we were still pretty, I don't know if scared is
+* <b>James:</b> I think we were still pretty, I don't know if scared is
  the right word. I think, it's still very, very cautious. Nothing was
  guaranteed. There was a lot of competition that was emerging. We still
  had a lot of internal challenges in the business, scaling production,
@@ -1307,10 +1091,9 @@ paragraph
  kept saying that every six months. It was pretty much an ongoing
  thing, pretty much up to the IPO.
 
-section The IPO (2015)
+# The IPO (2015)
 
-paragraph
- <b>Guy:</b> 2015 was a huge turning point for you in many ways. You go
+* <b>Guy:</b> 2015 was a huge turning point for you in many ways. You go
  public, I think your market cap, I read a certain point, reached $10
  billion. That year, 2015, the Apple Watch is released and they stopped
  selling Fitbit in their stores. At the time you were quoted saying,
@@ -1322,10 +1105,9 @@ paragraph
  that or did you really think that was true that the Apple Watch
  wouldn't actually have much of an impact?
 
-section The Apple Watch (2015)
+# The Apple Watch (2015)
 
-paragraph
- <b>James:</b> We were definitely concerned with Apple. I mean, this was
+* <b>James:</b> We were definitely concerned with Apple. I mean, this was
  the preeminent technology, and especially a hardware company at the
  time with an amazing brand. We had faced off Philips and Nike and
  Jawbone, which were in their rights, very big competitors, especially
@@ -1338,17 +1120,15 @@ paragraph
  of the business. It wasn't the product that it would later become. And
  the industry wasn't where it would eventually evolve either.
 
-paragraph
- <b>Guy:</b> I mean, but eventually, the industry did change. I mean,
+* <b>Guy:</b> I mean, but eventually, the industry did change. I mean,
  Apple Watch got really popular. I think, by 2016, Fitbit's stock had
  dropped by 75% over the course of a year. I mean, you and Eric were
  running a publicly traded company and the stock was just tumbling.
  What did you think? I mean, I can't imagine that was pleasant for you.
 
-section Running a Public Company
+# Running a Public Company
 
-paragraph
- <b>James:</b> No, it was definitely a stressful period. And you could
+* <b>James:</b> No, it was definitely a stressful period. And you could
  argue, well, maybe we shouldn't even have been valued at 10 billion in
  the first place. And I think in a lot of times it's a question of
  perception. If we had never hit that 10 billion and we had steadily
@@ -1360,25 +1140,21 @@ paragraph
  could happen once a year, once every two years. So if you hit a bump
  in the road, your employees don't really feel it.
 
-paragraph
- <b>James:</b> We had a product recall where, if we had been a public
+* <b>James:</b> We had a product recall where, if we had been a public
  company, our valuation would have plummeted immediately, but at the
  time we were private. So we just told the employees, "Hey, look, this
  is the challenge. It's pretty serious, but here are the steps that
  we're going to take to get through it." And everyone rallied together.
  But when you're being measured every day in real-time-
 
-paragraph
- <b>Guy:</b> By the stock price.
+* <b>Guy:</b> By the stock price.
 
-paragraph
- <b>James:</b> ... By the stock price, you're not really given a lot of
+* <b>James:</b> ... By the stock price, you're not really given a lot of
  breathing room to try to fix things.
 
-section On Critical Feedback
+# On Critical Feedback
 
-paragraph
- <b>Guy:</b> Even though you were introducing new products, revenue was
+* <b>Guy:</b> Even though you were introducing new products, revenue was
  declining every year from the time you went public. And I read an
  article about something that you did in 2017. And I'm really just
  curious to get your take on it, because I actually think it's really
@@ -1389,8 +1165,7 @@ paragraph
  letters to the board asking that you be removed as CEO. I can't
  imagine that was easy for you to hear.
 
-paragraph
- <b>James:</b> I don't know if I've heard that particular feedback
+* <b>James:</b> I don't know if I've heard that particular feedback
  directly, but clearly the survey results were not great. I have
  jokingly think, probably used to hearing very critical feedback
  because of my parents. I don't think there was a moment where they're
@@ -1401,8 +1176,7 @@ paragraph
  to have one, but my primary focus was, "How do I get things back on
  track?"
 
-paragraph
- <b>Guy:</b> You had, there was a quote from somebody in an article. It
+* <b>Guy:</b> You had, there was a quote from somebody in an article. It
  was an anonymous quote. It said, "At a certain point, we're focused on
  the right things. We had the ability, and have the ability to know a
  lot about our users, which you do, but our users don't want to be told
@@ -1414,48 +1188,40 @@ paragraph
  focused on telling people what they've accomplished rather than
  telling them what they need to do?
 
-paragraph
- <b>James:</b> Yeah. I think there are ultimately two big things that
+* <b>James:</b> Yeah. I think there are ultimately two big things that
  were driving the headwinds in the business. First of all, I think we
  were really behind in launching a competitive smartwatch at the time.
  People were-
 
-paragraph
- <b>Guy:</b> Competitive to...
+* <b>Guy:</b> Competitive to...
 
-paragraph
- <b>James:</b> Competitive to Apple. It was clear that the industry,
+* <b>James:</b> Competitive to Apple. It was clear that the industry,
  consumers were moving to that category and we were seeing that in our
  sales. So in a very short period of time, our tracker business fell by
  $800 million in revenue. And at the time, at our peak, we were
  doing about 2.1 billion in revenue.
 
-paragraph
- <b>Guy:</b> Wow.
+* <b>Guy:</b> Wow.
 
-paragraph
- <b>James:</b> So we had $800 million hole, and we finally launched our
+* <b>James:</b> So we had $800 million hole, and we finally launched our
  smartwatch, but it was only sufficient to fill that hole very barely.
  We hadn't transformed the software into giving people guidance and
  advice. And it also ties to our failure at the time to quickly
  diversify our revenue stream beyond just hardware to a services
  business that-
 
-paragraph
- <b>Guy:</b> Like a subscription.
+* <b>Guy:</b> Like a subscription.
 
-section The Subscription Service
+# The Subscription Service
 
-paragraph
- <b>James:</b> Exactly. We were so focused on growing our hardware
+* <b>James:</b> Exactly. We were so focused on growing our hardware
  business because that was what was bringing in the money, that was
  what the retailers wanted, et cetera. And one of the mistakes I made
  was not setting up enough time, enough focus to building the
  subscription part of the business that actually answered those pivotal
  questions for our users.
 
-paragraph
- <b>Guy:</b> As many, many companies find themselves in a successful
+* <b>Guy:</b> As many, many companies find themselves in a successful
  companies that have a successful legacy product, this is crazy
  talking, but a legacy product for your company, which is only 10 years
  old or 12 years old. You could argue that the Fitbit product is your
@@ -1469,8 +1235,7 @@ paragraph
  company that really is about healthcare and is designed to pivot more
  into healthcare data and analysis. Is that fair? Is that right?
 
-paragraph
- <b>James:</b> Yeah. I think that's fair. I think we stopped thinking of
+* <b>James:</b> Yeah. I think that's fair. I think we stopped thinking of
  ourselves as a device company and more of as a behavior change company
  because that's effectively what people were buying our products and
  services to do, was to change their behavior in a really positive way.
@@ -1480,10 +1245,9 @@ paragraph
  company and figuring out what are the products and services that
  really deliver that both to people and to businesses.
 
-section The Google Acquisition (2019)
+# The Google Acquisition (2019)
 
-aftertext
- <b>Guy:</b> So we get to the end of last year where Google announces that they were going to buy Fitbit, $2.1 billion. We should mention that,
+* <b>Guy:</b> So we get to the end of last year where Google announces that they were going to buy Fitbit, $2.1 billion. We should mention that,
  at the time of this recording, it hasn't closed yet. To me, it makes
  perfect sense. If I'm you or Eric, I would have done it. I would've
  said, "$2.1 billion, that's great. That's a great outcome because now
@@ -1493,8 +1257,7 @@ aftertext
  perspective to sell to Google?
  https://techcrunch.com/2019/11/01/google-is-acquiring-fitbit/ Google announces that they were going to buy Fitbit, $2.1 billion
 
-paragraph
- <b>James:</b> Yeah, that's a very complicated and emotionally fraught
+* <b>James:</b> Yeah, that's a very complicated and emotionally fraught
  question, but last year our board met and it was pretty clear to
  everybody that we had a lot of challenges in the business. We weren't
  profitable. There was a lot of competition out there from the likes of
@@ -1506,15 +1269,13 @@ paragraph
  excited about that. And then also be confronted with a lot of the
  business challenges as well.
 
-paragraph
- <b>James:</b> And for me, most importantly it was about a legacy and I
+* <b>James:</b> And for me, most importantly it was about a legacy and I
  wanted the Fitbit brand and what we did to continue onwards for a
  very, very long time. And we just had to figure out the best way to do
  it, whether it was as an independent company or within a larger
  company. That was really what was most important.
 
-paragraph
- <b>Guy:</b> I imagine that there are some details you can't talk about
+* <b>Guy:</b> I imagine that there are some details you can't talk about
  for obvious reasons, but as of this recording, we're talking in
  mid-April, there is a hold on the Google acquisition. The department
  of justice is doing an investigation because there's some interest
@@ -1523,8 +1284,7 @@ paragraph
  incredible trove of health data." Is that causing you stress right now
  that there is this justice department holdup on the acquisition?
 
-paragraph
- <b>James:</b> No. And it's because sometimes the press does like to
+* <b>James:</b> No. And it's because sometimes the press does like to
  sensationalize things, but the process that we're undergoing right now
  with the department of justice and also with the EU and some other
  countries around the world is pretty normal for acquisitions of the
@@ -1533,13 +1293,11 @@ paragraph
  share. That's just something that we have to convince regulators that,
  "This doesn't reduce competition in the marketplace."
 
-paragraph
- <b>Guy:</b> As far as you know, the situation now with the lockdowns and
+* <b>Guy:</b> As far as you know, the situation now with the lockdowns and
  the pandemic does not have any impact on Google's interest or
  commitment to making this happen.
 
-paragraph
- <b>James:</b> No, I think everyone's thinking towards the long-term,
+* <b>James:</b> No, I think everyone's thinking towards the long-term,
  fingers crossed is that we do find ourselves through this COVID-19
  situation and that there is life beyond that. Maybe it comes back
  slowly, but I think everyone is thinking, "What does this whole
@@ -1549,23 +1307,20 @@ paragraph
  people healthy outside of a hospital setting is actually really
  important.
 
-paragraph
- <b>Guy:</b> Super. It's going to totally change... I've had a video call
+* <b>Guy:</b> Super. It's going to totally change... I've had a video call
  with my doctor just for a quick question. It's actually super
  convenient.
 
-section The Future of Medicine
+# The Future of Medicine
 
-paragraph
- <b>James:</b> Exactly. And if during these telemedicine visits, if they
+* <b>James:</b> Exactly. And if during these telemedicine visits, if they
  have a snapshot in summary of what you've been up to and what your
  health has been outside of that visit, and almost be predictive in
  that way, I mean, I think that can be really groundbreaking in the way
  medicine gets practiced. And this whole time period is merely
  accelerating that transition.
 
-paragraph
- <b>Guy:</b> When you think about all of the things that you have done
+* <b>Guy:</b> When you think about all of the things that you have done
  professionally and your successes, you made a lot of money. I mean,
  you're extremely wealthy and wealthier than your parents could have
  ever imagined you would be, or they would be. They took a huge risk to
@@ -1573,10 +1328,9 @@ paragraph
  of that do you think is because of your intelligence and skill and how
  much do you attribute to luck?
 
-section Closing thoughts
+# Closing thoughts
 
-paragraph
- <b>James:</b> Yeah, that's always a tricky question to answer. I think,
+* <b>James:</b> Yeah, that's always a tricky question to answer. I think,
  very fortunate to have grown up with my parents. Just having seen them
  persevere through life, you get the realization that nothing really
  comes easy. That it does take a lot of just grinding away at things
@@ -1590,8 +1344,7 @@ paragraph
  think you start to discount the actual things, actions that you can
  take on your own to affect the future. And that's really important.
 
-aftertext
- <b>Guy:</b> That's James Park, co-founder of Fitbit. And here's a number
+* <b>Guy:</b> That's James Park, co-founder of Fitbit. And here's a number
  for you, 34,642,772, that is how many steps James has tracked since he
  first put on that balsa wood Fitbit prototype. At least as of this
  recording. It's about 15,430 miles or 24,832 kilometers. And thanks so

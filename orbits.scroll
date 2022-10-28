@@ -1,25 +1,21 @@
 title Orbits
 date 2010-08-06
 
-aftertext
- In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are you?
+* In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are you?
  dateline
 
-paragraph
- I think we should use the word "orbit" instead of year. It's less abstract. The earth's 584 million mile journey around the sun is an amazing phenomena, and calling it merely "another year" doesn't do it justice.
+* I think we should use the word "orbit" instead of year. It's less abstract. The earth's 584 million mile journey around the sun is an amazing phenomena, and calling it merely "another year" doesn't do it justice.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Calling years orbits also makes life sound more like a carnival ride--you get a certain number of orbits and then you get off. 
+* Calling years orbits also makes life sound more like a carnival ride--you get a certain number of orbits and then you get off. 
 
-paragraph
- Enjoy the ride!
+* Enjoy the ride!
 
-section Notes
+# Notes
 
 orderedList
  1. Neat fact: The sun completes a revolution around the center of the Milky Way galaxy once every 250 million years. It is estimated to have completed <a href="http://www.quora.com/The-Moon-orbits-the-Earth-and-the-Earth-orbits-the-Sun-What-does-the-Sun-orbit">25 orbits</a>  during the lifetime of our Sun, and less than one orbit since the origin of humans.

@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink new-tricks-in-vim.html
 
-aftertext
- I learned some new tricks with vim today.
+* I learned some new tricks with vim today.
  dateline
 
 code
@@ -19,8 +18,6 @@ code
  :hide - hide the current window
  :ls - show current buffers
 
-paragraph
- Notes
+* Notes
 
-paragraph
- 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+* 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)

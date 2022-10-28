@@ -1,6 +1,6 @@
 title Keyboard Shortcuts for Mecabricks
 
-subsection Global
+## Global
 
 import settings.scroll
 
@@ -10,7 +10,7 @@ pipeTable
  Ctrl + Z|Undo
  Ctrl + Y|Redo
 
-subsection Viewport and Graph Panel
+## Viewport and Graph Panel
 pipeTable
  Combo|Command
  A|Select all / Deselect all
@@ -74,7 +74,7 @@ pipeTable
  Combo|Command
  Del or Bak|Delete selection
 
-subsection Flexible Tool
+## Flexible Tool
 pipeTable
  Combo|Command
  B|Box select: add to selection
@@ -87,7 +87,7 @@ pipeTable
  DEL or BAK|Delete anchor points
  S|Snap anchor point or solid part selected
 
-subsection Animation Editor
+## Animation Editor
 pipeTable
  Combo|Command
  A|Select all nodes
@@ -108,5 +108,4 @@ pipeTable
  Combo|Command
  Del or Bak|Delete selected nodes
 
-paragraph
- As Printable Image🔗./mecabricks-keyboard-shortcuts.png
+* As Printable Image🔗./mecabricks-keyboard-shortcuts.png

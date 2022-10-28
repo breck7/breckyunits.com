@@ -5,36 +5,29 @@ groups index
 keyboardNav
 permalink use-rsync-to-deploy-your-website.html
 
-aftertext
- rsync is a nifty little tool that can deploy a website to a testing or production server.
+* rsync is a nifty little tool that can deploy a website to a testing or production server.
  dateline
 
-paragraph
- Here's a one line command to deploy brecksblog:
+* Here's a one line command to deploy brecksblog:
 
 code
  rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
 
-paragraph
- This one line will do a fast, incremental file transfer from my local directory to the web server. 
+* This one line will do a fast, incremental file transfer from my local directory to the web server. 
 
-paragraph
- I saved this file as "deploy", and then run it by typing:
+* I saved this file as "deploy", and then run it by typing:
 
 code
  ./deploy
 
-paragraph
- The exclude option will exclude a file or directory from being synced.
+* The exclude option will exclude a file or directory from being synced.
 
-paragraph
- Here's an explanation🔗ubuntuforums.org/showthread.php?t=251516 about the options I use. I use rsync with these options:
+* Here's an explanation🔗ubuntuforums.org/showthread.php?t=251516 about the options I use. I use rsync with these options:
 
 code
  rsync -arvuz /src/foo/ /dest/foo
 
-paragraph
- This will copy the contents of /src/foo/ into /dest/foo. Options explained:
+* This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
 list
  - a: archive mode (keep owner and permissions)
@@ -44,7 +37,6 @@ list
  - z: compress file data
 
 
-section Notes 
+# Notes 
 
-paragraph
- 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
+* 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"

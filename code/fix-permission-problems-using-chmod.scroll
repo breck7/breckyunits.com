@@ -5,12 +5,10 @@ groups index
 keyboardNav
 permalink fix-permission-problems-using-chmod.html
 
-aftertext
- Permission problems driving you crazy? Here's a common command to fix them:
+* Permission problems driving you crazy? Here's a common command to fix them:
  dateline
 
 code
  chmod -R 755 directoryname
 
-paragraph
- Change the file permissions of all directories and files in directoryname to 755.
+* Change the file permissions of all directories and files in directoryname to 755.

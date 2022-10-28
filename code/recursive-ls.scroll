@@ -5,6 +5,5 @@ groups index
 keyboardNav
 permalink recursive-ls.html
 
-aftertext
- Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
+* Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
  dateline

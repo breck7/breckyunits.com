@@ -1,18 +1,14 @@
 title HackerNews Data: Visits as a Function of Karma
 date 2010-03-08
 
-aftertext
- If a post on HackerNews gets more points, it gets more visits.
+* If a post on HackerNews gets more points, it gets more visits.
  dateline
 
-paragraph
- But how much more? That's what <a href="http://news.ycombinator.com/item?id=1175277">Murkin</a> wanted to know.
+* But how much more? That's what <a href="http://news.ycombinator.com/item?id=1175277">Murkin</a> wanted to know.
 
-paragraph
- I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
+* I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
 
-paragraph
- Here's how it looks if you plot visits by karma score:
+* Here's how it looks if you plot visits by karma score:
 
 image visits_by_karma.png
 
@@ -21,8 +17,7 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- The Pearson Correlation is high: 0.894. Here's the raw data:
+* The Pearson Correlation is high: 0.894. Here's the raw data:
 
 spaceTable
  Karma Visits Page

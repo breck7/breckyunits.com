@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink execute-commands-on-remote-server-via-ssh.html
 
-aftertext
- Ever want to non interactively execute commands on a remote server?
+* Ever want to non interactively execute commands on a remote server?
  dateline
 
 code

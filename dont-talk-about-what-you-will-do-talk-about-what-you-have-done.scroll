@@ -1,58 +1,47 @@
 title Don't talk about what you will do, talk about what you have done
 date 2010-02-19
 
-aftertext
- All the time I overhear people saying things like "I will start excercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
+* All the time I overhear people saying things like "I will start excercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
  dateline
 
-paragraph
- The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
+* The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.
+* Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.
 
-paragraph
- I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you <i>will do</i> entirely, and only talk about things you <i>have done</i>. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+* I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you <i>will do</i> entirely, and only talk about things you <i>have done</i>. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
 
-section Why we are bad at making predictions.
+# Why we are bad at making predictions.
 
-paragraph
- Pretend you are walking down a path:
+* Pretend you are walking down a path:
 
 image path1.png
 
-paragraph
- Someone asks you whether you've been walking on grass or dirt. You can look down and see what it is:
+* Someone asks you whether you've been walking on grass or dirt. You can look down and see what it is:
 
 image path2.png
 
-paragraph
- Now, they ask you what you will be walking on. You can look ahead see what it is:
+* Now, they ask you what you will be walking on. You can look ahead see what it is:
 
 image path3.png
 
-paragraph
- Easy right? But this is not a realistic model of time. Let's add some fog:
+* Easy right? But this is not a realistic model of time. Let's add some fog:
 
 image path4.png
 
-paragraph
- Again, someone asks you whether you've been walking on grass or dirt. Even with the fog, you can look down and see what it is:
+* Again, someone asks you whether you've been walking on grass or dirt. Even with the fog, you can look down and see what it is:
 
 image path5.png
 
-paragraph
- Now, they ask you what you will be walking on. You look ahead, but now with the fog you can't see what it is:
+* Now, they ask you what you will be walking on. You look ahead, but now with the fog you can't see what it is:
 
 image path6.png
 
-paragraph
- What do you do? Do you say:
+* What do you do? Do you say:
 
 orderedList
  1. Dirt
@@ -60,18 +49,15 @@ orderedList
  3. I don't know. It could be either dirt or grass, or maybe something else entirely.
  4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
 
-paragraph
- In my opinion you should say something like 3 or 4.
+* In my opinion you should say something like 3 or 4.
 
-paragraph
- This second example models real life better. <i>The future is always foggy</i>.
+* This second example models real life better. <i>The future is always foggy</i>.
 
-question Why is the future foggy?
+? Why is the future foggy?
 
-paragraph
- I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
+* I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
 
-section Notes
+# Notes
 
 orderedList
  1. In other words, don't overpromise and underdeliver.

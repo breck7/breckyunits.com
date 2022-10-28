@@ -1,8 +1,7 @@
 title Medical Records to the Moon
 date 2020-03-02
 
-aftertext
- A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: <b>in the future will someone's medical record stretch to the moon?</b>
+* A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: <b>in the future will someone's medical record stretch to the moon?</b>
  dateline
 
 endSnippet
@@ -10,69 +9,53 @@ groups index
 import settings.scroll
 keyboardNav
 
-section Medical Records at the Provider
+# Medical Records at the Provider
 
-paragraph
- Medical records are generally stored with healthcare providers and currently at least 86%-96%🔗dashboard.healthit.gov/apps/health-information-technology-data-summaries.php?state=National&cat9=all+data&cat1=ehr+adoption#summary-data of providers use an EHR system.
+* Medical records are generally stored with healthcare providers and currently at least 86%-96%🔗dashboard.healthit.gov/apps/health-information-technology-data-summaries.php?state=National&cat9=all+data&cat1=ehr+adoption#summary-data of providers use an EHR system.
 
-paragraph
- Americans visit their healthcare providers an <a href="https://www.cdc.gov/nchs/fastats/physician-visits.htm">average of 4 times per year</a>.
+* Americans visit their healthcare providers an <a href="https://www.cdc.gov/nchs/fastats/physician-visits.htm">average of 4 times per year</a>.
 
-paragraph
- If you were to plot the cumulative medical data storage use for the average American patient, it would look something like the abstract chart below, going up in small increments during each visit to the doctor:
+* If you were to plot the cumulative medical data storage use for the average American patient, it would look something like the abstract chart below, going up in small increments during each visit to the doctor:
 
 image medicalRecords/providers.png
 
-paragraph
- A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of <i>all</i> of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
+* A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of <i>all</i> of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
 
-section Medical Records at Home
+# Medical Records at Home
 
-paragraph
- Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing <a href="https://nanoporetech.com/products">lab devices</a> will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
+* Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing <a href="https://nanoporetech.com/products">lab devices</a> will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
 
 image medicalRecords/devices.png
 
-paragraph
- When you put the two together you can see the issue:
+* When you put the two together you can see the issue:
 
 image medicalRecords/both.png
 
-paragraph
- <b>Patients will log <i>far</i> more medical data on their own than they do at their providers'.</b>
+* <b>Patients will log <i>far</i> more medical data on their own than they do at their providers'.</b>
 
-section Implication #1: Change in Ownership
+# Implication #1: Change in Ownership
 
-paragraph
- It seems highly likely then that the possession of medical records will flip from providers to patients. I now have 120 million heart rate readings from my own devices, while I might have a few dozen from my providers. The gravity of the former will be harder and harder to overcome.
+* It seems highly likely then that the possession of medical records will flip from providers to patients. I now have 120 million heart rate readings from my own devices, while I might have a few dozen from my providers. The gravity of the former will be harder and harder to overcome.
 
-paragraph
- Patients won't <i>literally</i> be in possession of their records. While some nerdy patients—the kind of people who host their own email servers—might host their own open records, most will probably use a service provider. Prior attempts at creating <a href="https://en.wikipedia.org/wiki/Personal_health_record">personal health record systems</a>, including some from the biggest🔗en.wikipedia.org/wiki/Microsoft_HealthVault companies🔗en.wikipedia.org/wiki/Google_Health around, did not catch on. But back then we didn't have the exponential increase in personal medical data, and the data gravity that creates, that we have today.
+* Patients won't <i>literally</i> be in possession of their records. While some nerdy patients—the kind of people who host their own email servers—might host their own open records, most will probably use a service provider. Prior attempts at creating <a href="https://en.wikipedia.org/wiki/Personal_health_record">personal health record systems</a>, including some from the biggest🔗en.wikipedia.org/wiki/Microsoft_HealthVault companies🔗en.wikipedia.org/wiki/Google_Health around, did not catch on. But back then we didn't have the exponential increase in personal medical data, and the data gravity that creates, that we have today.
 
-paragraph
- I'm noticing a number🔗www.khealth.ai/ of startups🔗www.humanapi.co/ innovating along this wave (and if you know of other exciting ones, please share!). However, it seems that <a href="https://en.wikipedia.org/wiki/Health_(Apple)">Apple Health</a> and FitBit🔗en.wikipedia.org/wiki/Fitbit are in strong positions to emerge as leading providers of PHR as-a-service due to data gravity.
+* I'm noticing a number🔗www.khealth.ai/ of startups🔗www.humanapi.co/ innovating along this wave (and if you know of other exciting ones, please share!). However, it seems that <a href="https://en.wikipedia.org/wiki/Health_(Apple)">Apple Health</a> and FitBit🔗en.wikipedia.org/wiki/Fitbit are in strong positions to emerge as leading providers of PHR as-a-service due to data gravity.
 
-section Implication #2: Change in Design
+# Implication #2: Change in Design
 
-paragraph
- Currently EHR providers like Epic🔗www.epic.com/ design and sell their products for providers first. If patients start making the decisions about which PHR tool to use, product designers will have to consider the patient experience first.
+* Currently EHR providers like Epic🔗www.epic.com/ design and sell their products for providers first. If patients start making the decisions about which PHR tool to use, product designers will have to consider the patient experience first.
 
-paragraph
- I think this extends beyond products to standards. While there are some great🔗www.ohdsi.org/data-standardization/the-common-data-model/ groups🔗en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources working on open standards for medical records, none, as far as I'm aware, consider patients as a first class user of their grammars and definitions. I personally think that a standards system can be developed that is fully understandable by patients without compromising on the needs of experts.
+* I think this extends beyond products to standards. While there are some great🔗www.ohdsi.org/data-standardization/the-common-data-model/ groups🔗en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources working on open standards for medical records, none, as far as I'm aware, consider patients as a first class user of their grammars and definitions. I personally think that a standards system can be developed that is fully understandable by patients without compromising on the needs of experts.
 
-paragraph
- One simple UX innovation in medical records that I love is BlueButton🔗www.va.gov/bluebutton/. Developed by the V.A. in 2010, BlueButton allows patients to download their entire medical records as a single file. While the grammar and parse-ability of BlueButton leave much to be desired, I think the concept of "your entire medical history in a single document" is a very elegant design.
+* One simple UX innovation in medical records that I love is BlueButton🔗www.va.gov/bluebutton/. Developed by the V.A. in 2010, BlueButton allows patients to download their entire medical records as a single file. While the grammar and parse-ability of BlueButton leave much to be desired, I think the concept of "your entire medical history in a single document" is a very elegant design.
 
-section Implication #3: Change in Scale
+# Implication #3: Change in Scale
 
-paragraph
- As more and more different devices contribute to patients' medical documents, what will the documents look like and how big will they get? Will someone's medical records stretch to the moon?
+* As more and more different devices contribute to patients' medical documents, what will the documents look like and how big will they get? Will someone's medical records stretch to the moon?
 
-paragraph
- I think the BlueButton concept provides a helpful mental model here: you can visualize any person's medical record as a single document. Let's call this document an <i>MRD</i> for "Medical Record Document".
+* I think the BlueButton concept provides a helpful mental model here: you can visualize any person's medical record as a single document. Let's call this document an <i>MRD</i> for "Medical Record Document".
 
-paragraph
- Let's imagine a 30 year old in 2050. They'd have around 11,200 days worth of data (I included some days for in utero records). Let's say there are 4 "buckets" of medical data in their MRD:
+* Let's imagine a 30 year old in 2050. They'd have around 11,200 days worth of data (I included some days for in utero records). Let's say there are 4 "buckets" of medical data in their MRD:
 
 orderedList
  1. Time series sensor data
@@ -80,13 +63,11 @@ orderedList
  3. Data from microbio protocols like genomic and metabolomic data
  4. Text data
 
-paragraph
- This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
+* This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
 
 image medicalRecords/categories.png
 
-paragraph
- I am assuming that sensor development advances <i>a lot</i> in 40 years. I am assuming our patient of the future has:
+* I am assuming that sensor development advances <i>a lot</i> in 40 years. I am assuming our patient of the future has:
 
 orderedList
  1. 1,000 different passive 1-D biomedical sensors recording a reading once per second
@@ -94,13 +75,10 @@ orderedList
  3. 100 passive microbio systems generating 1GB of data per protocol (don't ask me how these will work, maybe something like this🔗www.youtube.com/watch?v=DJklHwoYgBQ )
  4. For good measure I throw in a fourth bucket of 100k characters a day of plain text data
 
-paragraph
- By my estimate this person would log about <b>100GB of medical data per day, or about 100 petabytes of data in 30 years</b>. That would fit on roughly 1,000 of today's <a href="https://nimbusdata.com/products/exadrive-platform/scalable-ssds/">hard drives</a>.
+* By my estimate this person would log about <b>100GB of medical data per day, or about 100 petabytes of data in 30 years</b>. That would fit on roughly 1,000 of today's <a href="https://nimbusdata.com/products/exadrive-platform/scalable-ssds/">hard drives</a>.
 
-paragraph
- If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a human readable form—i.e. print the text, print the time series data as line charts, print the images, and print various types of output for the various protocols—the printed version would be about <b>138,000,000 pages</b> which laid end-to-end would stretch <b>24,000 miles</b>. If you printed it double-sided and stacked it like a book it would be <b>4.2 miles high</b>.
+* If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a human readable form—i.e. print the text, print the time series data as line charts, print the images, and print various types of output for the various protocols—the printed version would be about <b>138,000,000 pages</b> which laid end-to-end would stretch <b>24,000 miles</b>. If you printed it double-sided and stacked it like a book it would be <b>4.2 miles high</b>.
 
 image medicalRecords/moon.png
 
-paragraph
- <b>So for a 120 year old in 2140, their printed MRD would not reach the moon.</b> Though it may make it halfway there.
+* <b>So for a 120 year old in 2140, their printed MRD would not reach the moon.</b> Though it may make it halfway there.

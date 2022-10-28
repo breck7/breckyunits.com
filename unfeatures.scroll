@@ -1,8 +1,7 @@
 title (un)features
 date 2009-12-11
 
-aftertext
- Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
+* Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
  dateline
 
 orderedList
@@ -10,42 +9,35 @@ orderedList
  2. The lightweight plastic made it easy to carry, and you can tell how full it was by picking it up.
  3. The clear bottle let you see how much was left and what was in it.
 
-paragraph
- If you added a funnel to help pour the water, that might be useful in 5% of cases, but it would look a little funny. Then imagine you attach a paper towel to each funnel for when you spill. Your simple water bottle is now a monstrosity. 
+* If you added a funnel to help pour the water, that might be useful in 5% of cases, but it would look a little funny. Then imagine you attach a paper towel to each funnel for when you spill. Your simple water bottle is now a monstrosity. 
 
-paragraph
- The clear edges of physical products make it much harder for feature creep to happen. But in software feature creep happens, and happens a lot.
+* The clear edges of physical products make it much harder for feature creep to happen. But in software feature creep happens, and happens a lot.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-section A proposal to fight feature creep
+# A proposal to fight feature creep
 
-paragraph
- How do you fight feature creep in software? Here's an idea: do not put each new feature request or idea on a to-do list. Instead, put them on an (un)features list.
+* How do you fight feature creep in software? Here's an idea: do not put each new feature request or idea on a to-do list. Instead, put them on an (un)features list.
 
-paragraph
- An (un)features list is a list of features you've consciously decided not to implement. It's a well maintained list of things that might seem cool, but would detract from the core product. You thought about implementing each one, but after careful consideration decided it should be an (un)feature and not a feature. Your (un)features list will also include features you built, but were only used by 1% of your customers. You can "deadpool" these features to the (un)features list. Your (un)features list should get as much thought, if not more, than your features list. It should almost certainly be bigger.
+* An (un)features list is a list of features you've consciously decided not to implement. It's a well maintained list of things that might seem cool, but would detract from the core product. You thought about implementing each one, but after careful consideration decided it should be an (un)feature and not a feature. Your (un)features list will also include features you built, but were only used by 1% of your customers. You can "deadpool" these features to the (un)features list. Your (un)features list should get as much thought, if not more, than your features list. It should almost certainly be bigger.
 
-paragraph
- When you have an idea or receive a feature request, there's a physical, OCD-like urge to do something with it. Now, instead of building it or putting it on a todo list, you can simply write it down on your (un)features list, and be done with it. Then maybe your water bottles will look more like water bottles.
+* When you have an idea or receive a feature request, there's a physical, OCD-like urge to do something with it. Now, instead of building it or putting it on a todo list, you can simply write it down on your (un)features list, and be done with it. Then maybe your water bottles will look more like water bottles.
 
-paragraph
- This blog is powered by software🔗github.com/breck7/brecksblog with an (un)features list.
+* This blog is powered by software🔗github.com/breck7/brecksblog with an (un)features list.
 
-section Notes
+# Notes
 
 orderedList
  1. Feel free to move an (un)feature to your features list if you change your mind about it.
 
-section Links
+# Links
 
 list
  - More great quotes🔗gaborcselle.posterous.com/the-best-quotes-from-startup-school from this year's Startup School
  - StartupSchool🔗startupschool.org/
  - 37signals🔗37signals.com and their great blog🔗37signals.com/svn
 
-paragraph
- Edit: 01/05/2010. Features are a great way🔗evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 to make money.
+* Edit: 01/05/2010. Features are a great way🔗evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 to make money.

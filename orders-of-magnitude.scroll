@@ -1,58 +1,43 @@
 title Orders of Magnitude
 date 2009-12-07
 
-aftertext
- Do you think in Orders of Magnitude? You should.
+* Do you think in Orders of Magnitude? You should.
  dateline
 
-paragraph
- If you think in orders of magnitude you can quickly visualize how big a number is and how much effort it would take to reach it.
+* If you think in orders of magnitude you can quickly visualize how big a number is and how much effort it would take to reach it.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Orders of magnitude is a way of grouping numbers. The numbers 5, 8 and 11 are all in the same order of magnitude. The numbers 95, 98 and 109 are in the same order of magnitude as well, but their order of magnitude is one order of magnitude greater than 5, 8, 11.
+* Orders of magnitude is a way of grouping numbers. The numbers 5, 8 and 11 are all in the same order of magnitude. The numbers 95, 98 and 109 are in the same order of magnitude as well, but their order of magnitude is one order of magnitude greater than 5, 8, 11.
 
-paragraph
- Basically, if you multiple a number by 10, you raise it one order of magnitude. If you've ever seen the scary looking notation 5x10^2, just take the number five and raise it 2 orders of magnitude (to 500).
+* Basically, if you multiple a number by 10, you raise it one order of magnitude. If you've ever seen the scary looking notation 5x10^2, just take the number five and raise it 2 orders of magnitude (to 500).
 
-paragraph
- Think of orders of magnitude as rough approximations. If you want the number 50 to be in the same order of magnitude as the number 10, you can say that "it's roughly in the same order of magnitude" or that "it's about half an order of magnitude bigger". Don't worry about being exact. 
+* Think of orders of magnitude as rough approximations. If you want the number 50 to be in the same order of magnitude as the number 10, you can say that "it's roughly in the same order of magnitude" or that "it's about half an order of magnitude bigger". Don't worry about being exact. 
 
-paragraph
- Orders of magnitude is a great system because generally there's a huge difference between 2 numbers in different orders of magnitude. Thus to cross from one order of magnitude to the next, a different type of effort is required than to simply increment a number. For example, if you run 2 miles each day and then decide to run one more, 3 total, it should be easy. But if you decided to run one more order of magnitude, 20 miles, it would take a totally new kind of effort. You'd have to train longer, eat differently, and so forth. To go from 2 to 3 requires a simple approach, just increase what you're doing a bit. To go from 2 to 20, to increase by an order of magnitude, requires a totally different kind of effort.
+* Orders of magnitude is a great system because generally there's a huge difference between 2 numbers in different orders of magnitude. Thus to cross from one order of magnitude to the next, a different type of effort is required than to simply increment a number. For example, if you run 2 miles each day and then decide to run one more, 3 total, it should be easy. But if you decided to run one more order of magnitude, 20 miles, it would take a totally new kind of effort. You'd have to train longer, eat differently, and so forth. To go from 2 to 3 requires a simple approach, just increase what you're doing a bit. To go from 2 to 20, to increase by an order of magnitude, requires a totally different kind of effort.
 
-section A Business Example
+# A Business Example
 
-paragraph
- Let's do a business example. 
+* Let's do a business example. 
 
-paragraph
- Pretend you started a business delivering pizza. Today you have five customers, make 5 pizzas a week, and earn $50 revenue per week. 
+* Pretend you started a business delivering pizza. Today you have five customers, make 5 pizzas a week, and earn $50 revenue per week. 
 
-paragraph
- You can keep doing what you're doing and slowly raise that to 6 customers, then 7 and so on. Or you can ask yourself, "How can I increase my business an order of magnitude?" 
+* You can keep doing what you're doing and slowly raise that to 6 customers, then 7 and so on. Or you can ask yourself, "How can I increase my business an order of magnitude?" 
 
-paragraph
- Going from 5 to 50 will take a different type of effort than just going from 5 to 6. You may start advertising or you might create a "Refer a Customer, get a free pizza" promotion. You might have to hire a cook. Maybe lower your price by $2. 
+* Going from 5 to 50 will take a different type of effort than just going from 5 to 6. You may start advertising or you might create a "Refer a Customer, get a free pizza" promotion. You might have to hire a cook. Maybe lower your price by $2. 
 
-paragraph
- Imagine you do all those things and now have 50 customers. How do you get to 500? 
+* Imagine you do all those things and now have 50 customers. How do you get to 500? 
 
-paragraph
- Now you might need a few employees, television advertisements, etc. 
+* Now you might need a few employees, television advertisements, etc. 
 
-paragraph
- <i>Growing a business is the process of focusing like a laser on the steps needed to reach the next order of magnitude. </i>
+* <i>Growing a business is the process of focusing like a laser on the steps needed to reach the next order of magnitude. </i>
 
-paragraph
- Here are some more examples of orders of magnitude if it's still not clear:
+* Here are some more examples of orders of magnitude if it's still not clear:
 
-paragraph
- Bill Gates has approximately $50,000,000,000. Warren Buffett has $40,000,000,000. For Warren to match Bill, he merely has to make a few more great investments and hope Microsoft's stock price doesn't go up. He does not have to increase his wealth an order of magnitude. I on the other hand, have $5 (it was a good month). For me to become as rich as BillG, I have to increase my wealth 10 orders of magnitude. That means that I'd have 10 different types of hard challenges to overcome to match BillG's wealth.
+* Bill Gates has approximately $50,000,000,000. Warren Buffett has $40,000,000,000. For Warren to match Bill, he merely has to make a few more great investments and hope Microsoft's stock price doesn't go up. He does not have to increase his wealth an order of magnitude. I on the other hand, have $5 (it was a good month). For me to become as rich as BillG, I have to increase my wealth 10 orders of magnitude. That means that I'd have 10 different types of hard challenges to overcome to match BillG's wealth.
 
 list
  - Going from $5 to $50 may mean just working a bit and could be accomplished in a day.
@@ -62,7 +47,7 @@ list
  - Going from $50,000 to $500,000 might mean doing all that, plus making some good investments.
  - ... and so forth.
 
-section More examples
+# More examples
 
 list
  - If your room is 200 square feet, the world is 13 orders of magnitude greater than your room.
@@ -71,7 +56,6 @@ list
  - The population of California is about 35 million. The population of the US is one order of magnitude bigger, about 300 million. The population of China is about 4 times that of the U.S. at 1,300,000, which is less than an order of magnitude difference.
  - Shaq is about 1 order of magnitude taller than a newborn, but besides that height is much more narrowly distributed. Everyone is within the same order of magnitude tall.
 
-section Notes
+# Notes
 
-paragraph
- WolframAlpha🔗www.wolframalpha.com. Thanks to Mairi and <a href="http://www.30words.com">Andrew Kitchell</a> for providing feedback.
+* WolframAlpha🔗www.wolframalpha.com. Thanks to Mairi and <a href="http://www.30words.com">Andrew Kitchell</a> for providing feedback.

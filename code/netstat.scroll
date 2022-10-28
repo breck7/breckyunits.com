@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink netstat.html
 
-aftertext
- Every wonder what's listening on what ports?
+* Every wonder what's listening on what ports?
  dateline
 
 code

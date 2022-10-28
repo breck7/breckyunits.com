@@ -5,24 +5,17 @@ groups index
 import settings.scroll
 keyboardNav
 
-aftertext
- I think it's interesting to ponder the value of information over it's lifetime.
+* I think it's interesting to ponder the value of information over it's lifetime.
  dateline
 
-paragraph
- Different types of data become outdated at different rates. A street map is probably mostly relevant 10 years later, while a 10 year old weather forecast is much less valuable.
+* Different types of data become outdated at different rates. A street map is probably mostly relevant 10 years later, while a 10 year old weather forecast is much less valuable.
 
-paragraph
- Phone numbers probably last about 5 years nowadays. Email addresses could end up lasting decades. News is often largely irrelevant after a day. For a coupon site I worked on, the average life of a coupon seemed to be about 2 weeks. 
+* Phone numbers probably last about 5 years nowadays. Email addresses could end up lasting decades. News is often largely irrelevant after a day. For a coupon site I worked on, the average life of a coupon seemed to be about 2 weeks. 
 
-paragraph
- If your data has a long half life, then you have time to build it up. Wikipedia articles are still valuable years later.
+* If your data has a long half life, then you have time to build it up. Wikipedia articles are still valuable years later.
 
-paragraph
- What information holds value the longest? What are the "twinkies" of the data world?
+* What information holds value the longest? What are the "twinkies" of the data world?
 
-paragraph
- Books, it seems. We don't regularly read old weather forecasts, census rolls, or newspapers, but we definitely still read great books, from Aristotle to Shakespeare to Mill.
+* Books, it seems. We don't regularly read old weather forecasts, census rolls, or newspapers, but we definitely still read great books, from Aristotle to Shakespeare to Mill.
 
-paragraph
- Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
+* Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.

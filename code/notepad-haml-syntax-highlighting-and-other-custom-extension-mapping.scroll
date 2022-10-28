@@ -5,12 +5,9 @@ groups index
 keyboardNav
 permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
 
-aftertext
- I want my HAML files to have PHP(or Ruby) syntax highlighting. 
+* I want my HAML files to have PHP(or Ruby) syntax highlighting. 
  dateline
 
-paragraph
- Settings > Style Configurator
+* Settings > Style Configurator
 
-paragraph
- Then click php and under "user ext" (in the bottom left) add haml
+* Then click php and under "user ext" (in the bottom left) add haml

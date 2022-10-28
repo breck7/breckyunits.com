@@ -1,8 +1,7 @@
 title The Recency Effect
 date 2010-08-23
 
-aftertext
- Your most recent experiences effect you the most. Reading this essay will effect you the most today but a week from now the effect will have largely worn off. 
+* Your most recent experiences effect you the most. Reading this essay will effect you the most today but a week from now the effect will have largely worn off. 
  dateline
 
 endSnippet
@@ -10,24 +9,19 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Experiences have a half-life. The effect decays over time. You might watch Almost Famous, run out to buy a drumset, start a band, and then a month later those drums could be gathering dust in your basement. You might read Shakespeare and start talking more lyrically for a week.
+* Experiences have a half-life. The effect decays over time. You might watch Almost Famous, run out to buy a drumset, start a band, and then a month later those drums could be gathering dust in your basement. You might read Shakespeare and start talking more lyrically for a week.
 
-paragraph
- Newer experiences drown out old ones. You might be a seasoned Rubyist and then read an essay espousing Python and suddenly you become a Pythonista. 
+* Newer experiences drown out old ones. You might be a seasoned Rubyist and then read an essay espousing Python and suddenly you become a Pythonista. 
 
-paragraph
- All genres of experiences exhibit the recency effect. Reading books, watching movies, listening to music, talking with friends, sitting in a lecture--all of these events can momentarily inspire us, influence our opinions and understanding of the world, and alter our behaviors.
+* All genres of experiences exhibit the recency effect. Reading books, watching movies, listening to music, talking with friends, sitting in a lecture--all of these events can momentarily inspire us, influence our opinions and understanding of the world, and alter our behaviors.
 
-section Taking Advantage of the Recency Effect
+# Taking Advantage of the Recency Effect
 
-paragraph
- If you believe in the recency effect you can see the potential benefit of superstitious behavior. For instance, I watched "The Greatest Game Ever Played", a movie about golf, and honest to god my game improved by 5 strokes the next day. A year later when I was a bit rusty, I watched it again and the effect was similar(though not as profound). When I want to write solid code, I'll read some quality code first for the recency effect.
+* If you believe in the recency effect you can see the potential benefit of superstitious behavior. For instance, I watched "The Greatest Game Ever Played", a movie about golf, and honest to god my game improved by 5 strokes the next day. A year later when I was a bit rusty, I watched it again and the effect was similar(though not as profound). When I want to write solid code, I'll read some quality code first for the recency effect.
 
-paragraph
- If you want to do great work, set up an inspiring experience before you begin. It's like taking a vitamin for the mind.
+* If you want to do great work, set up an inspiring experience before you begin. It's like taking a vitamin for the mind.
 
-section Some More Examples
+# Some More Examples
 
 list
  - Settlers of Cataan can make you an astute businessman after a few games. You'll find yourself negotiating everything and saving/making money left and right. 

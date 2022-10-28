@@ -5,12 +5,10 @@ groups index
 keyboardNav
 permalink unix-date-command.html
 
-aftertext
- Display the current unix timestamp:
+* Display the current unix timestamp:
  dateline
 
 code
  date +%s
 
-paragraph
- Handy way to view it from the command line.
+* Handy way to view it from the command line.

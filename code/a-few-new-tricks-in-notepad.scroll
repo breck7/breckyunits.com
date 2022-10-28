@@ -5,15 +5,12 @@ groups index
 keyboardNav
 permalink a-few-new-tricks-in-notepad.html
 
-aftertext
- I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). 
+* I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse). 
  dateline
 
-paragraph
- The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
+* The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
 
-paragraph
- Here are some things I'm using a lot more now in Notepad++:
+* Here are some things I'm using a lot more now in Notepad++:
 
 list
  - Bookmarks. Hit Ctrl+F2 to set a bookmark on any line of code and then hit F2 to jump between bookmarks. Shift+F2 goes back a bookmark.

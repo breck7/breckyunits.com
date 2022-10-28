@@ -5,6 +5,5 @@ groups index
 keyboardNav
 permalink fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.html
 
-aftertext
- If you are installing Ubuntu from USB and are getting stuck at the "SELINUX 3.82" screen, you'll need to edit the selinux/selinux.cnf file on the USB stick and comment out the "vesamenu.c32" line, and remove the "ui" from the last line.
+* If you are installing Ubuntu from USB and are getting stuck at the "SELINUX 3.82" screen, you'll need to edit the selinux/selinux.cnf file on the USB stick and comment out the "vesamenu.c32" line, and remove the "ui" from the last line.
  dateline

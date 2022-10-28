@@ -1,12 +1,10 @@
 title SEO Made Easy: LUMPS
 date 2009-12-15
 
-aftertext
- The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
+* The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
  dateline
 
-paragraph
- Just remember LUMPS:
+* Just remember LUMPS:
 
 list
  - <b>L</b> inks
@@ -20,67 +18,51 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for. 
+* These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for. 
 
-paragraph
- LUMPS is listed in order of importance to search engines. So links are most important, sitemaps are least important.
+* LUMPS is listed in order of importance to search engines. So links are most important, sitemaps are least important.
 
-paragraph
- Let's break each one down a bit more.
+* Let's break each one down a bit more.
 
-section Links
+# Links
 
-paragraph
- External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
+* External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
 
-paragraph
- 1. Quality. A link from CNN.com is worth <a href="/orders-of-magnitude.html">order(s) of magnitude</a> more than a link from my blog. A link from a related source, like from ESPN.com to a sports blog, would likely be better than from an unrelated source.
+* 1. Quality. A link from CNN.com is worth <a href="/orders-of-magnitude.html">order(s) of magnitude</a> more than a link from my blog. A link from a related source, like from ESPN.com to a sports blog, would likely be better than from an unrelated source.
 
-paragraph
- 2. Quantity. Even though quality is most important, a lot of inbound links help.
+* 2. Quantity. Even though quality is most important, a lot of inbound links help.
 
-paragraph
- 3. Anchor Text. You want links with relevant anchor text. <a href="http://www.jellyfishart.com">Jellyfish tanks</a> is better than <a href="http://www.jellyfishart.com">click here</a>.
+* 3. Anchor Text. You want links with relevant anchor text. <a href="http://www.jellyfishart.com">Jellyfish tanks</a> is better than <a href="http://www.jellyfishart.com">click here</a>.
 
-paragraph
- Your internal link structure is also important. Make sure your site repeatedly links to the pages you are optimizing for.
+* Your internal link structure is also important. Make sure your site repeatedly links to the pages you are optimizing for.
 
-paragraph
- External links are the most important thing you need for SEO. Internal links you can easily control, but it takes time to accumulate a lot of quality external links. Focus on creating quality content(or even better, build a User Generated Content site). People will link to interesting content.
+* External links are the most important thing you need for SEO. Internal links you can easily control, but it takes time to accumulate a lot of quality external links. Focus on creating quality content(or even better, build a User Generated Content site). People will link to interesting content.
 
-section URL Structure
+# URL Structure
 
-paragraph
- The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing. 
+* The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing. 
 
-paragraph
- Luckily, URL Structure is not just important, it's also relatively easy to do well and you can generally set up friendly URLs in an hour or so. I could explain how to do it with .htaccess and so forth, but there are plenty of articles out there with more details on that.
+* Luckily, URL Structure is not just important, it's also relatively easy to do well and you can generally set up friendly URLs in an hour or so. I could explain how to do it with .htaccess and so forth, but there are plenty of articles out there with more details on that.
 
-section Metadata Content
+# Metadata Content
 
-paragraph
- Your TITLE tags and META DESCRIPTIONS tags are important for 2 reasons. First, search engines will use the content in them to rank your pages. Second, when a user sees a search results page, the title and description tags are what the user sees. You need good copy that will increase the Click Through Rate. Think of your title and description tags as the Link Text and Description in an AdWords ad. Just as you'd optimize the AdWords ad, you need to optimize this "seo ad". Make the copy compelling and clear.
+* Your TITLE tags and META DESCRIPTIONS tags are important for 2 reasons. First, search engines will use the content in them to rank your pages. Second, when a user sees a search results page, the title and description tags are what the user sees. You need good copy that will increase the Click Through Rate. Think of your title and description tags as the Link Text and Description in an AdWords ad. Just as you'd optimize the AdWords ad, you need to optimize this "seo ad". Make the copy compelling and clear.
 
-paragraph
- Like URL structure, you can generally set up a system that generates good meta and description tags relatively easily.
+* Like URL structure, you can generally set up a system that generates good meta and description tags relatively easily.
 
-section Page Content
+# Page Content
 
-paragraph
- Content is king. If you've got the other 3 things taken care of and you have great content, you're golden. Not only will great content please your visitors, but it will likely be keyword rich which helps with SEO. Most importantly, it is much easier to get links to valuable, interesting content than to bad content. Figure out a way to get great content and the whole SEO process will work a lot better.
+* Content is king. If you've got the other 3 things taken care of and you have great content, you're golden. Not only will great content please your visitors, but it will likely be keyword rich which helps with SEO. Most importantly, it is much easier to get links to valuable, interesting content than to bad content. Figure out a way to get great content and the whole SEO process will work a lot better.
 
-section Sitemaps
+# Sitemaps
 
-paragraph
- Sitemaps are not the most crucial thing you can do, but they help and are an easy thing to check off your list. Use Google Webmaster tools and follow all recommendations and submit links to your sitemaps.
+* Sitemaps are not the most crucial thing you can do, but they help and are an easy thing to check off your list. Use Google Webmaster tools and follow all recommendations and submit links to your sitemaps.
 
-section Summary
+# Summary
 
-paragraph
- There you have it, SEO made easy! Just remember LUMPS.
+* There you have it, SEO made easy! Just remember LUMPS.
 
-section Links
+# Links
 
 list
  - Google WebmasterTools🔗www.google.com/webmasters/tools

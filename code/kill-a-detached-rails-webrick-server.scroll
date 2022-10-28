@@ -5,8 +5,7 @@ groups index
 keyboardNav
 permalink kill-a-detached-rails-webrick-server.html
 
-aftertext
- From your rails app's root:
+* From your rails app's root:
  dateline
 
 code

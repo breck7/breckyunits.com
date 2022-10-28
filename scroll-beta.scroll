@@ -1,14 +1,12 @@
 title Scroll Beta
 date 2021-02-22
 
-aftertext
- Today I'm launching the beta of something new called
+* Today I'm launching the beta of something new called
  Scroll.
  link https://github.com/publicdomaincompany/scroll Scroll
  dateline
 
-paragraph
- I've been reading the newspaper everyday since I was a kid.
+* I've been reading the newspaper everyday since I was a kid.
  I remember I'd have my feet on the ground, my body tilted at
  an angle and my body weight pressed into the pages on the
  counter. I remember staring intently at the pages spread out
@@ -23,26 +21,21 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- Scroll brings back <i>some</i> of the magic of newspapers.
+* Scroll brings back <i>some</i> of the magic of newspapers.
 
-paragraph
- In addition to the layout, Scroll has two important differences
+* In addition to the layout, Scroll has two important differences
  from existing static publishing software.
 
-paragraph
- First, Scroll is built for public domain sites and <i>only</i>
+* First, Scroll is built for public domain sites and <i>only</i>
  public domain sites. Builders of Scroll will spend 100% of the
  time building for the amazing creators who understand and value
  the public domain.
 
-paragraph
- Second, Scroll is a <a
+* Second, Scroll is a <a
  href="https://treenotation.org/">Tree Language</a>. Unlike
  Markdown, Scroll is easily extensible. We can create
  and combine thousands of new sub languages to help people
  be more creative and communicate more effectively.
 
-paragraph
- I've had fun building Scroll so far and am excited to start
+* I've had fun building Scroll so far and am excited to start
  working on it with others.

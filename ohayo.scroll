@@ -5,13 +5,10 @@ groups index
 import settings.scroll
 keyboardNav
 
-aftertext
- I just pushed a project I've been working on called Ohayo.
+* I just pushed a project I've been working on called Ohayo.
  link https://ohayo.computer Ohayo
  dateline
 
-paragraph
- You can also view it on GitHub: https://github.com/treenotation/ohayo🔗github.com/treenotation/ohayo
+* You can also view it on GitHub: https://github.com/treenotation/ohayo🔗github.com/treenotation/ohayo
 
-paragraph
- I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
+* I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.

@@ -1,29 +1,23 @@
 title What's Linear Algebra?
 date 2009-12-03
 
-aftertext
- What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
+* What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
  dateline
 
-paragraph
- Today's topic is linear algebra. I know almost nothing about vectors, matrices, and linear algebra.
+* Today's topic is linear algebra. I know almost nothing about vectors, matrices, and linear algebra.
 
 endSnippet
 groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- I did not take a Linear Algebra course in college. Multivariable calculus may have done a chapter on vectors, but I only remember the very basics: it's a size with a direction, or something like that.
+* I did not take a Linear Algebra course in college. Multivariable calculus may have done a chapter on vectors, but I only remember the very basics: it's a size with a direction, or something like that.
 
-paragraph
- I went to a Borders once specifically to find a good book to teach myself linear algebra with. I even bought one that I thought was the most entertaining of the bunch. Trust me, it's far from entertaining. Haven't made it much further than page 10.
+* I went to a Borders once specifically to find a good book to teach myself linear algebra with. I even bought one that I thought was the most entertaining of the bunch. Trust me, it's far from entertaining. Haven't made it much further than page 10.
 
-paragraph
- I bet vectors, matrices, and linear algebra are important. In fact, I'm <i>positive</i> they are. But I don't know why. I don't know how to apply linear algreba in everyday life, or if that's something you even do with linear algebra.
+* I bet vectors, matrices, and linear algebra are important. In fact, I'm <i>positive</i> they are. But I don't know why. I don't know how to apply linear algreba in everyday life, or if that's something you even do with linear algebra.
 
-paragraph
- I use lots of math throughout the day such as:
+* I use lots of math throughout the day such as:
 
 list
  - Addition/subtraction when paying for things
@@ -32,17 +26,12 @@ list
  - Calculus when thinking about the distance needed to break fast while biking
  - Exponents and logs when analyzing traffic graphs and programming
 
-paragraph
- But I have no idea when I should be using vectors, matrices, and other linear algebra concepts throughout the day.
+* But I have no idea when I should be using vectors, matrices, and other linear algebra concepts throughout the day.
 
-paragraph
- There are lots of books that teach <i>how</i> to do linear algebra. But are there any that explain <i>why</i>?
+* There are lots of books that teach <i>how</i> to do linear algebra. But are there any that explain <i>why</i>?
 
-paragraph
- Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit? 
+* Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit? 
 
-paragraph
- I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?
+* I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?
 
-paragraph
- I guess when you write about what you don't know, you write mostly questions.
+* I guess when you write about what you don't know, you write mostly questions.

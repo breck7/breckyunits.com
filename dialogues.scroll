@@ -18,16 +18,14 @@ keyboardNav
 
 date 2021-05-14
 
-aftertext
- Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
+* Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
  dateline
 
-paragraph
- Here is the Grammar code in the commit🔗github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af that added support for Dialogues:
+* Here is the Grammar code in the commit🔗github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af that added support for Dialogues:
 
 image dialogues.png
 
-section Links
+# Links
 
 list
  - Try Scroll🔗scroll.pub

@@ -1,8 +1,7 @@
 title The Least You Can Do
 date 2010-02-02
 
-aftertext
- My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about. 
+* My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about. 
  dateline
 
 endSnippet
@@ -10,41 +9,32 @@ groups index
 import settings.scroll
 keyboardNav
 
-paragraph
- I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
+* I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
 
-paragraph
- Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
+* Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
 
-paragraph
- So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
+* So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
 
-paragraph
- Ever since, my room has been at least 5x cleaner on average.
+* Ever since, my room has been at least 5x cleaner on average.
 
 quote
  Almost always, there is one simple change you can make that will have <i>drastic</i> effects. This change is called <b>the least you can do</b>.
 
-paragraph
- I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
+* I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
 
-paragraph
- These are trivial examples, but the technique works on real problems as well.
+* These are trivial examples, but the technique works on real problems as well.
 
-paragraph
- The key is to figure out what the "least you can do" is.
+* The key is to figure out what the "least you can do" is.
 
-paragraph
- You can discover it by working harder or smarter:
+* You can discover it by working harder or smarter:
 
 list
  - <b>The hard way.</b> You can try a ton of things, go through a to-do list dozens of items long, and hope you hit upon it.
  - <b>The smart way.</b> You can invest time learning instead of doing. Reading books, learning new math or programming techniques, talking to other people, thinking critically, etc. You'll then have a much better hunch at what the "least you can do is".
 
-paragraph
- In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
+* In reality you need to do things both ways. But try to put extra effort into doing things the smart way, and see where it takes you.
 
-section Notes
+# Notes
 
 orderedList
  1. Thanks to <a href="http://massbeacon.com">Conor</a> for providing feedback.

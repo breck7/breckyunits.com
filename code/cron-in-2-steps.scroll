@@ -5,51 +5,41 @@ groups index
 keyboardNav
 permalink cron-in-2-steps.html
 
-aftertext
- cron lets you schedule linux commands to execute on a regular basis.
+* cron lets you schedule linux commands to execute on a regular basis.
  dateline
 
-paragraph
- For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.
+* For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.
 
-section Step 1: Write the cron command
+# Step 1: Write the cron command
 
-paragraph
- Here is the cron command you would need:
+* Here is the cron command you would need:
 
 code
  0  *  *  *  *  wget http://yourdomain.com/backup.zip
 
-paragraph
- You can either memorize the <a href="http://en.wikipedia.org/wiki/Cron#crontab_syntax">crontab syntax</a>, or just this simple Javascript <a href="http://www.openjs.com/scripts/jslibrary/demos/crontab.php">crontab gui</a> will easily generate the code for you.
+* You can either memorize the <a href="http://en.wikipedia.org/wiki/Cron#crontab_syntax">crontab syntax</a>, or just this simple Javascript <a href="http://www.openjs.com/scripts/jslibrary/demos/crontab.php">crontab gui</a> will easily generate the code for you.
 
-section Step 2: Append the command to your crontab file
+# Step 2: Append the command to your crontab file
 
-paragraph
- There are 2 crontab files that get executed every minute. 1 of them is found in /etc or similar and is controlled by root only. In addition, each user can have a crontab.
+* There are 2 crontab files that get executed every minute. 1 of them is found in /etc or similar and is controlled by root only. In addition, each user can have a crontab.
 
-paragraph
- To add your command to crontab type:
+* To add your command to crontab type:
 
 code
  crontab -e
 
-paragraph
- This will open vim, and you can then paste and save your crontab file.
+* This will open vim, and you can then paste and save your crontab file.
 
-paragraph
- Viola!
+* Viola!
 
-section Notes
+# Notes
 
-paragraph
- 1. If you are using cron in cygwin, follow <a href="http://www.newmedialogic.com/node/33">these steps</a> after installing the cron package with the cygwin installer to install cron as a service:
+* 1. If you are using cron in cygwin, follow <a href="http://www.newmedialogic.com/node/33">these steps</a> after installing the cron package with the cygwin installer to install cron as a service:
 
 code
  cygrunsrv -I cron -p /usr/sbin/cron -a D
  
  net start cron
 
-paragraph
- If there are problems, check the cron.log file in your home directory.
+* If there are problems, check the cron.log file in your home directory.
 
