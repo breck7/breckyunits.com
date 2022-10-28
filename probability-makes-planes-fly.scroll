@@ -21,14 +21,14 @@ keyboardNav
 
 * Everything is built off of probability. You are reading this because of countless compounded probabilities like:
 
- - There is a high probability that your Internet connection works
- - There is a high probability that my web server is responding to connections
- - There is a high probability that my web server's disk works
- - There is a high probability that my web software works and will handle this post
- - There is a high probability that my Internet connection works
- - There is a high probability that my text editor won't fail as I write this
- - There is a high probability that my laptop works
- - There is a high probability that the CPU in my laptop consistently adds numbers in the registers correctly
+- There is a high probability that your Internet connection works
+- There is a high probability that my web server is responding to connections
+- There is a high probability that my web server's disk works
+- There is a high probability that my web software works and will handle this post
+- There is a high probability that my Internet connection works
+- There is a high probability that my text editor won't fail as I write this
+- There is a high probability that my laptop works
+- There is a high probability that the CPU in my laptop consistently adds numbers in the registers correctly
 
 * Complex systems consist of many, many simple components with understood probabilities stitched together.
 

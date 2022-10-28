@@ -29,11 +29,11 @@ code
 
 * This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
- - a: archive mode (keep owner and permissions)
- - r: recurse into directories
- - v: increase verbosity
- - u: update only (don't overwrite newer files - if you have edited files in destination)
- - z: compress file data
+- a: archive mode (keep owner and permissions)
+- r: recurse into directories
+- v: increase verbosity
+- u: update only (don't overwrite newer files - if you have edited files in destination)
+- z: compress file data
 
 
 # Notes 

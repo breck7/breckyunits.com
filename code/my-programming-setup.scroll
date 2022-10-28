@@ -8,18 +8,18 @@ permalink my-programming-setup.html
 * Here's my setup. This is kind of for my reference but you can also check it out if you're interested.
  dateline
 
- - Macbook Air. 4GB. 256GB HD.
- - VMWare Fusion almost solely to run Notepad++
- - In Fusion I removed the Apple+W shortcut they map by default. Also, I map the Apple Key to the windows Ctrl key and the Mac control key to the Windows Key.
- - I configure Notepad++ to use 2 spaces instead of tabs.
- - I run Fusion in Unity mode and have the Windows taskbar at the bottom of the screen.
- - I make the Mac tray pretty small at the bottom of the screen and set it to disappear.
- - I run Cinch on my Mac to get the next drag and drop for side by side comparison function that comes with Windows 7.
- - I run Dropbox on the Mac. I share a folder using Fusion to have access to it in Windows.
- - I disable network access on the Windows virtual machine so I don't have to worry about viruses etc on that guy.
- - I enabled a firmware password on my macbook.
- - I add a lot of things to my bash_profile on the mac and pretty much always have at least 1 terminal window open.
- - I use textmate on the mac occasionally but try to do all my work in Notepad++.
- - I run MAMP on the Mac and WAMP on the WinVM.
- - I bump up the font size on a lot of things like terminal etc.
- - I go to "Keyboard" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.
+- Macbook Air. 4GB. 256GB HD.
+- VMWare Fusion almost solely to run Notepad++
+- In Fusion I removed the Apple+W shortcut they map by default. Also, I map the Apple Key to the windows Ctrl key and the Mac control key to the Windows Key.
+- I configure Notepad++ to use 2 spaces instead of tabs.
+- I run Fusion in Unity mode and have the Windows taskbar at the bottom of the screen.
+- I make the Mac tray pretty small at the bottom of the screen and set it to disappear.
+- I run Cinch on my Mac to get the next drag and drop for side by side comparison function that comes with Windows 7.
+- I run Dropbox on the Mac. I share a folder using Fusion to have access to it in Windows.
+- I disable network access on the Windows virtual machine so I don't have to worry about viruses etc on that guy.
+- I enabled a firmware password on my macbook.
+- I add a lot of things to my bash_profile on the mac and pretty much always have at least 1 terminal window open.
+- I use textmate on the mac occasionally but try to do all my work in Notepad++.
+- I run MAMP on the Mac and WAMP on the WinVM.
+- I bump up the font size on a lot of things like terminal etc.
+- I go to "Keyboard" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.

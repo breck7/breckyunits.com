@@ -10,8 +10,8 @@ permalink more-tips-on-using-rsync-to-deploy-your-website.html
 
 * I thought I'd add some more tips:
 
- - use the "--delete" option if you want to delete files on the destination directory that no longer exist in the source directory.
- - add "$1" after your options like this:
+- use the "--delete" option if you want to delete files on the destination directory that no longer exist in the source directory.
+- add "$1" after your options like this:
 
 code
  rsync -rvz$1

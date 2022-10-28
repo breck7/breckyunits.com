@@ -18,9 +18,9 @@ code
 
 * In less, the 3 key commands are:
 
- - spacebar to go forward one page
- - b to go back one page
- - q to quit
+- spacebar to go forward one page
+- b to go back one page
+- q to quit
 
 * You can also do regular expression searches like in vim: /regex (n to go to next match)
 

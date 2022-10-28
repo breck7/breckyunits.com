@@ -11,5 +11,5 @@ permalink rubyful-soup.html
 
 * To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:
 
- - Line 19 - comment out 'require 'jcode''
- - Line 233 - remove the colon
+- Line 19 - comment out 'require 'jcode''
+- Line 233 - remove the colon
