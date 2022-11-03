@@ -3,16 +3,22 @@ date 2021-04-26
 
 openGraphImage https://breckyunits.com/literacy.jpg
 
-* I present a new word<proof/>. <b><i>Logeracy</i></b>. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
+* I present a new word<proof/>. *_Logeracy_*. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
  link https://en.wikipedia.org/wiki/Logarithm logarithms
  link https://en.wikipedia.org/wiki/Literacy literacy
  dateline
 
 * Someone literate is fluent with reading and writing. Someone logerate is fluent with orders of magnitudes and the ubiquitous mathematical functions that dominate our universe.
 
-* Someone literate can take an idea and break it down into the correct symbols and words, someone logerate can take an idea and break it down into the correct classes and <a href="https://en.wikipedia.org/wiki/Order_of_magnitude">orders of magnitude</a>.
+* Someone literate can take an idea and break it down into the correct symbols and words, someone logerate can take an idea and break it down into the correct classes and orders of magnitude.
+ https://en.wikipedia.org/wiki/Order_of_magnitude orders of magnitude
 
-* Someone literate is fluent with terms like verb and noun and adjective. Someone logerate is fluent with terms like <a href="https://en.wikipedia.org/wiki/Exponentiation">exponent</a> and <a href="https://en.wikipedia.org/wiki/Power_law">power law</a> and <a href="https://en.wikipedia.org/wiki/Base_(exponentiation)">base</a> and <a href="https://en.wikipedia.org/wiki/Factorial">factorial</a> and <a href="https://en.wikipedia.org/wiki/Black_swan_theory">black swan</a>.
+* Someone literate is fluent with terms like verb and noun and adjective. Someone logerate is fluent with terms like exponent and power law and base and factorial and black swan.
+ https://en.wikipedia.org/wiki/Exponentiation exponent
+ https://en.wikipedia.org/wiki/Power_law power law
+ https://en.wikipedia.org/wiki/Base_(exponentiation) base
+ https://en.wikipedia.org/wiki/Factorial factorial
+ https://en.wikipedia.org/wiki/Black_swan_theory black swan
 
 endSnippet
 groups index
@@ -22,11 +28,12 @@ keyboardNav
 * Someone literate can read an article and determine whether it makes sense grammatically. Someone logerate can read an article and determine whether it makes sense logarithmically.
 
 * Someone literate can read and write an address on the front of the envelope.
- Someone logerate can use the <a href="https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation">back of the envelope</a>.
+ Someone logerate can use the back of the envelope.
+ https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation back of the envelope
 
 # Illogeracy
 
-* The opposite of logeracy is <i>illogeracy</i>: the inability to think in logarithms. An illogerate person is one who frequently gets the orders of magnitude wrong.
+* The opposite of logeracy is _illogeracy_: the inability to think in logarithms. An illogerate person is one who frequently gets the orders of magnitude wrong.
 
 * An illogerate person may correctly understand parts 2 and 3 of a 3 term equation but get the first time-dependent part wrong and so get the whole thing wrong.
 
@@ -36,15 +43,17 @@ keyboardNav
 
 * An illogerate person may mistake one part of a sin wave for a trend.
 
-* An illogerate is one who may be familiar with exponentials but unfamiliar with <a href="https://en.wikipedia.org/wiki/Sigmoid_function.
+* An illogerate is one who may be familiar with exponentials but unfamiliar with sigmoids
+ https://en.wikipedia.org/wiki/Sigmoid_function signmoids
 
-#">sigmoids</a> Measuring Logeracy
+# Measuring Logeracy
 
 * No country or organization measures logeracy yet<email/>. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
 
 image literacy.jpg
 
-* Countries have been measuring <a href="https://ourworldindata.org/literacy">literacy</a> for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
+* Countries have been measuring literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
+ https://ourworldindata.org/literacy literacy
 
 # The upside of logeracy
 
@@ -52,11 +61,14 @@ image literacy.jpg
 
 * Logeracy makes decision making simple and fast (figure out the classes of the options, and then the decision should be obvious).
 
-* You don't get wealthy without logeracy. An illogerate and his money are soon parted. <a href="https://en.wikipedia.org/wiki/Compound_interest">Compound interest</a> is a tool of the logerate. Money doesn't buy happiness, but the <a href="https://en.wikipedia.org/wiki/Kelly_criterion">logarithm of money</a> does.
+* You don't get wealthy without logeracy. An illogerate and his money are soon parted. Compound interest is a tool of the logerate. Money doesn't buy happiness, but the logarithm of money does.
+ https://en.wikipedia.org/wiki/Compound_interest Compound interest
+ https://en.wikipedia.org/wiki/Kelly_criterion logarithm of money
 
 ? Where is logeracy currently taught well?
 
-* My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in <a href="https://en.wikipedia.org/wiki/Big_O_notation">Big O notation</a><bigO/>. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
+* My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in Big O notation<bigO/>. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
+ https://en.wikipedia.org/wiki/Big_O_notation Big O notation
 
 * Perhaps its electrical engineers, or astronomers, or aerospace engineers. These folks are frequently working with vast scale differences so logeracy is required.
 
@@ -66,7 +78,8 @@ image literacy.jpg
 
 ? How much logeracy is the average person taught?
 
-* My high school chemistry teacher first exposed me to logeracy when she taught me <a href="https://en.wikipedia.org/wiki/Scientific_notation">Scientific Notation</a>. That was probably the only real drilling I got in logeracy before getting into Computer Science. Scientific Notation is a handy notation and a great introduction to logeracy, but logeracy is so important that it probably deserves its own dedicated class in high schools where it is drilled repeatedly from many difference perspectives.
+* My high school chemistry teacher first exposed me to logeracy when she taught me Scientific Notation. That was probably the only real drilling I got in logeracy before getting into Computer Science. Scientific Notation is a handy notation and a great introduction to logeracy, but logeracy is so important that it probably deserves its own dedicated class in high schools where it is drilled repeatedly from many difference perspectives.
+ https://en.wikipedia.org/wiki/Scientific_notation Scientific Notation
 
 ? What are some good books for improving logeracy?
 
@@ -78,7 +91,7 @@ image literacy.jpg
 
 ? Can you be too logerate?
 
-* I don't think so. However, I do believe you can be out of balance. One needs to be <i>linerate</i><uhoh/> as well as logerate. We have so many adages for people that focus <i>too much</i> on the dominant-in-time term of an equation and not enough about the linear but dominant-now parts. Adages like "head in the clouds", "crackpot", "ahead of her time". We also have common wisdom for how to avoid that trap "a journey of a single step...", "do things that don't scale", so it is likely that being extremely logerate without lineracy is a real pitfall to be aware of.
+* I don't think so. However, I do believe you can be out of balance. One needs to be _linerate_<uhoh/> as well as logerate. We have so many adages for people that focus _too much_ on the dominant-in-time term of an equation and not enough about the linear but dominant-now parts. Adages like "head in the clouds", "crackpot", "ahead of her time". We also have common wisdom for how to avoid that trap "a journey of a single step...", "do things that don't scale", so it is likely that being extremely logerate without lineracy is a real pitfall to be aware of.
 
 ? What about the term Numeracy?
 
@@ -94,11 +107,13 @@ image literacy.jpg
 
 # Let's get to 99%+ logeracy
 
-* I wrote my first post on <a href="https://breckyunits.com/orders-of-magnitude.html">Orders of Magnitudes</a> nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: <b>become logerate</b>. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
+* I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: <b>become logerate</b>. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
+ https://breckyunits.com/orders-of-magnitude.html Orders of Magnitudes
 
 # Notes
 
-* <proof>^ I was very surprised to be the one to invent the word logeracy<a href="logeracy.png">(proof)</a>. Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
+* <proof>^ I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
+ logeracy.png (proof)
 
 image illogeracy.png
 
