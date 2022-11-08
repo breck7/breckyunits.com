@@ -8,3 +8,4 @@ scrollCss scrollStyle.css
 email breck7@gmail.com
 baseUrl https://breckyunits.com/
 rssFeedUrl feed.xml
+<style>body { color: rgb(11,8,86);} </style>
