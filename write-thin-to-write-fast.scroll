@@ -41,13 +41,13 @@ keyboardNav
 
 ? If column width has such a significant impact on writing speed, why have I not seen this stressed more?
 
-* I don't remember ever being told to use thinner columns when writing. In programming we often cap line length, but this is generally pitched for the benefit of future <i>readers</i>, not to help the authors at write time.
+* I don't remember ever being told to use thinner columns when writing. In programming we often cap line length, but this is generally pitched for the benefit of future _readers_, not to help the authors at write time.
 
 * I have long overlooked the benefit of thin columns at write time. How could I have overlooked this? Two obvious explanations come to mind.
 
-* First, I could be wrong. Maybe this is not a general rule. I have not yet done much research. Heck, I haven't even done careful examination of my own data. I've been writing with narrow columns for about 10 months. It <i>feels</i> impactful, but I could be overestimating its impact on my own writing speed.
+* First, I could be wrong. Maybe this is not a general rule. I have not yet done much research. Heck, I haven't even done careful examination of my own data. I've been writing with narrow columns for about 10 months. It _feels_ impactful, but I could be overestimating its impact on my own writing speed.
 
-* Second, I could be ignorant. Maybe this is already talked about plenty. I would not be surprised if a <i>professional</i> writer sees this and says "duh". Maybe it's taught in some basic "writing mechanics 101" introductory course. Maybe if I got my MFA or went to journalism school or worked at a newspaper this is a basic thing. Maybe that's why journalists carry those thin notepads.
+* Second, I could be ignorant. Maybe this is already talked about plenty. I would not be surprised if a _professional_ writer sees this and says "duh". Maybe it's taught in some basic "writing mechanics 101" introductory course. Maybe if I got my MFA or went to journalism school or worked at a newspaper this is a basic thing. Maybe that's why journalists carry those thin notepads.
 
 * But let's say my hunches are correct, that thin columns do help you write faster and that this is not mentioned much. If I'm correct on both of those counts, then a clear explanation for this is that this simply is a new potential hazard created by new technology. My generation is the first to have access to big screens, and so in the past writing with wide columns wasn't a mistake people made because it simply wasn't possible. An alternative title I considered was "Write as fast as your grandparents by using the line length they used".
 
@@ -60,7 +60,7 @@ image nytimesDrawing.png
 - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
 - I am a middling writer, so don't forget to weight this advice appropriately!
 - The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
-- Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at <i>write time</i> with certain font and column settings. At <i>read time</i> those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
+- Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at _write time_ with certain font and column settings. At _read time_ those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
 
 comment Further threads to explore
 - This may be an inconsequential tip on how to I went from a 0.1x writer a 0.2x writer.

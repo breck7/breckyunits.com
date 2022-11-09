@@ -35,12 +35,14 @@ quote
 
 * Like FortuneCookie, Wisdom is some advice that can change your perspective or guide your decision making. No difference there.
 
-* Unlike FortuneCookie, Wisdom needs to be backed by a large dataaset. For example, in 2009 <a href="twelve-tips-to-master-programming-faster.html">I wrote</a>:
+* Unlike FortuneCookie, Wisdom needs to be backed by a large dataaset. For example, in 2009 I wrote:
+ link twelve-tips-to-master-programming-faster.html I wrote
 
 quote
  🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding. 
 
-* Ten years later, after <a href="https://github.com/breck7/30000hours">gathering data</a> I can now write:
+* Ten years later, after gathering data I can now write:
+ https://github.com/breck7/30000hours gathering data
 
 quote
  🔬 The programmers I respect the most, without exception, all practiced more than 30,000 hours.^<hours/>
