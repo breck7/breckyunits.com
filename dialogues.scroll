@@ -21,12 +21,12 @@ date 2021-05-14
 * Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
  dateline
 
-* Here is the Grammar code in the <a href="https://github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af">commit</a> that added support for Dialogues:
+* Here is the Grammar code in the commit that added support for Dialogues:
+ https://github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af commit
 
 image dialogues.png
 
 # Links
 
-- Try <a href="https://scroll.pub
--">Scroll</a> Chat CSS <a href="https://codepen.io/karolsw3/pen/KZmvGG
-">inspiration</a>
+- Try Scroll: https://scroll.pub
+- Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
