@@ -1,6 +1,6 @@
 importOnly
-siteTitle Programming Notes to Self
-siteDescription Helpful one liners, and more, that I may need later
+title Programming Notes to Self
+description Helpful one liners, and more, that I may need later
 github https://github.com/breck7/breckyunits.com
 twitter https://twitter.com/breckyunits
 baseUrl https://breckyunits.com/code/
