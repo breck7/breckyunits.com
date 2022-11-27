@@ -13,3 +13,5 @@ permalink features-i-miss-from-notepad-in-textmate.html
 - Notepad++ has great autocompletion. Once you type a word in a document, that word is added to the autocompletion list. Autocompletion drops down inline too which is great.
 
 * If anyone nows how to replicate these things in Textmate please let me know! Thanks.
+
+import footer.scroll

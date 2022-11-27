@@ -12,3 +12,4 @@ permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.ht
 * Settings > Style Configurator
 
 * Then click php and under "user ext" (in the bottom left) add haml
+import footer.scroll

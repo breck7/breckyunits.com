@@ -49,3 +49,4 @@ maxColumns 1
 columnWidth 60
 groups index
 keyboardNav
+import footer.scroll

@@ -49,3 +49,4 @@ image pmarca.png
 maxColumns 2
 groups index
 keyboardNav
+import footer.scroll

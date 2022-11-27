@@ -26,3 +26,5 @@ keyboardNav
 # Notes
 
 - 1. This is probably easier said than done.
+
+import footer.scroll

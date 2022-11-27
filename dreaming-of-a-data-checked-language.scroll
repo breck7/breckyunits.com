@@ -400,3 +400,4 @@ image dataErrorPandemic.jpg
     border-radius: 5px;
   }
  </style>
+import footer.scroll

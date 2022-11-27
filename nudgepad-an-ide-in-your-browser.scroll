@@ -76,3 +76,5 @@ image samples.gif
  way it will be done in the future. By this time next year,
  using NudgePad, it could be 100x faster and easier to build
  websites than it is today.
+
+import footer.scroll

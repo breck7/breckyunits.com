@@ -56,3 +56,5 @@ columnWidth 53
 keyboardNav
 
 comment todo: Build a dataset of public domain products, as suggested by jmiven
+
+import footer.scroll

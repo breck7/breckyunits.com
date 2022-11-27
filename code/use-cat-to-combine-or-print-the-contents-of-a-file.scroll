@@ -34,3 +34,5 @@ code
 
 code
  cat file1 file2 > file3
+
+import footer.scroll

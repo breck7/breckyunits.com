@@ -8,3 +8,5 @@ permalink wildcard-subdomains-with-godaddy.html
 
 * Just create a new A Record with * as the host and your IP in the points to field.
  dateline
+
+import footer.scroll

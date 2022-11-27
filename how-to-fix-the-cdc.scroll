@@ -88,3 +88,5 @@ groups index
 
 keyboardNav
 openGraphImage https://breckyunits.com/cdc.jpeg
+
+import footer.scroll

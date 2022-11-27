@@ -12,3 +12,4 @@ permalink ack-and-ackmate.html
 * Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href="http://betterthangrep.com/">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
 
 * This is probably something I would have learned faster had I been doing more pair programming with senior devs.
+import footer.scroll

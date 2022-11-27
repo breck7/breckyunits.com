@@ -42,3 +42,5 @@ image 3dprogram.png
 
 * Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a <a href="https://srfi.schemers.org/srfi-49/srfi-49.html">very similar notation</a> years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
 
+
+import footer.scroll

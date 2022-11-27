@@ -72,3 +72,4 @@ comment Further threads to explore
 - Consider vertical languages like Japanese
 
 maxColumns 2
+import footer.scroll

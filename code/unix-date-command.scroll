@@ -13,3 +13,5 @@ code
  date +%s
 
 * Handy way to view it from the command line.
+
+import footer.scroll

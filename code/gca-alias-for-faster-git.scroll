@@ -16,3 +16,5 @@ code
 
 code
  alias gca="git commit -am "
+
+import footer.scroll

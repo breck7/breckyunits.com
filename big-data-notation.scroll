@@ -20,3 +20,5 @@ keyboardNav
 * This occurred to me recently as I just started following <a href="http://www.quora.com/Big-Data">Big Data on Quora</a> and was surprised to see the term used so loosely, when data is something so easily measurable. For example, a <a href="http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation">2011 Big Data report from McKinsey</a> defined big data as ranging "from a few dozen terabytes to multiple petabytes (thousands of terabytes)." <a href="http://en.wikipedia.org/wiki/Big_data">Wikipedia defines Big Data</a> as "a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications."
 
 * I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
+
+import footer.scroll

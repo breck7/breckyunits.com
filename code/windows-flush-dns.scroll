@@ -11,3 +11,5 @@ permalink windows-flush-dns.html
 
 code
  ipconfig /flushdns
+
+import footer.scroll

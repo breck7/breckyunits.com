@@ -13,3 +13,5 @@ code
  mysql -u username -p < sqlfile.sql
 
 * Make sure your sql file has a "use database" line.
+
+import footer.scroll

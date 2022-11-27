@@ -79,3 +79,4 @@ quote
 
 html
  <style>.rightQuote{text-align: right; display: block; margin-top: 5px;}</style>
+import footer.scroll

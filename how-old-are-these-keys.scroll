@@ -81,3 +81,4 @@ keyboardNav
 * I made the thing as fun as I could given time constraints and then shipped.
 
 maxColumns 2
+import footer.scroll

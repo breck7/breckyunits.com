@@ -24,3 +24,5 @@ code
 * This will only run the last command if the cp command executed successfully.
 
 * You can swap the && for || to run a command if the previous one fails.
+
+import footer.scroll

@@ -13,3 +13,5 @@ code
  scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt
 
 * This will download the file from your server to your local computer.
+
+import footer.scroll

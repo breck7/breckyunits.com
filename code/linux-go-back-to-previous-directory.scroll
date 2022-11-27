@@ -11,3 +11,5 @@ code
 
 * To go back to the last directory you were in. Basically an "undo" for the cd command.
  dateline
+
+import footer.scroll

@@ -8,3 +8,5 @@ permalink remove-all-ds_store-files-recursively.html
 
 code
  find . -type f -name ".DS_Store" -exec rm {} \;
+
+import footer.scroll

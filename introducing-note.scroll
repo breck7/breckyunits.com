@@ -49,3 +49,5 @@ keyboardNav
 * This is a very brief overview of the thinking behind Note and some of its features. I look forward to the months ahead as we start to implement Note on sites across the web and demonstrate some of the neat features and capabilities of the encoding.
 
 * Please feel free to email me with any questions or feedback you may have, as well as if you'd be interested in contributing.
+
+import footer.scroll

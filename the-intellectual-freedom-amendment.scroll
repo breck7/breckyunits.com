@@ -32,3 +32,4 @@ quote
 groups index
 
 keyboardNav
+import footer.scroll

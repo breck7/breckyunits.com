@@ -26,3 +26,5 @@ spaceTable
  ../CodeIgniter_1.7.2 44 321 136 43157 74 1211
  ../Zend-1.10 360 2145 1692 336419 42 11123
  ../symfony-1.4.3 770 2905 2091 298700 362 12198
+
+import footer.scroll

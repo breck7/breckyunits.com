@@ -41,3 +41,5 @@ quote
 - This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
 - Finding the least you can do is kind of like <a href="http://en.wikipedia.org/wiki/Diff">diff</a>. You are trying to find the smallest change you can make to turn the status quo into an improved version. 
 - Another relevant computer science topics is the <a href="http://en.wikipedia.org/wiki/Longest_common_subsequence_problem">The longest common subsequence problem</a>.
+
+import footer.scroll

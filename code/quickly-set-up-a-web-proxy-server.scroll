@@ -12,3 +12,5 @@ permalink quickly-set-up-a-web-proxy-server.html
 * Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy">article</a> that shows how.
 
 * I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
+
+import footer.scroll

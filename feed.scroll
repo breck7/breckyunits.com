@@ -6,3 +6,5 @@ permalink feed.xml
 
 template blank
 printFeed index
+
+import footer.scroll

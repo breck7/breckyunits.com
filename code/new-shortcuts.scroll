@@ -20,3 +20,4 @@ code
 code
  ctrl+a - home/start of line
  ctrl+e - end
+import footer.scroll

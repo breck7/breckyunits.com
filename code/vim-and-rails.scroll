@@ -42,3 +42,4 @@ code
  set ts=2  " Tabs are 2 spaces
  
  set laststatus=2  " Always show status line.
+import footer.scroll

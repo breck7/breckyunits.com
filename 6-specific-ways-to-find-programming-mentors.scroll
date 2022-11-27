@@ -34,3 +34,5 @@ keyboardNav
 # Notes
 
 - 1. That exercise percentage is a guess, but sounds right to me.
+
+import footer.scroll

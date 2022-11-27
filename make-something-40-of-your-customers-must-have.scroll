@@ -90,3 +90,5 @@ keyboardNav
 - I used customers and users interchangeably. For non-tech businesses, you can just use "customer" each time.
 - Thanks to <a href="http://www.bigorangehousestudios.com">Ben</a>, <a href="http://www.jellyfishart.com">Alex Andon</a>, and <a href="http://andrewkitchell.blogspot.com/">Andrew Kitchell</a> for feedback.
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's <a href="http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/">7 deadly sins advice</a>.
+
+import footer.scroll

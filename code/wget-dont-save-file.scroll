@@ -8,3 +8,5 @@ permalink wget-dont-save-file.html
 
 code
  wget -O /dev/null http://address.com
+
+import footer.scroll

@@ -168,3 +168,5 @@ code
    📁icons
 
 * This means that any project should have at most 9 subdirectories.
+
+import footer.scroll

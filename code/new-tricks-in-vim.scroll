@@ -22,3 +22,4 @@ code
 * Notes
 
 * 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+import footer.scroll

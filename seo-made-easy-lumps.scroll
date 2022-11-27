@@ -65,3 +65,5 @@ keyboardNav
 # Links
 
 - Google <a href="https://www.google.com/webmasters/tools">WebmasterTools</a> <a href="https://www.seobook.com">SEOBook</a> - one of the best SEO sites out there.
+
+import footer.scroll

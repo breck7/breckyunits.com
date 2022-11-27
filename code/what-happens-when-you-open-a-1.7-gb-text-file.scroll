@@ -18,3 +18,5 @@ permalink what-happens-when-you-open-a-1.7-gb-text-file.html
 * VIM in Cygwin: It appears frozen.
 
 * I will continue this post at a later date.
+
+import footer.scroll

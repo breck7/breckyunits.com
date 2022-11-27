@@ -45,3 +45,5 @@ endSnippet
 groups index
 
 keyboardNav
+
+import footer.scroll

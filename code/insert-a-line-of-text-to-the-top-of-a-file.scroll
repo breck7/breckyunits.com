@@ -11,3 +11,5 @@ permalink insert-a-line-of-text-to-the-top-of-a-file.html
 
 code
  sed -e '1i\text_to_insert' -i file.txt
+
+import footer.scroll

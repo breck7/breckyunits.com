@@ -16,3 +16,5 @@ code
 
 code
  /private/etc/hosts
+
+import footer.scroll

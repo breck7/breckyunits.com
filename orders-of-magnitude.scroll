@@ -58,3 +58,5 @@ keyboardNav
 # Notes
 
 * <a href="https://www.wolframalpha.com.">WolframAlpha</a> Thanks to Mairi and <a href="http://www.30words.com">Andrew Kitchell</a> for providing feedback.
+
+import footer.scroll

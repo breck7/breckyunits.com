@@ -185,3 +185,5 @@ image aftertext.png
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
 maxColumns 2
+
+import footer.scroll

@@ -1,3 +1,5 @@
 
 
 template group index
+
+import footer.scroll

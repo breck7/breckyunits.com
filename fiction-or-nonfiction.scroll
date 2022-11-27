@@ -44,3 +44,5 @@ keyboardNav
 - 1. I read about equal amounts fiction and nonfiction. So on average, I get greater return from nonfiction reading.
 - 2. Reading fiction is a more enjoyable form of entertainment.
 - 3. This essay is in response to a <a href="http://news.ycombinator.com/item?id=917566">comment</a> I read a while back on HackerNews that got me thinking about the subject.
+
+import footer.scroll

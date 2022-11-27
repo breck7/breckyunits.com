@@ -16,3 +16,5 @@ code
  https://www.sublimetext.com/dev devBuilds
  https://stackoverflow.com/questions/18482976/tell-sublime-text-to-ignore-everything-in-gitignore StackOverflow
 
+
+import footer.scroll

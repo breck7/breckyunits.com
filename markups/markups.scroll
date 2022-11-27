@@ -45,3 +45,4 @@ bbCodeNode
   compile() {
    return new this.compiler().parse(this.childrenToString())
   }
+import footer.scroll

@@ -31,3 +31,5 @@ keyboardNav
 # Ignore Speed Limits
 
 * If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.
+
+import footer.scroll

@@ -28,3 +28,5 @@ keyboardNav
 - 8. What's the go to market strategy in one sentence? <input size="40">
 - 9. What resources do you need to do this? <input size="40">
 - 10. What's the total addressable market size? <input size="6"> people $<input size="6">
+
+import footer.scroll

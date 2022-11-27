@@ -41,3 +41,5 @@ code
 
 code
  rvm install 1.9.2
+
+import footer.scroll

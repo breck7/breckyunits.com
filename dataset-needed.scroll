@@ -19,3 +19,5 @@ keyboardNav
 # Notes
 
 * Thanks to DL for helping me refine my thinking from this <a href="https://breckyunits.com/dreaming-of-a-data-checked-language.html">earlier post</a>.
+
+import footer.scroll

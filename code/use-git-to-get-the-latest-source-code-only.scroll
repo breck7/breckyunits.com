@@ -11,3 +11,5 @@ permalink use-git-to-get-the-latest-source-code-only.html
 
 code
  git clone --depth 1 git://github.com/breck7/brecksblog.git
+
+import footer.scroll

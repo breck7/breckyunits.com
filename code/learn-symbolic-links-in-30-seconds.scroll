@@ -33,3 +33,5 @@ code
 # Notes
 
 * <a href="https://./use-aliases-to-save-time.html">Aliases</a> are another great time saver.
+
+import footer.scroll

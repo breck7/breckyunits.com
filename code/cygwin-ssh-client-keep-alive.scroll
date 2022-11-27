@@ -11,3 +11,5 @@ permalink cygwin-ssh-client-keep-alive.html
 
 code
  ServerAliveInterval 60
+
+import footer.scroll

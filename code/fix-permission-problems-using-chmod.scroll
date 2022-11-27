@@ -13,3 +13,5 @@ code
  chmod -R 755 directoryname
 
 * Change the file permissions of all directories and files in directoryname to 755.
+
+import footer.scroll

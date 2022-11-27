@@ -89,3 +89,5 @@ comment
 groups index
 
 keyboardNav
+
+import footer.scroll

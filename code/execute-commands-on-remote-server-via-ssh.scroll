@@ -12,3 +12,5 @@ permalink execute-commands-on-remote-server-via-ssh.html
 code
  ssh breckyunits.com 'df -h'
 
+
+import footer.scroll

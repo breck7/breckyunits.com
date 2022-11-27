@@ -13,3 +13,4 @@ permalink ngrep-for-packet-monitoring.html
 
 code
  ngrep -q -W byline "^(GET|POST) .*"
+import footer.scroll

@@ -13,3 +13,5 @@ code
  git clone --depth 1 your_repo_url
 
 * <a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
+
+import footer.scroll

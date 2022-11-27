@@ -11,3 +11,4 @@ permalink netstat.html
 
 code
  netstat -lp
+import footer.scroll

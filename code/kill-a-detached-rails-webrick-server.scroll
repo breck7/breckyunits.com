@@ -12,3 +12,4 @@ permalink kill-a-detached-rails-webrick-server.html
 code
  cat tmp/pids/server.pid
  kill -9 {pid}
+import footer.scroll

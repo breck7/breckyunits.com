@@ -40,3 +40,4 @@ author https://github.com/breck7 Breck Yunits, University of Hawai'i Cancer Cent
 maxColumns 2
 groups index
 keyboardNav
+import footer.scroll

@@ -44,3 +44,5 @@ code
 
 * If there are problems, check the cron.log file in your home directory.
 
+
+import footer.scroll

@@ -28,3 +28,4 @@ groups index
 
 keyboardNav
 columnWidth 60
+import footer.scroll

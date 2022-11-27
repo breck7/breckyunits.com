@@ -33,3 +33,5 @@ code
 # Notes
 
 - 1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
+
+import footer.scroll

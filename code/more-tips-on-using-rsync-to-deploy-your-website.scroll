@@ -34,3 +34,5 @@ code
 
 - 1. The <b>i</b> option, which shows you why a file is being copied (all pluses means rsync thinks it doesn't exist in the destination; t means the times differ; s means the contents differ (?)).
 - 2. The <b>--modify-window=1</b> option. This lets you ignore differences in modified timestamps. You can set 1 to a high number to ignore large differences.
+
+import footer.scroll

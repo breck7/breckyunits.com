@@ -40,3 +40,5 @@ keyboardNav
 
 html
  <style>.wayback{text-decoration: none;}</style>
+
+import footer.scroll

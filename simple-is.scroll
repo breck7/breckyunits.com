@@ -25,3 +25,5 @@ keyboardNav
 * <b>Cohesive but flexible</b>. You want the set to match. But you want each item to be independently improveable.
 
 * <b>Simple is balanced</b>. It is nuanced, not black and white.
+
+import footer.scroll

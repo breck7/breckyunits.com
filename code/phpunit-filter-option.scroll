@@ -15,3 +15,5 @@ permalink phpunit-filter-option.html
 
 code
  phpunit --filter testFileWriter FileWriter_Test_Class tests.php
+
+import footer.scroll

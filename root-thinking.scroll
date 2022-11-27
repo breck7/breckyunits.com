@@ -18,3 +18,4 @@ image banyan.svg
 
 groups index
 keyboardNav
+import footer.scroll

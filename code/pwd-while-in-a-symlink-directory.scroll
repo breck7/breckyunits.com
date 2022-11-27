@@ -11,3 +11,5 @@ permalink pwd-while-in-a-symlink-directory.html
 
 code
  /bin/pwd
+
+import footer.scroll

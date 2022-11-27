@@ -54,3 +54,4 @@ chat
 
 
 maxColumns 1
+import footer.scroll

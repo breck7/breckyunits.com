@@ -52,3 +52,5 @@ code
  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
 
 maxColumns 1
+
+import footer.scroll

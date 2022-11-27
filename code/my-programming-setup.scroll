@@ -24,3 +24,5 @@ permalink my-programming-setup.html
 - I run MAMP on the Mac and WAMP on the WinVM.
 - I bump up the font size on a lot of things like terminal etc.
 - I go to "Keyboard" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.
+
+import footer.scroll
