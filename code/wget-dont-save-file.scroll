@@ -1,6 +1,7 @@
+import header.scroll
 title wget don't save file
 date 2010-3-27
-import settings.scroll
+
 groups index
 keyboardNav
 permalink wget-dont-save-file.html

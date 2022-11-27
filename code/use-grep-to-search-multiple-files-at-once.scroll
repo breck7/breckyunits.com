@@ -1,6 +1,7 @@
+import header.scroll
 title Use grep to search multiple files at once
 date 2009-11-22
-import settings.scroll
+
 groups index
 keyboardNav
 permalink use-grep-to-search-multiple-files-at-once.html

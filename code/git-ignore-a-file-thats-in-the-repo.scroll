@@ -1,6 +1,7 @@
+import header.scroll
 title Git ignore a file that's in the repo
 date 2010-10-3
-import settings.scroll
+
 groups index
 keyboardNav
 permalink git-ignore-a-file-thats-in-the-repo.html

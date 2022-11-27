@@ -1,3 +1,4 @@
+import header.scroll
 title The Invention of Free Will
 
 # Or..We Think we have Free Will because we only Observe One Path.
@@ -13,7 +14,7 @@ date 2010-03-24
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # Free Will was Born

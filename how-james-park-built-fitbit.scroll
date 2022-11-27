@@ -1,3 +1,4 @@
+import header.scroll
 title How James Park built FitBit
 # Introduction
 
@@ -31,7 +32,7 @@ image jamesPark.jpeg
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * It's taken me a few weeks to get motivated about exercise.

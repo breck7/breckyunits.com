@@ -1,3 +1,4 @@
+import header.scroll
 title If stories are lies why do they work?
 date 2020-01-16
 
@@ -15,7 +16,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. Stories make people feel something. They get people going.

@@ -1,6 +1,7 @@
+import header.scroll
 title The BASH Programming Language
 date 2010-2-25
-import settings.scroll
+
 groups index
 keyboardNav
 permalink the-bash-programming-language.html

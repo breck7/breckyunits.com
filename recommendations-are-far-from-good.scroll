@@ -1,3 +1,4 @@
+import header.scroll
 title Recommendations Are Far From Good
 date 2010-08-25
 
@@ -8,7 +9,7 @@ date 2010-08-25
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * We are a long, long way from making good individual recommendations. You won't get good individual recommendations until your individual genome is taken into account. And even then it will take a while. We may never get to the point where we can make good individual recommendations.

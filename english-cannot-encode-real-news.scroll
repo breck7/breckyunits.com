@@ -1,3 +1,4 @@
+import header.scroll
 title English cannot encode Real News
 # The Attempt to Capture Truth
 
@@ -12,7 +13,7 @@ date 2019-08-19
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I've tried my best to make my writings encode "real" and "true" information, but it's impossible to overcome the limitations of language. The longer any work of English writing is, the more inaccuracies it contains. This post itself will probably be more than 50% false.

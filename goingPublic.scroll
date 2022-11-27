@@ -1,3 +1,4 @@
+import header.scroll
 title Well YCombinator, we're going public anyway.
 date 11/05/2022
 
@@ -43,7 +44,7 @@ image stealing50KfromPub.jpeg
 image grabBullByTheHorns.jpg
  caption I'll be back.
 
-import settings.scroll
+
 maxColumns 1
 columnWidth 60
 groups index

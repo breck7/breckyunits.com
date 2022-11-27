@@ -1,3 +1,4 @@
+import header.scroll
 title Network Effects
 date 2010-01-22
 
@@ -8,7 +9,7 @@ date 2010-01-22
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * You're probably familiar with two famous examples of network effects:

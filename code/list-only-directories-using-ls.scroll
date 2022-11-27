@@ -1,6 +1,7 @@
+import header.scroll
 title List only directories using ls
 date 2010-0-13
-import settings.scroll
+
 groups index
 keyboardNav
 permalink list-only-directories-using-ls.html

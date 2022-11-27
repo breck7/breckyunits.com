@@ -1,8 +1,9 @@
+import header.scroll
 title Circle of Competence
 date 2010-08-25
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Warren Buffet claims to follow an investment strategy of staying within his "circle of competence". That's why he doesn't invest in high tech--it's outside his circle.

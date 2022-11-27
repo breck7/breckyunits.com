@@ -1,3 +1,4 @@
+import header.scroll
 title Musing on the Future of Healthcare
 date 2020-03-02
 
@@ -6,7 +7,7 @@ date 2020-03-02
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.

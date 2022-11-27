@@ -1,6 +1,7 @@
+import header.scroll
 title How to fix an overwhelmed Gmail Accout
 date 2010-0-17
-import settings.scroll
+
 groups index
 keyboardNav
 permalink how-to-fix-an-overwhelmed-gmail-accout.html

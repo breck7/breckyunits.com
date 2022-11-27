@@ -1,3 +1,4 @@
+import header.scroll
 title Simple, but not easy
 date 2010-06-17
 
@@ -8,7 +9,7 @@ date 2010-06-17
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * As simple as this sounds, I've found it to be quite hard. It's not easy to build a must have.

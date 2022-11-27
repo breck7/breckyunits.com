@@ -1,3 +1,4 @@
+import header.scroll
 title Big Data Notation
 
 # A Suggestion for a Simple Notation
@@ -11,7 +12,7 @@ date 2013-09-24
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * What do you think?

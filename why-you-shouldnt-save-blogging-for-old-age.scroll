@@ -1,3 +1,4 @@
+import header.scroll
 title Why You Shouldn't Save Blogging for Old Age
 date 2009-12-09
 
@@ -8,7 +9,7 @@ date 2009-12-09
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 quote

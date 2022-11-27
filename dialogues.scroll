@@ -1,3 +1,4 @@
+import header.scroll
 title Scrolldown now has Dialogues
 permalink dialogues.html
 
@@ -13,7 +14,7 @@ aboveAsCode
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 date 2021-05-14

@@ -1,3 +1,4 @@
+import header.scroll
 title The Intellectual Freedom Amendment
 date 2021-05-12
 
@@ -29,5 +30,5 @@ quote
 * I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
 
 groups index
-import settings.scroll
+
 keyboardNav

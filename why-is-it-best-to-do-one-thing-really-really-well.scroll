@@ -1,3 +1,4 @@
+import header.scroll
 title Why is it best to do one thing really, really well?
 date 2010-03-22
 
@@ -11,7 +12,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 ? Why is it best to do one thing really, really well?

@@ -1,3 +1,4 @@
+import header.scroll
 title Upstream of Everything
 date 2/28/2022
 
@@ -67,6 +68,6 @@ comment
  https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea
 
 groups index
-import settings.scroll
+
 keyboardNav
 maxColumns 2

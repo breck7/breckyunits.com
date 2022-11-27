@@ -1,3 +1,4 @@
+import header.scroll
 title Fiction or Nonfiction?
 date 2009-12-02 3
 
@@ -6,7 +7,7 @@ date 2009-12-02 3
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Do you have your list yet? Writing it down may help. Try to write down 10 books that you think have most impacted your life. 

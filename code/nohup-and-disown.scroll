@@ -1,6 +1,7 @@
+import header.scroll
 title nohup and disown
 date 2011-8-22
-import settings.scroll
+
 groups index
 keyboardNav
 permalink nohup-and-disown.html

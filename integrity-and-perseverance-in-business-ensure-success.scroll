@@ -1,3 +1,4 @@
+import header.scroll
 title Integrity and Perseverance in Business ensure success (1853)
 date 2020-02-09
 
@@ -24,6 +25,6 @@ quote
 
 permalink integrity-and-perseverance-in-business-ensure-success.html
 groups index
-import settings.scroll
+
 keyboardNav
 columnWidth 60

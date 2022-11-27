@@ -1,3 +1,4 @@
+import header.scroll
 title The Three Byte Fix
 
 date 6/09/2022
@@ -23,7 +24,7 @@ image map-view.png
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # Benchmarking ckmeans

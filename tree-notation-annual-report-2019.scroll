@@ -1,3 +1,4 @@
+import header.scroll
 title 2019 Tree Notation Annual Report
 date 2020-12-09
 
@@ -221,6 +222,6 @@ comment
 - <a name="note-euclid"></a> When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
 
 groups index
-import settings.scroll
+
 keyboardNav
 permalink tree-notation-annual-report-2019.html

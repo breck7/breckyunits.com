@@ -1,8 +1,9 @@
+import header.scroll
 title Keyboard Shortcuts for Mecabricks
 
 ## Global
 
-import settings.scroll
+
 
 pipeTable
  Combo|Command

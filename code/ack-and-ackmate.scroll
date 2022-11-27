@@ -1,6 +1,7 @@
+import header.scroll
 title ack and ackmate
 date 2011-8-26
-import settings.scroll
+
 groups index
 keyboardNav
 permalink ack-and-ackmate.html

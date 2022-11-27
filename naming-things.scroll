@@ -1,3 +1,4 @@
+import header.scroll
 title Naming Things
 date 2012-10-20
 
@@ -8,7 +9,7 @@ date 2012-10-20
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * There's a feature in TextMate that lets me find and replace a word across all 400+ files in the project. If I am unhappy with my word choice for a variable or concept, I'll think about it for weeks if not months. I'll use Thesaurus.com, I'll read about similar concepts, I'll run a subconscious search for the simplest, best word. When I find it, I'll hit Command+Shift+F in TextMate and excitedly and carefully execute a find and replace across the whole project. Those are some of my favorite programming days--when I find a better name for an important part of the program.

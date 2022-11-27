@@ -1,6 +1,7 @@
+import header.scroll
 title About Me
 
-import settings.scroll
+
 
 * This is my personal Scroll. I am a software engineer, data science and probability
  enthusiast, programming language tinkerer, data curator,

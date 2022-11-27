@@ -1,6 +1,7 @@
+import header.scroll
 title Wildcard Subdomains with GoDaddy
 date 2011-4-24
-import settings.scroll
+
 groups index
 keyboardNav
 permalink wildcard-subdomains-with-godaddy.html

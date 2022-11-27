@@ -1,3 +1,4 @@
+import header.scroll
 title When forced to wait, wait!
 date 2010-01-14
 
@@ -8,7 +9,7 @@ date 2010-01-14
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I used to, and it made me less productive. I would try to squeeze more tasks into these short little idle periods, and as a result I would get less done.

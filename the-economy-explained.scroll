@@ -1,3 +1,4 @@
+import header.scroll
 title The Economy Explained
 date 2010-09-18
 
@@ -8,7 +9,7 @@ date 2010-09-18
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * The first idea is that the economy has a pulse and its been beating for thousands of years. The second is that the economy is like a brain and if you visualize it in that way you can make better decisions depending on your goals.

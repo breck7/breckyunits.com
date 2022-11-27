@@ -1,6 +1,7 @@
+import header.scroll
 title Plugins for Notepad++
 date 2010-2-6
-import settings.scroll
+
 groups index
 keyboardNav
 permalink plugins-for-notepad.html

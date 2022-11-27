@@ -1,3 +1,4 @@
+import header.scroll
 title Look for a Line
 date 2011-03-05
 
@@ -6,7 +7,7 @@ date 2011-03-05
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Let's use Groupon as a case study for the importance of lines. Groupon scoured Yelp for the best businesses in its cities--the businesses that had virtual lines of people writing positive reviews--and created huge lines for these businesses with their discounts. Other entrepreneurs saw the number of people lining up to purchase things from Groupon and created a huge line of clones. Investors saw other investors lining up to buy Groupon stock and hopped in line as well. Business is all about lines.

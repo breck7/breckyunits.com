@@ -1,6 +1,7 @@
+import header.scroll
 title RVM Quick Reference
 date 2011-0-12
-import settings.scroll
+
 groups index
 keyboardNav
 permalink rvm-quick-reference.html

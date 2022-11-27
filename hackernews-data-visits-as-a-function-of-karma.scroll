@@ -1,3 +1,4 @@
+import header.scroll
 title HackerNews Data: Visits as a Function of Karma
 date 2010-03-08
 
@@ -14,7 +15,7 @@ image visits_by_karma.png
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * The Pearson Correlation is high: 0.894. Here's the raw data:

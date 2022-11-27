@@ -1,6 +1,7 @@
+import header.scroll
 title Amazing SSH Tricks
 date 2011-7-16
-import settings.scroll
+
 groups index
 keyboardNav
 permalink amazing-ssh-tricks.html

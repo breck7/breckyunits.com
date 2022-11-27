@@ -1,6 +1,7 @@
+import header.scroll
 title Cool Way to Duplicate a Finder Window in the Current Directory
 date 2011-10-14
-import settings.scroll
+
 groups index
 keyboardNav
 permalink cool-way-to-duplicate-a-finder-window-in-the-current-directory.html

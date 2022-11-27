@@ -1,8 +1,9 @@
+import header.scroll
 title Time
 date 2013-04-01
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 quote

@@ -1,3 +1,4 @@
+import header.scroll
 title A scratch ticket with a positive expected value
 date 10/07/2022
 
@@ -44,7 +45,7 @@ endSnippet
 image pmarca.png
  caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
 
-import settings.scroll
+
 maxColumns 2
 groups index
 keyboardNav

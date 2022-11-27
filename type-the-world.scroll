@@ -1,3 +1,4 @@
+import header.scroll
 title Type the World
 date 2020-01-20
 
@@ -8,7 +9,7 @@ date 2020-01-20
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # First, from the Land of Character Sets

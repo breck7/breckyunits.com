@@ -1,3 +1,4 @@
+import header.scroll
 title Design Matters. A lot.
 date 2010-07-02
 permalink design-matters-a-lot.html
@@ -11,7 +12,7 @@ permalink design-matters-a-lot.html
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I now think design is incredibly important, and on par with engineering. I used to think a poorly designed product was a matter of a company setting the right priorities, now I think it reflects ignorance, laziness or mediocrity. If a company engineers a great product but fails to put forward a great design, it says:

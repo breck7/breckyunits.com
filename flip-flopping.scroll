@@ -1,3 +1,4 @@
+import header.scroll
 title Flip Flopping
 date 2010-06-16
 
@@ -5,7 +6,7 @@ date 2010-06-16
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * The awesome thing was that these were very smart, persuasive guys. I'd change my mind a dozen times during these meetings. Without fail, whichever side spoke last would have convinced me that not only should we have a Pirate themed party, but that it was quite possibly one of the most important decisions we would ever make. 

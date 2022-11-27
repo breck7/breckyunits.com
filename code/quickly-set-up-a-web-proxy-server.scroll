@@ -1,6 +1,7 @@
+import header.scroll
 title Quickly Set up a Web Proxy Server
 date 2011-3-13
-import settings.scroll
+
 groups index
 keyboardNav
 permalink quickly-set-up-a-web-proxy-server.html

@@ -1,3 +1,4 @@
+import header.scroll
 title Culture and Complexity 
 date 2010-06-14
 
@@ -11,7 +12,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * The Emperor Penguins are born into this Culture. The Culture survives because the offspring keep repeating the process. The Emperor Penguins survive because the process seems to keep them safe from predators and close to mates. The culture and the species depend on each other.

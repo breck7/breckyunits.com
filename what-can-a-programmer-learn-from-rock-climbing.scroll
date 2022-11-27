@@ -1,3 +1,4 @@
+import header.scroll
 title What can a Programmer learn from Rock Climbing?
 date 2011-03-30
 
@@ -10,7 +11,7 @@ date 2011-03-30
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * 2. *_Really_ push yourself.* In rock climbing you sometimes have these points where you're scared--no, where you're <i>fucking petrified</i>--that you're going to fall and get hurt or die and you're hanging on to the rock for dear life, pouring sweat, and you've got to overcome it. In programming you should <i>seek out moments like these</i>. It will never be that extreme of course, but you should find those spots where you are afraid of falling and push yourself to conquer them. It might be a project whose scope is way beyond anything you've attempted before, or a task that requires advanced math, or a language that scares the crap out of you. My climbing instructor here was this Thai guy named Nu. He's the second best speed climber in Thailand and has been climbing for fifteen years. The other day I was walking by a climbing area and saw Nu banging his chest and yelling at the top of his lungs. I asked a bystander what was going on and he told me that Nu was struggling with the crux of a route and was psyching himself up to overcome it. That's why he's a master climber. Because he's been climbing for over fifteen years and he's _still seeking out those challenges that scare him_. 

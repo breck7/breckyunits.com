@@ -1,6 +1,7 @@
+import header.scroll
 title Great Overview of Linux Command Line
 date 2011-10-11
-import settings.scroll
+
 groups index
 keyboardNav
 permalink great-overview-of-linux-command-line.html

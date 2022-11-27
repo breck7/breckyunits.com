@@ -1,3 +1,4 @@
+import header.scroll
 title Don't Flip the Bozo Bit
 date 2009-12-13
 
@@ -8,7 +9,7 @@ date 2009-12-13
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # What it means

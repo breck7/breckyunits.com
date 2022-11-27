@@ -1,3 +1,4 @@
+import header.scroll
 title Flee the Bubble
 date 2010-01-05
 
@@ -15,7 +16,7 @@ spaceTable
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * If you haven't launched, you're probably in the bubble. If you're in "stealth mode", you're probably in the bubble. If you're not "launching early and often", you're probably in the bubble. If you're not regularly talking to users/customers, you're probably in the bubble. If there's not a steady uptick in the number of users in love with your product, you're probably in the bubble.

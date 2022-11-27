@@ -1,6 +1,7 @@
+import header.scroll
 title Remove all DS_Store files recursively
 date 2010-9-29
-import settings.scroll
+
 groups index
 keyboardNav
 permalink remove-all-ds_store-files-recursively.html

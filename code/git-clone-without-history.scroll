@@ -1,6 +1,7 @@
+import header.scroll
 title git clone without history
 date 2010-0-11
-import settings.scroll
+
 groups index
 keyboardNav
 permalink git-clone-without-history.html

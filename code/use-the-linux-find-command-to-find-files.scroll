@@ -1,6 +1,7 @@
+import header.scroll
 title Use the linux find command to find files
 date 2009-11-25
-import settings.scroll
+
 groups index
 keyboardNav
 permalink use-the-linux-find-command-to-find-files.html

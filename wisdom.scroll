@@ -1,3 +1,4 @@
+import header.scroll
 title Wisdom: a Tiny Language for Great Advice
 date 2021-05-06
 permalink wisdom-a-tiny-language-for-great-advice.html
@@ -23,7 +24,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.

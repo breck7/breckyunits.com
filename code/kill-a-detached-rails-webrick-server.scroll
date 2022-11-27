@@ -1,6 +1,7 @@
+import header.scroll
 title Kill a Detached Rails Webrick Server
 date 2010-8-9
-import settings.scroll
+
 groups index
 keyboardNav
 permalink kill-a-detached-rails-webrick-server.html

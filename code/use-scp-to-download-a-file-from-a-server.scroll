@@ -1,6 +1,7 @@
+import header.scroll
 title Use scp to download a file from a server
 date 2010-0-21
-import settings.scroll
+
 groups index
 keyboardNav
 permalink use-scp-to-download-a-file-from-a-server.html

@@ -1,3 +1,4 @@
+import header.scroll
 title What Percentage of the Brain Does What?
 date 2010-08-23
 
@@ -8,7 +9,7 @@ date 2010-08-23
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * In a restaurant the majority of the workers are involved with serving, then a smaller number of employees are involved with cooking, and still a smaller number of people are involved with managing.

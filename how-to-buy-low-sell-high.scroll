@@ -1,3 +1,4 @@
+import header.scroll
 title How to Buy Low, Sell High
 date 2010-01-12
 
@@ -8,7 +9,7 @@ date 2010-01-12
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # Let the market serve you, not instruct you.

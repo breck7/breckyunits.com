@@ -1,3 +1,4 @@
+import header.scroll
 title My LongBets.org prediction on cancer
 date 10/20/2022
 
@@ -37,7 +38,7 @@ endSnippet
 
 image longNowCancer.png
 
-import settings.scroll
+
 maxColumns 1
 columnWidth 60
 groups index

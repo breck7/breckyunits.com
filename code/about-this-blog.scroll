@@ -1,6 +1,7 @@
+import header.scroll
 title About this Blog
 date 2009-11-18
-import settings.scroll
+
 groups index
 keyboardNav
 permalink about-this-blog.html

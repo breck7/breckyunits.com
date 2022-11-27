@@ -1,8 +1,9 @@
+import header.scroll
 title Ohayo
 date 2017-06-23
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I just pushed a project I've been working on called Ohayo.

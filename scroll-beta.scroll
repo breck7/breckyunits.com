@@ -1,3 +1,4 @@
+import header.scroll
 title Scroll Beta
 date 2021-02-22
 
@@ -18,7 +19,7 @@ date 2021-02-22
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Scroll brings back <i>some</i> of the magic of newspapers.

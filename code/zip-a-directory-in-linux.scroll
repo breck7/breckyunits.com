@@ -1,6 +1,7 @@
+import header.scroll
 title zip a directory in linux
 date 2011-8-9
-import settings.scroll
+
 groups index
 keyboardNav
 permalink zip-a-directory-in-linux.html

@@ -1,6 +1,7 @@
+import header.scroll
 title Case sensitivity in MySQL table names and lower_case_table_names
 date 2010-2-27
-import settings.scroll
+
 groups index
 keyboardNav
 permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html

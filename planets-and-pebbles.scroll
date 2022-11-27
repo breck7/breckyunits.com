@@ -1,8 +1,9 @@
+import header.scroll
 title Planets and Pebbles
 date 2012-11-26
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * For todo lists, I created a system I call planets and pebbles.

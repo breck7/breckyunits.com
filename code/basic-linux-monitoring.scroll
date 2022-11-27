@@ -1,6 +1,7 @@
+import header.scroll
 title Basic Linux Monitoring
 date 2011-7-9
-import settings.scroll
+
 groups index
 keyboardNav
 permalink basic-linux-monitoring.html

@@ -1,3 +1,4 @@
+import header.scroll
 title Backpack the World with Zero Planning
 date 2011-03-04
 
@@ -10,7 +11,7 @@ date 2011-03-04
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * <b>save, save, save</b>. make sure you save enough so that when your trip ends you won't come home broke. $12,000 would be a large enough amount to travel for a long time and still come back with money to get you resettled easily.

@@ -1,3 +1,4 @@
+import header.scroll
 title Thoughts on Setting Goals
 date 2009-12-23
 
@@ -11,7 +12,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # Make them Good

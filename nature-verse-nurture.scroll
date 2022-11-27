@@ -1,3 +1,4 @@
+import header.scroll
 title Nature Verse Nurture
 date 2010-08-25
 
@@ -6,7 +7,7 @@ date 2010-08-25
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Across every dimension in life your genes are both a glass ceiling--preventing you from reaching certain heights--and a cement foundation--making it unlikely you'll hit certain lows. How tall/short you will be, how smart/dumb you will be, how mean/nice you will be, how popular/lonely you will be, how athletic/clumsy, how fat/skinny, how talkative/quiet, how long/short you'll live, and so forth.

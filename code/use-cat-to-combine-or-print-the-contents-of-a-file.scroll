@@ -1,6 +1,7 @@
+import header.scroll
 title Use cat to combine or print the contents of a file
 date 2010-0-26
-import settings.scroll
+
 groups index
 keyboardNav
 permalink use-cat-to-combine-or-print-the-contents-of-a-file.html

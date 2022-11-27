@@ -1,3 +1,4 @@
+import header.scroll
 title How the public domain can win
 date 08-30-2022
 
@@ -49,7 +50,7 @@ endSnippet
 
 groups index
 
-import settings.scroll
+
 maxColumns 1
 columnWidth 53
 keyboardNav

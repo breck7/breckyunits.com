@@ -1,3 +1,4 @@
+import header.scroll
 title Dreaming of a Data Checked Language
 date 2020-01-3
 
@@ -10,7 +11,7 @@ date 2020-01-3
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * By data error I mean one the following errors: a statement

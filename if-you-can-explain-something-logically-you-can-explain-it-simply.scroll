@@ -1,3 +1,4 @@
+import header.scroll
 title If you can explain something logically, you can explain it simply
 date 2010-01-18
 
@@ -15,7 +16,7 @@ chat
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 chat

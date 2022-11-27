@@ -1,3 +1,4 @@
+import header.scroll
 title Building a TreeBase with 6.5 million files
 date 2020-01-29
 permalink building-a-treebase-with-6.5-million-files.html
@@ -9,7 +10,7 @@ permalink building-a-treebase-with-6.5-million-files.html
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * For example, in this tiny demo <a href="https://github.com/treenotation/jtree/blob/master/treeBase/planets">TreeBase of the planets</a> the file <code>mars.planet</code> looks like this:

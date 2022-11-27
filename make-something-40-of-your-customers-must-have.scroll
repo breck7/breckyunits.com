@@ -1,3 +1,4 @@
+import header.scroll
 title Make Something 40% of Your Customers Must Have
 date 2009-12-16
 
@@ -9,7 +10,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Your steps are then: 

@@ -1,3 +1,4 @@
+import header.scroll
 title Write Thin to Write Fast
 date 2021-10-15
 
@@ -18,7 +19,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * At my current font-size, my laptop screen could easily support 180 characters across<a href="#monitorFootnote"></a>. But if my words spread across the full screen, I write slower and produce worse content.

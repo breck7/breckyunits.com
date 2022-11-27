@@ -1,3 +1,4 @@
+import header.scroll
 title Aftertext
 
 date 12/15/2021
@@ -26,7 +27,7 @@ code
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:

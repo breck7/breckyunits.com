@@ -1,6 +1,7 @@
+import header.scroll
 title Windows 7 Hosts File
 date 2010-8-14
-import settings.scroll
+
 groups index
 keyboardNav
 permalink windows-7-hosts-file.html

@@ -1,6 +1,7 @@
+import header.scroll
 title Rubyful Soup
 date 2010-8-14
-import settings.scroll
+
 groups index
 keyboardNav
 permalink rubyful-soup.html

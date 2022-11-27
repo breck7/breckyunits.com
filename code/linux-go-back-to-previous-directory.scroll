@@ -1,6 +1,7 @@
+import header.scroll
 title Linux Go Back to Previous Directory
 date 2010-2-1
-import settings.scroll
+
 groups index
 keyboardNav
 permalink linux-go-back-to-previous-directory.html

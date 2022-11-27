@@ -1,6 +1,7 @@
+import header.scroll
 title New tricks in Vim
 date 2010-0-29
-import settings.scroll
+
 groups index
 keyboardNav
 permalink new-tricks-in-vim.html

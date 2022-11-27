@@ -1,6 +1,7 @@
+import header.scroll
 title Recursive Sed
 date 2011-8-5
-import settings.scroll
+
 groups index
 keyboardNav
 permalink recursive-sed.html

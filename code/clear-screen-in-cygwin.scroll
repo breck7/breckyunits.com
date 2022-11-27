@@ -1,6 +1,7 @@
+import header.scroll
 title Clear screen in cygwin
 date 2010-0-20
-import settings.scroll
+
 groups index
 keyboardNav
 permalink clear-screen-in-cygwin.html

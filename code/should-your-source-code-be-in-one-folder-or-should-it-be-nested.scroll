@@ -1,6 +1,7 @@
+import header.scroll
 title Should your source code be in one folder or should it be nested?
 date 2010-1-25
-import settings.scroll
+
 groups index
 keyboardNav
 permalink should-your-source-code-be-in-one-folder-or-should-it-be-nested.html

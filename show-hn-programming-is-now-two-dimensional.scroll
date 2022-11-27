@@ -1,3 +1,4 @@
+import header.scroll
 title Show HN: Programming is Now Two-Dimensional
 date 2017-06-21
 
@@ -10,7 +11,7 @@ date 2017-06-21
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:

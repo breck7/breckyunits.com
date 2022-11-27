@@ -1,3 +1,4 @@
+import header.scroll
 title The Hidden Benefits of Automation
 date 2010-03-17
 
@@ -14,7 +15,7 @@ date 2010-03-17
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # An Example

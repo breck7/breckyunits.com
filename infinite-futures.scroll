@@ -1,8 +1,9 @@
+import header.scroll
 title Infinite Futures
 date 2013-02-12
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * You shouldn't plan for <i>the</i> future. You should plan for <b>one of many</b> futures.

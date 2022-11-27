@@ -1,6 +1,7 @@
+import header.scroll
 title New shortcuts
 date 2011-8-14
-import settings.scroll
+
 groups index
 keyboardNav
 permalink new-shortcuts.html

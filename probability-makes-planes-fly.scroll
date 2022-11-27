@@ -1,3 +1,4 @@
+import header.scroll
 title Probability Makes Planes Fly
 date 2012-12-18
 
@@ -8,7 +9,7 @@ date 2012-12-18
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * The past few years I've had the opportunity to spend thousands of hours practicing programming and studying computers. I now understand, in depth, one complex system. I feel I can finally answer the general question about complex systems with a very simple answer.

@@ -1,3 +1,4 @@
+import header.scroll
 title 6 Specific Ways to Find Programming Mentors
 date 2009-12-08
 
@@ -6,7 +7,7 @@ date 2009-12-08
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Great coders travel in packs, just like great authors.  

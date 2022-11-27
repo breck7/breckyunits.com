@@ -1,6 +1,7 @@
+import header.scroll
 title pwd while in a symlink directory
 date 2010-3-1
-import settings.scroll
+
 groups index
 keyboardNav
 permalink pwd-while-in-a-symlink-directory.html

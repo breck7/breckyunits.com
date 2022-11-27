@@ -1,3 +1,4 @@
+import header.scroll
 title SEO Made Easy: LUMPS
 date 2009-12-15
 
@@ -14,7 +15,7 @@ date 2009-12-15
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for. 

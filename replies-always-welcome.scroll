@@ -1,3 +1,4 @@
+import header.scroll
 title Replies always welcome
 date 11/14/2022
 
@@ -14,6 +15,6 @@ image noNoReplies.png
 image gmailFilter.png
  caption Join the fight against noreply email addresses. 
 
-import settings.scroll
+
 groups index
 keyboardNav

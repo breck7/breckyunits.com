@@ -1,3 +1,4 @@
+import header.scroll
 title Save Your Money for Great Values
 date 2013-02-16
 
@@ -6,7 +7,7 @@ date 2013-02-16
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Purchasing decisions have little direct downside. You most often get your money's worth.

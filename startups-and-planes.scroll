@@ -1,8 +1,9 @@
+import header.scroll
 title Startups and Planes
 date 2013-02-24
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * It is a popular misconception that most startups need to fail. We expect 0% of planes to crash. Yet we switch subjects from planes to startups and then suddenly a 100% success rate is out of the question.

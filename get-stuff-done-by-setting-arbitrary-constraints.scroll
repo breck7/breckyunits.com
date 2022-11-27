@@ -1,3 +1,4 @@
+import header.scroll
 title Get Stuff Done By Setting Arbitrary Constraints
 date 2009-12-10
 
@@ -10,7 +11,7 @@ date 2009-12-10
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # Constraints Help You Focus

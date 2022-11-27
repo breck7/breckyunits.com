@@ -1,3 +1,4 @@
+import header.scroll
 title How Old Are These Keys?
 
 image keyboard/screenshot.png
@@ -16,7 +17,7 @@ date 2020-02-25
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 # The Five Waves of Symbols

@@ -1,3 +1,4 @@
+import header.scroll
 title Metrics for Programmers
 date 2010-03-16
 
@@ -6,7 +7,7 @@ date 2010-03-16
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.

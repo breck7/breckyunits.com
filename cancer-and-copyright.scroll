@@ -1,3 +1,4 @@
+import header.scroll
 title Cancer and Copyright
 date 10/04/2022
 
@@ -35,7 +36,7 @@ endSnippet
 
 author https://github.com/breck7 Breck Yunits, University of Hawai'i Cancer Center (laid off, now just a volunteer)
 
-import settings.scroll
+
 maxColumns 2
 groups index
 keyboardNav

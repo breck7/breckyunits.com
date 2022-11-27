@@ -1,6 +1,7 @@
+import header.scroll
 title cron in 2 steps
 date 2009-11-25
-import settings.scroll
+
 groups index
 keyboardNav
 permalink cron-in-2-steps.html

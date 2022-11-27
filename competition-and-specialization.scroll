@@ -1,3 +1,4 @@
+import header.scroll
 title Competition and Specialization
 date 2010-06-28
 
@@ -6,7 +7,7 @@ date 2010-06-28
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * <b>Competition</b>. Company 1 and Company 2 both try to solve problem A. The competition will lead to a better outcome for the consumer.

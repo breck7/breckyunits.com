@@ -1,3 +1,4 @@
+import header.scroll
 title "Insist on Focus" - Keith Rabois describes working at PayPal
 date 2021-02-28 2
 permalink insist-on-focus.html
@@ -13,7 +14,7 @@ quote
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 quote

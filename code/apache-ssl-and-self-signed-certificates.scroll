@@ -1,6 +1,7 @@
+import header.scroll
 title Apache, SSL and self signed certificates
 date 2011-8-14
-import settings.scroll
+
 groups index
 keyboardNav
 permalink apache-ssl-and-self-signed-certificates.html

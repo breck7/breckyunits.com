@@ -1,3 +1,4 @@
+import header.scroll
 title Minor Epiphanies
 date 2013-03-16
 
@@ -12,7 +13,7 @@ date 2013-03-16
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Minor epiphanies. Anyone who's programmed for a while can appreciate that term.

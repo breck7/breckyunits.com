@@ -1,6 +1,7 @@
+import header.scroll
 title ANSI or ASCII and Unicode or UTF-8 and Newlines
 date 2010-2-25
-import settings.scroll
+
 groups index
 keyboardNav
 permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html

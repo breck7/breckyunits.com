@@ -1,3 +1,4 @@
+import header.scroll
 title Some old blogs
 date 2021-05-07
 permalink some-old-blogs.html
@@ -9,7 +10,7 @@ permalink some-old-blogs.html
 # August 2007 - Running Wordpress on my own domain
 
 groups index
-import settings.scroll
+
 keyboardNav
 
 * It looks like I registered breckyunits.com on August 24th, 2007. It appears I used Wordpress <a class="wayback" href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">🕸</a>.

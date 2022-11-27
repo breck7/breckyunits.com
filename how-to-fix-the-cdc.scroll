@@ -1,3 +1,4 @@
+import header.scroll
 title How to fix the CDC
 date 2021-03-30
 
@@ -84,6 +85,6 @@ image cdc.jpeg
 - * Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
 groups index
-import settings.scroll
+
 keyboardNav
 openGraphImage https://breckyunits.com/cdc.jpeg

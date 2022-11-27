@@ -1,3 +1,4 @@
+import header.scroll
 title Four Tips to Improve Communication
 date 2010-01-29
 
@@ -8,7 +9,7 @@ date 2010-01-29
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Here are 4 tips that will bring you closer to overcommunicating:

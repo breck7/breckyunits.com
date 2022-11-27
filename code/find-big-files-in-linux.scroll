@@ -1,6 +1,7 @@
+import header.scroll
 title Find big files in Linux
 date 2011-10-06
-import settings.scroll
+
 groups index
 keyboardNav
 permalink find-big-files-in-linux.html

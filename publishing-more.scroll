@@ -1,3 +1,4 @@
+import header.scroll
 title Publishing More
 date 2012-11-25
 
@@ -8,7 +9,7 @@ date 2012-11-25
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * It hasn't been a lack of ideas. All my essays start with a note to self. I have just as many notes to self nowadays as I did back then.

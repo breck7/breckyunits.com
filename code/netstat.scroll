@@ -1,6 +1,7 @@
+import header.scroll
 title netstat
 date 2011-8-1
-import settings.scroll
+
 groups index
 keyboardNav
 permalink netstat.html

@@ -1,6 +1,7 @@
+import header.scroll
 title Dump MySQL schema only
 date 2010-3-10
-import settings.scroll
+
 groups index
 keyboardNav
 permalink dump-mysql-schema-only.html

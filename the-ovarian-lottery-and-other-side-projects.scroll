@@ -1,3 +1,4 @@
+import header.scroll
 title The Ovarian Lottery and Other Side Projects
 date 2010-08-11
 
@@ -86,5 +87,5 @@ comment
  Relevant photo (and thread): https://twitter.com/SlowwCo/status/1458263107885617153/photo/2
 
 groups index
-import settings.scroll
+
 keyboardNav

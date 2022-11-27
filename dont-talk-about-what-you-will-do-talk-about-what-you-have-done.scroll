@@ -1,3 +1,4 @@
+import header.scroll
 title Don't talk about what you will do, talk about what you have done
 date 2010-02-19
 
@@ -8,7 +9,7 @@ date 2010-02-19
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.

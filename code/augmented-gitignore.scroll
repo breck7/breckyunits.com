@@ -1,6 +1,7 @@
+import header.scroll
 title Augmented Gitignore
 date 2010-8-4
-import settings.scroll
+
 groups index
 keyboardNav
 permalink augmented-gitignore.html

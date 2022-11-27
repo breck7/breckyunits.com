@@ -1,6 +1,7 @@
+import header.scroll
 title Git Clone over SSH
 date 07/08/2021
-import settings.scroll
+
 groups index
 keyboardNav
 

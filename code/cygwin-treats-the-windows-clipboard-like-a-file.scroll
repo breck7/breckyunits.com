@@ -1,6 +1,7 @@
+import header.scroll
 title Cygwin treats the Windows Clipboard like a file
 date 2010-0-30
-import settings.scroll
+
 groups index
 keyboardNav
 permalink cygwin-treats-the-windows-clipboard-like-a-file.html

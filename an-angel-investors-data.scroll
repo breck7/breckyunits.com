@@ -1,3 +1,4 @@
+import header.scroll
 title An Angel Investor's Data
 date 9/1/2022
 
@@ -42,7 +43,7 @@ readingList
 
 
 
-import settings.scroll
+
 maxColumns 2
 groups index
 keyboardNav

@@ -1,3 +1,4 @@
+import header.scroll
 title Problems Worth Solving
 date 2009-12-20
 
@@ -8,7 +9,7 @@ date 2009-12-20
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Here's one rubric you can use to test whether a problem is worth solving:

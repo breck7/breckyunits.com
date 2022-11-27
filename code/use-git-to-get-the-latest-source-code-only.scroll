@@ -1,6 +1,7 @@
+import header.scroll
 title Use git to get the latest source code only
 date 2009-11-27
-import settings.scroll
+
 groups index
 keyboardNav
 permalink use-git-to-get-the-latest-source-code-only.html

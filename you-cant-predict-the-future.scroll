@@ -1,3 +1,4 @@
+import header.scroll
 title You Can't Predict the Future
 date 2010-08-25
 
@@ -6,7 +7,7 @@ date 2010-08-25
 
 endSnippet
 groups index
-import settings.scroll
+
 keyboardNav
 
 * Apparently this is because many things in our world are "chaotic". Small errors in your predictions get compounded over time. 10 day weather forecasts are notoriously inaccurate despite the fact that teams of the highest IQ'd people on earth have been working on them for years. I don't understand the math behind chaos but I believe in the basic ideas. 
