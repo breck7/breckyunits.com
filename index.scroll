@@ -1,6 +1,5 @@
 import header.scroll
 title Breck Yunits' Scroll
 description Some writing about probability, programming, economics and life.
-scrollSnippets index
-import footer.scroll
+snippets index
 import footer.scroll
