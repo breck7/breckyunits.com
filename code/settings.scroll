@@ -6,4 +6,3 @@ baseUrl https://breckyunits.com/code/
 viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/code
 rssFeedUrl feed.xml
 email breck7@gmail.com
-scrollCss scrollStyle.css

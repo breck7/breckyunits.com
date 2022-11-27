@@ -1,4 +1,2 @@
 permalink scrollStyle.css
-template blank
-printScrollCSS
-import footer.scroll
+scrollCss
