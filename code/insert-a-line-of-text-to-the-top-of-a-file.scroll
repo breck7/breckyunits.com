@@ -1,5 +1,6 @@
 import header.scroll
 title Insert a line of text to the top of a file
+startColumns 2
 date 2010-5-29
 
 groups index

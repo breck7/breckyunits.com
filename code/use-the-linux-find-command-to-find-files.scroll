@@ -1,5 +1,6 @@
 import header.scroll
 title Use the linux find command to find files
+startColumns 2
 date 2009-11-25
 
 groups index

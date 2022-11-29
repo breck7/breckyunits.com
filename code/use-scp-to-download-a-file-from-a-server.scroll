@@ -1,5 +1,6 @@
 import header.scroll
 title Use scp to download a file from a server
+startColumns 2
 date 2010-0-21
 
 groups index

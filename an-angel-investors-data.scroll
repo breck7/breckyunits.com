@@ -1,5 +1,6 @@
 import header.scroll
 title An Angel Investor's Data
+startColumns 2
 date 9/1/2022
 
 openGraphImage https://breckyunits.com/angelData.png
@@ -44,7 +45,7 @@ readingList
 
 
 
-maxColumns 2
+
 groups index
 keyboardNav
 import footer.scroll

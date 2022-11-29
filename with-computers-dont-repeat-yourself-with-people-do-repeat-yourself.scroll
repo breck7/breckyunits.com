@@ -1,5 +1,6 @@
 import header.scroll
 title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
+startColumns 2
 date 2010-01-15
 
 * In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."

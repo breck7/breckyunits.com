@@ -1,5 +1,6 @@
 import header.scroll
 title Change the file owner or group in Linux
+startColumns 2
 date 2010-1-8
 
 groups index

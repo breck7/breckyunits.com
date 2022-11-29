@@ -1,5 +1,6 @@
 import header.scroll
 title Apache, SSL and self signed certificates
+startColumns 2
 date 2011-8-14
 
 groups index
@@ -51,6 +52,6 @@ code
  SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
 
-maxColumns 1
+
 
 import footer.scroll

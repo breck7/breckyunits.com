@@ -1,5 +1,6 @@
 import header.scroll
 title Money is Meant to Circulate
+startColumns 2
 
 groups index
 

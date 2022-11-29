@@ -1,5 +1,6 @@
 import header.scroll
 title Infinite Futures
+startColumns 2
 date 2013-02-12
 
 groups index

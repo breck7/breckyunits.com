@@ -1,5 +1,6 @@
 import header.scroll
 title How Old Are These Keys?
+startColumns 2
 
 image keyboard/screenshot.png
 
@@ -80,5 +81,5 @@ keyboardNav
 
 * I made the thing as fun as I could given time constraints and then shipped.
 
-maxColumns 2
+
 import footer.scroll

@@ -1,5 +1,6 @@
 import header.scroll
 title When forced to wait, wait!
+startColumns 2
 date 2010-01-14
 
 * When a problem you are working on forces you to wait, do you wait or switch tasks?

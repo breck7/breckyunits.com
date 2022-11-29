@@ -1,5 +1,6 @@
 import header.scroll
 title cron in 2 steps
+startColumns 2
 date 2009-11-25
 
 groups index

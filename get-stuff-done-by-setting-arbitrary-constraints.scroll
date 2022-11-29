@@ -1,5 +1,6 @@
 import header.scroll
 title Get Stuff Done By Setting Arbitrary Constraints
+startColumns 2
 date 2009-12-10
 
 * Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints". 

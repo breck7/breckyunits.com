@@ -1,5 +1,6 @@
 import header.scroll
 title Create a new user in Linux
+startColumns 2
 date 2010-0-5
 
 groups index

@@ -1,5 +1,6 @@
 import header.scroll
 title User Methods
+startColumns 2
 
 date 8/11/2021
 
@@ -116,6 +117,6 @@ image userMethods/testing.png
 
 * Yes. But they are a special category of PublicMethod and it's a distinction worth making. You want all your UserMethods available programmatically like the rest of your PublicMethods (for example, when writing tests), but you wouldn't want to show your users all PublicMethods in something like a Command Palette.
 
-maxColumns 1
+
 
 import footer.scroll

@@ -1,5 +1,6 @@
 import header.scroll
 title Case sensitivity in MySQL table names and lower_case_table_names
+startColumns 2
 date 2010-2-27
 
 groups index

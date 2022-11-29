@@ -1,5 +1,6 @@
 import header.scroll
 title Amazing SSH Tricks
+startColumns 2
 date 2011-7-16
 
 groups index

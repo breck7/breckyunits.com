@@ -1,5 +1,6 @@
 import header.scroll
 title Diversification in Startups
+startColumns 2
 
 html
  <i>2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided.</i>

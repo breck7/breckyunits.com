@@ -1,5 +1,6 @@
 import header.scroll
 title Circle of Competence
+startColumns 2
 date 2010-08-25
 
 groups index

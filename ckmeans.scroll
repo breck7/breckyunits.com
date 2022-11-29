@@ -1,5 +1,6 @@
 import header.scroll
 title The Three Byte Fix
+startColumns 2
 
 date 6/09/2022
 
@@ -10,7 +11,7 @@ date 6/09/2022
 
 * In the fall of 2020 users started reporting that our map charts had become slow.
 
-maxColumns 2
+
 
 image map-view.png
  caption Suddenly these charts were taking a long time to render.

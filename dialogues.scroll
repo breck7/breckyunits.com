@@ -1,5 +1,6 @@
 import header.scroll
 title Scrolldown now has Dialogues
+startColumns 2
 permalink dialogues.html
 
 chat

@@ -1,5 +1,6 @@
 import header.scroll
 title Root Thinking
+startColumns 2
 date 11/16/2022
 
 openGraphImage https://breckyunits.com/banyan.png

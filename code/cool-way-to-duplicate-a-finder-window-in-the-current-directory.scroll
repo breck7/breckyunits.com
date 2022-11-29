@@ -1,5 +1,6 @@
 import header.scroll
 title Cool Way to Duplicate a Finder Window in the Current Directory
+startColumns 2
 date 2011-10-14
 
 groups index

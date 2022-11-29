@@ -1,5 +1,6 @@
 import header.scroll
 title Austen Heinz
+startColumns 2
 date 10/18/2022
 
 openGraphImage https://breckyunits.com/austen.png
@@ -40,8 +41,8 @@ image heinz101.png
 * I will never ever believe Austen killed himself. Austen was never crazy. Austen was intelligent, tough, gentle, brave, bold, hard working, loving, funny, kind. It's society who has been crazy. Maybe it's time more people took Heinz 101.
 
 
-maxColumns 1
-columnWidth 60
+
+
 groups index
 keyboardNav
 import footer.scroll

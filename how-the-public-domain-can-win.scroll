@@ -1,5 +1,6 @@
 import header.scroll
 title How the public domain can win
+startColumns 2
 date 08-30-2022
 
 replace KEY_MESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
@@ -51,8 +52,8 @@ endSnippet
 groups index
 
 
-maxColumns 1
-columnWidth 53
+
+
 keyboardNav
 
 comment todo: Build a dataset of public domain products, as suggested by jmiven

@@ -1,9 +1,10 @@
 import header.scroll
 title The Power of Indented Heredocs: Markdown, Textile, and BBCode in one file with no escaping
+startColumns 2
 import markups.scroll
 date 08-23-2021
-maxColumns 1
-columnWidth 60
+
+
 permalink index.html
 viewSourceUrl https://github.com/breck7/breckyunits.com/tree/main/markups/readme.scroll
 scrollHeader

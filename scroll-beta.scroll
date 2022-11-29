@@ -1,5 +1,6 @@
 import header.scroll
 title Scroll Beta
+startColumns 2
 date 2021-02-22
 
 * Today I'm launching the beta of something new called

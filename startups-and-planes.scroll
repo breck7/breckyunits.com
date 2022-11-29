@@ -1,5 +1,6 @@
 import header.scroll
 title Startups and Planes
+startColumns 2
 date 2013-02-24
 
 groups index

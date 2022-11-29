@@ -1,5 +1,6 @@
 import header.scroll
 title Well YCombinator, we're going public anyway.
+startColumns 2
 date 11/05/2022
 
 openGraphImage https://breckyunits.com/secCodes.png
@@ -45,8 +46,8 @@ image grabBullByTheHorns.jpg
  caption I'll be back.
 
 
-maxColumns 1
-columnWidth 60
+
+
 groups index
 keyboardNav
 import footer.scroll

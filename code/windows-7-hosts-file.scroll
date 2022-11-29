@@ -1,5 +1,6 @@
 import header.scroll
 title Windows 7 Hosts File
+startColumns 2
 date 2010-8-14
 
 groups index

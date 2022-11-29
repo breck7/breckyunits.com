@@ -1,5 +1,6 @@
 import header.scroll
 title Dump MySQL schema only
+startColumns 2
 date 2010-3-10
 
 groups index

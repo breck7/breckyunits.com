@@ -1,5 +1,6 @@
 import header.scroll
 title wget don't save file
+startColumns 2
 date 2010-3-27
 
 groups index

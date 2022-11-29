@@ -1,5 +1,6 @@
 import header.scroll
 title Checklist for New Products
+startColumns 2
 date 2009-12-28
 
 * At <a href="http://bigorangehousestudios.com/">our startup</a>, we've practiced a <a href="https://breckyunits.com/diversification-in-startups.html">diversification strategy</a>.

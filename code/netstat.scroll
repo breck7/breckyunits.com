@@ -1,5 +1,6 @@
 import header.scroll
 title netstat
+startColumns 2
 date 2011-8-1
 
 groups index

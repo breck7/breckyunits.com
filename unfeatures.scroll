@@ -1,5 +1,6 @@
 import header.scroll
 title (un)features
+startColumns 2
 date 2009-12-11
 
 * Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:

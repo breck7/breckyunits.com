@@ -1,5 +1,6 @@
 import header.scroll
 title Wildcard Subdomains with GoDaddy
+startColumns 2
 date 2011-4-24
 
 groups index

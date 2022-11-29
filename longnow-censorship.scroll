@@ -1,5 +1,6 @@
 import header.scroll
 title My LongBets.org prediction on cancer
+startColumns 2
 date 10/20/2022
 
 openGraphImage https://breckyunits.com/longNowCancer.png
@@ -39,8 +40,8 @@ endSnippet
 image longNowCancer.png
 
 
-maxColumns 1
-columnWidth 60
+
+
 groups index
 keyboardNav
 import footer.scroll

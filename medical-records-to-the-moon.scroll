@@ -1,5 +1,6 @@
 import header.scroll
 title Medical Records to the Moon
+startColumns 2
 date 2020-03-02
 
 * A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: <b>in the future will someone's medical record stretch to the moon?</b>

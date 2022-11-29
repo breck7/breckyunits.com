@@ -1,5 +1,6 @@
 import header.scroll
 title What's Linear Algebra?
+startColumns 2
 date 2009-12-03
 
 * What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!

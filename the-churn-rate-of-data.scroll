@@ -1,5 +1,6 @@
 import header.scroll
 title The Churn Rate of Data
+startColumns 2
 date 2010-06-15
 
 groups index

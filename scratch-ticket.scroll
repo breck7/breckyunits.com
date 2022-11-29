@@ -1,5 +1,6 @@
 import header.scroll
 title A scratch ticket with a positive expected value
+startColumns 2
 date 10/07/2022
 
 openGraphImage https://breckyunits.com/seemewin.jpeg
@@ -46,7 +47,7 @@ image pmarca.png
  caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
 
 
-maxColumns 2
+
 groups index
 keyboardNav
 import footer.scroll

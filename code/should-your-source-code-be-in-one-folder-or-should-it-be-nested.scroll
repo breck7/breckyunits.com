@@ -1,5 +1,6 @@
 import header.scroll
 title Should your source code be in one folder or should it be nested?
+startColumns 2
 date 2010-1-25
 
 groups index

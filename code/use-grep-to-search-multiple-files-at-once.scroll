@@ -1,5 +1,6 @@
 import header.scroll
 title Use grep to search multiple files at once
+startColumns 2
 date 2009-11-22
 
 groups index

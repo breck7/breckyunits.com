@@ -1,5 +1,6 @@
 import header.scroll
 title The Hidden Benefits of Automation
+startColumns 2
 date 2010-03-17
 
 * If you automate a process which you repeat <i>Y</i> times, that takes <i>X</i> minutes, what would your payoff be?

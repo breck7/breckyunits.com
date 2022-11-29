@@ -1,5 +1,6 @@
 import header.scroll
 title Get VIM Working in Cygwin
+startColumns 2
 date 2009-11-20
 
 groups index
