@@ -1,5 +1,6 @@
-
-
-template group index
-
+import settings.scroll
+scrollCssTag
+scrollHeader
+title Breck Yunits' Code Blog
+snippets index
 import footer.scroll

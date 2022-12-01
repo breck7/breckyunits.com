@@ -1,11 +1,5 @@
-import header.scroll
+import settings.scroll
 title Breck Yunits' Scroll
-startColumns 2
 description Some writing about probability, programming, economics and life.
-
 permalink feed.xml
-
-template blank
 printFeed index
-
-import footer.scroll
