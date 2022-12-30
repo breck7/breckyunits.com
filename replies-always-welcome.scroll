@@ -16,6 +16,72 @@ image noNoReplies.png
 image gmailFilter.png
  caption Join the fight against noreply email addresses. 
 
+# My Gmail filter
+
+* Below is my Gmail filter. Paste it into `brecksFilter.xml` then go to Settings > Filters > Import filters. Join the fight to save email and restore human decency!
+
+xmlCode
+ <?xml version='1.0' encoding='UTF-8'?>
+ <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+     <title>Mail Filters</title>
+     <id>tag:mail.google.com,2008:filters:z0000001668441215282*0601353100407184173</id>
+     <updated>2022-12-30T11:45:22Z</updated>
+     <author>
+         <name>Breck Yunits</name>
+         <email>breck7@gmail.com</email>
+     </author>
+     <entry>
+         <category term='filter'></category>
+         <title>Mail Filter</title>
+         <id>tag:mail.google.com,2008:filter:z0000001668441215282*0601353100407184173</id>
+         <updated>2022-12-30T11:45:22Z</updated>
+         <content></content>
+         <apps:property name='from' value='noreply@* | no-reply@* | donotreply@*'/>
+         <apps:property name='label' value='NoReplySpam'/>
+         <apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:18562d933868aa1a'/>
+         <apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+         <apps:property name='sizeOperator' value='s_sl'/>
+         <apps:property name='sizeUnit' value='s_smb'/>
+     </entry>
+     <entry>
+         <category term='cannedResponse'></category>
+         <title>WarOnNoReplyEmailAddresses</title>
+         <id>tag:mail.google.com,2009:cannedResponse:18562d933868aa1a</id>
+         <updated>2022-12-30T11:45:22Z</updated>
+         <content type='html'>&lt;div dir="ltr"&gt;&lt;div&gt;Never send an email from a &amp;quot;no reply&amp;quot; email address.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inform your tech team to rethink their design.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&amp;#39;s bad customer service and like sending this:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;....................../´¯/) &lt;br&gt;....................,/¯../ &lt;br&gt;.................../..../ &lt;br&gt;............./´¯/&amp;#39;...&amp;#39;/´¯¯`·¸ &lt;br&gt;........../&amp;#39;/.../..../......./&lt;wbr&gt;¨¯\ &lt;br&gt;........(&amp;#39;(...´...´.... ¯~/&amp;#39;...&amp;#39;) &lt;br&gt;.........\.................&amp;#39;..&lt;wbr&gt;.../ &lt;br&gt;..........&amp;#39;&amp;#39;...\.......... _.·´ &lt;br&gt;............\..............( &lt;br&gt;..............\.............\.&lt;wbr&gt;..&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Learn more: &lt;a href="https://breckyunits.com/replies-always-welcome.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;amp;q=https://breckyunits.com/replies-always-welcome.html&amp;amp;source=gmail&amp;amp;ust=1672487122927000&amp;amp;usg=AOvVaw0wFT8VqAmM0qZqE3xQY_Cl"&gt;https://breckyunits.com/&lt;wbr&gt;replies-always-welcome.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
+ </content>
+     </entry>
+ </feed>
+
+
+# Specific examples
+
+* Again, there is never a valid reason to have a no reply email address. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+
+? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
+
+* Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
+
+? I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
+
+* Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
+
+? GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
+
+* Could be a `replyToDeauthorize@github.com` instead.
+
+? Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
+
+* Could be a `replyToStopTracking@google.com`
+
+? Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
+
+* Could be a `replyToUnsubscribe`
+
+? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
+
+* Could be a `replyToLeaveAReview`.
+
 
 groups index
 keyboardNav
