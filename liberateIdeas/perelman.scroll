@@ -345,9 +345,8 @@ date 4/01/2002
  than to promote the expansion of imaginary property rights.
 
 description #BringBackNapster
-github https://github.com/breck7
+git https://github.com/breck7
 viewSourceBaseUrl https://github.com/breck7
-twitter https://twitter.com/breckyunits
 email liberateidea@breckyunits.com
 
 import footer.scroll
