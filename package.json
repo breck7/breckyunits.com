@@ -8,13 +8,14 @@
   },
   "author": "Breck Yunits",
   "scripts": {
-    "build": "scroll list | scroll build"
+    "build": "scroll list | scroll build",
+    "open": "open index.html"
   },
   "bugs": {
     "url": "https://github.com/breck7/breckyunits.com/issues"
   },
   "homepage": "https://breckyunits.com",
   "dependencies": {
-    "scroll-cli": "^48.1.0"
+    "scroll-cli": "^48.2.0"
   }
 }

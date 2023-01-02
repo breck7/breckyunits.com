@@ -1,6 +1,6 @@
 import header.scroll
 title One Textarea
-startColumns 1
+startColumns 2
 date 12/30/2022
 
 openGraphImage https://breckyunits.com/oneTextarea.gif
@@ -16,7 +16,7 @@ image oneTextarea.gif
 
 endSnippet
 
-# The Web Form Racket
+# The Web Form Gravy Train
 
 * Being in the web form business is great. Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done. But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
 
