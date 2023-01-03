@@ -18,7 +18,7 @@ endSnippet
 
 * There are many other terms for _using the spine_. The off-side rule. Semantic indentation. Grid languages. Significant whitespace. I would define it as:
  https://pldb.com/posts/which-programming-languages-use-indentation.html Semantic indentation
- https://en.wikipedia.org/wiki/Off-side_rule Off-side rule
+ https://en.wikipedia.org/wiki/Off-side_rule off-side rule
 
 quote
  To use the spine is to recognize that all programs in your language will be read and written on surfaces with not only a horizontal but also a vertical axis—the spine—and thus you should design your language to exploit this free and guaranteed resource.
