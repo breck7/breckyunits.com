@@ -5,7 +5,7 @@ date 2021-04-26
 
 openGraphImage https://breckyunits.com/literacy.jpg
 
-* I present a new word<proof/>. *_Logeracy_*. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
+* I invented a new word: *_Logeracy_*^coinage. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
  link https://en.wikipedia.org/wiki/Logarithm logarithms
  link https://en.wikipedia.org/wiki/Literacy literacy
  dateline
@@ -50,7 +50,7 @@ keyboardNav
 
 # Measuring Logeracy
 
-* No country or organization measures logeracy yet<email/>. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
+* No country or organization measures logeracy yet^email. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
 
 image literacy.jpg
 
@@ -69,7 +69,7 @@ image literacy.jpg
 
 ? Where is logeracy currently taught well?
 
-* My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in Big O notation<bigO/>. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
+* My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in Big O notation^bigO. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
  https://en.wikipedia.org/wiki/Big_O_notation Big O notation
 
 * Perhaps its electrical engineers, or astronomers, or aerospace engineers. These folks are frequently working with vast scale differences so logeracy is required.
@@ -89,15 +89,15 @@ image literacy.jpg
 
 ? Is logeracy fractal?
 
-* Yes<guess/>. Some industries, like engineering, demand logeracy. A randomly selected engineer is likely to be 10x+ more logerate than a randomly selected member of the general population. But what about the distribution of logeracy within a field? Only recently did it occur to me how fractal logeracy is. A surprising number of engineers I've worked with seem to compartmentalize their logerate thinking to their work and act illogerate in fields outside of their own. In Hamming's book I was surprised to read over and over again how very few engineers he worked with (at the world's top "logerate" organizations) operated with his level of logeracy. Logeracy seems fractal.
+* Yes^guess. Some industries, like engineering, demand logeracy. A randomly selected engineer is likely to be 10x+ more logerate than a randomly selected member of the general population. But what about the distribution of logeracy within a field? Only recently did it occur to me how fractal logeracy is. A surprising number of engineers I've worked with seem to compartmentalize their logerate thinking to their work and act illogerate in fields outside of their own. In Hamming's book I was surprised to read over and over again how very few engineers he worked with (at the world's top "logerate" organizations) operated with his level of logeracy. Logeracy seems fractal.
 
 ? Can you be too logerate?
 
-* I don't think so. However, I do believe you can be out of balance. One needs to be _linerate_<uhoh/> as well as logerate. We have so many adages for people that focus _too much_ on the dominant-in-time term of an equation and not enough about the linear but dominant-now parts. Adages like "head in the clouds", "crackpot", "ahead of her time". We also have common wisdom for how to avoid that trap "a journey of a single step...", "do things that don't scale", so it is likely that being extremely logerate without lineracy is a real pitfall to be aware of.
+* I don't think so. However, I do believe you can be out of balance. One needs to be _linerate_^coinage2 as well as logerate. We have so many adages for people that focus _too much_ on the dominant-in-time term of an equation and not enough about the linear but dominant-now parts. Adages like "head in the clouds", "crackpot", "ahead of her time". We also have common wisdom for how to avoid that trap "a journey of a single step...", "do things that don't scale", so it is likely that being extremely logerate without lineracy is a real pitfall to be aware of.
 
 ? What about the term Numeracy?
 
-* I read Innumeracy and Beyond Numeracy by Paulos over a decade ago<numeracy/>. I love those books (and it's been too long since I reread them).
+* I read Innumeracy and Beyond Numeracy by Paulos over a decade ago^numeracy. I love those books (and it's been too long since I reread them).
 
 * Numeracy is a good term. Logeracy is a much better term. Someone logerate but innumerate often makes small mistakes. Someone numerate but illogerate often makes large mistakes.
 
@@ -114,18 +114,19 @@ image literacy.jpg
 
 # Notes
 
-* <proof>^ I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
+^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
  link logeracy.png proof
 
 image illogeracy.png
 
-* <bigO/>^ Even if you are familiar with Big O Notation, the orders of common functions table is a handy thing to periodically refresh on.
- 
-* <email/>^ As far as I can tell. If you know of population measures of logeracy please email me or send a pull request.
+^email As far as I can tell. If you know of population measures of logeracy please email me or send a pull request.
 
-* <guess/>^ Is my guess, anyway.
+^bigO Even if you are familiar with Big O Notation, the orders of common functions table is a handy thing to periodically refresh on.
 
-* <uhoh/>^ Uh oh, another coinage.
+^guess Is my guess, anyway.
 
-* <numeracy/>^ In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
+^coinage2 Uh oh, another coinage.
+
+^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
+
 import footer.scroll
