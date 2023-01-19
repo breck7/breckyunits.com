@@ -16,7 +16,7 @@ replace GrammarLinked <a href="https://jtree.treenotation.org/designer/#standard
 
 * ScrollLinked is a new language and static site generator that is mostly written in a new language called GrammarLinked which are both built on a new syntax called TreeNotationLinked.
 
-* In this demo, I extend Scroll by adding support for <a href="https://en.wikipedia.org/wiki/Markdown,">Markdown</a> <a href="https://en.wikipedia.org/wiki/Textile_(markup_language),">Textile</a> and <a href="https://en.wikipedia.org/wiki/BBCode.
+* In this demo, I extend Scroll by adding support for <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> <a href="https://en.wikipedia.org/wiki/Textile_(markup_language)">Textile</a> and <a href="https://en.wikipedia.org/wiki/BBCode.
 
 *">BBCode</a> My code is still a bit researchy and buggy, but I think the more important thing here is to demo how simple and powerful indented heredocs are. They allow you to compose many languages in a clean and scalable way. You don't need escaping. I think this is a very helpful pattern you can use in your own languages and code.
 

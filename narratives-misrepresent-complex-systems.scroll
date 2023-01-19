@@ -23,8 +23,7 @@ keyboardNav
 
 * Pick a range, and then <a onclick="document.getElementById('answer').style.display='block'" style="color:blue; cursor: pointer;">click here</a> to see the answer.
 
-html
- <div style="display: none;" id="answer">
+html <div style="display: none;" id="answer">
 
 * If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
 
@@ -86,7 +85,6 @@ image family_circus/9.png
 
 * (Influenced a lot by Taleb's new book, Antifragile.)
 
-html
- </div>
+html </div>
 
 import footer.scroll

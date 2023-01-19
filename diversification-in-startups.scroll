@@ -1,11 +1,11 @@
 import header.scroll
 title Diversification in Startups
-startColumns 2
-
-html
- <i>2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided.</i>
-
 date 2009-12-24
+startColumns 2
+groups index
+keyboardNav
+
+* _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
 
 * Over the past 6 months, our startup has taken two approaches to diversification. We initially tried no diversification and then we tried heavy diversification.
  dateline
@@ -16,9 +16,6 @@ quote
  Diversify heavily early. Then focus.
 
 endSnippet
-groups index
-
-keyboardNav
 
 * In the early stages of your startup, put no more than 33% of your resources into any one idea. When you've hit upon an idea that you're excited about and that has product/market fit, then switch and put 80% or more of your resources into that idea.
 
