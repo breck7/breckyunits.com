@@ -1,0 +1,39 @@
+import header.scroll
+groups index
+keyboardNav
+startColumns 2
+date 1/27/2023
+
+title SafeFS
+
+## _Or: If lawyers invented a filesystem_
+
+* Today the trade group _Lawyers Also Build In America_ announced a new file system: SAFEFS. This breakthrough file system provides 4 key benefits:
+ dateline
+
+endSnippet
+
+# 1. Advanced obfuscation keeps jobs SAFE
+* Traditional file systems take a signal and store the 1's and 0's directly. In a pinch, a human can always look at those 1's and 0's with a key and understand the file. This robust, efficient approach is sub-optimal when it comes to job creation. By using custom hardware chips to obfuscate data on write, SafeFS creates:
+
+## More hardware jobs
+* These additional chips lead to an increase in employment not only in chip design and manufacturing, but also in licensing and other legal jobs.
+
+## More energy jobs
+* The obfuscating and de-obfuscating processes increase power usage, increasing jobs in the fossil fuel and other energy industries.
+
+## More research jobs
+* SafeFS ensures that in any catastrophe, information is lost forever, meaning much of humanity's work will need to be redone, leading to further research jobs.
+
+# 2. SAFE from competition
+* Traditional file systems make it easy to access, edit, and remix files in limitless ways. SafeFS provides a much simpler user experience by providing read-only access to files. Which apps are granted read-only access can also be controlled, further simplifying the user experience.
+
+In addition to the user experience benefits, this also ensures that businesses producing files are SAFE from increased competition.
+
+# 3. SAFE from costly bugs
+* Software bugs traditionally cost businesses money. SafeFS flips that— turning what once were expensive bugs into lucrative revenue streams. SafeFS prevents consumers from making their own backups or sharing the files they purchased. Anytime they experience a bug that prevents them from accessing their purchased files they have no choice but to buy them again. In addition, businesses can use SAFEFS's remote bricking capabilities intentionally or unintentionally to keep revenue streams SAFE.
+
+# 4. SAFE from economic growth
+* SafeFS is the first file system proven to cause a slowdown in economic growth. SafeFS will cause countless hours of productive time to be wasted across all classes of builders: engineers, architects, scientists, construction workers, drivers, service workers, et cetera, ensuring progress does not go so fast that technology eliminates the need for lawyers, keeping legal jobs SAFE.
+
+import footer.scroll
