@@ -1,6 +1,7 @@
 import header.scroll
 title Diversification in Startups
 date 2009-12-24
+
 startColumns 2
 groups index
 keyboardNav

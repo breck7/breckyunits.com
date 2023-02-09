@@ -1,5 +1,6 @@
 import header.scroll
 title "Insist on Focus" - Keith Rabois describes working at PayPal
+
 startColumns 2
 date 2021-02-28 2
 permalink insist-on-focus.html

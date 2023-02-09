@@ -1,5 +1,6 @@
 import header.scroll
 title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
+
 startColumns 2
 date 2010-2-21
 
