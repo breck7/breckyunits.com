@@ -2,11 +2,11 @@ import header.scroll
 groups index
 keyboardNav
 
+title SafeFS
+
 startColumns 2
 date 1/27/2023
 openGraphImage https://breckyunits.com/safeFS.png
-
-title SafeFS
 
 ## _Or: If lawyers invented a filesystem_
 

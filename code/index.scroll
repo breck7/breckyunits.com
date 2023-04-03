@@ -1,7 +1,7 @@
 import settings.scroll
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 title Breck Yunits' Code Blog
 snippets index
 import footer.scroll

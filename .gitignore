@@ -3,7 +3,7 @@ keyboard
 .DS_Store
 *.html
 feed.xml
-scrollStyle.css
+gazette.css
 node_modules
 package-lock.json
 kT*/

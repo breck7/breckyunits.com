@@ -8,8 +8,7 @@ date 08-23-2021
 
 permalink index.html
 viewSourceUrl https://github.com/breck7/breckyunits.com/tree/main/markups/readme.scroll
-scrollHeader
-scrollFooter
+gazetteHeader
 
 replace TreeNotationLinked <a href="https://treenotation.org">Tree Notation</a>
 replace ScrollLinked <a href="https://scroll.pub">Scroll</a>

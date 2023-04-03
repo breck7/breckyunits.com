@@ -1,7 +1,7 @@
 import settings.scroll
 metaTags
-scrollCssTag
-scrollHeader
+gazetteTheme
+gazetteHeader
 title Breck Yunits' Scroll
 description Some writing about probability, programming, economics and life.
 snippets index
