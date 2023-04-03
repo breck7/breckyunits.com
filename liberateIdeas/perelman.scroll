@@ -1,4 +1,4 @@
-import header.scroll
+import ../header.scroll
 title Perelman
 
 startColumns 2
@@ -350,4 +350,4 @@ git https://github.com/breck7
 viewSourceBaseUrl https://github.com/breck7
 email liberateidea@breckyunits.com
 
-import footer.scroll
+import ../footer.scroll

@@ -1,6 +1,6 @@
 import settings.scroll
 metaTags
-gazetteTheme
+gazetteCss
 gazetteHeader
 title Breck Yunits' Code Blog
 snippets index
