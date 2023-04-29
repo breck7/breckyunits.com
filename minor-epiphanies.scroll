@@ -1,6 +1,7 @@
 import header.scroll
+groups index
+keyboardNav
 title Minor Epiphanies
-
 startColumns 2
 date 2013-03-16
 
@@ -14,9 +15,6 @@ What do you call it when someone finally sees the _concept_?
 John Calcote, a programmer with decades of experience, calls it a *minor epiphany*.
 
 endSnippet
-groups index
-
-keyboardNav
 
 Minor epiphanies. Anyone who's programmed for a while can appreciate that term.
 
