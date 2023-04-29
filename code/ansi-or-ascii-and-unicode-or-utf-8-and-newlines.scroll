@@ -8,35 +8,35 @@ groups index
 keyboardNav
 permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html
 
-* The key things you need to know:
+The key things you need to know:
  dateline
 
-* ANSI (aka ASCII) and UTF-8 (aka "UnicodeTransformation Format" or just "Unicode") are ways to encode text files into binary data.
+ANSI (aka ASCII) and UTF-8 (aka "UnicodeTransformation Format" or just "Unicode") are ways to encode text files into binary data.
 
-* I'm simplifying things but actually what I'm leaving out is not important. There are basically 2 character sets: ASCII or ANSI and UTF8 or Unicode. It's probably easiest to just call them ASCII and Unicode.
+I'm simplifying things but actually what I'm leaving out is not important. There are basically 2 character sets: ASCII or ANSI and UTF8 or Unicode. It's probably easiest to just call them ASCII and Unicode.
 
-* Unicode is the new guy, and is slowly replacing ASCII.
+Unicode is the new guy, and is slowly replacing ASCII.
 
-* The main problem you'll run into with ASCII is line breaks. This isn't really an ASCII issue, it's a Windows issue but it often seems like it's an ASCII issue.
+The main problem you'll run into with ASCII is line breaks. This isn't really an ASCII issue, it's a Windows issue but it often seems like it's an ASCII issue.
 
-* Windows does \r\n, whereas Unicode just does \n.
+Windows does \r\n, whereas Unicode just does \n.
 
-* Here's an experiment you can do using Notepad++ and Notepad.
+Here's an experiment you can do using Notepad++ and Notepad.
 
-* Open Notepad++ and start a new document.
+Open Notepad++ and start a new document.
 
-* Type in:
+Type in:
 
 code
  hello<br>world
 
-* Click "Edit", "EOL Completion" and click "Windows Format" (if it's gray, that means it's already on Windows format). Now cut and paste the text into Notepad. You'll see that it comes out on 2 lines. All good right?
+Click "Edit", "EOL Completion" and click "Windows Format" (if it's gray, that means it's already on Windows format). Now cut and paste the text into Notepad. You'll see that it comes out on 2 lines. All good right?
 
-* Now go back to Notepad++ and click "Edit", "EOL Completion" and click "UNIX Format". Now cut and paste the text into Notepad. It's on 1 line, right?
+Now go back to Notepad++ and click "Edit", "EOL Completion" and click "UNIX Format". Now cut and paste the text into Notepad. It's on 1 line, right?
 
-* Tada!
+Tada!
 
-* Now when you're having line problems just use this nifty feature in Notepad++.
+Now when you're having line problems just use this nifty feature in Notepad++.
 
 # Notes
 

@@ -8,11 +8,11 @@ groups index
 keyboardNav
 permalink quickly-set-up-a-web-proxy-server.html
 
-* Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
+Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
  dateline
 
-* Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy">article</a> that shows how.
+Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy">article</a> that shows how.
 
-* I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
+I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
 
 import footer.scroll

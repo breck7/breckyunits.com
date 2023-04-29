@@ -8,7 +8,7 @@ date 12/15/2021
 comment
  This invention falls somewhere between trivial and mildly interesting.
 
-* Both HTML and Markdown mix content with markup:
+Both HTML and Markdown mix content with markup:
  dateline
 
 code
@@ -19,7 +19,7 @@ code
  markdown
   A link in Markdown looks like [this](hi.html).
 
-* I needed an alternative where _content is separate from markup_. I made an experimental minilang I'm calling _Aftertext_.
+I needed an alternative where _content is separate from markup_. I made an experimental minilang I'm calling _Aftertext_.
  wrapsOn
 
 code
@@ -32,12 +32,12 @@ groups index
 
 keyboardNav
 
-* You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
+You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
  italics After your text
  italics selectors
 aboveAsCode
 
-* Here is a silly another example, with more markups.
+Here is a silly another example, with more markups.
  strikethrough a silly
  italics more
  bold with
@@ -45,7 +45,7 @@ aboveAsCode
  link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strikethrough%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
 aboveAsCode
 
-* The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
+The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
  https://scroll.pub/ Scroll
  https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll here
 
@@ -55,38 +55,38 @@ comment
 
 ? Why did I make this?
 
-* First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
+First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
  https://github.com/publicdomaincompany/scroll/blob/main/grammar/ grammar nodes
 
-* With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
+With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
 
 ## Benefits of Keeping Text and Markup Separate
 
-* The most pressing need I had for Aftertext was importing blogs and books written by others into Scroll with the ability to postpone importing all markup. I import HTML blogs and books into Scroll for power reading. The source code with embedded markup is often messy. I don't always want to import the markup, but sometimes I do. Aftertext gives me a new trick where I can just copy the text, and add the markup later, if needed. Keeping text and markup separate is useful because _sometimes readers don't want the markup._
+The most pressing need I had for Aftertext was importing blogs and books written by others into Scroll with the ability to postpone importing all markup. I import HTML blogs and books into Scroll for power reading. The source code with embedded markup is often messy. I don't always want to import the markup, but sometimes I do. Aftertext gives me a new trick where I can just copy the text, and add the markup later, if needed. Keeping text and markup separate is useful because _sometimes readers don't want the markup._
  wrapsOn
 
-* It is likely a very small fraction of readers that would care about this, of course. But perhaps it would be a set of power users who could make good use of it.
+It is likely a very small fraction of readers that would care about this, of course. But perhaps it would be a set of power users who could make good use of it.
 
-* Speaking of power users, Aftertext might also be useful for tool builders. Imagine you are building a collaborative editor. With Aftertext, adding a link, bolding some text, adding a footnote, all are simple line insertions. It seems like Aftertext might be a nice simple core pattern for collaborative editing tools.
+Speaking of power users, Aftertext might also be useful for tool builders. Imagine you are building a collaborative editor. With Aftertext, adding a link, bolding some text, adding a footnote, all are simple line insertions. It seems like Aftertext might be a nice simple core pattern for collaborative editing tools.
 
-* Version control tools are often line oriented. When markup and content are on the same line it's not as easy to see which changes were content related and which were markup related. In Aftertext, each markup change corresponds to a single changed line. In the future, I could imagine using AI writing assistants to add more links and enhancements to my posts while keeping the history of content lines untouched.
+Version control tools are often line oriented. When markup and content are on the same line it's not as easy to see which changes were content related and which were markup related. In Aftertext, each markup change corresponds to a single changed line. In the future, I could imagine using AI writing assistants to add more links and enhancements to my posts while keeping the history of content lines untouched.
 
-* Finally, I should mention that it seems like keeping the written text and markup separate might make sense because it often matches the actual order in which writing text and marking up text happens. Writing is a human activity that goes back a thousand generations. Adding links is something only the current generations have done. A pattern I often find myself doing is: _write first; add links later_. Aftertext mirrors that behavior.
+Finally, I should mention that it seems like keeping the written text and markup separate might make sense because it often matches the actual order in which writing text and marking up text happens. Writing is a human activity that goes back a thousand generations. Adding links is something only the current generations have done. A pattern I often find myself doing is: _write first; add links later_. Aftertext mirrors that behavior.
  wrapsOn
 
 ## A Petri dish for new markup ideas
 
-* Aftertext provides a scalable way to add new markup ideas. 
+Aftertext provides a scalable way to add new markup ideas. 
 
-* Simple markups like bolds or italics aren't a big pain and conventions like *bold* and _italics_ used in languages like Markdown or Textile do a sufficient job. But even with those, after a certain amount of rules it's hard to keep track of what characters do what. You also have to worry about escaping rules. With Aftertext adding new markups does not increase the cognitive load on the writer.
+Simple markups like bolds or italics aren't a big pain and conventions like *bold* and _italics_ used in languages like Markdown or Textile do a sufficient job. But even with those, after a certain amount of rules it's hard to keep track of what characters do what. You also have to worry about escaping rules. With Aftertext adding new markups does not increase the cognitive load on the writer.
  https://en.wikipedia.org/wiki/Markdown Markdown
  https://en.wikipedia.org/wiki/Textile_(markup_language) Textile
 
-* When you get to more advanced markup ideas, Aftertext gives each markup node it's own scope for advanced functionality while keeping the text text.
+When you get to more advanced markup ideas, Aftertext gives each markup node it's own scope for advanced functionality while keeping the text text.
 
-* I'm particularly interested in exploring new ways to do footnotes, sparklines, definitions, highlights and comments. Basic Aftertext might not be compelling on its own, but maybe it will be a useful tool for evolving a new "killer markup".
+I'm particularly interested in exploring new ways to do footnotes, sparklines, definitions, highlights and comments. Basic Aftertext might not be compelling on its own, but maybe it will be a useful tool for evolving a new "killer markup".
 
-* Adding a new markup command is just a few lines of code.
+Adding a new markup command is just a few lines of code.
  https://github.com/publicdomaincompany/scroll/blob/main/grammar/aftertext.grammar lines of code
 
 comment
@@ -94,83 +94,83 @@ comment
 
 ? What are the downsides of Aftertext?
 
-* There are downsides in using Aftertext that you don't have with paired delimiter markups.
+There are downsides in using Aftertext that you don't have with paired delimiter markups.
 
-* There is the issue of breakages when editing Aftertext. The nice thing about *bold* is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
+There is the issue of breakages when editing Aftertext. The nice thing about *bold* is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
  italics breakages
 
-* A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed. 
+A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed. 
  wrapsOn
 
-* Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
+Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
 
 ? What are the problems with the initial implementation?
 
-* My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in `aftertext` nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.
+My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in `aftertext` nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.
  wrapsOn
 
 ? Is this a bad idea?
 
-* You might make the argument that not just the implementation, but the idea itself should be abandoned.
+You might make the argument that not just the implementation, but the idea itself should be abandoned.
 
-* The most likely reason why this is a bad idea is that it simply doesn't matter whether it's a good idea or not. You could argue that improvements to markup syntax are inconsequential. That even if it was a 2x better way to markup text for some use cases, AIs will change writing and code in so many bigger ways that's it not even worth thinking about clean source anymore. This could very well be true (luckily it didn't take many hours to build).
+The most likely reason why this is a bad idea is that it simply doesn't matter whether it's a good idea or not. You could argue that improvements to markup syntax are inconsequential. That even if it was a 2x better way to markup text for some use cases, AIs will change writing and code in so many bigger ways that's it not even worth thinking about clean source anymore. This could very well be true (luckily it didn't take many hours to build).
 
 comment
  That the earth is headed to the sun and we are all destined for stardust anyway, so what is the point?
 
-* Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles. 
+Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles. 
  wrapsOn
 
 # Summary and Closing Thoughts
 
-* Markups on text may increase monotonically. With current patterns that means source will get messier and more complex. Aftertext is an alternative way to markup text which can scale while keeping source clean. Aftertext might be a good backend format for WYSIWYG GUIs. Though most humans write in WYSIWYG GUIs, Aftertext is designed for the small subset who prefer formats that are also maintainable by hand.
+Markups on text may increase monotonically. With current patterns that means source will get messier and more complex. Aftertext is an alternative way to markup text which can scale while keeping source clean. Aftertext might be a good backend format for WYSIWYG GUIs. Though most humans write in WYSIWYG GUIs, Aftertext is designed for the small subset who prefer formats that are also maintainable by hand.
 
 # Related Work
 
-* Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
+Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
  link http://akkartik.name/ Kartik
  https://shalabh.com/ Shalabh
  https://twitter.com/warianoguerra Mariano
  https://trellick.work Joe Trellick
 
-* In 1997 Ted Nelson proposed parallel markup.
+In 1997 Ted Nelson proposed parallel markup.
  https://www.xml.com/pub/a/w3j/s3.nelson.html parallel markup
 
 quote
  The text and the markup are treated as separate parallel members, presumably (but not necessarily) in different files.
  @ Ted Nelson
 
-* When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
+When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup" implementation
  https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
 
-* A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
+A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
  https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html troff directives
  https://www.systutorials.com/docs/linux/man/7-groff_man/ groff
 
-* Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem _esolangy_ now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
+Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem _esolangy_ now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
  https://www.templetons.com/tech/oob.html OOB
  https://www.templetons.com/tech/proletext.html Proletext
  wrapsOn
 
-* The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
+The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
  https://zfdg.de/sb004_008#hd14 standoff properties
 
-* AtJSON is a similar project and has clear documentation. AtJSON has a useful collection of markups evolved to support a large corpus of documents at CondeNast. AtJSON uses character indexes for selectors so hand editing is not practical.
+AtJSON is a similar project and has clear documentation. AtJSON has a useful collection of markups evolved to support a large corpus of documents at CondeNast. AtJSON uses character indexes for selectors so hand editing is not practical.
  https://github.com/CondeNast/atjson AtJSON
 
 ? Why now?
 
-* Issues with embedded markup and alternative solutions have been discussed for decades. I would say it's a safe bet to say embedded markup is superior since it so thoroughly dominates usage. Nevertheless, as I mentioned in my use case, there is a time and a place for alternatives. Aftertext would have been simple enough to understand decades ago and use with pen and paper. So why hasn't Aftertext's been tried before?
+Issues with embedded markup and alternative solutions have been discussed for decades. I would say it's a safe bet to say embedded markup is superior since it so thoroughly dominates usage. Nevertheless, as I mentioned in my use case, there is a time and a place for alternatives. Aftertext would have been simple enough to understand decades ago and use with pen and paper. So why hasn't Aftertext's been tried before?
 
 comment
  millennia ago, really, though markup langs not relevant until the computing age (maybe printing press age?)
 
-* Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocomplete) used to be more expensive, so Aftertext would have been inefficient. It probably was worthwhile to have a learning curve and force users to memorize cryptic acronyms. It paid off to minimize keystrokes.
+Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocomplete) used to be more expensive, so Aftertext would have been inefficient. It probably was worthwhile to have a learning curve and force users to memorize cryptic acronyms. It paid off to minimize keystrokes.
 
-* I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
+I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
 
-* Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets <i>its own scope</i> and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
+Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets <i>its own scope</i> and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
  https://treenotation.org/ Tree Notation
 
 # Notes

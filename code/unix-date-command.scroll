@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink unix-date-command.html
 
-* Display the current unix timestamp:
+Display the current unix timestamp:
  dateline
 
 code
  date +%s
 
-* Handy way to view it from the command line.
+Handy way to view it from the command line.
 
 import footer.scroll

@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink git-clone-without-history.html
 
-* If you're using a library from git in another project, you may want to download it without the history. Here's how:
+If you're using a library from git in another project, you may want to download it without the history. Here's how:
  dateline
 
 code
  git clone --depth 1 your_repo_url
 
-* <a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
+<a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
 
 import footer.scroll

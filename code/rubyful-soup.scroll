@@ -8,11 +8,11 @@ groups index
 keyboardNav
 permalink rubyful-soup.html
 
-* I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port. Sadly it's no longer being maintained.
+I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port. Sadly it's no longer being maintained.
  https://www.crummy.com/software/RubyfulSoup port
  dateline
 
-* To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:
+To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to the rubyful_soup.rb file in my gems directory:
 
 - Line 19 - comment out 'require 'jcode''
 - Line 233 - remove the colon

@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink how-i-organize-my-dropbox.html
 
-* Gmail encourages users to "search not sort". I do that. Email works great for search. For files though, sorting is often better.
+Gmail encourages users to "search not sort". I do that. Email works great for search. For files though, sorting is often better.
  dateline
 
-* I have well over 20GB of files synced onto my Dropbox. The rest of my computer is spotless(I use Windows 7 and do a fresh install every 30-60 days). But the Dropbox can get cluttered. I take a simple approach that is a hybrid of search and sort. Here's how to do it:
+I have well over 20GB of files synced onto my Dropbox. The rest of my computer is spotless(I use Windows 7 and do a fresh install every 30-60 days). But the Dropbox can get cluttered. I take a simple approach that is a hybrid of search and sort. Here's how to do it:
 
-* Put files into 2 sections: 
+Put files into 2 sections: 
 
  -Put commonly accessed folders in the root directory.
  -Put everything else in a "Search" directory, which is in the Dropbox root directory.
@@ -24,7 +24,7 @@ permalink how-i-organize-my-dropbox.html
 
 # End Result
 
-* Here's what the end result may look like:
+Here's what the end result may look like:
 
 code
  -My Dropbox
@@ -35,9 +35,9 @@ code
  --Company Docs
  --Search
 
-* The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
+The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
 
-* This a hybrid of search and sort.
+This a hybrid of search and sort.
 
 #  Notes
 

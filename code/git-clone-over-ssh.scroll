@@ -7,7 +7,7 @@ date 07/08/2021
 groups index
 keyboardNav
 
-* Using Git with your own servers—without a hub like GitHub or GitLab—is easy. This is the straightforward, quick and dirty way with no new concepts to learn. There are more advanced ways (like -bare), but I find 4 times out of 5 I just need a quick way to sync repos between machines.
+Using Git with your own servers—without a hub like GitHub or GitLab—is easy. This is the straightforward, quick and dirty way with no new concepts to learn. There are more advanced ways (like -bare), but I find 4 times out of 5 I just need a quick way to sync repos between machines.
  dateline
 
 # Cloning from your server to your local machine
@@ -17,7 +17,7 @@ code
 
 # Pushing to your server from your local machine
 
-* The one annoying thing here is your push will be rejected if your are pushing the branch that is currently checked out on the server. You can quickly check out a temporary branch, push main, and then check main back out on the server.
+The one annoying thing here is your push will be rejected if your are pushing the branch that is currently checked out on the server. You can quickly check out a temporary branch, push main, and then check main back out on the server.
 
 code
  git push

@@ -8,23 +8,23 @@ groups index
 keyboardNav
 permalink run-multiple-commands-at-once.html
 
-* Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
+Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
  dateline
 
-* For instance:
+For instance:
 
 code
  cd;ls
 
-* This will change the directory to your home directory, then list the contents. You can use as many semicolons as you wish.
+This will change the directory to your home directory, then list the contents. You can use as many semicolons as you wish.
 
-* Another option is to use && if you only want the next command to execute if the previous command executed successfully.
+Another option is to use && if you only want the next command to execute if the previous command executed successfully.
 
 code
  cd ~/myfiles; cp file.txt ~/backup/ && rm file.txt
 
-* This will only run the last command if the cp command executed successfully.
+This will only run the last command if the cp command executed successfully.
 
-* You can swap the && for || to run a command if the previous one fails.
+You can swap the && for || to run a command if the previous one fails.
 
 import footer.scroll

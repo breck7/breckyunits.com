@@ -4,14 +4,14 @@ title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 startColumns 2
 date 2010-01-15
 
-* In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."
+In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."
  dateline
 
-* The downside of DRY's popularity is that programmers might start applying the principle to conversations with other humans. 
+The downside of DRY's popularity is that programmers might start applying the principle to conversations with other humans. 
 
-* This fails because computers and people are <i>polar opposites.</i> 
+This fails because computers and people are <i>polar opposites.</i> 
 
-* With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you <i>don't</i> repeat yourself!
+With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you <i>don't</i> repeat yourself!
 
 endSnippet
 groups index
@@ -27,44 +27,44 @@ keyboardNav
 
 # A Numeric Explanation
 
-* If you tell something to your computer once:
+If you tell something to your computer once:
 
 - The odds the computer remembers: 100%.
 - The odds the computer was paying attention: 100%.
 - The odds the computer understood you: 100%.
 - The odds the computer gets the importance right: 100%.
 
-* If you tell something to a person once:
+If you tell something to a person once:
 
 - The odds the person remembers: 30%?
 - The odds the person was paying attention: 40%?
 - The odds the person understood you: 50%?
 - The odds the person gets the importance right: 30%?
 
-* In other words, the odds of communicating perfectly are very low: <b>1.8%</b>! You are highly likely to run into at least one of those four problems. 
+In other words, the odds of communicating perfectly are very low: <b>1.8%</b>! You are highly likely to run into at least one of those four problems. 
 
-* Now, if you repeat yourself 1 time, and we assume independence, here's how the probabilities change:
+Now, if you repeat yourself 1 time, and we assume independence, here's how the probabilities change:
 
 - The odds the person remembers: 51%
 - The odds the person was paying attention: 64%
 - The odds the person understood you: 75%
 - The odds the person gets the importance right: 51%
 
-* By repeating yourself just once you've increased the chances of perfect communication from 1.8% to <b>12.5%</b>! Repeat yourself one more time and the probability of perfect communication increases to over 90%. Well, in this simplistic model anyway. But I hope you get the idea.
+By repeating yourself just once you've increased the chances of perfect communication from 1.8% to <b>12.5%</b>! Repeat yourself one more time and the probability of perfect communication increases to over 90%. Well, in this simplistic model anyway. But I hope you get the idea.
 
 # Repeat yourself until you overcommunicate
 
-* To communicate well you should try to <i>overcommunicate</i>. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
+To communicate well you should try to <i>overcommunicate</i>. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
 
 # An example of how I repeat myself
 
-* On the various projects I'm involved with we use Gmail, Google Docs, Google Wave, Basecamp, Github, Sifter, gChat and Skype. Which one do I prefer?
+On the various projects I'm involved with we use Gmail, Google Docs, Google Wave, Basecamp, Github, Sifter, gChat and Skype. Which one do I prefer?
 
-* None of them. I prefer pen, paper, whiteboards and face-to-face meetings. I write down my own todo list and schedule with pen and paper. Then I login to these sites and repeat what I've written down for the sake of repeating myself to other people. This isn't inefficieny, it's good communication. 
+None of them. I prefer pen, paper, whiteboards and face-to-face meetings. I write down my own todo list and schedule with pen and paper. Then I login to these sites and repeat what I've written down for the sake of repeating myself to other people. This isn't inefficieny, it's good communication. 
 
-* Some people prefer Google Docs, some prefer Basecamp. I'll post things to both, to ensure everyone knows what I'm working on.
+Some people prefer Google Docs, some prefer Basecamp. I'll post things to both, to ensure everyone knows what I'm working on.
 
-* With every new project I repeat a lot of messages and questions to the team. "How many people love this product?", "How can we make this simpler?", "Which of the 7 deadly sins does this appeal to?". I think these are important questions and so I'll repeat them over and over and add them to the todo lists for every project, multiple times.
+With every new project I repeat a lot of messages and questions to the team. "How many people love this product?", "How can we make this simpler?", "Which of the 7 deadly sins does this appeal to?". I think these are important questions and so I'll repeat them over and over and add them to the todo lists for every project, multiple times.
 
 # Notes
 

@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink use-git-to-get-the-latest-source-code-only.html
 
-* Say you want to get just the source code of a git repository without all the history(without the ".git" directory). Use this:
+Say you want to get just the source code of a git repository without all the history(without the ".git" directory). Use this:
  dateline
 
 code

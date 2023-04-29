@@ -6,50 +6,50 @@ date 2013-09-23
 groups index
 keyboardNav
 
-* Making websites is slow and frustrating.
+Making websites is slow and frustrating.
  dateline
 
 endSnippet
 
-* I met a young entrepreneur who wanted to create a website for his bed and breakfast. He had spent dozens of hours with different tools and was no closer to having what he wanted.
+I met a young entrepreneur who wanted to create a website for his bed and breakfast. He had spent dozens of hours with different tools and was no closer to having what he wanted.
 
-* I met a teacher who wanted his students to turn in web pages for homework instead of paper pages. No existing tool allows his students to  easily create pages without restricting their creativity.
+I met a teacher who wanted his students to turn in web pages for homework instead of paper pages. No existing tool allows his students to  easily create pages without restricting their creativity.
 
-* I met an artist who wanted a website with a slideshow for her portfolio.
+I met an artist who wanted a website with a slideshow for her portfolio.
 
-* A restaurant owner who wanted a website that could take online orders.
+A restaurant owner who wanted a website that could take online orders.
 
-* An author who wanted a website with a blog.
+An author who wanted a website with a blog.
 
-* A saleswoman who wanted to build a members-only site for great deals she gathered.
+A saleswoman who wanted to build a members-only site for great deals she gathered.
 
-* A candidate who wanted a website that could coordinate his volunteers.
+A candidate who wanted a website that could coordinate his volunteers.
 
-* A nonprofit founder who wanted a website that told the story of impoverished children in his country and accepted donations.
+A nonprofit founder who wanted a website that told the story of impoverished children in his country and accepted donations.
 
-* These are just a handful of real people with real ideas who are frustrated by the current tools.
+These are just a handful of real people with real ideas who are frustrated by the current tools.
 
 # The problem
-* The fact is, people want to do millions of different things  with their websites, but the only two options are to use a tool that limits your creative potential or to program your site from scratch. Neither option is ideal.
+The fact is, people want to do millions of different things  with their websites, but the only two options are to use a tool that limits your creative potential or to program your site from scratch. Neither option is ideal.
 
 # The solution
-* Which is why we're building a third option. We are building an open source, general purpose IDE for building websites.
+Which is why we're building a third option. We are building an open source, general purpose IDE for building websites.
 
 image nudgepadYouTube.jpg
 
-* Here's a short video demonstrating how it works:
+Here's a short video demonstrating how it works:
 
 youTube https://youtube.com/watch?v=yh_EdtGpBak
 
-* NudgePad is in early beta, but is powering a number of live websites  like these:
+NudgePad is in early beta, but is powering a number of live websites  like these:
 
 image samples.gif
 
-* Although we have a lot more to do to get to a stable version 2.0, we thought the time was right to start opening up NudgePad to more people and recruiting more help for the project. We also want to get feedback on the core ideas in NudgePad.
+Although we have a lot more to do to get to a stable version 2.0, we thought the time was right to start opening up NudgePad to more people and recruiting more help for the project. We also want to get feedback on the core ideas in NudgePad.
 
-* To get involved, give NudgePad a try or check out the source code on GitHub.
+To get involved, give NudgePad a try or check out the source code on GitHub.
  http://github.com/nudgepad check out the source code on GitHub.
 
-* We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future. By this time next year, using NudgePad, it could be 100x faster and easier to build websites than it is today.
+We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future. By this time next year, using NudgePad, it could be 100x faster and easier to build websites than it is today.
 
 import footer.scroll

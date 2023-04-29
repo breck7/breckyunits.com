@@ -5,12 +5,12 @@ startColumns 2
 
 date 6/09/2022
 
-* This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. Who doesn't love a change like that?
+This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. Who doesn't love a change like that?
  dateline
 
 # Map chart slowdown
 
-* In the fall of 2020 users started reporting that our map charts had become slow.
+In the fall of 2020 users started reporting that our map charts had become slow.
 
 
 
@@ -19,7 +19,7 @@ image map-view.png
 
 # k-means was the culprit
 
-* To color our map charts an engineer on our team utilized a very effective technique called @k-means clustering@, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow. Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
+To color our map charts an engineer on our team utilized a very effective technique called @k-means clustering@, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow. Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
  wrap @ https://en.wikipedia.org/wiki/K-means_clustering
  hoverNote map charts
   The industry term for this kind of chart is Choropleth map. See https://en.wikipedia.org/wiki/Choropleth_map
@@ -31,14 +31,14 @@ keyboardNav
 
 # Benchmarking ckmeans
 
-* We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package @Simple Statistics@.
+We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package @Simple Statistics@.
  https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js ckmeans
  wrap @ https://github.com/simple-statistics/simple-statistics
  wrapsOn
 
-* My first naive thought was that I could just quickly write a better k-means function. It didn't take long to realize that was a non-trivial problem and should be a last resort.
+My first naive thought was that I could just quickly write a better k-means function. It didn't take long to realize that was a non-trivial problem and should be a last resort.
 
-* My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a @2011 paper@ and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
+My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a @2011 paper@ and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
  wrap @ https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf
  wrapsOn
  hoverNote O(nlog(n))
@@ -46,7 +46,7 @@ keyboardNav
 
 # Benchmarking shows closer to n² than n·log(n)
 
-* Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
+Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
  wrapsOn
  hoverNote slower
   Much slower for larger N, of course. Also, if you fit the curve you see not quite quadratic behavior, but worse than n log(n). A todo item would be to hone in on the curve it was approaching, but that did depend on the combination of N and K due to some discrete if branches.
@@ -67,7 +67,7 @@ commaTable
 
 # Opening an issue
 
-* After triple checking my logic, I created an @issue@ on the Simple Statistics repo with my benchmark script.
+After triple checking my logic, I created an @issue@ on the Simple Statistics repo with my benchmark script.
  wrap @ https://github.com/simple-statistics/simple-statistics/issues/520
 
 comment
@@ -75,7 +75,7 @@ comment
 
 # A fix!
 
-* Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and @found a fix@. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
+Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and @found a fix@. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
  wrapsOn
  wrap @ https://github.com/simple-statistics/simple-statistics/pull/521
 
@@ -86,7 +86,7 @@ code
  After:
  if (iMax < matrix[0].length - 1) {
 
-* He had read through the @original ckmeans C++ implementation@ and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
+He had read through the @original ckmeans C++ implementation@ and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
  wrap @ https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp
  wrapsOn
  hoverNote small
@@ -94,9 +94,9 @@ code
  hoverNote large
   (N - the number of data points)
 
-* I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, with a particular focus on the loops".
+I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, with a particular focus on the loops".
 
-* The typo fix made the Javascript version run in the claimed n·log(n) to match the C++ version. For our new map charts with tens of thousands of values this made a big difference.
+The typo fix made the Javascript version run in the claimed n·log(n) to match the C++ version. For our new map charts with tens of thousands of values this made a big difference.
 
 code
  Before xxxxxxxxxxxxxxxx 820ms
@@ -104,11 +104,11 @@ code
 
 # Merged
 
-* Very shortly after he submitted the fix, the @creator@ of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
+Very shortly after he submitted the fix, the @creator@ of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
  wrap @ https://github.com/tmcw
 
 # Thanks!
 
-* Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun. 
+Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun. 
 
 import footer.scroll

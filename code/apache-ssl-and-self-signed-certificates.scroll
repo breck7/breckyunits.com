@@ -8,10 +8,10 @@ groups index
 keyboardNav
 permalink apache-ssl-and-self-signed-certificates.html
 
-* Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
+Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
  dateline
 
-* Here's what it boils down to:
+Here's what it boils down to:
 
 code
  # The cool thing about SSL is it's just 2 text files. A public key and a private key.

@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink turn-off-bell-in-cygwin.html
 
-* The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
+The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
  dateline
 
 code
@@ -18,5 +18,5 @@ code
  
  set bell-style none
 
-* Save and restart your shell.
+Save and restart your shell.
 import footer.scroll

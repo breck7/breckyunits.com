@@ -11,27 +11,27 @@ permalink use-rsync-to-deploy-your-website.html
 `rsync` is a nifty little tool that can deploy a website to a testing or production server.
  dateline
 
-* Here's a one line command to deploy brecksblog:
+Here's a one line command to deploy brecksblog:
 
 code
  rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
 
-* This one line will do a fast, incremental file transfer from my local directory to the web server. 
+This one line will do a fast, incremental file transfer from my local directory to the web server. 
 
-* I saved this file as "deploy", and then run it by typing:
+I saved this file as "deploy", and then run it by typing:
 
 code
  ./deploy
 
-* The exclude option will exclude a file or directory from being synced.
+The exclude option will exclude a file or directory from being synced.
 
-* Here's an explanation about the options I use. I use rsync with these options:
+Here's an explanation about the options I use. I use rsync with these options:
  https://ubuntuforums.org/showthread.php?t=251516 explanation
 
 code
  rsync -arvuz /src/foo/ /dest/foo
 
-* This will copy the contents of /src/foo/ into /dest/foo. Options explained:
+This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
 - a: archive mode (keep owner and permissions)
 - r: recurse into directories
@@ -42,6 +42,6 @@ code
 
 # Notes 
 
-* 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
+1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
 
 import footer.scroll

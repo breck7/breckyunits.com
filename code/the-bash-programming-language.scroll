@@ -8,55 +8,55 @@ groups index
 keyboardNav
 permalink the-bash-programming-language.html
 
-* I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
+I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
  dateline
 
-* Then I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.
+Then I learned what is basically the BASH programming language, a language very similar to Python/Ruby/PHP etc., but is perfect for writing command line programs.
 
-* Here's the core of what you need to know:
+Here's the core of what you need to know:
 
 # Use the .sh file extension
 
-* A BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.
+A BASH script should have the .sh extension, just as a Python script has the .py extension, a php script has the .php extension, and a Ruby script has the .rb extension.
 
 # Start your scripts with #!/bin/bash
 
 code
  #!/bin/bash
 
-* Here's your first bash script (name it hello.sh):
+Here's your first bash script (name it hello.sh):
 
 code
  #!/bin/bash<br>
  echo "Hello World"
 
-* The *echo* command prints a string and also a new line at the end.
+The *echo* command prints a string and also a new line at the end.
 
 # Running your script
 
-* Your script must be **executable**. To make it executable, you need to change the <a href="fix-permission-problems-using-chmod.html">file permissions</a>. This would make your hello.sh script executable:
+Your script must be **executable**. To make it executable, you need to change the <a href="fix-permission-problems-using-chmod.html">file permissions</a>. This would make your hello.sh script executable:
 
 code
  chmod 777 hello.sh
 
-* To run your script, from the directory where your script is located, type this:
+To run your script, from the directory where your script is located, type this:
 
 code
  ./hello.sh
 
-* The "./" substitutes the current directory. In other words, typing
+The "./" substitutes the current directory. In other words, typing
 
 code
  ./hello.sh
 
-* Is equivalent to typing the full path to the file such as this:
+Is equivalent to typing the full path to the file such as this:
 
 code
  /home/breck/hello.sh
 
 # Command line Paramters
 
-* Command line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:
+Command line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:
 
 code
  #!/bin/bash
@@ -64,23 +64,23 @@ code
  echo $1
  echo $2
 
-* Now run your script like this:
+Now run your script like this:
 
 code
  ./hello2.sh hi breck
 
-* It should print this:
+It should print this:
 
 code
  Hello World
  hi
  breck
 
-* The hi got stored in $1, and the breck got stored in $2.
+The hi got stored in $1, and the breck got stored in $2.
 
 # Functions
 
-* Functions are pretty simple and straightforward:
+Functions are pretty simple and straightforward:
 
 code
  #!/bin/bash
@@ -93,12 +93,12 @@ code
  }
  hi_name $3
 
-* Notice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:
+Notice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:
 
 code
  ./hello2.sh hi breck conor
 
-* It should print this:
+It should print this:
 
 code
  Hello World
@@ -107,8 +107,8 @@ code
  hi
  conor
 
-* Notice what's going on with parameter passing and scope.
+Notice what's going on with parameter passing and scope.
 
-* That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
+That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
 
 import footer.scroll

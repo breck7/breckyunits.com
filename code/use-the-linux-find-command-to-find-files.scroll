@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink use-the-linux-find-command-to-find-files.html
 
-* Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
+Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
  dateline
 
 code
  find -name "breck*"
 
-* Will search the current directory <i>and all subdirectories</i> for files starting with the word "breck".
+Will search the current directory <i>and all subdirectories</i> for files starting with the word "breck".
 
 import footer.scroll

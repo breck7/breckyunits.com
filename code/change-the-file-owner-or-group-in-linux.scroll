@@ -8,13 +8,13 @@ groups index
 keyboardNav
 permalink change-the-file-owner-or-group-in-linux.html
 
-* Change the owner of a file or folder:
+Change the owner of a file or folder:
  dateline
 
 code
  chown newowner filename
 
-* Change the group of a file or folder:
+Change the group of a file or folder:
 
 code
  chgrp newgroup filenameorfoldername

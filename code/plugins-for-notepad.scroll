@@ -8,17 +8,17 @@ groups index
 keyboardNav
 permalink plugins-for-notepad.html
 
-* Notepad++ is my go to editor.
+Notepad++ is my go to editor.
  dateline
 
-* The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
+The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
 
-* To install a plugin:
+To install a plugin:
 
 - 1. Download the zip file and unzip it.
 - 2. Copy the dll to your Program Files/Notepad++/Plugins folder.
 
-* The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
+The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
 
-* That's it!
+That's it!
 import footer.scroll

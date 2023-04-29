@@ -8,11 +8,11 @@ groups index
 keyboardNav
 permalink bash-history.html
 
-* Understanding and mastering bash history can:
+Understanding and mastering bash history can:
  dateline
 
 - 1. Save you a lot of time, keystrokes, and errors.
 - 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
 
-* Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.
+Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.
 import footer.scroll

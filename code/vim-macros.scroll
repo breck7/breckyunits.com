@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink vim-macros.html
 
-* Let's say you want to add comments to your php functions following the conventional format:
+Let's say you want to add comments to your php functions following the conventional format:
  dateline
 
 code
@@ -25,17 +25,17 @@ code
  return $sum;
  }
 
-* You can record a macro to help speed up the commenting process.
+You can record a macro to help speed up the commenting process.
 
-* Just type <code>q</code> followed by the letter you want to assign the macro to (in this case let's use <code>c</code>), type your keystrokes, then hit <code>q</code> again to stop recording. Now hit <code>c</code> to replay your macro.
+Just type <code>q</code> followed by the letter you want to assign the macro to (in this case let's use <code>c</code>), type your keystrokes, then hit <code>q</code> again to stop recording. Now hit <code>c</code> to replay your macro.
 
-* You can overwrite the macro by repeating the above steps.
+You can overwrite the macro by repeating the above steps.
 
-* Bonus tip:
+Bonus tip:
 
-* <b>Bookmarks</b>.Use <code>m</code> + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
+<b>Bookmarks</b>.Use <code>m</code> + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
 
-* <b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
+<b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
 
 # Notes
 

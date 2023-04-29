@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink dump-mysql-schema-only.html
 
-* I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
+I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
  dateline
 
 code
  mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql
 
-* You can then <a href="how-to-load-a-sql-file-into-mysql.html">load the file easily</a>.
+You can then <a href="how-to-load-a-sql-file-into-mysql.html">load the file easily</a>.
 
 import footer.scroll

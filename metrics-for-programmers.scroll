@@ -4,7 +4,7 @@ title Metrics for Programmers
 startColumns 2
 date 2010-03-16
 
-* I wrote a simple php program called <a href="http://github.com/breck7/phpcodestat">phpcodestat</a> that computes some simple statistics for any given directory.
+I wrote a simple php program called <a href="http://github.com/breck7/phpcodestat">phpcodestat</a> that computes some simple statistics for any given directory.
  dateline
 
 endSnippet
@@ -12,13 +12,13 @@ groups index
 
 keyboardNav
 
-* I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.
+I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.
 
-* If your code base is growing faster than your user base, you're in trouble. You might be attacking the wrong problem. You might be letting feature creep get the past of you.
+If your code base is growing faster than your user base, you're in trouble. You might be attacking the wrong problem. You might be letting feature creep get the past of you.
 
-* I thought it would be neat to compute some stats for popular open source PHP applications.
+I thought it would be neat to compute some stats for popular open source PHP applications.
 
-* My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
+My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
 
 spaceTable
  Name Directories Files PHPFiles PHPLOC PHPClasses PHPFunctions

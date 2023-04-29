@@ -8,15 +8,15 @@ groups index
 keyboardNav
 permalink find-big-files-in-linux.html
 
-* <i>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</i>
+<i>Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu</i>
  dateline
 
-* How to find files larger than a certain size:
+How to find files larger than a certain size:
 
 code
  find /etc -size +100k
 
-* Disk free space:
+Disk free space:
 
 code
  du

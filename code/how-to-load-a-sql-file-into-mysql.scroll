@@ -8,12 +8,12 @@ groups index
 keyboardNav
 permalink how-to-load-a-sql-file-into-mysql.html
 
-* It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
+It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
  dateline
 
 code
  mysql -u username -p < sqlfile.sql
 
-* Make sure your sql file has a "use database" line.
+Make sure your sql file has a "use database" line.
 
 import footer.scroll

@@ -8,13 +8,13 @@ groups index
 keyboardNav
 permalink windows-7-hosts-file.html
 
-* The file is located at:
+The file is located at:
  dateline
 
 code
  windows/system32/drivers/etc/host
 
-* Mac hosts file:
+Mac hosts file:
 
 code
  /private/etc/hosts

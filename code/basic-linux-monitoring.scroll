@@ -8,13 +8,13 @@ groups index
 keyboardNav
 permalink basic-linux-monitoring.html
 
-* Show memory usage:
+Show memory usage:
  dateline
 
 code
  free -m
 
-* Add this to your bash_profile:
+Add this to your bash_profile:
 
 code
  alias free="free -m"
@@ -22,12 +22,12 @@ code
 code
  top
 
-* Show all processes
+Show all processes
 
 code
  ps -a
 
-* Disk free space:
+Disk free space:
 
 code
  df

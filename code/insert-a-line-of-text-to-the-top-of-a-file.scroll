@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink insert-a-line-of-text-to-the-top-of-a-file.html
 
-* If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
+If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
  dateline
 
 code

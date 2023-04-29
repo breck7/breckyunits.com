@@ -12,19 +12,19 @@ permalink use-sed-to-find-and-replace.html
  link use-grep-to-search-multiple-files-at-once.html grep
  dateline
 
-* Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
+Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
 
-* You can fix all occurrences using this one-liner:
+You can fix all occurrences using this one-liner:
 
 code
  sed 's/imposible/impossible/g' stuff.txt
 
-* Often it's more helpful to sed across multiple files.
+Often it's more helpful to sed across multiple files.
 
 code
  sed -i 's/1.0.1/"1.0.1"/g' *.php
 
-* That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
+That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
 
 # Notes
 

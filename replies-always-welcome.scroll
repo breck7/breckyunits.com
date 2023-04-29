@@ -6,10 +6,10 @@ date 11/14/2022
 
 openGraphImage https://breckyunits.com/noNoReplies.png
 
-* Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones and gives you the middle finger. That's the experience you are providing your customers every time you send an email message from a `noreply` email address. I cannot think of a single valid reason to ever send an email from a noreply address. It takes extremely little code to route any responses appropriately.
+Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones and gives you the middle finger. That's the experience you are providing your customers every time you send an email message from a `noreply` email address. I cannot think of a single valid reason to ever send an email from a noreply address. It takes extremely little code to route any responses appropriately.
  dateline
 
-* Either do the work to send emails that can be replied to or don't send emails.
+Either do the work to send emails that can be replied to or don't send emails.
 
 image noNoReplies.png
  caption My war against no reply email addresses begins. Anytime someone sends a message to me now from a noreply address they get this as a response, in addition to other actions.
@@ -21,7 +21,7 @@ image gmailFilter.png
 
 # My Gmail filter
 
-* Below is my Gmail filter. Paste it into `brecksFilter.xml` then go to Settings > Filters > Import filters. Join the fight to save email and restore human decency!
+Below is my Gmail filter. Paste it into `brecksFilter.xml` then go to Settings > Filters > Import filters. Join the fight to save email and restore human decency!
 
 xmlCode
  <?xml version='1.0' encoding='UTF-8'?>
@@ -59,31 +59,31 @@ xmlCode
 
 # Specific examples
 
-* Again, there is never a valid reason to have a no reply email address. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+Again, there is never a valid reason to have a no reply email address. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
 
 ? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
 
-* Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
+Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
 
 ? I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
 
-* Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
+Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
 
 ? GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
 
-* Could be a `replyToDeauthorize@github.com` instead.
+Could be a `replyToDeauthorize@github.com` instead.
 
 ? Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
 
-* Could be a `replyToStopTracking@google.com`
+Could be a `replyToStopTracking@google.com`
 
 ? Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
 
-* Could be a `replyToUnsubscribe`
+Could be a `replyToUnsubscribe`
 
 ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
 
-* Could be a `replyToLeaveAReview`.
+Could be a `replyToLeaveAReview`.
 
 
 groups index

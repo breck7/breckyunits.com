@@ -16,7 +16,7 @@ code
 
 # Variable scope
 
-* A shell script will launch a new shell that has a fresh scope.
+A shell script will launch a new shell that has a fresh scope.
  dateline
 
 code
@@ -26,20 +26,20 @@ code
  echo $FIVE
  $ ./myshellscript.sh
 
-* Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
+Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
 
 # Export command.
 
-* Use the export command to change the scope of your variable to global for your shell.
+Use the export command to change the scope of your variable to global for your shell.
 
-* To make a permanent global variable, add it to your .bash_profile like so:
+To make a permanent global variable, add it to your .bash_profile like so:
 
 code
  MY_NAME=breck; export MY_NAME
 
 # Accept input.
 
-* Use the read command to accept input.
+Use the read command to accept input.
 
 code
  echo "What is 1+1?"
@@ -48,7 +48,7 @@ code
 
 # Notes
 
-* 1. Bash <a href="https://steve-parker.org/sh/variables1.shtml
+1. Bash <a href="https://steve-parker.org/sh/variables1.shtml
 ">tutorial</a> 2. Another <a href="https://www.mcsr.olemiss.edu/unixhelp/environment/env3db.html
 ">tutorial</a> 3. Bash <a href="https://steve-parker.org/sh/variables2.shtml
 ">parameters</a>
