@@ -14,7 +14,7 @@ permalink git-ignore-a-file-thats-in-the-repo.html
 code
  git update-index --assume-unchanged filepath
 
-* and to reverse:
+* And to reverse:
 
 code
  git update-index --no-assume-unchanged filepath

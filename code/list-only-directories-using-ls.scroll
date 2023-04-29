@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink list-only-directories-using-ls.html
 
-* the "ls" command lists all files and directories. What if you just wanted to list the directories?
+* The `ls` command lists all files and directories. What if you just wanted to list the directories?
  dateline
 
 code

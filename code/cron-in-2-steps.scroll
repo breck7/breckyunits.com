@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink cron-in-2-steps.html
 
-* cron lets you schedule linux commands to execute on a regular basis.
+`cron` lets you schedule linux commands to execute on a regular basis.
  dateline
 
 * For instance, say we want to run the command "wget http://yourdomain.com/backup.zip" each hour, that downloads a backup of one of your websites.

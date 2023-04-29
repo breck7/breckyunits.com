@@ -49,7 +49,7 @@ code
 code
  ./hello.sh
 
-* is equivalent to typing the full path to the file such as this:
+* Is equivalent to typing the full path to the file such as this:
 
 code
  /home/breck/hello.sh

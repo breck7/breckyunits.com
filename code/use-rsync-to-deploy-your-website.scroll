@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink use-rsync-to-deploy-your-website.html
 
-* rsync is a nifty little tool that can deploy a website to a testing or production server.
+`rsync` is a nifty little tool that can deploy a website to a testing or production server.
  dateline
 
 * Here's a one line command to deploy brecksblog:

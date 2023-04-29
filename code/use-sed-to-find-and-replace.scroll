@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink use-sed-to-find-and-replace.html
 
-* grep is to find what sed is to replace.
+`grep` is to find what `sed` is to replace.
  link use-grep-to-search-multiple-files-at-once.html grep
  dateline
 

@@ -7,8 +7,8 @@ date 2022-6-21
 groups index
 keyboardNav
 
-* dateline
- I'm going to start sticking my Sublime Text settings and plugins here.
+I'm going to start sticking my Sublime Text settings and plugins here.
+ dateline
 
 code
  "goto_anything_exclude_gitignore": true,

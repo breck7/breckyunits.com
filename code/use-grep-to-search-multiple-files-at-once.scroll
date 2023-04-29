@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink use-grep-to-search-multiple-files-at-once.html
 
-* grep lets you search through multiple text files at once.
+`grep` lets you search through multiple text files at once.
  dateline
 
 * I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
