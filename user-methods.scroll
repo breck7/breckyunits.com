@@ -23,7 +23,7 @@ All Object Oriented Programmers are familiar with the concept of <code>PrivateMe
 quote
  A UserMethod is a class method called by the user through a non-programmatic interface
 
-<code>UserMethods</code> are all the entry points a user has to interact with your application. All interactions users have with your application can be represented by a sequence of calls to UserMethods.
+`UserMethods` are all the entry points a user has to interact with your application. All interactions users have with your application can be represented by a sequence of calls to UserMethods.
 
 # An Example
 

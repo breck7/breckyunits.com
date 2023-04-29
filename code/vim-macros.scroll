@@ -27,19 +27,21 @@ code
 
 You can record a macro to help speed up the commenting process.
 
-Just type <code>q</code> followed by the letter you want to assign the macro to (in this case let's use <code>c</code>), type your keystrokes, then hit <code>q</code> again to stop recording. Now hit <code>c</code> to replay your macro.
+Just type `q` followed by the letter you want to assign the macro to (in this case let's use `c`), type your keystrokes, then hit `q` again to stop recording. Now hit `c` to replay your macro.
 
 You can overwrite the macro by repeating the above steps.
 
 Bonus tip:
 
-<b>Bookmarks</b>.Use <code>m</code> + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
+*Bookmarks*.Use `m` + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
 
-<b>Keyword completion</b>. Use <code>Ctrl+N</code> to complete a word.
+*Keyword completion*. Use `Ctrl+N` to complete a word.
 
 # Notes
 
-- 1. <a href="http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html">Vim macro tutorial</a>.
-- 2. <a href="http://jmcpherson.org/editing.html">Another great vim resource.</a>
+- 1. Vim macro tutorial.
+ http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html
+- 2. Another great vim resource.
+ http://jmcpherson.org/editing.html
 
 import footer.scroll

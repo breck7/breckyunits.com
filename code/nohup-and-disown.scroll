@@ -11,7 +11,8 @@ permalink nohup-and-disown.html
 Just read a good guide on how to keep commands running when you exit ssh:
  dateline
 
-<a href="http://playingwithsid.blogspot.com/2007/10/disown-nohup-bash-commands.html">Disown, nohup : Bash Commands</a>.
+Disown, nohup : Bash Commands.
+ http://playingwithsid.blogspot.com/2007/10/disown-nohup-bash-commands.html
 
 Basically:
 
@@ -22,5 +23,7 @@ Adding the ampersand to the end of a command in Nix executes the command in the 
 
 What is nohup? It's another obfuscated Nix low level utility that is an abbreviation for "No Hangup Signal", in other words: if the terminal sends a hangup signal, normally that kills all running processes, but this says ignore that.
 
-Wikipedia article on <a href="https://en.wikipedia.org/wiki/Nohup.">nohup</a>
+Wikipedia article on nohup
+ https://en.wikipedia.org/wiki/Nohup nohup
+
 import footer.scroll

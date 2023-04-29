@@ -9,7 +9,8 @@ For the past year I've been raving about Node.js, so I cracked a huge smile when
 
 quote
  In five years, which language is likely to be most prominent, Node.js, Python, or Ruby, and why?
-- <a href="http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why">Quora</a>
+- Quora
+ http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why
 
 endSnippet
 groups index
@@ -38,6 +39,6 @@ The future is impossible to predict accurately.
 
 # Notes
 
-<i>All that being said, Node.js kicks ass <b>today</b>(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it.</i>
+_All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
 
 import footer.scroll

@@ -33,7 +33,7 @@ Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
 You can do all kinds of neat things with symlinks, but the simplest uses are often the ones you'll use most. (One of the cooler uses of symlinks is for deploying different versions of websites).
 
 # Notes
-
-<a href="https://./use-aliases-to-save-time.html">Aliases</a> are another great time saver.
+Aliases are another great time saver.
+ link use-aliases-to-save-time.html Aliases
 
 import footer.scroll

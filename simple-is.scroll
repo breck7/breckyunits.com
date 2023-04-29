@@ -1,31 +1,28 @@
 import header.scroll
 title Simple is...
-
+groups index
+keyboardNav
 startColumns 2
 date 2012-12-16
 permalink simple-is.html
 
-<b>Concise but not cryptic</b>. e = mc2 is precise and not too cryptic. Shell commands, such as chmod -R 755 some_dir are concise but very cryptic.
+*Concise but not cryptic*. e = mc2 is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
  dateline
- code chmod -R 755 some_dir
 
 endSnippet
-groups index
 
-keyboardNav
+*Understandable but not misleading*. "Computing all boils down to ones and zeros" is understandable and not misleading. "Milk: it does a body good", is understandable but misleading.
 
-<b>Understandable but not misleading</b>. "Computing all boils down to ones and zeros" is understandable and not misleading. "Milk: it does a body good", is understandable but misleading.
+*Minimal but not incomplete*. A knife, spoon and fork is minimal. Just a knife is incomplete.
 
-<b>Minimal but not incomplete</b>. A knife, spoon and fork is minimal. Just a knife is incomplete.
+*Broad but selective*. A knife, spoon, and fork is broad and selective. A knife, spoon, fork and turkey baster is just as broad but not selective.
 
-<b>Broad but selective</b>. A knife, spoon, and fork is broad and selective. A knife, spoon, fork and turkey baster is just as broad but not selective.
+*Flat but not too flat*. 1,000 soliders is flat but too flat. At least a few officers would be better.
 
-<b>Flat but not too flat</b>. 1,000 soliders is flat but too flat. At least a few officers would be better.
+*Anthropocentric not presentcentric*. Shoes are relevant to people at any time. An iPhone 1 case is only useful for a few years.
 
-<b>Anthropocentric not presentcentric</b>. Shoes are relevant to people at any time. An iPhone 1 case is only useful for a few years.
+*Cohesive but flexible*. You want the set to match. But you want each item to be independently improveable.
 
-<b>Cohesive but flexible</b>. You want the set to match. But you want each item to be independently improveable.
-
-<b>Simple is balanced</b>. It is nuanced, not black and white.
+*Simple is balanced*. It is nuanced, not black and white.
 
 import footer.scroll

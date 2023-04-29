@@ -21,6 +21,8 @@ code
  *~
  .DS_Store
 
-<a href="http://railstutorial.org/chapters/beginning#sec:adding_and_committing">Source</a>
+- Source
+ http://railstutorial.org/chapters/beginning#sec:adding_and_committing
  dateline
+
 import footer.scroll

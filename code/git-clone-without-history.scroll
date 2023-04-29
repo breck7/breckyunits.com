@@ -14,6 +14,6 @@ If you're using a library from git in another project, you may want to download 
 code
  git clone --depth 1 your_repo_url
 
-<a href="http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F">http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F</a>
+http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
 
 import footer.scroll
