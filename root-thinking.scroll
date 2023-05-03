@@ -1,23 +1,29 @@
 import header.scroll
-title Root Thinking
-
-startColumns 2
-date 11/16/2022
-
-openGraphImage https://breckyunits.com/banyan.png
-
-I hate the term _first principles thinking_. It's vague and unclear. I present a better term: *root thinking*. It is shorter, more accurate, and contains a visual.
- dateline
-
-All ideas are trees. All products start as ideas. Therefore all products are trees. You can come up with radical new product ideas only by altering your trees near the root.
-
-So if you want to change the world, practice _root thinking_. 
-
-image banyan.svg
- caption A Banyan tree.
-  https://leafdb.org/banyan.html
-
-
 groups index
 keyboardNav
+title Root Thinking
+startColumns 1
+date 11/16/2022
+
+openGraphImage https://breckyunits.com/rootThinking.png
+
+I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
+ dateline
+
+image rootThinking.svg
+ caption Sometimes we get something wrong near the root which limits our late stage growth. To reach new heights, we have to backtrack and build up from a different point.
+
+All formal systems can be represented as trees^tn. First Principles are simply the nodes at the root.
+ https://en.wikipedia.org/wiki/First_principle First Principles
+
+## Root thinking becomes more valuable as current growth slows
+Technology grows very fast along its trendy branches. But eventually growth slows: there are always ceilings to the current path. As growth begins to slow, the ROI becomes higher for looking back for a path not taken, closer to the root, that could allow humans to reach new heights.
+
+## Root thinking isn't as valuable when growth is rapid
+If everyone practiced _root thinking_ all the time we would get nowhere. It's hard to know the limits to a current path without going down it. Perhaps we only need 1 in 100, perhaps even fewer, to research and reflect on the current path and see if we have some better choices. I haven't invested much thought yet to what the ideal ratio is, if there is even one.
+
+## Notes
+^tn Tree Notation is one minimal system for representing all structures as trees.
+ https://treenotation.org Tree Notation
+
 import footer.scroll
