@@ -20,19 +20,24 @@ keyboardNav
 
 In 1998, a large group of developers were working on technologies to make the web simpler, more collaborative, and more powerful. Their vision and hard work led to XML and SOAP.
 
-XML was intended to be a markup language that was <a href="http://en.wikipedia.org/wiki/XML">"both human-readable and machine-readable"</a>. As Dave Winer described it, <a href="http://scripting.com/davenet/1998/06/04/xmlParsers.html">"XML is structure, simplicity, discoverability and new power thru compatibility."</a>
+XML was intended to be a markup language that was "both human-readable and machine-readable". As Dave Winer described it, "XML is structure, simplicity, discoverability and new power thru compatibility."
+ http://en.wikipedia.org/wiki/XML both human-readable and machine-readable
+ http://scripting.com/davenet/1998/06/04/xmlParsers.html XML is structure, simplicity, discoverability and new power thru compatibility.
 
-SOAP, which was built on top of XML, was intended to be a "Simple Object Access Protocol". Dave said <a href="http://scripting.com/davenet/1998/06/14/infoWorldOnSoap.html">"the technology is potentially far-reaching and precedent-setting."</a>
+SOAP, which was built on top of XML, was intended to be a "Simple Object Access Protocol". Dave said "the technology is potentially far-reaching and precedent-setting."
+ http://scripting.com/davenet/1998/06/14/infoWorldOnSoap.html the technology is potentially far-reaching and precedent-setting
 
 These technologies allowed developers across the world to build websites that could work together with other websites in interesting ways. Nowadays, most web companies have APIs, but that wasn't always the case.
 
 Although XML and SOAP were a big leap forward, in practice they are difficult to use. It's arguable whether they are truly "human-readable" or "simple".
 
-Luckily, in 2001 Douglas Crockford specified a simpler, more concise language called <a href="http://www.json.org/">JSON</a>. Today JSON has become the de facto language for web services.
+Luckily, in 2001 Douglas Crockford specified a simpler, more concise language called JSON. Today JSON has become the de facto language for web services.
+ http://www.json.org JSON
 
 ? Could JSON be improved?
 
-Early last year, one idea that struck me was that subtle improvements to underlying technologies can have exponential impact. Fix a bug in subversion and save someone hours of effort, but <a href="http://en.wikipedia.org/wiki/Git_(software)">replace subversion</a> and save someone weeks.
+Early last year, one idea that struck me was that subtle improvements to underlying technologies can have exponential impact. Fix a bug in subversion and save someone hours of effort, but replace subversion and save someone weeks.
+ http://en.wikipedia.org/wiki/Git_(software) replace subversion
 
 The switch from XML to JSON had made my life so much easier, I wondered if you could extract an even simpler alternative to JSON. JSON, while simple, still takes a while to learn, particularly if you are new to coding. Although more concise than XML, JSON has at present six types and eight syntax characters, all of which can easily derail developers of all skill levels. Because whitespace is insignificant in JSON, it quickly becomes messy. These are all relatively small details, but I think perhaps getting the details right in a new encoding could make a big difference in developers' lives.
 
@@ -40,7 +45,8 @@ The switch from XML to JSON had made my life so much easier, I wondered if you c
 
 After almost two years of tinkering, and with a lot of inspiration from JSON, XML, HAML, Python, YAML, and other languages, we have a new simple encoding that I hope might make it easier for people to create and use web services.
 
-We dubbed the encoding Note, and have put an early version with Javascript support up on <a href="https://github.com/breck7/note.">Github</a> We've also put out a quick demonstration site that allows you to interact with some popular APIs using Note.
+We dubbed the encoding Note, and have put an early version with Javascript support up on Github. We've also put out a quick demonstration site that allows you to interact with some popular APIs using Note.
+ https://github.com/breck7/note Github
 
 Note is a text based encoding that uses whitespace to give your data structure. Note is simple: there are only two syntax characters (newline and space). It is concise--not a single keystroke is wasted (we use a single space for indentation--why use 2 when one is sufficient?). Note is neat: the meaningful whitespace forces adherance to a clean style. These features make Note very easy to read and to write.
 
