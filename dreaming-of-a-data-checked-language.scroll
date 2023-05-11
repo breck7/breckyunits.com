@@ -31,7 +31,17 @@ Spell checking is now an effortless technology and <span class="dataError">every
 Data errors are so pervasive that I came up with a hypothesis today and put it to the test. My hypothesis was this: *100% of "reputable" publications will have at least one data error on their front page*.
 
 # Method
-I wrote down 10 reputable sources off the top of my head: the <a href="https://www.wsj.com/">WSJ</a> <a href="https://www.nejm.org/">the New England Journal of Medicine</a>, <a href="https://www.nature.com/">Nature</a>, <a href="https://www.economist.com/">the Economist</a>, <a href="https://www.newyorker.com/">the New Yorker</a>, <a href="https://www.aljazeera.com/">Al Jazeera</a>, <a href="https://hbr.org/">Harvard Business Review</a>, <a href="https://news.google.com/">Google News: Science</a>, <a href="https://www.fda.gov/home">the FDA</a>, and the <a href="https://www.nih.gov/">NIH</a>.
+I wrote down 10 reputable sources off the top of my head: the WSJ, The New England Journal of Medicine, Nature, The Economist, The New Yorker, Al Jazeera, Harvard Business Review, Google News: Science, the FDA, and the NIH.
+ https://www.wsj.com/ WSJ
+ https://www.nejm.org/ The New England Journal of Medicine
+ https://www.nature.com/ Nature
+ https://www.economist.com/ The Economist
+ https://www.newyorker.com/ The New Yorker
+ https://www.aljazeera.com/ Al Jazeera
+ https://hbr.org/ Harvard Business Review
+ https://news.google.com/ Google News: Science
+ https://www.fda.gov/home FDA
+ https://www.nih.gov/ NIH
 
 For each source, I went to their website and took a single screenshot of their homepage, above the fold, and skimmed their top stories for data errors.
 
@@ -109,7 +119,7 @@ If we had a data checker that highlighted data errors <span class="dataError" ti
 
 If we had a checker for data errors appear today our screens <span class="dataError">would be full of blue</span>. For example, click the button below to highlight just some of the data errors on this page alone.
 
-* <style id="styleHolder"></style><button class="bigButton" onclick="document.getElementById('styleHolder').innerHTML = '.dataError {text-decoration: underline;text-decoration-style: wavy;text-decoration-color: blue;}'">Highlight data errors</button>
+<style id="styleHolder"></style><button class="bigButton" onclick="document.getElementById('styleHolder').innerHTML = '.dataError {text-decoration: underline;text-decoration-style: wavy;text-decoration-color: blue;}'">Highlight data errors</button>
 
 ? How Do We Reduce Data Errors?
 
@@ -123,13 +133,13 @@ I still don't know what that looks like, exactly. I spend half my work time atte
 
 While I don't know what the solution will be, I would not be surprised if the following patterns play a big role in moving us to a world where data errors are extinct:
 
-1. *Radical increases in collaborative data projects* It is very easy for a person or small group to crank ou content laden with data errors. It takes small armies o people making steady contributions over a long time perio to build the big datasets that can power content free o data errors.
+* 1. *Radical increases in collaborative data projects* It is very easy for a person or small group to crank out content laden with data errors. It takes small armies of people making steady contributions over a long time period to build the big datasets that can power content free of data errors.
 
-2. *Widespread improvements in data usability*. <span class="dataError">Lots of people and organizations have moved in the past decade to make more of their data open</span>. However, it generally <span class="dataError">takes hours</span> to become fluent with one dataset, and there are <span class="dataError">millions</span> of them out there. Imagine if it took you hours to ramp on a single English word. That's the state of data usability right now. We need widespread improvements here to make integrated contexts easier.
+* 2. *Widespread improvements in data usability*. <span class="dataError">Lots of people and organizations have moved in the past decade to make more of their data open</span>. However, it generally <span class="dataError">takes hours</span> to become fluent with one dataset, and there are <span class="dataError">millions</span> of them out there. Imagine if it took you hours to ramp on a single English word. That's the state of data usability right now. We need widespread improvements here to make integrated contexts easier.
 
-3. *Stop subsidizing content laden with data errors*. We grant monopolies on information and so there's even more incentive to create stories laden with data errors—because there are more ways to lie than to tell the truth. We should revisit intellectual monopoly laws.
+* 3. *Stop subsidizing content laden with data errors*. We grant monopolies on information and so there's even more incentive to create stories laden with data errors—because there are more ways to lie than to tell the truth. We should revisit intellectual monopoly laws.
 
-4. *Novel innovations in language*. Throughout history novel new sublanguages have enhanced our cognitive abilities. Things like geometry, Hindu-Arabic numerals, calculus, binary notation, etc. I hope some innovators will create very novel data sublanguages that make it much easier to communicate with data and reduce data errors.
+* 4. *Novel innovations in language*. Throughout history novel new sublanguages have enhanced our cognitive abilities. Things like geometry, Hindu-Arabic numerals, calculus, binary notation, etc. I hope some innovators will create very novel data sublanguages that make it much easier to communicate with data and reduce data errors.
 
 Have you invented a data checked language, or are working on one? If so, please get in touch.
 
