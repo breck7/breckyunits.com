@@ -23,9 +23,21 @@ image feynmanBlackboard.jpg
 
 Minsky mocked psychiatrists and the pharmaceutical industry with their chemical view of the brain. Imagine thinking you could fix a computer if you just adjusted the ratio of Copper-63 vs Copper-65 in the CPU. These people have no idea what they are doing or talking about, and Minsky called them on it. The thinking processes matter most, not the materials.
 
-# Suggested Reading (and watching)
+# The Basic Idea
 
-Minsky's view of the mind is one composed of a '"society" of tiny components that are themselves mindless'. But I am not writing to use up your time with a second hand regurgitation of his ideas.
+Minsky's view of the mind is one composed of a "_society_ of tiny components that are themselves mindless". A person is a collection of agents, which are like programs and processes. Outputs from some agents may be inputs for others. Mathematically it could be modeled very roughly like this:
+
+css .scrollKatex {text-align: center; margin: 1em;}
+
+katex Mind = P_{A_1} \circ P_{A_2} \circ \ldots \circ P_{A_N}
+
+Where _P_ represents a running process of an agent and _N_ is the number of agents that constitute a mind/person.
+
+_N_ might be very large. Minsky says hundreds in his talks, which might actually be a lower bound. If someone formed a new agent everyday, on average, it could be over ten thousand by the age of 30. If it took 1 million neurons to form one "agent" we could have 100,000 agents—the range of possibilities is large. Minsky's ideas are a conceptual framework, and it's up to science to figure out whether the agents model is correct and how many there might be^hawkins.
+
+But I don't want to use too much of your time to give you a second hand regurgitation of his ideas.
+
+# Suggested Reading (and watching)
 
 My goal with this post is to beg you, if you want to understand the mind, to start with Minsky. Pickup his book _Society of Mind_. I believe _Society of Mind_ is the _Origin of Species_ of our times. You cannot understand biology without modeling its evolutionary processes and you cannot understand the mind without modeling its multi-agent processes.
 
@@ -53,5 +65,8 @@ Minsky certainly didn't figure it all out. You'll see in his interviews he is ve
  https://neuralink.com/ Neuralink 
 
 He didn't figure it all out but he certainly found a solid foundation. The people in computer science who took his ideas seriously are now building AIs that are indistinguishable from magic. Whereas the people in the mental health fields who have ignored his ideas in favor of the DSM continue to make things worse.
+
+^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
+ https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
 import footer.scroll
