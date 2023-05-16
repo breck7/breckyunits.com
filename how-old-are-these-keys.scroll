@@ -1,13 +1,8 @@
 import header.scroll
 title How Old Are These Keys?
-
-startColumns 2
-groups index
-keyboardNav
-
-image keyboard/screenshot.png
-
 date 2020-02-25
+startColumns 2
+image keyboard/screenshot.png
 
 One of the questions I often come back to is this: how much of our collective wealth is inherited by our generations versus created by our generations?
  dateline
@@ -28,15 +23,12 @@ Painting with broad strokes, there were approximately five big waves of inventio
 I haven't made any traditional charts yet with this dataset, but you can roughly make out these waves in the interactive visualization by moving the slider around.
 
 # Concentric Circles
-
 An interesting pattern that I never saw before is how the five waves above are roughly arranged in circles. The oldest symbols (letters) are close to the center, followed by the Hindu-Arabic Numbers, surrounded by the punctuation of the Englightenment, surrounded by the keys of the keyboard, surrounded by the recent additions in the P.C. era. Again, painting with broad strokes, but I found that to be an interesting pattern.
 
 # Standing on the Shoulders of Giants
-
 All of these waves happened invented before my generation. Almost all of them before any generation alive today. The keyboard dataset provides strong evidence that most of our collective wealth is inherited.
 
 # Build Notes
-
 I got this idea last week and couldn't get it out of my head. Yesterday I took a quick crack at it. I didn't have much time to spare, just enough to explore the big ideas.
 
 I started by typing all the characters on my keyboard into a Tree Notation document. Then I dug up some years for a handful of the symbols.
@@ -49,4 +41,4 @@ Finally I played around with a number of visualization effects. At first I thoug
 
 I made the thing as fun as I could given time constraints and then shipped.
 
-import footer.scroll
+import indexFooter.scroll

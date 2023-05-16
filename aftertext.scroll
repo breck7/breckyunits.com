@@ -28,9 +28,6 @@ code
   link hi.html this
 
 endSnippet
-groups index
-
-keyboardNav
 
 You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
  italics After your text
@@ -186,6 +183,4 @@ comment
 image aftertext.png
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
-
-
-import footer.scroll
+import indexFooter.scroll

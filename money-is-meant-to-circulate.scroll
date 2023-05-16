@@ -3,10 +3,6 @@ title Money is Meant to Circulate
 
 startColumns 2
 
-groups index
-
-keyboardNav
-
 quote
  The crux of the matter, is that people don't understand the true nature of money. It is meant to circulate, not be wrapped up in a stocking
  @ Guglielmo Marconi
@@ -20,4 +16,4 @@ This quote, by the way, is from "My Father, Marconi", a biography of the famous 
 
 P.S. This quote also applies well to most man made things. Cars,  houses, bikes, et cetera, are more valuable circulating than idling. It seemed briefly we were on a trajectory toward overabundance, but the sharing economy is bringing circulation back.
 
-import footer.scroll
+import indexFooter.scroll

@@ -1,8 +1,7 @@
 import header.scroll
 title Integrity and Perseverance in Business ensure success (1853)
-
-startColumns 2
 date 2020-02-09
+startColumns 2
 
 image integrity.jpg
 
@@ -26,8 +25,5 @@ quote
  https://en.wikipedia.org/wiki/John_D._Rockefeller John D. Rockefeller
 
 permalink integrity-and-perseverance-in-business-ensure-success.html
-groups index
 
-keyboardNav
-
-import footer.scroll
+import indexFooter.scroll

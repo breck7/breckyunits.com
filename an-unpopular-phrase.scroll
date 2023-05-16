@@ -14,9 +14,6 @@ However, the industry insists on using the false term "Intellectual Property Law
 Instead of wasting my breath trying to pull them away from the property analogy, lately I've leaned into it and completed the analogy for them. So let me explain "Intellectual Slavery Laws".
 
 endSnippet
-groups index
-
-keyboardNav
 
 As far as I can figure, you cannot have Property Rights and "Intellectual Property" rights. Having both is logically inconsistent. My computer is my property. However, by law there are billions of peaceful things I cannot do on my computer. Therefore, my computer is not my property.
 
@@ -42,4 +39,4 @@ I know, having now used this term with a hundred different people, that this is 
 - This woman is amazing.
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan
 
-import footer.scroll
+import indexFooter.scroll

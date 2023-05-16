@@ -10,9 +10,6 @@ When I was a kid I loved reading the Family Circus. My favorite strips were the 
 image family_circus/0.png
 
 endSnippet
-groups index
-
-keyboardNav
 
 These strips gave a clear narrative of Billy's day. In the strip above, Billy, a fun loving kid, was given a task by his mother to put some letters in the mailbox before the mailman arrives. Billy took the letters, ran into the kitchen, then dashed into the living room, jumped on the couch, sprinted to the dining room, crawled under the dining room table, skipped into the TV room, jumped into the crib, twirled into the foyer, stumbled outside, swung around the light post, then ran to the mailbox.
 
@@ -24,13 +21,13 @@ Let's imagine that right now, once again, Billy and his mom are standing in the 
 
 Pick a range, and then <a onclick="document.getElementById('answer').style.display='block'" style="color:blue; cursor: pointer;">click here</a> to see the answer.
 
-html <div style="display: none;" id="answer">
+<div style="display: none;" id="answer">
 
 If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
 
 But, if you're like me, it would be hard to resist making a more precise guess based upon the story we saw. Humans, at least many of us, are quick to build narratives around events and then rely on those narratives to make predictions.
 
-We know what happened before, so we try to predict the future off of that. This wouldn't be a problem if we truly knew what happened before. The problem is: we don't actually know what happened before. We only know what we witnessed before. <i>A lot happened that we didn't witness</i>.
+We know what happened before, so we try to predict the future off of that. This wouldn't be a problem if we truly knew what happened before. The problem is: we don't actually know what happened before. We only know what we witnessed before. _A lot happened that we didn't witness_.
 
 The problem is we only get to witness one universe, one path, but nature in fact, is constantly generating many, many paths. What we witnessed is not the whole story. What we witnessed is just a slice of the story.
 
@@ -86,6 +83,6 @@ Experiments, where we get to witness thousands or millions of universes are good
 
 (Influenced a lot by Taleb's new book, Antifragile.)
 
-html </div>
+</div>
 
-import footer.scroll
+import indexFooter.scroll

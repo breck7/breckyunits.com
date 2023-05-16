@@ -17,9 +17,6 @@ quote
  Simple: nothing else works.
 
 endSnippet
-groups index
-
-keyboardNav
 
 I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. Stories make people feel something. They get people going.
 
@@ -43,5 +40,4 @@ Perhaps it's just more fun. Maybe stories are suboptimal for decision making and
 
 Despite my problems with narratives and my quest for something better, it seems quite possible to me that at the end of the day it may turn out that there is nothing better, and it's best to make peace with stories, despite their flaws. And regardless of the future, I can't argue with the value of stories today for motivation and enjoyment. Nothing else works.
 
-
-import footer.scroll
+import indexFooter.scroll

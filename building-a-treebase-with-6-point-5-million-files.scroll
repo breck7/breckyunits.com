@@ -13,9 +13,6 @@ TreeBase is a new system I am working on for long-term, strongly-typed collabora
  https://treenotation.org Tree Notation
 
 endSnippet
-groups index
-
-keyboardNav
 
 For example, in this tiny demo TreeBase of the planets the file `mars.planet` looks like this:
  https://github.com/breck7/truebase/tree/main/planetsDB TreeBase of the planets
@@ -696,4 +693,4 @@ So I think this could be pretty cool. As dumb as it is.
 
 I would love to hear your thoughts.
 
-import footer.scroll
+import indexFooter.scroll

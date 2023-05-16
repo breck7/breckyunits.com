@@ -4,13 +4,11 @@ title Metrics for Programmers
 startColumns 2
 date 2010-03-16
 
-I wrote a simple php program called <a href="http://github.com/breck7/phpcodestat">phpcodestat</a> that computes some simple statistics for any given directory.
+I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
  dateline
+ http://github.com/breck7/phpcodestat phpcodestat
 
 endSnippet
-groups index
-
-keyboardNav
 
 I think brevity in source code is almost always a good thing. I think as a rule your code base should grow logarithmically with your user base. It should not grow linearly and certainly not exponentially.
 
@@ -29,4 +27,4 @@ spaceTable
  ../Zend-1.10 360 2145 1692 336419 42 11123
  ../symfony-1.4.3 770 2905 2091 298700 362 12198
 
-import footer.scroll
+import indexFooter.scroll

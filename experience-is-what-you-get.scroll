@@ -1,20 +1,15 @@
 import header.scroll
 title Experience is What You Get
-
+date 2009-12-02 2
 startColumns 2
 
 quote
  Experience is what you get when you don't get what you want.
 
-date 2009-12-02 2
-
 How many times have you struggled towards a goal only to come up short? How many times have bad things happened to you that you wish hadn't happened? If you're like me, the answer to both of those is: a lot.
  dateline
 
 endSnippet
-groups index
-
-keyboardNav
 
 But luckily you always get something when you don't get what you want. You get experience. Experience is data. When accumulated and analyzed, it can be incredibly valuable.
 
@@ -24,4 +19,4 @@ You've got to see patterns in the world and recognize cause and effect. You've g
 
 When you're fresh out of the gate, it's hard to make those predictions. You just don't have any data so you can't analyze cause and effect appropriately. But once you're out there attempting things, even if you screw up or don't get what you want, you get experience. You get data to use to make better decisions in the future.
 
-import footer.scroll
+import indexFooter.scroll

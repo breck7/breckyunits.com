@@ -10,13 +10,10 @@ All the time I overhear people saying things like "I will start excercising ever
 The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
 
 endSnippet
-groups index
-
-keyboardNav
 
 Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.
 
-I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you <i>will do</i> entirely, and only talk about things you <i>have done</i>. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you _will do_ entirely, and only talk about things you _have done_. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
 
 # Why we are bad at making predictions.
 
@@ -53,14 +50,12 @@ What do you do? Do you say:
 
 In my opinion you should say something like 3 or 4.
 
-This second example models real life better. <i>The future is always foggy</i>.
+This second example models real life better. _The future is always foggy_.
 
 ? Why is the future foggy?
-
 I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
 
 # Notes
+1. In other words, don't overpromise and underdeliver.
 
-- 1. In other words, don't overpromise and underdeliver.
-
-import footer.scroll
+import indexFooter.scroll

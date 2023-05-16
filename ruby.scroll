@@ -4,13 +4,9 @@ title Ruby
 startColumns 2
 date 2010-08-25
 
-groups index
-
-keyboardNav
-
 Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
  dateline
 
 Python is a great language too, and I have more experience with it, and the whitespace thing is a silly gripe. But I've reached a peak with PHP and am looking to master something new. Ruby it is.
 
-import footer.scroll
+import indexFooter.scroll

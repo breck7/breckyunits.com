@@ -3,8 +3,6 @@ title Dreaming of a Data Checked Language
 
 startColumns 2
 date 2020-01-3
-groups index
-keyboardNav
 
 * <span class="redSquig">Speling</span> errors and <span class="greenSquig">errors grammar</span> are <span class="dataError">nearly extinct in published content</span>. *Data errors*, however, <span class="dataError">are prolific</span>.
  dateline
@@ -161,4 +159,4 @@ css
    border-radius: 5px;
  }
 
-import footer.scroll
+import indexFooter.scroll

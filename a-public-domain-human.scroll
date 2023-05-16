@@ -1,6 +1,4 @@
 import header.scroll
-groups index
-keyboardNav
 title A Public Domain Human
 startColumns 2
 date 3/6/2023
@@ -70,4 +68,4 @@ image honestBrain.jpg
 
 ^marriageAdvice Divorce: Getting legally married was a big mistake. In my experience, lawyers and judges in California Family Court are not steered by honest agents and I regret blindly signing up for their corrupt system.
 
-import footer.scroll
+import indexFooter.scroll

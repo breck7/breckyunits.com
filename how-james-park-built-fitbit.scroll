@@ -3,8 +3,6 @@ title How James Park built FitBit
 date 2021-03-11
 
 startColumns 2
-groups index
-keyboardNav
 
 comment
  todo: add custom grammar.
@@ -556,4 +554,4 @@ image fitbit2008.jpg
  https://twitter.com/guyraz @guyraz
  https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
 
-import footer.scroll
+import indexFooter.scroll

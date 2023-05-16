@@ -7,7 +7,8 @@ date 2010-03-08
 If a post on HackerNews gets more points, it gets more visits.
  dateline
 
-But how much more? That's what <a href="http://news.ycombinator.com/item?id=1175277">Murkin</a> wanted to know.
+But how much more? That's what Murkin wanted to know.
+ http://news.ycombinator.com/item?id=1175277 Murkin
 
 I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
 
@@ -16,9 +17,6 @@ Here's how it looks if you plot visits by karma score:
 image visits_by_karma.png
 
 endSnippet
-groups index
-
-keyboardNav
 
 The Pearson Correlation is high: 0.894. Here's the raw data:
 
@@ -34,4 +32,4 @@ spaceTable
  1 146 <a href="seo-made-easy-lumps.html">/seo_made_easy_lumps</a>
  1 36 <a href="dont-flip-the-bozo-bit.html">/dont_flip_the_bozo_bit</a>
 
-import footer.scroll
+import indexFooter.scroll

@@ -1,6 +1,6 @@
 import header.scroll
 title Scrolldown now has Dialogues
-
+date 2021-05-14
 startColumns 2
 permalink dialogues.html
 
@@ -15,11 +15,6 @@ chat
 aboveAsCode
 
 endSnippet
-groups index
-
-keyboardNav
-
-date 2021-05-14
 
 Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
  dateline
@@ -30,7 +25,7 @@ Here is the Grammar code in the commit that added support for Dialogues:
 image dialogues.png
 
 # Links
-
 - Try Scroll: https://scroll.pub
 - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
-import footer.scroll
+
+import indexFooter.scroll

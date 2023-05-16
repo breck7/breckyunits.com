@@ -13,9 +13,6 @@ quote
  Culture is a set of habits that living things repeat because that's what they experienced in the past, and the past was favorable to them. Cultures have a mutually dependent relationship with their adherents.
 
 endSnippet
-groups index
-
-keyboardNav
 
 The Emperor Penguins are born into this Culture. The Culture survives because the offspring keep repeating the process. The Emperor Penguins survive because the process seems to keep them safe from predators and close to mates. The culture and the species depend on each other.
 
@@ -34,7 +31,6 @@ One widespread human culture is to always give an explanation for an event even 
 I don't have any profound insights on culture, I just think it's fascinating and something not to read too much into---it helps us survive, but there's no greater meaning to it.
 
 # Notes
+1. Interesting factet: there are apparently 38 colonies of Emperor Penguins in Antarctica.
 
-- 1. Interesting factet: there are apparently 38 colonies of Emperor Penguins in Antarctica.
-
-import footer.scroll
+import indexFooter.scroll

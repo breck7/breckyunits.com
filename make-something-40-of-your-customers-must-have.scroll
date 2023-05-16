@@ -4,16 +4,14 @@ title Make Something 40% of Your Customers Must Have
 startColumns 2
 date 2009-12-16
 
-If you combine Paul Graham's "make something people want" advice with Sean Ellis' <a href="http://venturehacks.com/articles/sean-ellis-interview">product-market fit advice</a> (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
+If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
  dateline
+ http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
 
 quote
  Make something 40% of your users must have
 
 endSnippet
-groups index
-
-keyboardNav
 
 Your steps are then: 
 
@@ -29,7 +27,7 @@ Does this advice work? I think it would for 3 reasons.
 
 PG and Sean Ellis know what they're talking about.
 
-# #2 Companies that make my "Must Haves" are successful</b>
+# #2 Companies that make my "Must Haves" are successful
 
 I made a list of my "must have" products and they are all largely successful. I suggest you try this too. It's a good exercise.
 
@@ -81,7 +79,7 @@ On the plus side, good advice can drastically help you. At the same time, if it'
 - 1. This is how you should be doing things.
 - 2. You were not doing things this way.
 
-That can frustrating. I've spent a few years now in the space and to realize you've been doing certain things wrong for a few <i>years</i> is...well...painful.
+That can frustrating. I've spent a few years now in the space and to realize you've been doing certain things wrong for a few _years_ is...well...painful.
 
 But you laugh it off and keep chugging along. 
 
@@ -90,7 +88,11 @@ But you laugh it off and keep chugging along.
 - Thanks Nivi for the great Venture Hacks interview!
 - Users/Customers refer to people who use your site regularly or buy from you. This is not "visitors". Generally a much lower percentage than 40% of visitors become users or customers. The 40% refers to the people who have made it through your funnel and have become users or customers.
 - I used customers and users interchangeably. For non-tech businesses, you can just use "customer" each time.
-- Thanks to <a href="http://www.bigorangehousestudios.com">Ben</a>, <a href="http://www.jellyfishart.com">Alex Andon</a>, and <a href="http://andrewkitchell.blogspot.com/">Andrew Kitchell</a> for feedback.
-- Another piece of startup advice that didn't "click" until recently: Roelof Botha's <a href="http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/">7 deadly sins advice</a>.
+- Thanks to Ben, Alex Andon, and Andrew Kitchell for feedback.
+ http://www.bigorangehousestudios.com Ben
+ http://www.jellyfishart.com Alex Andon
+ http://andrewkitchell.blogspot.com/ Andrew Kitchell
+- Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
+ http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
 
-import footer.scroll
+import indexFooter.scroll

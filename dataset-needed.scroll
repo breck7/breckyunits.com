@@ -10,9 +10,6 @@ People make biased claims all the time. A decent response used to be "citation n
 Whether it's an academic paper, news article, blog post, tweet, comment or ad, linking to analyses is not enough. If someone stops at that, demand a link to a clean dataset supporting the author's position. If they can't deliver, they should retract.
 
 endSnippet
-groups index
-
-keyboardNav
 
 Of course, most sources don't currently publish their datasets. *You cannot trust claims from any person or organization without an easily accessible dataset.* In fact, it's probably safe to assume when someone shares a conclusion without the accompanying dataset that they are distorting reality for their own benefit.
 
@@ -42,4 +39,4 @@ I remember being a high school student and getting graded on our dataset noteboo
 Thanks to DL for helping me refine my thinking from this earlier post.
  https://breckyunits.com/dreaming-of-a-data-checked-language.html earlier post
 
-import footer.scroll
+import indexFooter.scroll

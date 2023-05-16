@@ -4,15 +4,14 @@ title Checklist for New Products
 startColumns 2
 date 2009-12-28
 
-At <a href="http://bigorangehousestudios.com/">our startup</a>, we've practiced a <a href="https://breckyunits.com/diversification-in-startups.html">diversification strategy</a>.
+At our startup, we've practiced a diversification strategy.
  dateline
+ http://bigorangehousestudios.com/ our startup
+ https://breckyunits.com/diversification-in-startups.html diversification strategy
 
 We've basically run an idea lab, where we've built around 7 different products. Now we're getting ready to double down on one of these ideas.
 
 endSnippet
-groups index
-
-keyboardNav
 
 The question is, which one?
 
@@ -31,4 +30,4 @@ Here's a 10 question form that you can fill out for each of your products.
 - 9. What resources do you need to do this? <input size="40">
 - 10. What's the total addressable market size? <input size="6"> people $<input size="6">
 
-import footer.scroll
+import indexFooter.scroll

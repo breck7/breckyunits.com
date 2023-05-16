@@ -1,10 +1,9 @@
 import header.scroll
 title English cannot encode Real News
-
-startColumns 2
-# The Attempt to Capture Truth
-
 date 2019-08-19
+startColumns 2
+
+# The Attempt to Capture Truth
 
 Back in the 2000's Nassim Taleb's books set me on a new path in search of truth. One truth I became convinced of is that most stories are false due to oversimplification. I largely stopped writing over the years because I didn't want to contribute more false stories, and instead I've been searching for and building new forms of communication and ways of representing data that hopefully can get us closer to truth.
  dateline
@@ -14,9 +13,6 @@ Back in the 2000's Nassim Taleb's books set me on a new path in search of truth.
  https://treenotation.org/ ways of representing data
 
 endSnippet
-groups index
-
-keyboardNav
 
 I've tried my best to make my writings encode "real" and "true" information, but it's impossible to overcome the limitations of language. The longer any work of English writing is, the more inaccuracies it contains. This post itself will probably be more than 50% false.
 
@@ -37,7 +33,6 @@ quote
 DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
 
 ? What's the underlying problem?
-
 English is a fantastic story telling language that has been very effective at sharing stories, coordinating commerce and motivating armies, but English evolved in a simpler time with simpler technologies and far less understanding about how the world really works.
 
 English oversimplifies the world which makes it easy to communicate something to be done. English is a modern day cave painting language. Nothing motivates a person better than a good story, and that motivation was essential to get us out of the cave. It didn't matter so much in which direction people went, as long as they went in some direction together.
@@ -45,8 +40,9 @@ English oversimplifies the world which makes it easy to communicate something to
 But we are now out of the cave, and it is not enough to communicate what is to be done. We have many more options now and it's important that we have langauges that can better decide what is the best thing to do.
 
 ? What will a language that supports Real News look like?
-
-Real News is starting to emerge in a few places. The <a href="https://www.wsj.com">WSJ</a> has long been on the forefront but newer things like <a href="http://observablehq.com/">Observable</a> are also popping up.
+Real News is starting to emerge in a few places. The WSJ has long been on the forefront but newer things like Observable are also popping up.
+ https://www.wsj.com WSJ
+ http://observablehq.com/ Observable
 
 I don't know exactly what a language for truth will look like but I imagine it will have some of these properties:
 
@@ -70,7 +66,6 @@ quote
 New languages designed for truth telling might not just be useful in our everyday lives, they could very much change the way we think.
 
 # Finally
+Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the stories_. But just remember they are stories. If you are reading English, know that you are not reading Real News.
 
-Again, to channel Taleb, I'm not saying English is bad. By all means, <i>enjoy the stories</i>. But just remember they are stories. If you are reading English, know that you are not reading Real News.
-
-import footer.scroll
+import indexFooter.scroll

@@ -17,15 +17,11 @@ spaceTable
 The bubble is the early, early product development stage. When new people aren't constantly using and falling in love with your product, you're in the bubble. You want to get out of here as fast as possible.
 
 endSnippet
-groups index
-
-keyboardNav
 
 If you haven't launched, you're probably in the bubble. If you're in "stealth mode", you're probably in the bubble. If you're not "launching early and often", you're probably in the bubble. If you're not regularly talking to users/customers, you're probably in the bubble. If there's not a steady uptick in the number of users in love with your product, you're probably in the bubble.
 
 # Why you secretly want to stay in the bubble
-
-A part of you always wants to stay in the bubble because leaving is <i>scary</i>. Launching a product and having it flop hurts. You hesitate for the same reason you hesitate before jumping into a pool in New England: sure, sometimes they're heated, but most of the time they're frickin freezing. If the reception to your product is cold, if no one falls in love with it, it's going to hurt.
+A part of you always wants to stay in the bubble because leaving is _scary_. Launching a product and having it flop hurts. You hesitate for the same reason you hesitate before jumping into a pool in New England: sure, sometimes they're heated, but most of the time they're frickin freezing. If the reception to your product is cold, if no one falls in love with it, it's going to hurt.
 
 # The danger of the bubble
 
@@ -54,4 +50,4 @@ Here are four easy strategies for leaving the bubble: launch, launch & drop, pic
 
 That's all I've got. But don't take it from me, read the writings of web entrepreneurs who have achieved more success. (And please share what you find or your own experiences on HackerNews).
 
-import footer.scroll
+import indexFooter.scroll

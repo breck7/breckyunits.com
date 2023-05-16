@@ -10,42 +10,33 @@ Do you "flip the bozo bit" on people?
 If you don't know what that means, you probably do it unknowingly!
 
 endSnippet
-groups index
-
-keyboardNav
 
 # What it means
-
 When you "flip the bozo bit" on someone you ignore everything they say or do. You flip the bozo bit on a person when they are wrong or make a mistake over and over again. Usually you flip the bozo bit unconsciously.
 
 # An example
-
 You are writing a program with Bob. Bob constantly writes buggy code. You get frustrated by Bob's bugs and slowly start ignoring all the code he submits and start writing everything yourself. You've flipped the bozo bit!
 
 This is bad for everyone. Now you are doing more work, and Bob is becoming resentful because you are ignoring his ideas and work.
 
 # Alternatives to Flipping the Bozo Bit
-
 Instead of flipping the bozo bit, perhaps you could work with another person. If that's not possible, take a more constructive approach:
 
-1. <b>Teach</b>. Talk to Bob and figure out why he is making repeated mistakes. We all have large gaps in our education. If you've never been exposed to a concept, there's no reason why you should understand it. Try and find what it is Bob hasn't been exposed to yet, and help him learn it. 
+1. *Teach*. Talk to Bob and figure out why he is making repeated mistakes. We all have large gaps in our education. If you've never been exposed to a concept, there's no reason why you should understand it. Try and find what it is Bob hasn't been exposed to yet, and help him learn it. 
 
-2. <b>Change Roles</b>. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
+2. *Change Roles*. Maybe Bob should be working in another area. Find an area where you're the bozo and Bob's the expert. Let him work in that area, while you work in your area. He can even explain a thing or two to you.
 
 # Why We Flip the Bozo Bit
-
 It seems like a simple evolutionary trick to save time. If someone is right only 10% of the time, would it be faster to ignore every statement they made, or faster to analyze each statement carefully in case it's the 1 out of 10 statements that might be true? Seems like it would be faster to just ignore everything by flipping the bozo bit.
 
 But this is a bad solution. The two presented above are better.
 
 # Notes
-
-- 1. Thanks to Tom Price for telling me about this.
+1. Thanks to Tom Price for telling me about this.
 
 # Links
-
 - Bozo_bit: Origin of the term?
  https://en.wikipedia.org/wiki/Bozo_bit Bozo_bit
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
 
-import footer.scroll
+import indexFooter.scroll

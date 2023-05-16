@@ -8,9 +8,6 @@ I expect the future of healthcare will be powered by consumer devices. Devices y
  dateline
 
 endSnippet
-groups index
-
-keyboardNav
 
 These devices record medical data. Lots of data. They record data from macro signals like heart rate, temperature, hydration, physical activity, oxygen levels, body temperature, brain waves, voice activity. They also record data from micro signals like antibodies, RNA expression levels, metabolomics, microbiome, etc.
 
@@ -26,4 +23,4 @@ You can not only reduce illness, but you can improve well-being too. You can see
 
 The best part of all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
 
-import footer.scroll
+import indexFooter.scroll

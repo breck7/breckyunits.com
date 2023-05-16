@@ -12,9 +12,6 @@ _I haven't written in a long while because i'm currently on a long trip around t
 *Set a savings goal.* you'll need money to travel around the world, and the more money you have, the easier, longer, and more fun your journey will be.
 
 endSnippet
-groups index
-
-keyboardNav
 
 *Save, save, save*. make sure you save enough so that when your trip ends you won't come home broke. $12,000 would be a large enough amount to travel for a long time and still come back with money to get you resettled easily.
 
@@ -56,4 +53,4 @@ That's it. enjoy your trip!
 - check flight prices for the next few legs of your trip.
 - find the local groupon clones and check them often for great excursion and meal deals.
 
-import footer.scroll
+import indexFooter.scroll

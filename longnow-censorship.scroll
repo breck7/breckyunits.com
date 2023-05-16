@@ -25,7 +25,6 @@ I have paid for and made 2 public predictions. My first is a prediction about pr
 Anyway, my prediction is below, written in Scroll:
  https://scroll.pub/ Scroll
 
-
 ? What is your prediction?
 The cancer fatality rate in the United States will fall by 50% in 5 years.
 
@@ -39,10 +38,4 @@ It uses the same underlying source code as PLDB.com, which is having a similar e
 Hundreds of cures are just a few tweaks away from saving many, many lives. CancerDB will accelerate the work of cancer researchers.
 
 image longNowCancer.png
-
-
-
-
-groups index
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

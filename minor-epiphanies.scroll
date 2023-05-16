@@ -1,6 +1,4 @@
 import header.scroll
-groups index
-keyboardNav
 title Minor Epiphanies
 startColumns 2
 date 2013-03-16
@@ -8,7 +6,7 @@ date 2013-03-16
 A kid says _Mommy_ or _Daddy_ or _Jack_ or _Jill_ hundreds of times before grasping the concept of a _name_.
  dateline
 
-Likewise, a programmer types _name = Breck_ or _age=15_ hundreds of times before grasping the concept of a _variable_.
+Likewise, a programmer types `name = Breck` or `age=15` hundreds of times before grasping the concept of a _variable_.
 
 What do you call it when someone finally sees the _concept_?
 
@@ -30,4 +28,4 @@ As someone who loves to learn, my favorite thing about them is the rush you get 
 
 - Stumbled upon the term in John Calcote's book "Autotools".
 
-import footer.scroll
+import indexFooter.scroll

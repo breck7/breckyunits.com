@@ -8,9 +8,6 @@ Genetics, aka nature, plays the dominant role in predicting most aspects of your
  dateline
 
 endSnippet
-groups index
-
-keyboardNav
 
 Across every dimension in life your genes are both a glass ceiling--preventing you from reaching certain heights--and a cement foundation--making it unlikely you'll hit certain lows. How tall/short you will be, how smart/dumb you will be, how mean/nice you will be, how popular/lonely you will be, how athletic/clumsy, how fat/skinny, how talkative/quiet, how long/short you'll live, and so forth.
 
@@ -20,4 +17,4 @@ Nurture of course, plays a huge role in making you of course. Being born with gr
 
 I think the bio/genome field will be the most interesting industry come 2025 or so.
 
-import footer.scroll
+import indexFooter.scroll

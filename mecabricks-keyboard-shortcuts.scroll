@@ -5,8 +5,6 @@ startColumns 2
 
 ## Global
 
-
-
 pipeTable
  Combo|Command
  Ctrl + S|Save

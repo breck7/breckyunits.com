@@ -1,6 +1,5 @@
 import header.scroll
 title Can't Lose. Could Win Big.
-
 startColumns 2
 date 2012-12-18
 permalink cant-lose-could-win-big.html
@@ -11,9 +10,6 @@ One of Nassim Taleb's big recommendations for how to live in an uncertain world 
 In other words, put 90% of your time into safe, conservative things but take some risks with the other 10%.
 
 endSnippet
-groups index
-
-keyboardNav
 
 I personally try to follow this advice, particularly with our startup. I think it is good advice. I think it would be swell if our company became a big, profitable, innovation machine someday. But that's not what keeps me up at night.
 
@@ -35,4 +31,4 @@ I'm more concerned about creating the best worst case scenario. I spend most of 
 
 Then, if you want to make yourself open to positive black swans, you can put 10% of your efforts into things that make you more open to those like: recruiting world class talent, pitching and raising money, tackling bigger markets. But make sure you focus on the conservative things. Risk, in moderation, is a good thing. Risk, in significant amounts, is for the foolish.
 
-import footer.scroll
+import indexFooter.scroll

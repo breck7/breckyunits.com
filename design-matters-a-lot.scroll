@@ -13,9 +13,6 @@ My argument was: "you go to a website for the utility of it. Design is far secon
 I do think the real world is a pretty place, but about design, I was completely wrong.
 
 endSnippet
-groups index
-
-keyboardNav
 
 I now think design is incredibly important, and on par with engineering. I used to think a poorly designed product was a matter of a company setting the right priorities, now I think it reflects ignorance, laziness or mediocrity. If a company engineers a great product but fails to put forward a great design, it says:
 
@@ -24,7 +21,6 @@ I now think design is incredibly important, and on par with engineering. I used 
 - 3. The company's engineering team is incapable of working effectively with the design team.
 
 # Why Design is Important, In Princple
-
 For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end. 
 
 I want the computer to solve the problem and get out of my way. Computers are ugly. The world is beautiful. I like to look at other people, the sky, the ocean and not a menu or a screen. I didn't care about the style in which the computer solved my problem, because no matter how "great" it looked it couldn't compare to the natural beauty of the world. 
@@ -34,7 +30,6 @@ I was wrong.
 A computer, program, or product should always embody a good design, because the means to the end is nearly important as the end itself.  True, when riding in a car I care about the end--getting to my destination. But why shouldn't we care about the style in which we ride? Why shouldn't we care about the means? After all, isn't living all about appreciating the means? We all know what the end of life is, the important thing is to live the means with style. I've realized that I want style--and I'm a little late to the party, most people want style.
 
 # Why Design is Important, In Practice
-
 If that argument didn't make sense, there are a number of practical reasons why a great design is important.
 
 *A great design can unlock more value for the user.* Dropbox overcomes herculean engineering challenges to work, but if it weren't for its simple, easy to use design it wouldn't be nearly as useful. 
@@ -46,7 +41,6 @@ If that argument didn't make sense, there are a number of practical reasons why 
 *A great design is easy to get people behind.* People like to support sites and products that are designed well. People love to show off their Apple products. Airbnb's beautiful design had a large role in making it easy for people to support the fledgling site.
 
 # What to do if you aren't good at design
-
 Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do? 
 
 First, learn to appreciate the importance of design. 
@@ -58,4 +52,4 @@ Great engineering can't compensate for poor design just as great design can't co
 # Notes
 - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
 
-import footer.scroll
+import indexFooter.scroll
