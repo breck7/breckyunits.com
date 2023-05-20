@@ -9,6 +9,7 @@
   "author": "Breck Yunits",
   "scripts": {
     "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
     "open": "open index.html"
   },
   "bugs": {
