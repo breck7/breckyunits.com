@@ -1,14 +1,12 @@
 import header.scroll
 title Some old blogs
-
-startColumns 2
 date 2021-05-07
-groups index
-keyboardNav
-permalink some-old-blogs.html
+startColumns 2
 
 I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Wayback Machine heart ❤️.
  dateline
+
+endSnippet
 
 # August 2007 - Running Wordpress on my own domain
 
@@ -34,7 +32,6 @@ I kept it simple. My current homepage now powered by Scroll evolved from brecksb
 It looks like I also maintained a programming blog from December 2009 to January 2012 <a class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">🕸</a>. Here is that blog migrated to Scroll.
  link code/ that blog
 
-css
- .wayback{text-decoration: none;}
+css .wayback{text-decoration: none;}
 
-import footer.scroll
+import indexFooter.scroll
