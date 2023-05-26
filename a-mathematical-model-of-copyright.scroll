@@ -32,9 +32,9 @@ A thinker^communicators can be represented by $T$. A thinker can store ideas $I$
 katex H: f(T, O, t) → I_{new}
 A thinker can generate new ideas $I_new$ in time $t$ from its current set of ideas $T$ and new observations $O$.
 
-### Verification
+### Value
 katex V
-An idea $I$ can be verified by a verification function $V$ which measures the difference between the observations produced by the idea $O_{{t_1}+{t_2}}$ and the actual observations performed on the world $W$ at time ${}_{{t_1}+{t_2}}$.
+An idea $I$ can be valued by a function $V$ which measures the quantity and difference between the observations produced by the idea $O_{{t_1}+{t_2}}$ and the actual observations performed on the world $W$ at time ${}_{{t_1}+{t_2}}$. Idea $I_i$ is more valuable than idea $I_j$ if it produces more accurate observations holding the size of $|I|$ constant.
 
 ### Fictions
 katex F
@@ -43,6 +43,10 @@ A fiction^artists $F$ is an $I$ that does not accurately model $W$. A thinker $T
 ### Messages
 katex M
 Thinkers can communicate $I$ to other thinkers by encoding $I$ into messages $M_i$.
+
+### Signal
+katex \Omega: \frac{\sum{V(I)}}{|M|}
+The Signal $\Omega$ of a message is the value of its ideas divided by the size of the message.
 
 ### Fashions
 katex Z
@@ -88,6 +92,10 @@ An outlier $\sigma$ is a $\chi$ who produces exceptionally high quality $A$.
 katex K
 A copy $K_A$ is an artifact that contains the same message as $A$.
 
+### Derivatives
+katex A^{\prime}
+A derivative $A^{\prime}$ is an artifact updated by a $\chi$ to better serve the objective functions of $\chi$.
+
 ### Libraries
 katex J
 A library $J$ is a collection of $A$.
@@ -108,25 +116,37 @@ A publisher is a $T$ or set of $T$ specializing in production of $A$.
 katex U: U(D)
 A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed. 
 
+### Property
+katex X_T
+$X$ assigns a technology $X$ to an owner $T$ and allows $T$ control over $X_T$.
+
 <br>
 
 # Part 2: Adding copyright to the model
 
 ### Corporations
 katex C
-A corporation $C$ is now assigned to each artifact for duration $d$ so $A$ becomes $A^{C_d}$.
+A corporation $C$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{C_d}$.
 
-### Money
-katex Y
-Every $C$ and $T$ now has an amount of money $Y$.
+### Royalties
+katex R
+A royalty $R$ is a payment from $T$ to $C$ for a permission on $A^C$.
 
 ### Permission Function
-katex P: f(A^C, T) → \{-1, 0, Y\} \text{ in } t < d
-A permission function is now assigned to each artifact $A$. For every $A^{C_d}$ used in $E$ the permission function $P$ must be called and resolve to $>-1$ and $\sum_Y$ must be less than $Y$ available for creation. If $P$ has not resolved for $A^{C_d}$ in time $d$ it resolves to 0.^duration1
+katex P: f(A^C, T) → \{-1, 0, R\} * (\theta = Pr(C, A^c)) \text{ in } t < d
+A permission function is now assigned to each artifact $A^C$. For every $A^{C_d}$ used in $E$ the permission function $P$ must be called and resolve to $>-1$ and a payment of royalty $\sum_R$ may be required. If $P$ has not resolved for $A^{C_d}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an unmount of uncertainty $\theta$ that the $C$ is actually the legally correct $A^C$.
 
-### Profits
-katex G_C = A^C x N
-The profit $G$ of $C_A$ is the amount $Y$ times number of uses of $A_C$.
+### Classes
+katex
+ T = \begin{cases}
+   T_{R+} &\text{if } R_{in} - R_{out} > 0 \\
+   T_{R-} &\text{if } R_{in} - R_{out} \leq 0
+  \end{cases}
+The Royal Class $T_{R+}$ is the set of $T$ who receive more $R$ than they spend. The Non-Royal Class $T_{R-}$
+
+### Public Domain
+katex A^0
+A public domain artifact $A^0$ is an artifact claimed to have no $C$ or claimed to have been an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ accounted for.
 
 <br>
 
@@ -134,11 +154,15 @@ The profit $G$ of $C_A$ is the amount $Y$ times number of uses of $A_C$.
 
 ## Affect on Z
 katex \Uparrow {Z \over I}
-We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are $\infty$ $M$ that can encode $I$ and each unique $A^C$ can generate $G$ for $C$.
+We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are $\infty$ $M$ that can encode $I$ and each unique $A^C$ can generate $R$ for $C$.
 
 ## Affect on F
 katex \Uparrow F
-We should expect the number of Fictions $F$ to increase since $F_C$ can cause $T$ to overvalue $F_C$ and send more $Y$ to $C$ for more $A$ encoding $F_C$.
+We should expect the number of Fictions $F$ to increase since $F_C$ can cause $T$ to overvalue $F_C$ and send more $R$ to $C$ for more $A$ encoding $F_C$.
+
+## Affect on $\Omega$
+katex \Uparrow \Omega
+Increasing the $|M|$ decreases $\theta$ and increases the amount of $A^C$ so we can expect the average signal $\overline{\Omega}$ of messages to decrease.
 
 ## Affect on K
 katex \Uparrow {K \over I_{new}}
@@ -160,12 +184,17 @@ We should expect a decrease in the average thinker's skillset $\overline{S}$ as 
 katex \Downarrow I^\prime
 We should expect the rate of increase in new ideas to be lower due to the decrease in $\overline{S}$.
 
-## Affect on Y
-katex \Uparrow {Y_C \over Y_T}
-We should expect the permission function to limit competiton and increase the amount of money under corporate control $Y_C$ relative to the amount of money under non-corporate control.
+## Affect on Classes
+katex f^{\prime}(R, T_{R+}) > 0
+katex f^{\prime}(R, T_{R-}) < 0
+We should expect $T_{R+}$ to receive an increasing share of all $R$ as surplus $R$ is used to obtain more $R$ streams.
 
-## Affect on $Y_T$
-We should expect increased stratification of wealth where those born with ownership of $C$ will have access to better $A$ and receive $Y$ from those born without ownership of $C$.
+## Affect on $A^0$
+We should expect a decrease in the amount of $A^0$ relative to $A^C$ as $A^0$ are subtitutes for $A^C$. In addition, the cost to $T$ of using any $A^0$ goes up relative to before because of the uncertainty term $\theta$.
+
+## Affect on $A^{\prime}$
+katex \Downarrow A^{\prime}
+We should expect the number of $A^{\prime}$ to fall sharply due to the addition of the Permission Function $P$.
 
 ## Affect on A
 katex \Uparrow {A_{B_C} \over A_{B_T}}
@@ -184,12 +213,12 @@ katex \Uparrow A_©
 We should expect the number of $A$ promoting © to increase to train $T$ to support a © system.
 
 ## Affect on $\sigma$
-katex \sigma_{\Uparrow Y}
-We should expect a small number of outlier creators to partner with $C$ and generate exclusive $F$ and $Z$ to capture outsized $Y$.
+katex \sigma_{\Uparrow R}
+We should expect a small number of outlier creators to move from $T_{R-}$ to $T_{R+}$.
 
-## Affect on $T \notin C_T$
-katex \Uparrow CR
-A copyright system lowers the $Y$, $\overline{S}$, and $J$ of $T$ without ownership in $C$ and artificial intelligence could give the $C_T$ class the power to exterminate the $T \notin C_T$ class.
+## Affect on $T_{R-}$
+katex \Downarrow T_{R-}
+A copyright system extracts $R$ from $T_{R-}$, lowers the $\overline{S}$, and decreases the $J$ of $T$.
 
 <br>
 
@@ -198,7 +227,7 @@ A copyright system lowers the $Y$, $\overline{S}$, and $J$ of $T$ without owners
 $X$ and specifically $A$ can help $T$ maximize their $B_t$ and discover new $I$ to better model $W$. Adding copyright however, predictably should slow and increase the cost of technology development; increase the fashions and copies that compete for the attention of $T$; increase the fictions that mislead and harm people; and consolidate control in a small number of corporations.
 
 # Notes
-^terms The terms in this paper can be thought of as Vectors, Matrices, Tensors, Graphs, or Trees without affecting the argument.
+^terms The terms in this model could be vectors, matrices, tensors, graphs, or trees without changing the analysis.
 ^communicators We will exclude thinkers who cannot communicate from this analysis.
 ^artists The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
 ^duration1 If copyright duration is 100 years then that is the max time it may take $P$ to resolve. Also worth noting is that even a duration of 1 year introduces the permission function which signficantly complicated the creation function $E$.
