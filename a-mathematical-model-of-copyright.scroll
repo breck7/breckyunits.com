@@ -76,6 +76,14 @@ Technology creation is a function that takes thinkers and existing technologies 
 katex A
 Using $X$ $M$ can be encoded to a kind of $X$ called an artifact $A$.
 
+### Creators
+katex \chi
+A creator $\chi$ is a $T$ who produces $A$.
+
+### Outliers
+katex \sigma
+An outlier $\sigma$ is a $\chi$ who produces exceptionally high quality $A$.
+
 ### Copies
 katex K
 A copy $K_A$ is an artifact that contains the same message as $A$.
@@ -89,7 +97,7 @@ katex N
 Thinkers $T$ have a finite amount of attention $N$ to process messages $M$.
 
 ### Distribution
-katex D: f(A_o, T_o) -> A_{T_o}
+katex D: f(A_o, T_o) → A_{T_o}
 Distribution is a function that takes artifact $A$ at location $o$ and moves it to the thinker's location $T_o$.
 
 ### Publishers
@@ -174,6 +182,10 @@ We should expect censorship to go up to enforce copyright laws.
 ## Affect on $A_©$
 katex \Uparrow A_©
 We should expect the number of $A$ promoting © to increase to train $T$ to support a © system.
+
+## Affect on $\sigma$
+katex \sigma_{\Uparrow Y}
+We should expect a small number of outlier creators to partner with $C$ and generate exclusive $F$ and $Z$ to capture outsized $Y$.
 
 ## Affect on $T \notin C_T$
 katex \Uparrow CR
