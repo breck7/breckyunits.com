@@ -1,0 +1,195 @@
+import header.scroll
+title A Mathematical Model of Copyright
+startColumns 2
+date 5/22/2023
+author https://breckyunits.com Breck Yunits
+
+What is copyright, from first principles? This paper introduces a mathematical model of a *world with ideas*, adds a *copyright system* to that model, and analyzes the *predicted affects* of that system.
+ dateline
+
+endSnippet
+
+katex
+css .scrollKatex {text-align: center;}
+
+<br>
+
+# Part 1: The world
+
+### The world
+katex W
+The world $W$ contains observers who can make point-in-time observations $O_t$^terms of $W$.
+
+### Ideas
+katex I: f(O_{t_1}, t_2) → O_{{t_1}+{t_2}}
+An idea $I$ is a function that given input observations at time $t_1$ can generate expected observations for time $t_2$.
+
+### Thinkers
+katex T
+A thinker^communicators can be represented by $T$. A thinker can store ideas $I$ in $T$.
+
+### Idea Creation
+katex H: f(T, O, t) → I_{new}
+A thinker can generate new ideas $I_new$ in time $t$ from its current set of ideas $T$ and new observations $O$.
+
+### Verification
+katex V
+An idea $I$ can be verified by a verification function $V$ which measures the difference between the observations produced by the idea $O_{{t_1}+{t_2}}$ and the actual observations performed on the world $W$ at time ${}_{{t_1}+{t_2}}$.
+
+### Fictions
+katex F
+A fiction^artists $F$ is an $I$ that does not accurately model $W$. A thinker $T$ can use $V$ to help prune their $I$ in $T$.
+
+### Messages
+katex M
+Thinkers can communicate $I$ to other thinkers by encoding $I$ into messages $M_i$.
+
+### Fashions
+katex Z
+A fashion $Z_{M_i}$ is a different encoding of the same idea $I$.
+
+### Teachers
+katex TS
+A teacher is a $T$ who communicates messages $M$. A thinker $T$ has access to a supply of teachers within geographic radius $r$ so that $TS = \set{T|T < r}$.
+
+### Learning
+katex L: f(M_f, T) → T^\prime
+The learning function $L$ applies $M_f$ to $T$ to produce $T^\prime$ containing some memorization of the message $M_f$ and some learning of the function $I$.
+
+### Skillsets
+katex S
+A skillset $S$ is the set of $\set{I_i, ... I_n}$ embedded in $T$.
+
+### Objective functions
+katex B
+A thinker $T$ has a set of objective functions $B_T$ that they can maximize using $S$.
+
+### Technologies
+katex X
+$T$ can use $I$ to modify the world to contain technologies $X$.
+
+### Technology Creation
+katex E: f(\set{T_{i...n}},X_{supply}, t) → X_{new}
+Technology creation is a function that takes thinkers and existing technologies as input to produce new technologies $X_new$.
+
+### Artifacts
+katex A
+Using $X$ $M$ can be encoded to a kind of $X$ called an artifact $A$.
+
+### Copies
+katex K
+A copy $K_A$ is an artifact that contains the same message as $A$.
+
+### Libraries
+katex J
+A library $J$ is a collection of $A$.
+
+### Attention
+katex N
+Thinkers $T$ have a finite amount of attention $N$ to process messages $M$.
+
+### Distribution
+katex D: f(A_o, T_o) -> A_{T_o}
+Distribution is a function that takes artifact $A$ at location $o$ and moves it to the thinker's location $T_o$.
+
+### Publishers
+katex Q
+A publisher is a $T$ or set of $T$ specializing in production of $A$.
+
+### Censors
+katex U: U(D)
+A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed. 
+
+<br>
+
+# Part 2: Adding copyright to the model
+
+### Corporations
+katex C
+A corporation $C$ is now assigned to each artifact for duration $d$ so $A$ becomes $A^{C_d}$.
+
+### Money
+katex Y
+Every $C$ and $T$ now has an amount of money $Y$.
+
+### Permission Function
+katex P: f(A^C, T) → \{-1, 0, Y\} \text{ in } t < d
+A permission function is now assigned to each artifact $A$. For every $A^{C_d}$ used in $E$ the permission function $P$ must be called and resolve to $>-1$ and $\sum_Y$ must be less than $Y$ available for creation. If $P$ has not resolved for $A^{C_d}$ in time $d$ it resolves to 0.^duration1
+
+### Profits
+katex G_C = A^C x N
+The profit $G$ of $C_A$ is the amount $Y$ times number of uses of $A_C$.
+
+<br>
+
+# Part 3: Predicted effects of copyright
+
+## Affect on Z
+katex \Uparrow {Z \over I}
+We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are $\infty$ $M$ that can encode $I$ and each unique $A^C$ can generate $G$ for $C$.
+
+## Affect on F
+katex \Uparrow F
+We should expect the number of Fictions $F$ to increase since $F_C$ can cause $T$ to overvalue $F_C$ and send more $Y$ to $C$ for more $A$ encoding $F_C$.
+
+## Affect on K
+katex \Uparrow {K \over I_{new}}
+We should expect the ratio of number of copies $K$ to new ideas $I_{new}$ to increase since the cost of creating a new idea $E_c$ is greater than the cost of creating a copy $K_c$ and the profits are for $A$ not $I$.
+
+## Affect on E
+katex \Downarrow E
+We should expect the speed of new artifact creation to slow because of the introducion of the Permission Function $P$.
+
+## Affect on J
+katex \Uparrow \Uparrow {{Z + F + K} \over I}
+We should expect libraries to contain an increasing amount of fashions, fictions, and copies relative to distinct ideas.
+
+## Affect on S
+katex \Downarrow S
+We should expect a decrease in the average thinker's skillset $\overline{S}$ as more of a thinker's $N$ is used up by $Z, F, \& K$ and less goes to learning distinct $I$.
+
+## Affect on $I^\prime$
+katex \Downarrow I^\prime
+We should expect the rate of increase in new ideas to be lower due to the decrease in $\overline{S}$.
+
+## Affect on Y
+katex \Uparrow {Y_C \over Y_T}
+We should expect the permission function to limit competiton and increase the amount of money under corporate control $Y_C$ relative to the amount of money under non-corporate control.
+
+## Affect on $Y_T$
+We should expect increased stratification of wealth where those born with ownership of $C$ will have access to better $A$ and receive $Y$ from those born without ownership of $C$.
+
+## Affect on A
+katex \Uparrow {A_{B_C} \over A_{B_T}}
+We should expect $\overline{A}$ to further the objective functions of $C$ over the objective functions of $T$.
+
+## Affect on Q
+katex \Downarrow Q
+We should expect the number of publishers to decrease due to the increasing costs of the permission function and economies of scale to the winners.
+
+## Affect on U
+katex \Uparrow U
+We should expect censorship to go up to enforce copyright laws. 
+
+## Affect on $A_©$
+katex \Uparrow A_©
+We should expect the number of $A$ promoting © to increase to train $T$ to support a © system.
+
+## Affect on $T \notin C_T$
+katex \Uparrow CR
+A copyright system lowers the $Y$, $\overline{S}$, and $J$ of $T$ without ownership in $C$ and artificial intelligence could give the $C_T$ class the power to exterminate the $T \notin C_T$ class.
+
+<br>
+
+# Conclusion
+
+$X$ and specifically $A$ can help $T$ maximize their $B_t$ and discover new $I$ to better model $W$. Adding copyright however, predictably should slow and increase the cost of technology development; increase the fashions and copies that compete for the attention of $T$; increase the fictions that mislead and harm people; and consolidate control in a small number of corporations.
+
+# Notes
+^terms The terms in this paper can be thought of as Vectors, Matrices, Tensors, Graphs, or Trees without affecting the argument.
+^communicators We will exclude thinkers who cannot communicate from this analysis.
+^artists The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
+^duration1 If copyright duration is 100 years then that is the max time it may take $P$ to resolve. Also worth noting is that even a duration of 1 year introduces the permission function which signficantly complicated the creation function $E$.
+^registryEffects One side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
+
+import indexFooter.scroll
