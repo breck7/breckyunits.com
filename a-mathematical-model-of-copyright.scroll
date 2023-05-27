@@ -146,6 +146,10 @@ The Royal Class $T_{R+}$ is the set of $T$ who receive more $R$ than they spend.
 katex A^0
 A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ still exists for all $A^0$.
 
+### Advertising
+katex \varLambda: f(A_i, A_j^\Psi) → A_{ij}
+Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
+
 <br>
 
 # Part 3: Predicted effects of copyright
@@ -157,6 +161,10 @@ We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increas
 ## Effect on F
 katex \Uparrow F
 We should expect the number of Fictions $F$ to increase since $R$ are required regardless if the $M$ encoded by $A$ accurately predicts the world or not. $\Psi$ are incentivized to create $A$ encoding $F$ that convince $T$ to overvalue $A^\Psi$.
+
+## Effect on $\varLambda$
+katex \Uparrow \varLambda
+We should expect a significant increase in the amount of advertising $\varLambda$ as $\chi$ are prevented from generating $A^{\prime}$ with ads removed.
 
 ## Effect on $|M|$
 katex \Uparrow |M|
