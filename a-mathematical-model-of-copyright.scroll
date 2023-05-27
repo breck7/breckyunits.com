@@ -116,25 +116,21 @@ A publisher is a $T$ or set of $T$ specializing in production of $A$.
 katex U: U(D)
 A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed. 
 
-### Property
-katex X_T
-$X$ assigns a technology $X$ to an owner $T$ and allows $T$ control over $X_T$.
-
 <br>
 
 # Part 2: Adding copyright to the model
 
-### Corporations
-katex C
-A corporation $C$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{C_d}$.
+### Masters
+katex \Psi
+A master $\Psi$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{\Psi}$.
 
 ### Royalties
 katex R
-A royalty $R$ is a payment from $T$ to $C$ for a permission on $A^C$.
+A royalty $R$ is a payment from $T$ to $\Psi$ for a permission on $A^\Psi$.
 
 ### Permission Function
-katex P: f(A^C, T) → \{-1, 0, R\} * (\theta = Pr(C, A^c)) \text{ in } t < d
-A permission function is now assigned to each artifact $A^C$. For every $A^{C_d}$ used in $E$ the permission function $P$ must be called and resolve to $>-1$ and a payment of royalty $\sum_R$ may be required. If $P$ has not resolved for $A^{C_d}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an unmount of uncertainty $\theta$ that the $C$ is actually the legally correct $A^C$.
+katex P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d
+For every $A^\Psi$ used in $E$ a permission function $P$ must be called and resolve to $>-1$ and a payment of royalty $\sum{R}$ may be required. If $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an unmount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
 
 ### Classes
 katex
@@ -146,7 +142,7 @@ The Royal Class $T_{R+}$ is the set of $T$ who receive more $R$ than they spend.
 
 ### Public Domain
 katex A^0
-A public domain artifact $A^0$ is an artifact claimed to have no $C$ or claimed to have been an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ accounted for.
+A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or claimed to have been an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ accounted for.
 
 <br>
 
@@ -154,15 +150,15 @@ A public domain artifact $A^0$ is an artifact claimed to have no $C$ or claimed 
 
 ## Affect on Z
 katex \Uparrow {Z \over I}
-We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are $\infty$ $M$ that can encode $I$ and each unique $A^C$ can generate $R$ for $C$.
+We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are $\infty$ $M$ that can encode $I$ and each unique $A^\Psi$ can generate $R$ for $\Psi$.
 
 ## Affect on F
 katex \Uparrow F
-We should expect the number of Fictions $F$ to increase since $F_C$ can cause $T$ to overvalue $F_C$ and send more $R$ to $C$ for more $A$ encoding $F_C$.
+We should expect the number of Fictions $F$ to increase since $F_\Psi$ can cause $T$ to overvalue $F_\Psi$ and send more $R$ to $\Psi$ for more $A$ encoding $F_\Psi$.
 
 ## Affect on $\Omega$
 katex \Uparrow \Omega
-Increasing the $|M|$ decreases $\theta$ and increases the amount of $A^C$ so we can expect the average signal $\overline{\Omega}$ of messages to decrease.
+Increasing the $|M|$ decreases $\theta$ and increases the amount of $A^\Psi$ so we can expect the average signal $\overline{\Omega}$ of messages to decrease.
 
 ## Affect on K
 katex \Uparrow {K \over I_{new}}
@@ -190,15 +186,15 @@ katex f^{\prime}(R, T_{R-}) < 0
 We should expect $T_{R+}$ to receive an increasing share of all $R$ as surplus $R$ is used to obtain more $R$ streams.
 
 ## Affect on $A^0$
-We should expect a decrease in the amount of $A^0$ relative to $A^C$ as $A^0$ are subtitutes for $A^C$. In addition, the cost to $T$ of using any $A^0$ goes up relative to before because of the uncertainty term $\theta$.
+We should expect a decrease in the amount of $A^0$ relative to $A^\Psi$ as $A^0$ are subtitutes for $A^\Psi$. In addition, the cost to $T$ of using any $A^0$ goes up relative to before because of the uncertainty term $\theta$.
 
 ## Affect on $A^{\prime}$
 katex \Downarrow A^{\prime}
 We should expect the number of $A^{\prime}$ to fall sharply due to the addition of the Permission Function $P$.
 
 ## Affect on A
-katex \Uparrow {A_{B_C} \over A_{B_T}}
-We should expect $\overline{A}$ to further the objective functions of $C$ over the objective functions of $T$.
+katex \Uparrow {A_{B_\Psi} \over A_{B_T}}
+We should expect $\overline{A}$ to further the objective functions of $\Psi$ over the objective functions of $T$.
 
 ## Affect on Q
 katex \Downarrow Q
@@ -226,7 +222,13 @@ A copyright system extracts $R$ from $T_{R-}$, lowers the $\overline{S}$, and de
 
 $X$ and specifically $A$ can help $T$ maximize their $B_t$ and discover new $I$ to better model $W$. Adding copyright however, predictably should slow and increase the cost of technology development; increase the fashions and copies that compete for the attention of $T$; increase the fictions that mislead and harm people; and consolidate control in a small number of corporations.
 
-# Notes
+<br>
+
+---
+
+<br>
+
+### Notes
 ^terms The terms in this model could be vectors, matrices, tensors, graphs, or trees without changing the analysis.
 ^communicators We will exclude thinkers who cannot communicate from this analysis.
 ^artists The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
