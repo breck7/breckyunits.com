@@ -132,7 +132,7 @@ A royalty $R$ is a payment from $T$ to $\Psi$ for a permission on $A^\Psi$.
 
 ### Permission Function
 katex P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d
-For every $A^\Psi$ used in $\Pi$ a permission function $P$ must be called and resolve to $>-1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation funciton $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an unmount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
+For every $A^\Psi$ used in $\Pi$ a permission function $P$ must be called and resolve to $>-1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
 
 ### Classes
 katex
@@ -172,7 +172,7 @@ We should expect the ratio of number of copies $K$ to new ideas $I_{new}$ to inc
 
 ## Effect on $\Pi$
 katex \Downarrow \Pi
-We should expect the speed of new artifact creation to slow because of the introducion of Permission Functions $P$.
+We should expect the speed of new artifact creation to slow because of the introduction of Permission Functions $P$.
 
 ## Effect on J
 katex \Uparrow {{Z + F + K} \over I}
