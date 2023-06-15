@@ -1,0 +1,109 @@
+metaTags
+scrollCssTag
+scrollHeader
+
+title Patch: a tiny language for storing program data in query strings
+
+startColumns 4
+
+* Patch is a single 3k javascript file with no dependencies that provides an immutable object with *4 isomorphisms* including a URI encoded query string form.
+ hoverNote 3k library
+  uncompressed
+
+# When to use
+* Patch comes in handy when you have 2-D languages that:
+- have state
+- that the user can change
+- that the user should be able to take with them via query strings and rehydrate the class with via URLs
+
+* Patch gets its power from its isomorphisms. With Patch, you design your query params so that they map to a TSV document. Then Patch encodes and decodes that document.
+
+# Quick Example
+jsonCode
+ {
+  "selection": "Canada",
+  "year": "2000",
+  "tab": "map"
+ }
+
+* Serializing this Object Literal into a URL looks like:
+## Without Patch
+code
+ selection=Canada&year=2000&tab=map
+## With Patch
+code
+ patch=selection~Canada...year~2000...tab~map
+* The Patch is isomorphic to this TSV:
+tsvCode
+ selection\tCanada
+ year\t2000
+ tab\tmap
+
+# Specification
+
+## The 4 Isomorphisms of Patch
+* A Patch object has 4 forms:
+## 1. URI encoded string form
+code
+ countries~Canada~France...year~2020
+
+## 2. TSV form (or any similarly delimited form)
+code
+ countries\tCanada\tFrance
+ year\t2020
+
+## 3. JSON Superset Form (AKA Object Literal Form)
+code
+ {
+  "countries": ["Canada", "France"],
+  "years": ["2020"],
+ }
+* Note: if you use this form and have duplicate identifiers, be sure to parse yourself as JSON does not support duplicate identifiers.
+
+## 4. Javascript Matrix Form
+code
+ [
+  ["countries", "Canada", "France"],
+  ["years", "2020", "France],
+ ]
+
+## Delimiters
+* Patch requires 2 delimiters, one for separating "rows" and one for separating "columns". Currently for the delimiters we use "~" for tabs and "..." for newlines. You can change those to suit your own preferences or needs.
+
+## Versioning
+* If needed, use semantic versioning, only caring about breaking changes so only a major version: `patchVersion=2&patch=`
+
+## Spaces
+* Patch encodes spaces to `+` instead of `%20` and uses the standard encoding of `+` to `%2B`.
+
+## URI Encoding
+* String inputs to the Patch constructor are assumed to be encoded and will be decoded before parsing. Similarly the string output is always encoded.
+
+# Why Patch?
+* URL query strings can be thought of as a domain specific language for describing this structure:
+code
+ type UrlEncodedString = Omit&lt;string, [RestrictedCharacters]&gt;
+ Map&lt;UrlEncodedString, UrlEncodedString&gt;
+* It has a one very restricted string type, and does not have any concept of numbers, booleans, arrays, enums, trees, nested maps, et cetera.
+* It is a very low level DSL; arguably adds little to no value on top of just a single string.
+* Patch is a DSL let's you use any data structure you want and handles the compiling/decompiling to QueryString, while preserving human readability.
+* JSON would be a similar alternative to Patch, except you completely lose human readability in query strings, and it suffers from JSONs lack of certain data structures, like tuple arrays.
+
+# Some benefits of Patch
+- A single place to encode and decode your params. Just encode/decode the whole patch. Do not decode/encode N times for every parameter nor invent a special encoding scheme for each param.
+- Cleanly encodes arrays and nested structures.
+- Improved human readability for short params; greatly improved readability for complex params.
+- Versioning with easy upgrading.
+- Very easy to debug—it's just a patch!
+
+# History
+* Patch was originally developed for https://ourworldindata.org. This is a fork.
+
+permalink index.html
+description A tiny DSL for isomorphic query strings
+git https://github.com/breck7/patch
+viewSourceBaseUrl https://github.com/breck7/patch/tree/master
+email patch@breckyunits.com
+
+endColumns
+scrollFooter

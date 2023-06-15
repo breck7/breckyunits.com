@@ -1,0 +1,16 @@
+{
+	"name": "patch",
+	"version": "1.0.0",
+	"description": "Tiny DS for isomorphic query strings with zero dependencies",
+	"main": "patch.js",
+	"prettier": {
+		"semi": false
+	},
+	"scripts": {
+		"test": "node patch.test.js"
+	},
+	"author": "Breck Yunits",
+	"devDependencies": {
+		"tap": "^15.0.1"
+	}
+}

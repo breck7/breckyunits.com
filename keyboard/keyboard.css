@@ -1,0 +1,361 @@
+body {
+  background: #eee;
+}
+a {
+  cursor: pointer;
+}
+
+.section {
+  margin: auto;
+  max-width: 800px;
+  margin-top: 50px;
+}
+
+#keyboard {
+  margin: 15px auto 0;
+  width: 794px;
+  height: 315px;
+  background: #d5d9dc;
+  -moz-border-radius-topleft: 7px 21px;
+  -moz-border-radius-topright: 7px 21px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-top-left-radius: 7px 21px;
+  border-top-right-radius: 7px 21px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 50px 0 0 10px;
+  -webkit-box-shadow: inset 0 0 8px #bbb, 0 1px 0 #aaa, 0 4px 0 #bbb, 0 10px 30px #ddd;
+  -moz-box-shadow: inset 0 0 8px #bbb, 0 1px 0 #aaa, 0 4px 0 #bbb, 0 10px 30px #ddd;
+  box-shadow: inset 0 0 8px #bbb, 0 1px 0 #aaa, 0 4px 0 #bbb, 0 10px 30px #ddd;
+}
+
+ul {
+  list-style-type: none;
+  width: 784px;
+  margin: 0 auto;
+}
+li {
+  float: left;
+}
+
+.key {
+  display: block;
+  color: #aaa;
+  font: bold 9pt arial;
+  text-decoration: none;
+  text-align: center;
+  width: 44px;
+  height: 41px;
+  margin: 5px;
+  background: #eff0f2;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  border-top: 1px solid #f5f5f5;
+  -webkit-box-shadow: inset 0 0 25px #e8e8e8, 0 1px 0 #c3c3c3, 0 2px 0 #c9c9c9, 0 2px 3px #333;
+  -moz-box-shadow: inset 0 0 25px #e8e8e8, 0 1px 0 #c3c3c3, 0 2px 0 #c9c9c9, 0 2px 3px #333;
+  box-shadow: inset 0 0 25px #e8e8e8, 0 1px 0 #c3c3c3, 0 2px 0 #c9c9c9, 0 2px 3px #333;
+  text-shadow: 0px 1px 0px #f5f5f5;
+}
+
+.key:active,
+.keydown {
+  color: #888;
+  background: #ebeced;
+  margin: 7px 5px 3px;
+  -webkit-box-shadow: inset 0 0 25px #ddd, 0 0 3px #333;
+  -moz-box-shadow: inset 0 0 25px #ddd, 0 0 3px #333;
+  box-shadow: inset 0 0 25px #ddd, 0 0 3px #333;
+  border-top: 1px solid #eee;
+}
+
+.fn span {
+  display: block;
+  margin: 14px 5px 0 0;
+  text-align: right;
+  font: bold 6pt arial;
+  text-transform: uppercase;
+}
+#esc {
+  margin: 6px 15px 0 0;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+
+#numbers li a span {
+  display: block;
+}
+
+#numbers li a b {
+  margin: 3px 0 3px;
+  display: block;
+}
+
+#numbers li .alt b {
+  display: block;
+  margin: 0 0 3px;
+}
+
+#numbers li #delete span {
+  text-align: right;
+  margin: 23px 10px 0 0;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+
+#qwerty li a span {
+  display: block;
+  margin: 13px 0 0;
+  text-transform: uppercase;
+}
+
+#qwerty li #tab span {
+  text-align: left;
+  margin: 23px 0 0 10px;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+
+#qwerty li .alt b {
+  display: block;
+  margin: 3px 0 0;
+}
+#qwerty li .alt span {
+  margin: 2px 0 0;
+}
+
+#asdfg li a span {
+  display: block;
+  margin: 13px 0 0;
+  text-transform: uppercase;
+}
+
+#asdfg li .alt span {
+  margin: 0;
+  text-transform: lowercase;
+}
+#asdfg li .alt b {
+  display: block;
+  margin: 3px 0 0;
+}
+#asdfg li #caps b {
+  display: block;
+  background: #999;
+  width: 4px;
+  height: 4px;
+  border-radius: 10px;
+  margin: 9px 0 0 10px;
+  -webkit-box-shadow: inset 0 1px 0 #666;
+  -moz-box-shadow: inset 0 1px 0 #666;
+  box-shadow: inset 0 1px 0 #666;
+}
+#asdfg li #caps span {
+  text-align: left;
+  margin: 10px 0 0 10px;
+  font-size: 7.5pt;
+}
+#asdfg li #enter span {
+  text-align: right;
+  margin: 23px 10px 0 0;
+  font-size: 7.5pt;
+}
+
+#zxcvb li a span {
+  display: block;
+  margin: 13px 0 0;
+  text-transform: uppercase;
+}
+#zxcvb li .shiftleft span {
+  text-align: left;
+  margin: 23px 0 0 10px;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+#zxcvb li .shiftright span {
+  text-align: right;
+  margin: 23px 10px 0 0;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+#zxcvb li .alt b {
+  display: block;
+  margin: 4px 0 0;
+}
+#zxcvb li .alt span {
+  margin: 0;
+}
+
+#bottomrow li #fn span,
+#bottomrow li #control span,
+#bottomrow li #optionleft span,
+#bottomrow li #commandleft span {
+  display: block;
+  text-align: left;
+  margin: 31px 0 0 8px;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+
+#bottomrow li #optionright span,
+#bottomrow li #commandright span {
+  display: block;
+  text-align: right;
+  margin: 31px 8px 0 0;
+  font-size: 7.5pt;
+  text-transform: lowercase;
+}
+
+#bottomrow ol li #left span,
+#bottomrow ol li #right span,
+#bottomrow ol li #up span,
+#bottomrow ol li #down span {
+  display: block;
+  margin: 9px 0 0;
+}
+
+.fn {
+  height: 26px;
+  width: 46px;
+}
+#delete {
+  width: 72px;
+}
+#tab {
+  width: 72px;
+}
+#caps {
+  width: 85px;
+}
+#enter {
+  width: 85px;
+}
+.shiftleft,
+.shiftright {
+  width: 112px;
+}
+#fn,
+#control,
+.option,
+.command,
+#spacebar {
+  height: 49px;
+}
+
+#control {
+  width: 56px;
+}
+.option {
+  width: 46px;
+}
+.command {
+  width: 67px;
+}
+#spacebar {
+  width: 226px;
+}
+
+#left img,
+#up img,
+#down img,
+#right img {
+  border: none;
+}
+ul ol {
+  list-style-type: none;
+}
+#down {
+  height: 23px;
+}
+#up,
+#left,
+#right {
+  height: 24px;
+}
+#left,
+#right {
+  margin: 30px 5px 5px;
+}
+#left:active,
+#right:active {
+  margin: 32px 5px 3px;
+}
+#up {
+  margin: 5px 5px 1px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+#up:active {
+  margin: 8px 5px -2px;
+}
+#down {
+  margin: 0 5px 5px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+#down:active {
+  margin: 3px 5px 4px;
+}
+#main {
+  width: 700px;
+  padding: 20px 50px;
+  margin: 0 auto 50px;
+  background: #fff;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 1px 2px #aaa;
+}
+
+h1 {
+  color: #888;
+  text-align: center;
+  font: bold 25pt/25pt arial;
+  margin: 30px 0 60px;
+}
+
+h2 {
+  color: #666;
+  font: 13pt/0pt arial;
+}
+
+p {
+  color: #999;
+  font: 9pt/17pt arial;
+  margin: 0 0 50px;
+}
+
+small {
+  font: italic 8pt/12pt arial;
+  color: #aaa;
+  padding: 0 130px 0 0;
+  display: block;
+}
+
+cite {
+  display: block;
+  padding: 0 0 30px;
+  margin: 0 auto;
+  text-align: center;
+  color: #999;
+  font: italic bold 8pt arial;
+}
+
+ul,
+ol {
+  padding: 0px;
+  margin: 0;
+}
+
+/* Micro Clearfix by Nicolas Gallagher - http://nicolasgallagher.com/micro-clearfix-hack */
+/* For modern browsers */
+.cf:before,
+.cf:after {
+  content: "";
+  display: table;
+}
+.cf:after {
+  clear: both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+  zoom: 1;
+}
