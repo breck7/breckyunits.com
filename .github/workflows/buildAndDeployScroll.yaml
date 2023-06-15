@@ -15,6 +15,8 @@ jobs:
           npm install -g scroll-cli
           npm run build
           # The line below is needed if you have *.html in your gitignore file
+          git clone https://github.com/breck7/keyboard
+          git clone https://github.com/breck7/patch
           rm .gitignore
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
