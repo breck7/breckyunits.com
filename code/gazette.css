@@ -1,0 +1,271 @@
+<!DOCTYPE html><html lang="en">figure {
+  margin: 0;
+  padding: 0;
+}
+.scrollCaptionedFigure {
+  display: block;
+  text-align: center;
+}
+.scrollCaptionedFigure img {
+  max-width: 98%;
+  height: auto;
+}
+.scrollCaptionedFigure figcaption {
+  font-style: italic;
+}
+.scrollCodeBlock {
+  overflow: auto;
+  font-size: 80%;
+  hyphens: none;
+  white-space: pre;
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  border-radius: 0;
+  position: relative;
+}
+.scrollCodeBlock:hover .scrollCopyButton {
+  opacity: .5;
+}
+.scrollCodeBlock:hover .scrollCopyButton:hover {
+  opacity: .8;
+}
+.scrollCodeBlock:hover .scrollCopyButton:active {
+  opacity: 1;
+}
+.scrollCopyButton {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  font-size: 14px;
+  cursor: pointer;
+  opacity: 0;
+}
+.scrollCopyButton::after {
+  content: "[ ]";
+}
+.scrollCopiedButton::after {
+  content: "[✓]";
+}
+html,body,div,span,p,ol,ul,li,table,figure {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  border-spacing: 0;
+}
+ol,ul {
+  padding-left: 1em;
+}
+li {
+  margin-top: .4em;
+  line-height: 140%;
+}
+a {
+  text-decoration-color: transparent;
+}
+a:hover {
+  text-decoration-color: initial;
+}
+sup,sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.6em;
+}
+sub {
+  top: 0.6em;
+}
+html {
+  padding: 4px;
+  background-color: rgb(244,244,244);
+  font-family: Exchange,Georgia,serif;
+  color: #000;
+  font-size: 14px;
+  hyphens: auto;
+}
+p {
+  margin-top: 0.4em;
+  line-height: 1.4em;
+}
+.scrollQuote {
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  background: rgba(204,204,204,.5);
+  white-space: pre-line;
+  border-left: .5em solid rgba(204,204,204,.8);
+}
+code {
+  font-size: 90%;
+  background-color: rgba(204,204,204,.5);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.scrollParagraph {
+  text-align: justify;
+}
+.scrollColumns {
+  column-count: auto;
+  column-fill: balance;
+  column-width: 35ch;
+  column-gap: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: auto;
+}
+.scrollSnippetContainer {
+  padding: 1ch 0;
+  break-inside: avoid;
+  text-align: justify;
+}
+h1 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+h2 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+h3 {
+  font-size: 14px;
+  margin: 10px 0;
+}
+h4 {
+  margin: 10px 0;
+  font-size: 14px;
+}
+h1.scrollTitle {
+  text-align: center;
+  margin-bottom: .25em;
+  margin-top: 0;
+  font-size: 28px;
+}
+h1.scrollTitle a {
+  color: #000;
+}
+.scrollDateline {
+  font-style: italic;
+  font-size: 80%;
+}
+.scrollSection {
+  break-inside: avoid;
+}
+.scrollSection h1 {
+  text-align: center;
+}
+.scrollSection h2 {
+  text-align: center;
+}
+.scrollSection h3 {
+  text-align: center;
+}
+.scrollSection h4 {
+  text-align: center;
+}
+h4.scrollQuestion {
+  text-align: left;
+}
+.scrollNoteLink {
+  opacity: .4;
+}
+.scrollHoverNote {
+  text-decoration: underline dashed 1px rgba(0,0,0,.1);
+  cursor: default;
+}
+.scrollCodeBlock {
+  border-left: .5em solid rgba(204,204,204,.8);
+}
+.scrollTable {
+  table-layout: fixed;
+  margin: .5em 0;
+  overflow: hidden;
+  font-size: 80%;
+  width: 100%;
+  hyphens: none;
+  border: 1px solid rgba(224,224,224,.8);
+}
+.scrollTable td,.scrollTable th {
+  padding: 3px;
+  overflow: hidden;
+}
+.scrollTable th {
+  border-bottom: 2px solid rgba(0,0,0,.6);
+  text-align: left;
+}
+.scrollTable tr:nth-child(even) {
+  background: rgba(224,224,224,.6);
+}
+.scrollByLine {
+  font-size: 12px;
+  font-style: italic;
+  margin: 4px 0;
+  text-align: center;
+}
+.scrollViewSource {
+  text-align: center;
+  font-size: 80%;
+  margin: 0;
+  margin-top: 0.4em;
+  line-height: 1.4em;
+  margin-bottom: 1em;
+}
+.scrollViewSource a {
+  color: #000;
+}
+.scrollContinueReadingLink {
+  display: block;
+  text-align: center;
+}
+.scrollDashboard {
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  break-inside: avoid;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.scrollDashboard td {
+  width: 33.3%;
+  border: 1px solid #e8e8e8;
+}
+.scrollDashboard span {
+  font-size: 20p;;
+  display: block;
+}
+.scrollChat span {
+  font-family: Verdana;
+  margin-top: 5px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  display: inline-block;
+}
+.scrollChatLeft span {
+  background: rgba(204,204,204, .5);
+}
+.scrollChatRight span {
+  color: white;
+  background: rgb(0,132,255);
+}
+.scrollFootNoteUsageLink {
+  color: rgba(204,204,204,.5);
+}
+.scrollFootNoteUsageLink:hover {
+  color: #333;
+  text-decoration: none;
+}
+.scrollYouTubeHolder {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.scrollYouTubeEmbed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}</html>
