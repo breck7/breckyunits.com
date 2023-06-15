@@ -1,0 +1,22 @@
+{
+  "name": "breckyunits.com",
+  "version": "1.0.0",
+  "description": "Breck Yunits' Scroll.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/breckyunits.com.git"
+  },
+  "author": "Breck Yunits",
+  "scripts": {
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html"
+  },
+  "bugs": {
+    "url": "https://github.com/breck7/breckyunits.com/issues"
+  },
+  "homepage": "https://breckyunits.com",
+  "dependencies": {
+    "scroll-cli": "^71.5.0"
+  }
+}

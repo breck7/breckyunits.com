@@ -1,0 +1,5 @@
+importOnly
+// Just the footer but also include the index group and keyboard nav
+groups index
+keyboardNav
+import footer.scroll

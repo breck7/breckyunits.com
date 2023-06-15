@@ -1,0 +1,52 @@
+import header.scroll
+title Many Narratives. All true.
+startColumns 2
+date 6/13/2023
+
+I often write about the unreliability of narratives. It is even worse than I thought. Trying to write a narrative of one's own life in the traditional way is impossible. I am writing a narrative of my past year and realized while there is a single thread about *where* my body was and *what* I was doing there are _multiple_ independent threads explaining the *why*.
+ link if-stories-are-lies-why-do-they-work.html unreliability of narratives
+ dateline
+
+Luckily I now know this is what the science predicts! Specifically, Marvin Minsky's Society of Mind model.
+ link marvin-minsky.html Society of Mind model
+
+endSnippet
+
+katex
+
+# The Model
+You have a body $B$ and mind $M$ and inside your mind are a number of _neural agents_ running simultaneously: $M = \set{A_1, \mathellipsis, A_n}$. Let's say each agent has an activation energy and at any one moment the agent with the most activation energy gets to drive what your body $B$ does. It is very easy to see what your body does. But figuring out the why is harder, because we don't get to see which $A_i$ is in charge.
+
+## Easy to explain the _why_ behind basic actions
+When you eat some food, drink some water, or go pee, it can be easy to conclude that your "hunger agent", or "thirst agent", or "pee agent" was in charge.
+
+## Easy to explain the _why_ when following orders
+When you are following orders it can also be easy to explain the _why_ because you can just say person Y told you to do X.
+
+## Harder to explain more interleaved threads
+When I am trying to explain actions across a longer time-frame it is more difficult. The agents in charge change.
+
+Sometimes I take big risks and I can say "that's because I like taking big risks". Later I might be very cautious and I can say "that's because I am very cautious". This is a conflicting narrative.
+
+The truth is I have agents that like risk, and I have agents that are very cautious. So the true narrative is "First, part of me, Risky Agent X, was in charge and so took those huge risks then later another part of me, Cautious Agent Y, took over and so that's why my behavior was very cautious".
+
+## Access to information problem
+It's also difficult to explain _why_ you did something because your _Narrative Agents_ don't necessarily have the necessary connections to figure it out. Minsky had the brilliant insight that a friend who observes you can often describe your _why_ better than you. Your Narrative Agent that is currently trying to explain your _why_ of an action might not have visibility of the agents that were in charge of the action, and so cannot possibly come up with the true explanation. But perhaps your friend observed all the agents in action and can tell a more accurate story. I try to have a couple of deep talks a day with friends, and besides just being fun, it is amazing how helpful that can be for understanding ourselves.
+
+## "I" versus "Part of Me"
+When speaking of _what_ you did you can use the term "I".
+
+But when speaking of _why_ you did it it's often more accurate to use the phrase "part of me".
+
+# How to write a true autobiography
+If someone wants to write a true autobiography one approach is to just stick to the simple facts of _what_, _when_, and _where_.
+
+It would probably be a boring book.
+
+But to get into the _why_ and still be accurate, it probably would be best to tell it as a *multiple character* story. 
+
+Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.
+
+import indexFooter.scroll
+
+// todo: add a narratives page.

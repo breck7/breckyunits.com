@@ -1,0 +1,24 @@
+import header.scroll
+title Get VIM Working in Cygwin
+
+startColumns 2
+date 2009-11-20
+
+groups index
+keyboardNav
+permalink get-vim-working-in-cygwin.html
+
+I had trouble getting VIM behaving as expected under Cygwin. Specifically, the backspace and arrow keys were behaving badly in insert mode.
+ dateline
+
+The solution was dead simple. In your root directory just run:
+
+code
+ touch .vimrc
+
+# Links
+
+- Found this solution in the comment from <a href="https://www.daniel-lemire.com/blog/archives/2005/02/17/using-vim-under-cygwin
+-">Gregg</a> <a href="https://jmcpherson.org/vimrc.html
+">vimrc</a>
+import footer.scroll

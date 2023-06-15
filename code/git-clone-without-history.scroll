@@ -1,0 +1,19 @@
+import header.scroll
+title git clone without history
+
+startColumns 2
+date 2010-0-11
+
+groups index
+keyboardNav
+permalink git-clone-without-history.html
+
+If you're using a library from git in another project, you may want to download it without the history. Here's how:
+ dateline
+
+code
+ git clone --depth 1 your_repo_url
+
+http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
+
+import footer.scroll

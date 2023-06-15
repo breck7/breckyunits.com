@@ -1,0 +1,28 @@
+import header.scroll
+title Augmented Gitignore
+
+startColumns 2
+date 2010-8-4
+
+groups index
+keyboardNav
+permalink augmented-gitignore.html
+
+code
+ .bundle
+ db/*.sqlite3*
+ log/*.log
+ *.log
+ tmp/**/*
+ tmp/*
+ doc/api
+ doc/app
+ *.swp
+ *~
+ .DS_Store
+
+- Source
+ http://railstutorial.org/chapters/beginning#sec:adding_and_committing
+ dateline
+
+import footer.scroll

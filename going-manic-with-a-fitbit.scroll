@@ -1,0 +1,128 @@
+import header.scroll
+title Going Manic with a FitBit
+date 1/13/2018
+
+mediumColumnsParser
+ extends startColumnsParser
+ javascript
+  columnWidth = 65
+
+mediumColumns 1
+
+_Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time._
+ https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
+ dateline 6/13/2023
+
+image mania/3yrsSleepData.webp
+
+This is a story about how my FitBit logged a manic episode.
+ dateline
+endSnippet
+
+In mid-2017, I had a manic episode that led me to act impulsively, over-confidently and grandiosely. Like a textbook case of mania, I was filled with grand ideas and visions, rushed through life decisions (and a lot of my savings), and was positively euphoric.
+
+This was not a fluke event. I had been stable for about 2 years, but I was diagnosed with bipolar disorder 13 years ago, and have had approximately 7 swings of varying severity since then.
+
+But this episode had an epidemiological silver lining: my FitBit recorded it. I hope this story might help at least one other person suffering from bipolar disorder or encourage people working on using wearable tech for mental health treatments to keep up the promising work.
+
+# Sleep Tracking
+In November 2014, I started wearing a fitness band at all times. I now have about 160 consecutive weeks worth of sleep and other data.
+
+image mania/hittingMania.png
+
+The average FitBit user gets 6 hours and 38 minutes of sleep per night.
+
+My average — when stable — was a bit over 8 hours a night. Lots of people — parents especially — don't have the luxury of sleeping so much, and I feel a bit selfish and lazy to sleep so much. But when I do sleep less, as we shall see, my brain handles it worse than most.
+
+# The Beginning
+In May of 2016, I left my job to do some freelancing and work on an entrepreneurial software project. I was staying sane and getting over 7.5 hours of sleep per night.
+
+image mania/avgHours.webp
+
+But in April 2017, things changed. My sleep average dropped to a little over 6 hours per night. Compared to prior years, this was a 30% drop in sleep. But I wasn't tired. I felt more awake than I had been in years.
+
+On Thursday, May 3, I slept for 4 hours and 56 minutes — for no good reason. The next night I did it again. I was coding faster than ever and loving life to boot. Later that day in my journal I wrote, “Life is good. No. Life is fucking great!”
+
+image mania/taste.webp
+
+Mania is like an invisible drug. I had been off it for years. I had been vigilant. But after a long stable period, I had forgotten and now my guard was down. I didn't recognize it as it was happening.
+
+Looking back, this was probably the time to catch it. To go see my therapist. To get back on meds. To reveal my condition to some more people and ask for help.
+
+Alas, I didn't do that. By chance, I spent the next three weeks at my girlfriend's on the East Coast and did calm down a bit. But I was not thinking, “Yikes! I was getting a bit manic there, I need to be careful.” Instead I was thinking, “Wow, I was in the zone a couple weeks ago — I gotta get back to that!” My mind had tasted mania again and was subconsciously itching to get more.
+
+# The Episode
+Eager to get back to “the zone,” I impulsively bought a ticket back home and cut my trip to the East Coast short. I got back to coding and my work, and then, predictable as a clock, my countdown to mania began.
+
+image mania/descent.png
+The above chart is weekly averages. But the day-to-day variance was extreme — a few nights I slept less than 3 hours — but I felt great!
+
+image mania/2hours.png
+My behavior became textbook manic. My ideas and claims became more and more ambitious — topics that had seemed complex to me before suddenly seemed simple, I could learn anything, solve any problem, change industries.
+
+With my software project I started to feel the paranoid need to move fast — I got the delusion Google was also working on the same idea and was about to launch before me, stealing my thunder. Embarrassingly, I started publishing these grand claims, emailing past coworkers and employers, and started telling people I would win the Turing Prize.
+
+My spending got wild. For example, on a trip during the episode, I spent $300 to upgrade my ticket to first class (at the time I thought it was worthwhile because I wrote a “brilliant” math proof on the plane), took a deluxe Uber for $70, and tipped a busker $100. My usual daily expenses were about $30. My monthly expenses had been about $3k a month, but now shot up to over $10k.
+ wrapsOn false
+
+I can't believe I didn't know better, given more than a decade of experience with this condition. But at the time I was oblivious to what was driving me — in my mind there was a perfectly logical narrative explaining all my actions. Only now, looking at the sleep data, is it clear to me that physical brain conditions were contributing a huge amount to my behavior.
+
+# The Confusing, Mixed Aftermath
+Following this acute episode, I had a couple months of mixed moods.
+
+image mania/whatHappened.webp
+July and August were particularly confusing. The problem of having ideas in a manic state is that you believe in them so fervently—ideas come hard and fast in what feels like a spiritual experience — that it becomes very hard to let those ideas and beliefs go. At times I questioned what the hell I was doing, but I had made lots of claims in public and did my best to try and prove them.
+
+In the months that followed, sleep was mixed. I was trying to “get back” to the energy levels and clarity that I had in June — I still hadn't recognized that time as manic — but was finding it hard to do so. I tried sleeping less to kickstart my system.
+
+Far in the back of my head it was starting to occur to me that maybe I had gone manic again — that my ideas weren't so grand after all — but for months I strongly repressed those thoughts.
+
+# December — Coming to Terms with the Data
+By December I couldn't go mixed anymore. I knew something was wrong and I finally started to reflect on the past.
+
+Out of curiosity, I downloaded all my sleep data. What I saw confirmed my worst fears. When my sleep went out of control, so did my mania. When sleep decreased, grandiosity increased. Those long days weren't a result of groundbreaking work, but rather the result of a manic mind.
+
+# Tracking is Invaluable but Not a Cure
+image mania/thinkingSleepTrackingCured.png
+
+Wearables gave me great hope for curing my extreme mood issues. At first this was confirmed by my experience — once I started wearing a fitness band and regularly kept an eye on my sleep, I went on to have the longest mania-free period in my life. But now the data shows me that wearables by themselves are not a cure.
+
+image mania/sleepTrackedMania.webp
+
+# Could Alerts Have Prevented It?
+There are a lot of things I could have done differently to prevent this manic episode from happening. After stabilizing, I went off my medication and hadn't visited my doctor for over 18 months. I screwed up.
+
+But I wonder what would have happened back in May if my wearable service had alerted my doctor and a few close friends of my foreboding sleep changes. Perhaps there could have been a minor intervention that prevented the huge swing?
+
+image mania/alertsIdea.webp
+
+Of course, I know it's not as easy as alerts. I realize that if done in the wrong way, an alert service might make things worse — perhaps people might get paranoid and angry, rip the band off, and continue on their manic way.
+
+But in the future perhaps someone will design an alert and intervention system that is effective and palatable. Perhaps the alert sets into motion something subtle and agreeable — the person agrees to take an extra medication for a time, check in with their therapist, or start filling out a daily mood journal for a month, et cetera.
+
+# Grateful for the Data
+I am hugely disappointed in myself for letting this happen but at least grateful to have the huge amount of sleep data this time, something I never had before.
+
+Having lots of quantitative biological data like this makes it easier to accept the diagnosis that this is a real, physical condition. Sleep stats are also a simple, objective, and near-real time indicator for state of mind. Other data like journaling, mood tracking, emails, and finances reveal the symptoms, but that data is sparse, subjective, and laggy.
+
+I'm hopeful that wearable makers might crack the code for measuring other key indicators, like anxiety and social activity data, which could also be very helpful for people with mental health issues.
+
+Of course, the holy grail would probably be actual images of the brain over time. Perhaps when industrious scientists and engineers improve MRI and fMRI technology enough, getting a brain scan done a few times a year could really help people with bipolar understand their brains more and take better control of their condition. A new study published in Nature in May of 2017 provides tantalizing evidence that brain MRI scans will help us understand more how bipolar brains are different. I know I have to accept that my brain has some biological aberrations that make me more likely to behave in ways I'd rather not — but it's hard to accept that when you can't see what those aberrations are, and when the treatments are a lot of guesswork.
+ https://www.nature.com/articles/mp201773 study published in Nature in May of 2017
+
+# Wearables for Bipolar Disorder
+Monitoring sleep alone won't be the secret to a stable, productive, happy life. But it might reduce future manias. As far as I can remember, I never had a manic period without an accompanying need to sleep less. That seems to be the common experience, from what I've read. I would suggest to younger folks in high school and college who have been recently diagnosed with bipolar to get a sleep tracker and stay on it. Hopefully you'll be able to prevent some manic episodes. And if, like many others with bipolar disorder, you continue to have swings over the decades ahead, at least you'll gather data that could help you and other people figure this thing out.
+
+Of course, technology might also be making bipolar disorder worse in those prone to it. The technology advanced U.S. has the highest rate of bipolar disorder in the world. Perhaps increased screen time, less social time, or more media exacerbates the problem. But that's why I like passive wearables, which collect data without intruding on your life. Even if some innovations of the modern world offer new challenges to bipolar sufferers, some innovations also offers new hope.
+ https://www.nimh.nih.gov/news/science-news/2011/international-impact-of-bipolar-disorder-highlights-need-for-recognition-and-better-treatment-availability.shtml U.S. has the highest rate of bipolar disorder in the world
+
+# Conclusion
+I wish my longest stable streak was still going strong. I wish I hadn't gone manic and then crashed into the inevitable depression.
+
+But I'm grateful that this time I was wearing a figurative “black box.” Hopefully others can learn from my experience.
+
+Next time I start acting on a grand idea, I hope my band and I will do the healthy thing: get some sleep and forget it.
+
+_Note: Thank you to CP and DR, who provided me feedback at the time on this post. (6/13/2023)_
+
+import indexFooter.scroll

@@ -1,0 +1,14 @@
+import header.scroll
+title wget don't save file
+
+startColumns 2
+date 2010-3-27
+
+groups index
+keyboardNav
+permalink wget-dont-save-file.html
+
+code
+ wget -O /dev/null http://address.com
+
+import footer.scroll

@@ -1,0 +1,8 @@
+import settings.scroll
+metaTags
+gazetteCss
+gazetteHeader
+title Breck Yunits' Scroll
+description Some writing about probability, programming, economics and life.
+snippets index
+import footer.scroll
