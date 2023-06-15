@@ -9,17 +9,13 @@ In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repe
 
 The downside of DRY's popularity is that programmers might start applying the principle to conversations with other humans. 
 
-This fails because computers and people are <i>polar opposites.</i> 
+This fails because computers and people are _polar opposites._ 
 
-With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you <i>don't</i> repeat yourself!
+With computers, you get zero benefit if you repeat yourself. With people, you get zero benefit if you _don't_ repeat yourself!
 
 endSnippet
-groups index
-
-keyboardNav
 
 # Four Ways Computers and People are Different
-
 - *A computer's memory is perfect.* A computer forgets nothing. Tell it something once, and it will remember it forever. A human remembers almost nothing. I forget what I had for breakfast 2 days ago. I don't remember which people I talked to last week, nevermind what was said. If memory were cheese, a computer's would be cheddar and a human's would be swiss. You've got to repeat yourself when communicating with people because people forget.
 - *A computer is always paying attention.* Computers are perfect listeners. They are always listening to your input and storing it in memory. You, the operator, are the only thing they care about. Computers don't have needs. They don't daydream or have cellphones(yet). People on the other hand, rarely if ever pay full attention. They zone in and out. It's hard to even tell if they're zoned in, as we've all learned it's better to nod our heads. People have their own needs and concerns and opinions. You've got to repeat yourself when communicating with people because people don't pay attention.
 - *A computer understands your logic.* When you write a program, a computer never misunderstands. It will execute the program exactly as you typed it. People, however, do not communicate so flawlessly. Until I was 22 I used to think "hors d'oeuvres" meant dress nice. I did not understand the pronunciation. One time a friend emailed me about an event and said "Our place. Hors d'oeuvres. 7pm" and I responded "Awesome. Will there be food?" You've got to repeat yourself when communicating with people because people don't understand.
@@ -54,7 +50,7 @@ By repeating yourself just once you've increased the chances of perfect communic
 
 # Repeat yourself until you overcommunicate
 
-To communicate well you should try to <i>overcommunicate</i>. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
+To communicate well you should try to _overcommunicate_. Overcommunicating is hard to do. It's much easier and more common to undercommunicate. If you're not repeating yourself a lot, you're not overcommunicating.
 
 # An example of how I repeat myself
 
@@ -67,7 +63,6 @@ Some people prefer Google Docs, some prefer Basecamp. I'll post things to both, 
 With every new project I repeat a lot of messages and questions to the team. "How many people love this product?", "How can we make this simpler?", "Which of the 7 deadly sins does this appeal to?". I think these are important questions and so I'll repeat them over and over and add them to the todo lists for every project, multiple times.
 
 # Notes
-
 - 1. I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
 
-import footer.scroll
+import indexFooter.scroll

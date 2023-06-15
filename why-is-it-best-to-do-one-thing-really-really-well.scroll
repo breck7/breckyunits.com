@@ -3,8 +3,6 @@ title Why is it best to do one thing really, really well?
 
 startColumns 2
 date 2010-03-22
-groups index
-keyboardNav
 
 Google has a list of 10 principles that guide its actions. Number 2 on this list is:
  dateline
@@ -51,4 +49,4 @@ Yes. It's good to be flexible until you stumble upon the one thing your team can
 ? How do you explain the fact that successful companies actually do a lot of different things?
 Microsoft Windows brings in something like $15 billion per year. Google Adwords brings in something like $15 billion per year. When you make that kind of money, you can drop $100 million selling ice cream and it won't hurt you too much. But to get there, you've first got to do one hard thing really, really well, whether it be operating systems or search.
 
-import footer.scroll
+import indexFooter.scroll

@@ -316,14 +316,6 @@ h4.scrollQuestion {
  <a style="right:3px;" href="replies-always-welcome.html">></a>
 </div>
 
-<div class="scrollKeyboardNav" style="display:none;"><a href="oneTextarea.html">oneTextarea.html</a> · root-thinking.html · <a href="replies-always-welcome.html">replies-always-welcome.html</a><script>document.addEventListener('keydown', function(event) {
-  if (document.activeElement !== document.body) return
-  const getLinks = () => document.getElementsByClassName("scrollKeyboardNav")[0].getElementsByTagName("a")
-  if (event.key === "ArrowLeft")
-    getLinks()[0].click()
-  else if (event.key === "ArrowRight")
-    getLinks()[1].click()
- });</script></div>
 <div class="scrollSection"><h1 class="scrollTitle"><a href="root-thinking.html">Root Thinking</a></h1>
 </div><div class="scrollColumns" style="column-width:35ch;column-count:1;max-width:35ch;">
 <p class="scrollParagraph"><span class="scrollDateline">November 16, 2022 — </span>I dislike the term <em>first principles thinking</em>. It's vaguer than it needs to be. I present an alternate term: <strong>root thinking</strong>. It is shorter, more accurate, and contains a visual:</p>
@@ -338,6 +330,14 @@ h4.scrollQuestion {
 <div class="scrollSection"><h2 class="scrollParagraph">Notes</h2>
 <p  id="note1"class="scrollParagraph">1 Tree Notation is one minimal system for representing all structures as trees. <a class="scrollFootNoteUsageLink" href="#noteUsage1">⮐</a></p>
 </div>
+<div class="scrollKeyboardNav" style="display:none;"><a href="oneTextarea.html">oneTextarea.html</a> · root-thinking.html · <a href="replies-always-welcome.html">replies-always-welcome.html</a><script>document.addEventListener('keydown', function(event) {
+  if (document.activeElement !== document.body) return
+  const getLinks = () => document.getElementsByClassName("scrollKeyboardNav")[0].getElementsByTagName("a")
+  if (event.key === "ArrowLeft")
+    getLinks()[0].click()
+  else if (event.key === "ArrowRight")
+    getLinks()[1].click()
+ });</script></div>
 </div><style>.pageFooter {
   margin-top: 8px;
   padding-top: 8px;

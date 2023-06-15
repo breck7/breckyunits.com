@@ -20,7 +20,6 @@ image gmailFilter.png
  caption Join the fight against noreply email addresses. 
 
 # My Gmail filter
-
 Below is my Gmail filter. Paste it into `brecksFilter.xml` then go to Settings > Filters > Import filters. Join the fight to save email and restore human decency!
 
 xmlCode
@@ -58,34 +57,24 @@ xmlCode
 
 
 # Specific examples
-
 Again, there is never a valid reason to have a no reply email address. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
 
 ? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
-
 Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
 
 ? I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
-
 Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
 
 ? GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
-
 Could be a `replyToDeauthorize@github.com` instead.
 
 ? Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
-
 Could be a `replyToStopTracking@google.com`
 
 ? Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
-
 Could be a `replyToUnsubscribe`
 
 ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
-
 Could be a `replyToLeaveAReview`.
 
-
-groups index
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

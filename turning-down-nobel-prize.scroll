@@ -14,9 +14,4 @@ openGraphImage https://breckyunits.com/pirateQueen.jpeg
 
 image pirateQueen.jpeg
 
-
-
-
-groups index
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

@@ -167,7 +167,7 @@ Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocompl
 
 I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
 
-Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets <i>its own scope</i> and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
+Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets _its own scope_ and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
  https://treenotation.org/ Tree Notation
 
 # Notes

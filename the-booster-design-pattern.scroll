@@ -4,13 +4,9 @@ title The Booster Design Pattern
 startColumns 2
 date 2013-03-08
 
-groups index
-
-keyboardNav
-
 If your software project is going to have a long life, it may benefit from Boosters. A Booster is something you design with two constraints: 1) it must help in the current environment 2) it must be easy to jettison in the next environment.
  dateline
 
 image booster.jpg
 
-import footer.scroll
+import indexFooter.scroll

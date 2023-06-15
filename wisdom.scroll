@@ -25,9 +25,6 @@ quote
  <a class="rightQuote" href="https://www.ycombinator.com/library/5l-how-not-to-fail">Jessica Livingston</a>
 
 endSnippet
-groups index
-
-keyboardNav
 
 If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.
 
@@ -82,4 +79,4 @@ If you have great experience, I urge you to not put it out there in the form of 
 
 css .rightQuote{text-align: right; display: block; margin-top: 5px;}
 
-import footer.scroll
+import indexFooter.scroll

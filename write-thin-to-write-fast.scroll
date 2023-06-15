@@ -20,9 +20,6 @@ quote
 36 characters for me, YMMV. This simple mechanic has perhaps doubled my writing speed and quality.
 
 endSnippet
-groups index
-
-keyboardNav
 
 At my current font-size, my laptop screen could easily support 180 characters across<a href="#monitorFootnote"></a>. But if my words spread across the full screen, I write slower and produce worse content.
 
@@ -59,7 +56,6 @@ Jets are great, but beware jet lag when traveling. Big screens are great, but be
 image nytimesDrawing.png
 
 # Notes
-
 - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
 - I am a middling writer, so don't forget to weight this advice appropriately!
 - The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
@@ -74,4 +70,4 @@ comment Further threads to explore
 - Consider vertical languages like Japanese
 
 
-import footer.scroll
+import indexFooter.scroll

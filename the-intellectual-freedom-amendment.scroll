@@ -22,7 +22,6 @@ comment
  Of course, my personal hunch is that Intellectual Freedom is a good idea and the movement would gain steam.
 
 # An Initial Proposal
-
 The below proposal is 184 characters.
 
 quote
@@ -31,7 +30,4 @@ quote
 
 I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
 
-groups index
-
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

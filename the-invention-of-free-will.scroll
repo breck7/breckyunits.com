@@ -15,16 +15,11 @@ The father thinks for a moment. He realizes the answer involves explaining the s
 The father shrugs and says "Because you have free will, and chose to do it."
 
 endSnippet
-groups index
-
-keyboardNav
 
 # Free Will was Born
-
 Thus was born the notion of free will, a concept to explain why we have gone down certain paths when alternatives seemed perfectly plausible. We attribute the past to free will, and we attribute the unpredictability of the future to free will as well (i.e. "we haven't decided yet").
 
 # One little problem
-
 The problem is, this is wrong. You never choose just one path to go down. In fact, you go down all the paths. The catch is you only get to observe one.
 
 In one world the child did their homework. In another world, they didn't.
@@ -34,8 +29,8 @@ The child who did their homework will never encounter the child who didn't, but 
 Even the smug boy who says free will doesn't exist, is just one branch of the smug boy.
 
 # Notes
-
-- This all assumes, of course, that there are <a href="https://./the-many-worlds-law.html">many</a> worlds and not just one.
+- This all assumes, of course, that there are many worlds and not just one.
+ https://./the-many-worlds-law.html many
 - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
 
-import footer.scroll
+import indexFooter.scroll

@@ -8,36 +8,27 @@ I've been very surprised to discover how unpredictable the future is. As you try
  dateline
 
 endSnippet
-groups index
-
-keyboardNav
 
 Apparently this is because many things in our world are "chaotic". Small errors in your predictions get compounded over time. 10 day weather forecasts are notoriously inaccurate despite the fact that teams of the highest IQ'd people on earth have been working on them for years. I don't understand the math behind chaos but I believe in the basic ideas. 
 
 # A Simple Example
-
 I can correctly predict whether or not I'll work out tomorrow with about 85% accuracy. All I need to do is look at whether I worked out today and whether I worked out yesterday. If I worked out those 2 days, odds are about 90% I will work out tomorrow. If I worked out yesterday but didn't work out today, odds are about 40% I will work out tomorrow. If I worked out neither of those two days, odds are about 20% I'll work out tomorrow.
 
 However, I can't predict with much accuracy whether or not I'll work out 30 days from now. That's because the biggest two factors depend on whether I work out 29 days from now and 28 days from now. And whether I work out 29 days from now depends on the previous 2 days the most. If I'm wrong in my predictions about tomorrow, that error will compound and throw me off. It's hard to make an accurate prediction about something so simple. Imagine how hard it is to make a prediction about a non-binary quantity.
 
 # Things You Can't Predict
-
 Weather, the stock market, individual stock prices, the next popular website, startup success, box office hits, etc. Basically dynamic, complex systems are completely resistant to predictions. 
 
 # On Model verse Off Model
-
 When making predictions you generally build a model--consciously or unconsciously. For instance, in predicting my future workouts I can make a spreadsheet (or just a "mental spreadsheet") where I come up with some inputs that are used to predict the future workout. My inputs might be whether I worked out today and whether it will rain. These are the "on model" factors. But all models leave things out that may or may not affect the outcome. For example, it could be sunny tomorrow and I could have worked out today, so my model would predict a workout tomorrow. But then I might get injured on my way to the gym--an "off model" risk that I hadn't taken into account.
 
 # Avoid Making Predictions & Run From People Pushing Predictions
-
 The world is complex and impossible to predict accurately. But people don't get this. They think the world is easier to explain and predict than it really is. And so they demand predictions. And so people provide them, even though these explanations and predictions are bogus. Feel free to make or listen to long term predictions for entertainment, but don't believe any long term predictions you hear. We're a long way(possibility an infinitely long way) from making accurate predictions about the long run.
 
 # Inside Information
-
 What if you have inside information? Should you then be able to make better predictions than others? Let's imagine for a moment that you were alive in 1945 and you were trying to predict when WWII would end. If you were like 99.99999+% of the population, you would have absolutely no idea that a new type of bomb was just invented and about to be put to use. But if you were one of the few who knew about the bomb, you might have been a lot more confident that the war was close to an end. Inside information gives you a big advantage in predicting the future. If you have information and can legally "bet on that", go for it. However, even the most connected people only have the inside scoop on a handful of topics, and even if you know something other people don't it's very hard to predict the scale (or direction) of an event's effect. 
 
 # Be Conservative
-
 My general advice is to be ultra conservative about the future and ultra bullish on the present. Plan and prepare for the worst of days--but without a pessimistic attitude. Enjoy today and make safe investments for tomorrow.
 
-import footer.scroll
+import indexFooter.scroll

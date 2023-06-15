@@ -4,10 +4,6 @@ title The Great Bank Robbery
 startColumns 2
 date 2012-12-23
 
-groups index
-
-keyboardNav
-
 If you are poor, your money could be safer under the mattress than in the bank:
  dateline
 
@@ -32,4 +28,5 @@ Moebs via wayback machine
 FBI from here
  link fbi.jpg FBI
  https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary here
-import footer.scroll
+
+import indexFooter.scroll
