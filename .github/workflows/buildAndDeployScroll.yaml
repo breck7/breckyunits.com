@@ -13,7 +13,7 @@ jobs:
       - name: Install and Build
         run: |
           npm install -g scroll-cli
-          npm build
+          npm run build
           # The line below is needed if you have *.html in your gitignore file
           rm .gitignore
       - name: Deploy 🚀
