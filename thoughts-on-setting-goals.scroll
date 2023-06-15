@@ -13,29 +13,21 @@ quote
  Make them good. Make them small.
 
 endSnippet
-groups index
-
-keyboardNav
 
 # Make them Good
-
 Good goals create value. Some examples:
-
 - Make a customer smile.
 - Teach someone math.
 - Learn how to cook.
 - Organize weather information.
 
 # Make them Small
-
 Start small. It is better to set one or two goals per time period than to set two dozen goals. Instead of a goal like "get 1,000,000 people to your website", start with a smaller goal like "get 10 people to your website."
 
 If you exceed a goal and still think it's a good thing, raise the goal an order of magnitude. If you get those 10 visitors, aim for 100.
 
 # Why Small Goals Are Better
-
 Setting smaller goals is better because:
-
 - It feels good when you exceed a goal. Occasionally you'll wildly exceed a goal and that will feel great.
 - It's better to do a few small good things, than to fail trying one audacious thing. 
 - It's easier to accomplish an audacious thing by going one step(order of magnitude) at a time.
@@ -43,7 +35,6 @@ Setting smaller goals is better because:
 - Goals are arbitrary anyway. All goals are simply arbitrary constraints that help you focus--often with a team--to get stuff done. So since they're arbitrary, and as long as they're good goals, might as well make them simpler and easier.
 
 # Setting Ranges
-
 Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
 
 spaceTable
@@ -54,4 +45,4 @@ spaceTable
 
 If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy. 
 
-import footer.scroll
+import indexFooter.scroll

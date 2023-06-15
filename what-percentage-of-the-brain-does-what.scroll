@@ -1,12 +1,10 @@
 import header.scroll
 title What Percentage of the Brain Does What?
-groups index
-keyboardNav
 startColumns 2
 date 2010-08-23
 
-_Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintess understanding of the brain so this is one of those times. Reading this post could make you dumber. But  occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
- link /whats-linear-algebra.html Linear Algebra
+_Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintess understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
+ link whats-linear-algebra.html Linear Algebra
  dateline
 
 My question is: *how are the brain's resources allocated for its different tasks?*
@@ -29,4 +27,4 @@ I have no idea, but my guess is below.
 
 I'm probably quite far off, but I thought it was an interesting question to think about. Now I'll go see if I can dig up some truer numbers.
 
-import footer.scroll
+import indexFooter.scroll

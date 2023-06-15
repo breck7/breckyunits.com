@@ -10,19 +10,16 @@ In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are 
 I think we should use the word "orbit" instead of year. It's less abstract. The earth's 584 million mile journey around the sun is an amazing phenomena, and calling it merely "another year" doesn't do it justice.
 
 endSnippet
-groups index
-
-keyboardNav
 
 Calling years orbits also makes life sound more like a carnival ride--you get a certain number of orbits and then you get off. 
 
 Enjoy the ride!
 
 # Notes
-
-- 1. Neat fact: The sun completes a revolution around the center of the Milky Way galaxy once every 250 million years. It is estimated to have completed <a href="http://www.quora.com/The-Moon-orbits-the-Earth-and-the-Earth-orbits-the-Sun-What-does-the-Sun-orbit">25 orbits</a>  during the lifetime of our Sun, and less than one orbit since the origin of humans.
+- 1. Neat fact: The sun completes a revolution around the center of the Milky Way galaxy once every 250 million years. It is estimated to have completed 25 orbits during the lifetime of our Sun, and less than one orbit since the origin of humans.
+ http://www.quora.com/The-Moon-orbits-the-Earth-and-the-Earth-orbits-the-Sun-What-does-the-Sun-orbit 25 orbits
 - 2. My roommate Andrew suggests the reason why we don't refer to a year as an orbit is perhaps because when we started calling things years, we didn't yet know that the earth revolved around the sun. Bad habits die hard.
 - 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
 - 4. We should also call days "revs". Okay I'm done.
 
-import footer.scroll
+import indexFooter.scroll

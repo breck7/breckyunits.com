@@ -3,8 +3,6 @@ title Show HN: Programming is Now Two-Dimensional
 
 startColumns 2
 date 2017-06-21
-groups index
-keyboardNav
 
 *Eureka!* I wanted to announce something small, but slightly novel, and potentially useful.
  dateline
@@ -47,4 +45,4 @@ Two updates on 12/30/2017. After I wrote this I was informed that one other pers
  https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
 
 
-import footer.scroll
+import indexFooter.scroll

@@ -8,18 +8,13 @@ date 2012-11-20
  dateline
 
 endSnippet
-groups index
-
-keyboardNav
 
 # Why I love simplicity
-
 Simple products are pleasant to use. When I use a product, and it is easy to use, and it's quick to use, I love that. I fucking hate things that are not as simple as possible and waste people's time or mental energy as a result. For example, to file my taxes with the IRS, I cannot go to the IRS' website. It's much more complex than that. I hate that. It is painful. Complex things are painful to use. Simple things are pleasant to use. They make life better. This is, of course, well known to all good designers and engineers.
 
 Simple things are also more democratic. When I can understand something, I feel smart. I feel empowered. When I cannot understand something, I feel stupid. I feel inferior. Complex things are hard to understand. The response shouldn't be to spend a long time learning the complex thing, it should be to figure out how to make the complex thing simpler. When you do that, you create a lot of value. If I can understand something, I can do something. When we make things simpler, we empower people. Often times I wonder if being a doctor would only take 2 years if Medicine abandoned Latin terms for a simpler vocabulary.
 
 # Reaching the Limits of Simplicity
-
 This whole year, and well before that, I've been working with people trying to make the web simpler. The web is really complex. You need to know about HTML, CSS, Javascript, DNS, HTTP, DOM, Command Line, Linux, Web Servers, Databases, and so on. It's a fucking mess. It's fragmented to all hell as well. Everyone is using different languages, tools, and platforms. It can be a pain.
 
 Anyway, we've been trying to make a simple product. And we've been trying to balance simplicity with features. And that's been difficult. Way more difficult than I would have predicted.
@@ -37,4 +32,4 @@ Think about what the world would be like if we only used half of the periodic ta
 
 Simplicity is a great thing to strive for. But sometimes cutting things out to make something simpler can make it worse. Simplicity is not the only thing to maximize. Make sure to balance simplicity with setplicity. Don't worry if you haven't reduced things to a singularity. Happiness in life is found by balancing amongst a set of things, not by cutting everything out.
 
-import footer.scroll
+import indexFooter.scroll

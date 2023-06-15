@@ -10,9 +10,6 @@ I published 55 essays here the first year. The second and third years combined, 
 What caused me to stop publishing?
 
 endSnippet
-groups index
-
-keyboardNav
 
 It hasn't been a lack of ideas. All my essays start with a note to self. I have just as many notes to self nowadays as I did back then.
 
@@ -24,4 +21,4 @@ I've also become somewhat disappointed with the essay form. I am very interested
 
 The bottom line is I want to publish more. It forces me to think hard about my opinions, and it opens me up to advice from other people. I think this blog has helped me be less wrong about a lot of things. So here's to another fifty posts.
 
-import footer.scroll
+import indexFooter.scroll

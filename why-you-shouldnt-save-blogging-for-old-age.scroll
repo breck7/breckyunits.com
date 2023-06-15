@@ -10,9 +10,6 @@ A lot of people have the idea that maybe one day they'll become rich and famous 
 But you don't have to wait until you're rich and famous to write a book about your experiences and ideas.
 
 endSnippet
-groups index
-
-keyboardNav
 
 quote
  A few months ago I was talking to another MBA student, a very talented man, about 30 years old from a great school with a great resume. I asked him what he wanted to do for his career, and he replied that he wanted to go into a particular field, but thought he should work for McKinsey for a few years first to add to his resume. <b>To me that's like saving sex for your old age</b>. It makes no sense.
@@ -36,4 +33,4 @@ If you need some selfish reasons, here are 5:
 
 Blogging. Don't save it for your old age.
 
-import footer.scroll
+import indexFooter.scroll

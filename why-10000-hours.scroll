@@ -25,7 +25,4 @@ quote
 
 image bug.png
 
-groups index
-
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

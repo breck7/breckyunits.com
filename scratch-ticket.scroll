@@ -10,12 +10,12 @@ In 2007 we came up with an idea for a scratch ticket that would give everyday Am
  dateline
 
 image seemewin.jpg
- caption <a href="https://www.youtube.com/watch?v=SgG63QYZaE0">Still makes me laugh</a>.
+ caption Still makes me laugh.
+  https://www.youtube.com/watch?v=SgG63QYZaE0
 
 endSnippet
 
 # Backstory
-
 In 2007 I cofounded a startup called SeeMeWin.com that combined 3 ideas that were hot at the time: Justin.TV, ESPN's WSOP, and the MillionDollarHomepage.com.
 
 The idea was we would live stream a person(s) scratching scratch tickets until they won $1M live on the Internet.
@@ -47,8 +47,4 @@ Thank you to everyone that helped with this big failure especially ANGEL BIGUNIT
 image pmarca.png
  caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
 
-
-
-groups index
-keyboardNav
-import footer.scroll
+import indexFooter.scroll

@@ -1,6 +1,4 @@
 import header.scroll
-groups index
-keyboardNav
 title Root Thinking
 startColumns 1
 date 11/16/2022
@@ -26,4 +24,4 @@ If everyone practiced _root thinking_ all the time we would get nowhere. It's ha
 ^tn Tree Notation is one minimal system for representing all structures as trees.
  https://treenotation.org Tree Notation
 
-import footer.scroll
+import indexFooter.scroll

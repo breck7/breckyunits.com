@@ -10,12 +10,8 @@ In this post I briefly describe eleven threads in languages and programming. The
 This might be hard to follow unless you have experience working with types, whether that be types in programming languages, or types in databases, or types in Excel. Actually, this may be hard to follow regardless of your experience. I'm not sure I follow it. Maybe just stay for the links. Skimming is encouraged.
 
 endSnippet
-groups index
-
-keyboardNav
 
 # First, from the Land of Character Sets
-
 Humans invented characters roughly 5,000 years ago.
  https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts 5,000 years ago
 
@@ -31,7 +27,6 @@ In 1992 UTF-8 was designed which went on to become the first widespread system t
 *For about 99.6% of recorded history we did not have a globally used system to encode all human characters into a single system. Now we do.*
 
 # Meanwhile, in the Land of Standards Organization
-
 Scientific standards are the original type schemas. Until recently, Standards Organizations dominated the creation of standards.
  https://en.wikipedia.org/wiki/Standards_organization Standards Organizations
 
@@ -46,7 +41,6 @@ The International Organization for Standardization (ISO) began around 100 years 
 *For 98% of recorded history we did not have global standards. Now we do.*
 
 # Meanwhile, in Math Land
-
 My grasp of the history of mathematics isn't strong enough to speak confidently to trends in the field, but I do want to mention that in the past century there has been a lot of important research into type theories.
  https://en.wikipedia.org/wiki/Type_theory type theories
 
@@ -56,7 +50,6 @@ In the past 100 years type theories have taken their place as part of the founda
 *For 98% of recorded history we did not have strong theories of type systems. Now we do.*
 
 # Meanwhile, in Programming Language Land
-
 The research into mathematical type and set theories in the 1900's led directly into the creation of useful new programming languages and programming language features.
 
 From the typed lambda calculus in the 1940's to the static type system in languages like C to the ongoing experiments of Haskell or the rapid growth of the TypeScript ecosystem, the research into types has led to hundreds of software inventions.
@@ -70,7 +63,6 @@ In the late 1990's and 2000's, a slew of programming languages that underutilize
 *95%+ of the most popular programming languages use increasingly smarter type systems.*
 
 # Meanwhile, in API Land
-
 Before the Internet became widespread, the job of most programmers was to write software that interacted only with other software on the local machine. That other software was generally under their control or well documented.
 
 In the late 1990's and 2000's, a big new market arose for programmers to write software that could interact over the Internet with software on other machines that they had no control of or knowledge about.
@@ -88,7 +80,6 @@ The main advantage that JSON had over XML was simple, well defined types. It had
 *For 99.8% of recorded history we did not have a global network conducting automated business transactions with a typed language. Now we do.*
 
 # Meanwhile, in SQL Land
-
 When talking about types and data one must pay homage to SQL databases, which store most of the world's structured data and perform the transactions that our businesses depend on.
  https://en.wikipedia.org/wiki/SQL SQL
 
@@ -103,7 +94,6 @@ Critical information is stored in strongly typed SQL databases: Financial inform
 *98% of the world's most valuable, processed information is now stored in typed databases.*
 
 # Meanwhile, in the Land of Types as Code
-
 The standards we get from the Standards Organizations are vastly better than not having standards, but in the past they've been released as non-computable, weakly typed documents.
 
 There are lots of projects that are now writing schemas in computable languages. The Schema.org project is working to build a common global database of rich type schemas. JSON LD aims to make the types of JSON more extensible. The DefinitelyTyped project has a rich collection of commonly used interfaces. Protocol buffers and similar are another approach at language agnostic schemas. There are attempts at languages just for types. GraphQL has a useful schema language with rich typing.
@@ -118,7 +108,6 @@ There are lots of projects that are now writing schemas in computable languages.
 *100% of standards/type schemas can now themselves be written in strongly typed documents.*
 
 # Meanwhile, in Git Land
-
 Git is a distributed version control system created in 2005.
  https://en.wikipedia.org/wiki/Git Git
 
@@ -127,7 +116,6 @@ Git can be used to store and track changes to any type of data. You could theore
 *For 99.9% of recorded history, there was not a cheap way to experiment and evolve type schemas nor a safe way to roll them out. Now there is.*
 
 # Meanwhile, in Hub Land
-
 In the past 30 years, central code hubs have emerged. There were early ones like SourceForge but in the past ten years GitHub has become the breakout star. GitHub has around 30 million users, which is also a good estimate of the total number of programmers worldwide, meaning nearly every programmer uses git.
  https://sourceforge.net/ SourceForge
  http://github.com/ GitHub
@@ -143,7 +131,6 @@ Code hubs allow the sharing of code, including type definitions, and can help ma
 *99% of programmers now use code hubs and hubs are a great place to increase adoption of types, making them even more useful.*
 
 # Meanwhile, in Semantic Web Land
-
 The current web is a collection of untyped HTML pages. So if I were to open a web page with lots of information about diseases and had a semantic question requiring some computation, I'd have to read the page myself and use my slow brain to parse the information and then figure out the answer to my semantic question.
 
 The Semantic Web dream is that the elements on web pages would be annotated with type information so the computer could do the parsing for us and compute the answers to our semantic questions.
@@ -161,7 +148,6 @@ While lots of strongly typed proprietary databases exist on the web for various 
 *99% of the web is untyped while 99% of the world's typed information is silo-ed and proprietary.*
 
 # Meanwhile, in Deep Learning Land
-
 Deep Learning is creeping in everywhere. In the past decade it has come to be the dominant strategy for NLP. In the past two years, a new general learning strategy has become feasible where models learn some intrinsic structure of language and can use this knowledge to perform many different language tasks.
  https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf general
  https://github.com/google-research/ALBERT feasible
@@ -171,7 +157,6 @@ One of those tasks could be to rewrite untyped data in a typed language.
 *AI may soon be able to write a strongly typed semantic web from the weakly typed web.*
 
 # Tying All These Threads Together
-
 I see a global pattern here that I call the "Type the World" trend. Here are some future predictions from these past trends.
 
 - We will always have creative, ambiguous, untyped human languages where new ideas can evolve freely
@@ -192,4 +177,4 @@ The result of this will be a future where all business, from finance to shopping
 While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
 
 
-import footer.scroll
+import indexFooter.scroll

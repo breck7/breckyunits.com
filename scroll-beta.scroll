@@ -1,9 +1,6 @@
 import header.scroll
 title Scroll Beta
-
 startColumns 2
-groups index
-keyboardNav
 date 2021-02-22
 
 Today I'm launching the beta of something new called Scroll.
@@ -25,4 +22,4 @@ Second, Scroll is a Tree Language. Unlike Markdown, Scroll is easily extensible.
 
 I've had fun building Scroll so far and am excited to start working on it with others.
 
-import footer.scroll
+import indexFooter.scroll

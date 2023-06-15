@@ -4,10 +4,6 @@ title Time
 startColumns 2
 date 2013-04-01
 
-groups index
-
-keyboardNav
-
 quote
  Two people in the same forest,
  have the same amount of water and food,
@@ -21,4 +17,4 @@ quote
  are equal.
  Their journeys can be very different.
 
-import footer.scroll
+import indexFooter.scroll

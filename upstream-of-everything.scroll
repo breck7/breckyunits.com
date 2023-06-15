@@ -67,9 +67,4 @@ And so I've come full circle to realizing the benefits of spirituality. Of not c
 - I realize now that this idea is thousands of years old.
  https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea
 
-groups index
-
-keyboardNav
-
-
-import footer.scroll
+import indexFooter.scroll

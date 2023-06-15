@@ -10,9 +10,6 @@ Network effects are to entrepreneurs what compounding effects are to investors: 
 Sometimes a product becomes more valuable simply as more people use it. This means the product has a "network effect".
 
 endSnippet
-groups index
-
-keyboardNav
 
 You're probably familiar with two famous examples of network effects:
 
@@ -26,7 +23,6 @@ Giant businesses took advantage of giant network effects. When you bought that p
 The biggest businesses enabled user-to-user network effects. Only the pizza store can improve its own offering. But Facebook, Craiglist, Twitter, and Windows have enabled their customers and developers to all improve the product with extremely little involvement from the company.
 
 # Notes
-
 - 1. This is probably easier said than done.
 
-import footer.scroll
+import indexFooter.scroll

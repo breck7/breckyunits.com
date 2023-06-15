@@ -109,8 +109,8 @@ I believe a SUNSA would give us a way to measure complexity as neatly as we meas
 
 # Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Level
 
-I love projects like https://godbolt.org/, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they _are_ roughly the same!).
- https://godbolt.org/ https://godbolt.org/
+I love projects like godbolt.org, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they _are_ roughly the same!).
+ https://godbolt.org godbolt.org
 
 ? What would the properties of a SUNSA be?
 
@@ -223,9 +223,6 @@ That's it for the recap of 2019! Tune in next year for a recap of 2020.
 - <a name="note-risk"></a> Note that this means I am between 90-99% confident that Tree Notation is _not_ a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
 - <a name="note-euclid"></a> When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
 
-groups index
-
-keyboardNav
 permalink tree-notation-annual-report-2019.html
 
-import footer.scroll
+import indexFooter.scroll

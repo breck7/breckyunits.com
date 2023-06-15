@@ -10,9 +10,6 @@ My whole life I've been trying to understand how the world works. How do planes 
 Over time I realized that these questions are all different ways of asking the same thing: how do complex systems work?
 
 endSnippet
-groups index
-
-keyboardNav
 
 The past few years I've had the opportunity to spend thousands of hours practicing programming and studying computers. I now understand, in depth, one complex system. I feel I can finally answer the general question about complex systems with a very simple answer.
 
@@ -49,4 +46,4 @@ Medicine? Compounded probability.
 
 It's probability all the way down.
 
-import footer.scroll
+import indexFooter.scroll
