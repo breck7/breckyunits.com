@@ -37,7 +37,7 @@ If you tell something to a person once:
 - The odds the person understood you: 50%?
 - The odds the person gets the importance right: 30%?
 
-In other words, the odds of communicating perfectly are very low: <b>1.8%</b>! You are highly likely to run into at least one of those four problems. 
+In other words, the odds of communicating perfectly are very low: *1.8%*! You are highly likely to run into at least one of those four problems. 
 
 Now, if you repeat yourself 1 time, and we assume independence, here's how the probabilities change:
 
@@ -46,7 +46,7 @@ Now, if you repeat yourself 1 time, and we assume independence, here's how the p
 - The odds the person understood you: 75%
 - The odds the person gets the importance right: 51%
 
-By repeating yourself just once you've increased the chances of perfect communication from 1.8% to <b>12.5%</b>! Repeat yourself one more time and the probability of perfect communication increases to over 90%. Well, in this simplistic model anyway. But I hope you get the idea.
+By repeating yourself just once you've increased the chances of perfect communication from 1.8% to *12.5%*! Repeat yourself one more time and the probability of perfect communication increases to over 90%. Well, in this simplistic model anyway. But I hope you get the idea.
 
 # Repeat yourself until you overcommunicate
 
