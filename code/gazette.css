@@ -2,16 +2,29 @@
   margin: 0;
   padding: 0;
 }
+.dropcap:first-letter {
+  font-size: 3em;
+  line-height: .9em;
+  margin-right: 2px;
+  display: block;
+  float: left;
+}
 .scrollCaptionedFigure {
   display: block;
   text-align: center;
 }
 .scrollCaptionedFigure img {
-  max-width: 98%;
+  max-width: 100%;
   height: auto;
+  margin-top: 3px;
 }
 .scrollCaptionedFigure figcaption {
-  font-style: italic;
+  font-family: Verdana;
+  font-size: 80%;
+}
+.scrollCaptionedFigure figcaption .scrollParagraph {
+  margin-top: 0;
+  line-height: 1.1em;
 }
 .scrollCodeBlock {
   overflow: auto;

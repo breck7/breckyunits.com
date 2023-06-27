@@ -6,28 +6,26 @@ date 11/14/2022
 
 openGraphImage https://breckyunits.com/noNoReplies.png
 
-Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones and gives you the middle finger. That's the experience you are providing your customers every time you send an email message from a `noreply` email address. I cannot think of a single valid reason to ever send an email from a noreply address. It takes extremely little code to route any responses appropriately.
+Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.
  dateline
 
-Either do the work to send emails that can be replied to or don't send emails.
-
 image noNoReplies.png
- caption My war against no reply email addresses begins. Anytime someone sends a message to me now from a noreply address they get this as a response, in addition to other actions.
+ caption My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
 
 endSnippet
 
 image gmailFilter.png
- caption Join the fight against noreply email addresses. 
+ caption Join the campaign against noreply email addresses!
 
 # My Gmail filter
-Below is my Gmail filter. Paste it into `brecksFilter.xml` then go to Settings > Filters > Import filters. Join the fight to save email and restore human decency!
+Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings > Filters > Import filters. Join the campaign to make email more human human again!
 
 xmlCode
  <?xml version='1.0' encoding='UTF-8'?>
  <feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
      <title>Mail Filters</title>
-     <id>tag:mail.google.com,2008:filters:z0000001668441215282*0601353100407184173</id>
-     <updated>2022-12-30T11:45:22Z</updated>
+     <id>tag:mail.google.com,2008:filters:z0000001687903548068*6834178925122906716</id>
+     <updated>2023-06-27T22:06:11Z</updated>
      <author>
          <name>Breck Yunits</name>
          <email>breck7@gmail.com</email>
@@ -35,29 +33,31 @@ xmlCode
      <entry>
          <category term='filter'></category>
          <title>Mail Filter</title>
-         <id>tag:mail.google.com,2008:filter:z0000001668441215282*0601353100407184173</id>
-         <updated>2022-12-30T11:45:22Z</updated>
+         <id>tag:mail.google.com,2008:filter:z0000001687903548068*6834178925122906716</id>
+         <updated>2023-06-27T22:06:11Z</updated>
          <content></content>
          <apps:property name='from' value='noreply@* | no-reply@* | donotreply@*'/>
          <apps:property name='label' value='NoReplySpam'/>
-         <apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:18562d933868aa1a'/>
-         <apps:property name='smartLabelToApply' value='^smartlabel_promo'/>
+         <apps:property name='shouldArchive' value='true'/>
+         <apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:188fee33e5d0226e'/>
          <apps:property name='sizeOperator' value='s_sl'/>
          <apps:property name='sizeUnit' value='s_smb'/>
      </entry>
      <entry>
          <category term='cannedResponse'></category>
-         <title>WarOnNoReplyEmailAddresses</title>
-         <id>tag:mail.google.com,2009:cannedResponse:18562d933868aa1a</id>
-         <updated>2022-12-30T11:45:22Z</updated>
-         <content type='html'>&lt;div dir="ltr"&gt;&lt;div&gt;Never send an email from a &amp;quot;no reply&amp;quot; email address.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inform your tech team to rethink their design.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;It&amp;#39;s bad customer service and like sending this:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;....................../´¯/) &lt;br&gt;....................,/¯../ &lt;br&gt;.................../..../ &lt;br&gt;............./´¯/&amp;#39;...&amp;#39;/´¯¯`·¸ &lt;br&gt;........../&amp;#39;/.../..../......./&lt;wbr&gt;¨¯\ &lt;br&gt;........(&amp;#39;(...´...´.... ¯~/&amp;#39;...&amp;#39;) &lt;br&gt;.........\.................&amp;#39;..&lt;wbr&gt;.../ &lt;br&gt;..........&amp;#39;&amp;#39;...\.......... _.·´ &lt;br&gt;............\..............( &lt;br&gt;..............\.............\.&lt;wbr&gt;..&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Learn more: &lt;a href="https://breckyunits.com/replies-always-welcome.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;amp;q=https://breckyunits.com/replies-always-welcome.html&amp;amp;source=gmail&amp;amp;ust=1672487122927000&amp;amp;usg=AOvVaw0wFT8VqAmM0qZqE3xQY_Cl"&gt;https://breckyunits.com/&lt;wbr&gt;replies-always-welcome.html&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
+         <title>No no-reply email addresses</title>
+         <id>tag:mail.google.com,2009:cannedResponse:188fee33e5d0226e</id>
+         <updated>2023-06-27T22:06:11Z</updated>
+         <content type='text'>Hi! Did you know instead of a "no reply" email address there are ways to provide a better customer experience?
+ 
+ Learn more: https://breckyunits.com/replies-always-welcome.html
  </content>
      </entry>
  </feed>
 
 
 # Specific examples
-Again, there is never a valid reason to have a no reply email address. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
 
 ? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
 Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
