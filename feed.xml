@@ -1,11 +1,11 @@
-<!DOCTYPE html><html lang="en"><div class="scrollSection"><h1 hidden="undefined" class="scrollTitle"><a href="feed.xml">Breck Yunits' Scroll</a></h1>
+<div class="scrollSection"><h1 hidden="undefined" class="scrollTitle"><a href="feed.xml">Breck Yunits' Scroll</a></h1>
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
  <title>Breck Yunits' Scroll</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Sat, 01 Jul 2023 21:35:41 +0000</lastBuildDate>
+ <lastBuildDate>Sat, 04 Nov 2023 18:19:02 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>A Manic Startup</title>
@@ -689,4 +689,4 @@
  </item>
 </channel>
 </rss>
-</div></html>
+</div>

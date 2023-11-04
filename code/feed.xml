@@ -1,10 +1,10 @@
-<!DOCTYPE html><html lang="en"><?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="2.0">
 <channel>
  <title></title>
  <link></link>
  <description></description>
- <lastBuildDate>Sat, 01 Jul 2023 21:35:41 +0000</lastBuildDate>
+ <lastBuildDate>Sat, 04 Nov 2023 18:19:02 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>My Sublime Settings</title>
@@ -477,4 +477,4 @@
   <pubDate>Wed, 18 Nov 2009 00:00:00 +0000</pubDate>
  </item>
 </channel>
-</rss></html>
+</rss>
