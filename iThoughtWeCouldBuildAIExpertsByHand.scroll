@@ -155,7 +155,14 @@ Sixth, static knowledge bases decay. They would require continual upkeep by huma
 
 Is there still any merit to my approach? If there actually were an algebra that provided an advantage and we discovered it, then perhaps it would be a way to build expert intelligences without giving control over to this new species.
 
-I am not sure it is wrong, but I am far less confident it is a good bet now than I wsa in August 2022.
+I am not sure it is wrong, but I am far less confident it is a good bet now than I was in August 2022.
+
+# Better Approaches
+
+Looking back, I think I should have focused more not on trying to replace Wikipedia, but on testing whether radically increasing the comparability of concepts in Wikipedia would allow it to power smarter interfaces. Wikipedia already has most of the concepts. My major bet was that increasing the comparability of concepts would lead to better digital AI experts. There are many ways to explore that hunch without building something new from scratch.
+
+
+
 
 
 [] The power and compute efficiency of LLMs will likely follow a power law.
