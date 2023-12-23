@@ -1,10 +1,10 @@
 import header.scroll
-title I thought we could build AIs by hand
+title I thought we could build AI experts by hand
 date 12/22/2023
 
 startColumns 2
 
-I thought we could build AIs by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
+I thought we could build AI experts by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
  dateline
 
 endSnippet
@@ -26,43 +26,48 @@ This is an idea I became obsessed with. I came across it by chance, when I was s
 image appleCell.png
  caption If your syntax can distinguish symbols and define scopes you can represent anything.
 
-One day I imagined a book. It could be billions of pages long. It would be lacking in ornamentation. The first line would be "0". The second line would be "1". You've just defined Binary Notation. You could then use those defined symbols to define other symbols.
+One day I imagined a book. Let's call it The Book. It could be billions of pages long. It would be lacking in ornamentation. The first line would be "0". The second line would be "1". You've just defined Binary Notation. You could then use those defined symbols to define other symbols.
  class dropcap
 
-In the first ten pages you might have the line "8 1000" to define the decimal number 8. In the first thousand pages you might have the line "A 65" to define the character "A" in decimal. In the first ten thousand pages you might have the word "apple", and in the first ten million you might have defined all the molecules that are present in an apple. The rules, aka the grammar, would be built up as well. The grammar would also be as strict as possible while still permitting every idea, thus compressing the book not in terms of bits but in terms of symbols.
+In the first ten pages you might have the line "8 1000" to define the decimal number 8. In the first thousand pages you might have the line "A 65" to define the character "A" in decimal. In the first ten thousand pages you might have the word "apple", and in the first ten million you might have defined all the molecules that are present in an apple.
 
-It would be an encyclopedia. But it wouldn't just list concepts and their descriptions in a loosely connected way. It would build up every concept, so you could trace all of the concepts required by any other concept all the way down to binary. Entries would look so simple but would abide by a grammar and every word in every concept would have many links. You would not only have definitions of every concept, but comparability would be maximized. Wikipedia does a remarkable job of listing all the concepts in a space. But comparability is nowhere near maximized. You would not generally read this like an encyclopedia, but would query it like you would an expert.
+The primary purpose of The Book would be to provide useful models for the world outside The Book. But a lot of the pages would go to building up a "grammar" which would dictate the rules for the rest of the symbols in The Book and connect concepts together. In a sense the grammar compresses the contents of The Book, minimizing not the number of bits needed but the number of symbols needed and the entropy of the spaces on the pages that hold the symbols, and maximizing the comparisons that could be made between symbols.
+
+The Book would be an encyclopedia. But it wouldn't just list concepts and their descriptions in a loosely connected way. It would build up every concept, so you could trace all of the concepts required by any other concept all the way down to binary. Entries would look so simple but would abide by the grammar and every word in every concept would have many links. You would not only have definitions of every concept, but comparability would be maximized. Wikipedia does a remarkable job of listing all the concepts in a space. But comparability is nowhere near maximized.
+
+It wasn't the possibility of having a billion page book that excited me. It is what The Book could power. You would not generally read The Book like an encyclopedia, but it would power an expert you could query.
+ class dropcap
 
 What is an expert? An expert is an agent that can take a problem, list all the options, and compare them in all the relevant ways so the best decision can be made. An expert can fail if it is unaware of an option or fails to compare options correctly in all of the relevant ways.
 
-In the past few years, I became disillusioned with human experts. As Yogi Berra might say, "You can trust the experts. Except when you can't". When an expert provides you with a recommendation, you cannot see all the concepts the expert considered and comparisons the expert made. Most of the time it doesn't matter because the situation at hand has a clear best solution. You can greatly reduce the odds of a mistake by getting multiple opinions. But sometimes you are dealing with a problem with no standout solution. In these cases biased solutions flood the void. You can shuffle from expert to expert, hoping to find "the best expert" with a standout solution. But at that point you probably won't do better than simply rolling a dice. But what if we could actually make the best expert a digital one, so good that it could not only see that it knows all the important stuff we know, but it reveals what we don't yet know as well?
+Over the years I've thought a lot about why human experts go wrong in the same way over and over. As Yogi Berra might say, "You can trust the experts. Except when you can't". When an expert provides you with a recommendation, you cannot see all the concepts the expert considered and comparisons the expert made. Most of the time it doesn't matter because the situation at hand has a clear best solution. You can greatly reduce the odds of an innocent mistake by getting multiple opinions. But sometimes you are dealing with a problem with no standout solution. In these cases biased solutions flood the void. You can shuffle from "expert" to "expert", hoping to find "the best expert" with a standout solution. But at that point you probably won't do better than simply rolling a dice. No one is an expert past the line of what is known. The problem is it impossible to see where that line is. But if we could actually make something like The Book, the best expert could be a digital one, which would show not only all the important stuff we know, but also show what we don't know.
 
-It could aid in discoveries. Anyone would be able to _see the edge_ of knowledge in any domain. Because everything would be built in the same universal computable language, you could do comparisons not only within a domain, but across domains as well. Maybe there are common meta patterns in diverse symbolic domains such as physics, watchmaking, and hematology that are undiscovered but would come to light in this system. People who had good knowledge about knowledge could help make discoveries in a domain they knew little about.
+In addition to powering AI experts that could provide the best guidance, The Book could aid in scientific discoveries. Anyone would be able to _see the edge_ of knowledge in any domain and know where to explore next. Because everything would be built in the same universal computable language, you could do comparisons not only within a domain, but also across domains. Maybe there are common meta patterns in diverse symbolic domains such as physics, watchmaking, and hematology that are undiscovered but would come to light in this system. People who had good knowledge about knowledge could help make discoveries in a domain they knew little about.
 
 I was extremely excited about this idea. It was just like my favorite idea--Binary Notation--endless useful complexity built up from simplicity. We could build digital experts for all domains from the same simple parts. These experts could be downloadable and available to everyone.
  class dropcap
 
-Imagine how trustworthy they would be! No need to worry about hidden biases in their answers--concepts would have lots of measurements for showing biases. No "blackbox" opaque collections of trained matrices. Every node in this AI would be a symbol reviewable by humans. There would be a huge number of pages, to be sure, but you would almost always query it, not read it.
+Imagine how trustworthy they would be! No need to worry about hidden biases in their answers--biases are also concepts that can be measured and would be included in The Book. No "blackbox" opaque collections of trained matrices. Every node in these AIs would be a symbol reviewable by humans. There would be a massive number of pages in these collections, to be sure, but you would almost always query it, not read it.
 
 The pieces would almost lock in place because each piece would influence constraints on other pieces--false and missing information would be easy to identify and fix.
 
 Again, it was like Wikipedia but written in a highly computable, more objective language to maximize comparability.
 
-This was a vague vision at first. I was playing with all the AIs at the time and tried to think backwards from the end state. What would the ideal AI expert look like?
+This was a vague vision at first. My ends wasn't actually a book but the idea was something like The Book could power an AI expert. I was playing with all the AIs at the time and tried to think backwards from the end state. What would the ideal AI expert look like?
  class dropcap
 
 Interface questions aside, it would need two things. It would need to know all the concepts and maximize comparability between them. But for trust, it would also need to be able to show that it has done so.
 
-In the long run I thought that the only way to absolutely trust an AI expert would be if there were an human inspectable knowledge store behind it—a massive computable encyclopedia. blackbox AIs 
+In the long run I thought that the only way to absolutely trust an AI expert would be if there were an human inspectable knowledge store behind it—a massive computable encyclopedia—something like The Book.
 
 My idea was still a hunch, not a proof, and I set out building prototypes.
  class dropcap
 
 I tried a number of times to build things up from "0 1". That went nowhere. It was very hard to find any utility from such a thing or get feedback on whether one was building in the right direction. It was a doomed approach.
 
-By 2020 I had switched to trying to make something high level and useful from the beginning. There was no reason this massive book had to be built in order. We had decimal long before we had binary, even though the latter is more primitive. The later "pages" are generally the ones where the cutting edge stuff would be. So pages 10 million to 11 million could be created first by practitioners, with any many words typed as "any", and earlier sections filled in by logicians and ontological engineers.
+By 2020 I had switched to trying to make something high level and useful from the beginning. There was no reason this massive Book had to be built in order. We had decimal long before we had binary, even though the latter is more primitive. The later "pages" are generally the ones where the cutting edge stuff would be. So pages 10 million to 11 million could be created first by practitioners, with any many words typed as "any", and earlier sections filled in by logicians and ontological engineers.
 
-It was also clear that many AIs could be built independently, in a federated fashion and easily merged later into one bigger AI. The Tree Notation and Tree Algebra would enable this merging so the sum would be greater than the parts. Imagine putting one book on top of another. Nothing happens. But with this system, you could merge the two and there would be many many new "synapses" connecting the words in each. The resulting combination would be smaller, smarter, and more efficient.
+It was also clear that many AIs could be built independently, in a federated fashion and easily merged later into one bigger AI. The Tree Notation and Tree Algebra would enable this merging so the sum would be greater than the parts. Imagine putting one book on top of another. Nothing happens. But with this system, you could merge the two and there would be many many new "synapses" connecting the words in each. The resulting combination would be smaller, smarter, and more efficient. You could build "The Book" by building smaller books and combining them together.
 
 With this strategy I made a prototype called "TreeBase". I described it like so: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of." Unfortunately, it was slow and didn't scale.
 
@@ -74,27 +79,29 @@ I used TreeBase to to make "PLDB", a Programming Language DataBase. This site wa
 image pldbPython.png
  caption Part of the "Python" entry in PLDB. The focus is on computable data rather than narratives.
 
-As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating this new kind of expert AI that would work for any domain.
+As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating a new kind of encyclopedia that could power AI experts for any domain.
 
-PLDB was met with a good reception when I launched it last summer. After years of tinkering, my dumb idea seemed to have potential! More and more people started to add data to PLDB and get value from it. I enjoyed working on it very much and thought of just keeping it as a hobby and not pursuing the larger expert AI vision.
+PLDB was met with a good reception when I launched it last summer. After years of tinkering, my dumb idea seemed to have potential! More and more people started to add data to PLDB and get value from it. I enjoyed working on it very much and thought of just keeping it as a hobby and not pursuing the larger AI expert vision.
  class dropcap
 
-But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in this digital AI expert. Part of me believed that the simple system used by PLDB, at scale, would lead to the emergence of a new kind of AI expert.
+But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in The Book. Part of me believed that the simple system used by PLDB, at scale, would lead to the emergence of brilliant new AI experts.
 
-I understand how naive this idea is. Simply by adding more and more concepts and measurements in this simple notational system one would develop a digital expert AI that would lead to breakthroughs! It is very hand wavy! I had no proof that getting information into this form at scale would lead to emergent benefits. It just _felt_ like it would, from what I had seen in my prototypes. 
+I understand how naive this idea is. Simply by adding more and more concepts and measurements in this simple notational system one would develop a digital AI expert that would lead to breakthroughs! It is very hand wavy! I had no proof that getting information into this form at scale would lead to emergent benefits. It just _felt_ like it would, from what I had seen in my prototypes. 
  class dropcap
 
-Where would the emergent benefits come from? As I mentioned above, I believed there was probably a natural Tree Algebra yet to be discovered, that would unlock significant value from information stored in this form. It would catapult this idea from mildly interesting to world changing.
+Where would the emergent benefits come from in my system that wouldn't come from traditional technologies? My hunch was that once you got information into a certain natural form, there would be a natural algebra that you could then apply to unlock significant value. This would catapult this idea from mildly interesting to world changing.
 
-If I was going to go for the big idea, I knew I could not do it alone. It was simple enough to keep growing PLDB slowly and steadily but to really test the big idea I needed to try this technology at something 100x bigger. I did not have the capabilities or resources to do that. But an idea came to me. I had worked in cancer research for a few years and knew there was support for breakthrough ideas. Instead of focusing on PLDB, building an expert AI for a niche audience, why not build CancerDB, building an expert AI for a domain that affects everyone? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages.
+It was simple enough to keep growing PLDB slowly and steadily but it could be a decade of grinding before I could build a dataset 1,000x bigger and see if my hypothesized emergent benefits appeared. Was there a way I could move faster?
  class dropcap
 
-Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. And if it worked anywhere, it would work everywhere, including cancer research. Suddenly I started feeling compelled to go for the big idea. How could I not?
+I then had an idea. I had worked in cancer research for a few years and knew there was support for breakthrough ideas. Instead of focusing on PLDB, building an expert AI for a niche audience, why not build CancerDB, building an expert AI for a domain that affects everyone in a life and death matter? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages.
+ 
+Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. And if it worked anywhere, it would work everywhere, including cancer research. How could I keep moving slowly on this idea if it really was a way to create digital AI experts that could help save people's lives? I started feeling like I had no choice.
+
+I decided to go for the big idea. The probability of success wasn't guaranteed but the value if it worked was so high that the bet just made too much sense to me.
 
 image cancerDbPitch.png
- caption A slide from my pitch deck explaining how these expert AIs would be transparent and trustworthy to users and provider researchers with a birdseye view of all the knowledge in a domain.
-
-I decided to test the big idea. The probability of success wasn't guaranteed but the value if it worked was so high that the bet just made too much sense to me.
+ caption A slide from my pitch deck explaining how these AI experts would be transparent and trustworthy to users and provide researchers with a birds-eye view of all the knowledge in a domain.
 
 Unfortunately, my execution was abysmal. Ironically, I knew this was a likely outcome. I knew my own limitations. I tried as best as I could to hype the idea and hoped some other group would see it and build it on their own. But when that didn't happen, I felt compelled to press on and lead it myself.
  class dropcap
