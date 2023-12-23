@@ -149,7 +149,7 @@ Fourth, the opaqueness of blackbox neural networks can be addressed. There could
 
 Fifth, if AIs are right often enough it's not so necessary that they be able to show their logic. You might have a whitebox AI that is inspectable but perhaps more difficult to use. If the blackbox one is right 99.99% of the time, then you wouldn't care much about being able to inspect everything under the hood.
 
-Sixth, static knowledge bases decay. They would require continual upkeep by human experts. Once learning AIs learn how to learn, they can keep learning on their own.
+Sixth, static knowledge bases decay. They would require continual upkeep by human experts. Once learning AIs learn how to learn, they can keep learning on their own. The ideal AI is not the one that starts with the best knowledge, but the one that is the best learner.
 
 # The Remaining Argument for Hand Built AI Experts
 
@@ -158,204 +158,33 @@ Is there still any merit to my approach? If there actually were an algebra that 
 I am not sure it is wrong, but I am far less confident it is a good bet now than I wsa in August 2022.
 
 
-
-
-
-[] It is not the symbols that matter it is the organization.
-
-[] A learning dynamic brain is better than a static snapshot.
- [] Static things decay. Dynamic things are always in motion but they are alive.
-
-
-
-
-
-
-You cannot discover new lands if you don't risk it all and go over the horizon.
-
-
-
-I had a hunch that there was something important in this direction, but it was over the horizon. Some
-
-
-I pushed myself over the edge of the horizon.
-
-
-
-
-I would have much rather someone else did that. I tried for years to get other people to take a look.
-
-
-
-[] Good enough. So what if a Blackbox AI can't _prove_ it knows everything, or that it ocmpared everything, if it is correct 99.99% of the time. 
-
-
-Nowadays I am far less confident in my hunch.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2 components: the content itself, and then the meta algebra.
-
-
-I was building a mini brain 
-
-
-
-But I did not have the resources I needed to really push this idea.
-
-
-
-
-
-
-[] The ideal AI is the best learner.
-
-
-
-
-
-
-
-[] Superposition
-
-
-
-
-
-
-[] The opaqueness of neural networks will go away. We will have neural networks to examine the neural networks. Won't be understandable if you looked at the raw brain. But will be understandable via the lens of inspector networks. This is an improvement over today's world. You don't get to examine the brain of an expert. You could also maintain a link to the training materials, so the LLM could show what material contributed to its answer.
-
 [] The power and compute efficiency of LLMs will likely follow a power law.
-
-
-[] I could say that maybe my idea will be the ultimate knowledge compression.
+ [] I could say that maybe my idea will be the ultimate knowledge compression.
 
 
 [] Bottom line is I'm not in the highest IQ bunch. I could not find the mythical tree algebra that I hypothesized existed and would make this thing more powerful.
 
 [] Maybe someday I could instruct a few agents to build my thing. 
 
-
-
-
-
-
-
-Consensus. Emerge. Evolution. Flexibility would be paramount.
-
-
-
-
-
-
-
-
-
-New entries would both follow existing rules and could also define new rules.
-
-
-
-
-
-
-
-
-
-What this would be is not just a book. But a brain. Computable. A network of symbols. A digital expert.
-
-
-
-
-
-
-
-
-
-The ultimate structure  Before  All of these languages 
-
-
-
-
-
-
-
-- Expert Systems
-- Complexity
-- IQ
-- Simplicity
-- Trust
-- Gut/Hunch
-
+[] Vulnerability to lone geniuses making drastic ontological improvements in one change.
+ Consensus. Emerge. Evolution. Flexibility would be paramount.
 
 - Hypothesized algebra. The similar shapes of concepts across domains. The similar shapes of grammars across domains.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I greatly 
-
-
-
-Symbols have the advantage of not dying.
-
-And Symbols can be shared spatially as well.
-
-And symbols can be duplicated.
-
-
-
-
-I thought we could build neural networks by hand. I thought it would be suprisingly simple, that intelligence would emerge.
-
+Symbols have the advantage of not dying. And Symbols can be shared spatially as well. And symbols can be duplicated.
 
 I thought I was close to discovering the key unit of the assembly of ideas.
-
-
-
 
 2017: "The simplest 2D text encodings for neural networks will be TLs."
 2020: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of."
 
-
-Semantics would emerge. I thought there would be a Tree Notation Algebra. A set of algorithmns and tricks. I couldn't find it. I thought put enough data in this form and someone would.
-
-
-Binary Notation was mildly interesting to world changing with the invention of Boolean Algebra and .
-
+Semantics would emerge. I thought there would be a Tree Notation Algebra. A set of algorithmns and tricks. I couldn't find it. I thought put enough data in this form and someone would. Binary Notation was mildly interesting to world changing with the invention of Boolean Algebra and .
 
 Ask questions like "what were the necessary technological developments needed to cure diabetes?"
 
-
-
 [] I overvalued symbolic patterns. Symbols are not the truth. The physical world is the truth. The physical universe operates in a predictable way. Most patterns happen in the physical universe, not the symbolic universe. Being able to predict the future of the physical world and manipulate the physical world to your advantage is far far more important than the symbolic world. Symbols are merely one tool humans have for learning but most learning happens without symbols and perhaps superior learning machines have no need for symbols.
 
-
-
 It is neurologically extremely hard to deal with being wrong when you make such a long term contrarian time bet. To do the research over the years requires you to develop steadfast neuronal connections that your direction is correct. I can be in an enlightened state right now where a certain group of neurons is in charge which can admit I was wrong. But it is not really in my control what group of neurons are in charge when I wake up tomorrow. And because I spent so many years on this, odds are decent many times it will be one of those hardened groups of neurons that wants to keep searching for a way to make this idea work.
-
-
 
 
 The more novel your idea the more you are doomed to strike it big or die with it. Spending time on your idea wires your brain for it more, making 
@@ -367,15 +196,6 @@ Why did I keep working on it?
 [] Have LLMs build Books from scratch via rewriting Wikipedia
  [] Then see if there is utility in the outputs.
   [] What refinement/compression does the grammar/tree notation get you?
-
-
-
-
-
-
-
-
-
 
 
 - Failing
