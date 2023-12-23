@@ -1,0 +1,8 @@
+importOnly
+
+mediumColumnsParser
+ extends startColumnsParser
+ javascript
+  columnWidth = 65
+
+mediumColumns 1

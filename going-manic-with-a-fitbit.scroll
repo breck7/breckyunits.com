@@ -2,12 +2,7 @@ import header.scroll
 title Going Manic with a FitBit
 date 1/13/2018
 
-mediumColumnsParser
- extends startColumnsParser
- javascript
-  columnWidth = 65
-
-mediumColumns 1
+import mediumColumns.scroll
 
 image mania/3yrsSleepData.webp
 
