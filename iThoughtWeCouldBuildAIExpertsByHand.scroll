@@ -11,7 +11,7 @@ endSnippet
 
 # Symbols
 
-Leibniz is probably my favorite thinker. His discoveries in mathematics and science are astounding. Among other things, he's the thinker credited with discovering Binary Notation--that ones and zeros are all you need to represent anything. In my opinion this is perhaps the most beautiful idea in the world. As a kid I grew up surrounded by magical devices and to learn that all this complexity is built on top of the simplicity of ones and zeroes still makes me mutter "wow". Simplicity and complexity in harmony. What makes Leibniz stand out more to me is not just his discoveries but how what he was really after was a characteristica universalis, a natural system for representing all knowledge that would allow for the objective calculation of questions beyond mathematics.
+Leibniz is probably my favorite thinker. His discoveries in mathematics and science are astounding. Among other things, he's the thinker credited with discovering Binary Notation--that ones and zeros are all you need to represent anything. In my opinion this is perhaps the most beautiful idea in the world. As a kid I grew up surrounded by magical devices and to learn that all this complexity is built on top of the simplicity of ones and zeroes still makes me mutter "wow". Simplicity and complexity in harmony. What makes Leibniz stand out more to me is not just his discoveries but how what he was really after was a characteristica universalis, a natural system for representing all knowledge that would allow for the objective solving of questions across science.
  class dropcap
  https://en.wikipedia.org/wiki/Characteristica_universalis characteristica universalis
 
@@ -23,7 +23,7 @@ Computers ultimately operate on instructions of ones and zeroes, but those that 
 
 Over time, a common pattern emerged. In addition to everything being ones and zeroes at some point, at some point everything would also be "trees" (simple structures with nodes and branches). Binary Notation can minimally represent every concept in ones and zeroes, was there some minimal notation for the tree forms of concepts? And if there were, would that notation be mildly interesting, or somehow really powerful like Binary Notation?
 
-This is an idea I became obsessed with. I came across it by chance, when I was still a beginner programmer. I was trying to make a programming language as simple as possible and realized all I needed was enough syntax to represent trees. If you had that, you could represent anything. I then spent years trying to figure out whether this minimal notation was mildly interesting or really useful. I tried to apply it lots of problems to see if it solved anything.
+This is an idea I became obsessed with. I came across it by chance, when I was still a beginner programmer. I was trying to make a programming language as simple as possible and realized all I needed was enough syntax to represent trees. If you had that, you could represent anything. I then spent years trying to figure out whether this minimal notation was mildly interesting or really useful. I tried to apply it to lots of problems to see if it solved anything.
 
 image appleCell.png
  caption If your syntax can distinguish symbols and define scopes you can represent anything.
@@ -33,17 +33,17 @@ image appleCell.png
 One day I imagined a book. Let's call it The Book. It could be billions of pages long. It would be lacking in ornamentation. The first line would be a mark for "0". The second line would be a mark for "1". You've just defined Binary Notation. You could then use those defined symbols to define other symbols.
  class dropcap
 
-In the first hundred pages you might have the line "8 1000" to define the decimal number 8. In the first ten thousand pages you might have the line "A 65" to define the character "A" as part of defining ASCII. In the first million pages you might have the word "Apple", and in the first hundred million you might have defined all the molecules that are present in an apple.
+In the first hundred pages you might have the line "8 1000" to define the decimal number 8. In the first ten thousand pages you might have the line "a 97" to define the character "a" as part of defining ASCII. In the first million pages you might have the word "apple", and in the first hundred million you might have defined all the molecules that are present in an apple.
 
-The primary purpose of The Book would be to provide useful models for the world outside The Book. But a lot of the pages would go to building up a "grammar" which would dictate the rules for the rest of the symbols in The Book and connect concepts together. In a sense the grammar compresses the contents of The Book, minimizing not the number of bits needed but the number of symbols needed and the entropy of the spaces on the pages that hold the symbols, and maximizing the comparisons that could be made between symbols. The notation and grammar rules would not be arbitrary but would be discovered as the most efficient way to define higher and higher level symbolic concepts, just as Boolean Algebra gives us the tools to create the most efficient binary circuits. Boolean Algebra is not arbitrary but somehow arises from the laws of the universe, and so would this algebra for abstraction. It would implement ideas from the mathematical worlds of Category and Type theory into very simple primitives that could be represented by just a couple of rules. It was perhaps the way to build the characteristica universalis.
+The primary purpose of The Book would be to provide useful models for the world outside The Book. But a lot of the pages would go to building up a "grammar" which would dictate the rules for the rest of the symbols in The Book and connect concepts together. In a sense the grammar compresses the contents of The Book, minimizing not the number of bits needed but the number of symbols needed and the entropy of the cells on the pages that hold the symbols, and maximizing the comparisons that could be made between concepts. The notation and grammar rules would not be arbitrary but would be discovered as the most efficient way to define higher and higher level symbolic concepts, just as Boolean Algebra gives us the tools to build bigger and bigger efficient circuits. Boolean Algebra is not arbitrary but somehow arises from the laws of the universe, and so would this algebra for abstraction. It would implement ideas from the mathematical worlds of Category and Type theory into very simple primitives that could be represented by just a couple of rules. It was perhaps the way to build the characteristica universalis.
 
 The Book would be an encyclopedia. But it wouldn't just list concepts and their descriptions in a loosely connected way. It would build up every concept, so you could trace all of the concepts required by any other concept all the way down to binary. Entries would look so simple but would abide by the grammar and every word in every concept would have many links. You would not only have definitions of every concept, but comparability would be maximized. Wikipedia does a remarkable job of listing all the concepts in a space. But Wikipedia is primarily narratives and the information is messy. Comparability is nowhere near maximized.
 
-Easily more than 10,000 people had researched and developed digital knowledge bases and expert systems for decades. Those 10,000 probably came up with 20,000 ways to do it. If there were some simplest way to do it, a minimal binary notation and boolean algebra for symbols, that would work for any domain, perhaps that would lead to unprecedented collaboration across domains and a breakthrough in knowledge base powered experts.
+Probably more than 100,000 people have researched and developed digital knowledge bases and expert systems. Those 100,000 probably came up with 1,000,000 ways to do it. If there were some simplest way to do it, a minimal Binary Notation and Boolean Algebra for symbols, that would work for any domain, perhaps that would lead to unprecedented collaboration across domains and a breakthrough in knowledge base powered experts.
 
 # Experts
 
-It wasn't the possibility of having a billion page book that really excited me. It is what The Book could power. You would not generally read The Book like an encyclopedia, but it would power an AI expert you could query.
+It wasn't the possibility of having a multi-billion page book that really excited me. It is what The Book could power. You would not generally read The Book like an encyclopedia, but it would power an AI expert you could query.
  class dropcap
 
 What is an expert? An expert is an agent that can take a problem, list all the options, and compare them in all the relevant ways so the best decision can be made. An expert can fail if it is unaware of an option or fails to compare options correctly in all of the relevant ways.
@@ -55,7 +55,7 @@ Over the years I've thought a lot about why human experts go wrong in the same w
 No one is an expert past the line of what is known. Even more of a problem is that it is impossible to see where that line is. If we could actually make something like The Book, we could see that line. A digital AI expert, which would show not only all the important stuff we know, but also what we don't know, would be the best expert.
  class dropcap
 
-In addition to powering AI experts that could provide the best guidance, The Book could aid in scientific discoveries. Anyone would be able to _see the edge_ of knowledge in any domain and know where to explore next. Because everything would be built in the same universal computable language, you could do comparisons not only within a domain, but also across domains. Maybe there are common meta patterns in diverse symbolic domains such as physics, watchmaking, and hematology that are undiscovered but would come to light in this system. People who had good knowledge about knowledge could help make discoveries in a domain they knew little about.
+In addition to powering AI experts that could provide the best guidance, The Book could aid in scientific discoveries. Anyone would be able to _see the edge of knowledge_ in any domain and know where to explore next. Because everything would be built in the same universal computable language, you could do comparisons not only within a domain, but also across domains. Maybe there are common meta patterns in diverse symbolic domains such as physics, watchmaking, and hematology that are undiscovered but would come to light in this system. People who had good knowledge about knowledge could help make discoveries in a domain they knew little about.
 
 # Dreaming of Digital AI Experts
 
@@ -81,9 +81,9 @@ My idea was still a hunch, not a proof, and I set out building prototypes.
 
 I tried a number of times to build things up from "0 1". That went nowhere. It was very hard to find any utility from such a thing or get feedback on whether one was building in the right direction. I think this was the same way Leibniz tried to build his characteristica universalis. It was a doomed approach.
 
-By 2020 I had switched to trying to make something high level and useful from the beginning. There was no reason the massive The Book had to be built in order. We had decimal long before we had binary, even though the latter is more primitive. The later "pages" are generally the ones where the most handy stuff would be. So pages 10 million to 11 million could be created first by practitioners, with earlier sections and the grammar filled in by logicians and ontological engineers over time.
+By 2020 I had switched to trying to make something high level and useful from the beginning. There was no reason The Book had to be built in order. We had decimal long before we had binary, even though the latter is more primitive. The later "pages" are generally the ones where the most handy stuff would be. So pages 10 million to 11 million could be created first by practitioners, with earlier sections and the grammar filled in by logicians and ontological engineers over time.
 
-There was also no reason that The Book had to built as a monolith. Books could be built in a federated fashion, useful standalone, and merged later to power a smarter AI. The universal notation would facilitate later merging so the sum would be greater than the parts. Imagine putting one book on top of another. Nothing happens. But with this system, you could merge books and there would suddenly be a huge number of new "synapses" connecting the words in each. Everything can be compared to everything. The resulting combination would be smaller, smarter, and more efficient. So you could build "The Book" by building smaller books and combining them together.
+There was also no reason that The Book had to built as a monolith. Books could be built in a federated fashion, useful standalone, and merged later to power a smarter AI. The universal notation would facilitate later merging so the sum would be greater than the parts. Imagine putting one book on top of another. Nothing happens. But with this system, you could merge books and there would suddenly be a huge number of new "synapses" connecting the words in each. The comparisons you could make go up exponentially. The resulting combination would be increasingly smarter and more efficient. So you could build "The Book" by building smaller books and combining them together.
 
 With these insights I made a prototype called "TreeBase". I described it like so: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of."
 
@@ -91,13 +91,13 @@ At first, it was slow and didn't scale. But lucky for me, a few years later Appl
 
 # The Prototype
 
-In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language DataBase. This site was an encyclopedia about programming languages. It was the biggest collection of data on programming languages, which was gathered over years by myself and open source contributors and reviewed by hand.
+In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language DataBase. This site was an encyclopedia about programming languages. It was the biggest collection of data on programming languages, which was gathered over years by open source contributors and myself and reviewed by hand.
  class dropcap
 
 image pldbPython.png
  caption Part of the "Python" entry in PLDB. The focus is on computable data rather than narratives.
 
-As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating breakthrough AI experts for any domain.
+As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating The Book and breakthrough AI experts for any domain.
 
 PLDB was met with a good reception when I launched it. After years of tinkering, my dumb idea seemed to have potential! More and more people started to add data to PLDB and get value from it. To be clear, almost certainly the content was the draw, and not the new system under the hood. I enjoyed working on the content very much and did consider keeping PLDB as a hobby and not pursuing the larger AI expert vision.
 
@@ -108,9 +108,9 @@ But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 
 I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes. 
  class dropcap
 
-Where would the emergent benefits come from in my system that wouldn't come from traditional technologies? My hunch was that once you got information into a certain natural form, there would be a natural algebra that you could then apply to unlock significant value. This would catapult this idea from mildly interesting to world changing. I believed if we just tried to build really really big versions of these things, we would discover that algebra.
+Where would the emergent benefits come from in my system that wouldn't come from existing approached? Every concept in this system would have to adhere to the strictest rules possible. The system could encode any concept. So if the rules prevented a true concept from being added, the rules would be adjusted at the same time. The natural form and natural algebra would be a forcing function that over time caused the characteristica universalis to emerge. This would catapult this new system from mildly interesting to world changing. I believed if we just tried to build really really big versions of these things, we would discover that natural algebra and grammar.
 
-It was simple enough to keep growing the tech behind PLDB slowly and steadily but if I was wrong about the value of this approach I might waste another five years of effort in the wrong direction. And if I was right and this was the path to building the best AI experts, that would be five years of delay! Was there a way I could move faster?
+It was simple enough to keep growing the tech behind PLDB slowly and steadily but if I was wrong about the value of this approach I might waste another five years of effort in the wrong direction. And if I was right and this was the path to building The Book and the best AI experts, that would be five years of delay! Was there a way I could move faster?
 
 # Version Two
 
@@ -118,11 +118,11 @@ I had an idea. I had worked in cancer research for a few years so had decent wor
 
 # The Copyright Issue
 
-The CancerDB idea also had another advantage. It has long been my opinion that copyright law stands in the way of the best science. The world is flooded with distracting information and misleading advertisements, while some of the most non-toxic information is held back by copyright laws. I thought we could prove this. We would add all the truest data we could find, regardless of where it came from, and also make our work entirely public domain. If our work helped accelerate cancer research, we would demonstrate the harm from these laws. I figured it would be hard for copyright advocates to argue for the status quo if by ignoring it we helped save people's lives.
+The CancerDB idea also had another advantage. Another contrarian opinion of mine is that copyright law stands in the way of getting the most out of science. The world is flooded with distracting information and misleading advertisements, while some of the most non-toxic information is held back by copyright laws. I thought we could make a point here. We would add all the truest data we could find, regardless of where it came from, and also make our work entirely public domain. If our work helped accelerate cancer research, we would demonstrate the harm from these laws. I figured it would be hard for copyright advocates to argue for the status quo if by ignoring it we helped save people's lives. As a sidenote, I am still 51% confident I am right on this contrarian bet, which is more confident I ever was in my technology. I have never read a compelling ethical justification for copyright laws, and think they make the world worst for the vast majority of people.
 
 # The Decision
  
-Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. How could I keep moving slowly on this idea if it really was a way to create digital AI experts that could help save people's lives? I started feeling like I had no choice.
+Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. How could I keep moving slowly on this idea if it really was a way to advanced knowledge and create digital AI experts that could help save people's lives? I started feeling like I had no choice.
 
 The probability of success wasn't guaranteed but the value if it worked was so high that the bet just made too much sense to me. I decided to go for it.
 
@@ -145,7 +145,7 @@ I failed to build a worthwhile second TrueBase. Heck, I even failed to keep the 
 
 # Deep Learning
 
-My confidence in my ideas always varied over the years, but the breakthroughs in deep learning this year drastically lowered my confidence that I was right. I recently read a quote by Ilya Sutskever "don't ever bet against deep learning". Now you tell me! Maybe if I had read that quote years ago, printed it, and framed it on my wall, I would have bet differently. In many ways I was betting against deep learning. I was betting that curated knowledge bases built by hand would create the best AI experts. The reason why they hadn't yet was that they lacked a few new innovations like the ones I was developing.
+My confidence in these ideas always varied over the years, but the breakthroughs in deep learning this year drastically lowered my confidence that I was right. I recently read a quote by Ilya Sutskever "don't ever bet against deep learning". Now you tell me! Maybe if I had read that quote years ago, printed it, and framed it on my wall, I would have bet differently. In many ways I was betting against deep learning. I was betting that curated knowledge bases built by hand would create the best AI experts. The reason why they hadn't yet was that they lacked a few new innovations like the ones I was developing.
  class dropcap
 
 Now, seeing the astonishing capabilities of the new blackbox deep learning AIs, I question much of what I once believed.
@@ -156,18 +156,18 @@ Now, seeing the astonishing capabilities of the new blackbox deep learning AIs, 
 - There is no reason that symbols have to have an atomic canonical form. If ultimately what matters is that the knowledge is embedded, than how it is stored is not relevant. Concepts don't have to be stored in discrete nodes. They can be stored in superpositions. That could be a more efficient and potentially even truer representation of the concept itself.
 - The returns on improving human readable symbolic systems are capped by human biology. Even if you improved human knowledge bases by a large amount, human brains would still be only able to process a minuscule fraction of all knowledge. Blackbox trained neural networks don't have biological caps. The upside to better symbolic systems is capped. The upside to better artificial brains is uncapped.
 - The opaqueness of blackbox neural networks can be addressed. There could be inspector neural networks that examine the neural networks. These inspector networks will be able to explain the logic behind another networks responses or actions. It might not be a deterministic explanation but it would be arguably better than what we have today. When you ask a question to a human expert today, there is no way to completely audit their answer either. Human brains are also a blackbox. Future neural networks will likely also maintain access to their training data, so could better explain their answers and be less likely to make mistakes.
-- If AIs are right often enough it's not so necessary that they be able to show their logic. You might have a whitebox AI that is inspectable but perhaps more difficult to use. If the blackbox one is right 99.99% of the time, then you wouldn't care much about being able to inspect everything under the hood.
+- If AIs are right often enough it's not so necessary that they be able to show their logic. You might have a whitebox AI that is inspectable but perhaps more difficult to use or give worse answers. If the blackbox one is right 99.99% of the time, then you wouldn't care much about being able to inspect everything under the hood.
 - Static knowledge bases decay. They would require continual upkeep by human experts. Once learning AIs learn how to learn, they can keep learning on their own. The ideal AI is not the one that starts with the best knowledge, but the one that is the best learner.
 
 # The Remaining Case for My Approach
 
-My dumb, human curated data approach would have merit if we didn't see other ways to unlock more value from all the information that is out there. But clearly deep learning has arrived, and there is so, so much more promise in that approach.
+My dumb, human curated data approach would have merit if we didn't see other ways to unlock more value from all the information that is out there. But clearly deep learning has arrived, and there is clearly so, so much more promise in that approach.
 
-There is always the chance that the thousands of variations of notations and algebras I tried were just wrong in subtle ways and that if I had kept tweaking things I would have found the key that unlocks some natural advantageous system. I can't prove that there's not a possibility. But, given what we've seen with Deep Learning, I now highly discount the expected value of such a thing.
-
-I could say, a bit tongue in cheek, that the remaining merit in my approach is that it offers some upside and there is no way it would evolve into a new intelligent species that ends humanity.
+There is always the chance that the thousands of variations of notations and algebras I tried were just wrong in subtle ways and that if I had kept tweaking things I would have found the key that unlocks some natural advantageous system. I can't prove that that's not a possibility. But, given what we've seen with Deep Learning, I now highly discount the expected value of such a thing.
 
 A less crazy way to explore my ideas would be to try and figure out how instead of trying to replace Wikipedia, I could implement these ideas on top of Wikipedia and see if they could make it better. Would adding typing to radically increase the comparability of concepts in Wikipedia unlock more value? That was probably the more sensible thing to do in the beginning.
+
+I could say, a bit tongue in cheek, that the remaining merit in my approach is that a characteristica universalis offers upside and without the potential to evolve into a new intelligent species that ends humanity.
 
 # Mania Disclaimer
 
@@ -191,9 +191,7 @@ Symbols are good for communication. But they are unnecessary for life. There are
 
 Symbols have enabled us to bootstrap technology. And they will remain an important part of the world for the next few decades. Perhaps they will continue to play a role, albeit diminished, in enabling communication and cooperation in society forever. But symbols are just one modality. A modality that will be increasingly less important in the future. The characteristica universalis was never going to be a thing. The AIs, artificial continuously learning wirings, are the future. As far as I can tell.
 
-A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it would probably be built by AIs, as something for us mere mortals to play with when we are no longer the species running the zoo.
-
-
+A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere mortals to play with when we are no longer the species running the zoo.
 
 import indexFooter.scroll
 
