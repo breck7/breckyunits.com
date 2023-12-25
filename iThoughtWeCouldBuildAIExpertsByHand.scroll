@@ -64,15 +64,15 @@ I was extremely excited about this idea. It was just like my favorite idea--Bina
 
 Imagine how trustworthy they would be! No need to worry about hidden biases in their answers--biases are also concepts that can be measured and would be included in The Book. No "blackbox" opaque collections of trained matrices. Every node powering these AIs would be a symbol reviewable by humans. There would be a massive number of pages, to be sure, but you would almost always query it, not read it. Mostly you'd consume it via data driven visualizations to your questions, rather than as pages of text.
 
-The pieces would almost lock in place because each piece would influence constraints on other pieces--false and missing information would be easy to identify and fix.
+No one can know everything, but imagine if anyone could see everything known! I don't mean see all the written or digital information in the world. That would be so overwhelming and little more useful than staring at white noise. I'm talking about seeing the minimal symbols of all of science organized not in an arbitrary manner but in a logical way dictated by natural rules. You wouldn't be able to read everything but you would be able to use a computer to instantly query over everything.
 
-Again, it was like Wikipedia but written in a highly computable, more objective language to maximize comparability.
+The pieces would almost lock in place because each piece would influence constraints on other pieces--false and missing information would be easy to identify and fix. Similar to Wikipedia but written in an objective highly computable self-defining language for maximal comparability.
 
-This was a vague vision at first. Again, My ends wasn't The Book but the kind of AI expert you could get if you had The Book. I was playing with all the AIs at the time and tried to think backwards from the end state. What would the ideal AI expert look like?
+This was a vague vision at first. I thought a lot about the AI experts you could get if you had The Book. I was playing with all the AIs at the time and tried to think backwards from the end state. What would the ideal AI expert look like?
 
 Interface questions aside, it would need two things. It would need to know all the concepts and maximize comparability between them. But for trust, it would also need to be able to show that it has done so.
 
-In the long run I thought that the only way to absolutely trust an AI expert would be if there were an human inspectable knowledge base behind it—a massive computable encyclopedia—something like The Book. The developments in AI were exciting but I thought in the long run we'd need something like The Book.
+In the long run I thought that the only way to absolutely trust an AI expert would be if there were an human inspectable knowledge base behind it that powered calculations. The developments in AI were exciting but I thought in the long run the best AI would need something like The Book.
 
 # First Attempts
 
@@ -137,9 +137,9 @@ I could not rationally articulate why it would work. I just felt it in my gut. I
 
 I wanted this attempt to happen but I didn't want to be the one to lead it. I knew my own limitations and was hoping some other group, with more intellectual and leadership capabilities, would see the possibilities and build the thing on their own. I pitched a lot of groups on the idea. No one else ran with it so I pressed on and tried to lead it myself.
 
-I ran into fierce opposition that I never expected. Ultimately, I wouldn't be able to build the organization to build one of these things 100x bigger than PLDB, and prove empirically a novel breakthrough in building AI experts.
+I ran into fierce opposition that I never expected. Ultimately, I wouldn't be able to build the organization to build one of these things 100x bigger than PLDB, and prove empirically a novel breakthrough in knowledge bases.
 
-I still had a very fair chance to prove it theoretically. I had the time to discover some algebra that would prove the advantage of this system. Unfortunately, as hard as I pushed myself—and I pushed myself to an insane degree—I would not find that. Like an explorer searching for the mythical fountain of youth, I failed to find my hypothesized algebra that would make this system the obvious choice for any knowledge base.
+I still had a very fair chance to prove it theoretically. I had the time to discover some algebra that would prove the advantage of this system. Unfortunately, as hard as I pushed myself—and I pushed myself to an insane degree—I would not find that. Like an explorer searching for the mythical fountain of youth, I failed to find my hypothesized algebra that would show how this system could unlock radical new value.
 
 I failed to build a worthwhile second TrueBase. Heck, I even failed to keep the wheels running on PLDB. And because I failed to convince better resourced backers to fund the effort and funded it myself, I lost everything I had, including my house, and worse.
 
@@ -149,6 +149,8 @@ My confidence in my ideas always varied over the years, but the breakthroughs in
  class dropcap
 
 Now, seeing the astonishing capabilities of the new blackbox deep learning AIs, I question much of what I once believed.
+
+# Arguments Against My Ideas
 
 - There is no reason that knowledge has to be encoded in symbols. Symbols are powerful because they can be shared across time and place, but what ultimately matters is not whether the symbols exist, but whether the skills explained by the symbols are embedded in the blackbox neural networks that are human brains. Symbols can aid learning but the learning is the most important thing. Symbols are just a means to an end. Knowing how to ride a bike is the ends—the knowledge somehow embedded in your neural blackbox—a book on how to ride a bike cannot be more valuable than the blackbox weights themselves.
 - There is no reason that symbols have to have an atomic canonical form. If ultimately what matters is that the knowledge is embedded, than how it is stored is not relevant. Concepts don't have to be stored in discrete nodes. They can be stored in superpositions. That could be a more efficient and potentially even truer representation of the concept itself.
@@ -169,163 +171,28 @@ A less crazy way to explore my ideas would be to try and figure out how instead 
 
 # Mania Disclaimer
 
-In examining my actions and thinking it is important to disclose that I do have a manic depressive brain. We don't yet have an understanding of the biology behind that (the mechanisms of bipolar are still beyond the edge of knowledge, which has always been a huge motivation for me to invent something that could help advance research), but last year when I decided to go for it my brain was in a hypomanic, and at points manic state. That's not the best state to execute in, and my poor execution shows. In terms of correctness, the downside of hypomania is one can be greatly overconfident in an incorrect contrarian idea. The upside of hypomania is one can have the confidence to ignore the crowd and pursue a contrarian idea that turns out to be correct. It is hard to know the difference.
+In examining my actions and thinking it is important to disclose that I do have a manic depressive brain. We don't yet have an understanding of the biology behind that (the mechanisms of bipolar are still beyond the edge of knowledge, which has always been a huge motivation for me to invent something that could help advance research), but last year when I decided to go for it my brain was in a hypomanic, and at points manic state. That's not the best state to execute in, and my poor execution reflects that. In terms of correctness, the downside of hypomania is one can be greatly overconfident in an incorrect contrarian idea. The upside of hypomania is one can have the confidence to ignore the crowd and pursue a contrarian idea that turns out to be correct. It is hard to know the difference.
 
 # Gratefulness
 
-I got my chance. I got to try to do things my way. I got to decide on the implementation. Ambitious. Minimalist. Data driven. Open source. Public domain. Local first. Antifragile.
+I got my chance. I got to take my shot at the characteristica universalis. I got to try to do things my way. I got to decide on the implementation. Ambitious. Minimalist. Data driven. Open source. Public domain. Local first. Antifragile.
  hoverNote Antifragile
   At any moment someone with a better ontological idea could download a TrueBase and implement their proposed new schema and concept updates as a single patch. Ontologies could evolve fast and not pickup bureaucratic baggage.
 
 I got to try and build something that would let us map the edge of knowledge. That would power a new breed of trustworthy digital AI experts. That might help us cure problems we haven't solved yet.
 
+I failed, but I'm grateful I got the chance.
+
+It was not worth the cost, but I never imagined it would cost me what it did.
+
 # What of the characteristica universalis?
 
-Symbols are good for communication. But they are unnecessary for life. There are not symbols in your brain. There are continuously learning wirings. Symbols have enabled us to bootstrap technology. And they will remain an important part of the world for the next few decades. Perhaps they will continue to play a role, albeit diminished, in enabling communication and cooperation in society forever. But symbols are just one modality. A modality that will be increasingly less important in the future. The characteristica universalis was never going to be a thing. The AIs, artificial continuously learning wirings, are the future. As far as I can tell.
+Symbols are good for communication. But they are unnecessary for life. There are not symbols in your brain. There are continuously learning wirings.
 
+Symbols have enabled us to bootstrap technology. And they will remain an important part of the world for the next few decades. Perhaps they will continue to play a role, albeit diminished, in enabling communication and cooperation in society forever. But symbols are just one modality. A modality that will be increasingly less important in the future. The characteristica universalis was never going to be a thing. The AIs, artificial continuously learning wirings, are the future. As far as I can tell.
 
+A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it would probably be built by AIs, as something for us mere mortals to play with when we are no longer the species running the zoo.
 
-
-
-
-
-
-
-
-[] The power and compute efficiency of LLMs will likely follow a power law.
- [] I could say that maybe my idea will be the ultimate knowledge compression.
-
-
-[] Bottom line is I'm not in the highest IQ bunch. I could not find the mythical tree algebra that I hypothesized existed and would make this thing more powerful.
-
-[] Maybe someday I could instruct a few agents to build my thing. 
-
-[] Vulnerability to lone geniuses making drastic ontological improvements in one change.
- Consensus. Emerge. Evolution. Flexibility would be paramount.
-
-- Hypothesized algebra. The similar shapes of concepts across domains. The similar shapes of grammars across domains.
-
-Symbols have the advantage of not dying. And Symbols can be shared spatially as well. And symbols can be duplicated.
-
-I thought I was close to discovering the key unit of the assembly of ideas.
-
-2017: "The simplest 2D text encodings for neural networks will be TLs."
-2020: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of."
-
-Semantics would emerge. I thought there would be a Tree Notation Algebra. A set of algorithmns and tricks. I couldn't find it. I thought put enough data in this form and someone would. Binary Notation was mildly interesting to world changing with the invention of Boolean Algebra and .
-
-Ask questions like "what were the necessary technological developments needed to cure diabetes?"
-
-[] I overvalued symbolic patterns. Symbols are not the truth. The physical world is the truth. The physical universe operates in a predictable way. Most patterns happen in the physical universe, not the symbolic universe. Being able to predict the future of the physical world and manipulate the physical world to your advantage is far far more important than the symbolic world. Symbols are merely one tool humans have for learning but most learning happens without symbols and perhaps superior learning machines have no need for symbols.
-
-It is neurologically extremely hard to deal with being wrong when you make such a long term contrarian time bet. To do the research over the years requires you to develop steadfast neuronal connections that your direction is correct. I can be in an enlightened state right now where a certain group of neurons is in charge which can admit I was wrong. But it is not really in my control what group of neurons are in charge when I wake up tomorrow. And because I spent so many years on this, odds are decent many times it will be one of those hardened groups of neurons that wants to keep searching for a way to make this idea work.
-
-
-The more novel your idea the more you are doomed to strike it big or die with it. Spending time on your idea wires your brain for it more, making 
-
-Why did I keep working on it? 
-
-
-
-[] Have LLMs build Books from scratch via rewriting Wikipedia
- [] Then see if there is utility in the outputs.
-  [] What refinement/compression does the grammar/tree notation get you?
-
-
-- Failing
-- Pressure
-
-- Fund it by people paying for facts.
-
-
-https://sci-hub.ru/https://doi.org/10.1038/mp.2016.184
-
-Mice lacking DIX domain containing-1 (DIXDC1), an intracellular Wnt/β-catenin signal pathway protein, have abnormal measures of
-anxiety, depression and social behavior. Pyramidal neurons in these animals’ brains have reduced dendritic spines and
-glutamatergic synapses. Treatment with lithium or a glycogen synthase kinase-3 (GSK3) inhibitor corrects behavioral and
-neurodevelopmental phenotypes in these animals. Analysis of DIXDC1 in over 9000 cases of autism, bipolar disorder and
-schizophrenia reveals higher rates of rare inherited sequence-disrupting single-nucleotide variants (SNVs) in these individuals
-compared with psychiatrically unaffected controls. Many of these SNVs alter Wnt/β-catenin signaling activity of the neurally
-predominant DIXDC1 isoform; a subset that hyperactivate this pathway cause dominant neurodevelopmental effects. We propose
-that rare missense SNVs in DIXDC1 contribute to psychiatric pathogenesis by reducing spine and glutamatergic synapse density
-downstream of GSK3 in the Wnt/β-catenin pathway.
-
-
-
-Each word represents a specific instance of a type(s).
-Show how many of those types there are near each word.
-
-
-ID#/OutOfKnown/EstimatedTotal
-
-
-Mice (Mammal/123/6400/7000) lacking DIXDC1 (HumanProtein/4343/25323/500000), a protein in the intracellular Wnt/β-catenin signal pathway family (IntraCellularPathways/23/65/130), have abnormal measures of anxiety (MentalDisorders/12/555/1200),  depression (MentalDisorders/12/555/1200), and social behavior (MentalDisorders/12/555/1200). Pyramidal neurons (NeuronType/45/123/650|HumanCellType/234/2800/5000) in these mice's brains (Organs/3/78/80) have reduced dendritic spines (NeuronalComponent/12/23/234) and glutamatergic synapses (NeuronalComponent/45/23/234). Treatment with lithium (WHOEssentialMedicines/343/460/460) or a glycogen synthase kinase-3 inhibitor (MedicineTypes/233/114334/1000000) corrects behavioral (PhenotypeCategories/1/46/100) and neurodevelopmental phenotypes (PhenotypeCategories/2/46/100) in these animals. Analysis of DIXDC1 in over 9000 cases of autism  (MentalDisorders/13/555/1200), bipolar disorder  (MentalDisorders/43/555/1200) and schizophrenia  (MentalDisorders/122/555/1200) reveals higher rates of rare inherited sequence-disrupting single-nucleotide variants (SNVs)  (GeneticMutations/12/555/1200) in these individuals compared with psychiatrically unaffected controls. Many of these SNVs alter Wnt/β-catenin signaling activity  (IntracellularActivities/12/555/1200) of the neurally predominant DIXDC1 isoform  (DIXDC1Isoforms/1/12/20); a subset that hyperactivate this pathway cause dominant neurodevelopmental effects (DevelopmentAffects/5/55/120). We propose that rare missense SNVs in DIXDC1 contribute to psychiatric pathogenesis by reducing spine and glutamatergic synapse density downstream of GSK3 in the Wnt/β-catenin pathway.
-
-
-In the short run people might prefer a blackbox AI that performed better. However, I couldn't envision a scenario where performance differences could not be overcome. Thus, all else being equal a transparent AI would be preferred. The best AI would rely on some accurate, minimal and understandable encoding of every concept. I had just the thing for that! So, with this future vision in mind, I wrote in a 2017 paper "the simplest 2D text encodings for neural networks will be TLs" (TLs as an abbreviation for Tree Languages--languages recursively built up on Tree Notation).
-
-I thought the algebra was right around the corner. If only I could convince some smarter people to start looking, someone would find it. And we would be off to the races with digital AI experts backed by understandable AIs built up by hand by human experts. I thought this would help accelerate and democratize research.
-
-
-
-Just like Binary Notation becomes incredibly powerful once you add Boolean Algebra, I hypothesized someone would discover a _Tree Algebra_ which would make computing over such a book straightforward and powerful. 
-
-
-So it would need to rely on an up to date store of knowledge that would be both computable and human readable. I reasoned that an AI backed by such a store had to be strictly superior to one that wasn't. The blackbox AI would not be able to show the logic behind its answer. It would not be possible to inspect everything the AI knows and does not know. And if a blackbox AI could come up with better answers to someone's questions, that would just mean something was missing from the knowledge store or collection of Tree Algebra algorithms. In the long run I deduced the transparent, knowledge base backed AI experts would beat blackbox AIs.
-
-
-[] It forced you to figure out how to fit new knowledge onto existing knowledge. If something about the new knowledge wouldn't fit, you would rewrite the old knowledge until. it did.
- [] Your could antipicate exactly what cells your new study would fill in. Science would become fill in the blanks. Or rewire mistakes.
-
-
-[] What about images? What about movies?
- Symbolics is just one modality. It is a useful one, 
-
-[] No one could know everything. But what if anyone could see everything known!
- Not all the individual bits, but the important/key/useful concepts and measurements and how they fit together.
-  Babel? Icarus?
-[] And not in a messy way, but in an organized way. You wouldn't be able to read everything but you could give questions to the computer and it could compute over everything.
-
-[] The rules needed to be non-arbitrary but instead from laws of the universe.
-
-
-[] I overvalued 2D and undervalued 4D
-
-
-
-[] Pivot points
- The most important info
-
-[] LLMs can make use of the data.
- My solution had no way to make use of the data
-  My solution would require LLMs but not vice versa
-
-[] sYmbols are merely a glue for cooperation and communication, not the substance. The substance is the neural networks
-
-[] Symbols don't die and can be copied to be made available anywhere
- [] But a digital brain also won't die and can be available via the net
-
-
-[] Synthesize top neural networks
-
-Response: my thing has nothing to do with AI. It's about knowledge bases. Well, I guess my thing is about experts.
-
-So much data out there. How to make better use of it?
- My idea was to develop a new human readable but also computable way to organize it. Thought that would lead to great new utility.
-  Ontology improvements
- But AI is just like, fuck it, we'll learn to learn, and figure everything out.
-
-
-Plan:
- [x] Find a way to represent all things. Binary notation.
-  [x] Find an algebra to take advantage of such a representation. Boolean algebra.
-   [x] Cooperate
-
-[] Delusional reality. Overconfidence.
-
-What is the point of this post? To see if my idea was good. 
-
-Is not what really drove me ego, pride, greed?
 
 
 import indexFooter.scroll
