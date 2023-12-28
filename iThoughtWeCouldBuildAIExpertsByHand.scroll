@@ -97,11 +97,11 @@ In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language
 image pldbPython.png
  caption Part of the "Python" entry in PLDB. The focus is on computable data rather than narratives.
 
-As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating The Book and breakthrough AI experts for any domain.
+As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating The Book and breakthrough AI experts for any domain. It wasn't a coincidence that the first step of my attempt to find a symbolic language for encoding all knowledge was a database on symbolic languages. I thought if we built something to first help the symbolic language experts they would join us in inventing the universal symbolic language to help everyone else.
 
-PLDB was met with a good reception when I launched it. After years of tinkering, my dumb idea seemed to have potential! More and more people started to add data to PLDB and get value from it. To be clear, almost certainly the content was the draw, and not the new system under the hood. I enjoyed working on the content very much and did consider keeping PLDB as a hobby and not pursuing the larger AI expert vision.
+PLDB was met with a good reception when I launched it. After years of tinkering, my dumb idea seemed to have potential! More and more people started to add data to PLDB and get value from it. To be clear, almost certainly the content was the draw, and not the new system under the hood. I enjoyed working on the content very much and did consider keeping PLDB as a hobby and forgetting the larger vision.
 
-But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in The Book. PLDB was still far from showing the edge of knowledge in programming languages, but I felt a lot closer to it, and thought this system was a great approach for such a thing. Part of me believed that the simple system used by PLDB, at scale, would lead to a better mapping of every domain and the emergence of brilliant new AI experts powered by these knowledge bases.
+But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in The Book. PLDB was still far from showing the edge of knowledge in programming languages, but now I could see a clear path to that, and thought this system could do that for any domain. Part of me believed that the simple system used by PLDB, at scale, would lead to a better mapping of every domain and the emergence of brilliant new AI experts powered by these knowledge bases.
 
 # Scale
 
