@@ -1,6 +1,6 @@
 import header.scroll
 title I thought we could build AI experts by hand
-date 12/22/2023
+date 12/28/2023
 
 startColumns 2
 
@@ -119,21 +119,21 @@ I understand how naive the idea sounds. Simply by adding more and more concepts 
 
 Where would the emergent benefits come from in my system that wouldn't come from existing approaches? My hunch was that minimalism would show us the way. Every concept in this system would have to adhere to the strictest rules possible. The system could encode any concept. So if the rules prevented a true concept from being added, the rules would be adjusted at the same time. The system was designed to be plain text backed by git to make system wide fixes a cinch. The natural form and natural algebra would emerge and be a forcing function that led us to the characteristica universalis. This would catapult this new system from mildly interesting to world changing. I believed if we just tried to build really really big versions of these things, we would discover that natural algebra and grammar.
 
-If you didn't get the infrastructure for this kind of system to a certain point then it would not show benefits beyond a wiki. But if you could just pass that tipping point clever people would catch on and the idea would spread.
+However, there were a ton of details to get right in the core software. If you didn't get the infrastructure for this kind of system to a certain point then it would not compete favorably against existing approaches. Simplicity is timeless but scaling things is always complex. This system needed to pass a tipping point past which clever people would see the benefits and the idea would spread like fire.
 
-It was simple enough to keep growing the tech behind PLDB slowly and steadily but I might never get us to that tipping point. If I was right and this was the path to building The Book and the best AI experts, that would be tragic! Was there a way I could move faster?
+It was simple enough to keep growing the tech behind PLDB slowly and steadily but I might never get it to that tipping point. If I was right and this was the path to building The Book and the best AI experts, but we never got there because I was too timid, that would be tragic! Was there a way I could move faster?
 
 # Version Two
 
-I had an idea. I had worked in cancer research for a few years so had decent working knowledge of that domain. Instead of focusing on PLDB, building an expert AI for a niche audience, why not build CancerDB, building an expert AI for a domain that affects everyone in a life and death matter? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages. I could test my hunch that my system would really start to shine at scale and if it worked help accelerate cancer research in the process. It seemed like a more mathematically sound strategy.
+I had an idea. I had worked in cancer research for a few years so had some knowledge of that domain. In addition to PLDB, why not also start building CancerDB, building an expert AI for a domain that affects everyone in a life and death matter? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages. I could test my hunch that my system would really start to shine at scale and if it worked help accelerate cancer research in the process. It seemed like a more mathematically sound strategy.
 
 # The Copyright Issue
 
-The CancerDB idea also had another advantage. Another contrarian opinion of mine is that copyright law stands in the way of getting the most out of science. The world is flooded with distracting information and misleading advertisements, while some of the most non-toxic information is held back by copyright laws. I thought we could make a point here. We would add all the truest data we could find, regardless of where it came from, and also make our work entirely public domain. If our work helped accelerate cancer research, we would demonstrate the harm from these laws. I figured it would be hard for copyright advocates to argue for the status quo if by ignoring it we helped save people's lives. As a sidenote, I am still 51% confident I am right on this contrarian bet, which is more confident I ever was in my technology. I have never read a compelling ethical justification for copyright laws, and think they make the world worst for the vast majority of people.
+The CancerDB idea also had another advantage. Another contrarian opinion of mine is that copyright law stands in the way of getting the most out of science. The world is flooded with distracting information and misleading advertisements, while some of the most non-toxic information is held back by copyright laws. I thought we could make a point here. We would add all the truest data we could find, regardless of where it came from, and also declare our work entirely public domain. If our work helped accelerate cancer research, we would demonstrate the harm from these laws. I figured it would be hard for copyright advocates to argue for the status quo if by ignoring it we helped save people's lives. As a sidenote, I am still 51% confident I am right on this contrarian bet, which is more confident I ever was in my technology. I have never read a compelling ethical justification for copyright laws, and think they make the world worst for the vast majority of people, though I could be wrong for utilitarian reasons.
 
 # The Decision
  
-Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. How could I keep moving slowly on this idea if it really was a way to advanced knowledge and create digital AI experts that could help save people's lives? I started feeling like I had no choice.
+Once the CancerDB idea got in my head it was hard to shake. I felt in my gut that my approach had merit. How could I keep moving slowly on this idea if it really was a way to advance knowledge and create digital AI experts that could help save people's lives? I started feeling like I had no choice.
 
 The probability of success wasn't guaranteed but the value if it worked was so high that the bet just made too much sense to me. I decided to go for it.
 
@@ -146,7 +146,7 @@ Unfortunately, my execution was abysmal. I was operating with little sleep and m
 
 I could not rationally articulate why it would work. I just felt it in my gut. I was driven more by emotion than reason.
 
-I wanted this attempt to happen but I didn't want to be the one to lead it. I knew my own limitations and was hoping some other group, with more intellectual and leadership capabilities, would see the possibilities and build the thing on their own. I pitched a lot of groups on the idea. No one else ran with it so I pressed on and tried to lead it myself.
+I wanted this attempt to happen but I didn't want to be the one to lead it. I knew my own limitations and was hoping some other group, with more intellectual and leadership capabilities, would see the possibilities I saw and build the thing on their own. I pitched a lot of groups on the idea. No one else ran with it so I pressed on and tried to lead it myself.
 
 I ran into fierce opposition that I never expected. Ultimately, I wouldn't be able to build the organization to build one of these things 100x bigger than PLDB, and prove empirically a novel breakthrough in knowledge bases.
 
@@ -156,40 +156,40 @@ I failed to build a worthwhile second TrueBase. Heck, I even failed to keep the 
 
 # Deep Learning
 
-My confidence in these ideas always varied over the years, but the breakthroughs in deep learning this year drastically lowered my confidence that I was right. I recently read a quote by Ilya Sutskever "don't ever bet against deep learning". Now you tell me! Maybe if I had read that quote years ago, printed it, and framed it on my wall, I would have bet differently. In many ways I was betting against deep learning. I was betting that curated knowledge bases built by hand would create the best AI experts. The reason why they hadn't yet was that they lacked a few new innovations like the ones I was developing.
+My confidence in these ideas always varied over the years, but the breakthroughs in deep learning this year drastically lowered my confidence that I was right. I recently read a mantra from Ilya Sutskever "don't ever bet against deep learning". Now you tell me! Maybe if I had read that quote years ago, printed it, and framed it on my wall, I would have bet differently. In many ways I was betting against deep learning. I was betting that curated knowledge bases built by hand would create the best AI experts. The reason why they hadn't yet was that they lacked a few new innovations like the ones I was developing.
  class dropcap
 
 Now, seeing the astonishing capabilities of the new blackbox deep learning AIs, I question much of what I once believed.
 
 # Arguments Against My Ideas
 
-- There is no reason that knowledge has to be encoded in symbols. Symbols are powerful because they can be shared across time and place, but what ultimately matters is not whether the symbols exist, but whether the skills explained by the symbols are embedded in the blackbox neural networks that are human brains. Symbols can aid learning but the learning is the most important thing. Symbols are just a means to an end. Knowing how to ride a bike is the ends—the knowledge somehow embedded in your neural blackbox—a book on how to ride a bike cannot be more valuable than the blackbox weights themselves.
+- There is no reason that knowledge has to be encoded in symbols. Symbols are powerful because they can be shared across time and place, but what ultimately matters is not whether the symbols exist, but whether the skills explained by the symbols are embedded in blackbox neural networks. Symbols can aid learning but the learning is the most important thing. Symbols are just a means to an end. You need to be able to make use of the knowledge. Knowing how to ride a bike is the ends—the knowledge somehow embedded in your neural blackbox—a book on how to ride a bike cannot be more valuable than the blackbox weights themselves.
 - There is no reason that symbols have to have an atomic canonical form. If ultimately what matters is that the knowledge is embedded, than how it is stored is not relevant. Concepts don't have to be stored in discrete nodes. They can be stored in superpositions. That could be a more efficient and potentially even truer representation of the concept itself.
-- The returns on improving human readable symbolic systems are capped by human biology. Even if you improved human knowledge bases by a large amount, human brains would still be only able to process a minuscule fraction of all knowledge. Blackbox trained neural networks don't have biological caps. The upside to better symbolic systems is capped. The upside to better artificial brains is uncapped.
-- The opaqueness of blackbox neural networks can be addressed. There could be inspector neural networks that examine the neural networks. These inspector networks will be able to explain the logic behind another networks responses or actions. It might not be a deterministic explanation but it would be arguably better than what we have today. When you ask a question to a human expert today, there is no way to completely audit their answer either. Human brains are also a blackbox. Future neural networks will likely also maintain access to their training data, so could better explain their answers and be less likely to make mistakes.
+- The returns on improving human readable symbolic systems are capped by human biology. Even if you improved human knowledge bases by a large amount, human brains would still be only able to process a minuscule fraction of all knowledge. Blackbox trained neural networks don't have biological caps. The upside to better symbolic networks is capped. The upside to better neural networks is uncapped.
+- The opaqueness of blackbox neural networks can be addressed. There could be inspector neural networks that examine other neural networks. These inspector networks will be able to explain the logic behind another networks responses or actions. It might not be a deterministic explanation but it would be arguably better than what we have today. When you ask a question to a human expert today, there is no way to completely audit their answer either. Human brains are also a blackbox. Future neural networks will likely also maintain access to their training data, so could better explain their answers and be less likely to make mistakes.
 - If AIs are right often enough it's not so necessary that they be able to show their logic. You might have a whitebox AI that is inspectable but perhaps more difficult to use or give worse answers. If the blackbox one is right 99.99% of the time, then you wouldn't care much about being able to inspect everything under the hood.
 - Symbols overvalue two dimensional knowledge. The ability to move your body around is not learned or encoded by symbols, but is essential for keeping you alive. Without symbolic networks, we would be back in the stone age. But without neural networks, we would not be alive. Brains and their learned networks dominate the importance of symbolic networks.
 - Static knowledge bases decay. Knowledge is dynamic. The Book would require continual upkeep by human experts and lots of help from tooling. Once learning AIs learn how to learn, they can keep learning on their own and keep their knowledge current. The ideal AI is not the one that starts with the best knowledge, but the one that is the best learner.
 
 # The Remaining Case for My Approach
 
-My dumb, human curated data approach would have merit if we didn't see other ways to unlock more value from all the information that is out there. But clearly deep learning has arrived, and there is clearly so, so much more promise in that approach.
+My dumb, universal language, human curated data approach would have merit if we didn't see other ways to unlock more value from all the information that is out there. But clearly deep learning has arrived, and there is clearly so, so much more promise in that approach.
 
 There is always the chance that the thousands of variations of notations and algebras I tried were just wrong in subtle ways and that if I had kept tweaking things I would have found the key that unlocks some natural advantageous system. I can't prove that that's not a possibility. But, given what we've seen with Deep Learning, I now highly discount the expected value of such a thing.
 
 A less crazy way to explore my ideas would be to try and figure out how instead of trying to replace Wikipedia, I could implement these ideas on top of Wikipedia and see if they could make it better. Would adding typing to radically increase the comparability of concepts in Wikipedia unlock more value? That was probably the more sensible thing to do in the beginning.
 
-I could say, a bit tongue in cheek, that the remaining merit in my approach is that a characteristica universalis offers upside and without the potential to evolve into a new intelligent species that ends humanity.
+I could say, a bit tongue in cheek, that the remaining merit in my approach is that a characteristica universalis offers upside without the potential to evolve into a new intelligent species that ends humanity.
 
 # Mania Disclaimer
 
 In examining my actions and thinking it is important to disclose that I do have a manic depressive brain.
 
-Last year when I decided to full throttle my brain was in a hypomanic, and at points manic state. That's not the best state to execute in, and my poor execution reflects that.
+Last year when I decided to go full throttle on this idea my brain was in a hypomanic, and at points manic, state. That's not the best state to execute in, and my poor execution reflects that.
 
 The downside of hypomania is one can be greatly overconfident in an incorrect contrarian idea. The upside of hypomania is one can have the confidence to ignore the crowd and pursue a contrarian idea that turns out to be correct. It is hard to know the difference.
 
-A related sidenote to the story is that the second "DB" I wanted to build was actually BrainDB. I thought using this system for neuroscience would hopefully help figure out bipolar disorder. But considering all the factors at the time I judged CancerDB to be the most urgent priority.
+A related sidenote to the story is that the second "DB" I wanted to build was actually BrainDB. I thought using this system for neuroscience would hopefully help figure out bipolar disorder. An understanding of the mechanisms of bipolar disorder are currently beyond the edge of science. But considering all the factors at the time I judged CancerDB to be the most urgent priority.
 
 # Gratefulness
 
@@ -211,7 +211,7 @@ Symbols have enabled us to bootstrap technology. And they will remain an importa
 
 I thought we needed a characteristica universalis. I wasn't sure if it was possible but thought we should try. Now it seems much clearer that what we really need are capable learning neural networks, and those are indeed possible to build.
 
-A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere mortals to play with when we are no longer the species running the zoo.
+A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere humans to play with when we are no longer the species running the zoo.
 
 import indexFooter.scroll
 
