@@ -20,7 +20,6 @@ But I also do a lot of self musings that I do not publish because they are meand
 Why am I still writing? I think symbols are probably doomed. The utility of being able to read and write is perhaps passed its prime. Inscrutable three dimensional matrices of weights are the future, and this practice I am engaging in now of conjuring and manipulating symbols on a two dimensional page is a dying art. But I am maybe too old to unlearn my appreciation for symbols. So I will keep writing. Because I enjoy doing it, like piecing together a puzzle. And because I still hope it can help my future self be a better person. Now, onto today's post.
 
 # The advance of AGI is currently stoppable
-
 Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
@@ -36,12 +35,14 @@ Will there come a point where even superpowers lose the ability to stop AGI?
 There are many scenarios you can imagine where through a certain chain of independent events a rogue AI does manage to somehow take over the data centers and fabs and power plants of the world. There are a number of sci-fi stories with variations of this idea.
 
 # Alternative to GPUs?
+But part of me wonders if instead what happens is we develop all the components necessary so that GPUs are no longer the primary ingredient to ANNs but are replaced by organic brains grown in vitro. These in vitro brains would be hooked up to control machines using something like Neuralink's Neuralace. They would be trained by ANNs.
 
-But part of me wonders if instead what happens is we develop all the components necessary so that GPUs are no longer the primary ingredient to ANNs but are replaced by organic brains grown in vitro. These in vitro brains would be hooked up to control machines using something like Neuralink's Neuralace. They would be trained by DNNs.
+We know it must be possible to run computations like in an ANN very power efficiently, using self reproducing organic materials, because we see nature do it. Just as scientists measured the amount of energy coming from the sun and deduced there must be a much more powerful way to create energy than chemical reactions, so we know there must be a better way to build these chips.
 
-This doesn't seem too far off. All the components seem to be coming together.
+The technologies you would need to build this seem to almost be all available^note.
 
 Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container---that could contain the compute potential of 20,000 Einsteins!
+ https://en.wikipedia.org/wiki/Cultured_meat lab grown "meat"
 
 Neural tissue might as well just be meat if you can't interface with it. Enter Neuralink (and competitors). They are developing ways to do IO with neurons at scale.
 
@@ -51,7 +52,14 @@ I have no expert insight or opinions on these matters. I have just been thinking
 
 In following this thought I wondered for the first time of how you would train a brain that did not have a body. I'm sure many people have thought and written on this. I had not. It's an intriguing challenge. It seems like it might be a good way to learn how human brains work. I am happy I decided to write about the initial Neuralink brain in vitro thought, as it led me to this other thought about training a bodyless brain.
 
-I have no conclusion, as I said in the disclaimer up top this is meant to just be a meandering post. If I try to reach conclusions on some of these ideas it might take years.
+I have no conclusions, as I said in the disclaimer up top this is meant to just be a meandering post. If I tried to reach conclusions on these ideas before publishing it would be years.
+
+---
+
+^note It does seem like a ground breaking proof of concept could happen within a decade. If that were to happen maybe something like this could be viable within another decade. So perhaps the earliest something like this might happen would be 15 - 20 years. It doesn't seem like it would be 50 years out, as by then it seems AGI would have happened using traditional chips, or that world powers would have hit the kill switch.
+
+^after After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
+ link https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
 
 import indexFooter.scroll
 
