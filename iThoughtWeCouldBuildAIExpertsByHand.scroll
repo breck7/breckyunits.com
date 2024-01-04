@@ -129,6 +129,16 @@ It was simple enough to keep growing the tech behind PLDB slowly and steadily bu
 
 I had an idea. I had worked in cancer research for a few years so had some knowledge of that domain. In addition to PLDB, why not also start building CancerDB, building an expert AI for a domain that affects everyone in a life and death matter? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages. I could test my hunch that my system would really start to shine at scale and if it worked help accelerate cancer research in the process. It seemed like a more mathematically sound strategy.
 
+# The Business Model
+
+Knowledge in this system was divided into simple structured blocks, like in the screenshots above. Blocks could contain two things. They could define information about the external world. And some could define rules for other blocks. The Book would come together block by block, like a great wall. The amount of blocks needed for this system to become intelligent would be very high. Some blocks were cheap to add, others would require original research and experiments. It would be expensive to add enough blocks to effectively map entire domains.
+
+Like walls in the real world that have "Buy a Brick", we would have another kind of block, sponsor blocks, which would give credit to funders for funding the addition and upkeep of blocks. This could create a fast, intelligent feedback loop between funders and researchers. Because of the computational nature of the encoding, we would have new ways to measure contributions to our shared collective model of our world.
+
+It would be a new way to fund research, and the end result would not be disconnected PDFs, but would be a massive, open, collaborative, structured, simple, computable database. Funders would get thanks embedded in the database and novel methods to measure impact, researchers would get funding, and everyone could benefit from this new kind of open computable encylopedia.
+
+CancerDB would be a good domain to test this model, as there are already a lot of funders and researchers.
+
 # The Copyright Issue
 
 The CancerDB idea also had another advantage. Another contrarian opinion of mine is that copyright law stands in the way of getting the most out of science. The world is flooded with distracting information and misleading advertisements, while some of the most non-toxic information is held back by copyright laws. I thought we could make a point here. We would add all the truest data we could find, regardless of where it came from, and also declare our work entirely public domain. If our work helped accelerate cancer research, we would demonstrate the harm from these laws. I figured it would be hard for copyright advocates to argue for the status quo if by ignoring it we helped save people's lives. As a sidenote, I am still 51% confident I am right on this contrarian bet, which is more confident I ever was in my technology. I have never read a compelling ethical justification for copyright laws, and think they make the world worst for the vast majority of people, though I could be wrong for utilitarian reasons.
