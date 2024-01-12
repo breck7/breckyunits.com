@@ -1,0 +1,67 @@
+import header.scroll
+title Words are Worse than Weights
+date 1/12/2024
+
+startColumns 2
+
+For decades I had a bet that worked in good times and bad: time you invest in word skills easily pays for itself via increased value you can provide to society. If the tide went out for me I'd pick up a book on a new programming language so that when the tide came back in I'd be better equipped to contribute more. I also thought that the more society invested in words, the better off society would be. New words and word techniques from scientific research helped us invent new technology and cure disease. Improvements in words led to better legal and commerce and diplomatic systems that led to more justice and prosperity for more people. My read on history is that it was words that led to the start of civilization, words were our present, and words were our future. *Words were the safe bet*.
+ dateline
+
+endSnippet
+
+Words were the best way to model the world. I had little doubt. The computing revolution enabled us to gather and utilize more words than ever before. The path to progress seemed clear: continue to invent useful words and arrange these words in better ways to enable more humans to live their best lives. Civilization would build a collective world model out of words, encoding all new knowledge mined by science, and this would be packaged in a program everyone would have access to.
+
+## ...along come the neural networks of 2022-2023
+
+I believed in word models. Then ChatGPT, Midjourney and their cousins crushed my beliefs. These programs are not powered by word models. They are powered by weight models. Huge amounts of intertwined linked nodes. Knowledge of concepts scattered across intermingled connections, not in discrete blocks. Trained, not constructed.
+
+Word models are inspectable. You plug in your inputs and can follow them through a sequence of discrete nameable steps to get to the outputs of the model. Weight models, in contrast, have huge matrices of numbers in the middle and do not need to have discrete nameable intermediate steps to get to their output. The understandability of their internal models is not so important if the model performs well enough.
+
+And these weight models are _amazing_. Their performance is undeniable.
+
+I _hate_ this! I hate being wrong, but I especially hate being wrong about _this_. About words! That words are _not_ the future of world models. That the future is in weight models. *Weights are the safe bet*. I hate being wrong that words are worse than weights. I hate being wrong about my most core career bet, that time improving my word skills would always have a good ROI.
+
+## Game over for words
+In the present the race seems closer but if you project trends it is game over. Not only are words worse than weights, but I see no way for words to win. The future will show words are _far worse_ than weights for modeling things. We will see artificial agents in the future that will be able to predict the weather, sing, play any instrument, walk, ride bikes, drive, fly, tend plants, perform surgery, construct buildings, run wet labs, manufacture things, adjudicate disputes--do it all. They will not be powered by word models. They will be powered by weights. Massive numbers of numbers. Self-trained from massive trial and error, not taught from a perfect word model.
+
+These weight models will contain submodels to communicate with us in words, at least for a time. But humans will not be able to keep up and understand what is going on. Our word models will seem as feeble to the AIs as a pet dog's model of the world seems to its owner.
+
+image literacy.png
+ caption Literacy has historically had a great ROI but its value in the future is questionable as artificial agents with weight brains will perform so much better than agents operating with word brains.
+
+Things we value today, like knowing the periodic table, or the names of capital cities, or biological pathways--word models to understand our world--will be irrelevant. The digital weight models will handle things with their own understanding of the world which will leave ours further and further in the dust. We are now in the early days where these models are still learning their weights from our words, but it won't be long before these agents "take it from here" and begin to learn everything on their own from scratch, and come up with arrangements of weights that far outperform our word based world models. Sure, the hybrid era where weight models work alongside humans with their word models will last for a time, but at some point the latter will become inconsequential agents in this world.
+
+## Weights run the world
+Now I wonder if I always saw the world wrong. I see how words will be less valuable in the future. But now I also see that I likely greatly overvalued words in our present. Everything is run by weights, not words. Words are correlated with reality, but it is weights that really make the decisions. Word mottos don't run humans, as much as we try. Words correlate, but it is our neural weights that run things. Words are not running the economy. Weights are and always have been. The economy is in a sense the first blackbox weight powered artificial intelligence. Word models correlate with reality but are very leaky models. There are far more "unwritten rules" than written rules.
+ class dropcap
+
+I have long devalued narratives but highly valued words in the form of datasets. But datasets are also far less valuable than weights. I used to say "the pen is mightier than the sword, but the CSV is mightier than the pen." Now I see that weights are far mightier than the CSV!
+
+Words are worse not just because of our current implementations. Fundamentally word models discretize a universe into discrete concepts that do not exist. The real world is fuzzier and more continuous. Weights don't have to discretize things. They just need to perform. Now that we have hardware to run weight models of sufficient size, it is clear that word models are fundamentally worse. As hardware and techniques improve, the gap will grow.
+
+Nature does not owe us a word model of the universe. Just because part of my brain desperately _wants_ an understanding of the world in words it is not like there was a deal in place. If truth means an accurate prediction of the past, present, and future, weight models serve that better than word models. I can close my eyes to it all I want but when I look at the data I see weights work better.
+
+## Overcorrecting?
+
+Could I be wrong again? I was once so biased in favor of words. In 2019 I gave a lightning talk at a program synthesis conference alongside early researchers from OpenAI. I claimed that neural nets were still far from fluency and to get better computational agents we needed to find novel simpler word systems designed for humans and computers. But then OpenAI has shown that LLMs have no trouble mastering even the most complex of human languages. The potential of weights was right in front of me but I stubbornly kept betting on words. So my track record in predicting the future on this topic isn't exactly stellar. Maybe me switching my bet away from words now is actually a sign that it is time to bet on words again!
+ class dropcap
+
+But I don't think so. I was probably 55-45 back then, in favor of words. I think in large part I bet on words because so many people in the program synthesis world were betting on weights, so I saw taking the contrarian bet as the one with the higher expected value for me. *Now I am 500 to 1 that weights are the future*.
+
+The long time I spent betting on words makes me more confident that words are doomed. For years I tried thousands and thousands of paths to find some way to make word models radically better. I've also searched the world for people smarter than me who were trying to do that. Cyc is one of the more famous attempts that came up short. It is not that they failed to write all unwritten rules it is that nature's rules are likely unwriteable. Wolfram Mathematica has made far more progress and is a very useful tool, but it seems clear that its word system will never achieve the takeoff that a learning weights based system will. Again, the race at the moment seems close, but weights have started to pull away. If there was a path for word models to win I think I would have glimpsed it by now.
+ https://en.wikipedia.org/wiki/Cyc Cyc
+ https://www.wolfram.com/mathematica/ Wolfram Mathematica
+
+The only thing I can think of is that there actually will turn out to be some algebra of compression that would make the best performing weight models isomorphic to highly refined word models. But that seems far more like wishful thinking from some biased neural agents in my brain that formed for word models and want to justify their existence.
+
+It seems much more probable that nature favors weight models, and that we are near or may have even passed peak word era. Words were nature's tool to generate knowledge faster than genetic evolution in a way that could be transferred across time and space, but at the cost of speed and prediction accuracy, and now we evolved a way where knowledge can be transferred across time and space and have much better speed and prediction accuracy than words.
+
+Words will go the way of Latin. Words will become mostly a relic. Weights are the future. Words are not dead yet. But words are dead.
+
+## Looking ahead
+
+I will always enjoy playing with words as a hobby. Writing essays like these, where I try to create a word model for some aspect of the world, makes me feel better, when I reach some level of satisfaction with the model I wrestle with. But how useful will skills with words be for society? Is it still worth honing my programming skills? For the first time in my life it seems like the answer is no. I guess it was a blessing to have that safe bet for so long. Pretty sad to see it go. But I don't see how words will put food on the table. If you need me I'll be out scrambling to find the best way to bet on weights.
+ class dropcap
+
+import indexFooter.scroll
+
