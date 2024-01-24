@@ -1,0 +1,42 @@
+import header.scroll
+
+// Adapted from one of my reddit posts: https://www.reddit.com/r/bipolarketo/comments/17k2pg3/keto_was_not_mentioned_in_the_top_50_books_on/
+
+import mediumColumns.scroll
+
+title Keto for bipolar was not talked about until very recently
+date 1/23/2024
+
+I started a ketogenic diet as a treatment for bipolar disorder 97 days ago, on October 19th, 2023, after learning about it on YouTube from MetabolicMind and Bipolarcast. So far, it seems promising.
+ dateline
+ https://www.metabolicmind.org/ MetabolicMind
+ https://www.youtube.com/channel/UCDB-iMvEJ-HeHqpamIN5JWw/videos Bipolarcast
+
+But I was perplexed: after 20 years of reading about Bipolar Disorder, and eight health care providers, how had I not heard of keto as a treatment option before? Had I missed it in all the materials I had read?
+
+endSnippet
+
+So I embarked on a mini research project. I scanned every top book on bipolar disorder (46 self-help and medical books, and 10 biographies or other related books) for mentions of "keto".
+
+Prior to 2020, there were zero mentions.
+
+In 2020, "Understanding Bipolar Disorder: The Essential Family Guide" by Daramus has two sentences on it.
+
+This year, in 2023, the 2nd Edition of "Take Charge of Bipolar Disorder" by Fast and Preston is the first to give it serious treatment with 3 pages explaining it.
+
+For thoroughness, I extended my search to include books on "Manic Depression" to make sure I included older works. As a sanity check, I also scanned 5 books on Epilepsy, starting from 1996, and indeed all 5 of them included sections on the ketogenic diet.
+
+So I had not heard of a ketogenic diet as a possible treatment for bipolar disorder because it was simply not talked about in primary sources until very recently. There were anecdotes in blog and forum posts but nothing at all in published books.
+
+## The Data Visualized:
+image bpBooks.webp
+ caption Red = Bipolar book not mentioning keto; Green = Bipolar book mentioning keto; Blue = Epilepsy book mentioning keto.
+
+Here is the raw data in a Google Sheet.
+ https://docs.google.com/spreadsheets/d/1D8eacK7ASysiAVGttgajkQCOqBU-cBOG4Polceqkiiw/edit?usp=sharing Google Sheet
+
+I am very grateful for all of the researchers who started seriously studying this. Perhaps the studies will show that a ketogenic diet is not a very effective long term treatment, but at the moment it seems like a very promising direction of research and the early results seem encouraging. It also seems like it is helping researchers triangulate the mechanisms of bipolar disorder.
+
+I still have a ton to learn but I wanted to share this simple book scan in case anyone else was wondering why they hadn't heard of this option before.
+
+import indexFooter.scroll
