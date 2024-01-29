@@ -1,0 +1,88 @@
+import header.scroll
+title Delusions
+date 1/29/2024
+
+import mediumColumns.scroll
+
+This is a post about delusions. In society and in myself.
+ dateline
+
+endSnippet
+
+# My definition of delusion
+A delusion, D, is a theory, in the mind of a thinking agent that meets 4 criteria:
+
+1. has a low probability (~<1%) of being true
+2. is perceived by the agent to have a high probability of being true (~>50%)
+3. is slow for the agent to update its perceived probability
+4. is acted on by the agent
+
+# When society went delusional
+In February 2020 I was living in Hawai'i with my family and witnessed society there (and around the world) go delusional about Covid-19.
+
+I had been following the early stories about Covid with some concern, but after the first big data dump was published on February 17th, 2020, it seemed clear to me that Covid would not be a huge danger. Most importantly, the first data dump indicated strongly Covid was not a significant danger to children. Every additional large data dump from then on only reinforced the more mild view of Covid. Covid was not deadly for nearly everyone (awful flu like experience aside), except those who were also at risk of dying from the flu. Thus, it shocked me as society locked down increasingly harshly over the next two years. The precautionary principle is a fine argument that would have justified a strong response measured in weeks, but the duration of the response put this in the delusional category.
+ https://twitter.com/breckyunits/status/1228117546974371840 first big data dump
+
+image covidTweet.png
+ caption It was easy to ballpark from the data what the disease would do. It was much harder to predict what society would do.
+
+Let's see how some of the things that unfolded meet the criteria of delusion as defined above.
+
+Years after this dataset came out, at least in Hawai'i, my 3 year old daughter was still being required to wear a mask outdoors due to the perceived threat of Covid to kids. This was a societal delusion. The theory was that Covid was a high, avoidable danger to kids (given the data, this was <1% true). Society (or at least, "leadership"), perceived this probability to be ~50x-100x higher than it actually was. Society took years to update their perceived probability. And society took actions (requiring masks, even outdoors; closing beaches, parks, and playgrounds; "vaccination" requirements; severe limits on social gatherings) based on this delusion.
+
+Another delusion was that recovering from Covid somehow did not provide protection as well as the "vaccine" would. Given all we know about the immune system, this was a very low probability hypothesis, treated like a high probability theory, updated extremely slowly, and acted upon.
+ // I put vaccine in quotes as I believe the understanding of the term used to be a medicine that prevented transmission.
+
+There were a lot of other related delusions going on at that time. Eventually however, society did update their perceived probabilities and the Covid delusions faded.
+
+Sidenote: I chose two delusions that were both held by a number of people. However, I'll admit there were other groups with other delusions, like one group with the delusion the vaccines caused mass death.
+
+Anyway, society went delusional. Society acted like it was living in the movie Contagion, even though the math did not back that up.
+
+# My Delusions in Response to Covid
+I really struggled with society's reaction to the pandemic. Because my day job was focused on pandemic data, I was exceptionally aware of how delusional society was acting about both the actual lethality of Covid and the ability to contain it (running sims showed everyone was going to get it eventually).
+
+I developed two delusions of my own.
+
+My first delusion was that the copyright system was a root cause of society's delusions. I had long ago formed circuits in my brain that were against copyright law. These circuits believed copyright led to a less healthy information circulatory network. Now I was seeing the information network that our copyright system molded spouting delusions. Meanwhile, people were shouting "trust the science" while Sci-Hub, the preeminent site for sharing scientific research, was frozen by legal attacks from the copyright lobby. I really wish I could say that I was not delusional about this idea, but now I think that I likely greatly overestimated the impact of copyright in our world (positive or negative) and that whether we have copyright or not is probably not very impactful. So, I had a low probability theory (copyright significantly harms society) that I viewed with high probability for a long time. I also acted upon this theory, resigned from my job and formed a new corporation. So this meets all my criteria for a delusion.
+ link the-public-domain-publishing-company.html a new corporation
+ https://www.reddit.com/r/scihub/comments/lofj0r/announcement_scihub_has_been_paused_no_new/ frozen
+ https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
+
+My second delusion was that I had exceptional capability to solve this problem for society. I believed that I had world class talent and resources to spread a different kind of virus: a movement to abolish copyright law and replace our information circulatory network with something healthier. The theory that I was super talented (low probability), which I acted upon with great confidence, was a delusion.
+
+# Lessons Learned
+## Society is impressively logical but always has delusions somewhere
+Programmers learn early that when there's a bug in their program, it is extremely rare for the bug to be upstream in the compiler or hardware, and much more likely for it to be in your own thinking. The infrastructure we build on is very impressive. I mean, just look at modern airplanes!
+
+That's why I really struggled in this case. I worked with the Covid data day in and day out and could not find a mathematical justification for society's actions on Covid. This time the bug was not actually in my thinking but was upstream in society.
+
+At times this enraged me and I wasn't sure how to deal with it. It felt like an exceptional time to me, and I felt maybe I needed to stand up and do something exceptional.
+
+Years later I see how society's delusions eventually subsided. I now realize that society will always have pockets of delusions--and that's okay! One should not get so worked up about it. Society will eventually update its probabilities, even if stubbornly slow.
+
+## What causes delusions?
+For me, being in a hypomanic or manic state leads to a huge increase in delusions. I start acting on low probability theories as if they had high probability and I am slow to update my probabilities. To compound the problem is the _number_ of delusions that I act on--perhaps some of my delusions would actually have higher probabilities of coming true if I did not pursue so many delusions at once! It seems during my elevated states far more brain circuits than usual are energized, so naturally I'll have more theories rising to consciousness. Then it also seems inhibitory processes do not compensate, so lots of theories get acted upon.
+
+But what causes these excitatory states? Could it be fear?
+
+It does seem that in society, fear enabled the delusional behavior. Maybe in a state of fear, confident agents are king. Societal fear during Covid was fed by the media.
+
+Perhaps, in individuals like myself, a fear state can arise at any time simply by an uncontrollable unconscious thought of the inevitably of death, and then a high energy state kicks off, and confident neural agents are able to take control.
+
+## Can one forecast when and where society will go delusional?
+It might be hard to predict black swan events, but maybe delusional states would be easier to predict. I know on average my brain gets into a delusion happy state every eighteen months. Perhaps regions of society also have a regular rhythm of delusion susceptibility.
+
+## The difficulty in countering delusions
+Society eventually did update its probabilities on Covid, but for years I found it incredibly frustrating trying to get society to change course. The agents I could get to admit the truth weren't the agents in power. If you think about the multi-agent theory of the mind, this makes sense. A delusion is an energized, specialized collection of neurons that is able to pilot the ship for a while. If the delusion was bendable, it would always simply bend to society and never be in a position of bending society. So the trick to countering delusions is to be content with communicating truth with out-of-power agents, realizing that eventually the currently powerful delusional neurons will eventually lose control (eventually the truth of physics catches up to you).
+
+People have told me when I'm in a hypomanic state I can't be reasoned with or talked to. I think this is a harmful attitude to have. Even when I am focused on one particularly delusional idea, I still experience many brain pilot switches in a day. I may be very angry and confrontational one moment, but even in those days I have a large number of moments when other agents are piloting and listening to feedback.
+ link brain-pilots.html brain pilot
+
+## Attacking Dissent
+It is not easy to dissent from delusional agents that are in power. I learned this during Covid, and people around me learned it during my later mania. Name calling does not work. Calling an agent "delusional" does not work. The agents in charge are very simple neural networks evolved specifically for their particular delusion without the ability to self-introspect. These networks live for their delusion. Attacking them head on is thus a life or death threat to them, and can backfire. It is important instead to listen, to find common ground, and to appeal and strengthen the other orthogonal agents around.
+
+## Thriving Alongside Delusions
+Maybe the trick is to have some sympathy for the delusional agent. Probabilities for rare events are hard to get right. I got so mad at society for being off on Covid by 100x. And then I went and was off myself on a few things by a 1,000x. Individuals and societies--both multi-agent thinking systems--will have delusional times. Perhaps the trick isn't to attack specific delusions as they come but to better understand what delusions are and how to create an environment that benefits from them, and is not harmed when they arise.
+
+import indexFooter.scroll
