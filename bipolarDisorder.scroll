@@ -142,30 +142,30 @@ It gives me hope that there are so many smart, caring, hard working people tryin
 
 # Appendix: Table of start of elevated energy episodes
 spaceTable
- Year Month PeakSeverity Project SleepTracked
- 2024    ✅
- 2023    ✅
- 2022 August 4 PL ✅
- 2021    ✅
- 2020 November 1 PD ✅
- 2019 May 1 TL ✅
- 2018    ✅
- 2017 June 3 TN ✅
- 2016 January 1 OH ✅
- 2015    ✅
- 2014    ❌
- 2013 May 1 IN ❌
- 2012    ❌
- 2011 March 3 NP ❌
- 2010    ❌
- 2009 December 1 BB ❌
- 2008 September 1 PS ❌
- 2007 July 3 SM ❌
- 2006 July 2 SY ❌
- 2005    ❌
- 2004 June 3 IF ❌
- 2003 August 2 MD ❌
- 2002 October 1 AP ❌
+ Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
+ 2024    ✅ No No
+ 2023    ✅ No No
+ 2022 August 4 PL ✅ Partial No
+ 2021    ✅ Partial No
+ 2020 November 1 PD ✅ Partial No
+ 2019 May 1 TL ✅ Partial No
+ 2018    ✅ Yes No
+ 2017 June 3 TN ✅ No No
+ 2016 January 1 OH ✅ No Yes
+ 2015    ✅ No Yes
+ 2014    ❌ No No
+ 2013 May 1 IN ❌ No No
+ 2012    ❌ No No
+ 2011 March 3 NP ❌ No No
+ 2010    ❌ No No
+ 2009 December 1 BB ❌ No Yes
+ 2008 September 1 PS ❌ Partial No
+ 2007 July 3 SM ❌ Partial No
+ 2006 July 2 SY ❌ No Yes
+ 2005    ❌ Partial No
+ 2004 June 3 IF ❌ No No
+ 2003 August 2 MD ❌ No No
+ 2002 October 1 AP ❌ No No
 
 
 import indexFooter.scroll
