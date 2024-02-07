@@ -99,7 +99,6 @@ At first, because of the naive file based approach, it was slow and didn't scale
  link building-a-treebase-with-6.5-million-files.html slow and didn't scale
 
 # The Prototype
-
 In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language DataBase. This site was an encyclopedia about programming languages. It was the biggest collection of data on programming languages, which was gathered over years by open source contributors and myself and reviewed by hand.
  class dropcap
 
@@ -115,27 +114,30 @@ PLDB was met with a good reception when I launched it. After years of tinkering,
 But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in The Book. PLDB was still far from showing the edge of knowledge in programming languages, but now I could see a clear path to that, and thought this system could do that for any domain. Part of me believed that the simple system used by PLDB, at scale, would lead to a better mapping of every domain and the emergence of brilliant new AI experts powered by these knowledge bases.
 
 # Scale
-
 I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes. 
  class dropcap
 
-Where would the emergent benefits come from in my system that wouldn't come from existing approaches? My hunch was that minimalism would show us the way. Every concept in this system would have to adhere to the strictest rules possible. The system could encode any concept. So if the rules prevented a true concept from being added, the rules would be adjusted at the same time. The system was designed to be plain text backed by git to make system wide fixes a cinch. The natural form and natural algebra would emerge and be a forcing function that led us to the characteristica universalis. This would catapult this new system from mildly interesting to world changing. I believed if we just tried to build really really big versions of these things, we would discover that natural algebra and grammar.
+Where would the emergent benefits come from in my system that wouldn't come from existing approaches?
+
+## Dimensions! Dimensions! Dimensions!
+A dimension, which is symbolically just another word for column in a table of measurements, is a different perspective of looking at something. For example, a database about fruits might have one dimension measuring weight and another color. There's a famous Alan Kay quote about a change in perspective being worth 80 IQ points. That's not always the case, but you can generally bet adding perspectives increases one's understanding, often radically. A thing that surprised me when building PLDB was just _how much_  the value of a dataset grew as the number of dimensions grew. New dimensions not only increased the number of insights you could make, sometimes radically, but also expanded opportunities to add even more promising dimensions. This second positive feedback loop seemed to be more powerful than I expected. Of course, it is easy to add a dimension in a normalized SQL database. Simply add a column or create a new table for the dimension with a foreign key to the entity. My thought was seemingly small improvements to the workflow of adding dimensions would have compounding effects.
+
+## Minimalism
+I also thought minimalism would show us the way. Every concept in this system would have to adhere to the strictest rules possible. The system could encode any concept. So if the rules prevented a true concept from being added, the rules would be adjusted at the same time. The system was designed to be plain text backed by git to make system wide fixes a cinch. The natural form and natural algebra would emerge and be a forcing function that led us to the characteristica universalis. This would catapult this new system from mildly interesting to world changing. I believed if we just tried to build really really big versions of these things, we would discover that natural algebra and grammar.
 
 However, there were a ton of details to get right in the core software. If you didn't get the infrastructure for this kind of system to a certain point then it would not compete favorably against existing approaches. Simplicity is timeless but scaling things is always complex. This system needed to pass a tipping point past which clever people would see the benefits and the idea would spread like fire.
 
 It was simple enough to keep growing the tech behind PLDB slowly and steadily but I might never get it to that tipping point. If I was right and this was the path to building The Book and the best AI experts, but we never got there because I was too timid, that would be tragic! Was there a way I could move faster?
 
 # Version Two
-
 I had an idea. I had worked in cancer research for a few years so had some knowledge of that domain. In addition to PLDB, why not also start building CancerDB, building an expert AI for a domain that affects everyone in a life and death matter? Both required building the same core software, but it seemed like it would be 1,000x easier to get a team and resources to build an expert AI to help solve cancer rather than just improve programming languages. I could test my hunch that my system would really start to shine at scale and if it worked help accelerate cancer research in the process. It seemed like a more mathematically sound strategy.
 
 # The Business Model
-
 Knowledge in this system was divided into simple structured blocks, like in the screenshots above. Blocks could contain two things. They could define information about the external world. And some could define rules for other blocks. The Book would come together block by block, like a great wall. The amount of blocks needed for this system to become intelligent would be very high. Some blocks were cheap to add, others would require original research and experiments. It would be expensive to add enough blocks to effectively map entire domains.
 
-Like walls in the real world that have "Buy a Brick", we would have another kind of block, sponsor blocks, which would give credit to funders for funding the addition and upkeep of blocks. This could create a fast, intelligent feedback loop between funders and researchers. Because of the computational nature of the encoding, we would have new ways to measure contributions to our shared collective model of our world.
+Like walls in the real world that have "Buy a Brick", we would have another kind of block, sponsor blocks, which would give credit to funders for funding the addition and upkeep of blocks. This could create a fast, intelligent feedback loop between funders and researchers. Because of the high dimensional nature of the data, and computational nature of the encoding, we would have new ways to measure contributions to our shared collective model of our world.
 
-It would be a new way to fund research, and the end result would not be disconnected PDFs, but would be a massive, open, collaborative, structured, simple, computable database. Funders would get thanks embedded in the database and novel methods to measure impact, researchers would get funding, and everyone could benefit from this new kind of open computable encylopedia.
+It would be a new way to fund research, and the end result would not be disconnected PDFs, but would be a massive, open, collaborative, structured, simple, computable database. Funders would get thanks embedded in the database and novel methods to measure impact, researchers would get funding, and everyone could benefit from this new kind of open computable encyclopedia.
 
 CancerDB would be a good domain to test this model, as there are already a lot of funders and researchers.
 
