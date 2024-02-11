@@ -1,0 +1,49 @@
+import header.scroll
+
+wideColumns 1
+title Manic Researchers Announce They Are Hours Away From Cure For Depression
+ style font-size:38px;
+endColumns
+
+startColumns 2
+
+date 2/14/2014
+
+// This piece is from The Onion. Funny fiction full of foreboding factuality. I'm putting this copy in my blog folder to more frequently remind myself of it.
+ 
+image theOnionManic.webp
+ caption The manic researchers confirmed that “absolutely nothing could stop [them]” from finding an immediate cure for depression.
+
+BLOOMINGTON, IN - The Onion - Speaking loudly and quickly without any notable pauses, a team of manic researchers at Indiana University announced at a press conference Wednesday that they are mere hours away from a permanent cure for depression.
+ dateline
+ https://www.theonion.com/manic-researchers-announce-they-are-hours-away-from-cur-1819576149 The Onion
+
+The wide-eyed, unblinking scientists, who paced back and forth along the podium while nodding their heads vigorously, told the assembled press corps that after they rounded up several hundred test subjects and carried out multiple clinical trials, they expected to have a fully effective treatment for the mood disorder ready by this evening.
+
+“Depression is a serious and complex mental illness, but there’s no reason we can’t solve it tonight—there’s nothing holding us back,” said head researcher Dr. Gavin Rowe, trembling euphorically as he mentioned that he felt “unstoppable” and had been working on the problem for the past 49 hours straight. “We’ll just run a few experiments in the next half hour, develop a medication, nail down some dosages, and get rid of depression once and for all. That’s it. Christ, we’re finally thinking clearly!”
+
+Punctuating their statements with broad, forceful gestures, the scientists explained that they were now making “15 or 20 medical breakthroughs a minute” and had written more than 350 pages of an academic paper during the morning that they intended to submit for publication immediately.
+
+Moreover, the researchers vowed to conduct a randomized double-blind study right then and there on stage, noting multiple times under their breath that “it’s all so simple.”
+
+“This research is basically doing itself—it’s not even hard,” said neurologist Deborah Franks, emitting an abrupt and ebullient peal of laughter before quickly returning to her explanation of how the research team was on the brink of eradicating an illness that has stymied medical science for centuries. “Sure, identifying the neural underpinnings of a major mental disorder is a bit of a challenge, but at the rate we’re flying through this research, that’s nothing, nothing at all. That’ll take five minutes.”
+
+“By this time tomorrow, clinical depression will be completely gone,” Franks continued. “Atypical depression, postpartum depression, seasonal depression—we’ll cure all of those. My God, we’re so close! We’re on fire and nothing can ever stop us!”
+
+Several times throughout the press conference, sources confirmed that the manic scientists alternately shouted at the press corps to get out of the room to let them think, and then directly challenged the reporters to “name any disease,” asserting that they would cure it on the spot.
+
+The ecstatic researchers, who confirmed that their minds are working better and faster than they ever have before, estimated that as soon as they wrapped up their clinical analysis this afternoon, they would immediately receive congratulatory phone calls from the National Institutes of Health, the Bill & Melinda Gates Foundation, every major pharmaceutical company, the U.S. surgeon general, and the Nobel Prize committee.
+
+“We’re on the verge of the greatest achievement in the history of medicine!” said Dr. Alejo Myron during a fast-paced 18-minute uninterrupted speech that included several dozen emphatic slaps of his open palm against the lectern. “Everything’s finally coming together: problem—solution. Hypothesis—data. Trial—outcome. It’s just like dominoes. We’re knocking all these tasks down one after another like dominoes, just knocking it all down, knocking it all down, knocking it all down!”
+
+The team of researchers, repeatedly pausing to scribble down ideas on notepads and mop beads of sweat from their brows, assured reporters they did not need to sleep and would immediately turn their attention to shepherding the product through FDA safety evaluations, vowing to bring the drug to market and personally administer it to every American with a depression diagnosis by the end of the week.
+
+Gesturing toward a chalkboard full of illegible calculations and sketches, the team then told reporters that they were “invincible scientific juggernauts” who could “never fail, ever.”
+
+“We’re going to raise so much money for this cure. We’re going to raise tons of money! When everyone sees what we’re on to, they’ll want to give us thousands—no, billions of dollars,” geneticist Keith Dunbar said in a near shout, while holding his quivering balled-up fists at chest-level. “Of course they will. We’re moments away from eliminating depression forever! We’ll probably even have time to make some headway on that schizophrenia MRI study that’s been sitting on the back burner. Oh, and plus the literature review I’ve been meaning to do—I can fire that off in an hour. Then there’s Deborah’s chimp experiment, and I can write up that bilateral lesion study from September!”
+
+“Actually, you know what? I’m going to go do that now,” he added before briskly striding off the podium.
+
+As of press time, however, each of the scientists had reportedly slumped to the ground in tears, saying all the research they had ever done was “completely worthless” and admitting that clinical depression is likely impossible to cure.
+
+import footer.scroll
