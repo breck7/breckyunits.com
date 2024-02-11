@@ -1,0 +1,23 @@
+import header.scroll
+title Beliefs
+date 2/11/2024
+
+import mediumColumns.scroll
+
+What does it mean to say a person believes _X_, where _X_ is a series of words?
+ dateline
+
+endSnippet
+
+This means that the person's brain has a neural weight wiring that not only can generate the phrase _X_ and synonyms of _X_, but the wiring is strong enough to guide their actions. Those actions might include not only motor actions, but internal trainings of other neural wirings.
+
+However, just because a person is said to believe _X_, does not mean their actions will always adhere to the policy of _X_. That is because of brain pilot switching. The probability that any neural wiring will always be active and in control is always less than 1.
+ link brain-pilots.html brain pilot switching
+
+The strength of a belief is how often that neural wiring is active and guiding behavior and also a function of the number of other possible brain pilots in the population.
+
+It seems brains can get into states where the threshold for a belief to become a brain pilot decreases, and lots of beliefs get a chance at piloting a brain during a period of rapid brain pilot switching.
+
+For a belief to exist means it had to outcompete other potential beliefs for survival in a resource constrained environment and provide a positive benefit to its host. If a host had the ability to simply erase beliefs instantly, it seems like too many beneficial beliefs would disappear prematurely. So beliefs are hard to erase from a person's neural wirings. However, people could add a new neural wiring _NotX_, that represents the belief that _X_ is not true. They can then reinforce this new neural wiring, and eventually change the probability so that they are far more likely to have the _NotX_ wiring active versus the _X_ wiring.
+
+import indexFooter.scroll
