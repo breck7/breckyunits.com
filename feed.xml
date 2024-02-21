@@ -4,8 +4,13 @@
  <title>Breck Yunits' Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Thu, 15 Feb 2024 03:15:13 +0000</lastBuildDate>
+ <lastBuildDate>Wed, 21 Feb 2024 01:07:45 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+  <title>The Brain Pilot Model of Bipolar Disorder</title>
+  <link>https://breckyunits.com/brainPilotModelOfBipolarDisorder.html</link>
+  <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+ </item>
  <item>
   <title>Why do we subsidize fiction?</title>
   <link>https://breckyunits.com/whyDoWeSubsidizeFiction.html</link>
@@ -155,11 +160,6 @@
   <title>My LongBets.org prediction on cancer</title>
   <link>https://breckyunits.com/longnow-censorship.html</link>
   <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Austen Heinz</title>
-  <link>https://breckyunits.com/austen.html</link>
-  <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
  </item>
  <item>
   <title>Training a neural network to spot misinformation and fake news from a single image</title>
