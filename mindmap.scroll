@@ -1,0 +1,26 @@
+import header.scroll
+title A Different Kind of Mindmap
+startColumns 2
+date 2/24/2024
+
+In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
+ dateline
+
+image mindmap.png
+ caption The ugly prototype I made at a hackathon in 2023 to explore this idea.
+
+endSnippet
+
+I'm a big fan of Minsky's conceptual model of the mind as a society of agents. A collection of neurons wire together in a certain way to form low level and higher level "agents". You have "agents" for everything you've learned: walking, crawling, standing, hugging, riding a bike, driving, slicing vegetables, chopping wood, reciting the capitals of countries, computing derivatives, et cetera. (You have lower level agents as well, but I'll leave those out in this post). A human brain might contain millions of "agents". Technology is a long way away from being able to scan a brain and map out where every agent is located. However, I wondered if technology was close to being able to at least list all the agents in someone's brain? How close are we to being able to make a map of someone's mind, identifying the "agents" in their mind along with the "strength" of those agents?
+ link marvin-minsky.html Minsky's conceptual model of the mind
+
+Last year I was at a hackathon and had about 10 hours to make something utilizing AI, so that's what I tried to do.
+
+I explained the concept to an OpenAI API and asked it to generate a taxonomy of agents. It gave me a large list of possible agents such as WritingAgent, MusicalAgent, and PetOwnershipAgent. Then I fed it a large body of my writing and asked it to give it a score to estimate if that agent was present in my mind and how strong it was.
+
+I got promising results on my very first run, and it is easy to envision how this would scale by expanding the agent list, adding multi-modal data, et cetera.
+
+I was in my twenties when I first learned the simple writing technique of "mind mapping". I think in the future there might be a new use of that phrase. AIs will be able to create a mindmap of a person's mind near instantly, when given access to their data. Eventually that could combine with brain scans to be able to correctly identify the 3D spatial positioning of neural agents, but well before that we may have an interesting new kind of brain visualization that is far more extensive than a resume or personality test.
+ link wiwmin.png learned
+
+import indexFooter.scroll
