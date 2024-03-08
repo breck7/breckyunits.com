@@ -332,6 +332,81 @@ h4.scrollQuestion {
 </div>
 <div class="scrollColumns" style="column-width:35ch;column-count:2;max-width:90ch;">
 <div class="scrollColumns" style="column-width:35ch;"><div class="scrollSnippetContainer"><style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
+<div class="scrollSection"><h1 class="scrollTitle"><a href="openMindedness.html">Open-Mindedness</a></h1>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">March 8, 2024 — </span>What is open-mindedness, from first principles? Here are some musings.</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.css" integrity="sha384-mXD7x5S50Ko38scHSnD4egvoExgMPbrseZorkbE49evAfv9nNcbrXJ8LLNsDgh9d" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.js" integrity="sha384-j/ZricySXBnNMJy9meJCtyXTKMhIJ42heyr7oAdxTDBy/CYA9hzpMo+YTNV5C+1X" crossorigin="anonymous"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".scrollKatex").forEach(el =>
+ {
+  katex.render(el.innerText, el, {
+      throwOnError: false
+  });
+ }
+))
+</script>
+
+<div class="scrollKatex" id="1"></div>
+<style>.scrollKatex {text-align: center;}</style>
+<div class="scrollSection"><h1 class="scrollParagraph">A Brief Formal Discussion</h1>
+<p class="scrollParagraph">First I state the obvious, that open-mindedness, <span  class="scrollKatex">OM</span>, is a measure of a mind, <span  class="scrollKatex">M</span>. I will assume <span  class="scrollKatex">M</span> can be modeled as <a href="marvin-minsky.html">a society of agents</a>, <span  class="scrollKatex">A</span>, each occupying some neural space <span  class="scrollKatex">N</span>. The formation of new <span  class="scrollKatex">A</span> in space <span  class="scrollKatex">N</span> is done by learning process <span  class="scrollKatex">L</span>. Some <span  class="scrollKatex">A</span> can act as learning control agents and can act, with discretion, to block the <span  class="scrollKatex">M</span> from learning new agents.</p>
+</div>
+<p class="scrollParagraph">The rest of this essay I'll spell out the full terms but stick to the list of concepts above.</p>
+<div class="scrollSection"><h1 class="scrollParagraph">Open-mindedness vs Closed-mindedness</h1>
+<p class="scrollParagraph">A mind can be in various levels of open-mindedness both globally and locally.</p>
+</div>
+<p class="scrollParagraph">With Artificial Neural Networks (ANNs) the current paradigm is to be <em>open-minded</em> during training and then <em>closed-minded</em> during inference (learning is stopped). In ANNs the open-mindedness state is generally global, whereas in biological neural networks it seems to almost always be in a mixed combination with both global and local levels of open-mindedness. I expect in the future engineers will get better at making ANNs that are able to keep certain areas open-minded.</p>
+<div class="scrollSection"><h1 class="scrollParagraph">Benefits of Open-Mindedness</h1>
+<p class="scrollParagraph">A mind capable of developing new agents can build teams of cooperative agents capable of better exploiting the organism's environment. Also, a mind capable of developing new agents can replace under-performing agents with better ones.</p>
+</div>
+<p class="scrollParagraph">Beyond this, I will take it as an assumption that open-mindedness is beneficial by default<a href="#note1" class="scrollNoteLink" id="noteUsage1"><sup>1</sup></a>.</p>
+<div class="scrollSection"><h1 class="scrollParagraph">Costs of Open-Mindedness</h1>
+<p class="scrollParagraph">Unfortunately time and resources are scarce and open-mindedness has costs.</p>
+</div>
+<div class="scrollSection"><h2 class="scrollParagraph">1. Energy Costs</h2>
+<p class="scrollParagraph">There are metabolic energy costs to developing new agents. There are also opportunity costs as investing time and energy into developing any specific agent comes at the cost of not developing other possible agents.</p>
+</div>
+<div class="scrollSection"><h2 class="scrollParagraph">2. Vulnerability Costs</h2>
+<p class="scrollParagraph">If an organism is open-minded and engages in learning it often involves making mistakes visible to other organisms. In competitive environments, other organisms can exploit this information against the open-minded mind.</p>
+</div>
+<div class="scrollSection"><h2 class="scrollParagraph">3. Internal Competition for Neural Resources</h2>
+<p class="scrollParagraph">It is possible that neural agents themselves are entities in a game of survival (like species, individuals, and genes), competing against other neural agents in the same mind, and so open-mindedness poses a threat to existing agents.</p>
+</div>
+<div class="scrollSection"><h3 class="scrollParagraph">3a. More "Mouths" to Feed</h3>
+<p class="scrollParagraph">It could be that each agent has a metabolic power draw greater than undeveloped neural material, against a relatively fixed power supply, and so adding new agents decreases the power supply to existing agents.</p>
+</div>
+<p class="scrollParagraph">It could be that the supply of neural "materials" is largely fixed and to build themselves new agents must literally take materials from existing agents (such as molecules for axons and dendrites).</p>
+<p class="scrollParagraph">These costs would make existing agents opposed to new agents globally by default. It could be that in the beginning when unused neural materials are high, it is advantageous to be globally open-minded. Once agents have claimed a lot of space, the downsides of open-mindedness increase.</p>
+<div class="scrollSection"><h3 class="scrollParagraph">3b. Internal Neural Warfare Between Opposing Agents</h3>
+<p class="scrollParagraph">Each agent has a functional territory over which it reigns. When a mind encounters problems related to that territory the problem is routed to the appropriate agent. An agent may only get energy if it is used. Without receiving any energy, an agent may die. It seems like it would be evolutionarily advantageous for agents to develop defense mechanisms that can discourage open-mindedness in areas related to its territory.</p>
+</div>
+<p class="scrollParagraph">Hence, an agent might want open-mindedness in areas orthogonal to its own, but push for closed-mindedness in its specialization.</p>
+<p class="scrollParagraph">It also seems that alliances among factions of agents may form. If one agent resists a superior newcomer in its territory the rest of the mind would be worse off, so other agents might fight the agent promoting closed-mindedness.</p>
+<div class="scrollSection"><h1 class="scrollParagraph">Survival of the Stubborn Gene</h1>
+<p class="scrollParagraph">A stubborn strategy could often payoff. Imagine a mind has a 33% chance of surviving a choice. A closed mind will act fast and make a mistake 67% of the time. An open mind might spend significant time and resources and make the incorrect choice only 10% of the time. However, the open-minded survivor might be wrongly smug, as they wouldn't observe that 80% of the time they failed to make a choice at all, and if they could have observed the global <a href="the-many-worlds-law.html">multiverse</a> they would have realized their open-minded strategy actually only survived 10% of the time, versus the closed-minded's 33%.</p>
+</div>
+<div class="scrollSection"><h1 class="scrollParagraph">Honesty</h1>
+<p class="scrollParagraph">It is easier for a mind to be open-minded to opposing ideas in a domain where there are few existing neural agents. It is harder to be open-minded in a domain with strongly established neural agents. Honesty requires being open to developing neural agents in opposition to existing agents in order to make a genuine judgement about which is better. Honesty can be hard because it sometimes involves not just superficially steel-manning an opposing idea, but being genuinely open-minded to letting that opposing idea take over a domain from existing agents, if it turns out to be a better idea after all.</p>
+</div>
+<div class="scrollSection"><h1 class="scrollParagraph">Conclusions</h1>
+<p class="scrollParagraph">As I said in the beginning, these are mostly musings at the moment. I have many more questions than answers, including the questions below.</p>
+</div>
+<ul ><li >Is there such a thing as "blank" neurons?</li>
+<li >If so, do "blank" neurons have a lower power draw?</li>
+<li >If it exists, what would the "weapons" be in internal neural warfare? How do neural agents fight each other/fight learning?</li>
+<li >Are there substances that increase global open-mindedness states? Decrease? What about local effects?</li>
+<li >Would it be good practice to regularly (annually, perhaps) take such substances?</li>
+<li >Are there patterns in what kinds of ideas people are open/closed minded about?</li></ul>
+<hr>
+<div class="scrollSection"><h1 class="scrollParagraph">Notes</h1>
+<p  id="note1"class="scrollParagraph">1 Philosophically by some measures you could argue that having a mind is not clearly advantageous to <em>objects</em> in general. For example, organisms with minds make up a small percentage of the biomass on earth. Or you could say that some rocks last billions of years, whereas minds are gone much faster than that. <a class="scrollFootNoteUsageLink" href="#noteUsage1">⮐</a></p>
+</div><p class="scrollViewSource">
+ <a href="https://github.com/breck7/breckyunits.com/blob/main/openMindedness.scroll">View source</a>
+</p>
+</div>
+
+<div class="scrollSnippetContainer"><style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
 <div class="scrollSection"><h1 class="scrollTitle"><a href="mindmap.html">A Different Kind of Mindmap</a></h1>
 </div>
 <p class="scrollParagraph"><span class="scrollDateline">February 24, 2024 — </span>In the near future AI will be able to generate an <em>extensive</em> list and rating of all of the skills in someone's brain.</p>
@@ -1353,19 +1428,7 @@ h4.scrollQuestion {
 <p class="scrollParagraph">The challenges would be building a great Specification Language for diverse groups in the face of a small minority disproportionately benefiting from the status quo. A mathematical objective function such as optimizing for minimal syntax could be a long-term guide to consensus.</p>
 <p class="scrollParagraph">If this infrastructure were built it should enable the construction of higher level tools to make governments work better for their citizens. It could be the dawn of a Golden Age of forms.</p>
 <p class="scrollParagraph">I hope by publishing these ideas others might be encouraged to start developing these systems. I am hoping readers might alert me to locations where this kind of system is already in place. I am also keenly interested in mathematical arguments why this system should not exist universally.</p>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.css" integrity="sha384-mXD7x5S50Ko38scHSnD4egvoExgMPbrseZorkbE49evAfv9nNcbrXJ8LLNsDgh9d" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.6/dist/katex.min.js" integrity="sha384-j/ZricySXBnNMJy9meJCtyXTKMhIJ42heyr7oAdxTDBy/CYA9hzpMo+YTNV5C+1X" crossorigin="anonymous"></script>
-<script>
-document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".scrollKatex").forEach(el =>
- {
-  katex.render(el.innerText, el, {
-      throwOnError: false
-  });
- }
-))
-</script>
-
-<div class="scrollKatex" id="1"></div><p class="scrollViewSource">
+<div class="scrollKatex" id="2"></div><p class="scrollViewSource">
  <a href="https://github.com/breck7/breckyunits.com/blob/main/a-proposal-on-government-forms.scroll">View source</a>
 </p>
 </div>
@@ -1375,7 +1438,7 @@ document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".
 </div>
 <p class="scrollParagraph"><span class="scrollDateline">June 13, 2023 — </span>I often write about the <a href="if-stories-are-lies-why-do-they-work.html">unreliability of narratives</a>. It is even worse than I thought. Trying to write a narrative of one's own life in the traditional way is impossible. I am writing a narrative of my past year and realized while there is a single thread about <strong>where</strong> my body was and <strong>what</strong> I was doing there are <em>multiple</em> independent threads explaining the <strong>why</strong>.</p>
 <p class="scrollParagraph">Luckily I now know this is what the science predicts! Specifically, Marvin Minsky's <a href="marvin-minsky.html">Society of Mind model</a>.</p>
-<div class="scrollKatex" id="2"></div>
+<div class="scrollKatex" id="3"></div>
 <div class="scrollSection"><h1 class="scrollParagraph">The Model</h1>
 <p class="scrollParagraph">You have a body <span  class="scrollKatex">B</span> and mind <span  class="scrollKatex">M</span> and inside your mind are a number of <em>neural agents</em> running simultaneously: <span  class="scrollKatex">M = \set{A_1, \mathellipsis, A_n}</span>. Let's say each agent has an activation energy and at any one moment the agent with the most activation energy gets to drive what your body <span  class="scrollKatex">B</span> does. It is very easy to see what your body does. But figuring out the why is harder, because we don't get to see which <span  class="scrollKatex">A_i</span> is in charge.</p>
 </div>
@@ -1433,219 +1496,219 @@ document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".
 <div class="scrollByLine">by <a href="https://breckyunits.com">Breck Yunits</a></div>
 </div>
 <p class="scrollParagraph"><span class="scrollDateline">May 26, 2023 — </span>What is copyright, from first principles? This essay introduces a mathematical model of a <strong>world with ideas</strong>, then adds a <strong>copyright system</strong> to that model, and finally analyzes the <strong>predicted effects</strong> of that system.</p>
-<div class="scrollKatex" id="3"></div>
+<div class="scrollKatex" id="4"></div>
 <style>.scrollKatex {text-align: center;}</style>
 <br>
 <div class="scrollSection"><h1 class="scrollParagraph">Part 1: The world</h1>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">The world</h3>
-<div class="scrollKatex" id="4">W</div>
+<div class="scrollKatex" id="5">W</div>
 <p class="scrollParagraph">The world <span  class="scrollKatex">W</span> contains observers who can make point-in-time observations <span  class="scrollKatex">O_t</span><a href="#note1" class="scrollNoteLink" id="noteUsage1"><sup>1</sup></a> of <span  class="scrollKatex">W</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Ideas</h3>
-<div class="scrollKatex" id="5">I: f(O_{t_1}, t_\Delta) → O_{{t_1}+{t_\Delta}}</div>
+<div class="scrollKatex" id="6">I: f(O_{t_1}, t_\Delta) → O_{{t_1}+{t_\Delta}}</div>
 <p class="scrollParagraph">An idea <span  class="scrollKatex">I</span> is a function that given input observations at time <span  class="scrollKatex">t_1</span> can generate expected observations at time <span  class="scrollKatex">{t_1}+{t_\Delta}</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Thinkers</h3>
-<div class="scrollKatex" id="6">T</div>
+<div class="scrollKatex" id="7">T</div>
 <p class="scrollParagraph">A thinker<a href="#note2" class="scrollNoteLink" id="noteUsage2"><sup>2</sup></a> <span  class="scrollKatex">T</span> can store ideas <span  class="scrollKatex">I</span> in <span  class="scrollKatex">T</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Skillsets</h3>
-<div class="scrollKatex" id="7">S</div>
+<div class="scrollKatex" id="8">S</div>
 <p class="scrollParagraph">A skillset <span  class="scrollKatex">S</span> is the set of <span  class="scrollKatex">\set{I_i, \mathellipsis, I_n}</span> embedded in <span  class="scrollKatex">T</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Idea Creation</h3>
-<div class="scrollKatex" id="8">\alpha: f(S, O, t) → I_{new}</div>
+<div class="scrollKatex" id="9">\alpha: f(S, O, t) → I_{new}</div>
 <p class="scrollParagraph">A thinker can generate a new idea <span  class="scrollKatex">I_{new}</span> from its current skillset <span  class="scrollKatex">S</span> and new observations <span  class="scrollKatex">O</span> in time <span  class="scrollKatex">t</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Value</h3>
-<div class="scrollKatex" id="9">V: f(I, O_{predictions}, O_{actual}) → \sum{(O_{actual} - O_{prediction})}^2</div>
+<div class="scrollKatex" id="10">V: f(I, O_{predictions}, O_{actual}) → \sum{(O_{actual} - O_{prediction})}^2</div>
 <p class="scrollParagraph">An idea <span  class="scrollKatex">I</span> can be valued by a function <span  class="scrollKatex">V</span> which measures the accuracy of all of the predictions produced by the idea <span  class="scrollKatex">O_{{t_1}+{t_2}}</span> against the actual observations of the world <span  class="scrollKatex">W</span> at time <span  class="scrollKatex">{}_{{t_1}+{t_2}}</span>. Idea <span  class="scrollKatex">I_i</span> is more valuable than idea <span  class="scrollKatex">I_j</span> if it produces more accurate observations holding the size of <span  class="scrollKatex">|I|</span> constant.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Fictions</h3>
-<div class="scrollKatex" id="10">F</div>
+<div class="scrollKatex" id="11">F</div>
 <p class="scrollParagraph">A fiction<a href="#note3" class="scrollNoteLink" id="noteUsage3"><sup>3</sup></a> <span  class="scrollKatex">F</span> is an <span  class="scrollKatex">I</span> that does not accurately model <span  class="scrollKatex">W</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Messages</h3>
-<div class="scrollKatex" id="11">M</div>
+<div class="scrollKatex" id="12">M</div>
 <p class="scrollParagraph">Thinkers can communicate <span  class="scrollKatex">I</span> to other thinkers by encoding <span  class="scrollKatex">I</span> into messages <span  class="scrollKatex">M_I</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Signal</h3>
-<div class="scrollKatex" id="12">\Omega: \frac{\sum{V(I)}}{|M|}</div>
+<div class="scrollKatex" id="13">\Omega: \frac{\sum{V(I)}}{|M|}</div>
 <p class="scrollParagraph">The Signal <span  class="scrollKatex">\Omega</span> of a message is the value of its ideas divided by the size of the message.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Fashions</h3>
-<div class="scrollKatex" id="13">Z</div>
+<div class="scrollKatex" id="14">Z</div>
 <p class="scrollParagraph">A fashion <span  class="scrollKatex">Z_{M_I}</span> is a different encoding of the same idea <span  class="scrollKatex">I</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Teachers</h3>
-<div class="scrollKatex" id="14">\tau</div>
+<div class="scrollKatex" id="15">\tau</div>
 <p class="scrollParagraph">A teacher is a <span  class="scrollKatex">T</span> who communicates messages <span  class="scrollKatex">M</span> to other <span  class="scrollKatex">T</span>. A thinker <span  class="scrollKatex">T</span> has access to a supply of teachers <span  class="scrollKatex">\tau</span> within geographic radius <span  class="scrollKatex">r</span> so that <span  class="scrollKatex">\tau = \set{T|T < r}</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Learning</h3>
-<div class="scrollKatex" id="15">L: f(M_I, T) → T^\prime</div>
+<div class="scrollKatex" id="16">L: f(M_I, T) → T^\prime</div>
 <p class="scrollParagraph">The learning function <span  class="scrollKatex">L</span> applies <span  class="scrollKatex">M_I</span> to <span  class="scrollKatex">T</span> to produce <span  class="scrollKatex">T^\prime</span> containing some memorization of the message <span  class="scrollKatex">M_I</span> and some learning of the idea <span  class="scrollKatex">I</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Objectives</h3>
-<div class="scrollKatex" id="16">B</div>
+<div class="scrollKatex" id="17">B</div>
 <p class="scrollParagraph">A thinker <span  class="scrollKatex">T</span> has a set of objectives <span  class="scrollKatex">B_T</span> that they can maximize using their skillset <span  class="scrollKatex">S_T</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Technologies</h3>
-<div class="scrollKatex" id="17">X</div>
+<div class="scrollKatex" id="18">X</div>
 <p class="scrollParagraph"><span  class="scrollKatex">T</span> can use their skillset <span  class="scrollKatex">S</span> to modify the world to contain technologies <span  class="scrollKatex">X</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Technology Creation</h3>
-<div class="scrollKatex" id="18">\Pi: f(\set{T},\set{X}, t) → X_{new}</div>
+<div class="scrollKatex" id="19">\Pi: f(\set{T},\set{X}, t) → X_{new}</div>
 <p class="scrollParagraph">Technology creation is a function that takes a set of thinkers and a set of existing technologies as input to produce a new technology <span  class="scrollKatex">X_{new}</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Artifacts</h3>
-<div class="scrollKatex" id="19">A</div>
+<div class="scrollKatex" id="20">A</div>
 <p class="scrollParagraph">With <span  class="scrollKatex">X</span> <span  class="scrollKatex">M_I</span> can be encoded to a kind of <span  class="scrollKatex">X</span> called an artifact <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Creators</h3>
-<div class="scrollKatex" id="20">\chi</div>
+<div class="scrollKatex" id="21">\chi</div>
 <p class="scrollParagraph">A creator <span  class="scrollKatex">\chi</span> is a <span  class="scrollKatex">T</span> who produces <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Outliers</h3>
-<div class="scrollKatex" id="21">\sigma</div>
+<div class="scrollKatex" id="22">\sigma</div>
 <p class="scrollParagraph">An outlier <span  class="scrollKatex">\sigma</span> is a <span  class="scrollKatex">\chi</span> who produces exceptionally high quality <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Copies</h3>
-<div class="scrollKatex" id="22">K</div>
+<div class="scrollKatex" id="23">K</div>
 <p class="scrollParagraph">A copy <span  class="scrollKatex">K_A</span> is an artifact that contains the same <span  class="scrollKatex">M</span> as <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Derivatives</h3>
-<div class="scrollKatex" id="23">A^{\prime}</div>
+<div class="scrollKatex" id="24">A^{\prime}</div>
 <p class="scrollParagraph">A derivative <span  class="scrollKatex">A^{\prime}</span> is an artifact updated by a <span  class="scrollKatex">\chi</span> to better serve the objectives <span  class="scrollKatex">B</span> of <span  class="scrollKatex">\chi</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Libraries</h3>
-<div class="scrollKatex" id="24">J</div>
+<div class="scrollKatex" id="25">J</div>
 <p class="scrollParagraph">A library <span  class="scrollKatex">J</span> is a collection of <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Attention</h3>
-<div class="scrollKatex" id="25">N</div>
+<div class="scrollKatex" id="26">N</div>
 <p class="scrollParagraph">Thinkers <span  class="scrollKatex">T</span> have a finite amount of attention <span  class="scrollKatex">N</span> to process messages <span  class="scrollKatex">M</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Distribution</h3>
-<div class="scrollKatex" id="26">D: f(A_o, T_o) → A_{T_o}</div>
+<div class="scrollKatex" id="27">D: f(A_o, T_o) → A_{T_o}</div>
 <p class="scrollParagraph">Distribution is a function that takes artifact <span  class="scrollKatex">A</span> at location <span  class="scrollKatex">o</span> and moves it to the thinker's location <span  class="scrollKatex">T_o</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Publishers</h3>
-<div class="scrollKatex" id="27">Q</div>
+<div class="scrollKatex" id="28">Q</div>
 <p class="scrollParagraph">A publisher is a set of <span  class="scrollKatex">T</span> specializing in production of <span  class="scrollKatex">A</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Censors</h3>
-<div class="scrollKatex" id="28">U: U(D)</div>
+<div class="scrollKatex" id="29">U: U(D)</div>
 <p class="scrollParagraph">A censor is a function that wraps the distribution function and may prevent an <span  class="scrollKatex">A</span> from being distributed. </p>
 </div>
 <br>
 <div class="scrollSection"><h1 class="scrollParagraph">Part 2: Adding copyright to the model</h1>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Masters</h3>
-<div class="scrollKatex" id="29">\Psi</div>
+<div class="scrollKatex" id="30">\Psi</div>
 <p class="scrollParagraph">A master <span  class="scrollKatex">\Psi</span> is now legally assigned to each artifact for duration <span  class="scrollKatex">d</span> so <span  class="scrollKatex">A</span> becomes <span  class="scrollKatex">A^{\Psi}</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Royalties</h3>
-<div class="scrollKatex" id="30">R</div>
+<div class="scrollKatex" id="31">R</div>
 <p class="scrollParagraph">A royalty <span  class="scrollKatex">R</span> is a payment from <span  class="scrollKatex">T</span> to <span  class="scrollKatex">\Psi</span> for a permission on <span  class="scrollKatex">A^\Psi</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Permission Function</h3>
-<div class="scrollKatex" id="31">P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d</div>
+<div class="scrollKatex" id="32">P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d</div>
 <p class="scrollParagraph">For every <span  class="scrollKatex">A^\Psi</span> used in <span  class="scrollKatex">\Pi</span> a permission function <span  class="scrollKatex">P</span> must be called and resolve to <span  class="scrollKatex">>-1</span> and royalties of <span  class="scrollKatex">\sum{R_{A^\Psi}}</span> must be paid. If any call to <span  class="scrollKatex">P</span> returns <span  class="scrollKatex">-1</span> the creation function <span  class="scrollKatex">\Pi</span> fails. If a <span  class="scrollKatex">P</span> has not resolved for <span  class="scrollKatex">A^{\Psi}</span> in time <span  class="scrollKatex">d</span> it resolves to 0.<a href="#note4" class="scrollNoteLink" id="noteUsage4"><sup>4</sup></a> <span  class="scrollKatex">P</span> always resolves with an amount of uncertainty <span  class="scrollKatex">\theta</span> that the <span  class="scrollKatex">\Psi</span> is actually the legally correct <span  class="scrollKatex">A^\Psi</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Classes</h3>
-<div class="scrollKatex" id="32">T = \begin{cases}
+<div class="scrollKatex" id="33">T = \begin{cases}
   T_{R+} &\text{if } R_{in} - R_{out} > 0 \\
   T_{R-} &\text{if } R_{in} - R_{out} \leq 0
  \end{cases}</div>
 <p class="scrollParagraph">The Royal Class <span  class="scrollKatex">T_{R+}</span> is the set of <span  class="scrollKatex">T</span> who receive more <span  class="scrollKatex">R</span> than they spend. Each member of the Non-Royal Class <span  class="scrollKatex">T_{R-}</span> pays more in <span  class="scrollKatex">R</span> than they receive.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Public Domain</h3>
-<div class="scrollKatex" id="33">A^0</div>
+<div class="scrollKatex" id="34">A^0</div>
 <p class="scrollParagraph">A public domain artifact <span  class="scrollKatex">A^0</span> is an artifact claimed to have no <span  class="scrollKatex">\Psi</span> or an expired <span  class="scrollKatex">d</span>. The <span  class="scrollKatex">P</span> function still must be applied to all <span  class="scrollKatex">A^0</span> and the uncertainty term <span  class="scrollKatex">\theta</span> still exists for all <span  class="scrollKatex">A^0</span>.</p>
 </div>
 <div class="scrollSection"><h3 class="scrollParagraph">Advertising</h3>
-<div class="scrollKatex" id="34">\varLambda: f(A_i, A_j^\Psi) → A_{ij}</div>
+<div class="scrollKatex" id="35">\varLambda: f(A_i, A_j^\Psi) → A_{ij}</div>
 <p class="scrollParagraph">Advertising is a function <span  class="scrollKatex">\varLambda</span> that takes an <span  class="scrollKatex">A</span> and combines it with an orthogonal artifact <span  class="scrollKatex">A_j^\Psi</span> that serves <span  class="scrollKatex">B_\Psi</span>.</p>
 </div>
 <br>
 <div class="scrollSection"><h1 class="scrollParagraph">Part 3: Predicted effects of copyright</h1>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on Z</h2>
-<div class="scrollKatex" id="35">\Uparrow {Z \over I}</div>
+<div class="scrollKatex" id="36">\Uparrow {Z \over I}</div>
 <p class="scrollParagraph">We should expect the ratio of Fashions <span  class="scrollKatex">Z</span> to Ideas <span  class="scrollKatex">I</span> to significantly increase since there are countless <span  class="scrollKatex">M</span> that can encode <span  class="scrollKatex">I</span> and each unique <span  class="scrollKatex">M</span> can be encoded into an <span  class="scrollKatex">A^\Psi</span> that can generate <span  class="scrollKatex">R</span> for <span  class="scrollKatex">\Psi</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on F</h2>
-<div class="scrollKatex" id="36">\Uparrow F</div>
+<div class="scrollKatex" id="37">\Uparrow F</div>
 <p class="scrollParagraph">We should expect the number of Fictions <span  class="scrollKatex">F</span> to increase since <span  class="scrollKatex">R</span> are required regardless if the <span  class="scrollKatex">M</span> encoded by <span  class="scrollKatex">A</span> accurately predicts the world or not. <span  class="scrollKatex">\Psi</span> are incentivized to create <span  class="scrollKatex">A</span> encoding <span  class="scrollKatex">F</span> that convince <span  class="scrollKatex">T</span> to overvalue <span  class="scrollKatex">A^\Psi</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">\varLambda</span></h2>
-<div class="scrollKatex" id="37">\Uparrow \varLambda</div>
+<div class="scrollKatex" id="38">\Uparrow \varLambda</div>
 <p class="scrollParagraph">We should expect a significant increase in the amount of advertising <span  class="scrollKatex">\varLambda</span> as <span  class="scrollKatex">\chi</span> are prevented from generating <span  class="scrollKatex">A^{\prime}</span> with ads removed.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">|M|</span></h2>
-<div class="scrollKatex" id="38">\Uparrow |M|</div>
+<div class="scrollKatex" id="39">\Uparrow |M|</div>
 <p class="scrollParagraph">We should expected the average message size <span  class="scrollKatex">|M|</span> to increase because doing so increases <span  class="scrollKatex">R</span> by decreasing <span  class="scrollKatex">\theta</span> and increasing <span  class="scrollKatex">A^\Psi</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">\Omega</span></h2>
-<div class="scrollKatex" id="39">\Downarrow \Omega</div>
+<div class="scrollKatex" id="40">\Downarrow \Omega</div>
 <p class="scrollParagraph">We should expect the average signal <span  class="scrollKatex">\overline{\Omega}</span> of messages to decrease.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on K</h2>
-<div class="scrollKatex" id="40">\Uparrow {K \over I_{new}}</div>
+<div class="scrollKatex" id="41">\Uparrow {K \over I_{new}}</div>
 <p class="scrollParagraph">We should expect the ratio of number of copies <span  class="scrollKatex">K</span> to new ideas <span  class="scrollKatex">I_{new}</span> to increase since the cost of creating a new idea <span  class="scrollKatex">α</span> is greater than the cost of creating a copy <span  class="scrollKatex">K</span> and royalties are earned from <span  class="scrollKatex">A</span> not <span  class="scrollKatex">I</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">\Pi</span></h2>
-<div class="scrollKatex" id="41">\Downarrow \Pi</div>
+<div class="scrollKatex" id="42">\Downarrow \Pi</div>
 <p class="scrollParagraph">We should expect the speed of new artifact creation to slow because of the introduction of Permission Functions <span  class="scrollKatex">P</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on J</h2>
-<div class="scrollKatex" id="42">\Uparrow {{Z + F + K} \over I}</div>
+<div class="scrollKatex" id="43">\Uparrow {{Z + F + K} \over I}</div>
 <p class="scrollParagraph">We should expect libraries to contain an increasing amount of fashions <span  class="scrollKatex">Z</span>, fictions <span  class="scrollKatex">F</span>, and copies <span  class="scrollKatex">K</span> relative to distinct ideas <span  class="scrollKatex">I</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on S</h2>
-<div class="scrollKatex" id="43">\Downarrow S</div>
+<div class="scrollKatex" id="44">\Downarrow S</div>
 <p class="scrollParagraph">We should expect a decrease in the average thinker's skillset <span  class="scrollKatex">\overline{S}</span> as more of a thinker's <span  class="scrollKatex">N</span> is used up by <span  class="scrollKatex">Z, F, K</span> and less goes to learning distinct <span  class="scrollKatex">I</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">I^\prime</span></h2>
-<div class="scrollKatex" id="44">\Downarrow I^\prime</div>
+<div class="scrollKatex" id="45">\Downarrow I^\prime</div>
 <p class="scrollParagraph">We should expect the rate of increase in new ideas to be lower due to the decrease in <span  class="scrollKatex">\overline{S}</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on Classes</h2>
-<div class="scrollKatex" id="45">f^{\prime}(R, T_{R+}) > 0</div>
-<div class="scrollKatex" id="46">f^{\prime}(R, T_{R-}) < 0</div>
+<div class="scrollKatex" id="46">f^{\prime}(R, T_{R+}) > 0</div>
+<div class="scrollKatex" id="47">f^{\prime}(R, T_{R-}) < 0</div>
 <p class="scrollParagraph">We should expect the Royal Class <span  class="scrollKatex">T_{R+}</span> to receive an increasing share of all royalties <span  class="scrollKatex">R</span> as surplus <span  class="scrollKatex">R</span> is used to obtain more <span  class="scrollKatex">R</span> streams.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">\sigma</span></h2>
-<div class="scrollKatex" id="47">\sigma → T_{R+} > 0</div>
+<div class="scrollKatex" id="48">\sigma → T_{R+} > 0</div>
 <p class="scrollParagraph">We should expect a small number of outlier creators to move from <span  class="scrollKatex">T_{R-}</span> to <span  class="scrollKatex">T_{R+}</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">A^0</span></h2>
-<div class="scrollKatex" id="48">\Downarrow {{A^0} \over A^\Psi}</div>
+<div class="scrollKatex" id="49">\Downarrow {{A^0} \over A^\Psi}</div>
 <p class="scrollParagraph">We should expect a decrease in the amount of <span  class="scrollKatex">A^0</span> relative to <span  class="scrollKatex">A^\Psi</span> as <span  class="scrollKatex">T_{R+}</span> will be incentivized to eradicate <span  class="scrollKatex">A^0</span> that serve as substitutes for <span  class="scrollKatex">A^\Psi</span>. In addition, the cost to <span  class="scrollKatex">T</span> of using any <span  class="scrollKatex">A^0</span> goes up relative to before because of the uncertainty term <span  class="scrollKatex">\theta</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">A^{\prime}</span></h2>
-<div class="scrollKatex" id="49">\Downarrow A^{\prime}</div>
+<div class="scrollKatex" id="50">\Downarrow A^{\prime}</div>
 <p class="scrollParagraph">We should expect the number of <span  class="scrollKatex">A^{\prime}</span> to fall sharply due to the addition of the Permission Functions <span  class="scrollKatex">P</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on B</h2>
-<div class="scrollKatex" id="50">\Uparrow {{B_\Psi} \over {B_T}}</div>
+<div class="scrollKatex" id="51">\Uparrow {{B_\Psi} \over {B_T}}</div>
 <p class="scrollParagraph">We should expect <span  class="scrollKatex">A</span> to increasingly serve the objective functions of <span  class="scrollKatex">\Psi</span> over the objective functions <span  class="scrollKatex">B_T</span>.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on Q</h2>
-<div class="scrollKatex" id="51">\Downarrow Q</div>
+<div class="scrollKatex" id="52">\Downarrow Q</div>
 <p class="scrollParagraph">We should expect the number of Publishers <span  class="scrollKatex">Q</span> to decrease due to the increasing costs of the permission functions and economies of scale to the winners.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on U</h2>
-<div class="scrollKatex" id="52">\Uparrow U</div>
+<div class="scrollKatex" id="53">\Uparrow U</div>
 <p class="scrollParagraph">We should expect censorship to go up to enforce copyright laws. </p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">A_©</span></h2>
-<div class="scrollKatex" id="53">\Uparrow A_©</div>
+<div class="scrollKatex" id="54">\Uparrow A_©</div>
 <p class="scrollParagraph">We should expect the number of <span  class="scrollKatex">A</span> promoting © to increase to train <span  class="scrollKatex">T</span> to support a © system.</p>
 </div>
 <div class="scrollSection"><h2 class="scrollParagraph">Effect on <span  class="scrollKatex">T_{R-}</span></h2>
-<div class="scrollKatex" id="54">\Downarrow T_{R-}</div>
+<div class="scrollKatex" id="55">\Downarrow T_{R-}</div>
 <p class="scrollParagraph">We should expect the Non-Royal Class <span  class="scrollKatex">T_{R-}</span> to pay an increasing amount of <span  class="scrollKatex">R</span>, deal with an increasing amount of noise from <span  class="scrollKatex">{Z + F + K}</span>, and have increasingly lower skillsets <span  class="scrollKatex">\overline{S}</span>.</p>
 </div>
 <br>
@@ -1719,7 +1782,7 @@ document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".
 </div>
 <p class="scrollParagraph">Minsky's view of the mind is one composed of a "<em>society</em> of tiny components that are themselves mindless". A person is a collection of agents, which are like programs and processes. Outputs from some agents may be inputs for others. Mathematically it could be modeled very roughly like this:</p>
 <style>.scrollKatex {text-align: center; margin: 1em;}</style>
-<div class="scrollKatex" id="55">Mind = P_{A_1} \circ P_{A_2} \circ \ldots \circ P_{A_N}</div>
+<div class="scrollKatex" id="56">Mind = P_{A_1} \circ P_{A_2} \circ \ldots \circ P_{A_N}</div>
 <p class="scrollParagraph">Where <em>P</em> represents a running process of an agent and <em>N</em> is the number of agents that constitute a mind/person.</p>
 <p class="scrollParagraph"><em>N</em> might be very large. Minsky says hundreds in his talks, which might actually be a lower bound. If someone formed a new agent everyday, on average, it could be over ten thousand by the age of 30. If it took 1 million neurons to form one "agent" we could have 100,000 agents—the range of possibilities is large. Minsky's ideas are a conceptual framework, and it's up to science to figure out whether the agents model is correct and how many there might be<a href="#note1" class="scrollNoteLink" id="noteUsage1"><sup>1</sup></a>.</p>
 <p class="scrollParagraph">But I don't want to use too much of your time to give you a second hand regurgitation of his ideas.</p>
