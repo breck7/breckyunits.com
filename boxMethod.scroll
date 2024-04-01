@@ -7,7 +7,7 @@ date 2024-3-30
 image boxMethod.jpeg
  caption S = side length of box. P = pattern. t = time. V = voxel side length.
 
-Given a box with side _S_, over a certain timespan _t_, with minimum resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
+Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
  dateline
  // box === cube
 
