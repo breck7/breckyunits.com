@@ -3,6 +3,7 @@ keyboard
 .DS_Store
 *.html
 feed.xml
+posts.csv
 gazette.css
 node_modules
 package-lock.json
