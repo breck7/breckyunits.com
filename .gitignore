@@ -4,6 +4,7 @@ keyboard
 *.html
 feed.xml
 posts.csv
+source.txt
 gazette.css
 node_modules
 package-lock.json
