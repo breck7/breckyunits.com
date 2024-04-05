@@ -12,6 +12,10 @@ I now have a pretty big dataset to identify my secret trick to write more cringe
 
 For this post I used 2,500 nights of sleep data from my FitBit to link my 58 blog posts in the last seven years to how I was sleeping.
 
+image less-sleeping-less-thinking.png
+ caption Interactive version.
+  https://www.datawrapper.de/_/YsKWU/
+
 endSnippet
 
 # Interactive Table
@@ -20,6 +24,8 @@ endSnippet
 
 Caption: The table above (static version) shows how much I slept in the nights before hitting publish on 58 blog posts from 2017-2024. Posts with less sleep are more likely to be shorter, contain logical flaws, scattered, locked-in, overconfident, unkind, aggressive and grandiose. However, they still might contain some valuable thoughts or pivots. And unpublishing them would present a rose colored history of my struggle to better understand the world. Therefore I'm adopting the concept of a "sleep disclaimer", rather than unpublishing them.
  link seven-years-of-blog-posts-sorted-by-sleep.png static version
+
+image sleeping-less-is-slightly-correlated-with-posting-more.png
 
 # More Posts. Similar Word Counts. Higher Scatteredness. Similar IQ. Higher Confidence.
 I actually post slightly more when I sleep less (Pearson correlation coefficient of -.14), but fewer words per post, which is indicative of a more "scattered" thinking state. I was surprised to see that I don't generally generate a whole lot more words in deprived sleep states. I _perceive_ my writing to be smarter during those times, but looking back it's clearly not.
