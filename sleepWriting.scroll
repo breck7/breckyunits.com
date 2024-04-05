@@ -1,0 +1,53 @@
+import header.scroll
+title Seven Years of Blog Posts, Sorted by Sleep
+import mediumColumns.scroll
+date 4/5/2024
+
+If you are a person with high sleep variance, have you ever examined the correlation between your writing behavior and sleep?
+ dateline
+
+I've written some things in my life that make me cringe. I might cringe because I see some past writing was naive, mistaken, locked-in, overconfident, unkind, insensitive, aggressive, or grandiose.
+
+I now have a pretty big dataset to identify my secret trick to write more cringe: less sleep.
+
+For this post I used 2,500 nights of sleep data from my FitBit to link my 58 blog posts in the last seven years to how I was sleeping.
+
+endSnippet
+
+# Interactive Table
+<iframe title="Seven Years of Blog Posts, Sorted By Sleep" aria-label="Table" id="datawrapper-chart-4uyKl" src="https://datawrapper.dwcdn.net/4uyKl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2896" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+Caption: The table above (static version) shows how much I slept in the nights before hitting publish on 58 blog posts from 2017-2024. Posts with less sleep are more likely to be shorter, contain logical flaws, scattered, locked-in, overconfident, unkind, aggressive and grandiose. However, they still might contain some valuable thoughts or pivots. And unpublishing them would present a rose colored history of my struggle to better understand the world. Therefore I'm adopting the concept of a "sleep disclaimer", rather than unpublishing them.
+ link seven-years-of-blog-posts-sorted-by-sleep.png static version
+
+# More Posts. Similar Word Counts. Higher Scatteredness. Similar IQ. Higher Confidence.
+I actually post slightly more when I sleep less (Pearson correlation coefficient of -.14), but fewer words per post, which is indicative of a more "scattered" thinking state. I was surprised to see that I don't generally generate a whole lot more words in deprived sleep states. I _perceive_ my writing to be smarter during those times, but looking back it's clearly not.
+
+# Other Social Media
+Besides this blog, I have long written and posted content to HackerNews, Reddit, other discussion forums, and at times Twitter, Instagram, Facebook, YouTube, and LinkedIn. I haven't done the data grunt work, but if my memory serves me correctly I am confident my publishing behavior on those platforms mirrors the same patterns as my blogging behavior, with regards to sleep.
+
+# Public vs Private Writing
+There have been stretches where I published little publicly but was generating a similar amount of tokens, just in private groups. My writing patterns in private groups also mirrors my patterns on this blog, with regards to sleep.
+
+A sidenote: when I've been lucky to be a part of brainiac organizations (such as Microsoft, YCombinator, Our World in Data, academia, and so on), I go to read so much brilliant writing by people who rarely post publicly, and everytime I think about that I am humbled. There is so much well written content on the public web, and to think it is only a fraction of the great content ever written, is humbling.
+
+# Sleep Disclaimers
+I realize I already have an unofficial "sleep disclaimer" policy. I have de-indexed (but kept published) at least a couple of sleep-deprived posts, and added a disclaimer/correction to at least 2 others. Now with this dataset done I am sure I will append a few more sleep disclaimers. I am happy with my decision to use git for this blog so that I always keep an honest history, while still being free to down weight sleep deprived content and try and keep my better ideas front and center.
+
+With sleep disclaimers, I can say, "hey, might be interesting ideas here, but don't train too heavily on this".
+ // don't train on bad writing. you are what you eat, you write what you read. LLMs train on great writing.
+
+# Benefits of Peer Review
+I don't have a column for it (yet), but it does seem my better posts often were the ones where I took the time to get friends and/or colleagues to review, IRL. Sleep deprived posts I would generally blast out without talking to anyone.
+
+Peer review is a great filter, and a great forcing function to put more effort in.
+
+On the other hand, because the importance of ideas varies by so many orders of magnitude (there are "black swan" ideas), you could make an argument that spending too much time in one area of ideas isn't the optimal strategy, and publishing things as you go, improving them later, is an approach with merit.
+
+# Writing data reflects the current phenomena in your brain
+It seems when I sleep less, my brain is in more of a pleasure seeking state, has a bias to action ("don't think, just do"), and feels less pain than in a more rested state. Less sleep means less critical thinking. Less sleep seems to make me less willing to invest the time in rewiring my brain to correct mistaken thought habits. 
+ // If you want to understand something, the saying is a picture is worth 1,000 words, but if what you want to understand is what is going on in a brain, 1,000 words might be better than a picture.
+
+import indexFooter.scroll
+
