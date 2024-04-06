@@ -2,6 +2,7 @@ import header.scroll
 title You Can't Predict the Future
 
 startColumns 2
+groups All MathematicalThinking Life 
 date 2010-08-25
 
 I've been very surprised to discover how unpredictable the future is. As you try to predict farther out, your error margins grow exponentially bigger until you're "predicting" nothing specific at all.
@@ -31,5 +32,4 @@ What if you have inside information? Should you then be able to make better pred
 # Be Conservative
 My general advice is to be ultra conservative about the future and ultra bullish on the present. Plan and prepare for the worst of days--but without a pessimistic attitude. Enjoy today and make safe investments for tomorrow.
 
-import indexFooter.scroll
-groups MathematicalThinking Life 
+import allFooter.scroll

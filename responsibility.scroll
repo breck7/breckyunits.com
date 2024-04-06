@@ -2,6 +2,7 @@ import header.scroll
 title Responsibility
 
 startColumns 2
+groups All Life  
 date 2012-12-22
 
 Entrepreneurship is taking responsibility for a problem you did not create.
@@ -25,6 +26,5 @@ Google started out with just search, but look at all the other things they've de
 
 Smart entrepreneurship is all about choosing problems you can and want to own. You need to say "no" to most problems. If you say "yes" to everything, you'll stretch yourself too thin. You need to increase your responsibility in a realistic way. You need to focus hard on the problems you can solve with your current resources, and leave the other problems for another company or another time.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  

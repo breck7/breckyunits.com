@@ -2,6 +2,7 @@ import header.scroll
 title A Proposal to Solve Government Forms Worldwide, Forever
 startColumns 2
 date 6/16/2023
+groups All Programming Society 
 
 // chatGptSummary The proposed idea is to create a universal infrastructure for government forms worldwide, using Specifications, Instances, and Templates, with the aim of reducing time wasted on forms, increasing transparency, and benefiting citizens; however, obstacles such as resistance from those in power and the potential creation of more forms if the system becomes popular are acknowledged.
 
@@ -60,6 +61,5 @@ I hope by publishing these ideas others might be encouraged to start developing 
 katex
 
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming Society 

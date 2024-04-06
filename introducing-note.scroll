@@ -2,6 +2,7 @@ import header.scroll
 title Introducing Note
 
 startColumns 2
+groups All Programming  
 date 2012-12-14
 
 comment
@@ -55,6 +56,5 @@ This is a very brief overview of the thinking behind Note and some of its featur
 
 Please feel free to email me with any questions or feedback you may have, as well as if you'd be interested in contributing.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

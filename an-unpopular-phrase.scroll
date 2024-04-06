@@ -2,6 +2,7 @@ import header.scroll
 title An Unpopular Phrase
 
 startColumns 2
+groups All IntellectualFreedom  
 date 2020-02-21
 
 One of the most _un_popular phrases I use is the phrase "Intellectual Slavery Laws".
@@ -39,6 +40,5 @@ I know, having now used this term with a hundred different people, that this is 
 - This woman is amazing.
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups IntellectualFreedom  

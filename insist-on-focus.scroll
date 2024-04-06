@@ -2,6 +2,7 @@ import header.scroll
 title "Insist on Focus" - Keith Rabois describes working at PayPal
 
 startColumns 2
+groups All Startups OtherAuthor
 date 2021-02-28 2
 permalink insist-on-focus.html
 
@@ -42,6 +43,5 @@ quote
 
 I absolutely love the math behind this strategy. There are a few other terms to get right, but there's a fantastic idea here.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups All Startups OtherAuthor

@@ -1,9 +1,4 @@
-import settings.scroll
-metaTags
-gazetteCss
-gazetteHeader
-description Some writing about probability, programming, economics and life.
-title Breck Yunits' Blog
-import categoryLinks.scroll
+replace CAT_TITLE Breck Yunits' Blog - All
+import categoryPage.scroll
 snippets All
 import footer.scroll

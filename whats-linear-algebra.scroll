@@ -2,6 +2,7 @@ import header.scroll
 title What's Linear Algebra?
 
 startColumns 2
+groups All MathematicalThinking  
 date 2009-12-03
 
 What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
@@ -35,6 +36,5 @@ I don't know the answer to these questions. Fooled by Randomness revealed to me 
 
 I guess when you write about what you don't know, you write mostly questions.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups MathematicalThinking  

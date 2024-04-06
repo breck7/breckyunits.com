@@ -2,6 +2,7 @@ import header.scroll
 title Competition and Specialization
 
 startColumns 2
+groups All Startups Society 
 date 2010-06-28
 
 Competition and specialization are generally positive economics forces. What's interesting is that they are contradictory.
@@ -22,6 +23,5 @@ If you have tons of competition, you're probably working on a problem that peopl
 *Update 8/6/2010*: Overspecialization can be bad as well when things don't go according to plan, as NNT points out, Mother Nature does not like overspecialization, as it limits evolution and weakens the animals. If Intel fell into a sinkhole, we'd be screwed if it weren't for having a backup in AMD.
  http://www.fooledbyrandomness.com/robustness.pdf Mother Nature does not like overspecialization
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Startups Society 

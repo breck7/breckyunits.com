@@ -2,6 +2,7 @@ import header.scroll
 title Scrolldown now has Dialogues
 date 2021-05-14
 startColumns 2
+groups All Programming  
 permalink dialogues.html
 
 chat
@@ -28,6 +29,5 @@ image dialogues.png
 - Try Scroll: https://scroll.pub
 - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

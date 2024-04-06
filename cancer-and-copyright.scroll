@@ -36,4 +36,4 @@ Finally, a grim reality: though we will save hundreds of lives a day if we aboli
 
 author https://github.com/breck7 Breck Yunits, University of Hawai'i Cancer Center (laid off, now just a volunteer)
 
-import indexFooter.scroll
+import allFooter.scroll

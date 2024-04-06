@@ -2,6 +2,7 @@ import header.scroll
 title Walking and other invisible tools of thought
 startColumns 2
 date 5/19/2023
+groups All Writing  
 
 // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
 
@@ -56,6 +57,5 @@ Listening to certain podcasts—Lex Fridman's comes to mind—can have a similar
 ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
  label ^
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing  

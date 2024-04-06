@@ -2,6 +2,7 @@ import header.scroll
 title Orders of Magnitude
 
 startColumns 2
+groups All MathematicalThinking  
 date 2009-12-07
 
 Do you think in Orders of Magnitude? You should.
@@ -58,5 +59,4 @@ Bill Gates has approximately $50,000,000,000. Warren Buffett has $40,000,000,000
 - Thanks to Mairi and Andrew Kitchell for providing feedback.
  http://www.30words.com Andrew Kitchell
 
-import indexFooter.scroll
-groups MathematicalThinking  
+import allFooter.scroll

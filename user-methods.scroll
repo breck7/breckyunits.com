@@ -2,6 +2,7 @@ import header.scroll
 title User Methods
 
 startColumns 2
+groups All Programming  
 
 date 8/11/2021
 
@@ -100,5 +101,4 @@ Isn't it better instead to have an "Application" class, where all public methods
 ? Aren't UserMethods just a subset of PublicMethods?
 Yes. But they are a special category of PublicMethod and it's a distinction worth making. You want all your UserMethods available programmatically like the rest of your PublicMethods (for example, when writing tests), but you wouldn't want to show your users all PublicMethods in something like a Command Palette.
 
-import indexFooter.scroll
-groups Programming  
+import allFooter.scroll

@@ -2,6 +2,7 @@ import header.scroll
 title English cannot encode Real News
 date 2019-08-19
 startColumns 2
+groups All Writing Society 
 
 # The Attempt to Capture Truth
 
@@ -68,6 +69,5 @@ New languages designed for truth telling might not just be useful in our everyda
 # Finally
 Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the stories_. But just remember they are stories. If you are reading English, know that you are not reading Real News.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing Society 

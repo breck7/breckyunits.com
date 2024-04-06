@@ -2,6 +2,7 @@ import header.scroll
 title (un)features
 
 startColumns 2
+groups All Programming Startups 
 date 2009-12-11
 
 Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
@@ -41,5 +42,4 @@ This blog is powered by software with an (un)features list.
 Edit: 01/05/2010. Features are a great way to make money.
  https://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 great way to make money
 
-import indexFooter.scroll
-groups Programming Startups 
+import allFooter.scroll

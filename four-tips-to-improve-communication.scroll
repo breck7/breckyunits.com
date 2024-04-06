@@ -2,6 +2,7 @@ import header.scroll
 title Four Tips to Improve Communication
 
 startColumns 2
+groups All Life  
 date 2010-01-29
 
 Good communication is overcommunication. Very few people overcommmunicate. Undercommunication is much more common. Undercommunication is also the cause of countless problems in business. 
@@ -21,6 +22,5 @@ Here are 4 tips that will bring you closer to overcommunicating:
 
 That's it. Good luck!
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  

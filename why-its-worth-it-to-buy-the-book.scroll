@@ -2,6 +2,7 @@ import header.scroll
 title Why it's worth it to buy the book
 
 startColumns 2
+groups All Life MathematicalThinking 
 date 2010-02-17
 
 If a book is worth reading, it's worth buying too.
@@ -31,5 +32,4 @@ image bookcost.png
 - 1. Even if a book is more expensive, say $50, the numbers don't change too much.
 - 2. Pardon my scribbling. Got a new toy.
 
-import indexFooter.scroll
-groups Life MathematicalThinking 
+import allFooter.scroll

@@ -2,6 +2,7 @@ import header.scroll
 title A Mathematical Model of Copyright
 startColumns 2
 date 5/26/2023
+groups All IntellectualFreedom  
 author https://breckyunits.com Breck Yunits
 openGraphImage https://breckyunits.com/mamoc.png
 
@@ -258,6 +259,5 @@ A copyright system should also increasingly consolidate power in a small Royal C
 
 // ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups IntellectualFreedom  

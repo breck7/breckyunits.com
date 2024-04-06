@@ -2,6 +2,7 @@ import header.scroll
 title The Three Byte Fix
 date 6/09/2022
 startColumns 2
+groups All Programming  
 
 This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. Who doesn't love a change like that?
  dateline
@@ -92,6 +93,5 @@ Very shortly after he submitted the fix, the creator of Simple Statistics review
 # Thanks!
 Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun. 
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

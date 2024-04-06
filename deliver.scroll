@@ -2,6 +2,7 @@ import header.scroll
 title Deliver
 
 startColumns 2
+groups All Life  
 date 2012-12-19
 
 comment
@@ -44,6 +45,5 @@ But in your role on a team, the key isn't to worry about overdelivering, just ge
 
 Be the One who delivers the goods!
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  

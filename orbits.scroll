@@ -2,6 +2,7 @@ import header.scroll
 title Orbits
 
 startColumns 2
+groups All MathematicalThinking Life 
 date 2010-08-06
 
 In February I celebrated my 26th Orbit. I am 26 orbits old. How many orbits are you?
@@ -22,5 +23,4 @@ Enjoy the ride!
 - 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
 - 4. We should also call days "revs". Okay I'm done.
 
-import indexFooter.scroll
-groups MathematicalThinking Life 
+import allFooter.scroll

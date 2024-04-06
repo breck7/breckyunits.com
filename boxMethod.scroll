@@ -2,6 +2,7 @@ import header.scroll
 title The Box Method of Science
 
 startColumns 2
+groups All MathematicalThinking  
 date 2024-3-30
 
 image boxMethod.jpeg
@@ -63,5 +64,4 @@ _Sorry if you were expecting some quantified answers, as I haven't done that har
 _If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory._
  https://en.wikipedia.org/wiki/Assembly_theory assembly theory
 
-import indexFooter.scroll
-groups MathematicalThinking  
+import allFooter.scroll

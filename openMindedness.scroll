@@ -2,6 +2,7 @@ import header.scroll
 title Open-Mindedness
 startColumns 2
 date 3/08/2024
+groups All BipolarDisorder Life 
 
 What is open-mindedness, from first principles? Here are some musings.
  dateline
@@ -104,6 +105,5 @@ It could be out of respect for a social group and/or traditions, and one would r
 Or it could be simply a waiting strategy, where a mind is shut only to incrementally better ideas, and no new ideas are significant enough to be worth opening one's mind for.
 
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder Life 

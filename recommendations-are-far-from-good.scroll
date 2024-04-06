@@ -2,6 +2,7 @@ import header.scroll
 title Recommendations Are Far From Good
 
 startColumns 2
+groups All MathematicalThinking Society 
 date 2010-08-25
 
 Doctors used to recommend leeches to cure a whole variety of illnesses. That seems laughable today. But I think our recommendations today will be laughable to people in the future.
@@ -20,5 +21,4 @@ People are quite similar, but they are also quite different and react to differe
 
 Recommendations are great business, but I think we're 2 or 3 orders of magnitude away from where they could be, and it could take decades(or never) to reach those levels.
 
-import indexFooter.scroll
-groups MathematicalThinking Society 
+import allFooter.scroll

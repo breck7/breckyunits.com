@@ -2,6 +2,7 @@ import header.scroll
 title Aftertext
 
 startColumns 2
+groups All Programming Writing 
 
 date 12/15/2021
 
@@ -183,6 +184,5 @@ comment
 image aftertext.png
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming Writing 

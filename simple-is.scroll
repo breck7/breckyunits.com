@@ -2,6 +2,7 @@ import header.scroll
 title Simple is...
 startColumns 2
 date 2012-12-16
+groups All Life MathematicalThinking 
 permalink simple-is.html
 
 *Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
@@ -23,5 +24,4 @@ endSnippet
 
 *Simple is balanced*. It is nuanced, not black and white.
 
-import indexFooter.scroll
-groups Life MathematicalThinking 
+import allFooter.scroll

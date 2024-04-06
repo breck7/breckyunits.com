@@ -2,6 +2,7 @@ import header.scroll
 title Problems Worth Solving
 
 startColumns 2
+groups All Programming Startups 
 date 2009-12-20
 
 Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
@@ -29,5 +30,4 @@ Life is too short to solve unimportant problems. If you want to solve important 
 # Ignore Speed Limits
 If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.
 
-import indexFooter.scroll
-groups Programming Startups 
+import allFooter.scroll

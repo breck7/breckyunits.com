@@ -2,6 +2,7 @@ import header.scroll
 title Wisdom: a Tiny Language for Great Advice
 
 startColumns 2
+groups All Writing Life 
 date 2021-05-06
 permalink wisdom-a-tiny-language-for-great-advice.html
 
@@ -79,6 +80,5 @@ If you have great experience, I urge you to not put it out there in the form of 
 
 css .rightQuote{text-align: right; display: block; margin-top: 5px;}
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing Life 

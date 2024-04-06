@@ -2,6 +2,7 @@ import header.scroll
 title Flee the Bubble
 
 startColumns 2
+groups All Startups  
 date 2010-01-05
 
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
@@ -50,6 +51,5 @@ Here are four easy strategies for leaving the bubble: launch, launch & drop, pic
 
 That's all I've got. But don't take it from me, read the writings of web entrepreneurs who have achieved more success. (And please share what you find or your own experiences on HackerNews).
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Startups  

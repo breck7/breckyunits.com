@@ -2,6 +2,7 @@ import header.scroll
 title I'm Back
 
 startColumns 2
+groups All Writing  
 date 2009-12-02 1
 
 Decided to blog again. I missed it. Writing publicly, even when you only get 3 readers, two of which are bots and the other is your relative, is to the mind what exercise is to the body. It's fun and feels good; especially when you haven't done it in a while.
@@ -19,6 +20,5 @@ I'm writing to get better at communicating, thinking, and just for fun. If anyon
 
 Written 11/30/2009
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing  

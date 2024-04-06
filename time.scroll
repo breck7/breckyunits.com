@@ -2,6 +2,7 @@ import header.scroll
 title Time
 
 startColumns 2
+groups All Life  
 date 2013-04-01
 
 quote
@@ -17,5 +18,4 @@ quote
  are equal.
  Their journeys can be very different.
 
-import indexFooter.scroll
-groups Life  
+import allFooter.scroll

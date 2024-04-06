@@ -2,6 +2,7 @@ import header.scroll
 title Don't Flip the Bozo Bit
 
 startColumns 2
+groups All Programming Life 
 date 2009-12-13
 
 Do you "flip the bozo bit" on people? 
@@ -40,6 +41,5 @@ But this is a bad solution. The two presented above are better.
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming Life 

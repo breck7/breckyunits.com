@@ -2,6 +2,7 @@ import header.scroll
 title The Least You Can Do
 
 startColumns 2
+groups All Life  
 date 2010-02-02
 
 My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about. 
@@ -44,5 +45,4 @@ In reality you need to do things both ways. But try to put extra effort into doi
 - Another relevant computer science topics is the The longest common subsequence problem.
  http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem
 
-import indexFooter.scroll
-groups Life  
+import allFooter.scroll

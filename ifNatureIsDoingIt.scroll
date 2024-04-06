@@ -2,6 +2,7 @@ import header.scroll
 title If nature is doing it...
 date 1/4/2024
 
+groups All MathematicalThinking Life Startups
 startColumns 2
 
 You can easily imagine inventions that humans have never built before. How does one filter which of these inventions are practical?
@@ -40,7 +41,6 @@ If a model isn't out there yet in abundance, the invention is most likely imprac
 
 If nature is doing it, there has to be a practical way. If nature is not doing it, be skeptical.
 
-import indexFooter.scroll
+import allFooter.scroll
 
 
-groups MathematicalThinking Life Startups

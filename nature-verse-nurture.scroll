@@ -2,6 +2,7 @@ import header.scroll
 title Nature Verse Nurture
 
 startColumns 2
+groups All Life Society 
 date 2010-08-25
 
 Genetics, aka nature, plays the dominant role in predicting most aspects of your life, in my estimation.
@@ -17,6 +18,5 @@ Nurture plays a huge role in making you, of course. Being born with great genes 
 
 I think the bio/genome field will be the most interesting industry come 2025 or so.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life Society 

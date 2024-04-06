@@ -2,6 +2,7 @@ import header.scroll
 title Training a neural network to spot misinformation and fake news from a single image
 
 startColumns 2
+groups All   
 date 10/15/2022
 
 openGraphImage https://breckyunits.com/misinformationOrFakeNews.jpg
@@ -13,6 +14,5 @@ Today I'm announcing the release of the image above, which is sufficient trainin
 
 These empirical results match the theory that the whole truth and nothing but the truth would not contain a (c).
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups   

@@ -2,6 +2,7 @@ import header.scroll
 title The Magnificent Multi-Agent Mind of Marvin Minsky
 startColumns 2
 date 5/09/2023
+groups All BipolarDisorder Life
 
 If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
  dateline
@@ -79,6 +80,5 @@ He didn't figure it all out but he certainly found a solid foundation. The peopl
 ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder Life

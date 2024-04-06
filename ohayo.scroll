@@ -2,6 +2,7 @@ import header.scroll
 title Ohayo
 
 startColumns 2
+groups All Programming Startups 
 date 2017-06-23
 
 I just pushed a project I've been working on called Ohayo.
@@ -12,5 +13,4 @@ You can also view it on GitHub: https://github.com/treenotation/ohayo
 
 I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
 
-import indexFooter.scroll
-groups Programming Startups 
+import allFooter.scroll

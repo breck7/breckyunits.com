@@ -2,6 +2,7 @@ import header.scroll
 title Focusing on Bipolar Disorder
 date 1/24/2024
 
+groups All BipolarDisorder  
 import mediumColumns.scroll
 
 Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
@@ -168,6 +169,5 @@ spaceTable
  2002 October 1 AP ❌ No No
 
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder  

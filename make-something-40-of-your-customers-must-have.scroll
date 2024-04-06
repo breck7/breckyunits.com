@@ -2,6 +2,7 @@ import header.scroll
 title Make Something 40% of Your Customers Must Have
 
 startColumns 2
+groups All Startups  
 date 2009-12-16
 
 If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
@@ -95,6 +96,5 @@ But you laugh it off and keep chugging along.
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
  http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Startups  

@@ -2,6 +2,7 @@ import header.scroll
 title A Different Kind of Mindmap
 startColumns 2
 date 2/24/2024
+groups All BipolarDisorder Programming Life
 
 In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
  dateline
@@ -23,6 +24,5 @@ I got promising results on my very first run, and it is easy to envision how thi
 I was in my twenties when I first learned the simple writing technique of "mind mapping". I think in the future there might be a new use of that phrase. AIs will be able to create a mindmap of a person's mind near instantly, when given access to their data. Eventually that could combine with brain scans to be able to correctly identify the 3D spatial positioning of neural agents, but well before that we may have an interesting new kind of brain visualization that is far more extensive than a resume or personality test.
  link wiwmin.png learned
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder Programming Life

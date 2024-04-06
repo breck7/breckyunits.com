@@ -2,6 +2,7 @@ import header.scroll
 title Happiness is in Mediocristan
 
 startColumns 2
+groups All MathematicalThinking Life 
 date 2010-08-06
 
 Three unexpected things have happened to me during my two years of entrepreneurial pursuits in California.
@@ -37,6 +38,5 @@ I'm not warning you that you might not become an order of magnitude happier if y
 
 It's funny, although our society doles out vastly different rewards, at the end of the day, in what matters the most, mother nature has created a pretty equal playing field.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups MathematicalThinking Life 

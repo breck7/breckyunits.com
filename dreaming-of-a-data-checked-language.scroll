@@ -2,6 +2,7 @@ import header.scroll
 title Dreaming of a Data Checked Language
 
 startColumns 2
+groups All Programming Writing MathematicalThinking
 date 2020-01-3
 
 * <span class="redSquig">Speling</span> errors and <span class="greenSquig">errors grammar</span> are <span class="dataError">nearly extinct in published content</span>. *Data errors*, however, <span class="dataError">are prolific</span>.
@@ -159,6 +160,5 @@ css
    border-radius: 5px;
  }
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming Writing MathematicalThinking

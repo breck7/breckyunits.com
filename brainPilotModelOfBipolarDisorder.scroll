@@ -2,6 +2,7 @@ import header.scroll
 title The Brain Pilot Model of Bipolar Disorder
 startColumns 2
 date 2/20/2024
+groups All BipolarDisorder  
 
 A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
  https://www.metabolicmind.org research effort
@@ -82,6 +83,5 @@ I don't think the model explored above is a leading contender for finally explai
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
 
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder  

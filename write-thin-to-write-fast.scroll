@@ -2,6 +2,7 @@ import header.scroll
 title Write Thin to Write Fast
 
 startColumns 2
+groups All Writing  
 date 2021-10-15
 
 comment
@@ -70,5 +71,4 @@ comment Further threads to explore
 - Consider vertical languages like Japanese
 
 
-import indexFooter.scroll
-groups Writing  
+import allFooter.scroll

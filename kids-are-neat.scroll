@@ -2,6 +2,7 @@ import header.scroll
 title Kids are Neat
 
 startColumns 2
+groups All Life Society 
 date 2010-08-25
 
 Maybe I'm getting old, but I'm starting to think the best way to "change the world" isn't to bust your ass building companies, inventing new machines, running for office, promoting ideas, etc., but to simply raise good kids. Even if you are a genius and can invent amazing things, by raising a few good kids their output combined can easily top yours. Nerdy version: you are a single core cpu and can't match the output of a multicore machine.
@@ -11,6 +12,5 @@ I'm not saying I want to have kids anytime soon. I'm just realizing after spendi
 
 So the trick to making a difference is to sometimes slow down, spend time raising good kids, and delegate some of the world saving to them.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life Society 

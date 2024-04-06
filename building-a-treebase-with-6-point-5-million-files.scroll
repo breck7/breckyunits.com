@@ -2,6 +2,7 @@ import header.scroll
 title Building a TreeBase with 6.5 million files
 
 startColumns 2
+groups All Programming  
 date 2020-01-29
 permalink building-a-treebase-with-6.5-million-files.html
 
@@ -693,6 +694,5 @@ So I think this could be pretty cool. As dumb as it is.
 
 I would love to hear your thoughts.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

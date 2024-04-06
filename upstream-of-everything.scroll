@@ -2,6 +2,7 @@ import header.scroll
 title Upstream of Everything
 
 startColumns 2
+groups All Life MathematicalThinking 
 date 2/28/2022
 
 image sortingIdeas.svg
@@ -67,5 +68,4 @@ And so I've come full circle to realizing the benefits of spirituality. Of not c
 - I realize now that this idea is thousands of years old.
  https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea
 
-import indexFooter.scroll
-groups Life MathematicalThinking 
+import allFooter.scroll

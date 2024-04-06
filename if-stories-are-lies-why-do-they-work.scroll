@@ -2,6 +2,7 @@ import header.scroll
 title If stories are lies why do they work?
 
 startColumns 2
+groups All Writing Life 
 date 2020-01-16
 
 I often rail against narratives. I think stories always oversimplify things, have hindsight bias, and often mislead. I spend a lot of time trying to invent tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain). And yet, as much as I rail on stories, I have to admit stories work.
@@ -40,5 +41,4 @@ Perhaps it's just more fun. Maybe stories are suboptimal for decision making and
 
 Despite my problems with narratives and my quest for something better, it seems quite possible to me that at the end of the day it may turn out that there is nothing better, and it's best to make peace with stories, despite their flaws. And regardless of the future, I can't argue with the value of stories today for motivation and enjoyment. Nothing else works.
 
-import indexFooter.scroll
-groups Writing Life 
+import allFooter.scroll

@@ -38,4 +38,4 @@ It uses the same underlying source code as PLDB.com, which is having a similar e
 Hundreds of cures are just a few tweaks away from saving many, many lives. CancerDB will accelerate the work of cancer researchers.
 
 image longNowCancer.png
-import indexFooter.scroll
+import allFooter.scroll

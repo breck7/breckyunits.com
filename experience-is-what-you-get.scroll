@@ -2,6 +2,7 @@ import header.scroll
 title Experience is What You Get
 date 2009-12-02 2
 startColumns 2
+groups All Life  
 
 quote
  Experience is what you get when you don't get what you want.
@@ -19,6 +20,5 @@ You've got to see patterns in the world and recognize cause and effect. You've g
 
 When you're fresh out of the gate, it's hard to make those predictions. You just don't have any data so you can't analyze cause and effect appropriately. But once you're out there attempting things, even if you screw up or don't get what you want, you get experience. You get data to use to make better decisions in the future.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  

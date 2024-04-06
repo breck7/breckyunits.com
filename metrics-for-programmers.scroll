@@ -2,6 +2,7 @@ import header.scroll
 title Metrics for Programmers
 
 startColumns 2
+groups All Programming  
 date 2010-03-16
 
 I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
@@ -27,6 +28,5 @@ spaceTable
  ../Zend-1.10 360 2145 1692 336419 42 11123
  ../symfony-1.4.3 770 2905 2091 298700 362 12198
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

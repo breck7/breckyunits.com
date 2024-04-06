@@ -2,6 +2,7 @@ import header.scroll
 
 // Adapted from one of my reddit posts: https://www.reddit.com/r/bipolarketo/comments/17k2pg3/keto_was_not_mentioned_in_the_top_50_books_on/
 
+groups All BipolarDisorder  
 import mediumColumns.scroll
 
 title Keto for bipolar was not talked about until very recently
@@ -39,6 +40,5 @@ I am very grateful for all of the researchers who started seriously studying thi
 
 I still have a ton to learn but I wanted to share this simple book scan in case anyone else was wondering why they hadn't heard of this option before.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder  

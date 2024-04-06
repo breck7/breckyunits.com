@@ -1,7 +1,5 @@
 importOnly
-// Just the footer but also include the All group and keyboard nav
-groups All
+// Just the footer but also include the keyboard nav
 keyboardNav
 import footer.scroll
-
 // todo: issue a warning if no snippet or dateline? meh

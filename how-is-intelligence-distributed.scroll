@@ -2,6 +2,7 @@ import header.scroll
 title How is Intelligence Distributed?
 
 startColumns 2
+groups All MathematicalThinking Society 
 date 2010-08-25
 
 I've been working on a fun side project of categorizing things into Mediocristan or Extremistan(inspired by NNT's book The Black Swan).
@@ -13,5 +14,4 @@ I'm not sure. The brain is a complex thing and I haven't figure out how to think
 
 Would love to hear what other people think. Shoot me an email!
 
-import indexFooter.scroll
-groups MathematicalThinking Society 
+import allFooter.scroll

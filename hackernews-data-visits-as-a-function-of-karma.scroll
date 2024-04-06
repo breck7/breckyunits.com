@@ -2,6 +2,7 @@ import header.scroll
 title HackerNews Data: Visits as a Function of Karma
 
 startColumns 2
+groups All Programming Startups 
 date 2010-03-08
 
 If a post on HackerNews gets more points, it gets more visits.
@@ -32,5 +33,4 @@ spaceTable
  1 146 <a href="seo-made-easy-lumps.html">/seo_made_easy_lumps</a>
  1 36 <a href="dont-flip-the-bozo-bit.html">/dont_flip_the_bozo_bit</a>
 
-import indexFooter.scroll
-groups Programming Startups 
+import allFooter.scroll

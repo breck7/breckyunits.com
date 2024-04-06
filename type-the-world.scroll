@@ -2,6 +2,7 @@ import header.scroll
 title Type the World
 
 startColumns 2
+groups All Programming MathematicalThinking 
 date 2020-01-20
 
 In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
@@ -177,5 +178,4 @@ The result of this will be a future where all business, from finance to shopping
 While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
 
 
-import indexFooter.scroll
-groups Programming MathematicalThinking 
+import allFooter.scroll

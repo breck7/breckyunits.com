@@ -2,6 +2,7 @@ import header.scroll
 title Goblin Interviews Alexandra Elbakian
 
 startColumns 2
+groups All OtherAuthor
 date 05/22/2021
 
 In this video Dmitry Puchkov interviews Alexandra Elbakian. I do not speak Russian but had it translated. This is a first draft, the translation needs a lot of work, but perhaps it can be skimmed for interesting quotes. If you have a link to a better transcript, or can improve this one, pull requests are welcome (My whole site is public domain, and the source is on GitHub).
@@ -331,6 +332,5 @@ chat
  A: Thank you.
  D: That is all for today.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups All OtherAuthor

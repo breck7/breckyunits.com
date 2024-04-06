@@ -2,6 +2,7 @@ import header.scroll
 title Many Narratives. All true.
 startColumns 2
 date 6/13/2023
+groups All Writing Life 
 
 // chatGptSummary Writing a traditional narrative of one's own life is impossible because there are multiple independent threads explaining the why behind actions, as described by Marvin Minsky's Society of Mind model, where various neural agents with different activation energies drive the body, making it difficult to determine a single reason, suggesting that a true autobiography would require a multiple character story approach.
 
@@ -49,8 +50,7 @@ But to get into the _why_ and still be accurate, it probably would be best to te
 
 Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.
 
-import indexFooter.scroll
+import allFooter.scroll
 
 // todo: add a narratives page.
 
-groups Writing Life 

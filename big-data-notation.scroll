@@ -2,6 +2,7 @@ import header.scroll
 title Big Data Notation
 date 2013-09-24
 startColumns 2
+groups All MathematicalThinking  
 
 # A Suggestion for a Simple Notation
 
@@ -21,6 +22,5 @@ This occurred to me recently as I just started following Big Data on Quora and w
 
 I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups MathematicalThinking  

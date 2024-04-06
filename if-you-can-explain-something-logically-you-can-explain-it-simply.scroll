@@ -2,6 +2,7 @@ import header.scroll
 title If you can explain something logically, you can explain it simply
 
 startColumns 2
+groups All Writing  
 date 2010-01-18
 
 chat
@@ -38,6 +39,5 @@ chat
  Do I need to master the building blocks to be successful in life?
  No. But you need to know them if you want to be able to learn any subject.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing  

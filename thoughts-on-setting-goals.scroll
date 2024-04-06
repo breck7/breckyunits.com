@@ -2,6 +2,7 @@ import header.scroll
 title Thoughts on Setting Goals
 
 startColumns 2
+groups All Life  
 date 2009-12-23
 
 It is better to set small, meaningful goals than to set wild, audacious goals.
@@ -45,5 +46,4 @@ spaceTable
 
 If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy. 
 
-import indexFooter.scroll
-groups Life  
+import allFooter.scroll

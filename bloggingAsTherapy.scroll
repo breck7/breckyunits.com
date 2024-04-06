@@ -2,6 +2,7 @@ import header.scroll
 title Blogging as Therapy
 date 1/30/2024
 
+groups All BipolarDisorder Writing 
 import mediumColumns.scroll
 
 I have kept this blog going for 14 years, through good times and bad. One thing I've noticed, particularly recently, is that, after getting a post out, my mind feels calmer the rest of the day. I also feel like each post helps me develop some actionable insight, however small, that I can use going forward in the future.
@@ -27,6 +28,5 @@ Now that I've thought about it, I think it is probably just a hobby. I don't do 
 
 Anyway. I'm going to publish this one now and try and get a double post out today. Luckily blogging is like _free_ therapy.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder Writing 

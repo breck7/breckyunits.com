@@ -2,6 +2,7 @@ import header.scroll
 title An Angel Investor's Data
 
 startColumns 2
+groups All Startups  
 date 9/1/2022
 
 openGraphImage https://breckyunits.com/angelData.png
@@ -38,6 +39,5 @@ More posts in the category of Angel Investors publishing data:
 readingList
  https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Startups  

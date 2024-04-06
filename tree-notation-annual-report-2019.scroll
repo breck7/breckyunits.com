@@ -2,6 +2,7 @@ import header.scroll
 title 2019 Tree Notation Annual Report
 
 startColumns 2
+groups All Programming  
 date 2020-12-09
 
 _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
@@ -225,5 +226,4 @@ That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
 permalink tree-notation-annual-report-2019.html
 
-import indexFooter.scroll
-groups Programming  
+import allFooter.scroll

@@ -2,6 +2,7 @@ import header.scroll
 title Use the Spine
 
 startColumns 2
+groups All Programming  
 date 1/3/2023
 openGraphImage https://breckyunits.com/spines.png
 
@@ -41,6 +42,5 @@ image explorer.png
 ## At the dawn of a language revolution
 I firmly believe that this simple trick—using the spine—will unleash a wave of innovation that will eventually replace all top programming languages with better, more human friendly two dimensional ones. I already have dozens of tricks that I use in my daily programming world that exploit the fact that my languages use the spine. I expect innovative programmers will discover many many more. Good luck and have fun.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Programming  

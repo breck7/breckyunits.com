@@ -2,6 +2,7 @@ import header.scroll
 title The Intellectual Freedom Amendment
 
 startColumns 2
+groups All IntellectualFreedom  
 date 2021-05-12
 
 This post is written for people who already are "partisans" on the issues of copyrights and patents. Here I am not trying to educate newcomers on the pros of Intellectual Freedom. I am writing to those who are already strong supporters of open source, @Sci-Hub@, the ##Internet Archive##, and others. To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws _could be_ a root contributor to some of the big problems of our day, like misinformation (or _fake news_) and inequality, this post is for you.
@@ -30,5 +31,4 @@ quote
 
 I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
 
-import indexFooter.scroll
-groups IntellectualFreedom  
+import allFooter.scroll

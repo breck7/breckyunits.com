@@ -2,6 +2,7 @@ import header.scroll
 title Medical Records to the Moon
 date 2020-03-02
 startColumns 2
+groups All MathematicalThinking Society 
 
 A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
  dateline
@@ -95,6 +96,5 @@ image medicalRecords/moon.png
 
 *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups MathematicalThinking Society 

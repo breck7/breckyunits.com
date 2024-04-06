@@ -2,6 +2,7 @@ import header.scroll
 title Diversification in Startups
 date 2009-12-24
 startColumns 2
+groups All Startups  
 
 _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
 
@@ -77,6 +78,5 @@ And check back here, I'll hopefully be sharing how this approached worked for us
 2. Thanks to Ben for helping me form my ideas on this issue.
  http://www.benzulauf.com Ben
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Startups  

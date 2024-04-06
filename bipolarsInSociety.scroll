@@ -2,6 +2,7 @@ import header.scroll
 title What is the role of the bipolar in society?
 date 2/9/2024
 
+groups All BipolarDisorder  
 startColumns 2
 
 It is estimated 2% of the population is bipolar. Sunday I explored: what if that was 98%? And today I explore, why isn't it 0%?
@@ -135,6 +136,5 @@ The only thing I am sure of is that it would be great if we figure out the biolo
 # Limitations of this essay
 A productive exercise would be to get a large dataset on objective rates of bipolar disorder in different regions. Then these, and other models, could be applied, and we could learn what fits best. A major obstacle however is that no good large objective dataset on bipolar disorder is readily available for even one country yet, never mind multiple. That should change soon, as I will explore in future posts.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups BipolarDisorder  

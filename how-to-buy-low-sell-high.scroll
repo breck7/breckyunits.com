@@ -2,6 +2,7 @@ import header.scroll
 title How to Buy Low, Sell High
 
 startColumns 2
+groups All Life  
 date 2010-01-12
 
 Whether you're an entrepreneur, a venture capitalist, a casual investor or just a shopper looking for a deal, you should know how to buy low and sell high. Buying low and selling high is not easy. It's not easy because it requires too things humans are notoriously bad at: long term planning and emotional control. But if done over a long period of time, buying low and selling high is a surefire way to get rich.
@@ -39,6 +40,5 @@ How do you find these easy deals? You've got to read a lot. You've got to keep y
 # Buy a business
 Businesses can be the ultimate thing to buy low and sell high because they have nearly unlimited upside. Real estate, gold, commodities, etc., can be good investments perhaps. But when's the last time you heard of someone's house going up 10,000%? Starting a business can be your best investment ever, as you are guaranteed to buy _extremely low_, and have the potential to sell _extremely high_.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  

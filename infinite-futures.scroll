@@ -2,6 +2,7 @@ import header.scroll
 title Infinite Futures
 
 startColumns 2
+groups All Life MathematicalThinking 
 date 2013-02-12
 
 You shouldn't plan for _the_ future. You should plan for *one of many* futures.
@@ -15,6 +16,5 @@ Marty was like the kid who stole the answer key to an SAT but still failed. Ther
 
 There are infinite futures. Prepare for them all!
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life MathematicalThinking 

@@ -2,6 +2,7 @@ import header.scroll
 title Could in vitro brains power AI?
 date 1/1/2024
 
+groups All Programming Society 
 startColumns 2
 
 Happy New Year!
@@ -61,7 +62,6 @@ I have no conclusions, as I said in the disclaimer up top this is meant to just 
 ^after After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
  link https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
 
-import indexFooter.scroll
+import allFooter.scroll
 
 
-groups Programming Society 

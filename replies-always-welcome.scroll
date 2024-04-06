@@ -2,6 +2,7 @@ import header.scroll
 title Replies always welcome
 
 startColumns 2
+groups All Programming  
 date 11/14/2022
 
 openGraphImage https://breckyunits.com/noNoReplies.png
@@ -77,5 +78,4 @@ Could be a `replyToUnsubscribe`
 ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
 Could be a `replyToLeaveAReview`.
 
-import indexFooter.scroll
-groups Programming  
+import allFooter.scroll

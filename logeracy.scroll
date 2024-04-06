@@ -2,6 +2,7 @@ import header.scroll
 title Logeracy
 
 startColumns 2
+groups All MathematicalThinking Society 
 date 2021-04-26
 
 openGraphImage https://breckyunits.com/literacy.jpg
@@ -114,6 +115,5 @@ image illogeracy.png
 
 ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups MathematicalThinking Society 

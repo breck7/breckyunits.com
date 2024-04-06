@@ -2,6 +2,7 @@ import header.scroll
 title Fiction or Nonfiction?
 
 startColumns 2
+groups All Writing  
 date 2009-12-02 3
 
 What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
@@ -46,6 +47,5 @@ Share your results here.
 - 3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
  http://news.ycombinator.com/item?id=917566 comment
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Writing  

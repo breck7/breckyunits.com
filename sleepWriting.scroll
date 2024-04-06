@@ -2,6 +2,7 @@ import header.scroll
 title Seven Years of Blog Posts, Sorted by Sleep
 import mediumColumns.scroll
 date 4/5/2024
+groups All BipolarDisorder Writing 
 
 If you are a person with high sleep variance, have you ever examined the correlation between your writing behavior and sleep?
  dateline
@@ -55,7 +56,6 @@ On the other hand, because the importance of ideas varies by so many orders of m
 It seems when I sleep less, my brain is in more of a pleasure seeking state, has a bias to action ("don't think, just do"), and feels less pain than in a more rested state. Less sleep means less critical thinking. Less sleep seems to make me less willing to invest the time in rewiring my brain to correct mistaken thought habits. 
  // If you want to understand something, the saying is a picture is worth 1,000 words, but if what you want to understand is what is going on in a brain, 1,000 words might be better than a picture.
 
-import indexFooter.scroll
+import allFooter.scroll
 
 
-groups BipolarDisorder Writing 

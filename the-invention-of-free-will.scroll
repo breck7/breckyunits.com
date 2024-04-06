@@ -2,6 +2,7 @@ import header.scroll
 title The Invention of Free Will
 
 startColumns 2
+groups All Life  
 
 # Or..We Think we have Free Will because we only Observe One Path.
 
@@ -33,5 +34,4 @@ Even the smug boy who says free will doesn't exist, is just one branch of the sm
  https://./the-many-worlds-law.html many
 - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
 
-import indexFooter.scroll
-groups Life  
+import allFooter.scroll

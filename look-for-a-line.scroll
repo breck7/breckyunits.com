@@ -2,6 +2,7 @@ import header.scroll
 title Look for a Line
 
 startColumns 2
+groups All Startups MathematicalThinking 
 date 2011-03-05
 
 A good friend passed along some business advice to me a few months ago. "Look for a line," he said. Basically, if you see a line out the door at McDonald's, start Burger King. Lines are everywhere and are dead giveaways for good business ideas and good businesses.
@@ -19,5 +20,4 @@ Succeeding in business is all about creating lines. Apple creates lines of repor
 
 If you are the CEO of a company, your job is simply to create lines. You want customers lining up for your product, investors lining up to invest, recruits lining up to apply for jobs. It's very easy to measure how you're doing. If you look around and don't see any lines, you gotta pick it up.
 
-import indexFooter.scroll
-groups Startups MathematicalThinking 
+import allFooter.scroll

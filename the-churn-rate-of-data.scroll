@@ -2,6 +2,7 @@ import header.scroll
 title The Churn Rate of Data
 
 startColumns 2
+groups All MathematicalThinking Programming 
 date 2010-06-15
 
 I think it's interesting to ponder the value of information over it's lifetime.
@@ -19,5 +20,4 @@ Books, it seems. We don't regularly read old weather forecasts, census rolls, or
 
 Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
 
-import indexFooter.scroll
-groups MathematicalThinking Programming 
+import allFooter.scroll

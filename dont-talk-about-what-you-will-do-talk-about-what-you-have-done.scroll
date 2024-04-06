@@ -2,6 +2,7 @@ import header.scroll
 title Don't talk about what you will do, talk about what you have done
 
 startColumns 2
+groups All Life  
 date 2010-02-19
 
 All the time I overhear people saying things like "I will start excercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
@@ -58,6 +59,5 @@ I don't know. Maybe a physicist could answer that question, but I don't know the
 # Notes
 1. In other words, don't overpromise and underdeliver.
 
-import indexFooter.scroll
+import allFooter.scroll
 
-groups Life  
