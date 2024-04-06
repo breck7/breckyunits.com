@@ -1,6 +1,6 @@
 importOnly
-// Just the footer but also include the index group and keyboard nav
-groups index
+// Just the footer but also include the All group and keyboard nav
+groups All
 keyboardNav
 import footer.scroll
 

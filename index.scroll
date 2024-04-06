@@ -5,5 +5,5 @@ gazetteHeader
 description Some writing about probability, programming, economics and life.
 title Breck Yunits' Blog
 import categoryLinks.scroll
-snippets index
+snippets All
 import footer.scroll
