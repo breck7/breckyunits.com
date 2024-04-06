@@ -1,0 +1,4 @@
+replace CAT_TITLE Society
+import categoryPage.scroll
+snippets Society
+import footer.scroll

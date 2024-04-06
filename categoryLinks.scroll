@@ -1,0 +1,14 @@
+importOnly
+<div class="categoryLinks">
+ <a href="index.html">All</a>
+ <a href="programming.html">Programming</a>
+ <a href="writing.html">Writing</a>
+ <a href="thinking.html">Thinking</a>
+ <a href="life.html">Life</a>
+ <a href="society.html">Society</a>
+ <a href="bipolar.html">Bipolar Disorder</a>
+ <a href="freedom.html">Intellectual Freedom</a>
+ <a href="startups.html">Startups</a>
+ </div>
+
+<style>.categoryLinks { text-align: center; } .categoryLinks a {padding: 0 10px 0 10px;} </style>

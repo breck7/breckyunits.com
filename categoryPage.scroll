@@ -1,0 +1,8 @@
+importOnly
+import settings.scroll
+metaTags
+gazetteCss
+gazetteHeader
+description Posts on this blog categorized in CAT_TITLE.
+title CAT_TITLE Posts
+import categoryLinks.scroll

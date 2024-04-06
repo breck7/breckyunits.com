@@ -1,0 +1,4 @@
+replace CAT_TITLE Startups
+import categoryPage.scroll
+snippets Startups
+import footer.scroll

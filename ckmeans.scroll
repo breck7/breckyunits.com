@@ -93,3 +93,5 @@ Very shortly after he submitted the fix, the creator of Simple Statistics review
 Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun. 
 
 import indexFooter.scroll
+
+groups Programming  

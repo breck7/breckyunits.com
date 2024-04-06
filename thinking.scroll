@@ -1,0 +1,4 @@
+replace CAT_TITLE Thinking
+import categoryPage.scroll
+snippets MathematicalThinking
+import footer.scroll

@@ -1,0 +1,4 @@
+replace CAT_TITLE Intellectual Freedom
+import categoryPage.scroll
+snippets IntellectualFreedom
+import footer.scroll

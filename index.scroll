@@ -2,7 +2,8 @@ import settings.scroll
 metaTags
 gazetteCss
 gazetteHeader
-title Breck Yunits' Blog
 description Some writing about probability, programming, economics and life.
+title Breck Yunits' Blog
+import categoryLinks.scroll
 snippets index
 import footer.scroll
