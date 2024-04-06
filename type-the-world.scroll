@@ -2,7 +2,7 @@ import header.scroll
 title Type the World
 
 startColumns 2
-groups All Programming MathematicalThinking 
+groups All Programming MathematicalThinking TreeNotation
 date 2020-01-20
 
 In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
