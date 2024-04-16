@@ -1,0 +1,244 @@
+id,title,image,chemicalWikipediaPage,bloodTestWikipediaPage,bottom,top,testAtLab,testAtHome,canTestAtHome
+glucose,Glucose,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG,https://en.wikipedia.org/wiki/Glucose,https://en.wikipedia.org/wiki/Blood_sugar,3.9,5.6,https://www.questhealth.com/product/diabetes-risk-panel-94341M.html,https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit,true
+lithium,Lithium,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lithium_paraffin.jpg/800px-Lithium_paraffin.jpg,https://en.wikipedia.org/wiki/Lithium,https://en.wikipedia.org/wiki/Lithium_pharmacology#Measurement,0.4,1.2,https://www.ondemand.labcorp.com/lab-tests/lithium,,false
+ketones,Ketones,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/180/PNG,https://en.wikipedia.org/wiki/Ketone_bodies,https://en.wikipedia.org/wiki/Ketone_bodies#Blood_testing,0.0,0.6,https://www.walkinlab.com/products/view/ketone-blood-test,https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit,true
+creatinine,Creatinine,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/588/PNG,https://en.wikipedia.org/wiki/Creatinine,https://en.wikipedia.org/wiki/Creatinine#Blood_test,0.06,0.12,https://www.ondemand.labcorp.com/lab-tests/creatinine-blood-test,https://www.cvs.com/shop/diathrive-kidney-function-test-strips-15ct-prodid-1170071,true
+calcium,Calcium,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460341/PNG,https://en.wikipedia.org/wiki/Calcium,https://en.wikipedia.org/wiki/Calcium_in_biology#Plasma,2.1,2.6,https://www.questhealth.com/product/calcium-test-303M.html,,false
+hdl_cholesterol,HDL Cholesterol,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/24775087/PNG,https://en.wikipedia.org/wiki/High-density_lipoprotein,https://en.wikipedia.org/wiki/Lipid_profile,1.0,1.5,https://www.ondemand.labcorp.com/lab-tests/lipid-panel,https://www.everlywell.com/products/cholesterol-and-lipids-test/,false
+sodium,Sodium,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5360545/PNG,https://en.wikipedia.org/wiki/Sodium,https://en.wikipedia.org/wiki/Serum_sodium,136,145,https://www.ondemand.labcorp.com/lab-tests/basic-metabolic-panel,,false
+potassium,Potassium,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5462222/PNG,https://en.wikipedia.org/wiki/Potassium,https://en.wikipedia.org/wiki/Serum_potassium_test,3.5,5.1,https://www.ondemand.labcorp.com/lab-tests/potassium-test,,false
+chloride,Chloride,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/312/PNG,https://en.wikipedia.org/wiki/Chloride,https://en.wikipedia.org/wiki/Serum_chloride,98,107,https://www.ondemand.labcorp.com/lab-tests/chloride-blood-test,,false
+urea,Urea,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1176/PNG,https://en.wikipedia.org/wiki/Urea,https://en.wikipedia.org/wiki/Blood_urea_nitrogen,2.5,7.1,https://www.ondemand.labcorp.com/lab-tests/urea-nitrogen-bun,,false
+phosphate,Phosphate,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1061/PNG,https://en.wikipedia.org/wiki/Phosphate,https://en.wikipedia.org/wiki/Phosphate_test,0.81,1.45,https://www.ondemand.labcorp.com/lab-tests/phosphorus-test,,false
+magnesium,Magnesium,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/888/PNG,https://en.wikipedia.org/wiki/Magnesium,https://en.wikipedia.org/wiki/Magnesium_test,0.66,1.07,https://www.ondemand.labcorp.com/lab-tests/magnesium-test,,false
+iron,Iron,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23925/PNG,https://en.wikipedia.org/wiki/Iron,https://en.wikipedia.org/wiki/Serum_iron,0.01,0.03,https://www.ondemand.labcorp.com/lab-tests/iron-and-total-iron-binding-capacity-tibc,,false
+triglycerides,Triglycerides,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460048/PNG,https://en.wikipedia.org/wiki/Triglyceride,https://en.wikipedia.org/wiki/Triglyceride_test,0.3,1.7,https://www.ondemand.labcorp.com/lab-tests/triglycerides-test,,false
+albumin,Albumin,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132389/PNG,https://en.wikipedia.org/wiki/Human_serum_albumin,https://en.wikipedia.org/wiki/Serum_albumin,0.57,0.8,https://www.ondemand.labcorp.com/lab-tests/albumin-test,,false
+total_protein,Total Protein,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Protein_TIM_barrel.png/1920px-Protein_TIM_barrel.png,https://en.wikipedia.org/wiki/Protein,https://en.wikipedia.org/wiki/Serum_total_protein,0.06,0.08,https://www.ondemand.labcorp.com/lab-tests/total-protein-test,,false
+bilirubin,Bilirubin,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280352/PNG,https://en.wikipedia.org/wiki/Bilirubin,https://en.wikipedia.org/wiki/Bilirubin_test,0.003,0.02,https://www.ondemand.labcorp.com/lab-tests/bilirubin-total,,false
+alkaline_phosphatase,Alkaline Phosphatase,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1ALK_Alkaline_Phosphatase.png/800px-1ALK_Alkaline_Phosphatase.png,https://en.wikipedia.org/wiki/Alkaline_phosphatase,https://en.wikipedia.org/wiki/Alkaline_phosphatase#Blood_test,0.5,1.5,https://www.ondemand.labcorp.com/lab-tests/alkaline-phosphatase-alp,,false
+ast,Aspartate Aminotransferase (AST),https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AST_dimer.png/800px-AST_dimer.png,https://en.wikipedia.org/wiki/Aspartate_transaminase,https://en.wikipedia.org/wiki/Aspartate_transaminase#Blood_test,0.008,0.04,https://www.ondemand.labcorp.com/lab-tests/aspartate-aminotransferase-ast,,false
+alt,Alanine Aminotransferase (ALT),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Protein_ALT_PDB_1zgy.png/800px-Protein_ALT_PDB_1zgy.png,https://en.wikipedia.org/wiki/Alanine_transaminase,https://en.wikipedia.org/wiki/Alanine_transaminase#Blood_test,0.007,0.056,https://www.ondemand.labcorp.com/lab-tests/alanine-aminotransferase-alt,,false
+ggt,Gamma-Glutamyl Transferase (GGT),https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PDB_2z8x_EBI.jpg/800px-PDB_2z8x_EBI.jpg,https://en.wikipedia.org/wiki/Gamma-glutamyltransferase,https://en.wikipedia.org/wiki/Gamma-glutamyl_transferase#Blood_test,0.007,0.05,https://www.ondemand.labcorp.com/lab-tests/gamma-glutamyl-transferase-ggt,,false
+tsh,Thyroid Stimulating Hormone (TSH),https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Thyrotropin.png/800px-Thyrotropin.png,https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone,https://en.wikipedia.org/wiki/Thyroid_function_tests#TSH_test,0.0006,0.005,https://www.ondemand.labcorp.com/lab-tests/thyroid-stimulating-hormone-tsh,,false
+free_t4,Free Thyroxine (Free T4),https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/L-Thyroxine.svg/1920px-L-Thyroxine.svg.png,https://en.wikipedia.org/wiki/Thyroxine,https://en.wikipedia.org/wiki/Thyroid_function_tests#Free_T4,0.012,0.022,https://www.ondemand.labcorp.com/lab-tests/free-thyroxine-free-t4,,false
+vitamin_d,Vitamin D,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cholecalciferol.svg/1920px-Cholecalciferol.svg.png,https://en.wikipedia.org/wiki/Vitamin_D,https://en.wikipedia.org/wiki/Vitamin_D#Testing,0.05,0.15,https://www.ondemand.labcorp.com/lab-tests/vitamin-d-25-hydroxy,https://www.everlywell.com/products/vitamin-d-test/,true
+vitamin_b12,Vitamin B12,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cobalamin.png/1920px-Cobalamin.png,https://en.wikipedia.org/wiki/Vitamin_B12,https://en.wikipedia.org/wiki/Vitamin_B12_deficiency#Diagnosis,0.0002,0.0007,https://www.ondemand.labcorp.com/lab-tests/vitamin-b12,https://www.letsgetchecked.com/us/en/home-vitamin-test/,true
+folic_acid,Folic Acid,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Folic_acid.svg/1920px-Folic_acid.svg.png,https://en.wikipedia.org/wiki/Folic_acid,https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis,0.0067,0.047,https://www.ondemand.labcorp.com/lab-tests/folate,,false
+crp,C-Reactive Protein (CRP),https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/C-reactive_protein_pentamer_from_PDB_1b09.png/800px-C-reactive_protein_pentamer_from_PDB_1b09.png,https://en.wikipedia.org/wiki/C-reactive_protein,https://en.wikipedia.org/wiki/C-reactive_protein#Blood_test,0.008,0.01,https://www.ondemand.labcorp.com/lab-tests/c-reactive-protein-crp-high-sensitivity,,false
+esr,Erythrocyte Sedimentation Rate (ESR),https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westergren_ESR_tube.JPG/800px-Westergren_ESR_tube.JPG,https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate,https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate,0.04,0.2,https://www.ondemand.labcorp.com/lab-tests/sedimentation-rate-esr-westergren,,false
+ldh,Lactate Dehydrogenase (LDH),https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ldh_1i10.png/800px-Ldh_1i10.png,https://en.wikipedia.org/wiki/Lactate_dehydrogenase,https://en.wikipedia.org/wiki/Lactate_dehydrogenase#Blood_test,1.67,3.17,https://www.ondemand.labcorp.com/lab-tests/lactate-dehydrogenase-ldh,,false
+cortisol,Cortisol,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cortisol2.svg/1920px-Cortisol2.svg.png,https://en.wikipedia.org/wiki/Cortisol,https://en.wikipedia.org/wiki/Cortisol#Testing,0.14,0.69,https://www.ondemand.labcorp.com/lab-tests/cortisol-am,,false
+testosterone,Testosterone,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Testosterone.svg/1920px-Testosterone.svg.png,https://en.wikipedia.org/wiki/Testosterone,https://en.wikipedia.org/wiki/Testosterone#Testing,0.01,0.03,https://www.ondemand.labcorp.com/lab-tests/testosterone-total,,false
+estradiol,Estradiol,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Estradiol.svg/1920px-Estradiol.svg.png,https://en.wikipedia.org/wiki/Estradiol,https://en.wikipedia.org/wiki/Estradiol_test,0.000037,0.000147,https://www.ondemand.labcorp.com/lab-tests/estradiol,,false
+progesterone,Progesterone,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Progesteron.svg/1920px-Progesteron.svg.png,https://en.wikipedia.org/wiki/Progesterone,https://en.wikipedia.org/wiki/Progesterone_test,0.0032,0.086,https://www.ondemand.labcorp.com/lab-tests/progesterone,,false
+prolactin,Prolactin,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Protein_PRL_PDB_1n9d.png/800px-Protein_PRL_PDB_1n9d.png,https://en.wikipedia.org/wiki/Prolactin,https://en.wikipedia.org/wiki/Prolactin#Hyperprolactinaemia,0.000087,0.00019,https://www.ondemand.labcorp.com/lab-tests/prolactin,,false
+ferritin,Ferritin,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ferritin.png/800px-Ferritin.png,https://en.wikipedia.org/wiki/Ferritin,https://en.wikipedia.org/wiki/Ferritin_test,0.000067,0.0004,https://www.ondemand.labcorp.com/lab-tests/ferritin,,false
+homocysteine,Homocysteine,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Homocysteine-2D-skeletal.png/1920px-Homocysteine-2D-skeletal.png,https://en.wikipedia.org/wiki/Homocysteine,https://en.wikipedia.org/wiki/Homocysteine#Blood_tests,0.005,0.015,https://www.ondemand.labcorp.com/lab-tests/homocysteine,,false
+lipase,Lipase,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lipase_1lpa.png/800px-Lipase_1lpa.png,https://en.wikipedia.org/wiki/Lipase,https://en.wikipedia.org/wiki/Lipase_test,0.00012,0.00075,https://www.ondemand.labcorp.com/lab-tests/lipase,,false
+amylase,Amylase,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Amylase_1smda.png/800px-Amylase_1smda.png,https://en.wikipedia.org/wiki/Amylase,https://en.wikipedia.org/wiki/Amylase#Blood_test,0.0012,0.0053,https://www.ondemand.labcorp.com/lab-tests/amylase,,false
+ceruloplasmin,Ceruloplasmin,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protein_CP_PDB_1kcw.png/800px-Protein_CP_PDB_1kcw.png,https://en.wikipedia.org/wiki/Ceruloplasmin,https://en.wikipedia.org/wiki/Ceruloplasmin#Measurement,0.0015,0.006,https://www.ondemand.labcorp.com/lab-tests/ceruloplasmin,,false
+ammonia,Ammonia,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ammonia-3D-balls.png/800px-Ammonia-3D-balls.png,https://en.wikipedia.org/wiki/Ammonia,https://en.wikipedia.org/wiki/Hyperammonemia#Diagnosis,0.011,0.051,https://www.ondemand.labcorp.com/lab-tests/ammonia,,false
+b2m,Beta-2 Microglobulin (B2M),https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/B2MG_dimer.png/800px-B2MG_dimer.png,https://en.wikipedia.org/wiki/Beta-2_microglobulin,https://en.wikipedia.org/wiki/Beta-2_microglobulin#Blood_test,0.001,0.003,https://www.ondemand.labcorp.com/lab-tests/beta-2-microglobulin-b2m,,false
+copper,Copper,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23978/PNG,https://en.wikipedia.org/wiki/Copper,https://en.wikipedia.org/wiki/Copper_in_health#Blood_test,0.0118,0.0236,https://www.ondemand.labcorp.com/lab-tests/copper-serum,,false
+pyruvate,Pyruvate,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/107735/PNG,https://en.wikipedia.org/wiki/Pyruvic_acid,https://en.wikipedia.org/wiki/Pyruvic_acid#Blood_test,0.03,0.1,https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/8663,,false
+uric_acid,Uric Acid,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1175/PNG,https://en.wikipedia.org/wiki/Uric_acid,https://en.wikipedia.org/wiki/Uric_acid#Blood_test,0.18,0.42,https://www.ondemand.labcorp.com/lab-tests/uric-acid,,false
+zinc,Zinc,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23994/PNG,https://en.wikipedia.org/wiki/Zinc,https://en.wikipedia.org/wiki/Zinc#Deficiency,0.0076,0.0153,https://www.ondemand.labcorp.com/lab-tests/zinc,,false
+creatine_kinase,Creatine Kinase,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Creatine_kinase.png/800px-Creatine_kinase.png,https://en.wikipedia.org/wiki/Creatine_kinase,https://en.wikipedia.org/wiki/Creatine_kinase#Blood_test,0.22,3.33,https://www.ondemand.labcorp.com/lab-tests/creatine-kinase-ck-cpk,,false
+troponin,Troponin,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Troponin_Complex_2.png/800px-Troponin_Complex_2.png,https://en.wikipedia.org/wiki/Troponin,https://en.wikipedia.org/wiki/Troponin_test,0,0.0004,https://www.ondemand.labcorp.com/lab-tests/troponin-i,,false
+folate_serum,Folate (Serum),https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG,https://en.wikipedia.org/wiki/Folate,https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis,0.0067,0.0470,https://www.ondemand.labcorp.com/lab-tests/folate,,false
+vitamin_a,Vitamin A,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG,https://en.wikipedia.org/wiki/Vitamin_A,https://en.wikipedia.org/wiki/Vitamin_A_deficiency#Diagnosis,0.0007,0.0036,https://www.ondemand.labcorp.com/lab-tests/vitamin-a,,false
+vitamin_c,Vitamin C,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG,https://en.wikipedia.org/wiki/Vitamin_C,https://en.wikipedia.org/wiki/Vitamin_C_deficiency#Diagnosis,0.023,0.085,https://www.ondemand.labcorp.com/lab-tests/vitamin-c,,false
+alpha_fetoprotein,Alpha Fetoprotein,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Protein_AFP_PDB_1e7a.png/800px-Protein_AFP_PDB_1e7a.png,https://en.wikipedia.org/wiki/Alpha-fetoprotein,https://en.wikipedia.org/wiki/Alpha-fetoprotein_test,0,0.000008,https://www.ondemand.labcorp.com/lab-tests/alpha-fetoprotein-tumor-marker,,false
+beta_hcg,Beta Human Chorionic Gonadotropin (HCG),https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Chorionic_gonadotropin_PDB_1hrp.png/800px-Chorionic_gonadotropin_PDB_1hrp.png,https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin,https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin#Blood_test,0,0.005,https://www.ondemand.labcorp.com/lab-tests/hcg-quantitative-pregnancy,,true
+ca19_9,CA19.9,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CA19-9.svg/1920px-CA19-9.svg.png,https://en.wikipedia.org/wiki/CA19-9,https://en.wikipedia.org/wiki/CA19-9#Blood_test,0,0.000037,https://www.ondemand.labcorp.com/lab-tests/cancer-antigen-19-9,,false
+cea,Carcinoembryonic Antigen (CEA),https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Protein_CEA_PDB_2qy0.png/800px-Protein_CEA_PDB_2qy0.png,https://en.wikipedia.org/wiki/Carcinoembryonic_antigen,https://en.wikipedia.org/wiki/Carcinoembryonic_antigen#Blood_test,0,0.0000025,https://www.ondemand.labcorp.com/lab-tests/carcinoembryonic-antigen-cea,,false
+pap,Prostatic Acid Phosphatase (PAP),https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Protein_ACPP_PDB_1nd6.png/800px-Protein_ACPP_PDB_1nd6.png,https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase,https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase#Medical_uses,0,0.002,https://www.ondemand.labcorp.com/lab-tests/prostatic-acid-phosphatase-pap,,false
+psa,Prostate-Specific Antigen (PSA),https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Protein_KLK3_PDB_2zch.png/800px-Protein_KLK3_PDB_2zch.png,https://en.wikipedia.org/wiki/Prostate-specific_antigen,https://en.wikipedia.org/wiki/Prostate-specific_antigen#Blood_test,0,0.004,https://www.ondemand.labcorp.com/lab-tests/prostate-specific-antigen-psa-total,,false
+alpha_1_antitrypsin,Alpha 1-Antitrypsin,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Protein_SERPINA1_PDB_1hp7.png/800px-Protein_SERPINA1_PDB_1hp7.png,https://en.wikipedia.org/wiki/Alpha-1_antitrypsin,https://en.wikipedia.org/wiki/Alpha_1-antitrypsin_deficiency#Diagnosis,0.020,0.048,https://www.ondemand.labcorp.com/lab-tests/alpha-1-antitrypsin,,false
+angiotensin_converting_enzyme,Angiotensin-Converting Enzyme,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Protein_ACE_PDB_2c6f.png/800px-Protein_ACE_PDB_2c6f.png,https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme,https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme#Blood_test,0.01,0.085,https://www.ondemand.labcorp.com/lab-tests/angiotensin-converting-enzyme-ace,,false
+d_dimer,D-Dimer,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fibrin_fragment_D-dimer.png/800px-Fibrin_fragment_D-dimer.png,https://en.wikipedia.org/wiki/D-dimer,https://en.wikipedia.org/wiki/D-dimer_test,0,0.0005,https://www.ondemand.labcorp.com/lab-tests/d-dimer-quantitative,,false
+lead,Lead,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5352425/PNG,https://en.wikipedia.org/wiki/Lead,https://en.wikipedia.org/wiki/Lead_poisoning#Diagnosis,0,0.00024,https://www.ondemand.labcorp.com/lab-tests/lead,,false
+rheumatoid_factor,Rheumatoid Factor,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IgM_Pentamer.svg/1280px-IgM_Pentamer.svg.png,https://en.wikipedia.org/wiki/Rheumatoid_factor,https://en.wikipedia.org/wiki/Rheumatoid_factor#Blood_test,0,0.015,https://www.ondemand.labcorp.com/lab-tests/rheumatoid-factor,,false
+acetoacetate,Acetoacetate,https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/96/PNG,https://en.wikipedia.org/wiki/Acetoacetate,,0.004,0.043,,,false
+acetone,Acetone,,https://en.wikipedia.org/wiki/Acetone,,0.003,0.02,,,false
+acetylcholine,Acetylcholine,,https://en.wikipedia.org/wiki/Acetylcholine,,0.0000066,0.0000082,,,false
+adrenocorticotropic_hormone,Adrenocorticotropic Hormone,,https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone,,0.000000025,0.00000012 ,,,false
+alanine,Alanine,,https://en.wikipedia.org/wiki/Alanine,,0.000024,0.000076,,,false
+aluminum,Aluminum,,https://en.wikipedia.org/wiki/Aluminium,,0.00000001,0.00000088,,,false
+aldosterone,Aldosterone,,https://en.wikipedia.org/wiki/Aldosterone,,0.000000003,0.00000003,,,false
+alpha_aminobutyric_acid,alpha-Aminobutyric acid,,https://en.wikipedia.org/wiki/Alpha-Aminobutyric_acid ,,0.000001,0.000002,,,false
+delta_aminolevulinic_acid,δ-Aminolevulinic acid,,https://en.wikipedia.org/wiki/Aminolevulinic_acid,,0.00000015,0.00000023,,,false
+ammonia,Ammonia,,https://en.wikipedia.org/wiki/Ammonia,,0.0000001,0.00000049,,,false
+androstenedione,Androstenedione ,,https://en.wikipedia.org/wiki/Androstenedione,,0.0000000002,0.0000000030, ,,false
+androsterone,Androsterone,,https://en.wikipedia.org/wiki/Androsterone,,0.00000015,0.00000015,,,false
+angiotensin_i,Angiotensin I,,https://en.wikipedia.org/wiki/Angiotensin_I ,,0.000000000011,0.000000000088,,,false
+angiotensin_ii,Angiotensin II,,https://en.wikipedia.org/wiki/Angiotensin_II,,0.0000000000012,0.0000000000036,,,false
+arginine,Arginine,,https://en.wikipedia.org/wiki/Arginine,,0.000013,0.000036  ,,,false
+arsenic,Arsenic,,https://en.wikipedia.org/wiki/Arsenic,,0.000000002,0.000009300,,,false
+aspartic_acid,Aspartic acid,,https://en.wikipedia.org/wiki/Aspartic_acid,,0.000009,0.000012,,,false
+bile_acids,Bile acids,,https://en.wikipedia.org/wiki/Bile_acid, ,0.000003,0.00003,,,false
+biotin,Biotin,,https://en.wikipedia.org/wiki/Biotin ,,0.000000009,0.000000016,,,false
+bradykinin,Bradykinin,,https://en.wikipedia.org/wiki/Bradykinin,,0.00000000007,0.00000000007,,,false
+bromide,Bromide,,https://en.wikipedia.org/wiki/Bromide,,0.000000007,0.00000001,,,false
+cadmium,Cadmium,,https://en.wikipedia.org/wiki/Cadmium,,0.000000001,0.000003,,,false
+calcitonin,Calcitonin,,https://en.wikipedia.org/wiki/Calcitonin ,,0.0000000001,0.0000000001,,,false
+carcinoembryonic_antigen,Carcinoembryonic antigen,,https://en.wikipedia.org/wiki/Carcinoembryonic_antigen,,0,0.0000000025,,,false
+beta_carotene,beta-Carotene,,https://en.wikipedia.org/wiki/Beta-Carotene,,0.0000003,0.0000025,,,false
+ceruloplasmin,Ceruloplasmin,,https://en.wikipedia.org/wiki/Ceruloplasmin,,0.00015,0.0006,,,false
+cholecystokinin,Cholecystokinin,,https://en.wikipedia.org/wiki/Cholecystokinin,,0.0000000000604,0.0000000000604,,,false
+citric_acid,Citric acid  ,,https://en.wikipedia.org/wiki/Citric_acid,,0.000016,0.000032,,,false
+citrulline,Citrulline,,https://en.wikipedia.org/wiki/Citrulline,,0.000002,0.00001,,,false
+compound_s,Compound S,,https://en.wikipedia.org/wiki/21-Hydroxypregnenolone,,0.000000001,0.000000003,,,false
+corticosterone,Corticosterone,,https://en.wikipedia.org/wiki/Corticosterone, ,0.000000004,0.00000002,,,false
+c_peptide,C-peptide,,https://en.wikipedia.org/wiki/Connecting_peptide,,0.0000000005,0.000000004,,,false
+cyanide,Cyanide,,https://en.wikipedia.org/wiki/Cyanide,,0.000000004,0.000001,,,false
+cysteine,Cysteine,,https://en.wikipedia.org/wiki/Cysteine  ,,0.000018,0.00005,,,false
+dehydroepiandrosterone,Dehydroepiandrosterone,,https://en.wikipedia.org/wiki/Dehydroepiandrosterone,,0.0000000002 ,0.00000002,,,false
+dihydrotestosterone,Dihydrotestosterone,,https://en.wikipedia.org/wiki/Dihydrotestosterone,,0.000000001,0.000000008, ,,false
+compound_11_deoxycortisol,11-Deoxycortisol,,https://en.wikipedia.org/wiki/11-Deoxycortisol,,0.00000001,0.00000007,,,false
+dopamine,Dopamine,,https://en.wikipedia.org/wiki/Dopamine,,0,0.000000000136,,,false
+epidermal_growth_factor ,Epidermal growth factor,,https://en.wikipedia.org/wiki/Epidermal_growth_factor,,0,0.00000000001,,,false
+ergothioneine,Ergothioneine,,https://en.wikipedia.org/wiki/Ergothioneine,,0.00001,0.00002 ,,,false
+erythropoietin,Erythropoietin  ,,https://en.wikipedia.org/wiki/Erythropoietin,,0.0000000005,0.00000008,,,false
+estriol,Estriol,,https://en.wikipedia.org/wiki/Estriol,,0 ,0.00017,,,false
+estrone,Estrone,,https://en.wikipedia.org/wiki/Estrone ,,0.0000000029,0.00000001,,,false
+alpha_1_fetoprotein,alpha-1-Fetoprotein,,https://en.wikipedia.org/wiki/Alpha-fetoprotein,,0 ,0.00000002,,,false
+flavin_adenine_dinucleotide,Flavin adenine dinucleotide,,https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide ,,0.00000008,0.00000012,,,false
+fluoride,Fluoride,,https://en.wikipedia.org/wiki/Fluoride,,0.0000001,0.00000045,,,false
+fructose,Fructose,,https://en.wikipedia.org/wiki/Fructose,,0.00007,0.00008, ,,false
+furosemide_glucuronide  ,Furosemide glucuronide,,https://en.wikipedia.org/wiki/Furosemide,,0.000001,0.0004,,,false
+galactose,Galactose ,,https://en.wikipedia.org/wiki/Galactose,,0,0.0002,,,false
+gastric_inhibitory_peptide,Gastric Inhibitory Peptide (GIP),,https://en.wikipedia.org/wiki/Gastric_inhibitory_polypeptide,,0.000000000125,0.0000000004,,,false
+gastrin,Gastrin  ,,https://en.wikipedia.org/wiki/Gastrin,,0 ,0.00000000002,,,false
+glucosamine,Glucosamine,,https://en.wikipedia.org/wiki/Glucosamine,,0.00042,0.00089,,,false
+glucuronic_acid,Glucuronic acid,,https://en.wikipedia.org/wiki/Glucuronic_acid ,,0.000008,0.000011,,,false
+glutamic_acid,Glutamic acid,,https://en.wikipedia.org/wiki/Glutamic_acid, ,0.000002,0.000028,,,false
+glutamine,Glutamine,,https://en.wikipedia.org/wiki/Glutamine,,0.000046,0.000106  ,,,false
+glutathione,Glutathione,,https://en.wikipedia.org/wiki/Glutathione,,0.00025,0.00041, ,,false
+glycerol,Glycerol,,https://en.wikipedia.org/wiki/Glycerol,,0.0000029,0.0000172,,,false
+glycogen,Glycogen,,https://en.wikipedia.org/wiki/Glycogen,,0.000012,0.000162,,,false
+cyclic_gmp,Cyclic GMP,,https://en.wikipedia.org/wiki/Cyclic_guanosine_monophosphate  ,,0.0000000006,0.0000000044,,,false
+gonadotropin_releasing_hormone,Gonadotropin-releasing hormone,,https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone,,0.000000000001,0.00000000008, ,,false
+guanidine,Guanidine,,https://en.wikipedia.org/wiki/Guanidine,,0.0000018,0.0000023,,,false
+haptoglobin,Haptoglobin,,https://en.wikipedia.org/wiki/Haptoglobin,,0.0003 ,0.0022,,,false
+hemoglobin,Hemoglobin,,https://en.wikipedia.org/wiki/Hemoglobin, ,0.12,0.195,,,false
+histamine,Histamine,,https://en.wikipedia.org/wiki/Histamine,,0.000000067 ,0.000000086,,,false
+beta_hydroxybutyric_acid,beta-Hydroxybutyric acid ,,https://en.wikipedia.org/wiki/Beta-Hydroxybutyric_acid,,0.000001,0.000009,,,false
+17_hydroxycorticosteroids,17α-Hydroxycorticosteroids,,https://en.wikipedia.org/wiki/17-Hydroxycorticosteroid,,0.00000004,0.0000001,,,false
+17_hydroxyprogesterone,17α-Hydroxyprogesterone,,https://en.wikipedia.org/wiki/17-Hydroxyprogesterone,,0.000000000004,0.0000000003,,,false
+indican,Indican,,https://en.wikipedia.org/wiki/Indican,,0.0000008,0.000005,,,false
+insulin_like_growth_factor,Insulin-like growth factor ,,https://en.wikipedia.org/wiki/Insulin-like_growth_factor_1,,0.0000000099,0.000005,,,false
+alpha_ketonic_acids,alpha-Ketonic acids,,https://en.wikipedia.org/wiki/Alpha-Ketonic_acid,,0.000001  ,0.00003,,,false
+leptin,Leptin,,https://en.wikipedia.org/wiki/Leptin,,0.0000000012,0.0000000012,,,false
+lecithin,Lecithin,,https://en.wikipedia.org/wiki/Lecithin,,0.001,0.00225, ,,false
+lipoprotein,Lipoprotein,,https://en.wikipedia.org/wiki/Lipoprotein, ,0.0001,0.001,,,false
+lysozyme,Lysozyme,,https://en.wikipedia.org/wiki/Lysozyme ,,0.000001,0.000015, ,,false
+malic_acid,Malic acid,,https://en.wikipedia.org/wiki/Malic_acid,,0.000001,0.000009,,,false
+melatonin_day,Melatonin (Day),,https://en.wikipedia.org/wiki/Melatonin,,0.00000000000135  ,0.00000000000145,,,false
+melatonin_night  ,Melatonin (Night),,https://en.wikipedia.org/wiki/Melatonin,,0.00000000000607,0.00000000000713,,,false
+mercury,Mercury  ,,https://en.wikipedia.org/wiki/Mercury_(element),,0,0.0000002 ,,,false
+methemoglobin,Methemoglobin,,https://en.wikipedia.org/wiki/Methemoglobin, ,0.0004,0.0006,,,false
+methyl_guanidine,Methyl guanidine,,https://en.wikipedia.org/wiki/Methylguanidine,,0.000002,0.000003, ,,false
+macrophage_inflammatory_protein_1_alpha,Macrophage inflammatory protein 1-alpha,,https://en.wikipedia.org/wiki/CCL3, ,0.00000000023 ,0.00000000023,,,false
+macrophage_inflammatory_protein_1_beta,Macrophage inflammatory protein 1-beta,,https://en.wikipedia.org/wiki/CCL4,,0.0000000009,0.0000000009  ,,,false
+mucopolysaccharides,Mucopolysaccharides,,https://en.wikipedia.org/wiki/Glycosaminoglycan,,0.00175,0.00225,,,false
+mucoproteins,Mucoproteins  ,,https://en.wikipedia.org/wiki/Mucoprotein,,0.000865,0.00096,,,false
+niacin,Niacin,,https://en.wikipedia.org/wiki/Niacin  ,,0.0000002,0.000015,,,false
+norepinephrine_15_min_rest,Norepinephrine (after 15 min rest),,https://en.wikipedia.org/wiki/Norepinephrine, ,0.000000000215,0.000000000475,,,false
+norepinephrine_emitted,Norepinephrine (when emitted),,https://en.wikipedia.org/wiki/Norepinephrine  ,,0.0000000081,0.0000000085,,,false
+nucleotide,Nucleotide  ,,https://en.wikipedia.org/wiki/Nucleotide,,0.00031,0.00052,,,false
+ornithine,Ornithine,,https://en.wikipedia.org/wiki/Ornithine, ,0.000004,0.000014,,,false
+oxytocin_male,Oxytocin (male),,https://en.wikipedia.org/wiki/Oxytocin,,0.000000000002  ,0.000000000002,,,false
+oxytocin_female_nonlactating,"Oxytocin (female, nonlactating)  ",,https://en.wikipedia.org/wiki/Oxytocin,,0.000000000002,0.000000000002,,,false
+oxytocin_female_pregnant_33_40_wks,"Oxytocin (female, pregnant 33-40 wks)",,https://en.wikipedia.org/wiki/Oxytocin  ,,0.00000000032,0.00000000048,,,false
+pancreatic_polypeptide  ,Pancreatic polypeptide,,https://en.wikipedia.org/wiki/Pancreatic_polypeptide,,0.00000000005,0.0000000002,,,false
+pantothenic_acid,Pantothenic acid  ,,https://en.wikipedia.org/wiki/Pantothenic_acid,,0.00000006,0.00000035,,,false
+para_aminobenzoic_acid,Para-aminobenzoic acid,,https://en.wikipedia.org/wiki/Para-Aminobenzoic_acid, ,0.00000003,0.00000004,,,false
+pentose,Pentose,,https://en.wikipedia.org/wiki/Pentose  ,,0.00002,0.000023,,,false
+phenol,Phenol,,https://en.wikipedia.org/wiki/Phenol,,0.0000007,0.000001,,,false
+phenylalanine,Phenylalanine,,https://en.wikipedia.org/wiki/Phenylalanine,,0.000011,0.00004,,,false
+phospholipid,Phospholipid,,https://en.wikipedia.org/wiki/Phospholipid,,0.00005,0.00012,,,false
+phosphorus_inorganic_adult,"Phosphorus inorganic, adult",,https://en.wikipedia.org/wiki/Phosphorus,,0.000023,0.000045,,,false
+phosphorus_inorganic_children,"Phosphorus inorganic, children",,https://en.wikipedia.org/wiki/Phosphorus,,0.00004,0.00007,,,false
+phosphorus_total,Phosphorus total,,https://en.wikipedia.org/wiki/Phosphorus,,0.0001,0.00015,,,false
+phytanic_acid,Phytanic acid,,https://en.wikipedia.org/wiki/Phytanic_acid,,0,0.000003,,,false
+platelet_derived_growth_factor,Platelet-derived growth factor,,https://en.wikipedia.org/wiki/Platelet-derived_growth_factor,,0,0.00000005,,,false
+polysaccharides_total,Polysaccharides total,,https://en.wikipedia.org/wiki/Polysaccharide,,0.000073,0.000131,,,false
+pregnenolone,Pregnenolone,,https://en.wikipedia.org/wiki/Pregnenolone,,0.0000000003,0.000000002,,,false
+progesterone_female_follicular,"Progesterone (female, follicular)",,https://en.wikipedia.org/wiki/Progesterone,,0.0000000004,0.0000000009,,,false
+progesterone_female_midluteal,"Progesterone (female, midluteal)",,https://en.wikipedia.org/wiki/Progesterone,,0.0000000077,0.0000000121,,,false
+progesterone_pregnancy_weeks_16_18,"Progesterone (pregnancy, weeks 16-18)",,https://en.wikipedia.org/wiki/Progesterone,,0.000000003,0.000000066,,,false
+progesterone_pregnancy_weeks_28_30,"Progesterone (pregnancy, weeks 28-30)",,https://en.wikipedia.org/wiki/Progesterone,,0.00000007,0.000000126,,,false
+progesterone_pregnancy_weeks_38_40,"Progesterone (pregnancy, weeks 38-40)",,https://en.wikipedia.org/wiki/Progesterone,,0.000000131,0.000000227,,,false
+progesterone_male,Progesterone (male),,https://en.wikipedia.org/wiki/Progesterone,,0.000000012,0.00000002,,,false
+proinsulin_fasting,Proinsulin fasting,,https://en.wikipedia.org/wiki/Proinsulin,,0.0000000005,0.0000000005,,,false
+proinsulin_mean,Proinsulin mean,,https://en.wikipedia.org/wiki/Proinsulin,,0.0000000142,0.000000017,,,false
+prolactin_male_awake,"Prolactin (male, awake)",,https://en.wikipedia.org/wiki/Prolactin,,0.000000001,0.000000007,,,false
+prolactin_male_sleep,"Prolactin (male, during sleep)",,https://en.wikipedia.org/wiki/Prolactin,,0.000000009,0.00000002,,,false
+prolactin_female_follicular,"Prolactin (female, follicular)",,https://en.wikipedia.org/wiki/Prolactin,,0,0.000000023,,,false
+prolactin_female_luteal,"Prolactin (female, luteal)",,https://en.wikipedia.org/wiki/Prolactin,,0.000000005,0.00000004,,,false
+proline,Proline,,https://en.wikipedia.org/wiki/Proline,,0.000012,0.000057,,,false
+prostaglandin_e,Prostaglandin PGE,,https://en.wikipedia.org/wiki/Prostaglandin_E2,,0.0000000000355,0.0000000000415,,,false
+prostaglandin_f,Prostaglandin PGF,,https://en.wikipedia.org/wiki/Prostaglandin_F2alpha,,0.0000000000126,0.0000000000156,,,false
+15_keto_pgf2a,15-keto-PGF2a,,https://en.wikipedia.org/wiki/15-Keto-prostaglandin_F2alpha,,0,0.0000000005,,,false
+15_keto_pge2,15-keto-PGE2,,https://en.wikipedia.org/wiki/15-Keto-prostaglandin_E2,,0,0.00000000005,,,false
+protein_total,Protein total,,https://en.wikipedia.org/wiki/Protein,,0.06,0.083,,,false
+protoporphyrin,Protoporphyrin,,https://en.wikipedia.org/wiki/Protoporphyrin,,0.00000027,0.00000061,,,false
+pseudoglobulin_i,Pseudoglobulin I,,https://en.wikipedia.org/wiki/Pseudoglobulin,,0.008,0.019,,,false
+pseudoglobulin_ii,Pseudoglobulin II,,https://en.wikipedia.org/wiki/Pseudoglobulin,,0.002,0.008,,,false
+purine_total,Purine total,,https://en.wikipedia.org/wiki/Purine,,0.0000095,0.0000115,,,false
+pyrimidine_nucleotides,Pyrimidine nucleotides,,https://en.wikipedia.org/wiki/Pyrimidine,,0.0000002,0.0000012,,,false
+pyridoxine,Pyridoxine (Vitamin B6),,https://en.wikipedia.org/wiki/Pyridoxine,,0.0000000036,0.00000009,,,false
+rantes,RANTES,,https://en.wikipedia.org/wiki/CCL5,,0,0.00000000007,,,false
+relaxin_day_lt_100_preparturition,Relaxin (day <100 preparturition),,https://en.wikipedia.org/wiki/Relaxin,,0,0.000000002,,,false
+relaxin_day_100_to_2_days_preceding,Relaxin (day 100 to 2 days preceding parturition),,https://en.wikipedia.org/wiki/Relaxin,,0.000000005,0.00000004,,,false
+relaxin_day_preceding_parturition,Relaxin (day preceding parturition),,https://en.wikipedia.org/wiki/Relaxin,,0.0001,0.0002,,,false
+relaxin_day_following_parturition,Relaxin (day following parturition),,https://en.wikipedia.org/wiki/Relaxin,,0,0.000000002,,,false
+retinol,Retinol (Vitamin A),,https://en.wikipedia.org/wiki/Retinol,,0.0000001,0.0000008,,,false
+riboflavin,Riboflavin (Vitamin B2),,https://en.wikipedia.org/wiki/Riboflavin,,0.000000026,0.000000037,,,false
+rna,RNA,,https://en.wikipedia.org/wiki/RNA,,0.00004,0.00006,,,false
+secretin,Secretin,,https://en.wikipedia.org/wiki/Secretin,,0.000000000029,0.000000000045,,,false
+serine,Serine,,https://en.wikipedia.org/wiki/Serine,,0.000003,0.00002,,,false
+silicon,Silicon,,https://en.wikipedia.org/wiki/Silicon,,0.0000022,0.0000057,,,false
+solids_total,"Solids, total",,https://en.wikipedia.org/wiki/Total_dissolved_solids,,0.08,0.09,,,false
+somatotropin_growth_hormone,Somatotropin (growth hormone),,https://en.wikipedia.org/wiki/Growth_hormone,,0.0000000004,0.00000014,,,false
+sphingomyelin,Sphingomyelin,,https://en.wikipedia.org/wiki/Sphingomyelin,,0.001,0.004,,,false
+succinic_acid,Succinic acid,,https://en.wikipedia.org/wiki/Succinic_acid,,0.000005,0.000005 ,,,false
+sugar_total,"Sugar, total  ",,https://en.wikipedia.org/wiki/Sugar,,0.0007,0.0011,,,false
+sulfates_inorganic,Sulfates inorganic,,https://en.wikipedia.org/wiki/Sulfate,,0.000008,0.000012, ,,false
+sulfur_total,Sulfur total,,https://en.wikipedia.org/wiki/Sulfur,,0.031,0.038  ,,,false
+taurine  ,Taurine,,https://en.wikipedia.org/wiki/Taurine,,0.000003,0.000021,,,false
+testosterone_male_free  ,"Testosterone (male, free)",,https://en.wikipedia.org/wiki/Testosterone,,0.0000000056,0.0000000102,,,false
+testosterone_male_total,"Testosterone (male, total)  ",,https://en.wikipedia.org/wiki/Testosterone,,0.0000000275,0.0000000875,,,false
+testosterone_female_free,"Testosterone (female, free)",,https://en.wikipedia.org/wiki/Testosterone  ,,0.0000000000024,0.0000000000038,,,false
+testosterone_female_total,"Testosterone (female, total)",,https://en.wikipedia.org/wiki/Testosterone,,0.0000000023,0.0000000075,,,false
+testosterone_female_pregnant,"Testosterone (female, pregnant)",,https://en.wikipedia.org/wiki/Testosterone,,0.0000000038  ,0.000000019,,,false
+thiamine  ,Thiamine (Vitamin B1),,https://en.wikipedia.org/wiki/Thiamine,,0.00000001,0.00000009,,,false
+thiocyanate_nonsmoker,Thiocyanate (nonsmoker),,https://en.wikipedia.org/wiki/Thiocyanate, ,0.000001,0.000004,,,false
+thiocyanate_smoker,Thiocyanate (smoker) ,,https://en.wikipedia.org/wiki/Thiocyanate,,0.000003,0.000012,,,false
+threonine,Threonine,,https://en.wikipedia.org/wiki/Threonine ,,0.00000009,0.00000032,,,false
+thyroglobulin,Thyroglobulin (Tg),,https://en.wikipedia.org/wiki/Thyroglobulin,,0  ,0.00000005,,,false
+thyroid_hormones,Thyroid hormones,,https://en.wikipedia.org/wiki/Thyroid_hormone  ,,0.00000004,0.00000008,,,false
+thyroxine_free  ,"Thyroxine (FT4, free)",,https://en.wikipedia.org/wiki/Thyroxine,,0.000000000008,0.000000000024,,,false
+thyroxine_total,"Thyroxine (FT4, total)",,https://en.wikipedia.org/wiki/Thyroxine,,0.00000004,0.00000012,,,false
+thyroxine_binding_prealbumin  ,Thyroxine-binding prealbumin,,https://en.wikipedia.org/wiki/Transthyretin,,0.00028,0.00035,,,false
+thyroxine_binding_globulin,Thyroxine-binding globulin,,https://en.wikipedia.org/wiki/Thyroxine-binding_globulin  ,,0.0000001,0.00000034,,,false
+tin,Tin,,https://en.wikipedia.org/wiki/Tin,,0,0.0000001,,,false
+alpha_tocopherol  ,alpha-Tocopherol (Vitamin E),,https://en.wikipedia.org/wiki/Tocopherol ,,0.000005,0.00002,,,false
+transcortin_male,Transcortin (male),,https://en.wikipedia.org/wiki/Transcortin,,0.000015,0.00002,,,false
+transcortin_female  ,Transcortin (female),,https://en.wikipedia.org/wiki/Transcortin,,0.000016,0.000025,,,false
+transferrin_newborn,Transferrin (newborn)  ,,https://en.wikipedia.org/wiki/Transferrin,,0.0013,0.00275,,,false
+transferrin_adult,Transferrin (adult),,https://en.wikipedia.org/wiki/Transferrin,,0.0022,0.004, ,,false
+transferrin_over_60,Transferrin (age >60 yrs),,https://en.wikipedia.org/wiki/Transferrin,,0.0018,0.0038 ,,,false
+triiodothyronine_free,Triiodothyronine (free),,https://en.wikipedia.org/wiki/Triiodothyronine  ,,0.0000000000023,0.0000000000066,,,false
+triiodothyronine_total  ,"Triiodothyronine (total, T3)",,https://en.wikipedia.org/wiki/Triiodothyronine,,0.00000000075,0.0000000025,,,false
+tryptophan,Tryptophan,,https://en.wikipedia.org/wiki/Tryptophan,,0.000009,0.00003,,,false
+tyrosine  ,Tyrosine,,https://en.wikipedia.org/wiki/Tyrosine,,0.000004,0.000025,,,false
+uric_acid_child,Uric acid (child),,https://en.wikipedia.org/wiki/Uric_acid  ,,0.00002,0.0000067,,,false
+uric_acid_adult_male,"Uric acid (adult, male)  ",,https://en.wikipedia.org/wiki/Uric_acid,,0.000034,0.0000072,,,false
+uric_acid_adult_female,"Uric acid (adult, female)",,https://en.wikipedia.org/wiki/Uric_acid,,0.000024 ,0.0000061,,,false
+valine,Valine,,https://en.wikipedia.org/wiki/Valine, ,0.0000017,0.0000042,,,false
+vip,Vasoactive intestinal peptide (VIP),,https://en.wikipedia.org/wiki/Vasoactive_intestinal_peptide,,0.000000000006 ,0.000000000016,,,false
+vasopressin_hydrated,Vasopressin (hydrated),,https://en.wikipedia.org/wiki/Vasopressin ,,0.00000000000045,0.00000000000045,,,false
+vasopressin_dehydrated,Vasopressin (dehydrated),,https://en.wikipedia.org/wiki/Vasopressin,  ,0.0000000000037,0.0000000000037,,,false

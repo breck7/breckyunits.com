@@ -1,0 +1,3148 @@
+title Chemical Blood Tests
+
+This is a database of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
+ link ../ketonesVsLithium.html Ketones vs Lithium
+
+viewSource
+
+It is specific to blood chemistry tests. So there are no urine tests. And it is not about blood cell tests. And it does not gain blood gas tests. Generally it is a collection of information on levels of chemicals in blood plasma.
+
+This dataset was created to see how common it is for the target levels of certain chemicals in blood to fall between 0.8 and 3.0 mmol/L.
+
+At some point, I would like to add fields to get some measure on how popular each test is. Also, I want to add categories for each test (ie, electrolytes, Hormones, etc), and what the test method is (for example, Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy). I also want to add chemical formulas. It is likely that all the measures I would want to add are already present in HMDB.
+ https://hmdb.ca/metabolites?utf8=%E2%9C%93&filter=true&quantified=1&blood=1&filter=true HMDB
+
+# Schema
+
+schema
+ id: string
+ title: string
+ aka: string
+  description A comma separated list of other names for this chemical, such as brand names.
+ image: url
+ endogenous: boolean
+  description Is this produced anywhere in the human body?
+ chemicalWikipediaPage: url
+ bloodTestWikipediaPage: url
+  description If there is a wikipedia page not only about the chemical, but specifically about blood tests for that chemical, include that here.
+ bottom: float
+  description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+ top: float
+  description The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+ testAtLab: url
+  description A URL to buy/schedule an in lab test. Multiple are okay.
+ testAtHome: url
+  description A URL to buy an at home, instant test kit (NOT a kit that requires mailing in), usually involving disposable test strips. Multiple are okay.
+ testByMail: url
+  description A URL to buy a kit where you can draw blood at home but then must MAIL it into a lab. Multiple are okay.
+ canTestAtHome: boolean
+  description A boolean value indicating whether the whole test can be performed at home. If there is a valid url for testAtHome, then this should be true, otherwise false.
+
+:::
+
+id: glucose
+title: Glucose
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glucose
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Blood_sugar
+bottom: 3.9
+top: 5.6
+testAtLab: https://www.questhealth.com/product/diabetes-risk-panel-94341M.html
+testAtHome: https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit
+canTestAtHome: true
+
+:::
+
+id: lithium
+title: Lithium
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lithium_paraffin.jpg/800px-Lithium_paraffin.jpg
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lithium
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Lithium_pharmacology#Measurement
+bottom: 0.4
+top: 1.2
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/lithium
+canTestAtHome: false
+
+:::
+
+id: ketones
+title: Ketones
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/180/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ketone_bodies
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Ketone_bodies#Blood_testing
+bottom: 0.0
+top: 0.6
+testAtLab: https://www.walkinlab.com/products/view/ketone-blood-test
+testAtHome: https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit
+canTestAtHome: true
+
+:::
+
+id: creatinine
+title: Creatinine
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/588/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Creatinine
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Creatinine#Blood_test
+bottom: 0.06
+top: 0.12
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/creatinine-blood-test
+testAtHome: https://www.cvs.com/shop/diathrive-kidney-function-test-strips-15ct-prodid-1170071
+canTestAtHome: true
+
+:::
+
+id: calcium
+title: Calcium
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460341/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Calcium
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Calcium_in_biology#Plasma
+bottom: 2.1
+top: 2.6
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/calcium-test
+testAtLab: https://www.questhealth.com/product/calcium-test-303M.html
+canTestAtHome: false
+
+:::
+
+id: hdl_cholesterol
+title: HDL Cholesterol
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/24775087/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/High-density_lipoprotein
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Lipid_profile
+bottom: 1.0
+top: 1.5
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/lipid-panel
+testAtHome: https://www.everlywell.com/products/cholesterol-and-lipids-test/
+canTestAtHome: false
+
+:::
+
+id: sodium
+title: Sodium
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5360545/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sodium
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_sodium
+bottom: 136
+top: 145
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/basic-metabolic-panel
+canTestAtHome: false
+
+:::
+
+id: potassium
+title: Potassium
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5462222/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Potassium
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_potassium_test
+bottom: 3.5
+top: 5.1
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/potassium-test
+canTestAtHome: false
+
+:::
+
+id: chloride
+title: Chloride
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/312/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Chloride
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_chloride
+bottom: 98
+top: 107
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/chloride-blood-test
+canTestAtHome: false
+
+:::
+
+id: urea
+title: Urea
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1176/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Urea
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Blood_urea_nitrogen
+bottom: 2.5
+top: 7.1
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/urea-nitrogen-bun
+canTestAtHome: false
+
+:::
+
+id: phosphate
+title: Phosphate
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1061/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phosphate
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Phosphate_test
+bottom: 0.81
+top: 1.45
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/phosphorus-test
+canTestAtHome: false
+
+:::
+
+id: magnesium
+title: Magnesium
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/888/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Magnesium
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Magnesium_test
+bottom: 0.66
+top: 1.07
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/magnesium-test
+canTestAtHome: false
+
+:::
+
+id: iron
+title: Iron
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23925/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Iron
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_iron
+bottom: 0.01
+top: 0.03
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/iron-and-total-iron-binding-capacity-tibc
+canTestAtHome: false
+
+:::
+
+id: triglycerides
+title: Triglycerides
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460048/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Triglyceride
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Triglyceride_test
+bottom: 0.3
+top: 1.7
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/triglycerides-test
+canTestAtHome: false
+
+:::
+
+id: albumin
+title: Albumin
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132389/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Human_serum_albumin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_albumin
+bottom: 0.57
+top: 0.8
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/albumin-test
+canTestAtHome: false
+
+:::
+
+id: total_protein
+title: Total Protein
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Protein_TIM_barrel.png/1920px-Protein_TIM_barrel.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Protein
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Serum_total_protein
+bottom: 0.06
+top: 0.08
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/total-protein-test
+canTestAtHome: false
+
+:::
+
+id: bilirubin
+title: Bilirubin
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280352/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Bilirubin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Bilirubin_test
+bottom: 0.003
+top: 0.02
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/bilirubin-total
+canTestAtHome: false
+
+:::
+
+id: alkaline_phosphatase
+title: Alkaline Phosphatase
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1ALK_Alkaline_Phosphatase.png/800px-1ALK_Alkaline_Phosphatase.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alkaline_phosphatase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Alkaline_phosphatase#Blood_test
+bottom: 0.5
+top: 1.5
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/alkaline-phosphatase-alp
+canTestAtHome: false
+
+:::
+
+id: ast
+title: Aspartate Aminotransferase (AST)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AST_dimer.png/800px-AST_dimer.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aspartate_transaminase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Aspartate_transaminase#Blood_test
+bottom: 0.008
+top: 0.04
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/aspartate-aminotransferase-ast
+canTestAtHome: false
+
+:::
+
+id: alt
+title: Alanine Aminotransferase (ALT)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Protein_ALT_PDB_1zgy.png/800px-Protein_ALT_PDB_1zgy.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alanine_transaminase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Alanine_transaminase#Blood_test
+bottom: 0.007
+top: 0.056
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/alanine-aminotransferase-alt
+canTestAtHome: false
+
+:::
+
+id: ggt
+title: Gamma-Glutamyl Transferase (GGT)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PDB_2z8x_EBI.jpg/800px-PDB_2z8x_EBI.jpg
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Gamma-glutamyltransferase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Gamma-glutamyl_transferase#Blood_test
+bottom: 0.007
+top: 0.05
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/gamma-glutamyl-transferase-ggt
+canTestAtHome: false
+
+:::
+
+id: tsh
+title: Thyroid Stimulating Hormone (TSH)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Thyrotropin.png/800px-Thyrotropin.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Thyroid_function_tests#TSH_test
+bottom: 0.0006
+top: 0.005
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/thyroid-stimulating-hormone-tsh
+canTestAtHome: false
+
+:::
+
+id: free_t4
+title: Free Thyroxine (Free T4)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/L-Thyroxine.svg/1920px-L-Thyroxine.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroxine
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Thyroid_function_tests#Free_T4
+bottom: 0.012
+top: 0.022
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/free-thyroxine-free-t4
+canTestAtHome: false
+
+:::
+
+id: vitamin_d
+title: Vitamin D
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cholecalciferol.svg/1920px-Cholecalciferol.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_D
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_D#Testing
+bottom: 0.05
+top: 0.15
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-d-25-hydroxy
+testAtHome: https://www.everlywell.com/products/vitamin-d-test/
+canTestAtHome: true
+
+:::
+
+id: vitamin_b12
+title: Vitamin B12
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cobalamin.png/1920px-Cobalamin.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_B12
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_B12_deficiency#Diagnosis
+bottom: 0.0002
+top: 0.0007
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-b12
+testAtHome: https://www.letsgetchecked.com/us/en/home-vitamin-test/
+canTestAtHome: true
+
+:::
+
+id: folic_acid
+title: Folic Acid
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Folic_acid.svg/1920px-Folic_acid.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Folic_acid
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis
+bottom: 0.0067
+top: 0.047
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/folate
+canTestAtHome: false
+
+:::
+
+id: crp
+title: C-Reactive Protein (CRP)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/C-reactive_protein_pentamer_from_PDB_1b09.png/800px-C-reactive_protein_pentamer_from_PDB_1b09.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/C-reactive_protein
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/C-reactive_protein#Blood_test
+bottom: 0.008
+top: 0.01
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/c-reactive-protein-crp-high-sensitivity
+canTestAtHome: false
+
+# Notes
+Traditional CRP measurement only detected CRP in the range of 10 to 1,000 mg/L, whereas high sensitivity CRP (hs-CRP) detects CRP in the range of 0.5 to 10 mg/L.
+
+:::
+
+id: esr
+title: Erythrocyte Sedimentation Rate (ESR)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westergren_ESR_tube.JPG/800px-Westergren_ESR_tube.JPG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate
+bottom: 0.04
+top: 0.2
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/sedimentation-rate-esr-westergren
+canTestAtHome: false
+
+:::
+
+id: ldh
+title: Lactate Dehydrogenase (LDH)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ldh_1i10.png/800px-Ldh_1i10.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lactate_dehydrogenase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Lactate_dehydrogenase#Blood_test
+bottom: 1.67
+top: 3.17
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/lactate-dehydrogenase-ldh
+canTestAtHome: false
+
+:::
+
+id: cortisol
+title: Cortisol
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cortisol2.svg/1920px-Cortisol2.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cortisol
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Cortisol#Testing
+bottom: 0.14
+top: 0.69
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/cortisol-am
+canTestAtHome: false
+
+:::
+
+id: testosterone
+title: Testosterone
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Testosterone.svg/1920px-Testosterone.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Testosterone#Testing
+bottom: 0.01
+top: 0.03
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/testosterone-total
+canTestAtHome: false
+
+:::
+
+id: estradiol
+title: Estradiol
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Estradiol.svg/1920px-Estradiol.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Estradiol
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Estradiol_test
+bottom: 0.000037
+top: 0.000147
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/estradiol
+canTestAtHome: false
+
+:::
+
+id: progesterone
+title: Progesterone
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Progesteron.svg/1920px-Progesteron.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Progesterone_test
+bottom: 0.0032
+top: 0.086
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/progesterone
+canTestAtHome: false
+
+:::
+
+id: prolactin
+title: Prolactin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Protein_PRL_PDB_1n9d.png/800px-Protein_PRL_PDB_1n9d.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prolactin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Prolactin#Hyperprolactinaemia
+bottom: 0.000087
+top: 0.00019
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/prolactin
+canTestAtHome: false
+
+:::
+
+id: ferritin
+title: Ferritin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ferritin.png/800px-Ferritin.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ferritin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Ferritin_test
+bottom: 0.000067
+top: 0.0004
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/ferritin
+canTestAtHome: false
+
+:::
+
+id: homocysteine
+title: Homocysteine
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Homocysteine-2D-skeletal.png/1920px-Homocysteine-2D-skeletal.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Homocysteine
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Homocysteine#Blood_tests
+bottom: 0.005
+top: 0.015
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/homocysteine
+canTestAtHome: false
+
+:::
+
+id: lipase
+title: Lipase
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lipase_1lpa.png/800px-Lipase_1lpa.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lipase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Lipase_test
+bottom: 0.00012
+top: 0.00075
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/lipase
+canTestAtHome: false
+
+:::
+
+id: amylase
+title: Amylase
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Amylase_1smda.png/800px-Amylase_1smda.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Amylase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Amylase#Blood_test
+bottom: 0.0012
+top: 0.0053
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/amylase
+canTestAtHome: false
+
+:::
+
+id: ceruloplasmin
+title: Ceruloplasmin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protein_CP_PDB_1kcw.png/800px-Protein_CP_PDB_1kcw.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ceruloplasmin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Ceruloplasmin#Measurement
+bottom: 0.0015
+top: 0.006
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/ceruloplasmin
+canTestAtHome: false
+
+:::
+
+id: ammonia
+title: Ammonia
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ammonia-3D-balls.png/800px-Ammonia-3D-balls.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ammonia
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Hyperammonemia#Diagnosis
+bottom: 0.011
+top: 0.051
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/ammonia
+canTestAtHome: false
+
+:::
+
+id: b2m
+title: Beta-2 Microglobulin (B2M)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/B2MG_dimer.png/800px-B2MG_dimer.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Beta-2_microglobulin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Beta-2_microglobulin#Blood_test
+bottom: 0.001
+top: 0.003
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/beta-2-microglobulin-b2m
+canTestAtHome: false
+
+:::
+
+id: copper
+title: Copper
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23978/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Copper
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Copper_in_health#Blood_test
+bottom: 0.0118
+top: 0.0236
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/copper-serum
+canTestAtHome: false
+
+:::
+
+id: pyruvate
+title: Pyruvate
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/107735/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pyruvic_acid
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Pyruvic_acid#Blood_test
+bottom: 0.03
+top: 0.1
+testAtLab: https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/8663
+canTestAtHome: false
+
+:::
+
+id: uric_acid
+title: Uric Acid
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1175/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Uric_acid
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Uric_acid#Blood_test
+bottom: 0.18
+top: 0.42
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/uric-acid
+canTestAtHome: false
+
+:::
+
+id: zinc
+title: Zinc
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23994/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Zinc
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Zinc#Deficiency
+bottom: 0.0076
+top: 0.0153
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/zinc
+canTestAtHome: false
+
+:::
+
+id: creatine_kinase
+title: Creatine Kinase
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Creatine_kinase.png/800px-Creatine_kinase.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Creatine_kinase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Creatine_kinase#Blood_test
+bottom: 0.22
+top: 3.33
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/creatine-kinase-ck-cpk
+canTestAtHome: false
+
+:::
+
+id: troponin
+title: Troponin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Troponin_Complex_2.png/800px-Troponin_Complex_2.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Troponin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Troponin_test
+bottom: 0
+top: 0.0004
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/troponin-i
+canTestAtHome: false
+
+:::
+
+id: folate_serum
+title: Folate (Serum)
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Folate
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis
+bottom: 0.0067
+top: 0.0470
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/folate
+canTestAtHome: false
+
+:::
+
+id: vitamin_a
+title: Vitamin A
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_A
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_A_deficiency#Diagnosis
+bottom: 0.0007
+top: 0.0036
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-a
+canTestAtHome: false
+
+:::
+
+id: vitamin_c
+title: Vitamin C
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_C
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Vitamin_C_deficiency#Diagnosis
+bottom: 0.023
+top: 0.085
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/vitamin-c
+canTestAtHome: false
+
+:::
+
+id: alpha_fetoprotein
+title: Alpha Fetoprotein
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Protein_AFP_PDB_1e7a.png/800px-Protein_AFP_PDB_1e7a.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alpha-fetoprotein
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Alpha-fetoprotein_test
+bottom: 0
+top: 0.000008
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/alpha-fetoprotein-tumor-marker
+canTestAtHome: false
+
+:::
+
+id: beta_hcg
+title: Beta Human Chorionic Gonadotropin (HCG)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Chorionic_gonadotropin_PDB_1hrp.png/800px-Chorionic_gonadotropin_PDB_1hrp.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin#Blood_test
+bottom: 0
+top: 0.005
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/hcg-quantitative-pregnancy
+canTestAtHome: true
+
+:::
+
+id: ca19_9
+title: CA19.9
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CA19-9.svg/1920px-CA19-9.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/CA19-9
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/CA19-9#Blood_test
+bottom: 0
+top: 0.000037
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/cancer-antigen-19-9
+canTestAtHome: false
+
+:::
+
+id: cea
+title: Carcinoembryonic Antigen (CEA)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Protein_CEA_PDB_2qy0.png/800px-Protein_CEA_PDB_2qy0.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Carcinoembryonic_antigen
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Carcinoembryonic_antigen#Blood_test
+bottom: 0
+top: 0.0000025
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/carcinoembryonic-antigen-cea
+canTestAtHome: false
+
+:::
+
+id: pap
+title: Prostatic Acid Phosphatase (PAP)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Protein_ACPP_PDB_1nd6.png/800px-Protein_ACPP_PDB_1nd6.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase#Medical_uses
+bottom: 0
+top: 0.002
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/prostatic-acid-phosphatase-pap
+canTestAtHome: false
+
+:::
+
+id: psa
+title: Prostate-Specific Antigen (PSA)
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Protein_KLK3_PDB_2zch.png/800px-Protein_KLK3_PDB_2zch.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prostate-specific_antigen
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Prostate-specific_antigen#Blood_test
+bottom: 0
+top: 0.004
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/prostate-specific-antigen-psa-total
+canTestAtHome: false
+
+:::
+
+id: alpha_1_antitrypsin
+title: Alpha 1-Antitrypsin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Protein_SERPINA1_PDB_1hp7.png/800px-Protein_SERPINA1_PDB_1hp7.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alpha-1_antitrypsin
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Alpha_1-antitrypsin_deficiency#Diagnosis
+bottom: 0.020
+top: 0.048
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/alpha-1-antitrypsin
+canTestAtHome: false
+
+:::
+
+id: angiotensin_converting_enzyme
+title: Angiotensin-Converting Enzyme
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Protein_ACE_PDB_2c6f.png/800px-Protein_ACE_PDB_2c6f.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme#Blood_test
+bottom: 0.01
+top: 0.085
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/angiotensin-converting-enzyme-ace
+canTestAtHome: false
+
+:::
+
+id: d_dimer
+title: D-Dimer
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fibrin_fragment_D-dimer.png/800px-Fibrin_fragment_D-dimer.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/D-dimer
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/D-dimer_test
+bottom: 0
+top: 0.0005
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/d-dimer-quantitative
+canTestAtHome: false
+
+:::
+
+id: lead
+title: Lead
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5352425/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lead
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Lead_poisoning#Diagnosis
+bottom: 0
+top: 0.00024
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/lead
+canTestAtHome: false
+
+:::
+
+id: rheumatoid_factor
+title: Rheumatoid Factor
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IgM_Pentamer.svg/1280px-IgM_Pentamer.svg.png
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Rheumatoid_factor
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Rheumatoid_factor#Blood_test
+bottom: 0
+top: 0.015
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/rheumatoid-factor
+canTestAtHome: false
+
+:::
+
+id: triiodothyronine
+title: Triiodothyronine (T3)
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5920/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Triiodothyronine
+bloodTestWikipediaPage: https://en.wikipedia.org/wiki/Thyroid_function_tests#T3
+bottom: 0.0012
+top: 0.003
+testAtLab: https://www.ondemand.labcorp.com/lab-tests/t3-total
+canTestAtHome: false
+
+id: acetoacetate
+title: Acetoacetate
+image: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/96/PNG
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Acetoacetate
+bloodTestWikipediaPage: 
+bottom: 0.004
+top: 0.043
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: acetone
+title: Acetone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Acetone
+bloodTestWikipediaPage:
+bottom: 0.003
+top: 0.02
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: acetylcholine
+title: Acetylcholine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Acetylcholine
+bloodTestWikipediaPage: 
+bottom: 0.0000066
+top: 0.0000082
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: adrenocorticotropic_hormone
+title: Adrenocorticotropic Hormone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone
+bloodTestWikipediaPage:
+bottom: 0.000000025
+top: 0.00000012 
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: alanine
+title: Alanine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alanine
+bloodTestWikipediaPage:
+bottom: 0.000024
+top: 0.000076
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: aluminum
+title: Aluminum
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aluminium
+bloodTestWikipediaPage:
+bottom: 0.00000001
+top: 0.00000088
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: aldosterone
+title: Aldosterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aldosterone
+bloodTestWikipediaPage:
+bottom: 0.000000003
+top: 0.00000003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: alpha_aminobutyric_acid
+title: alpha-Aminobutyric acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alpha-Aminobutyric_acid 
+bloodTestWikipediaPage:
+bottom: 0.000001
+top: 0.000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: delta_aminolevulinic_acid
+title: δ-Aminolevulinic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aminolevulinic_acid
+bloodTestWikipediaPage: 
+bottom: 0.00000015
+top: 0.00000023
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: ammonia
+title: Ammonia
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ammonia
+bloodTestWikipediaPage: 
+bottom: 0.0000001
+top: 0.00000049
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: androstenedione
+title: Androstenedione 
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Androstenedione
+bloodTestWikipediaPage:
+bottom: 0.0000000002
+top: 0.0000000030
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: androsterone
+title: Androsterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Androsterone
+bloodTestWikipediaPage:
+bottom: 0.00000015
+top: 0.00000015
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: angiotensin_i
+title: Angiotensin I
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Angiotensin_I 
+bloodTestWikipediaPage:
+bottom: 0.000000000011
+top: 0.000000000088
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: angiotensin_ii
+title: Angiotensin II
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Angiotensin_II
+bloodTestWikipediaPage:
+bottom: 0.0000000000012
+top: 0.0000000000036
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: arginine
+title: Arginine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Arginine
+bloodTestWikipediaPage:
+bottom: 0.000013
+top: 0.000036  
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: arsenic
+title: Arsenic
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Arsenic
+bloodTestWikipediaPage:
+bottom: 0.000000002
+top: 0.000009300
+testAtLab:
+canTestAtHome: false
+
+::: 
+
+id: aspartic_acid
+title: Aspartic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aspartic_acid
+bloodTestWikipediaPage:
+bottom: 0.000009
+top: 0.000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: bile_acids
+title: Bile acids
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Bile_acid
+bloodTestWikipediaPage:  
+bottom: 0.000003
+top: 0.00003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: biotin
+title: Biotin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Biotin 
+bloodTestWikipediaPage:
+bottom: 0.000000009
+top: 0.000000016
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: bradykinin
+title: Bradykinin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Bradykinin
+bloodTestWikipediaPage:
+bottom: 0.00000000007
+top: 0.00000000007
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: bromide
+title: Bromide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Bromide
+bloodTestWikipediaPage:
+bottom: 0.000000007
+top: 0.00000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: cadmium
+title: Cadmium
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cadmium
+bloodTestWikipediaPage:
+bottom: 0.000000001
+top: 0.000003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: calcitonin
+title: Calcitonin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Calcitonin 
+bloodTestWikipediaPage:
+bottom: 0.0000000001
+top: 0.0000000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: carcinoembryonic_antigen
+title: Carcinoembryonic antigen
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Carcinoembryonic_antigen
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.0000000025
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: beta_carotene
+title: beta-Carotene
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Beta-Carotene
+bloodTestWikipediaPage:
+bottom: 0.0000003
+top: 0.0000025
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: ceruloplasmin
+title: Ceruloplasmin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ceruloplasmin
+bloodTestWikipediaPage: 
+bottom: 0.00015
+top: 0.0006
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: cholecystokinin
+title: Cholecystokinin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cholecystokinin
+bloodTestWikipediaPage:
+bottom: 0.0000000000604
+top: 0.0000000000604
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: citric_acid
+title: Citric acid  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Citric_acid
+bloodTestWikipediaPage:
+bottom: 0.000016
+top: 0.000032
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: citrulline
+title: Citrulline
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Citrulline
+bloodTestWikipediaPage:
+bottom: 0.000002
+top: 0.00001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: compound_s
+title: Compound S
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/21-Hydroxypregnenolone
+bloodTestWikipediaPage:
+bottom: 0.000000001
+top: 0.000000003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: corticosterone
+title: Corticosterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Corticosterone
+bloodTestWikipediaPage:  
+bottom: 0.000000004
+top: 0.00000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: c_peptide
+title: C-peptide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Connecting_peptide
+bloodTestWikipediaPage:
+bottom: 0.0000000005
+top: 0.000000004
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: cyanide
+title: Cyanide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cyanide
+bloodTestWikipediaPage:
+bottom: 0.000000004
+top: 0.000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: cysteine
+title: Cysteine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cysteine  
+bloodTestWikipediaPage:
+bottom: 0.000018
+top: 0.00005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: dehydroepiandrosterone
+title: Dehydroepiandrosterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Dehydroepiandrosterone
+bloodTestWikipediaPage:
+bottom: 0.0000000002 
+top: 0.00000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: dihydrotestosterone
+title: Dihydrotestosterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Dihydrotestosterone
+bloodTestWikipediaPage:
+bottom: 0.000000001
+top: 0.000000008
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: compound_11_deoxycortisol
+title: 11-Deoxycortisol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/11-Deoxycortisol
+bloodTestWikipediaPage:
+bottom: 0.00000001
+top: 0.00000007
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: dopamine
+title: Dopamine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Dopamine
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.000000000136
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: epidermal_growth_factor 
+title: Epidermal growth factor
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Epidermal_growth_factor
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.00000000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: ergothioneine
+title: Ergothioneine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ergothioneine
+bloodTestWikipediaPage:
+bottom: 0.00001
+top: 0.00002 
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: erythropoietin
+title: Erythropoietin  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Erythropoietin
+bloodTestWikipediaPage:
+bottom: 0.0000000005
+top: 0.00000008
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: estriol
+title: Estriol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Estriol
+bloodTestWikipediaPage:
+bottom: 0 
+top: 0.00017
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: estrone
+title: Estrone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Estrone 
+bloodTestWikipediaPage:
+bottom: 0.0000000029
+top: 0.00000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: alpha_1_fetoprotein
+title: alpha-1-Fetoprotein
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alpha-fetoprotein
+bloodTestWikipediaPage:
+bottom: 0 
+top: 0.00000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: flavin_adenine_dinucleotide
+title: Flavin adenine dinucleotide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide 
+bloodTestWikipediaPage:
+bottom: 0.00000008
+top: 0.00000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: fluoride
+title: Fluoride
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Fluoride
+bloodTestWikipediaPage: 
+bottom: 0.0000001
+top: 0.00000045
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: fructose
+title: Fructose
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Fructose
+bloodTestWikipediaPage:
+bottom: 0.00007
+top: 0.00008
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: furosemide_glucuronide  
+title: Furosemide glucuronide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Furosemide
+bloodTestWikipediaPage:
+bottom: 0.000001
+top: 0.0004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: galactose
+title: Galactose 
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Galactose
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.0002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: gastric_inhibitory_peptide
+title: Gastric Inhibitory Peptide (GIP)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Gastric_inhibitory_polypeptide
+bloodTestWikipediaPage: 
+bottom: 0.000000000125
+top: 0.0000000004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: gastrin
+title: Gastrin  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Gastrin
+bloodTestWikipediaPage:
+bottom: 0 
+top: 0.00000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glucosamine
+title: Glucosamine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glucosamine
+bloodTestWikipediaPage:
+bottom: 0.00042
+top: 0.00089
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glucuronic_acid
+title: Glucuronic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glucuronic_acid 
+bloodTestWikipediaPage:
+bottom: 0.000008
+top: 0.000011
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glutamic_acid
+title: Glutamic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glutamic_acid
+bloodTestWikipediaPage:  
+bottom: 0.000002
+top: 0.000028
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glutamine
+title: Glutamine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glutamine
+bloodTestWikipediaPage:
+bottom: 0.000046
+top: 0.000106  
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glutathione
+title: Glutathione
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glutathione
+bloodTestWikipediaPage:
+bottom: 0.00025
+top: 0.00041
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: glycerol
+title: Glycerol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glycerol
+bloodTestWikipediaPage:
+bottom: 0.0000029
+top: 0.0000172
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: glycogen
+title: Glycogen
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glycogen
+bloodTestWikipediaPage: 
+bottom: 0.000012
+top: 0.000162
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: cyclic_gmp
+title: Cyclic GMP
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cyclic_guanosine_monophosphate  
+bloodTestWikipediaPage:
+bottom: 0.0000000006
+top: 0.0000000044
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: gonadotropin_releasing_hormone
+title: Gonadotropin-releasing hormone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone
+bloodTestWikipediaPage:
+bottom: 0.000000000001
+top: 0.00000000008
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: guanidine
+title: Guanidine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Guanidine
+bloodTestWikipediaPage:
+bottom: 0.0000018
+top: 0.0000023
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: haptoglobin
+title: Haptoglobin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Haptoglobin
+bloodTestWikipediaPage:
+bottom: 0.0003 
+top: 0.0022
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: hemoglobin
+title: Hemoglobin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Hemoglobin
+bloodTestWikipediaPage:  
+bottom: 0.12
+top: 0.195
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: histamine
+title: Histamine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Histamine
+bloodTestWikipediaPage:
+bottom: 0.000000067 
+top: 0.000000086
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: beta_hydroxybutyric_acid
+title: beta-Hydroxybutyric acid 
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Beta-Hydroxybutyric_acid
+bloodTestWikipediaPage:
+bottom: 0.000001
+top: 0.000009
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: 17_hydroxycorticosteroids
+title: 17α-Hydroxycorticosteroids
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/17-Hydroxycorticosteroid
+bloodTestWikipediaPage: 
+bottom: 0.00000004
+top: 0.0000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: 17_hydroxyprogesterone
+title: 17α-Hydroxyprogesterone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/17-Hydroxyprogesterone
+bloodTestWikipediaPage:
+bottom: 0.000000000004
+top: 0.0000000003
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: indican
+title: Indican
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Indican
+bloodTestWikipediaPage:
+bottom: 0.0000008
+top: 0.000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: insulin_like_growth_factor
+title: Insulin-like growth factor 
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Insulin-like_growth_factor_1
+bloodTestWikipediaPage:
+bottom: 0.0000000099
+top: 0.000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: alpha_ketonic_acids
+title: alpha-Ketonic acids
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Alpha-Ketonic_acid
+bloodTestWikipediaPage:
+bottom: 0.000001  
+top: 0.00003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: leptin
+title: Leptin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Leptin
+bloodTestWikipediaPage: 
+bottom: 0.0000000012
+top: 0.0000000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: lecithin
+title: Lecithin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lecithin
+bloodTestWikipediaPage:
+bottom: 0.001
+top: 0.00225
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: lipoprotein
+title: Lipoprotein
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lipoprotein
+bloodTestWikipediaPage:  
+bottom: 0.0001
+top: 0.001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: lysozyme
+title: Lysozyme
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lysozyme 
+bloodTestWikipediaPage:
+bottom: 0.000001
+top: 0.000015
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: malic_acid
+title: Malic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Malic_acid
+bloodTestWikipediaPage:
+bottom: 0.000001
+top: 0.000009
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: melatonin_day
+title: Melatonin (Day)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Melatonin
+bloodTestWikipediaPage:
+bottom: 0.00000000000135  
+top: 0.00000000000145
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: melatonin_night  
+title: Melatonin (Night)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Melatonin
+bloodTestWikipediaPage:
+bottom: 0.00000000000607
+top: 0.00000000000713
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: mercury
+title: Mercury  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Mercury_(element)
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.0000002 
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: methemoglobin
+title: Methemoglobin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Methemoglobin
+bloodTestWikipediaPage:  
+bottom: 0.0004
+top: 0.0006
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: methyl_guanidine
+title: Methyl guanidine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Methylguanidine
+bloodTestWikipediaPage:
+bottom: 0.000002
+top: 0.000003
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: macrophage_inflammatory_protein_1_alpha
+title: Macrophage inflammatory protein 1-alpha
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/CCL3
+bloodTestWikipediaPage:  
+bottom: 0.00000000023 
+top: 0.00000000023
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: macrophage_inflammatory_protein_1_beta
+title: Macrophage inflammatory protein 1-beta
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/CCL4
+bloodTestWikipediaPage:
+bottom: 0.0000000009
+top: 0.0000000009  
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: mucopolysaccharides
+title: Mucopolysaccharides
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Glycosaminoglycan
+bloodTestWikipediaPage:
+bottom: 0.00175
+top: 0.00225
+testAtLab:
+canTestAtHome: false
+
+:::  
+
+id: mucoproteins
+title: Mucoproteins  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Mucoprotein
+bloodTestWikipediaPage:
+bottom: 0.000865
+top: 0.00096
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: niacin
+title: Niacin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Niacin  
+bloodTestWikipediaPage:
+bottom: 0.0000002
+top: 0.000015
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: norepinephrine_15_min_rest
+title: Norepinephrine (after 15 min rest)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Norepinephrine
+bloodTestWikipediaPage:  
+bottom: 0.000000000215
+top: 0.000000000475
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: norepinephrine_emitted
+title: Norepinephrine (when emitted)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Norepinephrine  
+bloodTestWikipediaPage:
+bottom: 0.0000000081
+top: 0.0000000085
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: nucleotide
+title: Nucleotide  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Nucleotide
+bloodTestWikipediaPage:
+bottom: 0.00031
+top: 0.00052
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: ornithine
+title: Ornithine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ornithine
+bloodTestWikipediaPage:  
+bottom: 0.000004
+top: 0.000014
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: oxytocin_male
+title: Oxytocin (male)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Oxytocin
+bloodTestWikipediaPage:
+bottom: 0.000000000002  
+top: 0.000000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: oxytocin_female_nonlactating
+title: Oxytocin (female, nonlactating)  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Oxytocin
+bloodTestWikipediaPage:
+bottom: 0.000000000002
+top: 0.000000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: oxytocin_female_pregnant_33_40_wks
+title: Oxytocin (female, pregnant 33-40 wks)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Oxytocin  
+bloodTestWikipediaPage:
+bottom: 0.00000000032
+top: 0.00000000048
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: pancreatic_polypeptide  
+title: Pancreatic polypeptide
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pancreatic_polypeptide
+bloodTestWikipediaPage:
+bottom: 0.00000000005
+top: 0.0000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pantothenic_acid
+title: Pantothenic acid  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pantothenic_acid
+bloodTestWikipediaPage:
+bottom: 0.00000006
+top: 0.00000035
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: para_aminobenzoic_acid
+title: Para-aminobenzoic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Para-Aminobenzoic_acid
+bloodTestWikipediaPage:  
+bottom: 0.00000003
+top: 0.00000004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pentose
+title: Pentose
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pentose  
+bloodTestWikipediaPage:
+bottom: 0.00002
+top: 0.000023
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phenol
+title: Phenol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phenol
+bloodTestWikipediaPage:
+bottom: 0.0000007
+top: 0.000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phenylalanine
+title: Phenylalanine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phenylalanine
+bloodTestWikipediaPage:
+bottom: 0.000011
+top: 0.00004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phospholipid
+title: Phospholipid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phospholipid
+bloodTestWikipediaPage:
+bottom: 0.00005
+top: 0.00012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phosphorus_inorganic_adult
+title: Phosphorus inorganic, adult
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phosphorus
+bloodTestWikipediaPage:
+bottom: 0.000023
+top: 0.000045
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phosphorus_inorganic_children
+title: Phosphorus inorganic, children
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phosphorus
+bloodTestWikipediaPage:
+bottom: 0.00004
+top: 0.00007
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phosphorus_total
+title: Phosphorus total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phosphorus
+bloodTestWikipediaPage:
+bottom: 0.0001
+top: 0.00015
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: phytanic_acid
+title: Phytanic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Phytanic_acid
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.000003
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: platelet_derived_growth_factor
+title: Platelet-derived growth factor
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Platelet-derived_growth_factor
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.00000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: polysaccharides_total
+title: Polysaccharides total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Polysaccharide
+bloodTestWikipediaPage:
+bottom: 0.000073
+top: 0.000131
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pregnenolone
+title: Pregnenolone
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pregnenolone
+bloodTestWikipediaPage:
+bottom: 0.0000000003
+top: 0.000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_female_follicular
+title: Progesterone (female, follicular)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage:
+bottom: 0.0000000004
+top: 0.0000000009
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_female_midluteal
+title: Progesterone (female, midluteal)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage:
+bottom: 0.0000000077
+top: 0.0000000121
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_pregnancy_weeks_16_18
+title: Progesterone (pregnancy, weeks 16-18)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage:
+bottom: 0.000000003
+top: 0.000000066
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_pregnancy_weeks_28_30
+title: Progesterone (pregnancy, weeks 28-30)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+
+bloodTestWikipediaPage:
+bottom: 0.00000007
+top: 0.000000126
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_pregnancy_weeks_38_40
+title: Progesterone (pregnancy, weeks 38-40)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage:
+bottom: 0.000000131
+top: 0.000000227
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: progesterone_male
+title: Progesterone (male)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Progesterone
+bloodTestWikipediaPage:
+bottom: 0.000000012
+top: 0.00000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: proinsulin_fasting
+title: Proinsulin fasting
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Proinsulin
+bloodTestWikipediaPage:
+bottom: 0.0000000005
+top: 0.0000000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: proinsulin_mean
+
+title: Proinsulin mean
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Proinsulin
+bloodTestWikipediaPage:
+bottom: 0.0000000142
+top: 0.000000017
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prolactin_male_awake
+title: Prolactin (male, awake)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prolactin
+bloodTestWikipediaPage:
+bottom: 0.000000001
+top: 0.000000007
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prolactin_male_sleep
+title: Prolactin (male, during sleep)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prolactin
+
+bloodTestWikipediaPage:
+bottom: 0.000000009
+top: 0.00000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prolactin_female_follicular
+title: Prolactin (female, follicular)
+
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prolactin
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.000000023
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prolactin_female_luteal
+title: Prolactin (female, luteal)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prolactin
+bloodTestWikipediaPage:
+
+bottom: 0.000000005
+top: 0.00000004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: proline
+title: Proline
+
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Proline
+bloodTestWikipediaPage:
+bottom: 0.000012
+top: 0.000057
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prostaglandin_e
+title: Prostaglandin PGE
+
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prostaglandin_E2
+bloodTestWikipediaPage:
+bottom: 0.0000000000355
+top: 0.0000000000415
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: prostaglandin_f
+title: Prostaglandin PGF
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Prostaglandin_F2alpha
+bloodTestWikipediaPage:
+bottom: 0.0000000000126
+top: 0.0000000000156
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: 15_keto_pgf2a
+title: 15-keto-PGF2a
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/15-Keto-prostaglandin_F2alpha
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.0000000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: 15_keto_pge2
+title: 15-keto-PGE2
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/15-Keto-prostaglandin_E2
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.00000000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: protein_total
+title: Protein total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Protein
+bloodTestWikipediaPage:
+bottom: 0.06
+top: 0.083
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: protoporphyrin
+title: Protoporphyrin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Protoporphyrin
+bloodTestWikipediaPage:
+bottom: 0.00000027
+top: 0.00000061
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pseudoglobulin_i
+title: Pseudoglobulin I
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pseudoglobulin
+bloodTestWikipediaPage:
+bottom: 0.008
+top: 0.019
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pseudoglobulin_ii
+title: Pseudoglobulin II
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pseudoglobulin
+bloodTestWikipediaPage:
+bottom: 0.002
+top: 0.008
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: purine_total
+title: Purine total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Purine
+bloodTestWikipediaPage:
+bottom: 0.0000095
+top: 0.0000115
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pyrimidine_nucleotides
+
+title: Pyrimidine nucleotides
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pyrimidine
+bloodTestWikipediaPage:
+bottom: 0.0000002
+top: 0.0000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: pyridoxine
+title: Pyridoxine (Vitamin B6)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Pyridoxine
+bloodTestWikipediaPage:
+bottom: 0.0000000036
+top: 0.00000009
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: rantes
+title: RANTES
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/CCL5
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.00000000007
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: relaxin_day_lt_100_preparturition
+
+title: Relaxin (day <100 preparturition)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Relaxin
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: relaxin_day_100_to_2_days_preceding
+
+title: Relaxin (day 100 to 2 days preceding parturition)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Relaxin
+bloodTestWikipediaPage:
+bottom: 0.000000005
+top: 0.00000004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: relaxin_day_preceding_parturition
+title: Relaxin (day preceding parturition)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Relaxin
+bloodTestWikipediaPage:
+bottom: 0.0001
+top: 0.0002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: relaxin_day_following_parturition
+title: Relaxin (day following parturition)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Relaxin
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.000000002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: retinol
+title: Retinol (Vitamin A)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Retinol
+bloodTestWikipediaPage:
+bottom: 0.0000001
+top: 0.0000008
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: riboflavin
+title: Riboflavin (Vitamin B2)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Riboflavin
+bloodTestWikipediaPage:
+bottom: 0.000000026
+top: 0.000000037
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: rna
+title: RNA
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/RNA
+bloodTestWikipediaPage:
+bottom: 0.00004
+top: 0.00006
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: secretin
+title: Secretin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Secretin
+bloodTestWikipediaPage:
+
+bottom: 0.000000000029
+top: 0.000000000045
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: serine
+title: Serine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Serine
+bloodTestWikipediaPage:
+bottom: 0.000003
+top: 0.00002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: silicon
+title: Silicon
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Silicon
+bloodTestWikipediaPage:
+bottom: 0.0000022
+top: 0.0000057
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: solids_total
+title: Solids, total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Total_dissolved_solids
+bloodTestWikipediaPage:
+bottom: 0.08
+top: 0.09
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: somatotropin_growth_hormone
+title: Somatotropin (growth hormone)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Growth_hormone
+bloodTestWikipediaPage:
+bottom: 0.0000000004
+top: 0.00000014
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: sphingomyelin
+title: Sphingomyelin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sphingomyelin
+bloodTestWikipediaPage: 
+bottom: 0.001
+top: 0.004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: succinic_acid
+title: Succinic acid
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Succinic_acid
+bloodTestWikipediaPage:
+bottom: 0.000005
+top: 0.000005 
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: sugar_total
+title: Sugar, total  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sugar
+bloodTestWikipediaPage:
+bottom: 0.0007
+top: 0.0011
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: sulfates_inorganic
+title: Sulfates inorganic
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sulfate
+bloodTestWikipediaPage:
+bottom: 0.000008
+top: 0.000012
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: sulfur_total
+title: Sulfur total
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sulfur
+bloodTestWikipediaPage:
+bottom: 0.031
+top: 0.038  
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: taurine  
+title: Taurine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Taurine
+bloodTestWikipediaPage:
+bottom: 0.000003
+top: 0.000021
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: testosterone_male_free  
+title: Testosterone (male, free)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone
+bloodTestWikipediaPage:
+bottom: 0.0000000056
+top: 0.0000000102
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: testosterone_male_total
+title: Testosterone (male, total)  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone
+bloodTestWikipediaPage:
+bottom: 0.0000000275
+top: 0.0000000875
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: testosterone_female_free
+title: Testosterone (female, free)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone  
+bloodTestWikipediaPage:
+bottom: 0.0000000000024
+top: 0.0000000000038
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: testosterone_female_total
+title: Testosterone (female, total)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone
+bloodTestWikipediaPage: 
+bottom: 0.0000000023
+top: 0.0000000075
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: testosterone_female_pregnant
+title: Testosterone (female, pregnant)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Testosterone
+bloodTestWikipediaPage:
+bottom: 0.0000000038  
+top: 0.000000019
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: thiamine  
+title: Thiamine (Vitamin B1)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thiamine
+bloodTestWikipediaPage:
+bottom: 0.00000001
+top: 0.00000009
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thiocyanate_nonsmoker
+title: Thiocyanate (nonsmoker)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thiocyanate
+bloodTestWikipediaPage:  
+bottom: 0.000001
+top: 0.000004
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thiocyanate_smoker
+title: Thiocyanate (smoker) 
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thiocyanate
+bloodTestWikipediaPage:
+bottom: 0.000003
+top: 0.000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: threonine
+title: Threonine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Threonine 
+bloodTestWikipediaPage:
+bottom: 0.00000009
+top: 0.00000032
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroglobulin
+title: Thyroglobulin (Tg)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroglobulin
+bloodTestWikipediaPage:
+bottom: 0  
+top: 0.00000005
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroid_hormones
+title: Thyroid hormones
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroid_hormone  
+bloodTestWikipediaPage:
+bottom: 0.00000004
+top: 0.00000008
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroxine_free  
+title: Thyroxine (FT4, free)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroxine
+bloodTestWikipediaPage:
+bottom: 0.000000000008
+top: 0.000000000024
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroxine_total
+title: Thyroxine (FT4, total)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroxine
+bloodTestWikipediaPage: 
+bottom: 0.00000004
+top: 0.00000012
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroxine_binding_prealbumin  
+title: Thyroxine-binding prealbumin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transthyretin
+bloodTestWikipediaPage:
+bottom: 0.00028
+top: 0.00035
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: thyroxine_binding_globulin
+title: Thyroxine-binding globulin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Thyroxine-binding_globulin  
+bloodTestWikipediaPage:
+bottom: 0.0000001
+top: 0.00000034
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: tin
+title: Tin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Tin
+bloodTestWikipediaPage:
+bottom: 0
+top: 0.0000001
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: alpha_tocopherol  
+title: alpha-Tocopherol (Vitamin E)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Tocopherol 
+bloodTestWikipediaPage:
+bottom: 0.000005
+top: 0.00002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: transcortin_male
+title: Transcortin (male)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transcortin
+bloodTestWikipediaPage: 
+bottom: 0.000015
+top: 0.00002
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: transcortin_female  
+title: Transcortin (female)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transcortin
+bloodTestWikipediaPage:
+bottom: 0.000016
+top: 0.000025
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: transferrin_newborn
+title: Transferrin (newborn)  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transferrin
+bloodTestWikipediaPage:
+bottom: 0.0013
+top: 0.00275
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: transferrin_adult
+title: Transferrin (adult)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transferrin
+bloodTestWikipediaPage:
+bottom: 0.0022
+top: 0.004
+testAtLab:  
+canTestAtHome: false
+
+:::
+
+id: transferrin_over_60
+title: Transferrin (age >60 yrs)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Transferrin
+bloodTestWikipediaPage:
+bottom: 0.0018
+top: 0.0038 
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: triiodothyronine_free
+title: Triiodothyronine (free)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Triiodothyronine  
+bloodTestWikipediaPage:
+bottom: 0.0000000000023
+top: 0.0000000000066
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: triiodothyronine_total  
+title: Triiodothyronine (total, T3)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Triiodothyronine
+bloodTestWikipediaPage:
+bottom: 0.00000000075
+top: 0.0000000025
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: tryptophan
+title: Tryptophan
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Tryptophan
+bloodTestWikipediaPage: 
+bottom: 0.000009
+top: 0.00003
+testAtLab: 
+canTestAtHome: false
+
+:::
+
+id: tyrosine  
+title: Tyrosine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Tyrosine
+bloodTestWikipediaPage:
+bottom: 0.000004
+top: 0.000025
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: uric_acid_child
+title: Uric acid (child)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Uric_acid  
+bloodTestWikipediaPage:
+bottom: 0.00002
+top: 0.0000067
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: uric_acid_adult_male
+title: Uric acid (adult, male)  
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Uric_acid
+bloodTestWikipediaPage:
+bottom: 0.000034
+top: 0.0000072
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: uric_acid_adult_female
+title: Uric acid (adult, female)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Uric_acid
+bloodTestWikipediaPage: 
+bottom: 0.000024 
+top: 0.0000061
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: valine
+title: Valine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Valine
+bloodTestWikipediaPage:  
+bottom: 0.0000017
+top: 0.0000042
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: vip
+title: Vasoactive intestinal peptide (VIP)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vasoactive_intestinal_peptide
+bloodTestWikipediaPage:
+bottom: 0.000000000006 
+top: 0.000000000016
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: vasopressin_hydrated
+title: Vasopressin (hydrated)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vasopressin 
+bloodTestWikipediaPage:
+bottom: 0.00000000000045
+top: 0.00000000000045
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: vasopressin_dehydrated
+title: Vasopressin (dehydrated)
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Vasopressin
+bloodTestWikipediaPage:   
+bottom: 0.0000000000037
+top: 0.0000000000037
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: valproic_acid
+title: Valproic acid
+aka: Valproate
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Valproic_acid
+bloodTestWikipediaPage:
+bottom: 0.195
+top: 0.488
+testAtLab:
+canTestAtHome: false
+
+https://www.mayocliniclabs.com/test-catalog/overview/37067
+ VALPROIC ACID, TOTAL
+ Therapeutic: 50 (trough)-125 (peak) mcg/mL
+ Critical value: > or =151 mcg/mL
+ VALPROIC ACID, FREE
+ Therapeutic: 5-25 mcg/mL
+ Critical value: >30 mcg/mL
+
+:::
+
+id: lamotrigine
+title: Lamotrigine
+aka: Lamictal
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lamotrigine
+bloodTestWikipediaPage:
+bottom: 0.00586
+top: 0.0391
+testAtLab:
+canTestAtHome: false
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1198624/
+
+:::
+
+id: carbamazepine
+title: Carbamazepine
+aka: Tegretol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Carbamazepine
+bloodTestWikipediaPage:
+bottom: 0.01693
+top: 0.05078
+testAtLab:
+canTestAtHome: false
+
+https://emedicine.medscape.com/article/2089796-overview?form=fpf
+ The therapeutic reference range of carbamazepine is 4-12 mg/L
+
+
+:::
+
+id: olanzapine
+title: Olanzapine
+aka: Zyprexa
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Olanzapine
+bloodTestWikipediaPage:
+bottom: 0.00006401
+top: 0.00012803
+testAtLab:
+canTestAtHome: false
+
+https://pubmed.ncbi.nlm.nih.gov/11704898/
+ The optimal therapeutic range of olanzapine serum levels is 20 to 40 ng/ml.
+
+
+:::
+
+id: quetiapine
+title: Quetiapine
+aka: Seroquel
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Quetiapine
+bloodTestWikipediaPage:
+bottom: 0.0002608
+top: 0.0026077
+testAtLab:
+canTestAtHome: false
+
+https://www.mayocliniclabs.com/test-catalog/overview/91727
+ Expected steady-state Quetiapine plasma levels in patients receiving recommended daily dosages: 100 - 1000 ng/mL.
+
+:::
+
+id: risperidone
+title: Risperidone
+aka: Risperdal
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Risperidone
+bloodTestWikipediaPage:
+bottom: 0.00004873
+top: 0.00014619
+testAtLab:
+canTestAtHome: false
+
+https://ltd.aruplab.com/Tests/Pub/2007951
+ Therapeutic range (Risperidone)	20-60 ng/mL
+
+:::
+
+id: aripiprazole
+title: Aripiprazole
+aka: Abilify
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Aripiprazole
+bloodTestWikipediaPage:
+bottom: 0.0003352
+top: 0.0011174
+testAtLab:
+canTestAtHome: false
+
+https://ltd.aruplab.com/Tests/Pub/2007945
+ Therapeutic Range (Aripiprazole and Dehydroaripiprazole)	150-500 ng/mL
+
+:::
+
+id: ziprasidone
+title: Ziprasidone
+aka: Geodon
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Ziprasidone
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: lurasidone
+title: Lurasidone
+aka: Latuda
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Lurasidone
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: asenapine
+title: Asenapine
+aka: Saphris
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Asenapine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: cariprazine
+title: Cariprazine
+aka: Vraylar
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Cariprazine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: paliperidone
+title: Paliperidone
+aka: Invega
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Paliperidone
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: oxcarbazepine
+title: Oxcarbazepine
+aka: Trileptal
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Oxcarbazepine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: topiramate
+title: Topiramate
+aka: Topamax
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Topiramate
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: gabapentin
+title: Gabapentin
+aka: Neurontin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Gabapentin
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: clozapine
+title: Clozapine
+aka: Clozaril
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Clozapine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: haloperidol
+title: Haloperidol
+aka: Haldol
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Haloperidol
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: chlorpromazine
+title: Chlorpromazine
+aka: Thorazine
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Chlorpromazine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: venlafaxine
+title: Venlafaxine
+aka: Effexor
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Venlafaxine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: fluoxetine
+title: Fluoxetine
+aka: Prozac
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Fluoxetine
+bloodTestWikipediaPage:
+bottom: 0.0003879
+top: 0.0016163
+testAtLab:
+canTestAtHome: false
+
+https://www.mayocliniclabs.com/test-catalog/overview/80228#:~:text=Both%20fluoxetine%20and%20its%20major,%2FmL)%20at%20steady%20state.
+ 120-500 ng/mL
+
+:::
+
+id: bupropion
+title: Bupropion
+aka: Wellbutrin
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Bupropion
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: sertraline
+title: Sertraline
+aka: Zoloft
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Sertraline
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: paroxetine
+title: Paroxetine
+aka: Paxil
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Paroxetine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: escitalopram
+title: Escitalopram
+aka: Lexapro
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Escitalopram
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: duloxetine
+title: Duloxetine
+aka: Cymbalta
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Duloxetine
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
+:::
+
+id: modafinil
+title: Modafinil
+aka: Provigil
+chemicalWikipediaPage: https://en.wikipedia.org/wiki/Modafinil
+bloodTestWikipediaPage:
+bottom:
+top:
+testAtLab:
+canTestAtHome: false
+
