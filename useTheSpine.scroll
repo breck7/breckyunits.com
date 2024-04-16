@@ -16,7 +16,7 @@ endSnippet
 
 ## What does it mean for a language to "use the spine"?
 There are many other terms for _using the spine_. The off-side rule. Semantic indentation. Grid languages. Significant whitespace. I would define it as:
- https://pldb.com/posts/which-programming-languages-use-indentation.html Semantic indentation
+ https://pldb.io/posts/which-programming-languages-use-indentation.html Semantic indentation
  https://en.wikipedia.org/wiki/Off-side_rule off-side rule
 
 quote
@@ -30,8 +30,8 @@ Over one thousand years ago humans started to catch on that you could _exploit t
 Similarly, in programming languages we are now seeing more than 50% of programmers using languages that use the spine, even though languages of this kind make up fewer than 2% of all languages.
 
 image spineGraph.png
- caption Data from PLDB.com shows only 57 out of 4,228 computer languages use the spine. Less than 1.5%. Yet in that 1.5% are some of the most popular ones such as Python and YAML. This is probably signal.
-  https://pldb.com/docs/csv.html PLDB.com
+ caption Data from PLDB.io shows only 57 out of 4,228 computer languages use the spine. Less than 1.5%. Yet in that 1.5% are some of the most popular ones such as Python and YAML. This is probably signal.
+  https://pldb.io/docs/csv.html PLDB.io
 
 ## Spreadsheets use the spine
 When one expands one classification of programming languages to include spreadsheet languages, then the evidence is overwhelming: languages that use the spine are dominating. Excel and Google sheets famously have over 1 billion users and makes heavy use of the spine.
