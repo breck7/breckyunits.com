@@ -243,7 +243,7 @@ Just like ketones, lithium is tiny. In fact, according to my calculations, a mol
 Unlike ketones, you cannot check your lithium levels at home (though some people are working on that). Instead, to measure lithium levels your blood needs to be processed in a lab using techniques with names like Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy.
  https://www.reddit.com/r/Lithium/comments/1ab7u2u/researchers_working_on_an_at_home_sweat_based/ some people are working on that
 
-I can't really find a great reason why at home lithium tests aren't available. Some people write that it wouldn't be safe, because getting accurate readings is more difficult, but I think multiple at home readings, even if off a bit, would be better than no readings at all. If I had to pick an explanation, it would be that everyone generates ketones, but it's relatively rare to take lithium so there isn't a big enough market for a company to build a convenient at home lithium test at this time.
+I can't really find a great reason why at home lithium tests aren't available. Some people write that it wouldn't be safe, because getting accurate readings is more difficult, but I think multiple at home readings, even if off a bit, would be better than no readings at all. If I had to pick an explanation, it would be that because of diabetes, there's a big market for glucose and ketone tests, but it's relatively rare to take lithium so there isn't a big enough market for a company to build a convenient at home lithium test at this time.
 
 // ? Where do lithiums go?
 After you swallow your lithium the pills land in your stomach. There, fluids dissolve them. The lithium (Li+) splits from the carbonate. The next destination in your gastrointestinal tract is your small intestines, a place which happens to allow ~100% of the lithium ions to be absorbed into your bloodstream.
@@ -437,7 +437,9 @@ katex
 
 ^range I am using the one millimole number to simplify the writing a bit, but when you visualize things keep in mind we're thinking about overlapping ranges rather than a specific point.
 
+---
 
+Thanks to RGM for feedback on this post.
 
 
 // ? What about blood levels for other bipolar drugs?
