@@ -12,4 +12,4 @@ importOnly
  <a href="startups.html">Startups</a>
  </div>
 
-<style>.categoryLinks { text-align: center; } .categoryLinks a {padding: 0 10px 0 10px;} </style>
+<style>.categoryLinks { text-align: center; font-size: 14px; } .categoryLinks a {padding: 0 10px 0 10px;} </style>
