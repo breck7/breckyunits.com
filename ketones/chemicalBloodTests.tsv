@@ -1,0 +1,270 @@
+id	title	bottom	top	canTestAtHome	endogenous	chemicalWikipediaPage	image	aka	bloodTestWikipediaPage	testAtLab	testAtHome	testByMail
+glucose	Glucose	3.9	5.6	true		https://en.wikipedia.org/wiki/Glucose	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5793/PNG		https://en.wikipedia.org/wiki/Blood_sugar	https://www.questhealth.com/product/diabetes-risk-panel-94341M.html	https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit	
+lithium	Lithium	0.4	1.2	false		https://en.wikipedia.org/wiki/Lithium	https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lithium_paraffin.jpg/800px-Lithium_paraffin.jpg		https://en.wikipedia.org/wiki/Lithium_pharmacology#Measurement	https://www.ondemand.labcorp.com/lab-tests/lithium		
+ketones	Ketones	0.0	0.6	true		https://en.wikipedia.org/wiki/Ketone_bodies	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/180/PNG		https://en.wikipedia.org/wiki/Ketone_bodies#Blood_testing	https://www.walkinlab.com/products/view/ketone-blood-test	https://shop.keto-mojo.com/products/keto-mojo-gk-plus-blood-glucose-ketone-meter-basic-starter-kit	
+creatinine	Creatinine	0.06	0.12	true		https://en.wikipedia.org/wiki/Creatinine	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/588/PNG		https://en.wikipedia.org/wiki/Creatinine#Blood_test	https://www.ondemand.labcorp.com/lab-tests/creatinine-blood-test	https://www.cvs.com/shop/diathrive-kidney-function-test-strips-15ct-prodid-1170071	
+calcium	Calcium	2.1	2.6	false		https://en.wikipedia.org/wiki/Calcium	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460341/PNG		https://en.wikipedia.org/wiki/Calcium_in_biology#Plasma	https://www.questhealth.com/product/calcium-test-303M.html		
+hdl_cholesterol	HDL Cholesterol	1.0	1.5	false		https://en.wikipedia.org/wiki/High-density_lipoprotein	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/24775087/PNG		https://en.wikipedia.org/wiki/Lipid_profile	https://www.ondemand.labcorp.com/lab-tests/lipid-panel	https://www.everlywell.com/products/cholesterol-and-lipids-test/	
+sodium	Sodium	136	145	false		https://en.wikipedia.org/wiki/Sodium	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5360545/PNG		https://en.wikipedia.org/wiki/Serum_sodium	https://www.ondemand.labcorp.com/lab-tests/basic-metabolic-panel		
+potassium	Potassium	3.5	5.1	false		https://en.wikipedia.org/wiki/Potassium	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5462222/PNG		https://en.wikipedia.org/wiki/Serum_potassium_test	https://www.ondemand.labcorp.com/lab-tests/potassium-test		
+chloride	Chloride	98	107	false		https://en.wikipedia.org/wiki/Chloride	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/312/PNG		https://en.wikipedia.org/wiki/Serum_chloride	https://www.ondemand.labcorp.com/lab-tests/chloride-blood-test		
+urea	Urea	2.5	7.1	false		https://en.wikipedia.org/wiki/Urea	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1176/PNG		https://en.wikipedia.org/wiki/Blood_urea_nitrogen	https://www.ondemand.labcorp.com/lab-tests/urea-nitrogen-bun		
+phosphate	Phosphate	0.81	1.45	false		https://en.wikipedia.org/wiki/Phosphate	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1061/PNG		https://en.wikipedia.org/wiki/Phosphate_test	https://www.ondemand.labcorp.com/lab-tests/phosphorus-test		
+magnesium	Magnesium	0.66	1.07	false		https://en.wikipedia.org/wiki/Magnesium	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/888/PNG		https://en.wikipedia.org/wiki/Magnesium_test	https://www.ondemand.labcorp.com/lab-tests/magnesium-test		
+iron	Iron	0.01	0.03	false		https://en.wikipedia.org/wiki/Iron	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23925/PNG		https://en.wikipedia.org/wiki/Serum_iron	https://www.ondemand.labcorp.com/lab-tests/iron-and-total-iron-binding-capacity-tibc		
+triglycerides	Triglycerides	0.3	1.7	false		https://en.wikipedia.org/wiki/Triglyceride	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5460048/PNG		https://en.wikipedia.org/wiki/Triglyceride_test	https://www.ondemand.labcorp.com/lab-tests/triglycerides-test		
+albumin	Albumin	0.57	0.8	false		https://en.wikipedia.org/wiki/Human_serum_albumin	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132389/PNG		https://en.wikipedia.org/wiki/Serum_albumin	https://www.ondemand.labcorp.com/lab-tests/albumin-test		
+total_protein	Total Protein	0.06	0.08	false		https://en.wikipedia.org/wiki/Protein	https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Protein_TIM_barrel.png/1920px-Protein_TIM_barrel.png		https://en.wikipedia.org/wiki/Serum_total_protein	https://www.ondemand.labcorp.com/lab-tests/total-protein-test		
+bilirubin	Bilirubin	0.003	0.02	false		https://en.wikipedia.org/wiki/Bilirubin	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5280352/PNG		https://en.wikipedia.org/wiki/Bilirubin_test	https://www.ondemand.labcorp.com/lab-tests/bilirubin-total		
+alkaline_phosphatase	Alkaline Phosphatase	0.5	1.5	false		https://en.wikipedia.org/wiki/Alkaline_phosphatase	https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1ALK_Alkaline_Phosphatase.png/800px-1ALK_Alkaline_Phosphatase.png		https://en.wikipedia.org/wiki/Alkaline_phosphatase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/alkaline-phosphatase-alp		
+ast	Aspartate Aminotransferase (AST)	0.008	0.04	false		https://en.wikipedia.org/wiki/Aspartate_transaminase	https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AST_dimer.png/800px-AST_dimer.png		https://en.wikipedia.org/wiki/Aspartate_transaminase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/aspartate-aminotransferase-ast		
+alt	Alanine Aminotransferase (ALT)	0.007	0.056	false		https://en.wikipedia.org/wiki/Alanine_transaminase	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Protein_ALT_PDB_1zgy.png/800px-Protein_ALT_PDB_1zgy.png		https://en.wikipedia.org/wiki/Alanine_transaminase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/alanine-aminotransferase-alt		
+ggt	Gamma-Glutamyl Transferase (GGT)	0.007	0.05	false		https://en.wikipedia.org/wiki/Gamma-glutamyltransferase	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PDB_2z8x_EBI.jpg/800px-PDB_2z8x_EBI.jpg		https://en.wikipedia.org/wiki/Gamma-glutamyl_transferase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/gamma-glutamyl-transferase-ggt		
+tsh	Thyroid Stimulating Hormone (TSH)	0.0006	0.005	false		https://en.wikipedia.org/wiki/Thyroid-stimulating_hormone	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Thyrotropin.png/800px-Thyrotropin.png		https://en.wikipedia.org/wiki/Thyroid_function_tests#TSH_test	https://www.ondemand.labcorp.com/lab-tests/thyroid-stimulating-hormone-tsh		
+free_t4	Free Thyroxine (Free T4)	0.012	0.022	false		https://en.wikipedia.org/wiki/Thyroxine	https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/L-Thyroxine.svg/1920px-L-Thyroxine.svg.png		https://en.wikipedia.org/wiki/Thyroid_function_tests#Free_T4	https://www.ondemand.labcorp.com/lab-tests/free-thyroxine-free-t4		
+vitamin_d	Vitamin D	0.05	0.15	true		https://en.wikipedia.org/wiki/Vitamin_D	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cholecalciferol.svg/1920px-Cholecalciferol.svg.png		https://en.wikipedia.org/wiki/Vitamin_D#Testing	https://www.ondemand.labcorp.com/lab-tests/vitamin-d-25-hydroxy	https://www.everlywell.com/products/vitamin-d-test/	
+vitamin_b12	Vitamin B12	0.0002	0.0007	true		https://en.wikipedia.org/wiki/Vitamin_B12	https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cobalamin.png/1920px-Cobalamin.png		https://en.wikipedia.org/wiki/Vitamin_B12_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/vitamin-b12	https://www.letsgetchecked.com/us/en/home-vitamin-test/	
+folic_acid	Folic Acid	0.0067	0.047	false		https://en.wikipedia.org/wiki/Folic_acid	https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Folic_acid.svg/1920px-Folic_acid.svg.png		https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/folate		
+crp	C-Reactive Protein (CRP)	0.008	0.01	false		https://en.wikipedia.org/wiki/C-reactive_protein	https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/C-reactive_protein_pentamer_from_PDB_1b09.png/800px-C-reactive_protein_pentamer_from_PDB_1b09.png		https://en.wikipedia.org/wiki/C-reactive_protein#Blood_test	https://www.ondemand.labcorp.com/lab-tests/c-reactive-protein-crp-high-sensitivity		
+esr	Erythrocyte Sedimentation Rate (ESR)	0.04	0.2	false		https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westergren_ESR_tube.JPG/800px-Westergren_ESR_tube.JPG		https://en.wikipedia.org/wiki/Erythrocyte_sedimentation_rate	https://www.ondemand.labcorp.com/lab-tests/sedimentation-rate-esr-westergren		
+ldh	Lactate Dehydrogenase (LDH)	1.67	3.17	false		https://en.wikipedia.org/wiki/Lactate_dehydrogenase	https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ldh_1i10.png/800px-Ldh_1i10.png		https://en.wikipedia.org/wiki/Lactate_dehydrogenase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/lactate-dehydrogenase-ldh		
+cortisol	Cortisol	0.14	0.69	false		https://en.wikipedia.org/wiki/Cortisol	https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cortisol2.svg/1920px-Cortisol2.svg.png		https://en.wikipedia.org/wiki/Cortisol#Testing	https://www.ondemand.labcorp.com/lab-tests/cortisol-am		
+testosterone	Testosterone	0.01	0.03	false		https://en.wikipedia.org/wiki/Testosterone	https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Testosterone.svg/1920px-Testosterone.svg.png		https://en.wikipedia.org/wiki/Testosterone#Testing	https://www.ondemand.labcorp.com/lab-tests/testosterone-total		
+estradiol	Estradiol	0.000037	0.000147	false		https://en.wikipedia.org/wiki/Estradiol	https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Estradiol.svg/1920px-Estradiol.svg.png		https://en.wikipedia.org/wiki/Estradiol_test	https://www.ondemand.labcorp.com/lab-tests/estradiol		
+progesterone	Progesterone	0.0032	0.086	false		https://en.wikipedia.org/wiki/Progesterone	https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Progesteron.svg/1920px-Progesteron.svg.png		https://en.wikipedia.org/wiki/Progesterone_test	https://www.ondemand.labcorp.com/lab-tests/progesterone		
+prolactin	Prolactin	0.000087	0.00019	false		https://en.wikipedia.org/wiki/Prolactin	https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Protein_PRL_PDB_1n9d.png/800px-Protein_PRL_PDB_1n9d.png		https://en.wikipedia.org/wiki/Prolactin#Hyperprolactinaemia	https://www.ondemand.labcorp.com/lab-tests/prolactin		
+ferritin	Ferritin	0.000067	0.0004	false		https://en.wikipedia.org/wiki/Ferritin	https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ferritin.png/800px-Ferritin.png		https://en.wikipedia.org/wiki/Ferritin_test	https://www.ondemand.labcorp.com/lab-tests/ferritin		
+homocysteine	Homocysteine	0.005	0.015	false		https://en.wikipedia.org/wiki/Homocysteine	https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Homocysteine-2D-skeletal.png/1920px-Homocysteine-2D-skeletal.png		https://en.wikipedia.org/wiki/Homocysteine#Blood_tests	https://www.ondemand.labcorp.com/lab-tests/homocysteine		
+lipase	Lipase	0.00012	0.00075	false		https://en.wikipedia.org/wiki/Lipase	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lipase_1lpa.png/800px-Lipase_1lpa.png		https://en.wikipedia.org/wiki/Lipase_test	https://www.ondemand.labcorp.com/lab-tests/lipase		
+amylase	Amylase	0.0012	0.0053	false		https://en.wikipedia.org/wiki/Amylase	https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Amylase_1smda.png/800px-Amylase_1smda.png		https://en.wikipedia.org/wiki/Amylase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/amylase		
+ceruloplasmin	Ceruloplasmin	0.0015	0.006	false		https://en.wikipedia.org/wiki/Ceruloplasmin	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Protein_CP_PDB_1kcw.png/800px-Protein_CP_PDB_1kcw.png		https://en.wikipedia.org/wiki/Ceruloplasmin#Measurement	https://www.ondemand.labcorp.com/lab-tests/ceruloplasmin		
+ammonia	Ammonia	0.011	0.051	false		https://en.wikipedia.org/wiki/Ammonia	https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ammonia-3D-balls.png/800px-Ammonia-3D-balls.png		https://en.wikipedia.org/wiki/Hyperammonemia#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/ammonia		
+b2m	Beta-2 Microglobulin (B2M)	0.001	0.003	false		https://en.wikipedia.org/wiki/Beta-2_microglobulin	https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/B2MG_dimer.png/800px-B2MG_dimer.png		https://en.wikipedia.org/wiki/Beta-2_microglobulin#Blood_test	https://www.ondemand.labcorp.com/lab-tests/beta-2-microglobulin-b2m		
+copper	Copper	0.0118	0.0236	false		https://en.wikipedia.org/wiki/Copper	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23978/PNG		https://en.wikipedia.org/wiki/Copper_in_health#Blood_test	https://www.ondemand.labcorp.com/lab-tests/copper-serum		
+pyruvate	Pyruvate	0.03	0.1	false		https://en.wikipedia.org/wiki/Pyruvic_acid	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/107735/PNG		https://en.wikipedia.org/wiki/Pyruvic_acid#Blood_test	https://www.mayocliniclabs.com/test-catalog/Clinical+and+Interpretive/8663		
+uric_acid	Uric Acid	0.18	0.42	false		https://en.wikipedia.org/wiki/Uric_acid	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/1175/PNG		https://en.wikipedia.org/wiki/Uric_acid#Blood_test	https://www.ondemand.labcorp.com/lab-tests/uric-acid		
+zinc	Zinc	0.0076	0.0153	false		https://en.wikipedia.org/wiki/Zinc	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/23994/PNG		https://en.wikipedia.org/wiki/Zinc#Deficiency	https://www.ondemand.labcorp.com/lab-tests/zinc		
+creatine_kinase	Creatine Kinase	0.22	3.33	false		https://en.wikipedia.org/wiki/Creatine_kinase	https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Creatine_kinase.png/800px-Creatine_kinase.png		https://en.wikipedia.org/wiki/Creatine_kinase#Blood_test	https://www.ondemand.labcorp.com/lab-tests/creatine-kinase-ck-cpk		
+troponin	Troponin	0	0.0004	false		https://en.wikipedia.org/wiki/Troponin	https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Troponin_Complex_2.png/800px-Troponin_Complex_2.png		https://en.wikipedia.org/wiki/Troponin_test	https://www.ondemand.labcorp.com/lab-tests/troponin-i		
+folate_serum	Folate (Serum)	0.0067	0.0470	false		https://en.wikipedia.org/wiki/Folate	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/135398658/PNG		https://en.wikipedia.org/wiki/Folate_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/folate		
+vitamin_a	Vitamin A	0.0007	0.0036	false		https://en.wikipedia.org/wiki/Vitamin_A	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/445354/PNG		https://en.wikipedia.org/wiki/Vitamin_A_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/vitamin-a		
+vitamin_c	Vitamin C	0.023	0.085	false		https://en.wikipedia.org/wiki/Vitamin_C	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/54670067/PNG		https://en.wikipedia.org/wiki/Vitamin_C_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/vitamin-c		
+alpha_fetoprotein	Alpha Fetoprotein	0	0.000008	false		https://en.wikipedia.org/wiki/Alpha-fetoprotein	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Protein_AFP_PDB_1e7a.png/800px-Protein_AFP_PDB_1e7a.png		https://en.wikipedia.org/wiki/Alpha-fetoprotein_test	https://www.ondemand.labcorp.com/lab-tests/alpha-fetoprotein-tumor-marker		
+beta_hcg	Beta Human Chorionic Gonadotropin (HCG)	0	0.005	true		https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin	https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Chorionic_gonadotropin_PDB_1hrp.png/800px-Chorionic_gonadotropin_PDB_1hrp.png		https://en.wikipedia.org/wiki/Human_chorionic_gonadotropin#Blood_test	https://www.ondemand.labcorp.com/lab-tests/hcg-quantitative-pregnancy		
+ca19_9	CA19.9	0	0.000037	false		https://en.wikipedia.org/wiki/CA19-9	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CA19-9.svg/1920px-CA19-9.svg.png		https://en.wikipedia.org/wiki/CA19-9#Blood_test	https://www.ondemand.labcorp.com/lab-tests/cancer-antigen-19-9		
+cea	Carcinoembryonic Antigen (CEA)	0	0.0000025	false		https://en.wikipedia.org/wiki/Carcinoembryonic_antigen	https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Protein_CEA_PDB_2qy0.png/800px-Protein_CEA_PDB_2qy0.png		https://en.wikipedia.org/wiki/Carcinoembryonic_antigen#Blood_test	https://www.ondemand.labcorp.com/lab-tests/carcinoembryonic-antigen-cea		
+pap	Prostatic Acid Phosphatase (PAP)	0	0.002	false		https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Protein_ACPP_PDB_1nd6.png/800px-Protein_ACPP_PDB_1nd6.png		https://en.wikipedia.org/wiki/Prostatic_acid_phosphatase#Medical_uses	https://www.ondemand.labcorp.com/lab-tests/prostatic-acid-phosphatase-pap		
+psa	Prostate-Specific Antigen (PSA)	0	0.004	false		https://en.wikipedia.org/wiki/Prostate-specific_antigen	https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Protein_KLK3_PDB_2zch.png/800px-Protein_KLK3_PDB_2zch.png		https://en.wikipedia.org/wiki/Prostate-specific_antigen#Blood_test	https://www.ondemand.labcorp.com/lab-tests/prostate-specific-antigen-psa-total		
+alpha_1_antitrypsin	Alpha 1-Antitrypsin	0.020	0.048	false		https://en.wikipedia.org/wiki/Alpha-1_antitrypsin	https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Protein_SERPINA1_PDB_1hp7.png/800px-Protein_SERPINA1_PDB_1hp7.png		https://en.wikipedia.org/wiki/Alpha_1-antitrypsin_deficiency#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/alpha-1-antitrypsin		
+angiotensin_converting_enzyme	Angiotensin-Converting Enzyme	0.01	0.085	false		https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme	https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Protein_ACE_PDB_2c6f.png/800px-Protein_ACE_PDB_2c6f.png		https://en.wikipedia.org/wiki/Angiotensin-converting_enzyme#Blood_test	https://www.ondemand.labcorp.com/lab-tests/angiotensin-converting-enzyme-ace		
+d_dimer	D-Dimer	0	0.0005	false		https://en.wikipedia.org/wiki/D-dimer	https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fibrin_fragment_D-dimer.png/800px-Fibrin_fragment_D-dimer.png		https://en.wikipedia.org/wiki/D-dimer_test	https://www.ondemand.labcorp.com/lab-tests/d-dimer-quantitative		
+lead	Lead	0	0.00024	false		https://en.wikipedia.org/wiki/Lead	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5352425/PNG		https://en.wikipedia.org/wiki/Lead_poisoning#Diagnosis	https://www.ondemand.labcorp.com/lab-tests/lead		
+rheumatoid_factor	Rheumatoid Factor	0	0.015	false		https://en.wikipedia.org/wiki/Rheumatoid_factor	https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IgM_Pentamer.svg/1280px-IgM_Pentamer.svg.png		https://en.wikipedia.org/wiki/Rheumatoid_factor#Blood_test	https://www.ondemand.labcorp.com/lab-tests/rheumatoid-factor		
+acetoacetate	Acetoacetate	0.004	0.043	false		https://en.wikipedia.org/wiki/Acetoacetate	https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/96/PNG					
+acetone	Acetone	0.003	0.02	false		https://en.wikipedia.org/wiki/Acetone						
+acetylcholine	Acetylcholine	0.0000066	0.0000082	false		https://en.wikipedia.org/wiki/Acetylcholine						
+adrenocorticotropic_hormone	Adrenocorticotropic Hormone	0.000000025	0.00000012 	false		https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone						
+alanine	Alanine	0.000024	0.000076	false		https://en.wikipedia.org/wiki/Alanine						
+aluminum	Aluminum	0.00000001	0.00000088	false		https://en.wikipedia.org/wiki/Aluminium						
+aldosterone	Aldosterone	0.000000003	0.00000003	false		https://en.wikipedia.org/wiki/Aldosterone						
+alpha_aminobutyric_acid	alpha-Aminobutyric acid	0.000001	0.000002	false		https://en.wikipedia.org/wiki/Alpha-Aminobutyric_acid 						
+delta_aminolevulinic_acid	δ-Aminolevulinic acid	0.00000015	0.00000023	false		https://en.wikipedia.org/wiki/Aminolevulinic_acid						
+ammonia	Ammonia	0.0000001	0.00000049	false		https://en.wikipedia.org/wiki/Ammonia						
+androstenedione	Androstenedione 	0.0000000002	0.0000000030	false		https://en.wikipedia.org/wiki/Androstenedione				 		
+androsterone	Androsterone	0.00000015	0.00000015	false		https://en.wikipedia.org/wiki/Androsterone						
+angiotensin_i	Angiotensin I	0.000000000011	0.000000000088	false		https://en.wikipedia.org/wiki/Angiotensin_I 						
+angiotensin_ii	Angiotensin II	0.0000000000012	0.0000000000036	false		https://en.wikipedia.org/wiki/Angiotensin_II						
+arginine	Arginine	0.000013	0.000036  	false		https://en.wikipedia.org/wiki/Arginine						
+arsenic	Arsenic	0.000000002	0.000009300	false		https://en.wikipedia.org/wiki/Arsenic						
+aspartic_acid	Aspartic acid	0.000009	0.000012	false		https://en.wikipedia.org/wiki/Aspartic_acid						
+bile_acids	Bile acids	0.000003	0.00003	false		https://en.wikipedia.org/wiki/Bile_acid			 			
+biotin	Biotin	0.000000009	0.000000016	false		https://en.wikipedia.org/wiki/Biotin 						
+bradykinin	Bradykinin	0.00000000007	0.00000000007	false		https://en.wikipedia.org/wiki/Bradykinin						
+bromide	Bromide	0.000000007	0.00000001	false		https://en.wikipedia.org/wiki/Bromide						
+cadmium	Cadmium	0.000000001	0.000003	false		https://en.wikipedia.org/wiki/Cadmium						
+calcitonin	Calcitonin	0.0000000001	0.0000000001	false		https://en.wikipedia.org/wiki/Calcitonin 						
+carcinoembryonic_antigen	Carcinoembryonic antigen	0	0.0000000025	false		https://en.wikipedia.org/wiki/Carcinoembryonic_antigen						
+beta_carotene	beta-Carotene	0.0000003	0.0000025	false		https://en.wikipedia.org/wiki/Beta-Carotene						
+ceruloplasmin	Ceruloplasmin	0.00015	0.0006	false		https://en.wikipedia.org/wiki/Ceruloplasmin						
+cholecystokinin	Cholecystokinin	0.0000000000604	0.0000000000604	false		https://en.wikipedia.org/wiki/Cholecystokinin						
+citric_acid	Citric acid  	0.000016	0.000032	false		https://en.wikipedia.org/wiki/Citric_acid						
+citrulline	Citrulline	0.000002	0.00001	false		https://en.wikipedia.org/wiki/Citrulline						
+compound_s	Compound S	0.000000001	0.000000003	false		https://en.wikipedia.org/wiki/21-Hydroxypregnenolone						
+corticosterone	Corticosterone	0.000000004	0.00000002	false		https://en.wikipedia.org/wiki/Corticosterone			 			
+c_peptide	C-peptide	0.0000000005	0.000000004	false		https://en.wikipedia.org/wiki/Connecting_peptide						
+cyanide	Cyanide	0.000000004	0.000001	false		https://en.wikipedia.org/wiki/Cyanide						
+cysteine	Cysteine	0.000018	0.00005	false		https://en.wikipedia.org/wiki/Cysteine  						
+dehydroepiandrosterone	Dehydroepiandrosterone	0.0000000002 	0.00000002	false		https://en.wikipedia.org/wiki/Dehydroepiandrosterone						
+dihydrotestosterone	Dihydrotestosterone	0.000000001	0.000000008	false		https://en.wikipedia.org/wiki/Dihydrotestosterone				 		
+compound_11_deoxycortisol	11-Deoxycortisol	0.00000001	0.00000007	false		https://en.wikipedia.org/wiki/11-Deoxycortisol						
+dopamine	Dopamine	0	0.000000000136	false		https://en.wikipedia.org/wiki/Dopamine						
+epidermal_growth_factor 	Epidermal growth factor	0	0.00000000001	false		https://en.wikipedia.org/wiki/Epidermal_growth_factor						
+ergothioneine	Ergothioneine	0.00001	0.00002 	false		https://en.wikipedia.org/wiki/Ergothioneine						
+erythropoietin	Erythropoietin  	0.0000000005	0.00000008	false		https://en.wikipedia.org/wiki/Erythropoietin						
+estriol	Estriol	0 	0.00017	false		https://en.wikipedia.org/wiki/Estriol						
+estrone	Estrone	0.0000000029	0.00000001	false		https://en.wikipedia.org/wiki/Estrone 						
+alpha_1_fetoprotein	alpha-1-Fetoprotein	0 	0.00000002	false		https://en.wikipedia.org/wiki/Alpha-fetoprotein						
+flavin_adenine_dinucleotide	Flavin adenine dinucleotide	0.00000008	0.00000012	false		https://en.wikipedia.org/wiki/Flavin_adenine_dinucleotide 						
+fluoride	Fluoride	0.0000001	0.00000045	false		https://en.wikipedia.org/wiki/Fluoride						
+fructose	Fructose	0.00007	0.00008	false		https://en.wikipedia.org/wiki/Fructose				 		
+furosemide_glucuronide  	Furosemide glucuronide	0.000001	0.0004	false		https://en.wikipedia.org/wiki/Furosemide						
+galactose	Galactose 	0	0.0002	false		https://en.wikipedia.org/wiki/Galactose						
+gastric_inhibitory_peptide	Gastric Inhibitory Peptide (GIP)	0.000000000125	0.0000000004	false		https://en.wikipedia.org/wiki/Gastric_inhibitory_polypeptide						
+gastrin	Gastrin  	0 	0.00000000002	false		https://en.wikipedia.org/wiki/Gastrin						
+glucosamine	Glucosamine	0.00042	0.00089	false		https://en.wikipedia.org/wiki/Glucosamine						
+glucuronic_acid	Glucuronic acid	0.000008	0.000011	false		https://en.wikipedia.org/wiki/Glucuronic_acid 						
+glutamic_acid	Glutamic acid	0.000002	0.000028	false		https://en.wikipedia.org/wiki/Glutamic_acid			 			
+glutamine	Glutamine	0.000046	0.000106  	false		https://en.wikipedia.org/wiki/Glutamine						
+glutathione	Glutathione	0.00025	0.00041	false		https://en.wikipedia.org/wiki/Glutathione				 		
+glycerol	Glycerol	0.0000029	0.0000172	false		https://en.wikipedia.org/wiki/Glycerol						
+glycogen	Glycogen	0.000012	0.000162	false		https://en.wikipedia.org/wiki/Glycogen						
+cyclic_gmp	Cyclic GMP	0.0000000006	0.0000000044	false		https://en.wikipedia.org/wiki/Cyclic_guanosine_monophosphate  						
+gonadotropin_releasing_hormone	Gonadotropin-releasing hormone	0.000000000001	0.00000000008	false		https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone				 		
+guanidine	Guanidine	0.0000018	0.0000023	false		https://en.wikipedia.org/wiki/Guanidine						
+haptoglobin	Haptoglobin	0.0003 	0.0022	false		https://en.wikipedia.org/wiki/Haptoglobin						
+hemoglobin	Hemoglobin	0.12	0.195	false		https://en.wikipedia.org/wiki/Hemoglobin			 			
+histamine	Histamine	0.000000067 	0.000000086	false		https://en.wikipedia.org/wiki/Histamine						
+beta_hydroxybutyric_acid	beta-Hydroxybutyric acid 	0.000001	0.000009	false		https://en.wikipedia.org/wiki/Beta-Hydroxybutyric_acid						
+17_hydroxycorticosteroids	17α-Hydroxycorticosteroids	0.00000004	0.0000001	false		https://en.wikipedia.org/wiki/17-Hydroxycorticosteroid						
+17_hydroxyprogesterone	17α-Hydroxyprogesterone	0.000000000004	0.0000000003	false		https://en.wikipedia.org/wiki/17-Hydroxyprogesterone						
+indican	Indican	0.0000008	0.000005	false		https://en.wikipedia.org/wiki/Indican						
+insulin_like_growth_factor	Insulin-like growth factor 	0.0000000099	0.000005	false		https://en.wikipedia.org/wiki/Insulin-like_growth_factor_1						
+alpha_ketonic_acids	alpha-Ketonic acids	0.000001  	0.00003	false		https://en.wikipedia.org/wiki/Alpha-Ketonic_acid						
+leptin	Leptin	0.0000000012	0.0000000012	false		https://en.wikipedia.org/wiki/Leptin						
+lecithin	Lecithin	0.001	0.00225	false		https://en.wikipedia.org/wiki/Lecithin				 		
+lipoprotein	Lipoprotein	0.0001	0.001	false		https://en.wikipedia.org/wiki/Lipoprotein			 			
+lysozyme	Lysozyme	0.000001	0.000015	false		https://en.wikipedia.org/wiki/Lysozyme 				 		
+malic_acid	Malic acid	0.000001	0.000009	false		https://en.wikipedia.org/wiki/Malic_acid						
+melatonin_day	Melatonin (Day)	0.00000000000135  	0.00000000000145	false		https://en.wikipedia.org/wiki/Melatonin						
+melatonin_night  	Melatonin (Night)	0.00000000000607	0.00000000000713	false		https://en.wikipedia.org/wiki/Melatonin						
+mercury	Mercury  	0	0.0000002 	false		https://en.wikipedia.org/wiki/Mercury_(element)						
+methemoglobin	Methemoglobin	0.0004	0.0006	false		https://en.wikipedia.org/wiki/Methemoglobin			 			
+methyl_guanidine	Methyl guanidine	0.000002	0.000003	false		https://en.wikipedia.org/wiki/Methylguanidine				 		
+macrophage_inflammatory_protein_1_alpha	Macrophage inflammatory protein 1-alpha	0.00000000023 	0.00000000023	false		https://en.wikipedia.org/wiki/CCL3			 			
+macrophage_inflammatory_protein_1_beta	Macrophage inflammatory protein 1-beta	0.0000000009	0.0000000009  	false		https://en.wikipedia.org/wiki/CCL4						
+mucopolysaccharides	Mucopolysaccharides	0.00175	0.00225	false		https://en.wikipedia.org/wiki/Glycosaminoglycan						
+mucoproteins	Mucoproteins  	0.000865	0.00096	false		https://en.wikipedia.org/wiki/Mucoprotein						
+niacin	Niacin	0.0000002	0.000015	false		https://en.wikipedia.org/wiki/Niacin  						
+norepinephrine_15_min_rest	Norepinephrine (after 15 min rest)	0.000000000215	0.000000000475	false		https://en.wikipedia.org/wiki/Norepinephrine			 			
+norepinephrine_emitted	Norepinephrine (when emitted)	0.0000000081	0.0000000085	false		https://en.wikipedia.org/wiki/Norepinephrine  						
+nucleotide	Nucleotide  	0.00031	0.00052	false		https://en.wikipedia.org/wiki/Nucleotide						
+ornithine	Ornithine	0.000004	0.000014	false		https://en.wikipedia.org/wiki/Ornithine			 			
+oxytocin_male	Oxytocin (male)	0.000000000002  	0.000000000002	false		https://en.wikipedia.org/wiki/Oxytocin						
+oxytocin_female_nonlactating	Oxytocin (female, nonlactating)  	0.000000000002	0.000000000002	false		https://en.wikipedia.org/wiki/Oxytocin						
+oxytocin_female_pregnant_33_40_wks	Oxytocin (female, pregnant 33-40 wks)	0.00000000032	0.00000000048	false		https://en.wikipedia.org/wiki/Oxytocin  						
+pancreatic_polypeptide  	Pancreatic polypeptide	0.00000000005	0.0000000002	false		https://en.wikipedia.org/wiki/Pancreatic_polypeptide						
+pantothenic_acid	Pantothenic acid  	0.00000006	0.00000035	false		https://en.wikipedia.org/wiki/Pantothenic_acid						
+para_aminobenzoic_acid	Para-aminobenzoic acid	0.00000003	0.00000004	false		https://en.wikipedia.org/wiki/Para-Aminobenzoic_acid			 			
+pentose	Pentose	0.00002	0.000023	false		https://en.wikipedia.org/wiki/Pentose  						
+phenol	Phenol	0.0000007	0.000001	false		https://en.wikipedia.org/wiki/Phenol						
+phenylalanine	Phenylalanine	0.000011	0.00004	false		https://en.wikipedia.org/wiki/Phenylalanine						
+phospholipid	Phospholipid	0.00005	0.00012	false		https://en.wikipedia.org/wiki/Phospholipid						
+phosphorus_inorganic_adult	Phosphorus inorganic, adult	0.000023	0.000045	false		https://en.wikipedia.org/wiki/Phosphorus						
+phosphorus_inorganic_children	Phosphorus inorganic, children	0.00004	0.00007	false		https://en.wikipedia.org/wiki/Phosphorus						
+phosphorus_total	Phosphorus total	0.0001	0.00015	false		https://en.wikipedia.org/wiki/Phosphorus						
+phytanic_acid	Phytanic acid	0	0.000003	false		https://en.wikipedia.org/wiki/Phytanic_acid						
+platelet_derived_growth_factor	Platelet-derived growth factor	0	0.00000005	false		https://en.wikipedia.org/wiki/Platelet-derived_growth_factor						
+polysaccharides_total	Polysaccharides total	0.000073	0.000131	false		https://en.wikipedia.org/wiki/Polysaccharide						
+pregnenolone	Pregnenolone	0.0000000003	0.000000002	false		https://en.wikipedia.org/wiki/Pregnenolone						
+progesterone_female_follicular	Progesterone (female, follicular)	0.0000000004	0.0000000009	false		https://en.wikipedia.org/wiki/Progesterone						
+progesterone_female_midluteal	Progesterone (female, midluteal)	0.0000000077	0.0000000121	false		https://en.wikipedia.org/wiki/Progesterone						
+progesterone_pregnancy_weeks_16_18	Progesterone (pregnancy, weeks 16-18)	0.000000003	0.000000066	false		https://en.wikipedia.org/wiki/Progesterone						
+progesterone_pregnancy_weeks_28_30	Progesterone (pregnancy, weeks 28-30)	0.00000007	0.000000126	false		https://en.wikipedia.org/wiki/Progesterone						
+progesterone_pregnancy_weeks_38_40	Progesterone (pregnancy, weeks 38-40)	0.000000131	0.000000227	false		https://en.wikipedia.org/wiki/Progesterone						
+progesterone_male	Progesterone (male)	0.000000012	0.00000002	false		https://en.wikipedia.org/wiki/Progesterone						
+proinsulin_fasting	Proinsulin fasting	0.0000000005	0.0000000005	false		https://en.wikipedia.org/wiki/Proinsulin						
+proinsulin_mean	Proinsulin mean	0.0000000142	0.000000017	false		https://en.wikipedia.org/wiki/Proinsulin						
+prolactin_male_awake	Prolactin (male, awake)	0.000000001	0.000000007	false		https://en.wikipedia.org/wiki/Prolactin						
+prolactin_male_sleep	Prolactin (male, during sleep)	0.000000009	0.00000002	false		https://en.wikipedia.org/wiki/Prolactin						
+prolactin_female_follicular	Prolactin (female, follicular)	0	0.000000023	false		https://en.wikipedia.org/wiki/Prolactin						
+prolactin_female_luteal	Prolactin (female, luteal)	0.000000005	0.00000004	false		https://en.wikipedia.org/wiki/Prolactin						
+proline	Proline	0.000012	0.000057	false		https://en.wikipedia.org/wiki/Proline						
+prostaglandin_e	Prostaglandin PGE	0.0000000000355	0.0000000000415	false		https://en.wikipedia.org/wiki/Prostaglandin_E2						
+prostaglandin_f	Prostaglandin PGF	0.0000000000126	0.0000000000156	false		https://en.wikipedia.org/wiki/Prostaglandin_F2alpha						
+15_keto_pgf2a	15-keto-PGF2a	0	0.0000000005	false		https://en.wikipedia.org/wiki/15-Keto-prostaglandin_F2alpha						
+15_keto_pge2	15-keto-PGE2	0	0.00000000005	false		https://en.wikipedia.org/wiki/15-Keto-prostaglandin_E2						
+protein_total	Protein total	0.06	0.083	false		https://en.wikipedia.org/wiki/Protein						
+protoporphyrin	Protoporphyrin	0.00000027	0.00000061	false		https://en.wikipedia.org/wiki/Protoporphyrin						
+pseudoglobulin_i	Pseudoglobulin I	0.008	0.019	false		https://en.wikipedia.org/wiki/Pseudoglobulin						
+pseudoglobulin_ii	Pseudoglobulin II	0.002	0.008	false		https://en.wikipedia.org/wiki/Pseudoglobulin						
+purine_total	Purine total	0.0000095	0.0000115	false		https://en.wikipedia.org/wiki/Purine						
+pyrimidine_nucleotides	Pyrimidine nucleotides	0.0000002	0.0000012	false		https://en.wikipedia.org/wiki/Pyrimidine						
+pyridoxine	Pyridoxine (Vitamin B6)	0.0000000036	0.00000009	false		https://en.wikipedia.org/wiki/Pyridoxine						
+rantes	RANTES	0	0.00000000007	false		https://en.wikipedia.org/wiki/CCL5						
+relaxin_day_lt_100_preparturition	Relaxin (day <100 preparturition)	0	0.000000002	false		https://en.wikipedia.org/wiki/Relaxin						
+relaxin_day_100_to_2_days_preceding	Relaxin (day 100 to 2 days preceding parturition)	0.000000005	0.00000004	false		https://en.wikipedia.org/wiki/Relaxin						
+relaxin_day_preceding_parturition	Relaxin (day preceding parturition)	0.0001	0.0002	false		https://en.wikipedia.org/wiki/Relaxin						
+relaxin_day_following_parturition	Relaxin (day following parturition)	0	0.000000002	false		https://en.wikipedia.org/wiki/Relaxin						
+retinol	Retinol (Vitamin A)	0.0000001	0.0000008	false		https://en.wikipedia.org/wiki/Retinol						
+riboflavin	Riboflavin (Vitamin B2)	0.000000026	0.000000037	false		https://en.wikipedia.org/wiki/Riboflavin						
+rna	RNA	0.00004	0.00006	false		https://en.wikipedia.org/wiki/RNA						
+secretin	Secretin	0.000000000029	0.000000000045	false		https://en.wikipedia.org/wiki/Secretin						
+serine	Serine	0.000003	0.00002	false		https://en.wikipedia.org/wiki/Serine						
+silicon	Silicon	0.0000022	0.0000057	false		https://en.wikipedia.org/wiki/Silicon						
+solids_total	Solids, total	0.08	0.09	false		https://en.wikipedia.org/wiki/Total_dissolved_solids						
+somatotropin_growth_hormone	Somatotropin (growth hormone)	0.0000000004	0.00000014	false		https://en.wikipedia.org/wiki/Growth_hormone						
+sphingomyelin	Sphingomyelin	0.001	0.004	false		https://en.wikipedia.org/wiki/Sphingomyelin						
+succinic_acid	Succinic acid	0.000005	0.000005 	false		https://en.wikipedia.org/wiki/Succinic_acid						
+sugar_total	Sugar, total  	0.0007	0.0011	false		https://en.wikipedia.org/wiki/Sugar						
+sulfates_inorganic	Sulfates inorganic	0.000008	0.000012	false		https://en.wikipedia.org/wiki/Sulfate				 		
+sulfur_total	Sulfur total	0.031	0.038  	false		https://en.wikipedia.org/wiki/Sulfur						
+taurine  	Taurine	0.000003	0.000021	false		https://en.wikipedia.org/wiki/Taurine						
+testosterone_male_free  	Testosterone (male, free)	0.0000000056	0.0000000102	false		https://en.wikipedia.org/wiki/Testosterone						
+testosterone_male_total	Testosterone (male, total)  	0.0000000275	0.0000000875	false		https://en.wikipedia.org/wiki/Testosterone						
+testosterone_female_free	Testosterone (female, free)	0.0000000000024	0.0000000000038	false		https://en.wikipedia.org/wiki/Testosterone  						
+testosterone_female_total	Testosterone (female, total)	0.0000000023	0.0000000075	false		https://en.wikipedia.org/wiki/Testosterone						
+testosterone_female_pregnant	Testosterone (female, pregnant)	0.0000000038  	0.000000019	false		https://en.wikipedia.org/wiki/Testosterone						
+thiamine  	Thiamine (Vitamin B1)	0.00000001	0.00000009	false		https://en.wikipedia.org/wiki/Thiamine						
+thiocyanate_nonsmoker	Thiocyanate (nonsmoker)	0.000001	0.000004	false		https://en.wikipedia.org/wiki/Thiocyanate			 			
+thiocyanate_smoker	Thiocyanate (smoker) 	0.000003	0.000012	false		https://en.wikipedia.org/wiki/Thiocyanate						
+threonine	Threonine	0.00000009	0.00000032	false		https://en.wikipedia.org/wiki/Threonine 						
+thyroglobulin	Thyroglobulin (Tg)	0  	0.00000005	false		https://en.wikipedia.org/wiki/Thyroglobulin						
+thyroid_hormones	Thyroid hormones	0.00000004	0.00000008	false		https://en.wikipedia.org/wiki/Thyroid_hormone  						
+thyroxine_free  	Thyroxine (FT4, free)	0.000000000008	0.000000000024	false		https://en.wikipedia.org/wiki/Thyroxine						
+thyroxine_total	Thyroxine (FT4, total)	0.00000004	0.00000012	false		https://en.wikipedia.org/wiki/Thyroxine						
+thyroxine_binding_prealbumin  	Thyroxine-binding prealbumin	0.00028	0.00035	false		https://en.wikipedia.org/wiki/Transthyretin						
+thyroxine_binding_globulin	Thyroxine-binding globulin	0.0000001	0.00000034	false		https://en.wikipedia.org/wiki/Thyroxine-binding_globulin  						
+tin	Tin	0	0.0000001	false		https://en.wikipedia.org/wiki/Tin						
+alpha_tocopherol  	alpha-Tocopherol (Vitamin E)	0.000005	0.00002	false		https://en.wikipedia.org/wiki/Tocopherol 						
+transcortin_male	Transcortin (male)	0.000015	0.00002	false		https://en.wikipedia.org/wiki/Transcortin						
+transcortin_female  	Transcortin (female)	0.000016	0.000025	false		https://en.wikipedia.org/wiki/Transcortin						
+transferrin_newborn	Transferrin (newborn)  	0.0013	0.00275	false		https://en.wikipedia.org/wiki/Transferrin						
+transferrin_adult	Transferrin (adult)	0.0022	0.004	false		https://en.wikipedia.org/wiki/Transferrin				 		
+transferrin_over_60	Transferrin (age >60 yrs)	0.0018	0.0038 	false		https://en.wikipedia.org/wiki/Transferrin						
+triiodothyronine_free	Triiodothyronine (free)	0.0000000000023	0.0000000000066	false		https://en.wikipedia.org/wiki/Triiodothyronine  						
+triiodothyronine_total  	Triiodothyronine (total, T3)	0.00000000075	0.0000000025	false		https://en.wikipedia.org/wiki/Triiodothyronine						
+tryptophan	Tryptophan	0.000009	0.00003	false		https://en.wikipedia.org/wiki/Tryptophan						
+tyrosine  	Tyrosine	0.000004	0.000025	false		https://en.wikipedia.org/wiki/Tyrosine						
+uric_acid_child	Uric acid (child)	0.00002	0.0000067	false		https://en.wikipedia.org/wiki/Uric_acid  						
+uric_acid_adult_male	Uric acid (adult, male)  	0.000034	0.0000072	false		https://en.wikipedia.org/wiki/Uric_acid						
+uric_acid_adult_female	Uric acid (adult, female)	0.000024 	0.0000061	false		https://en.wikipedia.org/wiki/Uric_acid						
+valine	Valine	0.0000017	0.0000042	false		https://en.wikipedia.org/wiki/Valine			 			
+vip	Vasoactive intestinal peptide (VIP)	0.000000000006 	0.000000000016	false		https://en.wikipedia.org/wiki/Vasoactive_intestinal_peptide						
+vasopressin_hydrated	Vasopressin (hydrated)	0.00000000000045	0.00000000000045	false		https://en.wikipedia.org/wiki/Vasopressin 						
+vasopressin_dehydrated	Vasopressin (dehydrated)	0.0000000000037	0.0000000000037	false		https://en.wikipedia.org/wiki/Vasopressin			  			
+valproic_acid	Valproic acid	0.195	0.488	false		https://en.wikipedia.org/wiki/Valproic_acid		Valproate				
+lamotrigine	Lamotrigine	0.00586	0.0391	false		https://en.wikipedia.org/wiki/Lamotrigine		Lamictal				
+carbamazepine	Carbamazepine	0.01693	0.05078	false		https://en.wikipedia.org/wiki/Carbamazepine		Tegretol				
+olanzapine	Olanzapine	0.00006401	0.00012803	false		https://en.wikipedia.org/wiki/Olanzapine		Zyprexa				
+quetiapine	Quetiapine	0.0002608	0.0026077	false		https://en.wikipedia.org/wiki/Quetiapine		Seroquel				
+risperidone	Risperidone	0.00004873	0.00014619	false		https://en.wikipedia.org/wiki/Risperidone		Risperdal				
+aripiprazole	Aripiprazole	0.0003352	0.0011174	false		https://en.wikipedia.org/wiki/Aripiprazole		Abilify				
+ziprasidone	Ziprasidone			false		https://en.wikipedia.org/wiki/Ziprasidone		Geodon				
+lurasidone	Lurasidone			false		https://en.wikipedia.org/wiki/Lurasidone		Latuda				
+asenapine	Asenapine			false		https://en.wikipedia.org/wiki/Asenapine		Saphris				
+cariprazine	Cariprazine			false		https://en.wikipedia.org/wiki/Cariprazine		Vraylar				
+paliperidone	Paliperidone			false		https://en.wikipedia.org/wiki/Paliperidone		Invega				
+oxcarbazepine	Oxcarbazepine			false		https://en.wikipedia.org/wiki/Oxcarbazepine		Trileptal				
+topiramate	Topiramate			false		https://en.wikipedia.org/wiki/Topiramate		Topamax				
+gabapentin	Gabapentin			false		https://en.wikipedia.org/wiki/Gabapentin		Neurontin				
+clozapine	Clozapine			false		https://en.wikipedia.org/wiki/Clozapine		Clozaril				
+haloperidol	Haloperidol			false		https://en.wikipedia.org/wiki/Haloperidol		Haldol				
+chlorpromazine	Chlorpromazine			false		https://en.wikipedia.org/wiki/Chlorpromazine		Thorazine				
+venlafaxine	Venlafaxine			false		https://en.wikipedia.org/wiki/Venlafaxine		Effexor				
+fluoxetine	Fluoxetine	0.0003879	0.0016163	false		https://en.wikipedia.org/wiki/Fluoxetine		Prozac				
+bupropion	Bupropion			false		https://en.wikipedia.org/wiki/Bupropion		Wellbutrin				
+sertraline	Sertraline			false		https://en.wikipedia.org/wiki/Sertraline		Zoloft				
+paroxetine	Paroxetine			false		https://en.wikipedia.org/wiki/Paroxetine		Paxil				
+escitalopram	Escitalopram			false		https://en.wikipedia.org/wiki/Escitalopram		Lexapro				
+duloxetine	Duloxetine			false		https://en.wikipedia.org/wiki/Duloxetine		Cymbalta				
+modafinil	Modafinil			false		https://en.wikipedia.org/wiki/Modafinil		Provigil				

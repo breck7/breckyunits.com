@@ -1,9 +1,19 @@
-title Chemical Blood Tests
+import ../header.scroll
 
-This is a database of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
- link ../ketonesVsLithium.html Ketones vs Lithium
+homeLink ../index.html
+
+wideColumns 1
+
+title Chemical Blood Tests Dataset
+
+writeDataset chemicalBloodTests.tsv
 
 viewSource
+
+This file generates a TSV dataset of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
+ link chemicalBloodTests.tsv TSV
+ link chemicalBloodTests.scroll This file
+ link ../ketonesVsLithium.html Ketones vs Lithium
 
 It is specific to blood chemistry tests. So there are no urine tests. And it is not about blood cell tests. And it does not gain blood gas tests. Generally it is a collection of information on levels of chemicals in blood plasma.
 
@@ -12,31 +22,47 @@ This dataset was created to see how common it is for the target levels of certai
 At some point, I would like to add fields to get some measure on how popular each test is. Also, I want to add categories for each test (ie, electrolytes, Hormones, etc), and what the test method is (for example, Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy). I also want to add chemical formulas. It is likely that all the measures I would want to add are already present in HMDB.
  https://hmdb.ca/metabolites?utf8=%E2%9C%93&filter=true&quantified=1&blood=1&filter=true HMDB
 
-# Schema
+printDataset
+tableSearch
 
-schema
- id: string
- title: string
- aka: string
-  description A comma separated list of other names for this chemical, such as brand names.
- image: url
- endogenous: boolean
-  description Is this produced anywhere in the human body?
- chemicalWikipediaPage: url
- bloodTestWikipediaPage: url
-  description If there is a wikipedia page not only about the chemical, but specifically about blood tests for that chemical, include that here.
- bottom: float
-  description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
- top: float
-  description The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
- testAtLab: url
-  description A URL to buy/schedule an in lab test. Multiple are okay.
- testAtHome: url
-  description A URL to buy an at home, instant test kit (NOT a kit that requires mailing in), usually involving disposable test strips. Multiple are okay.
- testByMail: url
-  description A URL to buy a kit where you can draw blood at home but then must MAIL it into a lab. Multiple are okay.
- canTestAtHome: boolean
-  description A boolean value indicating whether the whole test can be performed at home. If there is a valid url for testAtHome, then this should be true, otherwise false.
+# Schema:
+
+id:: string
+
+title:: string
+
+bottom:: float
+ description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+
+top:: float
+ description The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+
+canTestAtHome:: boolean
+ description A boolean value indicating whether the whole test can be performed at home. If there is a valid url for testAtHome, then this should be true, otherwise false.
+
+endogenous:: boolean
+ description Is this produced anywhere in the human body?
+
+chemicalWikipediaPage:: url
+
+image:: url
+
+aka:: string
+ description A comma separated list of other names for this chemical, such as brand names.
+
+bloodTestWikipediaPage:: url
+ description If there is a wikipedia page not only about the chemical, but specifically about blood tests for that chemical, include that here.
+
+testAtLab:: url
+ description A URL to buy/schedule an in lab test. Multiple are okay.
+
+testAtHome:: url
+ description A URL to buy an at home, instant test kit (NOT a kit that requires mailing in), usually involving disposable test strips. Multiple are okay.
+
+testByMail:: url
+ description A URL to buy a kit where you can draw blood at home but then must MAIL it into a lab. Multiple are okay.
+
+# Data:
 
 :::
 
@@ -3145,4 +3171,9 @@ bottom:
 top:
 testAtLab:
 canTestAtHome: false
+
+
+:::
+
+import ../footer.scroll
 

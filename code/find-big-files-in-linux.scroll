@@ -8,7 +8,7 @@ groups index
 keyboardNav
 permalink find-big-files-in-linux.html
 
-_Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
+* _Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
  dateline
 
 How to find files larger than a certain size:
