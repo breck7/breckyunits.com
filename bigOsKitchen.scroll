@@ -60,6 +60,6 @@ css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helve
 endColumns
 
 startColumns 1
-// image bigOs.png
+openGraphImage https://breckyunits.com/bigOs.png
 
 import allFooter.scroll
