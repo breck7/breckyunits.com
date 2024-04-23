@@ -7,7 +7,7 @@ startColumns 1
 date 4/23/2024 5:00
 groups All Programming Thinking
 
-I wrapped my fingers around the white ceramic mug in the cold air. The warmth passed into my hands immediately. Snakes of steam rose from the top. I brought the cup to my lips and took a slow sip of the coffee bean flavored water inside.
+I wrapped my fingers around the white ceramic mug in the cold air. I felt the warmth on my hands. The caramel colored surface released snakes of steam. I brought the cup to my lips and took a slow sip of the coffee bean flavored water inside.
  dateline
 
 Happiness is a hot cup of coffee in a ceramic mug on a cold day.
@@ -107,7 +107,9 @@ And now I have a dataset to test all future models against.
 - Beware stories lacking datasets!
  link dataset-needed.html
 - Also beware stories that start with true datasets but then discreetly (but swiftly) switch to false ones.
+- Love data sharers, beware data misers.
 - An ounce of good data is worth a pound of bad models.
+- An additional concept, measure, or measurement are all capable of triggering a huge leap toward a more accurate model.
 - Datasets are a useful, simple, and timeless means to better models.
 - Datasets are particularly good at automating the identification of bad models.
 - All that being said, remember that *ultimately the models, not the datasets, are the important thing*!
