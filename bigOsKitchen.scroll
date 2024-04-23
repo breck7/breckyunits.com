@@ -1,0 +1,65 @@
+import header.scroll
+title Big O's Kitchen
+
+# Menu Instructions
+
+startColumns 2
+groups All Programming
+date 4/23/2024
+
+Congrats on landing a job at Big O's Kitchen!
+
+Our menu has *<span style="color:#c42c1f;">7 dishes<span>*.
+
+Below are the instructions for making each dish.
+
+endSnippet
+
+## 1. The Constant
+Grab one ingredient from an ingredient pack and put on one plate.
+
+## 2. The Log
+Dump half an ingredient pack on one plate.
+Take that plate and dump half its ingredients onto another plate.
+Repeat until you have a plate with less than 2 ingredients.
+
+## 3. The Linear
+Open an ingredient pack and put each ingredient on its own plate.
+
+## 4. The Log Linear
+Open an ingredient pack and put each ingredient on its own plate.
+Then dump half a new ingredient pack on each of those plates.
+Take each of those plates and dump half its ingredients onto another plate.
+Repeat until you have a plate with less than 2 ingredients.
+
+## 5. The Quad
+Open an ingredient pack and put each ingredient on its own plate.
+Then for each plate, open another ingredient pack.
+Put each of those ingredients on its own plate and portion the original ingredient between those plates.
+
+## 6. The Expo
+Open an ingredient pack. Put one ingredient on one plate.
+Then portion between two plates.
+Add the next ingredient equally to all plates. Then portion each plate into two plates.
+Repeat until you have no more ingredients.
+
+## 7. The Factory
+Make a plate for every combination of ingredients in the ingredient pack.
+
+So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato) you should make 6 plates:
+- 🥓🥬🍅
+- 🥓🍅🥬
+- 🥬🥓🍅
+- 🍅🥓🥬
+- 🥬🍅🥓
+- 🍅🥬🥓
+
+css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial";}
+
+
+endColumns
+
+startColumns 1
+// image bigOs.png
+
+import allFooter.scroll
