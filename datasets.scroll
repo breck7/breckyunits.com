@@ -150,6 +150,10 @@ tabTable
  4	SF	4	4.5	FALSE	128.8	113.9	102.5	95.9	90.5	86.3	83.6	81.6	79.8	78.2	76.6
  5	Aruba	3	3.75	FALSE	130.8	114.6	104.9	98.9	92.3	87.6	85.4	82.9	81.1	80.2	78
 
+// Note, for Thermos and Yeti they proably would have done better but I:
+// Thermos = I would remove the cover to measure the temp.
+// Yeti Covered = lid on, but the flap was open so I could easily measure the temp.
+
 endColumns
 
 startColumns 1
