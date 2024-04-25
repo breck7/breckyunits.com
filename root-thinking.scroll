@@ -12,6 +12,8 @@ I dislike the term _first principles thinking_. It's vaguer than it needs to be.
 image rootThinking.svg
  caption Sometimes we get something wrong near the root which limits our late stage growth. To reach new heights, we have to backtrack and build up from a different point.
 
+endSnippet
+
 All formal systems can be represented as trees^tn. First Principles are simply the nodes at the root.
  https://en.wikipedia.org/wiki/First_principle First Principles
 
