@@ -8,6 +8,8 @@ date 2009-12-02 1
 Decided to blog again. I missed it. Writing publicly, even when you only get 3 readers, two of which are bots and the other is your relative, is to the mind what exercise is to the body. It's fun and feels good; especially when you haven't done it in a while.
  dateline
 
+endSnippet
+
 Also decided to go old school. No Wordpress or Tumblr, Blogger or Posterous. Instead, I'm writing this on pen and paper. Later I'll type it into HTML using Notepad++, vim, or equivalent(EDIT: after writing this I coded my own, simple blogging software called brecksblog). It will just be text and links. Commenting works better on hackernews, digg, or reddit anyway.
  http://github.com/breck7/brecksblog brecksblog
  http://news.ycombinator.com hackernews

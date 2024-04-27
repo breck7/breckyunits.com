@@ -1,0 +1,33 @@
+import header.scroll
+title Irrational Numbers
+startColumns 2
+groups All Thinking
+date 2009-03-31
+
+There’s a post currently on Hacker News that discusses irrational numbers. A long time ago irrational numbers really bothered me. I remember I had a teacher in high school who gave us extra credit for reading books about math that dealt with specific topics like pi or irrational numbers. These books gave me nightmares :). I still don’t really understand irrational numbers but haven’t thought about them in a long time.  According to Wikipedia:
+ https://news.ycombinator.com/item?id=540005 Hacker News
+ dateline
+
+endSnippet
+
+quote
+ In mathematics, an irrational number is any real number that is not a rational number—that is, it is a number which cannot be expressed as a fraction m/n, where m and n are integers, with n non-zero. Informally, this means numbers that cannot be represented as simple fractions. It can be deduced that they also cannot be represented as terminating or repeating decimals, but the idea is more profound than that. As a consequence of Cantor’s proof that the real numbers are uncountable (and the rationals countable) it follows that almost all real numbers are irrational.[1] Perhaps the best-known irrational numbers are π, e and √2.
+
+image irrationalNumber.png
+
+Here’s what I think now that I didn’t understand back in the day. Say someone showed me the picture of the triangle above and said “write down the exact length of the hypotenuse in decimal form”, I might try and use Pythagorean’s Theorem and say C^2 = A^2+B^2 so c = 2^.5…Then if I tried to write the 2^.5 in decimal form of course I’d go on forever.
+
+But what I don’t understand is why I would assume the sides = 1. I don’t understand why 1 is a rational number. How do we know that the side is precisely 1? I would say it looks more like 1.0000001 to me, but I could be wrong. But I’ll settle that the probability that the side is 1 is pretty good so I’ll use that. And since I can’t be sure the side was exactly 1 but I rounded it to 1 anyway then I might as well just round 2^.5 to 1.4. So there, now 2^.5 (or 7/5) is a rational number. Probability and statistics is the best!
+
+My point is growing up math was probably my favorite subject. Calculus amazed me. I really thought math was eventually going to explain everything to me about the world. But then it started getting much more specific and I stopped seeing math in everyday life. With calculus I saw derivatives in everything from the acceleration of a car to the  temperature drop at night. But a few years of multivariables calculus and linear algebra and stuff later and I stopped getting a sense that math could really answer the big questions about the world.
+
+Then I finally took probstat(relatively late in life) and years later I still can’t get enough. I think probability and statistics should be taught early and often. It can do amazing things, like pricing insurance, increasing sales, curing diseases, and turning irrational numbers rational.
+
+P.S. I know this is probably a naivve look at complex math topics, but I’m 1% sure that I’m totally correct and all those smart mathematicians are wrong.
+
+import importedNote.scroll
+
+Original post
+ https://web.archive.org/web/20090713043922/http://www.breckyunits.com/statistics/2009/03/31/irrational-numbers/
+
+import allFooter.scroll
