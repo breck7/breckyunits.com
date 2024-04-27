@@ -12,3 +12,8 @@ kT*/
 b*.pdf
 mi*/
 twelve_tips_to_master_programming_faster
+katex.min.js
+katex.min.css
+dataTables.dataTables.min.css
+dataTables.min.js
+jquery-3.7.1.min.js
