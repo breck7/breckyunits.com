@@ -91,6 +91,12 @@ image the-three-byte-fix.png
  caption Interactive Version.
   https://www.datawrapper.de/_/vrQfc/
 
+You can easily see the difference when you look at time needed per additional row as the number of rows increases:
+
+Rows	LogLinear	Quadratic	Before	After
+100000	16.60964	100000	231.22	1.25
+200000	17.60964	200000	569.43	1.62
+
 # Merged
 Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
  https://github.com/tmcw creator
