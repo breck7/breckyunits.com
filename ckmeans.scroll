@@ -4,7 +4,7 @@ date 6/09/2022
 startColumns 2
 groups All Programming  
 
-This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. Who doesn't love a change like that?
+This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. A 3 byte change made the code run _20 times_ faster.
  dateline
 
 # Map chart slowdown
@@ -44,14 +44,13 @@ comment
  Before: https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
  After: https://www.wolframalpha.com/input?i=linear+fit+%7B1000%2C15%7D%2C%7B2000%2C29%7D%2C%7B10000%2C32%7D%2C%7B20000%2C52%7D%2C%7B100000%2C125%7D%2C%7B200000%2C324%7D
 
-commaTable
- nSize,time
- 1000,36
- 2000,53
- 10000,258
- 20000,1236
- 100000,23122
- 200000,113886
+Rows	Time
+1000	36000
+2000	53000
+10000	258000
+20000	1236000
+100000	23122000
+200000	113886000
 
 # Opening an issue
 After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
@@ -64,12 +63,13 @@ comment
 Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
  https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
 
-code
+<code class="scrollCodeBlock">
  Before:
  if (iMax < matrix.length - 1) {
  
  After:
- if (iMax < matrix[0].length - 1) {
+ if (iMax < matrix<b style="background-color: rgb(139,197,130); color: rgb(35,85,48);">[0]</b>.length - 1) {
+ </code>
 
 He had read through the original ckmeans C++ implementation and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
  https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp original ckmeans C++ implementation
@@ -78,20 +78,35 @@ He had read through the original ckmeans C++ implementation and found a conditio
  hoverNote large
   (N - the number of data points)
 
-I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, with a particular focus on the loops".
+I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, looking for typos, with a particular focus on the loops".
 
+# The Results
 The typo fix made the Javascript version run in the claimed n·log(n) to match the C++ version. For our new map charts with tens of thousands of values this made a big difference.
 
 code
  Before xxxxxxxxxxxxxxxx 820ms
  After  x 52ms
 
+image the-three-byte-fix.png
+ caption Interactive Version.
+  https://www.datawrapper.de/_/vrQfc/
+
 # Merged
 Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
  https://github.com/tmcw creator
 
 # Thanks!
-Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun. 
+Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-means algorithm. Thanks to Tom MacWright for creating amazing Simple Statistics package and adding ckmeans. And thanks to my former teammates Daniel for the initial code and Marcel for the fix. Open source is fun.
+
+// Before/after data:
+ Rows	LogLinear	Quadratic	Before	After
+ 1	1	1	1	1
+ 1000	9966	1000000	36000	15000
+ 2000	21932	4000000	53000	29000
+ 10000	132877	100000000	258000	32000
+ 20000	285754	400000000	1236000	52000
+ 100000	1660964	10000000000	23122000	125000
+ 200000	3521928	40000000000	113886000	324000
 
 import allFooter.scroll
 
