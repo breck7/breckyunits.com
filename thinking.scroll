@@ -1,4 +1,4 @@
 replace CAT_TITLE Thinking
 import categoryPage.scroll
-snippets MathematicalThinking
+snippets Thinking
 import footer.scroll
