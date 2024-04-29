@@ -1,11 +1,11 @@
 import header.scroll
 title The Fastest in the World
 
+byLine
+
 startColumns 1
 groups All Life
 date 2024-04-22
-
-***
 
 The girl lost the race.
 
@@ -129,5 +129,3 @@ openGraphImage https://breckyunits.com/theFastestByDallE.png
  Make a highly minimalistic black and white illustration, featuring two hands—one of a child and one of an adult. The design focuses solely on their outlines. The child's hand is on the left and the adults is on the right. The adults hand is coming down at a slight angle. The childs hand is coming up at a slight angle. We see the back of the childs hand. We see the palm side of the adults hand. It looks like they were holding hands but something (that we dont see at all) pulled them apart. You can see that they are reaching as hard as they can to touch but the new distance between them is too hard to overcome
 
 import allFooter.scroll
-
-

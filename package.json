@@ -17,6 +17,6 @@
   },
   "homepage": "https://breckyunits.com",
   "dependencies": {
-    "scroll-cli": "^79.1.0"
+    "scroll-cli": "^80.0.0"
   }
 }

@@ -2,6 +2,7 @@ patch
 keyboard
 .DS_Store
 *.html
+*.txt
 feed.xml
 posts.csv
 source.txt

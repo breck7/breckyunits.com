@@ -1,8 +1,7 @@
 import header.scroll
 title Hot Coffee
 // aka Dataset Thinking
-
-
+byLine
 startColumns 1
 date 4/23/2024 5:00
 groups All Programming Thinking
@@ -11,7 +10,6 @@ I wrapped my fingers around the white ceramic mug in the cold air. I felt the wa
  dateline
 
 Happiness is a hot cup of coffee in a ceramic mug on a cold day.
-
 endSnippet
 
 But, like happiness, heat is fleeting.
@@ -117,9 +115,7 @@ And now I have a dataset to test all future models against.
 - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
 
 <br><br>
-
 ---
-
 <br><br>
 
 # Footnotes

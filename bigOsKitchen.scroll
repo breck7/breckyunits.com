@@ -1,11 +1,11 @@
 import header.scroll
 title Big O's Kitchen
 
-# Menu Instructions
-
-startColumns 2
 groups All Programming
 date 4/23/2024
+
+# Menu Instructions
+startColumns 2
 
 Congrats on landing a job at Big O's Kitchen!
 
@@ -47,6 +47,7 @@ Repeat until you have no more ingredients.
 Make a plate for every combination of ingredients in the ingredient pack.
 
 So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato) you should make 6 plates:
+
 - 🥓🥬🍅
 - 🥓🍅🥬
 - 🥬🥓🍅
@@ -56,11 +57,9 @@ So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato
 
 css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial";}
 
-
 endColumns
 
 startColumns 1
-
 image bigOs.png
  caption Interactive Version
   https://www.datawrapper.de/_/O5Pmu/
@@ -79,5 +78,7 @@ Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The
 5	1	3	5	12	25	32	120
 6	1	3	6	16	36	64	720
 7	1	3	7	20	49	128	5040
+
+byLine
 
 import allFooter.scroll

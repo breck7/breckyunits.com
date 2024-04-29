@@ -3,3 +3,4 @@ importOnly
 keyboardNav
 import footer.scroll
 // todo: issue a warning if no snippet or dateline? meh
+writeText

@@ -2,7 +2,7 @@ import header.scroll
 title The Three Byte Fix
 date 6/09/2022
 startColumns 2
-groups All Programming  
+groups All Programming
 
 This is a fun little open source success story. Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. A 3 byte change made the code run _20 times_ faster.
  dateline

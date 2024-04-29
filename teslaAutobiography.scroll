@@ -5,7 +5,7 @@ title My Inventions
 
 # Nikola Tesla's Autobiography
 
-author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
+byLine https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 
 ## Source
  http://www.tfcbooks.com/special/my_inventions_index.htm

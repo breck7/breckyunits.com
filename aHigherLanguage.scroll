@@ -1,14 +1,14 @@
 import header.scroll
 title A Higher Language
 
-startColumns 1
+byLine
+
 groups All Life
 date 2024-04-27
 
-***
+startColumns 1
 
 I was walking in the woods and saw a path on my right. I had never seen this path before.
-
 endSnippet
 
 It was a few feet wide and a foot or two taller than me.
@@ -75,5 +75,3 @@ openGraphImage https://breckyunits.com/tunnelByDallE.png
 
 
 import allFooter.scroll
-
-
