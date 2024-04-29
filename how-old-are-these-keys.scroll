@@ -65,7 +65,6 @@ endColumns
 wideColumns 1
 
 ---
-css summary {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial"; cursor: pointer;}
 
 <details>
 <summary>Dataset</summary>
