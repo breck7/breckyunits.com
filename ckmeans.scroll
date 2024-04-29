@@ -14,6 +14,7 @@ groups All Programming
 "Your maps are slow".
  dateline
 In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
+ https://ourworldindata.org/ our
 
 image map-view.png
  caption Suddenly these charts were taking a long time to render.
