@@ -58,6 +58,13 @@ After triple checking my logic, I created an issue on the Simple Statistics repo
 Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
  https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
 
+plainTextOnly
+ Before:
+ if (iMax < matrix.length - 1) {
+ 
+ After:
+ if (iMax < matrix[0].length - 1) {
+
 <code class="scrollCodeBlock">
  Before:
  if (iMax < matrix.length - 1) {
