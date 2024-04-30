@@ -2,7 +2,8 @@ import header.scroll
 title Orders of Magnitude
 
 startColumns 2
-groups All Thinking  
+groups All Thinking
+related bigOsKitchen logeracy planets-and-pebbles
 date 2009-12-07
 
 Do you think in Orders of Magnitude? You should.
@@ -54,12 +55,7 @@ Bill Gates has approximately $50,000,000,000. Warren Buffett has $40,000,000,000
 - Shaq is about 1 order of magnitude taller than a newborn, but besides that height is much more narrowly distributed. Everyone is within the same order of magnitude tall.
 
 # Related Posts
-- Big O's Kitchen
- link bigOsKitchen.html
-- Logeracy
- link logeracy.html
-- Planets and Pebbles
- link planets-and-pebbles.html
+relatedList
 
 # Notes
 - WolframAlpha

@@ -2,6 +2,7 @@ import header.scroll
 title Big O's Kitchen
 
 groups All Programming
+related ckmeans logeracy planets-and-pebbles orders-of-magnitude
 date 4/23/2024
 
 # Menu Instructions
@@ -80,13 +81,6 @@ Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The
 7	1	3	7	20	49	128	5040
 
 # Related Posts
-- The Three Byte Fix
- link ckmeans.html
-- Logeracy
- link logeracy.html
-- Planets and Pebbles
- link planets-and-pebbles.html
-- Orders of Magnitude
- link orders-of-magnitude.html
+relatedList
 
 import allFooter.scroll

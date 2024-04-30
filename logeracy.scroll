@@ -2,7 +2,8 @@ import header.scroll
 title Logeracy
 
 startColumns 2
-groups All Thinking Society 
+groups All Thinking Society
+related bigOsKitchen planets-and-pebbles orders-of-magnitude
 date 2021-04-26
 
 openGraphImage https://breckyunits.com/literacy.jpg
@@ -100,12 +101,7 @@ I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2
  https://breckyunits.com/orders-of-magnitude.html Orders of Magnitudes
 
 # Related Posts
-- Big O's Kitchen
- link bigOsKitchen.html
-- Planets and Pebbles
- link planets-and-pebbles.html
-- Orders of Magnitude
- link orders-of-magnitude.html
+relatedList
 
 # Notes
 ^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
