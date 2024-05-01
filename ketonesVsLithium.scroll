@@ -1,10 +1,11 @@
+date 4/16/2024
+groups All BipolarDisorder
+openGraphImage https://breckyunits.com/ketones/bhb.png
+
 import header.scroll
 title Ketones vs Lithium
 byLine
 startColumns 2
-date 4/16/2024
-groups All BipolarDisorder
-openGraphImage https://breckyunits.com/ketones/bhb.png
 
 image ketones/ketoMojoFingerPrick.jpeg
  caption Pricking my finger then measuring the level of ketones in my blood.
@@ -440,11 +441,9 @@ katex
 
 Thanks to RGM for feedback on this post.
 
-
 // ? What about blood levels for other bipolar drugs?
 // It should be EASY to find blood levels results of these meds, if not from clinical stuff, than from their FDA approvals.
 // ? Why don't other bipolar meds have blood tests?
-
 
 // Make me a CSV with a list of all common blood chemistry tests. The columns should be ChemicalName,WikipediaPage,MinNormal,MaxNormal. Min normal should be the bottom of the reference range for a healthy male 30 year old of normal height and weight. MaxNormal should be the top of the reference range for the same healthy male 30 year old of normal height and weight. All measurements should be in (appropriate si-prefix)moles per liter.
 
@@ -476,9 +475,7 @@ Thanks to RGM for feedback on this post.
 // ? what are the theories on how ketones work in brain in bp?
 // ? what are the theories on how lithium works in brain?
 
-
 // ? what are the densities, molecular sizes (if that is a relevant measure), categories, and other salient attributes of these chemicals?
-
 
 // At first I had been extreme about what I ate to minimize carbs, even avoiding a carrot, and would often get readings over 3.0mmol, but over time I relaxed my strictness a bit (at least when it comes to natural, whole foods), while still taking the diet seriously and checking my blood levels.
 

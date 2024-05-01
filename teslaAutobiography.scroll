@@ -1,5 +1,6 @@
-import header.scroll
 openGraphImage https://breckyunits.com/tesla.jpeg
+
+import header.scroll
 
 title My Inventions
 
@@ -74,9 +75,6 @@ Up to the age of eight years, my character was weak and vacillating.  I had neit
 During another period I smoked excessively, threatening to ruin my health.  Then my will asserted itself and I not only stopt but destroyed all inclination.  Long ago I suffered from heart trouble until I discovered that it was due to the innocent cup of coffee I consumed every morning.  I discontinued at once, tho I confess it was not an easy task.  In this way I checked and bridled other habits and passions and have not only preserved my life but derived an immense amount of satisfaction from what most men would consider privation and sacrifice.
 
 After finishing the studies at the Polytechnic Institute and University I had a complete nervous breakdown and while the malady lasted I observed many phenomena strange and unbelievable.
-
-
-
 
 # II. My First Efforts At Invention
  id part2
@@ -183,8 +181,6 @@ quote
  
 As I uttered these inspiring words the idea came like a flash of lightning and in an instant the truth was revealed.  I drew with a stick on the sand the diagrams shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly.  The images I saw were wonderfully sharp and clear and had the solidity of metal and stone, so much so that I told him: "See my motor here; watch me reverse it." I cannot begin to describe my emotions.  Pygmalion seeing his statue come to life could not have been more deeply moved.  A thousand secrets of nature which I might have stumbled upon accidentally I would have given for that one which I had wrested from her against all odds and at the peril of my existence.
 
-
-
 # IV. The Discovery of the Tesla Coil and Transformer
  id part4
 
@@ -213,8 +209,6 @@ In the early part of 1888 an arrangement was made with the Westinghouse Company 
 At the close of 1889, however, my services in Pittsburg being no longer essential, I returned to New York and resumed experimental work in a laboratory on Grand Street, where I began immediately the design of high frequency machines.  The problems of construction in this unexplored field were novel and quite peculiar and I encountered many difficulties.  I rejected the inductor type, fearing that it might not yield perfect sine waves which were so important to resonant action.  Had it not been for this I could have saved myself a great deal of labor.  Another discouraging feature of the high frequency alternator seemed to be the inconstancy of speed which threatened to impose serious limitations to its use.  I had already noted in my demonstrations before the American Institution of Electrical Engineers that several times the tune was lost, necessitating readjustment, and did not yet foresee, what I discovered long afterwards, a means of operating a machine of this kind at a speed constant to such a degree as not to vary more than a small fraction of one revolution between the extremes of load.
 
 From many other considerations it appeared desirable to invent a simpler device for the production of electric oscillations.  In 1856 Lord Kelvin had exposed the theory of the condenser discharge, but no practical application of that important knowledge was made.  I saw the possibilities and undertook the development of induction apparatus on this principle.  My progress was so rapid as to enable me to exhibit at my lecture in 1891 a coil giving sparks of five inches.  On that occasion I frankly told the engineers of a defect involved in the transformation by the new method, namely, the loss in the spark gap.  Subsequent investigation showed that no matter what medium is employed, be it air, hydrogen, mercury vapor, oil or a stream of electrons, the efficiency is the same.  It is a law very much like that governing the conversion of mechanical energy.  We may drop a weight from a certain height vertically down or carry it to the lower level along any devious path, it is immaterial insofar as the amount of work is concerned.  Fortunately however, this drawback is not fatal as by proper proportioning of the resonant circuits an efficiency of 85 per cent is attainable.  Since my early announcement of the invention it has come into universal use and wrought a revolution in many departments.  But a still greater future awaits it.  When in 1900 I obtained powerful discharges of 100 feet and flashed a current around the globe, I was reminded of the first tiny spark I observed in my Grand Street laboratory and was thrilled by sensations akin to those I felt when I discovered the rotating magnetic field.
-
-
 
 # V. The Magnifying Transmitter
  id part5
@@ -287,8 +281,6 @@ A plant was built on Long Island with a tower 187 feet high, having a spherical 
 The tower was destroyed two years ago but my projects are being developed and another one, improved in some features, will be constructed.  On this occasion I would contradict the widely circulated report that the structure was demolished by the Government which owing to war conditions, might have created prejudice in the minds of those who may not know that the papers, which thirty years ago conferred upon me the honor of American citizenship, are always kept in a safe, while my orders, diplomas, degrees, gold medals and other distinctions are packed away in old trunks.  If this report had a foundation I would have been refunded a large sum of money which I expended in the construction of the tower.  On the contrary it was in the interest of the Government to preserve it, particularly as it would have made possible-to mention just one valuable result-the location of a submarine in any part of the world.  My plant, services, and all my improvements have always been at the disposal of the officials and ever since the outbreak of the European conflict I have been working at a sacrifice on several inventions of mine relating to aerial navigation, ship propulsion and wireless transmission which are of the greatest importance to the country.  Those who are well informed know that my ideas have revolutionized the industries of the United States and I am not aware that there lives an inventor who has been, in this respect, as fortunate as myself especially as regards the use of his improvements in the war.  I have refrained from publicly expressing myself on this subject before as it seemed improper to dwell on personal matters while all the world was in dire trouble.
 
 I would add further, in view of various rumors which have reached me, that Mr.  J. Pierpont Morgan did not interest himself with me in a business way but in the same large spirit in which he has assisted many other pioneers.  He carried out his generous promise to the letter and it would have been most unreasonable to expect from him anything more.  He had the highest regard for my attainments and gave me every evidence of his complete faith in my ability to ultimately achieve what I had set out to do.  I am unwilling to accord to some smallminded and jealous individuals the satisfaction of having thwarted my efforts.  These men are to me nothing more than microbes of a nasty disease.  My project was retarded by laws of nature.  The world was not prepared for it.  It was too far ahead of time.  But the same laws will prevail in the end and make it a triumphal success.
-
-
 
 # VI. The Art of Telautomatics
  id part6

@@ -1,11 +1,11 @@
+date 11/14/2022
+groups All Programming
+openGraphImage https://breckyunits.com/noNoReplies.png
+
 import header.scroll
 title Replies always welcome
 
 startColumns 2
-groups All Programming
-date 11/14/2022
-
-openGraphImage https://breckyunits.com/noNoReplies.png
 
 Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.
  dateline
@@ -55,7 +55,6 @@ xmlCode
  </content>
      </entry>
  </feed>
-
 
 # Specific examples
 My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!

@@ -1,9 +1,10 @@
-import header.scroll
-title Scrolldown now has Dialogues
 date 2021-05-14
-startColumns 2
 groups All TreeNotation
 permalink dialogues.html
+
+import header.scroll
+title Scrolldown now has Dialogues
+startColumns 2
 
 chat
  hey. I just added Dialogues to Scrolldown.

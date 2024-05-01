@@ -1,8 +1,9 @@
+date 2008-07-27
+groups All Thinking Life
+
 import header.scroll
 title Trying Shelfari, GoodReads, and LibraryThing
 startColumns 2
-groups All Thinking Life
-date 2008-07-27
 
 Decided to try out one of these book social networks to see if I can find some important books I should be reading. The idea is you enter the books you’ve read and rate them, as well as the books you want to read. Then the site will show you people who like similar books and you can hopefully stumble upon some books that they’ve read that you will like.
  dateline
@@ -25,7 +26,6 @@ image goodreads.png
  caption shelfari(red), goodreads(blue), librarything(orange)
 
 Google Trends for Websites also shows goodreads in the lead and growing fastest.
-
 
 import importedNote.scroll
 

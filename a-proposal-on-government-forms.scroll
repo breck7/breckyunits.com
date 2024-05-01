@@ -1,8 +1,9 @@
+date 6/16/2023
+groups All TreeNotation Programming Society
+
 import header.scroll
 title A Proposal to Solve Government Forms Worldwide, Forever
 startColumns 2
-date 6/16/2023
-groups All TreeNotation Programming Society
 
 // chatGptSummary The proposed idea is to create a universal infrastructure for government forms worldwide, using Specifications, Instances, and Templates, with the aim of reducing time wasted on forms, increasing transparency, and benefiting citizens; however, obstacles such as resistance from those in power and the potential creation of more forms if the system becomes popular are acknowledged.
 
@@ -59,6 +60,5 @@ If this infrastructure were built it should enable the construction of higher le
 I hope by publishing these ideas others might be encouraged to start developing these systems. I am hoping readers might alert me to locations where this kind of system is already in place. I am also keenly interested in mathematical arguments why this system should not exist universally.
 
 katex
-
 
 import allFooter.scroll

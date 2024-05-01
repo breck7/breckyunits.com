@@ -1,6 +1,7 @@
+description Some writing about probability, programming, economics and life.
+permalink feed.xml
+
 import settings.scroll
 title Breck Yunits' Blog
  hidden
-description Some writing about probability, programming, economics and life.
-permalink feed.xml
 printFeed All

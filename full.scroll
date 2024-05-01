@@ -1,7 +1,8 @@
+description Some writing about probability, programming, economics and life.
+
 import header.scroll
 title Breck Yunits' Blog
 
 startColumns 2
-description Some writing about probability, programming, economics and life.
 fullSnippets All
 import footer.scroll

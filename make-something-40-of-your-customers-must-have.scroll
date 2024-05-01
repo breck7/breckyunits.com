@@ -1,9 +1,10 @@
+date 2009-12-16
+groups All Startups
+
 import header.scroll
 title Make Something 40% of Your Customers Must Have
 
 startColumns 2
-groups All Startups
-date 2009-12-16
 
 If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
  dateline

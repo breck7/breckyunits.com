@@ -1,9 +1,10 @@
+date 2024-3-30
+groups All Thinking
+
 import header.scroll
 title The Box Method of Science
 
 startColumns 2
-groups All Thinking
-date 2024-3-30
 
 image boxMethod.jpeg
  caption S = side length of box. P = pattern. t = time. V = voxel side length.

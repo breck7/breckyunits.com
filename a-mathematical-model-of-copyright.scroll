@@ -1,10 +1,11 @@
+date 5/26/2023
+groups All IntellectualFreedom
+openGraphImage https://breckyunits.com/mamoc.png
+
 import header.scroll
 title A Mathematical Model of Copyright
 startColumns 2
-date 5/26/2023
-groups All IntellectualFreedom
 byLine
-openGraphImage https://breckyunits.com/mamoc.png
 
 // chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
 

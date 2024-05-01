@@ -1,9 +1,10 @@
-import header.scroll
-title The Three Byte Fix
 date 6/09/2022
-import mediumColumns.scroll
 groups All Programming
 related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
+
+import header.scroll
+title The Three Byte Fix
+import mediumColumns.scroll
 
 # A Small Open Source Success Story
 
@@ -29,7 +30,6 @@ Using Chrome DevTools I was able to quickly determine the k-means function was c
 endSnippet
 
 # Benchmarking ckmeans
-
 We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package Simple Statistics.
  https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js ckmeans
  https://github.com/simple-statistics/simple-statistics Simple Statistics
@@ -124,7 +124,6 @@ Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-mean
 relatedList
 
 # Notes
-
 - The industry term for this type of map is Choropleth map.
  https://en.wikipedia.org/wiki/Choropleth_map Choropleth map
 - To be precise the algo was `O(knlog(n))` time, where k is the number of groups. But I've simplified for this story as that detail is not important.

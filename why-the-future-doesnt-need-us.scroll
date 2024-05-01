@@ -1,6 +1,10 @@
+baseUrl https://breckyunits.com/library/
+date 04/01/2000
+email breck@breckyunits.com
+git https://github.com/breck7/breckyunits.com
+
 metaTags
 title Why the Future Doesn't Need Us
-date 04/01/2000
 
 <div style="max-width: 450px;">
 
@@ -386,6 +390,3 @@ _Bill Joy, cofounder and Chief Scientist of Sun Microsystems, was cochair of the
 
 viewSource
 tufteCss
-git https://github.com/breck7/breckyunits.com
-email breck@breckyunits.com
-baseUrl https://breckyunits.com/library/

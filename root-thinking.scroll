@@ -1,10 +1,10 @@
+date 11/16/2022
+groups All Programming Thinking TreeNotation
+openGraphImage https://breckyunits.com/rootThinking.png
+
 import header.scroll
 title Root Thinking
 startColumns 1
-date 11/16/2022
-groups All Programming Thinking TreeNotation
-
-openGraphImage https://breckyunits.com/rootThinking.png
 
 I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
  dateline

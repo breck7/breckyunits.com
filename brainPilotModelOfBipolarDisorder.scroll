@@ -1,8 +1,9 @@
+date 2/20/2024
+groups All BipolarDisorder
+
 import header.scroll
 title The Brain Pilot Model of Bipolar Disorder
 startColumns 2
-date 2/20/2024
-groups All BipolarDisorder
 
 A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
  https://www.metabolicmind.org research effort
@@ -74,13 +75,11 @@ I don't think the model explored above is a leading contender for finally explai
 - It explains why if you don't develop mania or depression relatively early in life, you are not likely to develop it later. Later in life your there is more established competition so forming a new brain pilot might be more difficult.
 - It explains certain behaviors present in the extremes as being logical actions for the respective brain pilots to maintain control of the host.
 
-
 # Unanswered Questions
 
 - Are there people who go manic (and hypomanic) but never depressed? It seems like this is a question we should be able to answer now with the vast amount of sleep data collected by FitBit, Apple, Garmin, Whoop, Samsung, Oura Ring, et cetera.
 - In what percentage of bipolars does mania develop first? In what percentage depression? It seems like to answer this question we need to wait until a large number of children wear wearables for many years.
 - Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
-
 
 import allFooter.scroll

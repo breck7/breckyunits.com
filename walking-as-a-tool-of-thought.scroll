@@ -1,8 +1,9 @@
+date 5/19/2023
+groups All Writing
+
 import header.scroll
 title Walking and other invisible tools of thought
 startColumns 2
-date 5/19/2023
-groups All Writing
 
 // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
 
@@ -21,7 +22,6 @@ Walking is one of the more interesting invisible tools of thought. It seems it o
 # Why is walking so effective?
 My bet is it has something to do with neural agents.
  link marvin-minsky.html neural agents
-
 
 ### Fatigue Theory
 Perhaps it's a muscle fatigue phenomena. When you are working on an idea a few _active agents_ in your brain have control. Those agents consist largely of neurons. Perhaps thousands of cells, perhaps many millions. Cells consume energy and create waste products. Perhaps like a muscle, the active agents become fatigued. Going for a walk hands control to other neural agents which allows the previously active agents to recuperate. After they are rested, they have a much better shot at solving the next piece of the puzzle.

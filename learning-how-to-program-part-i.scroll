@@ -1,8 +1,9 @@
+date 2007-08-28
+groups All Programming
+
 import header.scroll
 title Learning How to Program Part I
 startColumns 2
-groups All Programming
-date 2007-08-28
 
 * `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
 

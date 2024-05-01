@@ -1,10 +1,10 @@
+date 8/11/2021
+groups All Programming
+
 import header.scroll
 title User Methods
 
 startColumns 2
-groups All Programming
-
-date 8/11/2021
 
 In this essay I'm going to talk about a design pattern in writing applications that requires effectively no extra work and more than triples the power of your code. It's one of the biggest wins I've found in programming and I don't think this pattern is emphasized enough. The tldr; is this:
  dateline

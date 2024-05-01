@@ -1,9 +1,10 @@
+date 2024-4-2
+groups All TreeNotation Programming
+
 import header.scroll
 title Final Tree Notation Report
 
 startColumns 2
-groups All TreeNotation Programming
-date 2024-4-2
 
 image treeNotationTimeline.png
 

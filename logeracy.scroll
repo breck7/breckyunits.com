@@ -1,12 +1,12 @@
+date 2021-04-26
+groups All Thinking Society
+openGraphImage https://breckyunits.com/literacy.jpg
+related bigOsKitchen planets-and-pebbles orders-of-magnitude
+
 import header.scroll
 title Logeracy
 
 startColumns 2
-groups All Thinking Society
-related bigOsKitchen planets-and-pebbles orders-of-magnitude
-date 2021-04-26
-
-openGraphImage https://breckyunits.com/literacy.jpg
 
 I invented a new word: *_Logeracy_*^coinage. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
  https://en.wikipedia.org/wiki/Logarithm logarithms
@@ -118,7 +118,5 @@ image illogeracy.png
 ^coinage2 Uh oh, another coinage.
 
 ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
-
-
 
 import allFooter.scroll

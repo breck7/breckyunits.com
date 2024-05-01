@@ -1,9 +1,10 @@
+date 2010-03-16
+groups All Programming
+
 import header.scroll
 title Metrics for Programmers
 
 startColumns 2
-groups All Programming
-date 2010-03-16
 
 I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
  dateline

@@ -1,11 +1,12 @@
 importOnly
+description Posts on this blog categorized in CAT_TITLE.
+groups categoryPages
+
 import settings.scroll
 metaTags
 gazetteCss
 gazetteHeader
-description Posts on this blog categorized in CAT_TITLE.
 title CAT_TITLE Posts
 import categoryLinks.scroll
 css html {font-size: var(--base-font-size, 8px);}
-groups categoryPages
 keyboardNav

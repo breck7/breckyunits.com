@@ -1,15 +1,16 @@
+date 2021-10-15
+groups All Writing
+openGraphImage https://breckyunits.com/writeThin.png
+
 import header.scroll
 title Write Thin to Write Fast
 
 startColumns 2
-groups All Writing
-date 2021-10-15
 
 comment
  Todo: add caption support to image node.
 
 image writeThin.png
-openGraphImage https://breckyunits.com/writeThin.png
 
 I'm always trying to improve my writing. I want my writing to be more meaningful, clearer, more memorable, and shorter. I would also like to write faster.
  dateline
@@ -63,13 +64,12 @@ image nytimesDrawing.png
 - The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
 - Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at _write time_ with certain font and column settings. At _read time_ those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
 
-comment Further threads to explore
-- This may be an inconsequential tip on how to I went from a 0.1x writer a 0.2x writer.
-- Average typing speed is approximately one word per second.
-- What is eye exertion horizontal vs vertical?
-- Survey some great editors/writers/journalists if they write with narrow columns?
-- Has the frequency of this advice appearing gone up as screens got wider?
-- Consider vertical languages like Japanese
-
+// Further threads to explore
+ - This may be an inconsequential tip on how to I went from a 0.1x writer a 0.2x writer.
+ - Average typing speed is approximately one word per second.
+ - What is eye exertion horizontal vs vertical?
+ - Survey some great editors/writers/journalists if they write with narrow columns?
+ - Has the frequency of this advice appearing gone up as screens got wider?
+ - Consider vertical languages like Japanese
 
 import allFooter.scroll

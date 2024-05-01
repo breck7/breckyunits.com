@@ -1,9 +1,10 @@
+date 2013-04-02
+groups All Programming
+
 import header.scroll
 title Software Should Save People Time
 
 startColumns 2
-groups All Programming
-date 2013-04-02
 
 For me, the primary motivation for creating software is to save myself and other people time.
  dateline

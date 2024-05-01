@@ -1,8 +1,9 @@
+date 2008-05-08
+groups All Startups
+
 import header.scroll
 title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
 startColumns 2
-groups All Startups
-date 2008-05-08
 
 xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
  dateline

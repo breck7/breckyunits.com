@@ -1,9 +1,10 @@
-import header.scroll
-title SafeFS
-startColumns 2
 date 1/27/2023
 groups All IntellectualFreedom
 openGraphImage https://breckyunits.com/safeFS.png
+
+import header.scroll
+title SafeFS
+startColumns 2
 
 ## _Or: If lawyers invented a filesystem_
 

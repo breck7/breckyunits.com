@@ -1,4 +1,5 @@
 replace CAT_TITLE Bipolar Disorder
+
 import categoryPage.scroll
 snippets BipolarDisorder
 import footer.scroll
