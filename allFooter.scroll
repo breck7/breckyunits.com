@@ -1,6 +1,5 @@
 importOnly
-// Just the footer but also include the keyboard nav
+ // Just the footer but also include the keyboard nav
 keyboardNav
 import footer.scroll
-// todo: issue a warning if no snippet or dateline? meh
 writeText
