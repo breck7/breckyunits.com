@@ -2,19 +2,19 @@ import header.scroll
 title 6 Specific Ways to Find Programming Mentors
 
 startColumns 2
-groups All Programming  
+groups All Programming
 date 2009-12-08
 
-Finding experienced mentors and peers might be the most important thing you can do if you want to become a great programmer. They will tell you what books to read, explain the pros and cons of different languages, demystify anything that seems to you like "magic", help you when you get in a jam, work alongside you to produce great things people want, and challenge you to reach new heights.  
+Finding experienced mentors and peers might be the most important thing you can do if you want to become a great programmer. They will tell you what books to read, explain the pros and cons of different languages, demystify anything that seems to you like "magic", help you when you get in a jam, work alongside you to produce great things people want, and challenge you to reach new heights.
  dateline
 
 endSnippet
 
-Great coders travel in packs, just like great authors.  
+Great coders travel in packs, just like great authors.
 
-If you want to reach the skills of a Linus, Blake, Joe, Paul, David, etc., you have to build yourself a group of peers and mentors that will instruct, inspire, and challenge.  
+If you want to reach the skills of a Linus, Blake, Joe, Paul, David, etc., you have to build yourself a group of peers and mentors that will instruct, inspire, and challenge.
 
-Here are 6 specific tips to do that.  
+Here are 6 specific tips to do that.
 
 1. *Get a programming job*. This is probably the best thing you can do. You'll get paid to "practice". You'll work on things that will challenge you and help you grow. And you'll have peers who will provide instruction and motivation constantly. There are tens of thousands of open programming jobs right now. Even if you feel you are not qualified for one, apply anyway, and stress how you are smart, passionate, and the experience will come with time. If you don't get a programming job today, you can reapply in 6 months or 1 year when you have better skills. Here are six job sites to check out: Craigslist (Computer Gigs, Internet Engineers, Software, Systems, Web Design) StackOverflow, CrunchBoard, HackerNews, Reddit, Startuply.
  http://sfbay.craigslist.org/cpg/ Computer Gigs
@@ -30,14 +30,14 @@ Here are 6 specific tips to do that.
 2. *Take a programming class*. My best tutors are my peers. People who I took a class or two with in college. We knew each other when computers were a big mystery to us, so we don't feel embarassed when we ask questions that may sound dumb. If you're currently in college, enroll in a programming class. Otherwise, look at local colleges' continuing education programs, community colleges, or professional classes. If you're in San Francisco, maybe look at AcademyX. Give unclasses.com a try. If you think classes cost too much, don't use that as an excuse until you've tried to negogiate a deal. Often someone will give you a class for free or greatly reduced price simply by explaining your situation. Other times maybe you can offer a service in return.
  http://www.academyx.com/ AcademyX
  http://unclasses.com unclasses.com
-3. *Attend a Meetup*. I go to PHP and MySQL meetups frequently. Meetup.com has thousands of programming meetups throughout the country. Go to one. Every month. You'll learn from the speaker, you'll meet other programmers, and you'll meet recruiters who will try to hire you if you still haven't gotten that job.  
+3. *Attend a Meetup*. I go to PHP and MySQL meetups frequently. Meetup.com has thousands of programming meetups throughout the country. Go to one. Every month. You'll learn from the speaker, you'll meet other programmers, and you'll meet recruiters who will try to hire you if you still haven't gotten that job.
  http://www.meetup.com Meetup.com
 4. *Join Github*. Github is the first _user friendly_ collaborative development site for programmers. Once you get comfortable with it, you could be working alongside other programmers on open source projects in no time. I'll write a better tutorial on how to get started soon, but for now, just join and explore around. It may take you a month or two to "get it", so don't feel overwhelmed if you don't understand what's going on at first. You will eventually. And you'll start to find some great programmers to talk to.
  http://github.com Github
-5. *Email Someone Directly*. Email has been around for 35 years and it's still the favorite mode of communication for programmers. If you like someone's work, send them an email and ask for 1 or 2 tips. I've found when I email great programmers, their responses are usually short and to the point. That's not because they don't want to help, it's just that they're busy and use time effectively. Keep your emails brief and specific and they can be of great aid.  
-6. *Enlist a Friend*. If you excercise with someone else, you burn 50% more calories on average. Likewise, if you learn programming with a friend, you'll learn 50% faster. That's a significant time savings. It's also more fun. You must have a friend who has a similar interest as you in programming. Why not suggest that you get serious about learning it together?   
+5. *Email Someone Directly*. Email has been around for 35 years and it's still the favorite mode of communication for programmers. If you like someone's work, send them an email and ask for 1 or 2 tips. I've found when I email great programmers, their responses are usually short and to the point. That's not because they don't want to help, it's just that they're busy and use time effectively. Keep your emails brief and specific and they can be of great aid.
+6. *Enlist a Friend*. If you excercise with someone else, you burn 50% more calories on average. Likewise, if you learn programming with a friend, you'll learn 50% faster. That's a significant time savings. It's also more fun. You must have a friend who has a similar interest as you in programming. Why not suggest that you get serious about learning it together?
 
-Hopefully you'll find some of these tips useful. Feel free to email me if you need a first mentor (breck7 at google's email service). I'm not very good yet, but I may be able to help.   
+Hopefully you'll find some of these tips useful. Feel free to email me if you need a first mentor (breck7 at google's email service). I'm not very good yet, but I may be able to help.
 
 
 # Notes

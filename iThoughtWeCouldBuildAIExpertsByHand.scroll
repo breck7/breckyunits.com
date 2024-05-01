@@ -2,7 +2,7 @@ import header.scroll
 title I thought we could build AI experts by hand
 date 12/28/2023
 
-groups All TreeNotation Programming Startups 
+groups All TreeNotation Programming Startups
 startColumns 2
 
 I thought we could build AI experts by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
@@ -115,7 +115,7 @@ PLDB was met with a good reception when I launched it. After years of tinkering,
 But part of me couldn't let that big idea go. Part of me saw PLDB as just pages 10 million to 11 million in The Book. PLDB was still far from showing the edge of knowledge in programming languages, but now I could see a clear path to that, and thought this system could do that for any domain. Part of me believed that the simple system used by PLDB, at scale, would lead to a better mapping of every domain and the emergence of brilliant new AI experts powered by these knowledge bases.
 
 # Scale
-I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes. 
+I understand how naive the idea sounds. Simply by adding more and more concepts and measurements to maximize comparability in this simple notational system you could map entire knowledge domains and develop digital AI experts that would be the best in the world! Somehow I believed my implementation would succeed where countless other knowledge base and expert systems had failed. My claims were very hand wavy! I predicted there would be emergent benefits, but I had little proof. It just _felt_ like it would, from what I had seen in my prototypes.
  class dropcap
 
 Where would the emergent benefits come from in my system that wouldn't come from existing approaches?

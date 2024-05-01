@@ -9,7 +9,7 @@ related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
 
 ### Adding 3 missing characters made code run _20x_ faster.
 
-// Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library. 
+// Code that was taking 1,000ms to run took 50ms after a coworker found a 3 byte fix in a popular open source library.
 
 # Map chart slowdown
 "Your maps are slow".

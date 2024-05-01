@@ -2,7 +2,7 @@ import header.scroll
 title Wisdom: a Tiny Language for Great Advice
 
 startColumns 2
-groups All Writing Life 
+groups All Writing Life
 date 2021-05-06
 permalink wisdom-a-tiny-language-for-great-advice.html
 
@@ -40,7 +40,7 @@ Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example,
  link twelve-tips-to-master-programming-faster.html I wrote
 
 quote
- 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding. 
+ 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
 
 Ten years later, after gathering data I can now write:
  https://github.com/breck7/30000hours gathering data

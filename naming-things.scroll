@@ -2,7 +2,7 @@ import header.scroll
 title Naming Things
 
 startColumns 2
-groups All Programming Writing 
+groups All Programming Writing
 date 2012-10-20
 
 I love to name things.
@@ -28,6 +28,6 @@ I think the exercise of naming things can be very helpful in improving things. D
 
 For example, lately I've been trying to come up with a way to explain the fundamentals of computing. A strategy I recently employed was to change the names we use for the 2 boolean states from True and False to Absent or Present. It seems like it gets closer to the truth of how computers work. I mean, it doesn't make sense to ask a bit whether it is True or False. The only question an electronic bit can answer is whether a charge is present or absent. When we compare variable A to variable B, the CPU sets a flag in the comparison bit and we are really asking that bit whether a charge is present.
 
-What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things. 
+What I like about the idea of using the names Present and Absent is that it makes the fundamentals of computing align with the fundamentals of the world. The most fundamental questions in the world about being--of existence. Do we exist? Why do we exist? Will we exist tomorrow? Likewise, the most fundamental questions in computing is not whether or not there are ones and zeroes, it's whether or not a charge exists. Does a charge exist? Why does that charge exist? Will that charge exist in the next iteration? Computing is not about manipulating ones and zeroes. It's about using the concept of being, of existence, to solve problems. Computing is about using the concept of the presence or absence of charge to do many wonderful things.
 
 import allFooter.scroll

@@ -2,7 +2,7 @@ import header.scroll
 title SEO Made Easy: LUMPS
 
 startColumns 2
-groups All Programming Startups 
+groups All Programming Startups
 date 2009-12-15
 
 The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
@@ -18,7 +18,7 @@ Just remember LUMPS:
 
 endSnippet
 
-These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for. 
+These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for.
 
 LUMPS is listed in order of importance to search engines. So links are most important, sitemaps are least important.
 
@@ -41,7 +41,7 @@ Your internal link structure is also important. Make sure your site repeatedly l
 External links are the most important thing you need for SEO. Internal links you can easily control, but it takes time to accumulate a lot of quality external links. Focus on creating quality content(or even better, build a User Generated Content site). People will link to interesting content.
 
 # URL Structure
-The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing. 
+The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing.
 
 Luckily, URL Structure is not just important, it's also relatively easy to do well and you can generally set up friendly URLs in an hour or so. I could explain how to do it with .htaccess and so forth, but there are plenty of articles out there with more details on that.
 

@@ -2,7 +2,7 @@ import header.scroll
 title A Mathematical Model of Copyright
 startColumns 2
 date 5/26/2023
-groups All IntellectualFreedom  
+groups All IntellectualFreedom
 byLine
 openGraphImage https://breckyunits.com/mamoc.png
 
@@ -120,7 +120,7 @@ A publisher is a set of $T$ specializing in production of $A$.
 
 ### Censors
 katex U: U(D)
-A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed. 
+A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed.
 
 <br>
 
@@ -225,7 +225,7 @@ We should expect the number of Publishers $Q$ to decrease due to the increasing 
 
 ## Effect on U
 katex \Uparrow U
-We should expect censorship to go up to enforce copyright laws. 
+We should expect censorship to go up to enforce copyright laws.
 
 ## Effect on $A_©$
 katex \Uparrow A_©

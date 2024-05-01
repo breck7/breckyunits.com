@@ -2,7 +2,7 @@ import header.scroll
 title A Public Domain Human
 startColumns 2
 date 3/6/2023
-groups All IntellectualFreedom  
+groups All IntellectualFreedom
 
 # Open sourcing more of my life for honesty
 
@@ -37,7 +37,7 @@ My software products are imperfect. They always seem much worse to me than I kno
 # Closed sourced programs are like Instagram accounts
 With closed source software one gets a shiny finished product without seeing any of the truth behind what it took to make. And almost always what people hide from you they will lie to you about.
 
-The closed source software company is like the social media influencer who posts an amazing sunset shot of them in a bathing suit swimming next to dolphins. They will make it look effortless and hide from you the truth: the hundred less glamorous photos, the dozen excursions with no dolphins, and the intense workouts and hidden costs of their lifestyle. They will hide from you all the flaws. 
+The closed source software company is like the social media influencer who posts an amazing sunset shot of them in a bathing suit swimming next to dolphins. They will make it look effortless and hide from you the truth: the hundred less glamorous photos, the dozen excursions with no dolphins, and the intense workouts and hidden costs of their lifestyle. They will hide from you all the flaws.
 
 On social media this probably has minor consequences but in software eventually consumers are left increasingly paying the price for dishonest software. Technical debt accumulates in closed source projects and in the long run more honest approaches turn out to be better.
 

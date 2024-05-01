@@ -2,7 +2,7 @@ import header.scroll
 title What's Linear Algebra?
 
 startColumns 2
-groups All Thinking  
+groups All Thinking
 date 2009-12-03
 
 What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
@@ -30,7 +30,7 @@ But I have no idea when I should be using vectors, matrices, and other linear al
 
 There are lots of books that teach _how_ to do linear algebra. But are there any that explain _why_?
 
-Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit? 
+Would everyone benefit from linear algebra just as everyone would benefit from knowing probability theory? Would I benefit?
 
 I don't know the answer to these questions. Fooled by Randomness revealed to me why probability is so incredibly important and inspired me to master it. Is there a similar book like that for linear algebra?
 

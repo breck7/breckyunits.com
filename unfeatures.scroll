@@ -2,7 +2,7 @@ import header.scroll
 title (un)features
 
 startColumns 2
-groups All Programming Startups 
+groups All Programming Startups
 date 2009-12-11
 
 Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
@@ -12,7 +12,7 @@ Jason Fried from 37signals gave a great talk at startup school last month. At on
 - 2. The lightweight plastic made it easy to carry, and you can tell how full it was by picking it up.
 - 3. The clear bottle let you see how much was left and what was in it.
 
-If you added a funnel to help pour the water, that might be useful in 5% of cases, but it would look a little funny. Then imagine you attach a paper towel to each funnel for when you spill. Your simple water bottle is now a monstrosity. 
+If you added a funnel to help pour the water, that might be useful in 5% of cases, but it would look a little funny. Then imagine you attach a paper towel to each funnel for when you spill. Your simple water bottle is now a monstrosity.
 
 The clear edges of physical products make it much harder for feature creep to happen. But in software feature creep happens, and happens a lot.
 

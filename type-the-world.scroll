@@ -121,7 +121,7 @@ In the past 30 years, central code hubs have emerged. There were early ones like
  https://sourceforge.net/ SourceForge
  http://github.com/ GitHub
 
-In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's CRAN but the breakout star is 2010's NPM, which has more packages than the package managers of all other languages combined. 
+In addition to source code hubs, package hubs have become quite large. Some early pioneers are still going strong like 1993's CRAN but the breakout star is 2010's NPM, which has more packages than the package managers of all other languages combined.
  https://cran.r-project.org/ CRAN
  http://npmjs.com/ NPM
 

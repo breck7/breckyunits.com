@@ -2,7 +2,7 @@ import header.scroll
 title A scratch ticket with a positive expected value
 
 startColumns 2
-groups All Startups  
+groups All Startups
 date 10/07/2022
 
 openGraphImage https://breckyunits.com/seemewin.jpeg
@@ -35,7 +35,7 @@ When doing SeeMeWin, we developed a cult following. I thought that people would 
 
 # The idea (patent not yet pending ;) )
 
-- Buy $100M worth of a random basket of public stocks. 
+- Buy $100M worth of a random basket of public stocks.
 - Print $100M worth of scratch tickets where the winners get fractional shares of $90M of those stocks.
 - Adjust the variance so some tickets paid out big to keep it an exciting and fun gift and impulse purchase.
 - Use the $10M to pay ticket vendors, retailer commissions, and keep the rest as corporate profit.

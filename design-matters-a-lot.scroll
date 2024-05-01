@@ -2,7 +2,7 @@ import header.scroll
 title Design Matters. A lot.
 
 startColumns 2
-groups All Programming Startups 
+groups All Programming Startups
 date 2010-07-02
 permalink design-matters-a-lot.html
 
@@ -23,9 +23,9 @@ I now think design is incredibly important, and on par with engineering. I used 
 - 3. The company's engineering team is incapable of working effectively with the design team.
 
 # Why Design is Important, In Princple
-For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end. 
+For nearly a decade I've always dreamed of my ideal computer as no computer at all. I wanted a computer smaller than the smallest smartphone, that would always be ready to take commands but would also be out of site. In other words, I've always thought of computers purely as problem solving tools--as a means to an end.
 
-I want the computer to solve the problem and get out of my way. Computers are ugly. The world is beautiful. I like to look at other people, the sky, the ocean and not a menu or a screen. I didn't care about the style in which the computer solved my problem, because no matter how "great" it looked it couldn't compare to the natural beauty of the world. 
+I want the computer to solve the problem and get out of my way. Computers are ugly. The world is beautiful. I like to look at other people, the sky, the ocean and not a menu or a screen. I didn't care about the style in which the computer solved my problem, because no matter how "great" it looked it couldn't compare to the natural beauty of the world.
 
 I was wrong.
 
@@ -34,7 +34,7 @@ A computer, program, or product should always embody a good design, because the 
 # Why Design is Important, In Practice
 If that argument didn't make sense, there are a number of practical reasons why a great design is important.
 
-*A great design can unlock more value for the user.* Dropbox overcomes herculean engineering challenges to work, but if it weren't for its simple, easy to use design it wouldn't be nearly as useful. 
+*A great design can unlock more value for the user.* Dropbox overcomes herculean engineering challenges to work, but if it weren't for its simple, easy to use design it wouldn't be nearly as useful.
 
 *A great design can be the competitive edge in a competive market.* Mint.com had a great design, and it bested a few other startups in that emerging market.
 
@@ -43,11 +43,11 @@ If that argument didn't make sense, there are a number of practical reasons why 
 *A great design is easy to get people behind.* People like to support sites and products that are designed well. People love to show off their Apple products. Airbnb's beautiful design had a large role in making it easy for people to support the fledgling site.
 
 # What to do if you aren't good at design
-Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do? 
+Personally, I'm a terrible designer. Like many hackers, I can program but I can't paint. What should we do?
 
-First, learn to appreciate the importance of design. 
+First, learn to appreciate the importance of design.
 
-Second, learn to work well with designers. Don't treat design as secondary to engineering. Instead, think of how you can be a better engineer to execute the vision of your design team. 
+Second, learn to work well with designers. Don't treat design as secondary to engineering. Instead, think of how you can be a better engineer to execute the vision of your design team.
 
 Great engineering can't compensate for poor design just as great design can't compensate for poor engineering. To create great products, you need both. Don't be lazy when it comes to design. It could be the make or break difference between your product's success or failure.
 

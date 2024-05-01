@@ -3,7 +3,7 @@ title Ketones vs Lithium
 byLine
 startColumns 2
 date 4/16/2024
-groups All BipolarDisorder 
+groups All BipolarDisorder
 openGraphImage https://breckyunits.com/ketones/bhb.png
 
 image ketones/ketoMojoFingerPrick.jpeg
@@ -249,7 +249,7 @@ After you swallow your lithium the pills land in your stomach. There, fluids dis
 
 Like ketones, lithium crosses the blood brain barrier. Unlike ketones, lithium cross via passive diffusion. Ketones use active transport (well, not all ketones. Acetone can cross passively).
  https://en.wikipedia.org/wiki/Passive_transport passive diffusion
- https://en.wikipedia.org/wiki/Active_transport active transport 
+ https://en.wikipedia.org/wiki/Active_transport active transport
 
 Once lithium is in your brain, it both remains in the extracellular space and also is able to enter neurons.
 
@@ -270,7 +270,7 @@ Another lithium test a lab can do is called an RBC test. This test measures the 
 
 This seems to explain why my lithium slingshot did not happen immediately after stopping lithium but in the weeks after. Once you stop taking lithium, the lithium content in your blood runs out fast, but it takes more time for the lithium to leave all of your cells. Then, those cells, which had been working in a lithium rich environment, seem vulnerable to catching a manic fire. The lithium slingshot.
 
-Can we _see_ the amounts of lithium in the brain? Apparently we can, to some degree, using MRS. Ketones too. I looked into being able to take my own MRS pictures at home, but didn't have a place to put one of the machines. Oh yeah, and they cost $500,000! 
+Can we _see_ the amounts of lithium in the brain? Apparently we can, to some degree, using MRS. Ketones too. I looked into being able to take my own MRS pictures at home, but didn't have a place to put one of the machines. Oh yeah, and they cost $500,000!
  https://pubmed.ncbi.nlm.nih.gov/10793316/ we can
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6856437/ Ketones too
  https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy MRS
@@ -400,7 +400,7 @@ image ketones/depakote.png
  caption Valproate (aka Depakote) is often ranked 2nd among bipolar medications and also has overlap with the ketone/lithium range. It also crosses the blood brain barrier by passive diffusion. Image Source: NIH
   https://3d.nih.gov/entries/3dpx-008821 NIH
 
-So I expanded my dataset yet still found it unlikely that 2 random chemicals would have therapeutic level overlaps. At this point, I am confident concluding this leg of my research journey. With this additional data I would not change my initial bet. My answer is: *the slight overlap in the therapeutic blood level ranges of the 2 top bipolar drugs with the therapeutic level of ketones is a strong clue to some underlying biomechanisms*. 
+So I expanded my dataset yet still found it unlikely that 2 random chemicals would have therapeutic level overlaps. At this point, I am confident concluding this leg of my research journey. With this additional data I would not change my initial bet. My answer is: *the slight overlap in the therapeutic blood level ranges of the 2 top bipolar drugs with the therapeutic level of ketones is a strong clue to some underlying biomechanisms*.
 
 // todo: these ranges put these among the most prevalent chemicals in the blood. what does this tell us?
 
@@ -424,7 +424,7 @@ katex
 
 # Notes
 
-^ketoacidosis There is a dangerous condition involving ketones called ketoacidosis affecting mostly diabetics which is associated with around 200,000 cases and 600 fatalities per year in the US. 
+^ketoacidosis There is a dangerous condition involving ketones called ketoacidosis affecting mostly diabetics which is associated with around 200,000 cases and 600 fatalities per year in the US.
  https://en.wikipedia.org/wiki/Ketoacidosis ketoacidosis
  https://www.cdc.gov/mmwr/volumes/67/wr/mm6712a3.htm 200,000 cases and 600 fatalities
 
@@ -470,7 +470,7 @@ Thanks to RGM for feedback on this post.
 // ? How different are ketone molecules vs lithium molecules?
 // ? What about exogenous ketones?
 // ? How is lithium used by your cells?
-// ? why milliequivalents per liter (mEq/L) 
+// ? why milliequivalents per liter (mEq/L)
 // ? what is normal ketone levels?
 // ? what is normal lithium levels?
 // ? what are the theories on how ketones work in brain in bp?

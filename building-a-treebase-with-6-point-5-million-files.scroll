@@ -2,7 +2,7 @@ import header.scroll
 title Building a TreeBase with 6.5 million files
 
 startColumns 2
-groups All TreeNotation Programming  
+groups All TreeNotation Programming
 date 2020-01-29
 permalink building-a-treebase-with-6.5-million-files.html
 
@@ -674,7 +674,7 @@ Okay, you might be wondering what is the point of this system? Specifically, why
 
 Wouldn't it be cool if we could combine sophisticated type checking, querying, and analytical capabilities of databases with the simplicity of files? Programmers can easily build GUIs on top of TreeBase that have any and all of the functionality of traditional database-backed programs but have the additional advantage of an extremely well-known access vector to their information.
 
-People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for at least 4,500 years and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better. 
+People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for at least 4,500 years and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better.
  https://en.wikipedia.org/wiki/Papyrus at least 4,500 years
 
 # 2) Tree Notation is All You Need to Create Meaningful Semantic Content

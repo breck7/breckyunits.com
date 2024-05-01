@@ -2,7 +2,7 @@ import header.scroll
 title Aftertext
 
 startColumns 2
-groups All TreeNotation Programming Writing 
+groups All TreeNotation Programming Writing
 
 date 12/15/2021
 
@@ -74,7 +74,7 @@ Finally, I should mention that it seems like keeping the written text and markup
 
 ## A Petri dish for new markup ideas
 
-Aftertext provides a scalable way to add new markup ideas. 
+Aftertext provides a scalable way to add new markup ideas.
 
 Simple markups like bolds or italics aren't a big pain and conventions like *bold* and _italics_ used in languages like Markdown or Textile do a sufficient job. But even with those, after a certain amount of rules it's hard to keep track of what characters do what. You also have to worry about escaping rules. With Aftertext adding new markups does not increase the cognitive load on the writer.
  https://en.wikipedia.org/wiki/Markdown Markdown
@@ -97,7 +97,7 @@ There are downsides in using Aftertext that you don't have with paired delimiter
 There is the issue of breakages when editing Aftertext. The nice thing about *bold* is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
  italics breakages
 
-A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed. 
+A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed.
  wrapsOn
 
 Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
@@ -116,7 +116,7 @@ The most likely reason why this is a bad idea is that it simply doesn't matter w
 comment
  That the earth is headed to the sun and we are all destined for stardust anyway, so what is the point?
 
-Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles. 
+Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles.
  wrapsOn
 
 # Summary and Closing Thoughts
