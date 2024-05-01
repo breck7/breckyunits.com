@@ -1,8 +1,12 @@
 import header.scroll
 title Hot Coffee
 // aka Dataset Thinking
-byLine
+
 startColumns 1
+# Datasets are automated tests for world models
+
+byLine
+
 date 4/23/2024 5:00
 groups All Programming Thinking
 
