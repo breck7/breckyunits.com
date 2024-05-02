@@ -17,21 +17,21 @@ Below are the instructions for making each dish.
 endSnippet
 
 ## 1. The Constant
-Grab one ingredient from an ingredient pack and put on one plate.
+Dump one entire ingredient pack on one plate.
 
 ## 2. The Log
 Dump half an ingredient pack on one plate.
-Take that plate and dump half its ingredients onto another plate.
-Repeat until you have a plate with less than 2 ingredients.
+Then dump half that plate onto another plate.
+Repeat until you make a plate with less than 2 ingredients.
 
 ## 3. The Linear
-Open an ingredient pack and put each ingredient on its own plate.
+Open one ingredient pack and put each ingredient on its own plate.
 
 ## 4. The Log Linear
 Open an ingredient pack and put each ingredient on its own plate.
 Then dump half a new ingredient pack on each of those plates.
-Take each of those plates and dump half its ingredients onto another plate.
-Repeat until you have a plate with less than 2 ingredients.
+Then dump half of each of those plates onto another plate.
+Repeat until you make a plate with less than 2 ingredients in each column.
 
 ## 5. The Quad
 Open an ingredient pack and put each ingredient on its own plate.
@@ -39,9 +39,11 @@ Then for each plate, open another ingredient pack.
 Put each of those ingredients on its own plate and portion the original ingredient between those plates.
 
 ## 6. The Expo
-Open an ingredient pack. Put one ingredient on one plate.
+Open an ingredient pack.
+Put one ingredient on one plate.
 Then portion between two plates.
-Add the next ingredient equally to all plates. Then portion each plate into two plates.
+Add the next ingredient equally to all plates.
+Now portion each plate into two plates.
 Repeat until you have no more ingredients.
 
 ## 7. The Factory
