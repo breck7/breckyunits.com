@@ -42,6 +42,7 @@ My next move was to look closer at the open source implementation we were using.
 # Benchmarking shows closer to n² than n·log(n)
 Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
 
+printTable
 Rows	Time
 1000	36000
 2000	53000
@@ -97,12 +98,14 @@ image the-three-byte-fix.png
 
 You can easily see the difference when you look at time needed per additional row as the number of rows increases:
 
+printTable
 Rows	LogLinear	Quadratic	Before	After
 100000	16.60964	100000	231.22	1.25
 200000	17.60964	200000	569.43	1.62
 <details>
 <summary>Full Dataset</summary>
 
+printTable
 Rows	LogLinear	Quadratic	Before	After
 1000	9966	1000000	36000	15000
 2000	21932	4000000	53000	29000

@@ -141,6 +141,7 @@ endColumns
 
 wideColumns 1
 
+printTable
 Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
 1	Thermos	3	7.25	TRUE	149.9	147	144.6	141.2	138.2	137.1	134	132.8	131.1	129.3	127.2
 2	Yeti Covered	4	3.8	TRUE	146.6	141	136.7	132.5	129	125.6	123.4	121.6	118.5	117.6	115.7

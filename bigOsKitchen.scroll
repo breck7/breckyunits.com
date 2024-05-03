@@ -73,6 +73,7 @@ wideColumns 1
 
 ## Plates needed
 
+printTable
 Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The Factory
 1	1	1	1	1	1	2	1
 2	1	1	2	2	4	4	2
