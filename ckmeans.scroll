@@ -102,9 +102,8 @@ printTable
 Rows	LogLinear	Quadratic	Before	After
 100000	16.60964	100000	231.22	1.25
 200000	17.60964	200000	569.43	1.62
-<details>
-<summary>Full Dataset</summary>
 
+expander Full Dataset
 printTable
 Rows	LogLinear	Quadratic	Before	After
 1000	9966	1000000	36000	15000
@@ -113,8 +112,6 @@ Rows	LogLinear	Quadratic	Before	After
 20000	285754	400000000	1236000	52000
 100000	1660964	10000000000	23122000	125000
 200000	3521928	40000000000	113886000	324000
-
-</details>
 
 # Merged
 Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.

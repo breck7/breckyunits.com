@@ -67,10 +67,8 @@ wideColumns 1
 
 ---
 
-<details>
-<summary>Dataset</summary>
+expander Dataset
 printTable
-</details>
 
 import allFooter.scroll
 
