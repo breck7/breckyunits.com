@@ -161,4 +161,4 @@ css
    border-radius: 5px;
  }
 
-import allFooter.scroll
+import footer.scroll

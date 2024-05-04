@@ -60,4 +60,4 @@ I don't know. Maybe a physicist could answer that question, but I don't know the
 # Notes
 1. In other words, don't overpromise and underdeliver.
 
-import allFooter.scroll
+import footer.scroll

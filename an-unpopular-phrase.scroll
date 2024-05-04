@@ -41,4 +41,4 @@ I know, having now used this term with a hundred different people, that this is 
 - This woman is amazing.
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan
 
-import allFooter.scroll
+import footer.scroll

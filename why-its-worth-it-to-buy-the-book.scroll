@@ -33,4 +33,4 @@ image bookcost.png
 - 1. Even if a book is more expensive, say $50, the numbers don't change too much.
 - 2. Pardon my scribbling. Got a new toy.
 
-import allFooter.scroll
+import footer.scroll

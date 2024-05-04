@@ -80,4 +80,4 @@ And check back here, I'll hopefully be sharing how this approached worked for us
 2. Thanks to Ben for helping me form my ideas on this issue.
  http://www.benzulauf.com Ben
 
-import allFooter.scroll
+import footer.scroll

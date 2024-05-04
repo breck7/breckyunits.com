@@ -61,4 +61,4 @@ I hope by publishing these ideas others might be encouraged to start developing 
 
 katex
 
-import allFooter.scroll
+import footer.scroll

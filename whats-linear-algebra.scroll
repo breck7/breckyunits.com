@@ -37,4 +37,4 @@ I don't know the answer to these questions. Fooled by Randomness revealed to me 
 
 I guess when you write about what you don't know, you write mostly questions.
 
-import allFooter.scroll
+import footer.scroll

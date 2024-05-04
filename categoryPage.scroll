@@ -9,4 +9,3 @@ gazetteHeader
 title CAT_TITLE Posts
 import categoryLinks.scroll
 css html {font-size: var(--base-font-size, 8px);}
-keyboardNav

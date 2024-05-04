@@ -79,4 +79,4 @@ image cdc.jpeg
 # Notes
 - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
-import allFooter.scroll
+import footer.scroll

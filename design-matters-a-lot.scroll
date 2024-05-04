@@ -55,4 +55,4 @@ Great engineering can't compensate for poor design just as great design can't co
 # Notes
 - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
 
-import allFooter.scroll
+import footer.scroll

@@ -27,4 +27,4 @@ The biggest businesses enabled user-to-user network effects. Only the pizza stor
 # Notes
 - 1. This is probably easier said than done.
 
-import allFooter.scroll
+import footer.scroll

@@ -218,4 +218,4 @@ thinColumns 1
 // # Ergonomics
 // Reading Speed vs Modeling Speed
 
-import allFooter.scroll
+import footer.scroll

@@ -14,4 +14,4 @@ Today I'm announcing the release of the image above, which is sufficient trainin
 
 These empirical results match the theory that the whole truth and nothing but the truth would not contain a (c).
 
-import allFooter.scroll
+import footer.scroll

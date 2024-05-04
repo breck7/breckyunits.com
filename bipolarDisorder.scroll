@@ -169,4 +169,4 @@ spaceTable
  2003 August 2 MD ❌ No No
  2002 October 1 AP ❌ No No
 
-import allFooter.scroll
+import footer.scroll

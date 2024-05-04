@@ -333,4 +333,4 @@ chat
  A: Thank you.
  D: That is all for today.
 
-import allFooter.scroll
+import footer.scroll

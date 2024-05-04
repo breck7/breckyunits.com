@@ -23,4 +23,4 @@ It's best to say "no" to a lot of deals. Say "yes" to the types of deals that yo
 - I'm not advocating being a penny pincher. I'm advocating being aware of the orders of magnitude difference in return from purchases.
 - I wonder if someday we'll have credit cards that help you be aware of the order of magnitude variance in expected value of purchases. It seems like one great benefit, would be to charge a higher interest rate on purchases that have low expected value, and a very low interest rate on purchases with high expected value (like books).
 
-import allFooter.scroll
+import footer.scroll

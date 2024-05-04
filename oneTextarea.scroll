@@ -37,4 +37,4 @@ Stripe is the poster child for web form "experts". And Stripe sucks compared to 
 # A Golden Opportunity
 If you're smart, honest and ambitious and you know the web stack boy oh boy is there a golden opportunity here. All my web forms now are one textarea and we are seeing exceptional results. Please go get rich bringing this technology to the masses. When you're rich you don't have to thank me—if I come across your form in the wild and it saves me time that will be thanks enough.
 
-import allFooter.scroll
+import footer.scroll

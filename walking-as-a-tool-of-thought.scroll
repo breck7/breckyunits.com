@@ -57,4 +57,4 @@ Listening to certain podcasts—Lex Fridman's comes to mind—can have a similar
 ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
  label ^
 
-import allFooter.scroll
+import footer.scroll

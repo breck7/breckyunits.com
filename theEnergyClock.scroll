@@ -1,6 +1,5 @@
 date 2024-05-02
 groups All BipolarDisorder
-
 openGraphImage energyClock.jpeg
  //
   The load shedding in Kathmandu reminded me of the roating "clock" in Hunger Games 2.
@@ -188,4 +187,4 @@ The Kathmandu energy clock is gone.
 
 Who knows, maybe bipolar energy clocks will soon be gone too.
 
-import allFooter.scroll
+import footer.scroll

@@ -39,4 +39,4 @@ Hundreds of cures are just a few tweaks away from saving many, many lives. Cance
 image longNowCancer.png
  openGraph
 
-import allFooter.scroll
+import footer.scroll

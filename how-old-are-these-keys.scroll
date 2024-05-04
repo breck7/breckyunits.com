@@ -71,8 +71,7 @@ wideColumns 1
 expander Dataset
 printTable
 
-import allFooter.scroll
-
+import footer.scroll
 
 symbol	year	count	source
 acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key

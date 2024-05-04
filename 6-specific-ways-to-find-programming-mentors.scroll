@@ -43,4 +43,4 @@ Hopefully you'll find some of these tips useful. Feel free to email me if you ne
 # Notes
 1. That exercise percentage is a guess, but sounds right to me.
 
-import allFooter.scroll
+import footer.scroll

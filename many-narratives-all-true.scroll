@@ -51,6 +51,6 @@ But to get into the _why_ and still be accurate, it probably would be best to te
 
 Our brains are like a ship on a long voyage inhabited by multiple characters (picking up new ones along the way) who take turns steering. Impossible to fit that into a single narrative.
 
-import allFooter.scroll
+import footer.scroll
 
 // todo: add a narratives page.

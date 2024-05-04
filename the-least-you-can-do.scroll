@@ -46,4 +46,4 @@ In reality you need to do things both ways. But try to put extra effort into doi
 - Another relevant computer science topics is the The longest common subsequence problem.
  http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem
 
-import allFooter.scroll
+import footer.scroll

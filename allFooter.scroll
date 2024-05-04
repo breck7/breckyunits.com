@@ -1,6 +1,0 @@
-importOnly
- // Just the footer but also include the keyboard nav
-writeText
-
-keyboardNav
-import footer.scroll

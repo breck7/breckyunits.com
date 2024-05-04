@@ -72,4 +72,4 @@ image nytimesDrawing.png
  - Has the frequency of this advice appearing gone up as screens got wider?
  - Consider vertical languages like Japanese
 
-import allFooter.scroll
+import footer.scroll

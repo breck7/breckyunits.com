@@ -37,4 +37,4 @@ Finally, a grim reality: though we will save hundreds of lives a day if we aboli
 
 byLine
 
-import allFooter.scroll
+import footer.scroll

@@ -65,4 +65,4 @@ _Sorry if you were expecting some quantified answers, as I haven't done that har
 _If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory._
  https://en.wikipedia.org/wiki/Assembly_theory assembly theory
 
-import allFooter.scroll
+import footer.scroll

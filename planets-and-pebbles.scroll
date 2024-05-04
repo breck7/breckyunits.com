@@ -20,4 +20,4 @@ I highly recommend this system. We live in a power law world, and it's important
 # Related Posts
 relatedList
 
-import allFooter.scroll
+import footer.scroll

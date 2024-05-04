@@ -52,4 +52,4 @@ To get involved, give NudgePad a try or check out the source code on GitHub.
 
 We truly believe this new way to build websites--an IDE in your browser-- is a faster way to build websites and the way it will be done in the future. By this time next year, using NudgePad, it could be 100x faster and easier to build websites than it is today.
 
-import allFooter.scroll
+import footer.scroll

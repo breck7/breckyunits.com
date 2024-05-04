@@ -30,4 +30,4 @@ It seems like lobsters have no choice but to keep molting (except for the ones m
 While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
  https://theoccasionalinterrobang.wordpress.com/2019/07/03/a-loser-lobsters-brain-differs-from-a-winner-lobsters-and-so-does-yours/ this interesting post
 
-import allFooter.scroll
+import footer.scroll

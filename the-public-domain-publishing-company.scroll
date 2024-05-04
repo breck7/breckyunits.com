@@ -15,4 +15,4 @@ We are starting the Public Domain Publishing Company. The name should be largely
 If I had to bet, I'd say I'll probably be actively working on this for a while. But there's a chance I go on sabbatical quick.
 
 The team is coming together. Check out the homepage for a list of open positions.
-import allFooter.scroll
+import footer.scroll

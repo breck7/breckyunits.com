@@ -119,4 +119,4 @@ image illogeracy.png
 
 ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
 
-import allFooter.scroll
+import footer.scroll
