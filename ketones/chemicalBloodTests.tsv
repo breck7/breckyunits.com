@@ -174,7 +174,7 @@ Progesterone (pregnancy, weeks 28-30)	7e-8	1.26e-7	false		https://en.wikipedia.o
 Progesterone (pregnancy, weeks 38-40)	1.31e-7	2.27e-7	false		https://en.wikipedia.org/wiki/Progesterone						
 Progesterone (male)	1.2e-8	2e-8	false		https://en.wikipedia.org/wiki/Progesterone						
 Proinsulin fasting	5e-10	5e-10	false		https://en.wikipedia.org/wiki/Proinsulin						
-proinsulin_mean	1.42e-8	1.7e-8	false		https://en.wikipedia.org/wiki/Proinsulin						
+Proinsulin mean	1.42e-8	1.7e-8	false		https://en.wikipedia.org/wiki/Proinsulin						
 Prolactin (male, awake)	1e-9	7e-9	false		https://en.wikipedia.org/wiki/Prolactin						
 Prolactin (male, during sleep)	9e-9	2e-8	false		https://en.wikipedia.org/wiki/Prolactin						
 Prolactin (female, follicular)	0	2.3e-8	false		https://en.wikipedia.org/wiki/Prolactin						
@@ -189,11 +189,11 @@ Protoporphyrin	2.7e-7	6.1e-7	false		https://en.wikipedia.org/wiki/Protoporphyrin
 Pseudoglobulin I	0.008	0.019	false		https://en.wikipedia.org/wiki/Pseudoglobulin						
 Pseudoglobulin II	0.002	0.008	false		https://en.wikipedia.org/wiki/Pseudoglobulin						
 Purine total	0.0000095	0.0000115	false		https://en.wikipedia.org/wiki/Purine						
-pyrimidine_nucleotides	2e-7	0.0000012	false		https://en.wikipedia.org/wiki/Pyrimidine						
+Pyrimidine nucleotides	2e-7	0.0000012	false		https://en.wikipedia.org/wiki/Pyrimidine						
 Pyridoxine (Vitamin B6)	3.6e-9	9e-8	false		https://en.wikipedia.org/wiki/Pyridoxine						
 RANTES	0	7e-11	false		https://en.wikipedia.org/wiki/CCL5						
-relaxin_day_lt_100_preparturition	0	2e-9	false		https://en.wikipedia.org/wiki/Relaxin						
-relaxin_day_100_to_2_days_preceding	5e-9	4e-8	false		https://en.wikipedia.org/wiki/Relaxin						
+Relaxin (day <100 preparturition)	0	2e-9	false		https://en.wikipedia.org/wiki/Relaxin						
+Relaxin (day 100 to 2 days preceding parturition)	5e-9	4e-8	false		https://en.wikipedia.org/wiki/Relaxin						
 Relaxin (day preceding parturition)	0.0001	0.0002	false		https://en.wikipedia.org/wiki/Relaxin						
 Relaxin (day following parturition)	0	2e-9	false		https://en.wikipedia.org/wiki/Relaxin						
 Retinol (Vitamin A)	1e-7	8e-7	false		https://en.wikipedia.org/wiki/Retinol						

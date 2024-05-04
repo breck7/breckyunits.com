@@ -1706,9 +1706,7 @@ canTestAtHome false
 
 
 
-id proinsulin_mean
-
-name Proinsulin mean
+id Proinsulin mean
 chemicalWikipediaPage https://en.wikipedia.org/wiki/Proinsulin
 bottom 0.0000000142
 top 0.000000017
@@ -1833,9 +1831,7 @@ canTestAtHome false
 
 
 
-id pyrimidine_nucleotides
-
-name Pyrimidine nucleotides
+id Pyrimidine nucleotides
 chemicalWikipediaPage https://en.wikipedia.org/wiki/Pyrimidine
 bottom 0.0000002
 top 0.0000012
@@ -1859,9 +1855,7 @@ canTestAtHome false
 
 
 
-id relaxin_day_lt_100_preparturition
-
-name Relaxin (day <100 preparturition)
+id Relaxin (day <100 preparturition)
 chemicalWikipediaPage https://en.wikipedia.org/wiki/Relaxin
 bottom 0
 top 0.000000002
@@ -1869,9 +1863,7 @@ canTestAtHome false
 
 
 
-id relaxin_day_100_to_2_days_preceding
-
-name Relaxin (day 100 to 2 days preceding parturition)
+id Relaxin (day 100 to 2 days preceding parturition)
 chemicalWikipediaPage https://en.wikipedia.org/wiki/Relaxin
 bottom 0.000000005
 top 0.00000004
