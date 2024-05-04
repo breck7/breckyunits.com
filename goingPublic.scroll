@@ -1,5 +1,4 @@
 date 11/05/2022
-openGraphImage https://breckyunits.com/secCodes.png
 
 import header.scroll
 title Well YCombinator, we're going public anyway.
@@ -7,6 +6,7 @@ title Well YCombinator, we're going public anyway.
 thinColumns 2
 
 image secCodes.png
+ openGraph
  caption The process with SEC and FINRA takes a while unfortunately. If I had my way we'd be trading this month.
 
 On September 5th, 2022, just 61 days ago, I offered to give YCombinator 7% of my startup, Public Domain Publishing Inc., if they would handle taking us public. In my twenty years of startups, I have never seen a black swan like us.

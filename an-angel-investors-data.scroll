@@ -1,6 +1,5 @@
 date 9/1/2022
 groups All Startups
-openGraphImage https://breckyunits.com/angelData.png
 
 import header.scroll
 title An Angel Investor's Data
@@ -11,6 +10,7 @@ There's a trend where people are publishing _real data first_, and then insights
  dateline
 
 image angelData.png
+ openGraph
  caption Sigh. I am sharing my data as a png. We need a beautiful plain text spreadsheet language.
 
 endSnippet

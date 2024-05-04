@@ -1,5 +1,4 @@
 date 10/20/2022
-openGraphImage https://breckyunits.com/longNowCancer.png
 
 import header.scroll
 title My LongBets.org prediction on cancer
@@ -38,4 +37,6 @@ It uses the same underlying source code as PLDB.io, which is having a similar ef
 Hundreds of cures are just a few tweaks away from saving many, many lives. CancerDB will accelerate the work of cancer researchers.
 
 image longNowCancer.png
+ openGraph
+
 import allFooter.scroll

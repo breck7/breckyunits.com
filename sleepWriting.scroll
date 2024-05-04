@@ -1,6 +1,5 @@
 date 4/5/2024
 groups All BipolarDisorder Writing
-openGraphImage https://breckyunits.com/less-sleeping-less-thinking.png
 
 import header.scroll
 mediumColumns 1
@@ -17,6 +16,7 @@ For this post I combined 2,500 nights of sleep data with 58 blog posts. A 7 year
  // Sleep data from my FitBit
 
 image less-sleeping-less-thinking.png
+ openGraph
  caption Interactive version.
   https://www.datawrapper.de/_/YsKWU/
 

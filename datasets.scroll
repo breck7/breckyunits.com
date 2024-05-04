@@ -1,6 +1,5 @@
 date 4/23/2024 5:00
 groups All Programming Thinking
-openGraphImage https://breckyunits.com/coffeeChart.png
 
 import header.scroll
 title Hot Coffee
@@ -133,6 +132,7 @@ image coffeeRaw.jpg
 
 ### The Data Visualized
 image coffeeChart.png
+ openGraph
  caption Interactive version.
   link https://www.datawrapper.de/_/1hhse/ Interactive version
 

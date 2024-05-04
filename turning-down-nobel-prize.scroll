@@ -1,5 +1,4 @@
 date 10/24/2022
-openGraphImage https://breckyunits.com/pirateQueen.jpeg
 
 import header.scroll
 title Turning down the Nobel Prize
@@ -13,5 +12,6 @@ On November 1st CancerDB.com will launch and immediately start saving lives. The
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan Alexandra Elbakyan
 
 image pirateQueen.jpeg
+ openGraph
 
 import allFooter.scroll

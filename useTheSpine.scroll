@@ -1,6 +1,5 @@
 date 1/3/2023
 groups All TreeNotation Programming
-openGraphImage https://breckyunits.com/spines.png
 
 import header.scroll
 title Use the Spine
@@ -11,6 +10,7 @@ Greater than 99% of the time symbols are read and written on surfaces with spine
  dateline
 
 image spines.jpg
+ openGraph
  caption My M1 MacBook screen, paper notebook, notepads, and my 1920 copy of Einstein's Theory of Relativity, all have spines.
 
 endSnippet

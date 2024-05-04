@@ -1,6 +1,5 @@
 date 2021-10-15
 groups All Writing
-openGraphImage https://breckyunits.com/writeThin.png
 
 import header.scroll
 title Write Thin to Write Fast
@@ -11,6 +10,7 @@ comment
  Todo: add caption support to image node.
 
 image writeThin.png
+ openGraph
 
 I'm always trying to improve my writing. I want my writing to be more meaningful, clearer, more memorable, and shorter. I would also like to write faster.
  dateline

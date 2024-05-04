@@ -1,6 +1,5 @@
 date 2021-03-30
 groups All Society
-openGraphImage https://breckyunits.com/cdc.jpeg
 
 import header.scroll
 title How to fix the CDC
@@ -75,6 +74,7 @@ The second example is well documented elsewhere, but the CDC changed their onlin
 I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
 
 image cdc.jpeg
+ openGraph
 
 # Notes
 - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.

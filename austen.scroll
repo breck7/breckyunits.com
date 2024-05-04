@@ -1,5 +1,4 @@
 date 10/18/2022
-openGraphImage https://breckyunits.com/austen.png
 
 import header.scroll
 title Austen Heinz
@@ -10,6 +9,7 @@ Austen James Heinz was probably the most brilliant, fearless, kind person I ever
  dateline
 
 image austen.png
+ openGraph
  caption Austen's response to my question "what are you up to this summer"? This was like 20 years ago, so go easy on him ;).
 
 endSnippet
