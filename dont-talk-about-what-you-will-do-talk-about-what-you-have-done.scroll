@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Don't talk about what you will do, talk about what you have done
 
-startColumns 2
+thinColumns 2
 
 All the time I overhear people saying things like "I will start excercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
  dateline

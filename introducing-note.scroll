@@ -4,7 +4,7 @@ groups All TreeNotation Programming
 import header.scroll
 title Introducing Note
 
-startColumns 2
+thinColumns 2
 
 comment
  Just want to note that it took nearly a decade but this article is now

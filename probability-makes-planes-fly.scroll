@@ -4,7 +4,7 @@ groups All Thinking Life
 import header.scroll
 title Probability Makes Planes Fly
 
-startColumns 2
+thinColumns 2
 
 My whole life I've been trying to understand how the world works. How do planes fly? How do computers compute? How does the economy coordinate?
  dateline

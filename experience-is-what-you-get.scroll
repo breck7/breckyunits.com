@@ -3,7 +3,7 @@ groups All Life
 
 import header.scroll
 title Experience is What You Get
-startColumns 2
+thinColumns 2
 
 quote
  Experience is what you get when you don't get what you want.

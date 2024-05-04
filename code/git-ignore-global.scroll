@@ -1,7 +1,7 @@
 import header.scroll
 title Git Ignore Global
 
-startColumns 2
+thinColumns 2
 date 2012-01-04
 
 groups index

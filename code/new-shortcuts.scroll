@@ -1,7 +1,7 @@
 import header.scroll
 title New shortcuts
 
-startColumns 2
+thinColumns 2
 date 2011-8-14
 
 groups index

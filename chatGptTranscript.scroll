@@ -1,7 +1,7 @@
 date 2/15/2023
 
 import header.scroll
-startColumns 2
+thinColumns 2
 
 title Bing ChatGTP demands an apology from user for claiming it's 2023
 

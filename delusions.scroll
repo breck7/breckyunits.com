@@ -4,7 +4,7 @@ groups All BipolarDisorder
 import header.scroll
 title Delusions
 
-import mediumColumns.scroll
+mediumColumns 1
 
 This is a post about delusions. In society and in myself.
  dateline

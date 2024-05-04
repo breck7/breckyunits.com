@@ -4,7 +4,7 @@ groups All Programming Life
 import header.scroll
 title Don't Flip the Bozo Bit
 
-startColumns 2
+thinColumns 2
 
 Do you "flip the bozo bit" on people?
  dateline

@@ -4,7 +4,7 @@ groups All BipolarDisorder Writing
 import header.scroll
 title Blogging as Therapy
 
-import mediumColumns.scroll
+mediumColumns 1
 
 I have kept this blog going for 14 years, through good times and bad. One thing I've noticed, particularly recently, is that, after getting a post out, my mind feels calmer the rest of the day. I also feel like each post helps me develop some actionable insight, however small, that I can use going forward in the future.
  dateline

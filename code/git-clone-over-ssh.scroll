@@ -1,7 +1,7 @@
 import header.scroll
 title Git Clone over SSH
 
-startColumns 2
+thinColumns 2
 date 07/08/2021
 
 groups index

@@ -3,7 +3,7 @@ groups All Programming
 
 import header.scroll
 title Learning How to Program Part I
-startColumns 2
+thinColumns 2
 
 * `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
 

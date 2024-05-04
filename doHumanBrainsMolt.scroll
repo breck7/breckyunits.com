@@ -3,7 +3,7 @@ groups All BipolarDisorder
 
 import header.scroll
 title Do Human Brains Molt?
-import mediumColumns.scroll
+mediumColumns 1
 
 image lobsterMoltingChart.png
  caption In lobsters, a steroid hormone called ecdysteroid spikes during the pre-molt phase and declines sharply after molting. Source: J. Sook Chung

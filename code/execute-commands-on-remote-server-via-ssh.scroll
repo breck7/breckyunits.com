@@ -1,7 +1,7 @@
 import header.scroll
 title Execute commands on remote server via ssh
 
-startColumns 2
+thinColumns 2
 date 2011-11-07
 
 groups index

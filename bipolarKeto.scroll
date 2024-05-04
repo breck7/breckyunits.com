@@ -5,7 +5,7 @@ import header.scroll
 
 // Adapted from one of my reddit posts: https://www.reddit.com/r/bipolarketo/comments/17k2pg3/keto_was_not_mentioned_in_the_top_50_books_on/
 
-import mediumColumns.scroll
+mediumColumns 1
 
 title Keto for bipolar was not talked about until very recently
 

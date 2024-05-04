@@ -4,7 +4,7 @@ groups All TreeNotation Programming Writing
 import header.scroll
 title Aftertext
 
-startColumns 2
+thinColumns 2
 
 comment
  This invention falls somewhere between trivial and mildly interesting.

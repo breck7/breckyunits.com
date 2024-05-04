@@ -4,7 +4,7 @@ permalink dialogues.html
 
 import header.scroll
 title Scrolldown now has Dialogues
-startColumns 2
+thinColumns 2
 
 chat
  hey. I just added Dialogues to Scrolldown.

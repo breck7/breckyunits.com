@@ -1,7 +1,7 @@
 import header.scroll
 title Unpause
 
-startColumns 2
+thinColumns 2
 date 06/09/2021
 
 groups index

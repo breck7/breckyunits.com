@@ -4,7 +4,7 @@ openGraphImage https://breckyunits.com/rootThinking.png
 
 import header.scroll
 title Root Thinking
-startColumns 1
+thinColumns 1
 
 I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
  dateline

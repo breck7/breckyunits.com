@@ -4,7 +4,7 @@ groups All Life Thinking
 import header.scroll
 title Upstream of Everything
 
-startColumns 2
+thinColumns 2
 
 image sortingIdeas.svg
  caption A rough sketch of a semi-random selection of ideas stacked in order of importance. The biggest ideas, "upstream of everything", are at the bottom. The furthest upstream ideas we can never see. A better artist would have drawn this as an actual stream.

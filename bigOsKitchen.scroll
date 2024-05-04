@@ -6,7 +6,7 @@ import header.scroll
 title Big O's Kitchen
 
 # Menu Instructions
-startColumns 2
+thinColumns 2
 
 Congrats on landing a job at Big O's Kitchen!
 
@@ -62,7 +62,7 @@ css h1,h2,h1.scrollTitle a {color: #c42c1f;} body {font-family: "SF Pro", "Helve
 
 endColumns
 
-startColumns 1
+thinColumns 1
 image bigOs.png
  caption Interactive Version
   https://www.datawrapper.de/_/O5Pmu/

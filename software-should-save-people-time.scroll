@@ -4,7 +4,7 @@ groups All Programming
 import header.scroll
 title Software Should Save People Time
 
-startColumns 2
+thinColumns 2
 
 For me, the primary motivation for creating software is to save myself and other people time.
  dateline

@@ -1,7 +1,7 @@
 import header.scroll
 title Use rsync to deploy your website
 
-startColumns 2
+thinColumns 2
 date 2009-11-21
 
 groups index

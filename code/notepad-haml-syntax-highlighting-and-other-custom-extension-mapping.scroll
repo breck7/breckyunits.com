@@ -1,7 +1,7 @@
 import header.scroll
 title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 
-startColumns 2
+thinColumns 2
 date 2011-7-3
 
 groups index

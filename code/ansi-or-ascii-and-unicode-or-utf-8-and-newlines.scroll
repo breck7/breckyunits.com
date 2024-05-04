@@ -1,7 +1,7 @@
 import header.scroll
 title ANSI or ASCII and Unicode or UTF-8 and Newlines
 
-startColumns 2
+thinColumns 2
 date 2010-2-25
 
 groups index

@@ -4,7 +4,7 @@ groups All Programming
 import header.scroll
 title Ruby
 
-startColumns 2
+thinColumns 2
 
 Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
  dateline

@@ -1,7 +1,7 @@
 import header.scroll
 title Unix date command
 
-startColumns 2
+thinColumns 2
 date 2010-01-19
 
 groups index

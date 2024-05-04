@@ -1,7 +1,7 @@
 import header.scroll
 title Bash variables
 
-startColumns 2
+thinColumns 2
 date 2010-0-18
 
 groups index

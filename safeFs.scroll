@@ -4,7 +4,7 @@ openGraphImage https://breckyunits.com/safeFS.png
 
 import header.scroll
 title SafeFS
-startColumns 2
+thinColumns 2
 
 ## _Or: If lawyers invented a filesystem_
 

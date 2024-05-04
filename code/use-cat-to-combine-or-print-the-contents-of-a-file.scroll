@@ -1,7 +1,7 @@
 import header.scroll
 title Use cat to combine or print the contents of a file
 
-startColumns 2
+thinColumns 2
 date 2010-0-26
 
 groups index

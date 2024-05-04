@@ -4,7 +4,7 @@ groups All Thinking Programming
 import header.scroll
 title The Churn Rate of Data
 
-startColumns 2
+thinColumns 2
 
 I think it's interesting to ponder the value of information over it's lifetime.
  dateline

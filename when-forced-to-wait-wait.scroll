@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title When forced to wait, wait!
 
-startColumns 2
+thinColumns 2
 
 When a problem you are working on forces you to wait, do you wait or switch tasks?
  dateline

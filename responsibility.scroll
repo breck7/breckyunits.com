@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Responsibility
 
-startColumns 2
+thinColumns 2
 
 Entrepreneurship is taking responsibility for a problem you did not create.
  dateline

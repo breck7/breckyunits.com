@@ -3,7 +3,7 @@ openGraphImage https://breckyunits.com/endCancerMiracle1.png
 
 import header.scroll
 title Cancer and Copyright
-startColumns 2
+thinColumns 2
 
 image endCancerMiracle1.png
  caption Logo stolen from the ugliest (best) logo of all cancer centers in the world: <a href="https://gifts.mdanderson.org/Default.aspx">MDAnderson</a>.

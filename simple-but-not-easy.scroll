@@ -4,7 +4,7 @@ groups All Startups Life
 import header.scroll
 title Simple, but not easy
 
-startColumns 2
+thinColumns 2
 
 Doing a startup is surprisingly simple. You have to start by creating a product that people must have, then you scale it from there.
  dateline

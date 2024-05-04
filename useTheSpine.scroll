@@ -5,7 +5,7 @@ openGraphImage https://breckyunits.com/spines.png
 import header.scroll
 title Use the Spine
 
-startColumns 2
+thinColumns 2
 
 Greater than 99% of the time symbols are read and written on surfaces with spines. You cannot get away from it. Yet still, amongst programming language designers there exists some sort of "spine blindness". They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises. Why they would fight this and not embrace this is beyond me. Nature provides, man ignores.
  dateline

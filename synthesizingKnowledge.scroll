@@ -4,7 +4,7 @@ groups All Programming
 import header.scroll
 title Synthesizing Knowledge
 
-import mediumColumns.scroll
+mediumColumns 1
 
 Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
  dateline

@@ -4,7 +4,7 @@ related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
 
 import header.scroll
 title The Three Byte Fix
-import mediumColumns.scroll
+mediumColumns 1
 
 # A Small Open Source Success Story
 

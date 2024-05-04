@@ -1,7 +1,7 @@
 import header.scroll
 title Remove all DS_Store files recursively
 
-startColumns 2
+thinColumns 2
 date 2010-9-29
 
 groups index

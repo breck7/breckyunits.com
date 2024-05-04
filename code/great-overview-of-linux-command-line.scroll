@@ -1,7 +1,7 @@
 import header.scroll
 title Great Overview of Linux Command Line
 
-startColumns 2
+thinColumns 2
 date 2011-10-11
 
 groups index

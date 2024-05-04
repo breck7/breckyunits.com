@@ -6,7 +6,7 @@ related bigOsKitchen planets-and-pebbles orders-of-magnitude
 import header.scroll
 title Logeracy
 
-startColumns 2
+thinColumns 2
 
 I invented a new word: *_Logeracy_*^coinage. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
  https://en.wikipedia.org/wiki/Logarithm logarithms

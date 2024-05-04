@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Beliefs
 
-import mediumColumns.scroll
+mediumColumns 1
 
 What does it mean to say a person believes _X_, where _X_ is a series of words?
  dateline

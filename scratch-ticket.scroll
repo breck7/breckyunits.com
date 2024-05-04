@@ -5,7 +5,7 @@ openGraphImage https://breckyunits.com/seemewin.jpeg
 import header.scroll
 title A scratch ticket with a positive expected value
 
-startColumns 2
+thinColumns 2
 
 In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
  dateline

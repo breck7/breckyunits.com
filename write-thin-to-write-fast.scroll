@@ -5,7 +5,7 @@ openGraphImage https://breckyunits.com/writeThin.png
 import header.scroll
 title Write Thin to Write Fast
 
-startColumns 2
+thinColumns 2
 
 comment
  Todo: add caption support to image node.

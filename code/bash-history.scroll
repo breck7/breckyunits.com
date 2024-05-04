@@ -1,7 +1,7 @@
 import header.scroll
 title Bash History
 
-startColumns 2
+thinColumns 2
 date 2011-7-17
 
 groups index

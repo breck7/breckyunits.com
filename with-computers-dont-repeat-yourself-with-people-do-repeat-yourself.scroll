@@ -4,7 +4,7 @@ groups All Programming Life
 import header.scroll
 title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 
-startColumns 2
+thinColumns 2
 
 In computer programming, one of the most oft-repeated mottos is DRY: "Don't Repeat Yourself."
  dateline

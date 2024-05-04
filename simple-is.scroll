@@ -4,7 +4,7 @@ permalink simple-is.html
 
 import header.scroll
 title Simple is...
-startColumns 2
+thinColumns 2
 
 *Concise but not cryptic*. e=mc² is precise and not too cryptic. Shell commands, such as `chmod -R 755 some_dir` are concise but very cryptic.
  dateline

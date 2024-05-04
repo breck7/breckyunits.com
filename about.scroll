@@ -1,7 +1,7 @@
 import header.scroll
 title About Me
 
-startColumns 2
+thinColumns 2
 
 This is my personal Scroll. I am a software engineer, data science and probability enthusiast, programming language tinkerer, data curator, angel investor and father.
  https://github.com/publicdomaincompany/scroll Scroll

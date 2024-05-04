@@ -4,7 +4,7 @@ groups All BipolarDisorder Programming Life
 import header.scroll
 title A Different Kind of Mindmap
 byLine
-startColumns 2
+thinColumns 2
 
 In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
  dateline

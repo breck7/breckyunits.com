@@ -1,7 +1,7 @@
 import header.scroll
 title ack and ackmate
 
-startColumns 2
+thinColumns 2
 date 2011-8-26
 
 groups index

@@ -1,7 +1,7 @@
 import header.scroll
 title Windows Flush DNS
 
-startColumns 2
+thinColumns 2
 date 2010-6-30
 
 groups index

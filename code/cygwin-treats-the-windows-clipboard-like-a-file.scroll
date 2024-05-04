@@ -1,7 +1,7 @@
 import header.scroll
 title Cygwin treats the Windows Clipboard like a file
 
-startColumns 2
+thinColumns 2
 date 2010-0-30
 
 groups index

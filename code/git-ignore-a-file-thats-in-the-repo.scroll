@@ -1,7 +1,7 @@
 import header.scroll
 title Git ignore a file that's in the repo
 
-startColumns 2
+thinColumns 2
 date 2010-10-3
 
 groups index

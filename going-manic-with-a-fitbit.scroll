@@ -4,7 +4,7 @@ groups All BipolarDisorder
 import header.scroll
 title Going Manic with a FitBit
 
-import mediumColumns.scroll
+mediumColumns 1
 
 image mania/3yrsSleepData.webp
 

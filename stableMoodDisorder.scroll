@@ -4,7 +4,7 @@ groups All BipolarDisorder
 import header.scroll
 title Stable Mood Disorder
 
-import mediumColumns.scroll
+mediumColumns 1
 
 In our universe, an estimated 2% of humans have bipolar disorder. Imagine a universe where that ratio is flipped.
  dateline

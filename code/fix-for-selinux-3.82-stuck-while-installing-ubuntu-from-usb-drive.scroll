@@ -1,7 +1,7 @@
 import header.scroll
 title Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive
 
-startColumns 2
+thinColumns 2
 date 2011-6-27
 
 groups index

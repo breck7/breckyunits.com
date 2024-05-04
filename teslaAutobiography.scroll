@@ -29,7 +29,7 @@ byLine https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 ## VI. The Art of Telautomatics
  link #part6
 
-startColumns 4
+thinColumns 4
 
 # I. My Early Life
  id part1

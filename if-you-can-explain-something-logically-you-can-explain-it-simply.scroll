@@ -4,7 +4,7 @@ groups All Writing
 import header.scroll
 title If you can explain something logically, you can explain it simply
 
-startColumns 2
+thinColumns 2
 
 chat
  Is there any subject which cannot be explained simply?

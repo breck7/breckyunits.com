@@ -5,7 +5,7 @@ openGraphImage https://breckyunits.com/ketones/bhb.png
 import header.scroll
 title Ketones vs Lithium
 byLine
-startColumns 2
+thinColumns 2
 
 image ketones/ketoMojoFingerPrick.jpeg
  caption Pricking my finger then measuring the level of ketones in my blood.

@@ -1,7 +1,7 @@
 import header.scroll
 title EC2 Command Line Tools
 
-startColumns 2
+thinColumns 2
 date 2011-8-13
 
 groups index

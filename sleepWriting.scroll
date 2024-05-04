@@ -3,7 +3,7 @@ groups All BipolarDisorder Writing
 openGraphImage https://breckyunits.com/less-sleeping-less-thinking.png
 
 import header.scroll
-import mediumColumns.scroll
+mediumColumns 1
 title Blog Posts, Sorted by Sleep
 
 Have you ever examined the correlation between your writing behavior and sleep?

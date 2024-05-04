@@ -1,7 +1,7 @@
 import header.scroll
 title The BASH Programming Language
 
-startColumns 2
+thinColumns 2
 date 2010-2-25
 
 groups index

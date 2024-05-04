@@ -4,7 +4,7 @@ groups All Programming Thinking
 import header.scroll
 title Setplicity
 
-startColumns 2
+thinColumns 2
 
 "Is simplicity ever bad?" If you had asked me this a year ago, I probably would have called you a fucking moron for asking such a dumb question. "Never!", I would have shouted. Now, I think it's a fair question. Simplicity has it's limits. Simplicity is not enough, and if you pursue simplicity at all costs, that can be a bad thing. There's something more than simplicity that you need to be aware of. I'll get to that in a second, but first, I want to backtrack a bit and state clearly that I do strongly, strongly believe and strive for simplicity. Let me talk about why for a second.
  dateline

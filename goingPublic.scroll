@@ -4,7 +4,7 @@ openGraphImage https://breckyunits.com/secCodes.png
 import header.scroll
 title Well YCombinator, we're going public anyway.
 
-startColumns 2
+thinColumns 2
 
 image secCodes.png
  caption The process with SEC and FINRA takes a while unfortunately. If I had my way we'd be trading this month.

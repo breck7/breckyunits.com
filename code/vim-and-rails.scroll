@@ -1,7 +1,7 @@
 import header.scroll
 title VIM and Rails
 
-startColumns 2
+thinColumns 2
 date 2010-8-13
 
 groups index

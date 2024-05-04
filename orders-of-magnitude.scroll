@@ -5,7 +5,7 @@ related bigOsKitchen logeracy planets-and-pebbles
 import header.scroll
 title Orders of Magnitude
 
-startColumns 2
+thinColumns 2
 
 Do you think in Orders of Magnitude? You should.
  dateline

@@ -4,7 +4,7 @@ groups All Thinking
 import header.scroll
 title The Box Method of Science
 
-startColumns 2
+thinColumns 2
 
 image boxMethod.jpeg
  caption S = side length of box. P = pattern. t = time. V = voxel side length.

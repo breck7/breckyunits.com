@@ -4,7 +4,7 @@ groups All Programming Writing
 import header.scroll
 title Naming Things
 
-startColumns 2
+thinColumns 2
 
 I love to name things.
  dateline

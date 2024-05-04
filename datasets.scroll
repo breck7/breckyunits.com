@@ -6,7 +6,7 @@ import header.scroll
 title Hot Coffee
 // aka Dataset Thinking
 
-startColumns 1
+thinColumns 1
 # Datasets are automated tests for world models
 
 byLine
@@ -155,7 +155,7 @@ Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
 
 endColumns
 
-startColumns 1
+thinColumns 1
 
 ### The Best Model of Heat
 [Coming in a future post]

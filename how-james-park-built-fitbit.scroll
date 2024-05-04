@@ -4,7 +4,7 @@ groups All OtherAuthor
 
 import header.scroll
 title How James Park built FitBit
-startColumns 2
+thinColumns 2
 
 comment
  todo: add custom grammar.

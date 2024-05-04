@@ -1,7 +1,7 @@
 import header.scroll
 title How I organize my Dropbox
 
-startColumns 2
+thinColumns 2
 date 2009-11-27
 
 groups index

@@ -4,7 +4,7 @@ groups All Programming
 import header.scroll
 title The Hidden Benefits of Automation
 
-startColumns 2
+thinColumns 2
 
 If you automate a process which you repeat _Y_ times, that takes _X_ minutes, what would your payoff be?
  dateline

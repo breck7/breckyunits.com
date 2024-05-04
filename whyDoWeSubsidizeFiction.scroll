@@ -3,7 +3,7 @@ groups All IntellectualFreedom Society
 
 import header.scroll
 title Why do we subsidize fiction?
-import mediumColumns.scroll
+mediumColumns 1
 image blackCup.jpg
 
 The color of the cup on my desk is black.

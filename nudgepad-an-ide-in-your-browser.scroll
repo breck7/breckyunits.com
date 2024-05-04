@@ -4,7 +4,7 @@ groups All Programming Startups TreeNotation
 import header.scroll
 title NudgePad: An IDE in Your Browser
 
-startColumns 2
+thinColumns 2
 
 Making websites is slow and frustrating.
  dateline

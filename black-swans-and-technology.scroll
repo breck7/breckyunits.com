@@ -4,7 +4,7 @@ groups All Thinking Startups
 import header.scroll
 title Black Swans and Technology
 
-startColumns 2
+thinColumns 2
 
 For the past year I've been raving about Node.js, so I cracked a huge smile when I saw this question on Quora:
  dateline

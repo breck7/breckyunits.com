@@ -1,7 +1,7 @@
 import header.scroll
 title pwd while in a symlink directory
 
-startColumns 2
+thinColumns 2
 date 2010-3-1
 
 groups index

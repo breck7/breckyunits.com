@@ -3,7 +3,7 @@ groups All TreeNotation Programming Writing
 
 import header.scroll
 title Scroll Beta
-startColumns 2
+thinColumns 2
 
 Today I'm launching the beta of something new called Scroll.
  https://github.com/publicdomaincompany/scroll Scroll

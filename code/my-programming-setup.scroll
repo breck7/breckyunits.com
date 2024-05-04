@@ -1,7 +1,7 @@
 import header.scroll
 title My Programming Setup
 
-startColumns 2
+thinColumns 2
 date 2011-5-30
 
 groups index

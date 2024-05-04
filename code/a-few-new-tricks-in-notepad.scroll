@@ -1,7 +1,7 @@
 import header.scroll
 title A few new Tricks in Notepad++
 
-startColumns 2
+thinColumns 2
 date 2011-3-12
 
 groups index

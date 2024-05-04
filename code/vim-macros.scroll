@@ -1,7 +1,7 @@
 import header.scroll
 title vim macros
 
-startColumns 2
+thinColumns 2
 date 2010-3-9
 
 groups index

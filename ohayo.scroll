@@ -4,7 +4,7 @@ groups All TreeNotation Programming Startups
 import header.scroll
 title Ohayo
 
-startColumns 2
+thinColumns 2
 
 I just pushed a project I've been working on called Ohayo.
  https://ohayo.computer Ohayo

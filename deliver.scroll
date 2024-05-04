@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Deliver
 
-startColumns 2
+thinColumns 2
 
 comment
  "roods" is NOT a typo. Or if it is a typo, it was a typo present in the original book as well.

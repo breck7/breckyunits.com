@@ -4,7 +4,7 @@ groups All BipolarDisorder
 import header.scroll
 title Focusing on Bipolar Disorder
 
-import mediumColumns.scroll
+mediumColumns 1
 
 Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
  dateline

@@ -1,7 +1,7 @@
 import header.scroll
 title Learn Symbolic Links in 30 seconds
 
-startColumns 2
+thinColumns 2
 date 2010-0-5
 
 groups index

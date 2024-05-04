@@ -3,7 +3,7 @@ groups All IntellectualFreedom
 
 import header.scroll
 title A Public Domain Human
-startColumns 2
+thinColumns 2
 
 # Open sourcing more of my life for honesty
 

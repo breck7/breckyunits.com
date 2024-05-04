@@ -4,7 +4,7 @@ groups All Society
 import header.scroll
 title The Great Bank Robbery
 
-startColumns 2
+thinColumns 2
 
 If you are poor, your money could be safer under the mattress than in the bank:
  dateline

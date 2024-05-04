@@ -3,8 +3,9 @@ groups All Thinking Society
 
 import header.scroll
 title How Old Are These Keys? Five Eras of Human Progress
-startColumns 2
+thinColumns 2
 image keyboard/screenshot.png
+ link keyboard/index.html
  caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
   link keyboard/index.html Try it yourself
 

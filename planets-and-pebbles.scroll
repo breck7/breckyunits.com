@@ -4,7 +4,7 @@ related bigOsKitchen logeracy orders-of-magnitude
 
 import header.scroll
 title Planets and Pebbles
-startColumns 1
+thinColumns 1
 
 For todo lists, I created a system I call planets and pebbles.
  dateline

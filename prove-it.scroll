@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Prove It
 
-startColumns 2
+thinColumns 2
 
 I love that phrase.
  dateline
