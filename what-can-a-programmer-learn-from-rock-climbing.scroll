@@ -1,5 +1,6 @@
 date 2011-03-30
 groups All Programming Life
+related 30000hours twelve-tips-to-master-programming-faster
 
 import header.scroll
 title What can a Programmer learn from Rock Climbing?
@@ -33,8 +34,13 @@ endSnippet
 
 * 10. *Natural gifts play a part.* Some people who practiced for 5,000 hours will be worse than some people who practiced for only 2,000 hours due to genetics and other factors. It would be great if how good you were at something was determined totally by how many hours you've invested. But it's not. However, at the extremes, the number of hours of practice makes a huge difference. The absolute best climbers spend an enormous amount of time practicing. In the middle of the pack, a lot of the difference is just due to luck. I've worked with a wide range of programmers in my (short so far) career. I've worked with really smart ones and some average ones. Some work hard and others aren't so dedicated. The best by far though, possess both the intelligence and the dedication. And I'd probably rather work with the dedicated and average smarts over the brilliant but lazy.
 
+****
+
 # Notes
 - Rock climbing and programming are great complements because rock climbing seems to erase any bad effects on your hands that typing all day can cause.
 - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
+
+# Related Posts
+relatedList
 
 import footer.scroll
