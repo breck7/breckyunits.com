@@ -129,7 +129,7 @@ Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related wo
  link http://akkartik.name/ Kartik
  https://shalabh.com/ Shalabh
  https://twitter.com/warianoguerra Mariano
- https://trellick.work Joe Trellick
+ https://trellick.work Joe
 
 In 1997 Ted Nelson proposed parallel markup.
  https://www.xml.com/pub/a/w3j/s3.nelson.html parallel markup
@@ -139,7 +139,7 @@ quote
  @ Ted Nelson
 
 When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
- https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup" implementation
+ https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup implementation"
  https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
 
 A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
