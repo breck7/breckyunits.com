@@ -1,9 +1,5 @@
 date 2024-05-02
 groups All BipolarDisorder
-openGraphImage energyClock.jpeg
- //
-  The load shedding in Kathmandu reminded me of the roating "clock" in Hunger Games 2.
-  Source: https://www.youtube.com/watch?app=desktop&v=velg-kWXoaY
 
 import header.scroll
 title Energy Clocks
@@ -55,6 +51,14 @@ Then the power went out.
 "Welcome to Kathmandu", she said.
 
 "Each neighborhood gets power for a few hours, then it rotates, like the hand on a clock".
+
+***
+
+image energyClock.jpeg
+ openGraph
+ caption In the movie Hunger Games: Catching Fire, there is an outdoor arena split into 12 slices. Each slice gets turned on for one hour, then power rotates to the next slice. A rotating energy clock.
+  https://www.imdb.com/title/tt1951264/ Hunger Games: Catching Fire
+  // Source: https://www.youtube.com/watch?app=desktop&v=velg-kWXoaY
 
 ***
 
