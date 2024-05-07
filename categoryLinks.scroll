@@ -2,6 +2,7 @@ importOnly
 
 <div class="categoryLinks">
  <a href="index.html">All</a>
+ <a href="search.html">Search</a>
  <a href="programming.html">Programming</a>
  <a href="writing.html">Writing</a>
  <a href="thinking.html">Thinking</a>

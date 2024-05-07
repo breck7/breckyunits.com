@@ -1,6 +1,7 @@
 import header.scroll
 
 title Search Breck's Blog
+import categoryLinks.scroll
 
 wideColumns 2
 printSearchTable All
