@@ -1,5 +1,6 @@
 date 2007-08-24
 groups All Writing Life
+related im-back
 
 import header.scroll
 title I guess the time has come
@@ -17,6 +18,11 @@ But since now I’ll be giving out an email address with BreckYunits.com, it’s
 -Breck
 
 PS, Be the first to email me at my new address: breck@breckyunits.com . See if you can do it before my first botnet spam email arrives!
+
+****
+
+# Related Posts
+relatedList
 
 import importedNote.scroll
 

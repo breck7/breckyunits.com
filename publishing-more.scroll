@@ -1,5 +1,6 @@
 date 2012-11-25
 groups All Writing
+related bloggingAsTherapy im-back
 
 import header.scroll
 title Publishing More
@@ -22,5 +23,10 @@ It's partly to do with standards. I've been trying to make higher quality things
 I've also become somewhat disappointed with the essay form. I am very interested in understanding systems, and I feel words alone don't explain systems well. So I've been practicing my visual and design skills. But I'm basically a beginner and output is slow.
 
 The bottom line is I want to publish more. It forces me to think hard about my opinions, and it opens me up to advice from other people. I think this blog has helped me be less wrong about a lot of things. So here's to another fifty posts.
+
+****
+
+# Related Posts
+relatedList
 
 import footer.scroll
