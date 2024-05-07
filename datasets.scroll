@@ -118,9 +118,7 @@ And now I have a dataset to test all future models against.
 - Tabular UIs have superior ergonomics for humans because they allow more efficient eye movement and require fewer tokens to manage.
 - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
 
-<br><br>
----
-<br><br>
+****
 
 # Footnotes
 
@@ -163,8 +161,6 @@ thinColumns 1
 // in a new language
 
 <br><br>
-
----
 
 # Footnotes²
 ^liberties There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
@@ -217,5 +213,9 @@ thinColumns 1
 // # Why concepts and measures?
 // # Ergonomics
 // Reading Speed vs Modeling Speed
+
+# Related Posts
+relatedList
+related dataset-needed
 
 import footer.scroll

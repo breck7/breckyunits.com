@@ -2,9 +2,8 @@ date 10/15/2022
 groups All
 
 import header.scroll
+mediumColumns 1
 title Training a neural network to spot misinformation and fake news from a single image
-
-thinColumns 2
 
 image misinformationOrFakeNews.jpg
  openGraph
@@ -13,5 +12,7 @@ Today I'm announcing the release of the image above, which is sufficient trainin
  dateline
 
 These empirical results match the theory that the whole truth and nothing but the truth would not contain a (c).
+
+****
 
 import footer.scroll

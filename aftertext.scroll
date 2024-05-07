@@ -171,6 +171,8 @@ I may also be overvaluing the importance of universal parsibility. I value forma
 Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets _its own scope_ and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
  https://treenotation.org/ Tree Notation
 
+****
+
 # Notes
 
 - There's no reason it has to be "Aftertext". The markups could come before the text too.

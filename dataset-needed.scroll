@@ -37,8 +37,14 @@ Many teams are creating tools that make it easy to deep link to queries over ope
 # Students: Learn to build and publish datasets
 I remember being a high school student and getting graded on our dataset notebooks we made in the lab. Writing clean data should be widely taught in school, and there's an army of potential workers who could help us create more public, deep-linkable datasets.
 
+****
+
 # Notes
 Thanks to DL for helping me refine my thinking from this earlier post.
- https://breckyunits.com/dreaming-of-a-data-checked-language.html earlier post
+ link dreaming-of-a-data-checked-language.html earlier post
+
+# Related Posts
+relatedList
+related datasets dreaming-of-a-data-checked-language
 
 import footer.scroll

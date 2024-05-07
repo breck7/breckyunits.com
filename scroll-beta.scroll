@@ -3,7 +3,7 @@ groups All TreeNotation Programming Writing
 
 import header.scroll
 title Scroll Beta
-thinColumns 2
+mediumColumns 1
 
 Today I'm launching the beta of something new called Scroll.
  https://github.com/publicdomaincompany/scroll Scroll
@@ -23,5 +23,7 @@ Second, Scroll is a Tree Language. Unlike Markdown, Scroll is easily extensible.
  https://treenotation.org Tree Language
 
 I've had fun building Scroll so far and am excited to start working on it with others.
+
+****
 
 import footer.scroll
