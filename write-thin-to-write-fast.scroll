@@ -4,6 +4,8 @@ groups All Writing
 import header.scroll
 title Write Thin to Write Fast
 
+byLine
+
 thinColumns 2
 
 comment
