@@ -4,7 +4,7 @@ groups All Society
 import header.scroll
 title The Great Bank Robbery
 
-thinColumns 2
+mediumColumns 1
 
 If you are poor, your money could be safer under the mattress than in the bank:
  dateline
@@ -21,8 +21,9 @@ If a bank wants to charge someone a fee, that's fine, just require they send tha
 
 What would happen to the statistic above, if instead of silently and automatically taking money from people's accounts, banks had to work for it?
 
-# Sources
+****
 
+# Sources
 Moebs via wayback machine
  link moebs.pdf Moebs
  https://web.archive.org/web/20121004061537/http://www.moebs.com/Portals/0/pdf/Press%20Releases/120919%20PR%20OD%20v3.5.pdf wayback machine

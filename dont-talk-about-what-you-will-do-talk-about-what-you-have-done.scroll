@@ -45,10 +45,10 @@ image path6.png
 
 What do you do? Do you say:
 
-- 1. Dirt
-- 2. Grass
-- 3. I don't know. It could be either dirt or grass, or maybe something else entirely.
-- 4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
+1. Dirt
+2. Grass
+3. I don't know. It could be either dirt or grass, or maybe something else entirely.
+4. I don't know. I've been walking on grass. Not sure what I'll be walking on in the future.
 
 In my opinion you should say something like 3 or 4.
 
@@ -56,6 +56,12 @@ This second example models real life better. _The future is always foggy_.
 
 ? Why is the future foggy?
 I don't know. Maybe a physicist could answer that question, but I don't know the answer. And I don't think I ever will.
+
+****
+
+# Related Posts
+relatedList
+related prove-it
 
 # Notes
 1. In other words, don't overpromise and underdeliver.

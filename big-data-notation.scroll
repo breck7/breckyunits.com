@@ -3,7 +3,7 @@ groups All Programming Thinking
 
 import header.scroll
 title Big Data Notation
-thinColumns 2
+thinColumns 1
 
 # A Suggestion for a Simple Notation
 
@@ -22,5 +22,7 @@ This occurred to me recently as I just started following Big Data on Quora and w
  http://en.wikipedia.org/wiki/Big_data Wikipedia defines Big Data
 
 I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
+
+****
 
 import footer.scroll

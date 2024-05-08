@@ -4,7 +4,7 @@ groups All Thinking Society
 import header.scroll
 title Recommendations Are Far From Good
 
-thinColumns 2
+thinColumns 1
 
 Doctors used to recommend leeches to cure a whole variety of illnesses. That seems laughable today. But I think our recommendations today will be laughable to people in the future.
  dateline
@@ -21,5 +21,7 @@ So many cures and medicines work for a certain percentage of people, but for som
 People are quite similar, but they are also quite different and react to different things in different ways. I think we are a long way away from seeing breakthroughs in recommendations.
 
 Recommendations are great business, but I think we're 2 or 3 orders of magnitude away from where they could be, and it could take decades(or never) to reach those levels.
+
+****
 
 import footer.scroll

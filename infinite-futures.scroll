@@ -4,7 +4,7 @@ groups All Life Thinking
 import header.scroll
 title Infinite Futures
 
-thinColumns 2
+thinColumns 1
 
 You shouldn't plan for _the_ future. You should plan for *one of many* futures.
  dateline
@@ -16,5 +16,7 @@ In the movie "Back to the Future II", the main character Marty, after traveling 
 Marty was like the kid who stole the answer key to an SAT but still failed. There are many versions of the test.
 
 There are infinite futures. Prepare for them all!
+
+****
 
 import footer.scroll

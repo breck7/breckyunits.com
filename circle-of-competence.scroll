@@ -4,7 +4,7 @@ groups All Life
 import header.scroll
 title Circle of Competence
 
-thinColumns 2
+thinColumns 1
 
 Warren Buffet claims to follow an investment strategy of staying within his "circle of competence". That's why he doesn't invest in high tech--it's outside his circle.
  dateline
@@ -17,5 +17,7 @@ Here are my initial thoughts:
 2. Do what you're good at as opposed to what you want to do. Our economy rewards specialization. You want to work on interesting problems, but it pays better to work on things you've done before. Use that money to explore the things you want to do.
 3. Be a big fish in a small circle.
 4. Spend time outside your circle, but expand it slowly. Definitely work hard to improve your skill set but don't overreach. It's better to have a solid core and build momentum from that than to be marginal in a lot of areas.
+
+****
 
 import footer.scroll

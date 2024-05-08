@@ -46,4 +46,6 @@ I always wanted to try my hand at writing an academic paper. So I put the announ
 Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
  https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
 
+****
+
 import footer.scroll

@@ -4,7 +4,7 @@ groups All Thinking Programming
 import header.scroll
 title The Churn Rate of Data
 
-thinColumns 2
+thinColumns 1
 
 I think it's interesting to ponder the value of information over it's lifetime.
  dateline
@@ -20,5 +20,7 @@ What information holds value the longest? What are the "twinkies" of the data wo
 Books, it seems. We don't regularly read old weather forecasts, census rolls, or newspapers, but we definitely still read great books, from Aristotle to Shakespeare to Mill.
 
 Facts and numbers have a high churn rate, but stories and knowledge last a lot longer.
+
+****
 
 import footer.scroll
