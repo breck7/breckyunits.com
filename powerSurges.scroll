@@ -1,5 +1,6 @@
 date 2/3/2024
 groups All BipolarDisorder
+related theEnergyClock
 
 import header.scroll
 title Becoming a High Energy Person
@@ -72,6 +73,5 @@ I believe science is the way to figure this out, but it sure is taking a while.
 
 # Related Posts
 relatedList
-related theEnergyClock
 
 import footer.scroll

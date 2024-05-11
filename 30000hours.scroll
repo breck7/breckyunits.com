@@ -1,9 +1,9 @@
+date 7/18/2019
 groups All Programming Life HasDataset
+related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
 
 import header.scroll
 title 30,000 Hours
-related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
-date 7/18/2019
 
 mediumColumns 1
 
@@ -58,7 +58,7 @@ These busy coders answered my cold emails with not just a number but many encour
 One of my favorite responses was from Peter Norvig, who sent me a Python program computing his estimate:
 
 code
- # sum(years *  (hours/week)) * (weeks/year) 
+ # sum(years *  (hours/week)) * (weeks/year)
  
  (4 * 10 # college
  + 2 * 30 # first job

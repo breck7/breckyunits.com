@@ -1,6 +1,7 @@
 date 2010-07-02
 groups All Programming Startups
 permalink design-matters-a-lot.html
+related the-truth-about-web-design
 
 import header.scroll
 title Design Matters. A lot.
@@ -56,7 +57,6 @@ Great engineering can't compensate for poor design just as great design can't co
 
 # Related Posts
 relatedList
-related the-truth-about-web-design
 
 # Notes
 - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.

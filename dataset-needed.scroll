@@ -1,5 +1,6 @@
 date 2020-01-23
 groups All Data Thinking Society Writing
+related datasets dreaming-of-a-data-checked-language
 
 import header.scroll
 title Dataset Needed
@@ -45,6 +46,5 @@ Thanks to DL for helping me refine my thinking from this earlier post.
 
 # Related Posts
 relatedList
-related datasets dreaming-of-a-data-checked-language
 
 import footer.scroll

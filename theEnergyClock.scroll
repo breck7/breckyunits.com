@@ -1,5 +1,6 @@
 date 2024-05-02
 groups All BipolarDisorder
+related powerSurges
 
 import header.scroll
 title Energy Clocks
@@ -195,6 +196,5 @@ Maybe workers can fix the bipolar energy clock too.
 
 # Related Posts
 relatedList
-related powerSurges
 
 import footer.scroll

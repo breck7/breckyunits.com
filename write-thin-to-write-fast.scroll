@@ -1,5 +1,6 @@
 date 2021-10-15
 groups All Writing HasDataset
+
 // the dataset is the NYTimes
 
 import header.scroll
@@ -81,7 +82,7 @@ But moving your eyes takes work. It might not seem like a lot to the amateur but
 
 If your columns are really wide, then you are not just moving your eyes, you are moving your head.
 
-The difference might not seem like much for one line, but if you read 1,000 lines, that energy adds up! 
+The difference might not seem like much for one line, but if you read 1,000 lines, that energy adds up!
 
 Nodding your head left and right once is easy. Doing it 2,000 times is tiring!
 

@@ -1,5 +1,6 @@
 date 2019-08-19
 groups All Writing Society Data
+related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
 
 import header.scroll
 title English cannot encode Real News
@@ -74,6 +75,5 @@ Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the
 
 # Related Posts
 relatedList
-related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
 
 import footer.scroll
