@@ -1,5 +1,6 @@
 date 2021-10-15
-groups All Writing
+groups All Writing HasDataset
+// the dataset is the NYTimes
 
 import header.scroll
 title Write Thin to Write Fast
