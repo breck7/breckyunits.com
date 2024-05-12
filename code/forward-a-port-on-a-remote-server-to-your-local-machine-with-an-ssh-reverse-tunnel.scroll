@@ -1,12 +1,13 @@
+date 2011-0-4
+groups index
+permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
+
 import header.scroll
 title Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
 
 thinColumns 2
-date 2011-0-4
 
-groups index
 keyboardNav
-permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
 
 Say you are running a web server locally and want to show it to someone else remotely.
  dateline

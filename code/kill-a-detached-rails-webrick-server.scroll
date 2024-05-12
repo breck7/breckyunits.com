@@ -1,12 +1,13 @@
+date 2010-8-9
+groups index
+permalink kill-a-detached-rails-webrick-server.html
+
 import header.scroll
 title Kill a Detached Rails Webrick Server
 
 thinColumns 2
-date 2010-8-9
 
-groups index
 keyboardNav
-permalink kill-a-detached-rails-webrick-server.html
 
 From your rails app's root:
  dateline

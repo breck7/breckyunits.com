@@ -1,12 +1,13 @@
+date 2011-7-17
+groups index
+permalink bash-history.html
+
 import header.scroll
 title Bash History
 
 thinColumns 2
-date 2011-7-17
 
-groups index
 keyboardNav
-permalink bash-history.html
 
 Understanding and mastering bash history can:
  dateline

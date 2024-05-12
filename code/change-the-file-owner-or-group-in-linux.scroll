@@ -1,12 +1,13 @@
+date 2010-1-8
+groups index
+permalink change-the-file-owner-or-group-in-linux.html
+
 import header.scroll
 title Change the file owner or group in Linux
 
 thinColumns 2
-date 2010-1-8
 
-groups index
 keyboardNav
-permalink change-the-file-owner-or-group-in-linux.html
 
 Change the owner of a file or folder:
  dateline

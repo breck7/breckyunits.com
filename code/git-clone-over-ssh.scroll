@@ -1,10 +1,11 @@
+date 07/08/2021
+groups index
+
 import header.scroll
 title Git Clone over SSH
 
 thinColumns 2
-date 07/08/2021
 
-groups index
 keyboardNav
 
 Using Git with your own servers—without a hub like GitHub or GitLab—is easy. This is the straightforward, quick and dirty way with no new concepts to learn. There are more advanced ways (like -bare), but I find 4 times out of 5 I just need a quick way to sync repos between machines.

@@ -1,12 +1,13 @@
+date 2010-5-29
+groups index
+permalink insert-a-line-of-text-to-the-top-of-a-file.html
+
 import header.scroll
 title Insert a line of text to the top of a file
 
 thinColumns 2
-date 2010-5-29
 
-groups index
 keyboardNav
-permalink insert-a-line-of-text-to-the-top-of-a-file.html
 
 If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
  dateline

@@ -1,12 +1,13 @@
+date 2011-7-9
+groups index
+permalink basic-linux-monitoring.html
+
 import header.scroll
 title Basic Linux Monitoring
 
 thinColumns 2
-date 2011-7-9
 
-groups index
 keyboardNav
-permalink basic-linux-monitoring.html
 
 Show memory usage:
  dateline

@@ -1,12 +1,13 @@
+date 2009-11-22
+groups index
+permalink use-grep-to-search-multiple-files-at-once.html
+
 import header.scroll
 title Use grep to search multiple files at once
 
 thinColumns 2
-date 2009-11-22
 
-groups index
 keyboardNav
-permalink use-grep-to-search-multiple-files-at-once.html
 
 `grep` lets you search through multiple text files at once.
  dateline
@@ -47,6 +48,5 @@ code
 # Links
 - <a href="https://en.wikipedia.org/wiki/Grep">grep</a> on Wikipedia
 - <a href="https://stackoverflow.com/questions/221921/grep-exclude-include-syntax-do-not-grep-through-certain-files">Stackoverflow</a> grep help
-
 
 import footer.scroll

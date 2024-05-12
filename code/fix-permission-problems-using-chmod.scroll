@@ -1,12 +1,13 @@
+date 2009-11-25
+groups index
+permalink fix-permission-problems-using-chmod.html
+
 import header.scroll
 title Fix permission problems using chmod
 
 thinColumns 2
-date 2009-11-25
 
-groups index
 keyboardNav
-permalink fix-permission-problems-using-chmod.html
 
 Permission problems driving you crazy? Here's a common command to fix them:
  dateline

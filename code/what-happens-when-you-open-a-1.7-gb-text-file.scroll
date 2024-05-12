@@ -1,12 +1,13 @@
+date 2011-5-27
+groups index
+permalink what-happens-when-you-open-a-1.7-gb-text-file.html
+
 import header.scroll
 title What Happens When you Open a 1.7 GB text file?
 
 thinColumns 2
-date 2011-5-27
 
-groups index
 keyboardNav
-permalink what-happens-when-you-open-a-1.7-gb-text-file.html
 
 I downloaded the Verisign Master .com TLD zone file which weighs in at a hefty 1.7 GB. What happens when I open it with different programs on my Windows 7 Samsung netbook?
  dateline

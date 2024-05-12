@@ -1,12 +1,13 @@
+date 2010-2-1
+groups index
+permalink linux-go-back-to-previous-directory.html
+
 import header.scroll
 title Linux Go Back to Previous Directory
 
 thinColumns 2
-date 2010-2-1
 
-groups index
 keyboardNav
-permalink linux-go-back-to-previous-directory.html
 
 code
  cd -

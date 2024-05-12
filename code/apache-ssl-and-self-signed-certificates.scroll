@@ -1,12 +1,13 @@
+date 2011-8-14
+groups index
+permalink apache-ssl-and-self-signed-certificates.html
+
 import header.scroll
 title Apache, SSL and self signed certificates
 
 thinColumns 2
-date 2011-8-14
 
-groups index
 keyboardNav
-permalink apache-ssl-and-self-signed-certificates.html
 
 Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
  dateline
@@ -15,7 +16,7 @@ Here's what it boils down to:
 
 code
  # The cool thing about SSL is it's just 2 text files. A public key and a private key.
- # They have a "pem" and a "crt" extension, but they are just plain text. Neat. 
+ # They have a "pem" and a "crt" extension, but they are just plain text. Neat.
  
  # Okay, first step is to create a private key "pem" file.
  # every time you run this the random output pem file will be different:
@@ -52,7 +53,5 @@ code
  SSLEngine on
  SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
-
-
 
 import footer.scroll

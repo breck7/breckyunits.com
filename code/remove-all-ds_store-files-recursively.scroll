@@ -1,12 +1,13 @@
+date 2010-9-29
+groups index
+permalink remove-all-ds_store-files-recursively.html
+
 import header.scroll
 title Remove all DS_Store files recursively
 
 thinColumns 2
-date 2010-9-29
 
-groups index
 keyboardNav
-permalink remove-all-ds_store-files-recursively.html
 
 code
  find . -type f -name ".DS_Store" -exec rm {} \;

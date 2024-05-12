@@ -1,12 +1,13 @@
+date 2010-6-30
+groups index
+permalink windows-flush-dns.html
+
 import header.scroll
 title Windows Flush DNS
 
 thinColumns 2
-date 2010-6-30
 
-groups index
 keyboardNav
-permalink windows-flush-dns.html
 
 Open cmd.exe. Run:
  dateline

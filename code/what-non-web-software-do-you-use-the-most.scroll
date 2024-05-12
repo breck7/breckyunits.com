@@ -1,27 +1,28 @@
+date 2009-11-26
+groups index
+permalink what-non-web-software-do-you-use-the-most.html
+
 import header.scroll
 title What non-web software do you use the most?
 
 thinColumns 2
-date 2009-11-26
 
-groups index
 keyboardNav
-permalink what-non-web-software-do-you-use-the-most.html
 
-Here are the programs I use everyday, every week, and every month. 
+Here are the programs I use everyday, every week, and every month.
  dateline
 
 What software do you use the most? What are your "must haves"?
 
 # My Machines
 
-My primary development machine is a basic Compaq laptop with 4GB, 230GB, x2 Core Athlon, running Windows Vista/7. 
+My primary development machine is a basic Compaq laptop with 4GB, 230GB, x2 Core Athlon, running Windows Vista/7.
 
-My secondary machine is an Asus EEE netbook with XP which is great for working on the road, at a coffee shop, or on a plane. 
+My secondary machine is an Asus EEE netbook with XP which is great for working on the road, at a coffee shop, or on a plane.
 
 Most of our servers are slices from slicehost running Fedora.
 
-On all my development machines I run Cygwin. Programs I run in Cygwin are noted by *. 
+On all my development machines I run Cygwin. Programs I run in Cygwin are noted by *.
 
 The following is a list of the programs I use on my development machines.
 
@@ -34,7 +35,7 @@ The following is a list of the programs I use on my development machines.
 - <b>Chrome</b>. I spend most of my web time in Chrome. It's lighting fast. It's also simple. Tabs are done incredibly well.
 - <b>Firefox</b>. Still need this guy. The extensions are great. Firebug and the Web Developer's Extension I use at least weekly, close to daily. It's also nice to have 2 browsers going if you want to log in to the same site with 2 different accounts.
 - <b>Skype</b>. I don't use a cellphone, believe it or not. My Google Voice number points to my Skype In number. Skype allows me to not have a cellphone, which I greatly appreciate. My sister can call me from the Middle East just as easily and for the same price that my neighbors can call me from down the street.
-- <b>*Vim</b>. The only Nix editor I know and love. Vim took me a while to learn, but is becoming more and more indispensable the better I get at "typing in Vim". 
+- <b>*Vim</b>. The only Nix editor I know and love. Vim took me a while to learn, but is becoming more and more indispensable the better I get at "typing in Vim".
 - <b>*Git</b>. Easy to use version control that makes sense. Paired with github, becomes indispensable.
 - <b>*Rsync</b>. Great for deploying simple websites and for downloading backups.
 - <b>*Grep</b>. Great when you need to track down a word or line across multiple files.
@@ -46,13 +47,13 @@ The following is a list of the programs I use on my development machines.
 # Weekly
 
 - <b>Navicat</b>. Great way to keep an eye on databases. I also like it for creating and editing schemas. Find it easier to visualize a schema than to code it out.
-- <b>Filezilla</b>. Occasionally when I just want to drag and drop some things from or to a server. 
+- <b>Filezilla</b>. Occasionally when I just want to drag and drop some things from or to a server.
 - <b>Photoshop</b>. I use an old version of Photoshop which is still way to advanced for me. But it's fast and gets the job done.
 - <b>7zip</b>. "Extract to here" is a great little feature that it adds to the right click menu.
 - <b>Word & Excel 2007</b>. Solid programs. Too bulky for my liking, but necessary in many cases.
 
 # Monthly
 
-- <b>Visual Studio</b>. When I get an urge to write a new desktop program. 
+- <b>Visual Studio</b>. When I get an urge to write a new desktop program.
 
 import footer.scroll

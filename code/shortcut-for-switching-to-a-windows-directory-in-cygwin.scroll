@@ -1,12 +1,13 @@
+date 2010-1-1
+groups index
+permalink shortcut-for-switching-to-a-windows-directory-in-cygwin.html
+
 import header.scroll
 title Shortcut for switching to a Windows directory in Cygwin
 
 thinColumns 2
-date 2010-1-1
 
-groups index
 keyboardNav
-permalink shortcut-for-switching-to-a-windows-directory-in-cygwin.html
 
 In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
  dateline
@@ -20,7 +21,7 @@ code
  echo $1
  newpath=$(echo $1 | sed 's|\\|/|g' | sed 's|:||g' | sed 's|^C|/cygdrive/c|')
  echo $newpath
- cd "$newpath" 
+ cd "$newpath"
 
 The echos are just for debugging--I'm kind of new to bash scripting. Feel free to remove.
 

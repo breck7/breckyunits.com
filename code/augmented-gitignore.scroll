@@ -1,12 +1,13 @@
+date 2010-8-4
+groups index
+permalink augmented-gitignore.html
+
 import header.scroll
 title Augmented Gitignore
 
 thinColumns 2
-date 2010-8-4
 
-groups index
 keyboardNav
-permalink augmented-gitignore.html
 
 code
  .bundle

@@ -1,12 +1,13 @@
+date 2011-10-06
+groups index
+permalink find-big-files-in-linux.html
+
 import header.scroll
 title Find big files in Linux
 
 thinColumns 2
-date 2011-10-06
 
-groups index
 keyboardNav
-permalink find-big-files-in-linux.html
 
 * _Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
  dateline

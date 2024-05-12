@@ -1,12 +1,13 @@
+date 2010-8-13
+groups index
+permalink vim-and-rails.html
+
 import header.scroll
 title VIM and Rails
 
 thinColumns 2
-date 2010-8-13
 
-groups index
 keyboardNav
-permalink vim-and-rails.html
 
 Check out this guide.
  https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide guide

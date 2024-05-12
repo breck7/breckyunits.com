@@ -1,14 +1,15 @@
+date 2011-7-3
+groups index
+permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
+
 import header.scroll
 title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 
 thinColumns 2
-date 2011-7-3
 
-groups index
 keyboardNav
-permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
 
-I want my HAML files to have PHP(or Ruby) syntax highlighting. 
+I want my HAML files to have PHP(or Ruby) syntax highlighting.
  dateline
 
 Settings > Style Configurator

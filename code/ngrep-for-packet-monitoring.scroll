@@ -1,12 +1,13 @@
+date 2011-7-13
+groups index
+permalink ngrep-for-packet-monitoring.html
+
 import header.scroll
 title ngrep for packet monitoring
 
 thinColumns 2
-date 2011-7-13
 
-groups index
 keyboardNav
-permalink ngrep-for-packet-monitoring.html
 
 I just came across a neat command line tool, ngrep, via this <a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">site</a>.
  dateline

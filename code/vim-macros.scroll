@@ -1,12 +1,13 @@
+date 2010-3-9
+groups index
+permalink vim-macros.html
+
 import header.scroll
 title vim macros
 
 thinColumns 2
-date 2010-3-9
 
-groups index
 keyboardNav
-permalink vim-macros.html
 
 Let's say you want to add comments to your php functions following the conventional format:
  dateline

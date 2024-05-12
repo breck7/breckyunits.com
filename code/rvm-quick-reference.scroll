@@ -1,12 +1,13 @@
+date 2011-0-12
+groups index
+permalink rvm-quick-reference.html
+
 import header.scroll
 title RVM Quick Reference
 
 thinColumns 2
-date 2011-0-12
 
-groups index
 keyboardNav
-permalink rvm-quick-reference.html
 
 Return to the Mac OS X default Ruby install:
  dateline

@@ -1,12 +1,13 @@
+date 2010-3-10
+groups index
+permalink gca-alias-for-faster-git.html
+
 import header.scroll
 title gca alias for faster git
 
 thinColumns 2
-date 2010-3-10
 
-groups index
 keyboardNav
-permalink gca-alias-for-faster-git.html
 
 One of my most frequent commands is:
  dateline

@@ -1,12 +1,13 @@
+date 2010-3-10
+groups index
+permalink recursive-ls.html
+
 import header.scroll
 title Recursive ls
 
 thinColumns 2
-date 2010-3-10
 
-groups index
 keyboardNav
-permalink recursive-ls.html
 
 Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
  dateline

@@ -1,12 +1,13 @@
+date 2010-0-21
+groups index
+permalink use-scp-to-download-a-file-from-a-server.html
+
 import header.scroll
 title Use scp to download a file from a server
 
 thinColumns 2
-date 2010-0-21
 
-groups index
 keyboardNav
-permalink use-scp-to-download-a-file-from-a-server.html
 
 You can easily grab a file off a server from the command line using secure copy:
  dateline

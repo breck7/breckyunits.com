@@ -1,12 +1,13 @@
+date 2010-2-25
+groups index
+permalink the-bash-programming-language.html
+
 import header.scroll
 title The BASH Programming Language
 
 thinColumns 2
-date 2010-2-25
 
-groups index
 keyboardNav
-permalink the-bash-programming-language.html
 
 I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
  dateline

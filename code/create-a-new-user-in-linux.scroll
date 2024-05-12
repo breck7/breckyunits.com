@@ -1,12 +1,13 @@
+date 2010-0-5
+groups index
+permalink create-a-new-user-in-linux.html
+
 import header.scroll
 title Create a new user in Linux
 
 thinColumns 2
-date 2010-0-5
 
-groups index
 keyboardNav
-permalink create-a-new-user-in-linux.html
 
 Creating a new user in Linux is dead simple.
  dateline

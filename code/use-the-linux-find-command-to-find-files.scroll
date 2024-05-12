@@ -1,12 +1,13 @@
+date 2009-11-25
+groups index
+permalink use-the-linux-find-command-to-find-files.html
+
 import header.scroll
 title Use the linux find command to find files
 
 thinColumns 2
-date 2009-11-25
 
-groups index
 keyboardNav
-permalink use-the-linux-find-command-to-find-files.html
 
 Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
  dateline

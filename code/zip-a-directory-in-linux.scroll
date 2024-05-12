@@ -1,12 +1,13 @@
+date 2011-8-9
+groups index
+permalink zip-a-directory-in-linux.html
+
 import header.scroll
 title zip a directory in linux
 
 thinColumns 2
-date 2011-8-9
 
-groups index
 keyboardNav
-permalink zip-a-directory-in-linux.html
 
 code
  zip -r backup mydir/

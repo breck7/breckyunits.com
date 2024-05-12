@@ -1,12 +1,13 @@
+date 2011-7-8
+groups index
+permalink creating-a-bootable-linux-usb-disk-on-mac.html
+
 import header.scroll
 title Creating a bootable Linux USB disk on Mac
 
 thinColumns 2
-date 2011-7-8
 
-groups index
 keyboardNav
-permalink creating-a-bootable-linux-usb-disk-on-mac.html
 
 - Download the ISO
 - Convert iso to img on terminal:

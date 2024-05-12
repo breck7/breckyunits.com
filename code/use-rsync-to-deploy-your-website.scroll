@@ -1,12 +1,13 @@
+date 2009-11-21
+groups index
+permalink use-rsync-to-deploy-your-website.html
+
 import header.scroll
 title Use rsync to deploy your website
 
 thinColumns 2
-date 2009-11-21
 
-groups index
 keyboardNav
-permalink use-rsync-to-deploy-your-website.html
 
 `rsync` is a nifty little tool that can deploy a website to a testing or production server.
  dateline
@@ -16,7 +17,7 @@ Here's a one line command to deploy brecksblog:
 code
  rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
 
-This one line will do a fast, incremental file transfer from my local directory to the web server. 
+This one line will do a fast, incremental file transfer from my local directory to the web server.
 
 I saved this file as "deploy", and then run it by typing:
 
@@ -39,8 +40,7 @@ This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 - u: update only (don't overwrite newer files - if you have edited files in destination)
 - z: compress file data
 
-
-# Notes 
+# Notes
 
 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
 

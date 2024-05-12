@@ -1,12 +1,13 @@
+date 2010-0-11
+groups index
+permalink turn-off-bell-in-cygwin.html
+
 import header.scroll
 title Turn off bell in cygwin
 
 thinColumns 2
-date 2010-0-11
 
-groups index
 keyboardNav
-permalink turn-off-bell-in-cygwin.html
 
 The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
  dateline

@@ -1,12 +1,13 @@
+date 2010-3-1
+groups index
+permalink pwd-while-in-a-symlink-directory.html
+
 import header.scroll
 title pwd while in a symlink directory
 
 thinColumns 2
-date 2010-3-1
 
-groups index
 keyboardNav
-permalink pwd-while-in-a-symlink-directory.html
 
 To get the actual directory, run:
  dateline

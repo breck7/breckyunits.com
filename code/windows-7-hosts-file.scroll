@@ -1,12 +1,13 @@
+date 2010-8-14
+groups index
+permalink windows-7-hosts-file.html
+
 import header.scroll
 title Windows 7 Hosts File
 
 thinColumns 2
-date 2010-8-14
 
-groups index
 keyboardNav
-permalink windows-7-hosts-file.html
 
 The file is located at:
  dateline

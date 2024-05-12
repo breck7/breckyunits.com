@@ -1,12 +1,13 @@
+date 2010-0-29
+groups index
+permalink new-tricks-in-vim.html
+
 import header.scroll
 title New tricks in Vim
 
 thinColumns 2
-date 2010-0-29
 
-groups index
 keyboardNav
-permalink new-tricks-in-vim.html
 
 I learned some new tricks with vim today.
  dateline

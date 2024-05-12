@@ -1,12 +1,13 @@
+date 2010-0-30
+groups index
+permalink cygwin-treats-the-windows-clipboard-like-a-file.html
+
 import header.scroll
 title Cygwin treats the Windows Clipboard like a file
 
 thinColumns 2
-date 2010-0-30
 
-groups index
 keyboardNav
-permalink cygwin-treats-the-windows-clipboard-like-a-file.html
 
 In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
  dateline
@@ -20,7 +21,6 @@ Want to print the contents of the clipboard?
 
 code
  cat /dev/clipboard
-
 
 # Notes
 

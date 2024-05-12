@@ -1,12 +1,13 @@
+date 2010-3-10
+groups index
+permalink dump-mysql-schema-only.html
+
 import header.scroll
 title Dump MySQL schema only
 
 thinColumns 2
-date 2010-3-10
 
-groups index
 keyboardNav
-permalink dump-mysql-schema-only.html
 
 I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
  dateline

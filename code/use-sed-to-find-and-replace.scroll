@@ -1,12 +1,13 @@
+date 2010-0-20
+groups index
+permalink use-sed-to-find-and-replace.html
+
 import header.scroll
 title Use sed to find and replace
 
 thinColumns 2
-date 2010-0-20
 
-groups index
 keyboardNav
-permalink use-sed-to-find-and-replace.html
 
 `grep` is to find what `sed` is to replace.
  link use-grep-to-search-multiple-files-at-once.html grep

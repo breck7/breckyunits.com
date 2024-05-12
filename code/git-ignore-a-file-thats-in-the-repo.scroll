@@ -1,12 +1,13 @@
+date 2010-10-3
+groups index
+permalink git-ignore-a-file-thats-in-the-repo.html
+
 import header.scroll
 title Git ignore a file that's in the repo
 
 thinColumns 2
-date 2010-10-3
 
-groups index
 keyboardNav
-permalink git-ignore-a-file-thats-in-the-repo.html
 
 Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:
  dateline

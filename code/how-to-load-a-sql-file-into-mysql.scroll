@@ -1,12 +1,13 @@
+date 2010-1-6
+groups index
+permalink how-to-load-a-sql-file-into-mysql.html
+
 import header.scroll
 title How to load a sql file into MySql
 
 thinColumns 2
-date 2010-1-6
 
-groups index
 keyboardNav
-permalink how-to-load-a-sql-file-into-mysql.html
 
 It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
  dateline

@@ -1,12 +1,13 @@
+date 2010-2-21
+groups index
+permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
+
 import header.scroll
 title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 
 thinColumns 2
-date 2010-2-21
 
-groups index
 keyboardNav
-permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
 
 I've been getting this error a lot in Cygwin on Windows 7:
  dateline

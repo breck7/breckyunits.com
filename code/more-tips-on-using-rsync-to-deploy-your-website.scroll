@@ -1,12 +1,13 @@
+date 2010-2-3
+groups index
+permalink more-tips-on-using-rsync-to-deploy-your-website.html
+
 import header.scroll
 title More tips on using rsync to deploy your website
 
 thinColumns 2
-date 2010-2-3
 
-groups index
 keyboardNav
-permalink more-tips-on-using-rsync-to-deploy-your-website.html
 
 My post on <a href="use-rsync-to-deploy-your-website.html">deploying a website using rsync</a> has gotten quite a few hits.
  dateline

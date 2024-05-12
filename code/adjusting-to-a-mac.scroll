@@ -1,12 +1,13 @@
+date 2010-10-2
+groups index
+permalink adjusting-to-a-mac.html
+
 import header.scroll
 title Adjusting to a Mac
 
 thinColumns 2
-date 2010-10-2
 
-groups index
 keyboardNav
-permalink adjusting-to-a-mac.html
 
 For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.
  dateline
@@ -17,11 +18,11 @@ I've downloaded a program called <a href="http://www.irradiatedsoftware.com/size
 
 Firefox is my favorite of the 3 browsers on the Mac. I loved Chrome on Windows because it was so fast, but this Air is so blazing fast that running Firefox or Chrome on Mac makes little difference.
 
-I've added the Secret Preferences menu and turned "show all hidden files and folders" on. I hate not seeing everything in a folder. 
+I've added the Secret Preferences menu and turned "show all hidden files and folders" on. I hate not seeing everything in a folder.
 
-I created an alias "dsdelete" to quickly recursively delete DS_Store hidden files (helpful when zipping folders for sharing). 
+I created an alias "dsdelete" to quickly recursively delete DS_Store hidden files (helpful when zipping folders for sharing).
 
-I learned the "open ." command and changed the terminal color scheme. 
+I learned the "open ." command and changed the terminal color scheme.
 
 I installed RubyMine and Web Developer Toolbar and Tamper Data and Charles and Dropbox. I'm still trying out VMWare Fusion and haven't decided if I want it yet.
 

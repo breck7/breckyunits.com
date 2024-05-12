@@ -1,12 +1,13 @@
+date 2010-0-13
+groups index
+permalink list-only-directories-using-ls.html
+
 import header.scroll
 title List only directories using ls
 
 thinColumns 2
-date 2010-0-13
 
-groups index
 keyboardNav
-permalink list-only-directories-using-ls.html
 
 The `ls` command lists all files and directories. What if you just wanted to list the directories?
  dateline

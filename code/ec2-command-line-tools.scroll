@@ -1,12 +1,13 @@
+date 2011-8-13
+groups index
+permalink ec2-command-line-tools.html
+
 import header.scroll
 title EC2 Command Line Tools
 
 thinColumns 2
-date 2011-8-13
 
-groups index
 keyboardNav
-permalink ec2-command-line-tools.html
 
 Step 1. Download them. http://aws.amazon.com/developertools/351
  dateline
@@ -19,12 +20,12 @@ code
 Step 3. test Java path is correct:
 
 code
- $JAVA_HOME/bin/java -version 
+ $JAVA_HOME/bin/java -version
 
 Step 4. set ec2 path in your .bash_profile:
 
 code
  export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1
- export PATH=$PATH:$EC2_HOME/bin 
+ export PATH=$PATH:$EC2_HOME/bin
 
 import footer.scroll

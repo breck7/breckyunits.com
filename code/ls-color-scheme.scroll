@@ -1,12 +1,13 @@
+date 2010-3-10
+groups index
+permalink ls-color-scheme.html
+
 import header.scroll
 title ls color scheme
 
 thinColumns 2
-date 2010-3-10
 
-groups index
 keyboardNav
-permalink ls-color-scheme.html
 
 Found this <a href="http://cygwin.com/ml/cygwin/2002-06/msg00594.html">helpful color scheme</a> for ls. toss in your bash_profile.
  dateline

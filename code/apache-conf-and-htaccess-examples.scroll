@@ -1,12 +1,13 @@
+date 2011-6-30
+groups index
+permalink apache-conf-and-htaccess-examples.html
+
 import header.scroll
 title Apache Conf and Htaccess Examples
 
 thinColumns 2
-date 2011-6-30
 
-groups index
 keyboardNav
-permalink apache-conf-and-htaccess-examples.html
 
 Configuring Apache can be a pain. I'm going to try and collect links to great resources. The official docs are good, but they really need to add commenting so people can expand upon the resources available.
  dateline

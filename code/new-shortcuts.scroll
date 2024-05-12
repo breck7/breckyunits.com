@@ -1,12 +1,13 @@
+date 2011-8-14
+groups index
+permalink new-shortcuts.html
+
 import header.scroll
 title New shortcuts
 
 thinColumns 2
-date 2011-8-14
 
-groups index
 keyboardNav
-permalink new-shortcuts.html
 
 Gmail:
  dateline

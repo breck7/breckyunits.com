@@ -1,12 +1,13 @@
+date 2010-1-16
+groups index
+permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
+
 import header.scroll
-title Bug Workaround for JS Charts Error: Not enough data to display chart 
+title Bug Workaround for JS Charts Error: Not enough data to display chart
 
 thinColumns 2
-date 2010-1-16
 
-groups index
 keyboardNav
-permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
 
 code
  nullData = new Array( );

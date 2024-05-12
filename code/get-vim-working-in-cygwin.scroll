@@ -1,12 +1,13 @@
+date 2009-11-20
+groups index
+permalink get-vim-working-in-cygwin.html
+
 import header.scroll
 title Get VIM Working in Cygwin
 
 thinColumns 2
-date 2009-11-20
 
-groups index
 keyboardNav
-permalink get-vim-working-in-cygwin.html
 
 I had trouble getting VIM behaving as expected under Cygwin. Specifically, the backspace and arrow keys were behaving badly in insert mode.
  dateline

@@ -1,12 +1,13 @@
+date 2009-11-28
+groups index
+permalink use-aliases-to-save-time.html
+
 import header.scroll
 title Use aliases to save time
 
 thinColumns 2
-date 2009-11-28
 
-groups index
 keyboardNav
-permalink use-aliases-to-save-time.html
 
 Using aliases in Linux can save you a lot of time. Here's an example:
  dateline

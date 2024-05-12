@@ -1,12 +1,13 @@
+date 2011-8-1
+groups index
+permalink netstat.html
+
 import header.scroll
 title netstat
 
 thinColumns 2
-date 2011-8-1
 
-groups index
 keyboardNav
-permalink netstat.html
 
 Every wonder what's listening on what ports?
  dateline

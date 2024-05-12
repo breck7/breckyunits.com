@@ -1,12 +1,13 @@
+date 2010-8-14
+groups index
+permalink rubyful-soup.html
+
 import header.scroll
 title Rubyful Soup
 
 thinColumns 2
-date 2010-8-14
 
-groups index
 keyboardNav
-permalink rubyful-soup.html
 
 I was a big fan of BeautifulSoup in Python and was excited to see a Ruby port. Sadly it's no longer being maintained.
  https://www.crummy.com/software/RubyfulSoup port

@@ -1,12 +1,13 @@
+date 2009-11-25
+groups index
+permalink cron-in-2-steps.html
+
 import header.scroll
 title cron in 2 steps
 
 thinColumns 2
-date 2009-11-25
 
-groups index
 keyboardNav
-permalink cron-in-2-steps.html
 
 `cron` lets you schedule linux commands to execute on a regular basis.
  dateline
@@ -45,6 +46,5 @@ code
  net start cron
 
 If there are problems, check the cron.log file in your home directory.
-
 
 import footer.scroll

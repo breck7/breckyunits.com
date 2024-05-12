@@ -1,12 +1,13 @@
+date 2011-3-13
+groups index
+permalink quickly-set-up-a-web-proxy-server.html
+
 import header.scroll
 title Quickly Set up a Web Proxy Server
 
 thinColumns 2
-date 2011-3-13
 
-groups index
 keyboardNav
-permalink quickly-set-up-a-web-proxy-server.html
 
 Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
  dateline
