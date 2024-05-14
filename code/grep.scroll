@@ -1,0 +1,17 @@
+date 2024-5-14
+groups index
+
+import header.scroll
+title Useful Grep Searches with Scroll
+
+thinColumns 2
+
+keyboardNav
+
+Find all scroll files not matching a pattern:
+
+> grep -rL "endSnippet" *.scroll
+
+import footer.scroll
+
+
