@@ -6,6 +6,10 @@ title Digital Copyright and AIs
 
 thinColumns 1
 
+image aiUni.webp
+ openGraph
+ // ChatGPT: An XKCD style comic. No color. A single pane. Shows a university. The panel label says "AI University". It looks massive, advanced, pristine. Like it may hold every book in the world. Robots walk around the grounds. A white sign in black letters says "No humans allowed".
+
 # AIs may train on everything. You may not.
 
 In America, AIs have more freedoms than humans. This worries me.
@@ -44,13 +48,13 @@ Humans in America have to choose: use a criminal library, or fall behind AIs?
 
 ***
 
-# A Proposal
+# A Proposed Fix
 
-I propose we clearly pass into law that copyright does not apply to digital publications.
+I support those who want to pass a law that proclaims copyright no longer applies to digital publications.
 
 Among other benefits, this would ensure all Americans could legally educate themselves at the same library as AIs.
 
-We can leave physical copyright alone.
+// We can probably leave physical copyright alone? Though I think we should shorten it back to 14 years, and to get one, you need to publish the source to a public proof of work blockchain (such as a GitHub).
 
 ***
 
@@ -58,7 +62,10 @@ We can leave physical copyright alone.
 
 Of course, we may not _need_ to update the law.
 
-Digital copyright goes against the grain of nature so much that it has long been ignored and worked around by smart and noble minded citizens who have built these "criminal" libraries.
+- _Good_ people publish their content freely.
+// As G. put it: "After all, what good is a paywall for one scientist if another one makes contributions of equal or greater importance while making them accessible without any (or almost no) restrictions? At that point, we keep evolving wherever there's less friction"
+- Digital copyright goes against the grain of nature so much, that it has long been ignored and worked around by smart and courageous citizens, who have built these "criminal" libraries.
+- AI generated content may become much better than the best human generated content. And then the entire concept of copyright will be entirely irrelevant.
 
 ***
 
