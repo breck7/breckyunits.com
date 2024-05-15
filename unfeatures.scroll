@@ -1,8 +1,9 @@
 date 2009-12-11
 groups All Programming Startups
+title (un)features
 
 import header.scroll
-title (un)features
+printTitle
 
 thinColumns 2
 

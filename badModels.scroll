@@ -1,8 +1,9 @@
 date 2024-05-04
 groups All Life Society Data
+title Hypothermia
 
 import header.scroll
-title Hypothermia
+printTitle
 
 thinColumns 1
 
@@ -21,8 +22,6 @@ Boardshorts: _one person_.
 // there were actually 3 people not in wetsuits. The other 2 were in speedos and looked like Olympic swimmers. I assume they were out of the water before I even hit the buoy.
 
 ***
-
-endSnippet
 
 "You're brave," another triathlete said.
 

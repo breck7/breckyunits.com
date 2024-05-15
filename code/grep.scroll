@@ -1,8 +1,9 @@
 date 2024-5-14
 groups index
+title Useful Grep Searches with Scroll
 
 import header.scroll
-title Useful Grep Searches with Scroll
+printTitle
 
 thinColumns 2
 
@@ -13,5 +14,3 @@ Find all scroll files not matching a pattern:
 > grep -rL "endSnippet" *.scroll
 
 import footer.scroll
-
-

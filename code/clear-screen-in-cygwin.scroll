@@ -1,9 +1,10 @@
 date 2010-0-20
 groups index
 permalink clear-screen-in-cygwin.html
+title Clear screen in cygwin
 
 import header.scroll
-title Clear screen in cygwin
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 1/29/2024
 groups All BipolarDisorder
+title Delusions
 
 import header.scroll
-title Delusions
+printTitle
 
 mediumColumns 1
 

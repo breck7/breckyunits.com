@@ -1,9 +1,10 @@
 date 2010-1-6
 groups index
 permalink how-to-load-a-sql-file-into-mysql.html
+title How to load a sql file into MySql
 
 import header.scroll
-title How to load a sql file into MySql
+printTitle
 
 thinColumns 2
 

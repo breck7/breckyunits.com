@@ -1,9 +1,10 @@
 date 7/18/2019
 groups All Programming Life HasDataset
 related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+title 30,000 Hours
 
 import header.scroll
-title 30,000 Hours
+printTitle
 
 mediumColumns 1
 

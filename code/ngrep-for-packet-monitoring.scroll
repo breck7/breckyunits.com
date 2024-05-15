@@ -1,9 +1,10 @@
 date 2011-7-13
 groups index
 permalink ngrep-for-packet-monitoring.html
+title ngrep for packet monitoring
 
 import header.scroll
-title ngrep for packet monitoring
+printTitle
 
 thinColumns 2
 

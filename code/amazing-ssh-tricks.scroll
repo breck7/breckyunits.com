@@ -1,9 +1,10 @@
 date 2011-7-16
 groups index
 permalink amazing-ssh-tricks.html
+title Amazing SSH Tricks
 
 import header.scroll
-title Amazing SSH Tricks
+printTitle
 
 thinColumns 2
 

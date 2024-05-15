@@ -1,11 +1,12 @@
 date 2024-05-05
 groups All IntellectualFreedom Data
+title Three Scientists Go To Heaven
 
 import header.scroll
 
 thinColumns 1
 
-title Three Scientists Go To Heaven
+printTitle
 
 byLine
 
@@ -15,8 +16,6 @@ image scientistsHeaven.jpg
  // In this single pane comic, xkcd illustration, 3 figures are seen standing outside the gates of heaven. Another stick figure, representing God, stands next to the gate. God is in control of the gate, preventing the others from entering. Heaven is on the other side of the gate
 
 Newton, Darwin, and a modern Scientist go to heaven.
-
-endSnippet
 
 ***
 

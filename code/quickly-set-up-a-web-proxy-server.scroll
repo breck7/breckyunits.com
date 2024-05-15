@@ -1,9 +1,10 @@
 date 2011-3-13
 groups index
 permalink quickly-set-up-a-web-proxy-server.html
+title Quickly Set up a Web Proxy Server
 
 import header.scroll
-title Quickly Set up a Web Proxy Server
+printTitle
 
 thinColumns 2
 

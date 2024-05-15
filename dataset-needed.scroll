@@ -1,9 +1,10 @@
 date 2020-01-23
 groups All Data Thinking Society Writing
 related datasets dreaming-of-a-data-checked-language
+title Dataset Needed
 
 import header.scroll
-title Dataset Needed
+printTitle
 
 thinColumns 2
 

@@ -1,10 +1,11 @@
 date 2/14/2014
+title Manic Researchers Announce They Are Hours Away From Cure For Depression
+ style font-size:38px;
 
 import header.scroll
 
 wideColumns 1
-title Manic Researchers Announce They Are Hours Away From Cure For Depression
- style font-size:38px;
+printTitle
 endColumns
 
 thinColumns 2

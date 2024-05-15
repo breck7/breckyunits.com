@@ -1,8 +1,9 @@
 date 2/11/2024
 groups All Life
+title Beliefs
 
 import header.scroll
-title Beliefs
+printTitle
 
 mediumColumns 1
 

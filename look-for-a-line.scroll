@@ -1,8 +1,9 @@
 date 2011-03-05
 groups All Startups Thinking
+title Look for a Line
 
 import header.scroll
-title Look for a Line
+printTitle
 
 thinColumns 2
 

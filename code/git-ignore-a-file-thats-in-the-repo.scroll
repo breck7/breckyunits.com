@@ -1,9 +1,10 @@
 date 2010-10-3
 groups index
 permalink git-ignore-a-file-thats-in-the-repo.html
+title Git ignore a file that's in the repo
 
 import header.scroll
-title Git ignore a file that's in the repo
+printTitle
 
 thinColumns 2
 

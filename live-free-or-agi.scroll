@@ -1,8 +1,9 @@
 date 6/9/2023
 groups All Society
+title Live Free or AGI
 
 import header.scroll
-title Live Free or AGI
+printTitle
 thinColumns 2
 
 // chatGptSummary The author reflects on their childhood fear of the "Live Free or Die" license plates in New Hampshire, highlighting how the motto now represents a beautiful vision for humanity, while discussing the current focus of the tech industry on AGI (Artificial General Intelligence) and the potential conflicts between prioritizing AGI development and individual freedom, ultimately expressing a preference for prioritizing freedom over AGI.

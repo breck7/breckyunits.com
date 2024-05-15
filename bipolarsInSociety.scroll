@@ -1,8 +1,9 @@
 date 2/9/2024
 groups All BipolarDisorder
+title What is the role of the bipolar in society?
 
 import header.scroll
-title What is the role of the bipolar in society?
+printTitle
 
 thinColumns 2
 

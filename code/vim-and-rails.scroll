@@ -1,9 +1,10 @@
 date 2010-8-13
 groups index
 permalink vim-and-rails.html
+title VIM and Rails
 
 import header.scroll
-title VIM and Rails
+printTitle
 
 thinColumns 2
 

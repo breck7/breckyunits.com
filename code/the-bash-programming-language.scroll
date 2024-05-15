@@ -1,9 +1,10 @@
 date 2010-2-25
 groups index
 permalink the-bash-programming-language.html
+title The BASH Programming Language
 
 import header.scroll
-title The BASH Programming Language
+printTitle
 
 thinColumns 2
 

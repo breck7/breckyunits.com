@@ -1,8 +1,9 @@
 date 2009-12-10
 groups All Life
+title Get Stuff Done By Setting Arbitrary Constraints
 
 import header.scroll
-title Get Stuff Done By Setting Arbitrary Constraints
+printTitle
 
 thinColumns 2
 

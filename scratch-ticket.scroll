@@ -1,8 +1,9 @@
 date 10/07/2022
 groups All Startups
+title A scratch ticket with a positive expected value
 
 import header.scroll
-title A scratch ticket with a positive expected value
+printTitle
 
 thinColumns 2
 

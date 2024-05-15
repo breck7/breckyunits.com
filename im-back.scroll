@@ -1,9 +1,10 @@
 date 2009-12-02 1
 groups All Writing
 related publishing-more i-guess-the-time-had-come
+title I'm Back
 
 import header.scroll
-title I'm Back
+printTitle
 
 mediumColumns 1
 

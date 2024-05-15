@@ -1,8 +1,9 @@
 date 9/1/2022
 groups All Startups HasDataset
+title An Angel Investor's Data
 
 import header.scroll
-title An Angel Investor's Data
+printTitle
 
 thinColumns 2
 

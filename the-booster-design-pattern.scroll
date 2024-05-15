@@ -1,8 +1,9 @@
 date 2013-03-08
 groups All Startups
+title The Booster Design Pattern
 
 import header.scroll
-title The Booster Design Pattern
+printTitle
 
 thinColumns 1
 

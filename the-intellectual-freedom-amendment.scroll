@@ -1,8 +1,9 @@
 date 2021-05-12
 groups All IntellectualFreedom
+title The Intellectual Freedom Amendment
 
 import header.scroll
-title The Intellectual Freedom Amendment
+printTitle
 
 thinColumns 2
 

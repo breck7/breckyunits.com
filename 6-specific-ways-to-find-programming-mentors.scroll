@@ -1,8 +1,9 @@
 date 2009-12-08
 groups All Programming
+title 6 Specific Ways to Find Programming Mentors
 
 import header.scroll
-title 6 Specific Ways to Find Programming Mentors
+printTitle
 
 thinColumns 2
 

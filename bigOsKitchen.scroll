@@ -1,9 +1,10 @@
 date 4/23/2024
 groups All Programming Data HasDataset
 related ckmeans logeracy planets-and-pebbles orders-of-magnitude
+title Big O's Kitchen
 
 import header.scroll
-title Big O's Kitchen
+printTitle
 
 # Menu Instructions
 thinColumns 2

@@ -1,8 +1,9 @@
 date 1/1/2024
 groups All Programming Society
+title Could in vitro brains power AI?
 
 import header.scroll
-title Could in vitro brains power AI?
+printTitle
 
 thinColumns 2
 

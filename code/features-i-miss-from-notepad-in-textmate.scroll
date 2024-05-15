@@ -1,9 +1,10 @@
 date 2010-10-16
 groups index
 permalink features-i-miss-from-notepad-in-textmate.html
+title Features I Miss from Notepad++ in Textmate
 
 import header.scroll
-title Features I Miss from Notepad++ in Textmate
+printTitle
 
 thinColumns 2
 

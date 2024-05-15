@@ -1,9 +1,10 @@
 date 2010-3-1
 groups index
 permalink pwd-while-in-a-symlink-directory.html
+title pwd while in a symlink directory
 
 import header.scroll
-title pwd while in a symlink directory
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 2009-04-06
 groups All Startups
+title Twitter Search Wins Again
 
 import header.scroll
-title Twitter Search Wins Again
+printTitle
 thinColumns 1
 
 Twitter Search is starting to replace a ton of websites that I used to visit.

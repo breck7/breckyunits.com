@@ -1,8 +1,9 @@
 date 3/6/2023
 groups All IntellectualFreedom
+title A Public Domain Human
 
 import header.scroll
-title A Public Domain Human
+printTitle
 thinColumns 2
 
 # Open sourcing more of my life for honesty

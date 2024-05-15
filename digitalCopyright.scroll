@@ -1,8 +1,9 @@
 date 5/14/2024
 groups All IntellectualFreedom Society
+title Digital Copyright and AIs
 
 import header.scroll
-title Digital Copyright and AIs
+printTitle
 
 thinColumns 1
 
@@ -14,8 +15,6 @@ image aiUni.webp
 
 In America, AIs have more freedom to learn than humans. This worries me.
  dateline
-
-endSnippet
 
 Do you want learn at the same library as ChatGPT, Gemini, Grok, or Llama?
  https://chat.openai.com ChatGPT

@@ -1,8 +1,9 @@
 date 2013-03-30
 groups All Life Society
+title Money is Meant to Circulate
 
 import header.scroll
-title Money is Meant to Circulate
+printTitle
 
 thinColumns 1
 

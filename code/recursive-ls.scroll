@@ -1,9 +1,10 @@
 date 2010-3-10
 groups index
 permalink recursive-ls.html
+title Recursive ls
 
 import header.scroll
-title Recursive ls
+printTitle
 
 thinColumns 2
 

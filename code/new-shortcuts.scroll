@@ -1,9 +1,10 @@
 date 2011-8-14
 groups index
 permalink new-shortcuts.html
+title New shortcuts
 
 import header.scroll
-title New shortcuts
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 2012-01-04
 groups index
 permalink git-ignore-global.html
+title Git Ignore Global
 
 import header.scroll
-title Git Ignore Global
+printTitle
 
 thinColumns 2
 

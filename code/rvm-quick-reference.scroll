@@ -1,9 +1,10 @@
 date 2011-0-12
 groups index
 permalink rvm-quick-reference.html
+title RVM Quick Reference
 
 import header.scroll
-title RVM Quick Reference
+printTitle
 
 thinColumns 2
 

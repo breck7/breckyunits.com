@@ -1,8 +1,9 @@
 date 2024-05-07
 groups All Life Thinking
+title Black Swan Thoughts
 
 import header.scroll
-title Black Swan Thoughts
+printTitle
 // what are the black swans of black swans?
 
 byLine
@@ -27,8 +28,6 @@ Gray Beard explained the tree.
 "Yes. I understand," said the boy.
 
 The boy turned around and walked out of the forest back to the city.
-
-endSnippet
 
 ***
 

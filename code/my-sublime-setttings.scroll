@@ -1,8 +1,9 @@
 date 2022-6-21
 groups index
+title My Sublime Settings
 
 import header.scroll
-title My Sublime Settings
+printTitle
 
 thinColumns 2
 

@@ -1,7 +1,8 @@
 date 10/20/2022
+title My LongBets.org prediction on cancer
 
 import header.scroll
-title My LongBets.org prediction on cancer
+printTitle
 
 thinColumns 2
 

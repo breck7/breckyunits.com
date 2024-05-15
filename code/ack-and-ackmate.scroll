@@ -1,9 +1,10 @@
 date 2011-8-26
 groups index
 permalink ack-and-ackmate.html
+title ack and ackmate
 
 import header.scroll
-title ack and ackmate
+printTitle
 
 thinColumns 2
 

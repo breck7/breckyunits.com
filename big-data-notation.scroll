@@ -1,8 +1,9 @@
 date 2013-09-24
 groups All Data Programming Thinking
+title Big Data Notation
 
 import header.scroll
-title Big Data Notation
+printTitle
 thinColumns 1
 
 # A Suggestion for a Simple Notation

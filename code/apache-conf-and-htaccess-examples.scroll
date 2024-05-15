@@ -1,9 +1,10 @@
 date 2011-6-30
 groups index
 permalink apache-conf-and-htaccess-examples.html
+title Apache Conf and Htaccess Examples
 
 import header.scroll
-title Apache Conf and Htaccess Examples
+printTitle
 
 thinColumns 2
 

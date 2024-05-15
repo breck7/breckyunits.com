@@ -1,9 +1,10 @@
 date 2010-02-17
 groups All Life Thinking
 related save-your-money-for-great-values
+title Why it's worth it to buy the book
 
 import header.scroll
-title Why it's worth it to buy the book
+printTitle
 
 thinColumns 2
 

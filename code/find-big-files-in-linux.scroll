@@ -1,9 +1,10 @@
 date 2011-10-06
 groups index
 permalink find-big-files-in-linux.html
+title Find big files in Linux
 
 import header.scroll
-title Find big files in Linux
+printTitle
 
 thinColumns 2
 

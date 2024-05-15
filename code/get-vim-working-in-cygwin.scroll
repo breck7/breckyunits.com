@@ -1,9 +1,10 @@
 date 2009-11-20
 groups index
 permalink get-vim-working-in-cygwin.html
+title Get VIM Working in Cygwin
 
 import header.scroll
-title Get VIM Working in Cygwin
+printTitle
 
 thinColumns 2
 

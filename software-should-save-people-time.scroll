@@ -1,8 +1,9 @@
 date 2013-04-02
 groups All Programming
+title Software Should Save People Time
 
 import header.scroll
-title Software Should Save People Time
+printTitle
 
 thinColumns 1
 
@@ -14,8 +15,6 @@ I want to spend less time doing monotonous tasks.
 Less time doing bureaucratic things. Less time dealing with unnecessary complexity. Less time doing chores.
 
 I want to spend more time engaged with life.
-
-endSnippet
 
 ***
 

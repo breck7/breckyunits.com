@@ -1,8 +1,9 @@
 date 2024-05-11
 groups All Data Thinking Life HasDataset
+title Marks
 
 import header.scroll
-title Marks
+printTitle
 byLine
 
 thinColumns 1
@@ -21,8 +22,6 @@ Four-quadrillion cells.
 Eight-hundred-eighty-octillion ATP molecules.
 
 Compressed to two marks on a surface.
-
-endSnippet
 
 ***
 

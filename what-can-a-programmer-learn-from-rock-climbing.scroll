@@ -1,9 +1,10 @@
 date 2011-03-30
 groups All Programming Life
 related 30000hours twelve-tips-to-master-programming-faster
+title What can a Programmer learn from Rock Climbing?
 
 import header.scroll
-title What can a Programmer learn from Rock Climbing?
+printTitle
 
 thinColumns 2
 

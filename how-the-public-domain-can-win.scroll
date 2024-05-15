@@ -1,9 +1,10 @@
 date 08-30-2022
 groups All IntellectualFreedom
 replace KEYMESSAGE Public domain products are strictly superior to equivalent non-public domain alternatives by a significant margin on three dimensions: trust, speed, and cost to build.
+title How the public domain can win
 
 import header.scroll
-title How the public domain can win
+printTitle
 
 thinColumns 2
 

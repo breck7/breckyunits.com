@@ -1,9 +1,10 @@
 date 2020-12-09
 groups All TreeNotation Programming
 permalink tree-notation-annual-report-2019.html
+title 2019 Tree Notation Annual Report
 
 import header.scroll
-title 2019 Tree Notation Annual Report
+printTitle
 
 thinColumns 2
 

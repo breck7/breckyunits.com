@@ -1,8 +1,9 @@
 date 4/10/2024
 groups All BipolarDisorder
+title The Future of the Term "Bipolar Disorder"
 
 import header.scroll
-title The Future of the Term "Bipolar Disorder"
+printTitle
 byLine
 thinColumns 2
 
@@ -12,8 +13,6 @@ Now that I am writing more about Bipolar Disorder, and even have a category page
  link bipolar.html category page for the term
 
 In short, I predict in the long run, as our understanding increases, the phrase "Bipolar Disorder" and its sub-phrases (Bipolar I, Bipolar II, Bipolar NOS, and Cyclothymia), will fall out of use and be replaced by a larger set of more specific terms clustered not by symptoms but by biological causes.
-
-endSnippet
 
 ***
 

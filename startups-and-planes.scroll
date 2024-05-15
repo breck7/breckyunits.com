@@ -1,8 +1,9 @@
 date 2013-02-24
 groups All Startups
+title Startups and Planes
 
 import header.scroll
-title Startups and Planes
+printTitle
 
 thinColumns 1
 

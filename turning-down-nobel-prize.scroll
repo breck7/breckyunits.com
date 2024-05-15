@@ -1,7 +1,8 @@
 date 10/24/2022
+title Turning down the Nobel Prize
 
 import header.scroll
-title Turning down the Nobel Prize
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 2008-05-14
 groups All Society Data
+title Daily Gas Use for the United States and the World
 
 import header.scroll
-title Daily Gas Use for the United States and the World
+printTitle
 thinColumns 2
 
 The other day I wrote a post on How much Gas Americans use per day. The answer is 400 Million Gallons. A reader wanted to know how much gas the whole world consumes in a day. The answer is about 83 millon bbl’s. One bbl = 42 gallons, so the world consumes about 3.5 billion gallons of gas per day. That means the United States consumes 11% of the total gas consumed per day.

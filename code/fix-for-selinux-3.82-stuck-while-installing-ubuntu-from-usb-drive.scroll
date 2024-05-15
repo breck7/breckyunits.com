@@ -1,9 +1,10 @@
 date 2011-6-27
 groups index
 permalink fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.html
+title Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive
 
 import header.scroll
-title Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive
+printTitle
 
 thinColumns 2
 

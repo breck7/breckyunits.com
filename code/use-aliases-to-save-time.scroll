@@ -1,9 +1,10 @@
 date 2009-11-28
 groups index
 permalink use-aliases-to-save-time.html
+title Use aliases to save time
 
 import header.scroll
-title Use aliases to save time
+printTitle
 
 thinColumns 2
 

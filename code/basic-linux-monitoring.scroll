@@ -1,9 +1,10 @@
 date 2011-7-9
 groups index
 permalink basic-linux-monitoring.html
+title Basic Linux Monitoring
 
 import header.scroll
-title Basic Linux Monitoring
+printTitle
 
 thinColumns 2
 

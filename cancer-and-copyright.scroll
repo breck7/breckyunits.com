@@ -1,7 +1,8 @@
 date 10/04/2022
+title Cancer and Copyright
 
 import header.scroll
-title Cancer and Copyright
+printTitle
 thinColumns 2
 
 image endCancerMiracle1.png

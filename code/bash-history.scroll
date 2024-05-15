@@ -1,9 +1,10 @@
 date 2011-7-17
 groups index
 permalink bash-history.html
+title Bash History
 
 import header.scroll
-title Bash History
+printTitle
 
 thinColumns 2
 

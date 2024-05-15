@@ -1,7 +1,8 @@
 date 10/18/2022
+title Austen Heinz
 
 import header.scroll
-title Austen Heinz
+printTitle
 
 thinColumns 2
 

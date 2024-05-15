@@ -1,9 +1,10 @@
 date 2009-11-18
 groups index
 permalink about-this-blog.html
+title About this Blog
 
 import header.scroll
-title About this Blog
+printTitle
 
 thinColumns 2
 

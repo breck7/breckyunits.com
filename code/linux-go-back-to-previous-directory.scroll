@@ -1,9 +1,10 @@
 date 2010-2-1
 groups index
 permalink linux-go-back-to-previous-directory.html
+title Linux Go Back to Previous Directory
 
 import header.scroll
-title Linux Go Back to Previous Directory
+printTitle
 
 thinColumns 2
 

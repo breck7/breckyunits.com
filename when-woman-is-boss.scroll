@@ -1,6 +1,8 @@
+title When Woman is Boss
+
 import header.scroll
 
-title When Woman is Boss
+printTitle
 
 # An interview with Nikola Tesla
 

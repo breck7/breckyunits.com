@@ -1,9 +1,10 @@
 date 2009-11-25
 groups index
 permalink use-the-linux-find-command-to-find-files.html
+title Use the linux find command to find files
 
 import header.scroll
-title Use the linux find command to find files
+printTitle
 
 thinColumns 2
 

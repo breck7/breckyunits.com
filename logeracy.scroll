@@ -1,9 +1,10 @@
 date 2021-04-26
 groups All Data Thinking Society
 related bigOsKitchen planets-and-pebbles orders-of-magnitude
+title Logeracy
 
 import header.scroll
-title Logeracy
+printTitle
 
 thinColumns 2
 

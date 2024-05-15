@@ -1,8 +1,9 @@
 date 2/14/2024
 groups All IntellectualFreedom Society
+title Why do we subsidize fiction?
 
 import header.scroll
-title Why do we subsidize fiction?
+printTitle
 mediumColumns 1
 image blackCup.jpg
 

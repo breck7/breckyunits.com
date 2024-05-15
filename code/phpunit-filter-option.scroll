@@ -1,9 +1,10 @@
 date 2010-8-10
 groups index
 permalink phpunit-filter-option.html
+title PHPUnit Filter Option
 
 import header.scroll
-title PHPUnit Filter Option
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 2011-10-14
 groups index
 permalink cool-way-to-duplicate-a-finder-window-in-the-current-directory.html
+title Cool Way to Duplicate a Finder Window in the Current Directory
 
 import header.scroll
-title Cool Way to Duplicate a Finder Window in the Current Directory
+printTitle
 
 thinColumns 2
 

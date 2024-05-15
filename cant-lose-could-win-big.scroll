@@ -1,9 +1,10 @@
 date 2012-12-18
 groups All Life Startups
 permalink cant-lose-could-win-big.html
+title Can't Lose. Could Win Big.
 
 import header.scroll
-title Can't Lose. Could Win Big.
+printTitle
 thinColumns 2
 
 One of Nassim Taleb's big recommendations for how to live in an uncertain world is to follow a barbell strategy: be extremely conservative about most decisions, but make some decisions that open you up to uncapped upside.

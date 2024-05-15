@@ -1,8 +1,9 @@
 date 2017-06-23
 groups All Data Programming Startups TreeNotation
+title Ohayo
 
 import header.scroll
-title Ohayo
+printTitle
 
 thinColumns 1
 

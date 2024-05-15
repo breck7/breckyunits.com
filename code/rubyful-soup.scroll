@@ -1,9 +1,10 @@
 date 2010-8-14
 groups index
 permalink rubyful-soup.html
+title Rubyful Soup
 
 import header.scroll
-title Rubyful Soup
+printTitle
 
 thinColumns 2
 

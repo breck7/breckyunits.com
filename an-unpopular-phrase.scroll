@@ -1,8 +1,9 @@
 date 2020-02-21
 groups All IntellectualFreedom
+title An Unpopular Phrase
 
 import header.scroll
-title An Unpopular Phrase
+printTitle
 
 thinColumns 2
 

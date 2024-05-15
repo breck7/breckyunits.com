@@ -1,8 +1,9 @@
 date 2009-12-03
 groups All Thinking
+title What's Linear Algebra?
 
 import header.scroll
-title What's Linear Algebra?
+printTitle
 
 thinColumns 2
 

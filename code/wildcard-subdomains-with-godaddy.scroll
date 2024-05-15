@@ -1,9 +1,10 @@
 date 2011-4-24
 groups index
 permalink wildcard-subdomains-with-godaddy.html
+title Wildcard Subdomains with GoDaddy
 
 import header.scroll
-title Wildcard Subdomains with GoDaddy
+printTitle
 
 thinColumns 2
 

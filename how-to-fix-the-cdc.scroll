@@ -1,8 +1,9 @@
 date 2021-03-30
 groups All Society
+title How to fix the CDC
 
 import header.scroll
-title How to fix the CDC
+printTitle
 
 thinColumns 2
 

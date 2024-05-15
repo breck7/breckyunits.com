@@ -1,9 +1,10 @@
 date 2009-11-26
 groups index
 permalink what-non-web-software-do-you-use-the-most.html
+title What non-web software do you use the most?
 
 import header.scroll
-title What non-web software do you use the most?
+printTitle
 
 thinColumns 2
 

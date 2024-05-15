@@ -1,9 +1,10 @@
 date 2010-0-23
 groups index
 permalink the-only-5-git-commands-you-need-to-know.html
+title The only 5 git commands you need to know
 
 import header.scroll
-title The only 5 git commands you need to know
+printTitle
 
 thinColumns 2
 

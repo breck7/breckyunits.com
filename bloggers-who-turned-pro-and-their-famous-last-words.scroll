@@ -1,9 +1,10 @@
 date 2008-07-07
 groups All Writing HasDataset
 related write-thin-to-write-fast why-you-shouldnt-save-blogging-for-old-age
+title Bloggers Turning Pro
 
 import header.scroll
-title Bloggers Turning Pro
+printTitle
 thinColumns 1
 
 After months of deliberation, I’ve decided to quit my day job and work on my blog full time.

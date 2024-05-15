@@ -1,9 +1,10 @@
 date 2009-11-25
 groups index
 permalink fix-permission-problems-using-chmod.html
+title Fix permission problems using chmod
 
 import header.scroll
-title Fix permission problems using chmod
+printTitle
 
 thinColumns 2
 

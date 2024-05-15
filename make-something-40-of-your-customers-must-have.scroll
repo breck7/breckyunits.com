@@ -1,8 +1,9 @@
 date 2009-12-16
 groups All Startups
+title Make Something 40% of Your Customers Must Have
 
 import header.scroll
-title Make Something 40% of Your Customers Must Have
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 2011-7-3
 groups index
 permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
+title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 
 import header.scroll
-title Notepad++ HAML Syntax Highlighting and other custom extension mapping
+printTitle
 
 thinColumns 2
 

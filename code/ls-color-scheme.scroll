@@ -1,9 +1,10 @@
 date 2010-3-10
 groups index
 permalink ls-color-scheme.html
+title ls color scheme
 
 import header.scroll
-title ls color scheme
+printTitle
 
 thinColumns 2
 

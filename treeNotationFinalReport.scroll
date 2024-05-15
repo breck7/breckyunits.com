@@ -1,8 +1,9 @@
 date 2024-4-2
 groups All TreeNotation Programming
+title Final Tree Notation Report
 
 import header.scroll
-title Final Tree Notation Report
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 2013-04-01
 groups All Life
+title Time
 
 import header.scroll
-title Time
+printTitle
 
 byLine
 

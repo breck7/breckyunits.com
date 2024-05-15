@@ -1,10 +1,11 @@
 date 2021-10-15
 groups All Writing HasDataset
+title Write Thin to Write Fast
 
 // the dataset is the NYTimes
 
 import header.scroll
-title Write Thin to Write Fast
+printTitle
 
 byLine
 
@@ -35,8 +36,6 @@ Mine is 36 characters (your ideal width may be different).
 Beyond that my editor wraps lines.
 
 This simple mechanic has perhaps doubled my writing speed and quality.
-
-endSnippet
 
 ***
 

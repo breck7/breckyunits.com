@@ -1,9 +1,10 @@
 date 2011-5-30
 groups index
 permalink my-programming-setup.html
+title My Programming Setup
 
 import header.scroll
-title My Programming Setup
+printTitle
 
 thinColumns 2
 

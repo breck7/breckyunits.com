@@ -1,8 +1,9 @@
 date 2011-03-04
 groups All Life
+title Backpack the World with Zero Planning
 
 import header.scroll
-title Backpack the World with Zero Planning
+printTitle
 
 thinColumns 2
 

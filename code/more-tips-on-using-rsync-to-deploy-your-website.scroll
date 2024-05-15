@@ -1,9 +1,10 @@
 date 2010-2-3
 groups index
 permalink more-tips-on-using-rsync-to-deploy-your-website.html
+title More tips on using rsync to deploy your website
 
 import header.scroll
-title More tips on using rsync to deploy your website
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 6/09/2022
 groups All Programming Data HasDataset
 related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
+title The Three Byte Fix
 
 import header.scroll
-title The Three Byte Fix
+printTitle
 mediumColumns 1
 
 # A Small Open Source Success Story

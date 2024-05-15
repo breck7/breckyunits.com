@@ -1,9 +1,10 @@
 date 4/23/2024 5:00
 groups All Data Thinking Programming HasDataset
 related dataset-needed
+title Hot Coffee
 
 import header.scroll
-title Hot Coffee
+printTitle
 // aka Dataset Thinking
 
 thinColumns 1

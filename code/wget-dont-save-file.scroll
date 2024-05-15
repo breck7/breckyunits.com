@@ -1,9 +1,10 @@
 date 2010-3-27
 groups index
 permalink wget-dont-save-file.html
+title wget don't save file
 
 import header.scroll
-title wget don't save file
+printTitle
 
 thinColumns 2
 

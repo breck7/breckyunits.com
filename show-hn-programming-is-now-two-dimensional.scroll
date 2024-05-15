@@ -1,8 +1,9 @@
 date 2017-06-21
 groups All TreeNotation Programming
+title Show HN: Programming is Now Two-Dimensional
 
 import header.scroll
-title Show HN: Programming is Now Two-Dimensional
+printTitle
 
 thinColumns 2
 

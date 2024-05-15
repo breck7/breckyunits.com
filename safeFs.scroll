@@ -1,9 +1,10 @@
 date 1/27/2023
 groups All IntellectualFreedom
 openGraphImage safeFS.png
+title SafeFS
 
 import header.scroll
-title SafeFS
+printTitle
 thinColumns 2
 
 ## _Or: If lawyers invented a filesystem_

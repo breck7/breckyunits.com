@@ -1,9 +1,10 @@
 date 2020-01-29
 groups All TreeNotation Programming HasDataset
 permalink building-a-treebase-with-6.5-million-files.html
+title Building a TreeBase with 6.5 million files
 
 import header.scroll
-title Building a TreeBase with 6.5 million files
+printTitle
 
 thinColumns 2
 

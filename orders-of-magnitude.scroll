@@ -1,9 +1,10 @@
 date 2009-12-07
 groups All Thinking
 related bigOsKitchen logeracy planets-and-pebbles
+title Orders of Magnitude
 
 import header.scroll
-title Orders of Magnitude
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 12/15/2021
 groups All TreeNotation Programming Writing
+title Aftertext
 
 import header.scroll
-title Aftertext
+printTitle
 
 thinColumns 2
 

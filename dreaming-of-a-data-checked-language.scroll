@@ -1,9 +1,10 @@
 date 2020-01-3
 groups All Data Programming Writing Thinking TreeNotation HasDataset
 related dataset-needed
+title Dreaming of a Data Checked Language
 
 import header.scroll
-title Dreaming of a Data Checked Language
+printTitle
 
 thinColumns 2
 

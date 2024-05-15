@@ -1,8 +1,9 @@
 date 2010-01-29
 groups All Life
+title Four Tips to Improve Communication
 
 import header.scroll
-title Four Tips to Improve Communication
+printTitle
 
 thinColumns 2
 

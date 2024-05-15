@@ -1,7 +1,8 @@
 description Some writing about probability, programming, economics and life.
+title Breck's Blog
 
 import header.scroll
-title Breck's Blog
+printTitle
 
 thinColumns 2
 fullSnippets All

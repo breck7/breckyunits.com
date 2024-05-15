@@ -1,8 +1,9 @@
 date 2008-08-20
 groups All Startups
+title JustHackIt
 
 import header.scroll
-title JustHackIt
+printTitle
 thinColumns 2
 
 This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.

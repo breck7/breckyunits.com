@@ -1,9 +1,10 @@
 date 2011-8-22
 groups index
 permalink nohup-and-disown.html
+title nohup and disown
 
 import header.scroll
-title nohup and disown
+printTitle
 
 thinColumns 2
 

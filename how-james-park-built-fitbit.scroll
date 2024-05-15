@@ -1,9 +1,10 @@
 author Others
 date 2021-03-11
 groups All OtherAuthor
+title How James Park built FitBit
 
 import header.scroll
-title How James Park built FitBit
+printTitle
 thinColumns 2
 
 comment

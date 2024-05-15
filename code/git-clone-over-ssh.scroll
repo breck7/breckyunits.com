@@ -1,8 +1,9 @@
 date 07/08/2021
 groups index
+title Git Clone over SSH
 
 import header.scroll
-title Git Clone over SSH
+printTitle
 
 thinColumns 2
 

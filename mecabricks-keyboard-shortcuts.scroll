@@ -1,5 +1,7 @@
-import header.scroll
 title Keyboard Shortcuts for Mecabricks
+
+import header.scroll
+printTitle
 
 thinColumns 2
 

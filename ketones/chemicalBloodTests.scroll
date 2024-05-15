@@ -1,11 +1,12 @@
 homeLink ../index.html
+title Chemical Blood Tests Dataset
 writeConcepts chemicalBloodTests.tsv
 
 import ../header.scroll
 
 wideColumns 1
 
-title Chemical Blood Tests Dataset
+printTitle
 
 viewSource
 

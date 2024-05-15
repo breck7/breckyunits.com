@@ -1,8 +1,9 @@
 date 12/28/2023
 groups All TreeNotation Programming Startups
+title I thought we could build AI experts by hand
 
 import header.scroll
-title I thought we could build AI experts by hand
+printTitle
 
 thinColumns 2
 

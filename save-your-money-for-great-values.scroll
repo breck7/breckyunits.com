@@ -1,8 +1,9 @@
 date 2013-02-16
 groups All Life Thinking
+title Save Your Money for Great Values
 
 import header.scroll
-title Save Your Money for Great Values
+printTitle
 
 mediumColumns 1
 

@@ -1,9 +1,10 @@
 date 2009-04-14
 groups All Startups Programming
 related design-matters-a-lot
+title The Truth about Web Design
 
 import header.scroll
-title The Truth about Web Design
+printTitle
 thinColumns 1
 
 Here’s what I’m going to assume: craigslist, Google, and eBay do not have very pretty designs. How can a website be so successful if the design isn’t pretty? My position is that because design doesn’t matter a whole lot.

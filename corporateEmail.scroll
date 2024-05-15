@@ -1,8 +1,9 @@
 date 5/12/2024
 groups All Startups Society Programming
+title Corporate Email
 
 import header.scroll
-title Corporate Email
+printTitle
 
 thinColumns 1
 

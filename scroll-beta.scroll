@@ -1,8 +1,9 @@
 date 2021-02-22
 groups All TreeNotation Programming Writing
+title Scroll Beta
 
 import header.scroll
-title Scroll Beta
+printTitle
 mediumColumns 1
 
 Today I'm launching the beta of something new called Scroll.

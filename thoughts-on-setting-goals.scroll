@@ -1,8 +1,9 @@
 date 2009-12-23
 groups All Life
+title Thoughts on Setting Goals
 
 import header.scroll
-title Thoughts on Setting Goals
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 2011-8-9
 groups index
 permalink zip-a-directory-in-linux.html
+title zip a directory in linux
 
 import header.scroll
-title zip a directory in linux
+printTitle
 
 thinColumns 2
 

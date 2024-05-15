@@ -1,9 +1,10 @@
 date 2010-0-30
 groups index
 permalink cygwin-treats-the-windows-clipboard-like-a-file.html
+title Cygwin treats the Windows Clipboard like a file
 
 import header.scroll
-title Cygwin treats the Windows Clipboard like a file
+printTitle
 
 thinColumns 2
 

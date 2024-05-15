@@ -1,9 +1,10 @@
 date 2024-05-02
 groups All BipolarDisorder
 related powerSurges
+title Energy Clocks
 
 import header.scroll
-title Energy Clocks
+printTitle
 
 ## Kathmandu and ATP
  https://en.wikipedia.org/wiki/Kathmandu Kathmandu

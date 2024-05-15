@@ -1,9 +1,10 @@
 date 2010-3-10
 groups index
 permalink gca-alias-for-faster-git.html
+title gca alias for faster git
 
 import header.scroll
-title gca alias for faster git
+printTitle
 
 thinColumns 2
 

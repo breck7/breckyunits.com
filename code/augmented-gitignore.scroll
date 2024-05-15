@@ -1,9 +1,10 @@
 date 2010-8-4
 groups index
 permalink augmented-gitignore.html
+title Augmented Gitignore
 
 import header.scroll
-title Augmented Gitignore
+printTitle
 
 thinColumns 2
 

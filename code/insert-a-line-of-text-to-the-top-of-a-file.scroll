@@ -1,9 +1,10 @@
 date 2010-5-29
 groups index
 permalink insert-a-line-of-text-to-the-top-of-a-file.html
+title Insert a line of text to the top of a file
 
 import header.scroll
-title Insert a line of text to the top of a file
+printTitle
 
 thinColumns 2
 

@@ -1,9 +1,10 @@
 date 2011-8-5
 groups index
 permalink recursive-sed.html
+title Recursive Sed
 
 import header.scroll
-title Recursive Sed
+printTitle
 
 thinColumns 2
 

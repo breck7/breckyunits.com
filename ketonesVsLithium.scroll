@@ -1,8 +1,9 @@
 date 4/16/2024
 groups All BipolarDisorder HasDataset
+title Ketones vs Lithium
 
 import header.scroll
-title Ketones vs Lithium
+printTitle
 byLine
 thinColumns 2
 
@@ -15,7 +16,6 @@ I pricked my finger and moved a disposable ketone measuring stick into the newly
 
 The meter showed "1.0 mmol/L". Success! I was still in ketosis.
 
-endSnippet
 ***
 
 It was day 174 since, at wits' end, I started a therapeutic ketogenic diet as a treatment strategy for bipolar disorder.

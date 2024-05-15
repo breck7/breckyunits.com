@@ -1,8 +1,9 @@
 openGraphImage tesla.jpeg
+title My Inventions
 
 import header.scroll
 
-title My Inventions
+printTitle
 
 # Nikola Tesla's Autobiography
 

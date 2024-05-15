@@ -1,8 +1,9 @@
 date 4/28/2023
 groups All IntellectualFreedom
+title Enchained Symbols
 
 import header.scroll
-title Enchained Symbols
+printTitle
 thinColumns 2
 
 Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.

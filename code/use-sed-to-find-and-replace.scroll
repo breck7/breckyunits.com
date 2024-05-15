@@ -1,9 +1,10 @@
 date 2010-0-20
 groups index
 permalink use-sed-to-find-and-replace.html
+title Use sed to find and replace
 
 import header.scroll
-title Use sed to find and replace
+printTitle
 
 thinColumns 2
 

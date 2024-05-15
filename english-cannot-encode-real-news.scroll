@@ -1,9 +1,10 @@
 date 2019-08-19
 groups All Writing Society Data
 related many-narratives-all-true if-stories-are-lies-why-do-they-work narratives-misrepresent-complex-systems
+title English cannot encode Real News
 
 import header.scroll
-title English cannot encode Real News
+printTitle
 thinColumns 2
 
 # The Attempt to Capture Truth

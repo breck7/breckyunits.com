@@ -1,8 +1,9 @@
 date 2009-12-02 3
 groups All Writing
+title Fiction or Nonfiction?
 
 import header.scroll
-title Fiction or Nonfiction?
+printTitle
 
 thinColumns 2
 

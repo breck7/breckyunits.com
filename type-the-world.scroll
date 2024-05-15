@@ -1,8 +1,9 @@
 date 2020-01-20
 groups All Programming Thinking TreeNotation
+title Type the World
 
 import header.scroll
-title Type the World
+printTitle
 
 thinColumns 2
 

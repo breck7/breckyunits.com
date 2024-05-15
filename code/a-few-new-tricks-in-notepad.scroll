@@ -1,9 +1,10 @@
 date 2011-3-12
 groups index
 permalink a-few-new-tricks-in-notepad.html
+title A few new Tricks in Notepad++
 
 import header.scroll
-title A few new Tricks in Notepad++
+printTitle
 
 thinColumns 2
 

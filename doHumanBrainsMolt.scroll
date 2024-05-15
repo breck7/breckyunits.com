@@ -1,8 +1,9 @@
 date 4/3/2024
 groups All BipolarDisorder
+title Do Human Brains Molt?
 
 import header.scroll
-title Do Human Brains Molt?
+printTitle
 mediumColumns 1
 
 image lobsterMoltingChart.png

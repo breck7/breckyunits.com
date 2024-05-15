@@ -1,5 +1,7 @@
-import header.scroll
 title About Me
+
+import header.scroll
+printTitle
 
 thinColumns 2
 

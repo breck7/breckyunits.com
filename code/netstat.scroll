@@ -1,9 +1,10 @@
 date 2011-8-1
 groups index
 permalink netstat.html
+title netstat
 
 import header.scroll
-title netstat
+printTitle
 
 thinColumns 2
 

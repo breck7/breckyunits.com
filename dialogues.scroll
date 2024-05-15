@@ -1,9 +1,10 @@
 date 2021-05-14
 groups All TreeNotation
 permalink dialogues.html
+title Scrolldown now has Dialogues
 
 import header.scroll
-title Scrolldown now has Dialogues
+printTitle
 thinColumns 2
 
 chat

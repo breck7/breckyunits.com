@@ -1,5 +1,6 @@
 date 1/23/2024
 groups All BipolarDisorder HasDataset
+title Keto for bipolar was not talked about until very recently
 
 import header.scroll
 
@@ -7,7 +8,7 @@ import header.scroll
 
 mediumColumns 1
 
-title Keto for bipolar was not talked about until very recently
+printTitle
 
 I started a ketogenic diet as a treatment for bipolar disorder 97 days ago, on October 19th, 2023, after learning about it on YouTube from MetabolicMind and Bipolarcast. So far, it seems promising.
  dateline

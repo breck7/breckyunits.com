@@ -1,9 +1,10 @@
 date 2011-7-3
 groups index
 permalink mac-terminal-cursor-trick.html
+title Mac Terminal Cursor Trick
 
 import header.scroll
-title Mac Terminal Cursor Trick
+printTitle
 
 thinColumns 2
 

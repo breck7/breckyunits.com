@@ -1,9 +1,10 @@
 date 2009-11-27
 groups index
 permalink use-git-to-get-the-latest-source-code-only.html
+title Use git to get the latest source code only
 
 import header.scroll
-title Use git to get the latest source code only
+printTitle
 
 thinColumns 2
 

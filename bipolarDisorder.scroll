@@ -1,8 +1,9 @@
 date 1/24/2024
 groups All BipolarDisorder
+title Focusing on Bipolar Disorder
 
 import header.scroll
-title Focusing on Bipolar Disorder
+printTitle
 
 mediumColumns 1
 

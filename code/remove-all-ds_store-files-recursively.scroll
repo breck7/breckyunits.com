@@ -1,9 +1,10 @@
 date 2010-9-29
 groups index
 permalink remove-all-ds_store-files-recursively.html
+title Remove all DS_Store files recursively
 
 import header.scroll
-title Remove all DS_Store files recursively
+printTitle
 
 thinColumns 2
 

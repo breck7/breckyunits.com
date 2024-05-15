@@ -1,9 +1,10 @@
 date 2/3/2024
 groups All BipolarDisorder
 related theEnergyClock
+title Becoming a High Energy Person
 
 import header.scroll
-title Becoming a High Energy Person
+printTitle
 
 mediumColumns 1
 

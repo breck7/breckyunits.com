@@ -1,9 +1,10 @@
 date 2009-11-25
 groups index
 permalink cron-in-2-steps.html
+title cron in 2 steps
 
 import header.scroll
-title cron in 2 steps
+printTitle
 
 thinColumns 2
 

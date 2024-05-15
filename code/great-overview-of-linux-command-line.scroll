@@ -1,9 +1,10 @@
 date 2011-10-11
 groups index
 permalink great-overview-of-linux-command-line.html
+title Great Overview of Linux Command Line
 
 import header.scroll
-title Great Overview of Linux Command Line
+printTitle
 
 thinColumns 2
 

@@ -1,8 +1,9 @@
 date 2008-07-09
 groups All Life
+title Over Half of the World is Older Than Me
 
 import header.scroll
-title Over Half of the World is Older Than Me
+printTitle
 thinColumns 1
 
 It’s nice to know that more than 50% of the people  alive today have been around for longer than I have(at least for a few more years).

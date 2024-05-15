@@ -1,9 +1,10 @@
 date 2012-11-26
 groups All Thinking
 related bigOsKitchen logeracy orders-of-magnitude
+title Planets and Pebbles
 
 import header.scroll
-title Planets and Pebbles
+printTitle
 thinColumns 1
 
 For todo lists, I created a system I call planets and pebbles.

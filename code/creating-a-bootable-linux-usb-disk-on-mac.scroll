@@ -1,9 +1,10 @@
 date 2011-7-8
 groups index
 permalink creating-a-bootable-linux-usb-disk-on-mac.html
+title Creating a bootable Linux USB disk on Mac
 
 import header.scroll
-title Creating a bootable Linux USB disk on Mac
+printTitle
 
 thinColumns 2
 

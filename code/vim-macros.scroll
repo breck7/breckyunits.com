@@ -1,9 +1,10 @@
 date 2010-3-9
 groups index
 permalink vim-macros.html
+title vim macros
 
 import header.scroll
-title vim macros
+printTitle
 
 thinColumns 2
 

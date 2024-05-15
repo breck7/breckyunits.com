@@ -1,9 +1,10 @@
 date 2013-03-30
 groups All Life Thinking Data
 related 30000hours
+title Why 10,000 hours?
 
 import header.scroll
-title Why 10,000 hours?
+printTitle
 
 thinColumns 2
 

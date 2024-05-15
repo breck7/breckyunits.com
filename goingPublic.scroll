@@ -1,7 +1,8 @@
 date 11/05/2022
+title Well YCombinator, we're going public anyway.
 
 import header.scroll
-title Well YCombinator, we're going public anyway.
+printTitle
 
 thinColumns 2
 

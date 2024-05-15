@@ -1,11 +1,12 @@
 importOnly
 description Posts on this blog categorized in CAT_TITLE.
 groups categoryPages
+title Breck's Blog - CAT_TITLE Posts
 
 import settings.scroll
 metaTags
 gazetteCss
 gazetteHeader
-title Breck's Blog - CAT_TITLE Posts
+printTitle
 import categoryLinks.scroll
 css html {font-size: var(--base-font-size, 8px);}

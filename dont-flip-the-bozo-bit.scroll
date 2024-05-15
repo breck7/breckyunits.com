@@ -1,8 +1,9 @@
 date 2009-12-13
 groups All Programming Life
+title Don't Flip the Bozo Bit
 
 import header.scroll
-title Don't Flip the Bozo Bit
+printTitle
 
 thinColumns 2
 

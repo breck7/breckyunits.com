@@ -1,10 +1,15 @@
-import ../header.scroll
+date 4/01/2002
+description #BringBackNapster
+email liberateidea@breckyunits.com
+git https://github.com/breck7
+permalink perelman.html
 title Perelman
+viewSourceBaseUrl https://github.com/breck7
+
+import ../header.scroll
+printTitle
 
 thinColumns 2
-permalink perelman.html
-
-date 4/01/2002
 
 _Michael Perelman teaches economics at California State University,
  Chico. This article is based on his <a href="https://www.amazon.com/Steal-This-Idea-Intellectual-Confiscation/dp/0312294085">book</a> Steal This Idea: Imaginary
@@ -344,10 +349,5 @@ So here are imaginary property rights that undermines science, burdens the
  great advances in imaginary property. Yet the leaders of the
  capitalist world can find no better way to lift the rate of profit
  than to promote the expansion of imaginary property rights.
-
-description #BringBackNapster
-git https://github.com/breck7
-viewSourceBaseUrl https://github.com/breck7
-email liberateidea@breckyunits.com
 
 import ../footer.scroll

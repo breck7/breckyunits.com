@@ -1,9 +1,10 @@
 date 2010-02-19
 groups All Life
 related prove-it
+title Don't talk about what you will do, talk about what you have done
 
 import header.scroll
-title Don't talk about what you will do, talk about what you have done
+printTitle
 
 thinColumns 2
 

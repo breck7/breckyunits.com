@@ -1,8 +1,9 @@
 date 2009-12-02 2
 groups All Life
+title Experience is What You Get
 
 import header.scroll
-title Experience is What You Get
+printTitle
 mediumColumns 1
 
 quote

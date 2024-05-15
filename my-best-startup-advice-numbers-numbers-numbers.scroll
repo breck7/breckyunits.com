@@ -1,8 +1,9 @@
 date 2008-10-12
 groups All Startups
+title When the Market Says No, Listen
 
 import header.scroll
-title When the Market Says No, Listen
+printTitle
 thinColumns 2
 
 I just want to share the most valuable piece of Internet startup advice I possess.

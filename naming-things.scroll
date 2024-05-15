@@ -1,8 +1,9 @@
 date 2012-10-20
 groups All Programming Writing
+title Naming Things
 
 import header.scroll
-title Naming Things
+printTitle
 
 thinColumns 2
 

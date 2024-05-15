@@ -1,8 +1,9 @@
 date 2010-08-25
 groups All Life Society
+title Kids are Neat
 
 import header.scroll
-title Kids are Neat
+printTitle
 
 thinColumns 1
 

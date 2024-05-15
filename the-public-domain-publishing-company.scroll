@@ -1,11 +1,12 @@
 date 2021-02-28 1
 groups All IntellectualFreedom Startups TreeNotation
+title The Public Domain Publishing Company
 
 import header.scroll
 
 thinColumns 1
 
-title The Public Domain Publishing Company
+printTitle
 
 I thought it unlikely that I'd actually cofound another startup, but here we are. Sometimes you gotta do what you gotta do.
  dateline

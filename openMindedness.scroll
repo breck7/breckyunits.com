@@ -1,8 +1,9 @@
 date 3/08/2024
 groups All BipolarDisorder Life
+title Open-Mindedness
 
 import header.scroll
-title Open-Mindedness
+printTitle
 thinColumns 2
 
 What is open-mindedness, from first principles? Here are some musings.

@@ -1,8 +1,9 @@
 date 2009-01-05
 groups All Startups
+title Are you Making Something that will become ‘Absolutely Irrelevant’?
 
 import header.scroll
-title Are you Making Something that will become ‘Absolutely Irrelevant’?
+printTitle
 thinColumns 2
 
 I’m reading a fascinating biography of Warren Buffett right now(Snowball).

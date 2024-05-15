@@ -1,6 +1,8 @@
+title Search Breck's Blog
+
 import header.scroll
 
-title Search Breck's Blog
+printTitle
 import categoryLinks.scroll
 
 wideColumns 2

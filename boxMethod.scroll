@@ -1,8 +1,9 @@
 date 2024-3-30
 groups All Data Thinking
+title The Box Method of Science
 
 import header.scroll
-title The Box Method of Science
+printTitle
 
 thinColumns 2
 
@@ -13,8 +14,6 @@ image boxMethod.jpeg
 Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
  dateline
  // box === cube
-
-endSnippet
 
 ***
 
