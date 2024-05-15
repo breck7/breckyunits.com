@@ -2,6 +2,6 @@ import settings.scroll
 metaTags
 gazetteCss
 gazetteHeader
-title Breck Yunits' Code Blog
+title Breck's Code Blog
 snippets index
 import footer.scroll

@@ -2,6 +2,6 @@ description Some writing about probability, programming, economics and life.
 permalink feed.xml
 
 import settings.scroll
-title Breck Yunits' Blog
+title Breck's Blog
  hidden
 printFeed All
