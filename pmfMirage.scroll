@@ -1,6 +1,6 @@
 date 2024-05-15
 groups All Startups
-title A PMF Mirage
+title PMF Mirages
 
 import header.scroll
 printTitle
@@ -12,52 +12,56 @@ I typed `tail -f pageViews.log` into my console.
 
 Then pressed Enter.
 
-I stared as my screen filled with endless lines of text.
+I stared at my screen as it streamed with endless lines of text.
+
+Each line evidence of a visitor interacting with my new site.
+
+It had been doing this for days.
 
 _Holy shit,_ I thought.
 
-_This must be Product Market Fit_.
+_This must be "Product Market Fit"_.
 
 ***
 
-All businesses fall into a handful of classes.
+You can categorize all startups into a handful of classes.
  link bigOsKitchen.html handful of classes
 
-If you start a business washing clothes and your only equipment is a bathtub, you have a Logarithmic Business.
+If you start a business washing clothes and your only equipment is a bathtub, you have a Log Business.
 
 Buy some washing machines, and now it can be a Linear Business.
 
 Add some employees and you might go Log Linear.
 
-But if you develop it into a Laundromat Franchising Startup, now you are starting to talk about the Quadratic and Exponential classes of businesses.
+But if you develop it into a Laundromat Franchising Startup, now you might enter the realm of Quadratic and Exponential Businesses.
 
 ***
 
 "Venture Capital" is the sport of trying to build Quadratic and Exponential Businesses.
 
-"Product Market Fit" (PMF) is the term for when your startup phase changes from a Linear or Log Linear business to a Quadratic or Exponential one.
+"Product Market Fit" (PMF) is the term for when your startup phase-changes from a Linear or Log Linear business to a Quadratic or Exponential one.
 
-You detect PMF when you see the slope of your key metrics get steep.
+You detect PMF when you see your numbers accelerate upward.
 
-It's the difference between skiing the bunny slopes and Heli-skiing.
+It's like moving from skiing the bunny slopes to heli-skiing.
 
 ***
 
-They say PMF is a rare thing. Maybe 1% of startups experience that kind of phase change.
+They say PMF is a rare thing. Maybe 1% of startups experience that kind of phase-change.
 
-I've been in this world for a couple of decades, and that sounds about right.
+I've been in this world for a couple of decades, and that sounds about right to me.
 
 I have seen it a number of times, mostly from the years I lived in San Francisco.
 
 I remember when the Dropbox and Airbnb gatherings went from beers around makeshift offices to having guest lists a thousand names long at the hippest venues in the city.
 
-When you make something that hits PMF--something that a lot of people want--the resources and people come streaming.
+When you make something that hits PMF—something that a lot of people want—the customers and resources come streaming.
 
 It's a lot to deal with, good and bad.
 
 ***
 
-I have long had an idea that I thought had potential to be in the Quadratic or Expo class.
+I have long had a technology that I thought might evolve to be in the Quad or Expo Class.
 
 In 2017, I launched it.
 
@@ -87,7 +91,7 @@ I then went to the playground with my daughters, assuming crickets again.
 
 The next day, I was pleasantly surprised to see hundreds of upvotes and many good signs that people were finding my thing useful.
 
-I enjoyed the little dopamine rush--the helpful little payoffs that help one get through the laborious years of building--but I expected the increase in users to be fleeting, like it had been in the past.
+I enjoyed the small rush of dopamine—those helpful little payoffs that help one get through the laborious years of building—but I expected the increase in users to be fleeting, like it had been in the past.
 
 However, the traffic didn't stop.
 
@@ -95,7 +99,7 @@ No matter what time of day, when I looked at the live server logs, a lot of peop
 
 _It's finally happening._ I thought.
 
-_I made something people want. It is somewhere in the Quad/Expo class. I've got PMF. I can now can get the resources to fully build out the idea._
+_I made something people want. It is somewhere in the Quad/Expo class. I've got PMF. I can now can get the resources to fully build out the vision._
 
 ***
 
@@ -119,7 +123,7 @@ I share this story on this blog because I realize I've actually made it a few ti
 
 Of course, I have also made the opposite mistake.
 
-I have invested in businesses and taken Log Linear gains only to watch from the sidelines as the business phase changed into Quad/Expo.
+I have invested in businesses and taken Log Linear gains only to watch from the sidelines as the business phase-changed into Quad/Expo.
 
 I bought SellNothing.com years ago to remind myself of mistakes like the time I took a 10x gain on NVidia, and a 100x gain on Bitcoin, instead of just sitting on the beach and getting 100x and 10,000x gains.
 
