@@ -152,13 +152,18 @@ I have proof that I can be fooled in either direction.
 
 # What have I learned?
 
+Never ever got cocky over man made metrics. Ultimately, man made metrics are meaningless. God doesn't care about man made metrics. The second you get cocky about man made metrics, nature will humble you.
+
+Don't care about metrics emotionally, but do use them for practical purposes.
+
 If you are the one building the thing, assume positive metrics are faulty. _Especially_ superficial metrics like views and likes.
 
 If you are committed to building something for the long term (and if you're not, you should be doing something else), it's unhealthy to get excited over short term metric bumps anyway.
 
 Make sure you have a really strong mental model of the world and how your product fits into that.
 
-Your mental mode should be your primary source of truth. Metrics should merely be a unit test that your model fits reality.
+Your mental models should be your primary source of truth. Metrics should merely be automated tests that your models predict reality.
+ link datasets.html automated tests
 
 Don't think just because you've worked on something for a long time that at some point it has to hit PMF. Nature does not owe you PMF.
 
