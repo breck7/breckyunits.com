@@ -8,7 +8,7 @@ thinColumns 1
 
 printTitle
 
-byLine
+printAuthor
 
 image scientistsHeaven.jpg
  openGraph

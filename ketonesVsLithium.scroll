@@ -4,7 +4,7 @@ title Ketones vs Lithium
 
 import header.scroll
 printTitle
-byLine
+printAuthor
 thinColumns 2
 
 image ketones/ketoMojoFingerPrick.jpeg

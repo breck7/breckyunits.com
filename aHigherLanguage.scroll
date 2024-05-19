@@ -8,7 +8,7 @@ title A Higher Language
 import header.scroll
 printTitle
 
-byLine
+printAuthor
 
 thinColumns 1
 

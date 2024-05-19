@@ -1,14 +1,13 @@
 date 2024-05-15
 groups All Startups
+openGraphImage pmfMirage.jpg
+ // ChatGPT
 title PMF Mirages
 
 import header.scroll
 printTitle
 
 thinColumns 1
-
-openGraphImage pmfMirage.jpg
- // ChatGPT
 
 I typed `tail -f pageViews.log` into my console.
  dateline
@@ -171,7 +170,7 @@ You've always got to zoom out to improve your mental models, and zoom in to exec
 
 You have got to build past the payoff points on your projects to realize the leverage from a good Quad/Expo idea.
 
-You have to be long term oriented. 
+You have to be long term oriented.
 
 Remember, things in the Quad and Expo classes *only* become Quad and Expo *over time*. So slow down, spend more time thinking about your models and less time looking at your metrics.
 

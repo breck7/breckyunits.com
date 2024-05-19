@@ -10,7 +10,7 @@ printTitle
  https://en.wikipedia.org/wiki/Kathmandu Kathmandu
  https://en.wikipedia.org/wiki/Adenosine_triphosphate ATP
 
-byLine
+printAuthor
 
 thinColumns 1
 

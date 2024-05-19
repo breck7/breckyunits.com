@@ -8,7 +8,7 @@ title The Fastest in the World
 import header.scroll
 printTitle
 
-byLine
+printAuthor
 
 thinColumns 1
 

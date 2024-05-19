@@ -4,7 +4,7 @@ title A Different Kind of Mindmap
 
 import header.scroll
 printTitle
-byLine
+printAuthor
 thinColumns 2
 
 In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.

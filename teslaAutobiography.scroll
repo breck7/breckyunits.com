@@ -1,3 +1,4 @@
+author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 openGraphImage tesla.jpeg
 title My Inventions
 
@@ -6,8 +7,7 @@ import header.scroll
 printTitle
 
 # Nikola Tesla's Autobiography
-
-byLine https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
+printAuthor
 
 ## Source
  http://www.tfcbooks.com/special/my_inventions_index.htm
