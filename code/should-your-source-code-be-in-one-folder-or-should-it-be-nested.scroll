@@ -3,15 +3,9 @@ groups index
 permalink should-your-source-code-be-in-one-folder-or-should-it-be-nested.html
 title Should your source code be in one folder or should it be nested?
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 There are two ways to organize source code files for a project: flat or nested.
- dateline
 
 Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
 

@@ -3,15 +3,9 @@ groups index
 permalink execute-commands-on-remote-server-via-ssh.html
 title Execute commands on remote server via ssh
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Ever want to non interactively execute commands on a remote server?
- dateline
 
 code
  ssh breckyunits.com 'df -h'

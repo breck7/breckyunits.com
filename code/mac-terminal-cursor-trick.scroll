@@ -3,13 +3,8 @@ groups index
 permalink mac-terminal-cursor-trick.html
 title Mac Terminal Cursor Trick
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 If you hold the "option" key while using the Mac terminal you can use your mouse and click on where you want the cursor to go. This comes in handy if you mistype a command and don't want to retype the whole thing. It also kind of negates the need for a "home" key on the terminal.
- dateline
+
 import footer.scroll

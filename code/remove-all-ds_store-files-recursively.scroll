@@ -3,12 +3,7 @@ groups index
 permalink remove-all-ds_store-files-recursively.html
 title Remove all DS_Store files recursively
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 code
  find . -type f -name ".DS_Store" -exec rm {} \;

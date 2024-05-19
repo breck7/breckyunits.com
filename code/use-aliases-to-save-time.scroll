@@ -3,15 +3,9 @@ groups index
 permalink use-aliases-to-save-time.html
 title Use aliases to save time
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Using aliases in Linux can save you a lot of time. Here's an example:
- dateline
 
 code
  alias www='cd /var/www/html/'

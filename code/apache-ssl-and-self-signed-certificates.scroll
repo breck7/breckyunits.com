@@ -3,15 +3,9 @@ groups index
 permalink apache-ssl-and-self-signed-certificates.html
 title Apache, SSL and self signed certificates
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
- dateline
 
 Here's what it boils down to:
 

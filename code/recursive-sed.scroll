@@ -3,15 +3,9 @@ groups index
 permalink recursive-sed.html
 title Recursive Sed
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
- dateline
 
 code
  #!/bin/bash

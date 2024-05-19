@@ -3,15 +3,9 @@ groups index
 permalink unix-date-command.html
 title Unix date command
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Display the current unix timestamp:
- dateline
 
 code
  date +%s

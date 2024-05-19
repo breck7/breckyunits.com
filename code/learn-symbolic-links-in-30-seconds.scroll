@@ -3,15 +3,9 @@ groups index
 permalink learn-symbolic-links-in-30-seconds.html
 title Learn Symbolic Links in 30 seconds
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Symbolic links are simple and can save you time.
- dateline
 
 Here's all you need to know:
 

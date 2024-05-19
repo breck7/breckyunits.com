@@ -3,15 +3,9 @@ groups index
 permalink how-to-fix-an-overwhelmed-gmail-accout.html
 title How to fix an overwhelmed Gmail Accout
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 I have used the same Gmail address as my main email for over 5 years. Since then:
- dateline
 
 - I've made dozens of other emails that forward to this address.
 - I've signed up for hundreds of web apps and newsletters.

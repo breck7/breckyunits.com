@@ -3,17 +3,11 @@ groups index
 permalink linux-go-back-to-previous-directory.html
 title Linux Go Back to Previous Directory
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 code
  cd -
 
 To go back to the last directory you were in. Basically an "undo" for the cd command.
- dateline
 
 import footer.scroll

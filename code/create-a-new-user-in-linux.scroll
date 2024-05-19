@@ -3,15 +3,9 @@ groups index
 permalink create-a-new-user-in-linux.html
 title Create a new user in Linux
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Creating a new user in Linux is dead simple.
- dateline
 
 code
  useradd bob

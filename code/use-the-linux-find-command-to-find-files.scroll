@@ -3,15 +3,9 @@ groups index
 permalink use-the-linux-find-command-to-find-files.html
 title Use the linux find command to find files
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
- dateline
 
 code
  find -name "breck*"

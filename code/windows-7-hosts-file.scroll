@@ -3,15 +3,9 @@ groups index
 permalink windows-7-hosts-file.html
 title Windows 7 Hosts File
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 The file is located at:
- dateline
 
 code
  windows/system32/drivers/etc/host

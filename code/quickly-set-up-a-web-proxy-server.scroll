@@ -3,15 +3,9 @@ groups index
 permalink quickly-set-up-a-web-proxy-server.html
 title Quickly Set up a Web Proxy Server
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
- dateline
 
 Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy">article</a> that shows how.
 

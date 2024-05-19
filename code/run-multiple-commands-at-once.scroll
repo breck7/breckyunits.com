@@ -3,15 +3,9 @@ groups index
 permalink run-multiple-commands-at-once.html
 title Run multiple commands at once
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
- dateline
 
 For instance:
 

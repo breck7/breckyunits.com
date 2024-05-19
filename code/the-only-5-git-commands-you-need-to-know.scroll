@@ -3,12 +3,7 @@ groups index
 permalink the-only-5-git-commands-you-need-to-know.html
 title The only 5 git commands you need to know
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 chat
  What's the difference between a great programmer with great social skills and a great programmer who does not use version control?
@@ -17,7 +12,6 @@ chat
  Because version control is made to seem intimidating. But version control is actually very easy!
 
 If you are new to version control, there are only 5 commands you need to memorize. Can you memorize 5 words? Of course you can.
- dateline
 
 So memorize these 5 words and you'll be practically an expert at version control:
 

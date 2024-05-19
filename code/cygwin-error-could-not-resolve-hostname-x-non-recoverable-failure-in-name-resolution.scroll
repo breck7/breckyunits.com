@@ -3,15 +3,9 @@ groups index
 permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
 title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 I've been getting this error a lot in Cygwin on Windows 7:
- dateline
 
 code
  Could not resolve hostname X: Non-recoverable failure in name resolution

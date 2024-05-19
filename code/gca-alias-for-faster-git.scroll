@@ -3,15 +3,9 @@ groups index
 permalink gca-alias-for-faster-git.html
 title gca alias for faster git
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 One of my most frequent commands is:
- dateline
 
 code
  git commit -am "message"

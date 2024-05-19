@@ -2,15 +2,9 @@ date 07/08/2021
 groups index
 title Git Clone over SSH
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Using Git with your own servers—without a hub like GitHub or GitLab—is easy. This is the straightforward, quick and dirty way with no new concepts to learn. There are more advanced ways (like -bare), but I find 4 times out of 5 I just need a quick way to sync repos between machines.
- dateline
 
 # Cloning from your server to your local machine
 

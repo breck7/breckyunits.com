@@ -3,15 +3,9 @@ groups index
 permalink kill-a-detached-rails-webrick-server.html
 title Kill a Detached Rails Webrick Server
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 From your rails app's root:
- dateline
 
 code
  cat tmp/pids/server.pid

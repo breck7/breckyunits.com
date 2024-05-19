@@ -3,15 +3,9 @@ groups index
 permalink basic-linux-monitoring.html
 title Basic Linux Monitoring
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Show memory usage:
- dateline
 
 code
  free -m

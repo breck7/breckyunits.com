@@ -3,15 +3,9 @@ groups index
 permalink git-ignore-global.html
 title Git Ignore Global
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Create a global .gitignore file to ignore common pains:
- dateline
 
 code
  vim ~/.gitignore_global

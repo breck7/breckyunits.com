@@ -3,15 +3,9 @@ groups index
 permalink plugins-for-notepad.html
 title Plugins for Notepad++
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Notepad++ is my go to editor.
- dateline
 
 The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
 

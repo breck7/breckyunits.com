@@ -3,15 +3,9 @@ groups index
 permalink adjusting-to-a-mac.html
 title Adjusting to a Mac
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.
- dateline
 
 After a week I'm finally starting to get used to it. I'm starting to really customize it and that seems to make all the difference. I've removed nearly everything from the dock, added a bunch of things to my bash profile, and a friend at work gave me a crash course in Textmate.
 

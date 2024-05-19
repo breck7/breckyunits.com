@@ -3,15 +3,9 @@ groups index
 permalink pipes-standard-output-and-standard-input.html
 title Pipes, standard output and standard input
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 In linux, standard input refers to the stream of bits that come from your keyboard.
- dateline
 
 Standard output refers to the stream of bits that appear on your screen(terminal).
 

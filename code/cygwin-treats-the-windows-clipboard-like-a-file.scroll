@@ -3,15 +3,9 @@ groups index
 permalink cygwin-treats-the-windows-clipboard-like-a-file.html
 title Cygwin treats the Windows Clipboard like a file
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
- dateline
 
 Want to copy the current cygwin directory into your clipboard?
 

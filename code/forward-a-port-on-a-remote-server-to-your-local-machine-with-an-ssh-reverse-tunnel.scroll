@@ -3,15 +3,9 @@ groups index
 permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
 title Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Say you are running a web server locally and want to show it to someone else remotely.
- dateline
 
 You have a few ways to do this:
 

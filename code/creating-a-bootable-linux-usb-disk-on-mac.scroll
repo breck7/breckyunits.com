@@ -3,12 +3,7 @@ groups index
 permalink creating-a-bootable-linux-usb-disk-on-mac.html
 title Creating a bootable Linux USB disk on Mac
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 - Download the ISO
 - Convert iso to img on terminal:
@@ -25,7 +20,6 @@ code
  dd if=/path/to/new.img of=/dev/rDISKNUMBER bs=1m
 
 Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
- dateline
 
 Back in Disk Utility, unmount/eject the disk.
 

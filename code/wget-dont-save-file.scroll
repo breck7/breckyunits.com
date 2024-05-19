@@ -3,12 +3,7 @@ groups index
 permalink wget-dont-save-file.html
 title wget don't save file
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 code
  wget -O /dev/null http://address.com

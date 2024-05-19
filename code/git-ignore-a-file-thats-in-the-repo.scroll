@@ -3,15 +3,9 @@ groups index
 permalink git-ignore-a-file-thats-in-the-repo.html
 title Git ignore a file that's in the repo
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:
- dateline
 
 code
  git update-index --assume-unchanged filepath

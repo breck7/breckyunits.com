@@ -3,15 +3,9 @@ groups index
 permalink bash-history.html
 title Bash History
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Understanding and mastering bash history can:
- dateline
 
 - 1. Save you a lot of time, keystrokes, and errors.
 - 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).

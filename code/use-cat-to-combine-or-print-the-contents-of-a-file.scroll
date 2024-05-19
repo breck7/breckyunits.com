@@ -3,15 +3,9 @@ groups index
 permalink use-cat-to-combine-or-print-the-contents-of-a-file.html
 title Use cat to combine or print the contents of a file
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Print the contents of a file:
- dateline
 
 code
  cat filename.txt

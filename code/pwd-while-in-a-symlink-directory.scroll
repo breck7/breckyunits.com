@@ -3,15 +3,9 @@ groups index
 permalink pwd-while-in-a-symlink-directory.html
 title pwd while in a symlink directory
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 To get the actual directory, run:
- dateline
 
 code
  /bin/pwd

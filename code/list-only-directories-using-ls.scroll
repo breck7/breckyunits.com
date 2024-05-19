@@ -3,15 +3,9 @@ groups index
 permalink list-only-directories-using-ls.html
 title List only directories using ls
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 The `ls` command lists all files and directories. What if you just wanted to list the directories?
- dateline
 
 code
  ls -l | egrep '^d'

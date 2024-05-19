@@ -3,15 +3,9 @@ groups index
 permalink ack-and-ackmate.html
 title ack and ackmate
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 So one common problem I have is writing code at a macro level---refactoring things in multiple files. Notepad++ used to make this easy with it's fast and powerful find/replace in folder feature. Textmate's built in find/replace in project is painfully slow.
- dateline
 
 Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered <a href="http://betterthangrep.com/">ack & AckMate</a>. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
 

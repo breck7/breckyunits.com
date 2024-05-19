@@ -3,12 +3,7 @@ groups index
 permalink zip-a-directory-in-linux.html
 title zip a directory in linux
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 code
  zip -r backup mydir/

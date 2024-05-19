@@ -3,15 +3,9 @@ groups index
 permalink a-few-new-tricks-in-notepad.html
 title A few new Tricks in Notepad++
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse).
- dateline
 
 The one thing I love about Windows is Notepad++. Sorry Textmate, you just can't compete.
 

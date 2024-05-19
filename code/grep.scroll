@@ -2,12 +2,7 @@ date 2024-5-14
 groups index
 title Useful Grep Searches with Scroll
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Find all scroll files not matching a pattern:
 

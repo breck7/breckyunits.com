@@ -3,15 +3,9 @@ groups index
 permalink how-i-organize-my-dropbox.html
 title How I organize my Dropbox
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Gmail encourages users to "search not sort". I do that. Email works great for search. For files though, sorting is often better.
- dateline
 
 I have well over 20GB of files synced onto my Dropbox. The rest of my computer is spotless(I use Windows 7 and do a fresh install every 30-60 days). But the Dropbox can get cluttered. I take a simple approach that is a hybrid of search and sort. Here's how to do it:
 

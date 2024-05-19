@@ -3,15 +3,9 @@ groups index
 permalink fix-permission-problems-using-chmod.html
 title Fix permission problems using chmod
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Permission problems driving you crazy? Here's a common command to fix them:
- dateline
 
 code
  chmod -R 755 directoryname

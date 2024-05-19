@@ -3,15 +3,9 @@ groups index
 permalink change-the-file-owner-or-group-in-linux.html
 title Change the file owner or group in Linux
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Change the owner of a file or folder:
- dateline
 
 code
  chown newowner filename

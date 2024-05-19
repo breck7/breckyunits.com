@@ -3,13 +3,8 @@ groups index
 permalink recursive-ls.html
 title Recursive ls
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
- dateline
+
 import footer.scroll

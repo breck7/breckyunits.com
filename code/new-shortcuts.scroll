@@ -3,15 +3,9 @@ groups index
 permalink new-shortcuts.html
 title New shortcuts
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Gmail:
- dateline
 
 code
  gi - go to inbox

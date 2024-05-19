@@ -3,15 +3,9 @@ groups index
 permalink nohup-and-disown.html
 title nohup and disown
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Just read a good guide on how to keep commands running when you exit ssh:
- dateline
 
 Disown, nohup : Bash Commands.
  http://playingwithsid.blogspot.com/2007/10/disown-nohup-bash-commands.html

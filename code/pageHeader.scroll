@@ -1,0 +1,7 @@
+importOnly
+
+import header.scroll
+keyboardNav
+mediumColumns 1
+printTitle
+printDate

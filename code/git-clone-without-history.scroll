@@ -3,15 +3,9 @@ groups index
 permalink git-clone-without-history.html
 title git clone without history
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 If you're using a library from git in another project, you may want to download it without the history. Here's how:
- dateline
 
 code
  git clone --depth 1 your_repo_url

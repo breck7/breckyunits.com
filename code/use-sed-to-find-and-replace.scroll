@@ -3,16 +3,10 @@ groups index
 permalink use-sed-to-find-and-replace.html
 title Use sed to find and replace
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 `grep` is to find what `sed` is to replace.
  link use-grep-to-search-multiple-files-at-once.html grep
- dateline
 
 Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
 

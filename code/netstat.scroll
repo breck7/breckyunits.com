@@ -3,15 +3,9 @@ groups index
 permalink netstat.html
 title netstat
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Every wonder what's listening on what ports?
- dateline
 
 code
  netstat -lp

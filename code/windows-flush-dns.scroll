@@ -3,15 +3,9 @@ groups index
 permalink windows-flush-dns.html
 title Windows Flush DNS
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Open cmd.exe. Run:
- dateline
 
 code
  ipconfig /flushdns

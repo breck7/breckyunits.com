@@ -2,15 +2,9 @@ date 2022-6-21
 groups index
 title My Sublime Settings
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 I'm going to start sticking my Sublime Text settings and plugins here.
- dateline
 
 code
  "goto_anything_exclude_gitignore": true,

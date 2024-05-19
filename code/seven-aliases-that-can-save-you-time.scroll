@@ -3,15 +3,9 @@ groups index
 permalink seven-aliases-that-can-save-you-time.html
 title Seven aliases that can save you time
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Add these to your .bash_profile to speed up common tasks:
- dateline
 
 code
  alias apr='sudo ./usr/sbin/apachectl restart' # restart apache

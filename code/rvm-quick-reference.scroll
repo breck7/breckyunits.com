@@ -3,15 +3,9 @@ groups index
 permalink rvm-quick-reference.html
 title RVM Quick Reference
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Return to the Mac OS X default Ruby install:
- dateline
 
 code
  rvm system

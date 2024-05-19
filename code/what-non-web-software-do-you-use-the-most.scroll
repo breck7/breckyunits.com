@@ -3,15 +3,9 @@ groups index
 permalink what-non-web-software-do-you-use-the-most.html
 title What non-web software do you use the most?
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Here are the programs I use everyday, every week, and every month.
- dateline
 
 What software do you use the most? What are your "must haves"?
 

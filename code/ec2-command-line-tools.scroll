@@ -3,15 +3,9 @@ groups index
 permalink ec2-command-line-tools.html
 title EC2 Command Line Tools
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Step 1. Download them. http://aws.amazon.com/developertools/351
- dateline
 
 Step 2. Set Java path in your .bash_profile:
 

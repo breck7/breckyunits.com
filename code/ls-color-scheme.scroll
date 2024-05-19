@@ -3,15 +3,9 @@ groups index
 permalink ls-color-scheme.html
 title ls color scheme
 
-import header.scroll
-printTitle
-
-thinColumns 2
-
-keyboardNav
+import pageHeader.scroll
 
 Found this <a href="http://cygwin.com/ml/cygwin/2002-06/msg00594.html">helpful color scheme</a> for ls. toss in your bash_profile.
- dateline
 
 code
  alias ls="ls --color=auto"
