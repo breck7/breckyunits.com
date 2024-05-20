@@ -1,6 +1,7 @@
 date 2024-05-07
 groups All Life Thinking
-title Black Swan Thoughts
+title The Tallest Tree
+ // thanks to Lees Yunits for the better title
 
 import header.scroll
 printTitle
@@ -10,7 +11,7 @@ printAuthor
 
 thinColumns 1
 
-image blackSwanThoughts.jpg
+image theTallestTree.jpg
  openGraph
  // ChatGPT/DallE, with some slight edits by me. Prompt:
   It is a comic. Single frame. XKCD style. A very tall tree stands in the middle, ten times taller than a tree to the left and a tree to the right. Next to the tree on the left is a stump carved out to form a throne. On the stump sites an old man with a gray beard. On the right is a small child looking up at the tree.
