@@ -15,9 +15,9 @@ HTML | TXT | PDF
 printAuthor
 printDate
 
-thinColumns 3
+// thinColumns 3
  // use 2 columns for pdf. 1 for html.
-// mediumColumns 1
+mediumColumns 1
 
 All tabular knowledge can be stored in a single long plain text file.
  // Anything that traditionally has been stored in tables, spreadsheets, etc.
