@@ -105,6 +105,9 @@ image scrollsets.png
 # Prior Art
 Modern databases^sql were designed before git^git, fast filesystems^apple, and the Tree Notation stack^treeNotation, all requirements of this system.
 
+GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
+ https://www.gnu.org/software/recutils/
+
 ***
 
 # Initial Implementation and Experimental Evidence
@@ -147,6 +150,13 @@ This system might also have broad use.
  https://en.wikipedia.org/wiki/Apple_M1 M1
 ^treeNotation Tree Notation: Breck Yunits et al
  https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Tree Notation
+^recutils GNU Recutils: Jose E. Marchesi
+ https://www.gnu.org/software/recutils/ GNU Recutils
+- Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
+ - "difficult to manage hierarchies". Hierarchies are painless in our system through nested parsers, parser inheritance, parser mixins, and nested measurements.
+ - "tedious to manually encode...several lines". No encoding is needed in our system thanks to the indentation trick.
+ - In Recutils comments are "completely ignored by processing tools and can only be seen by looking at the recfile itself". Our system supports first class comments which are bound to measurements using the indentation trick.
+ - "It is difficult to manually maintain the integrity of data stored in the data base." In our system advances parsers provides unlimited capabilities for maintaining data integrity.
 ^antlr ANTLR: Terence Parr et al
  https://www.antlr.org/ ANTLR
 ^racket Racket: Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Shriram Krishnamurthi, et al.
@@ -158,8 +168,8 @@ This system might also have broad use.
 ***
 
 # Thanks
-Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
-
+Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
+// thanks to https://github.com/rakoo for pointing our GNU Recutils
 ****
 
 
