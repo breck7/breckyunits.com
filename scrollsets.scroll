@@ -16,7 +16,7 @@ printAuthor
 printDate
 
 // thinColumns 3
- // use 2 columns for pdf. 1 for html.
+ // use 2 columns for pdf. 1 for html. todo: automate pdf generation.
 mediumColumns 1
 
 All tabular knowledge can be stored in a single long plain text file.
@@ -138,6 +138,11 @@ If printed on a single scroll, the PLDB ScrollSet would be over one kilometer lo
 Measurements loosely map to nucleotides; concepts to genes; parsers to ribosomes.
 
 This system might also have broad use.
+
+You can read more about ScrollSets on the Scroll blog, see small demos at sets.scroll.pub, and see the large implementation at PLDB.io.
+ https://scroll.pub/blog/scrollsets.html read more about ScrollSets on the Scroll blog
+ https://sets.scroll.pub small demos at sets.scroll.pub
+ https://pldb.io PLDB.io
 
 ***
 
