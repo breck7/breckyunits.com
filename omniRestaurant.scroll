@@ -8,8 +8,6 @@ printTitle
 printAuthor
 printDate
 
-// image
-
 A famous celebrity passes away and wakes up on a beach.
 
 "Welcome to the Afterplace", says a man in white.
@@ -53,6 +51,10 @@ Then, flying out of the hole comes a silver platter.
 The platter hovers over her table then gently floats down.
 
 On it is a perfectly grilled Portobello mushroom.
+
+image omni.png
+ openGraph
+ // chatgpt/dalle
 
 ***
 
