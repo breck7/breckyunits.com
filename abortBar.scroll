@@ -1,7 +1,7 @@
 date 5/24/2024
 groups All Programming Life
 title Abort Bars
-openGraphImage abortBars.png
+openGraphImage abortBars.gif
 import header.scroll
 printTitle
 mediumColumns 1
