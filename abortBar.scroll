@@ -35,7 +35,7 @@ Every time someone starts a long task, measure the end result and duration. Then
 
 For any given time, it shows what percent of people were still waiting, what percent had succeeded, and what percent had aborted.
 
-It helps your users answer the question: should I abort?
+It helps your users decide: should I wait or abort?
 
 
 // There are some significant opportunities to improve this design further. I would love to see your iterations.
