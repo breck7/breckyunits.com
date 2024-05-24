@@ -1,5 +1,5 @@
 date 5/24/2024
-groups All Programming
+groups All Programming Life
 title Abort Bars
 openGraphImage abortBars.png
 import header.scroll
@@ -39,5 +39,7 @@ It helps your users decide: should I wait or abort?
 
 
 // There are some significant opportunities to improve this design further. I would love to see your iterations.
+
+// it is also interesting to think about abort bars in the context of life.
 
 import footer.scroll
