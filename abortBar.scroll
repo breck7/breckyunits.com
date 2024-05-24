@@ -23,12 +23,13 @@ Yesterday my FitBit app showed an animated progress bar for hours. It turned out
 But it made me remember my progress bar idea!
 
 <div id="chart"></div>
-<script src="https://d3js.org/d3.v6.min.js"></script>
 <style>
     .area-success { fill: rgb(101,170,102); }
     .area-aborted { fill: rgb(208,85,87); }
     .area-stillWaiting { fill: rgba(93,121,181, 0.5); }
  </style>
+<script src="d3.v6.min.js"></script>
+<script defer src="abortBar.js"></script>
 
 Every time someone starts a long task, measure the end result and duration. Then you can render a progress bar like the one above.
 
@@ -36,7 +37,6 @@ For any given time, it shows what percent of people were still waiting, what per
 
 It helps your users answer the question: should I abort?
 
-<script defer src="abortBar.js"></script>
 
 // There are some significant opportunities to improve this design further. I would love to see your iterations.
 
