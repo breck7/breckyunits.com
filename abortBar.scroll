@@ -1,0 +1,43 @@
+date 5/24/2024
+groups All Programming
+title Abort Bars
+openGraphImage abortBars.png
+import header.scroll
+printTitle
+mediumColumns 1
+# A Suggested Improvement to Progress Bars
+
+When I was a programmer at Microsoft I participated in a lot of internal betas.
+ dateline
+
+So I saw a lot of animated "progress" bars in software that was actually hung.
+
+_I bet you could invent a better progress bar_, I thought.
+
+But life went on and I forgot.
+
+***
+
+Yesterday my FitBit app showed an animated progress bar for hours. It turned out no progress was being made—the phone had no Internet connection.
+
+But it made me remember my progress bar idea!
+
+<div id="chart"></div>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<style>
+    .area-success { fill: rgb(101,170,102); }
+    .area-aborted { fill: rgb(208,85,87); }
+    .area-stillWaiting { fill: rgba(93,121,181, 0.5); }
+ </style>
+
+Every time someone starts a long task, measure the end result and duration. Then you can render a progress bar like the one above.
+
+For any given time, it shows what percent of people were still waiting, what percent had succeeded, and what percent had aborted.
+
+It helps your users answer the question: should I abort?
+
+<script defer src="abortBar.js"></script>
+
+// There are some significant opportunities to improve this design further. I would love to see your iterations.
+
+import footer.scroll
