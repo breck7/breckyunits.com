@@ -33,7 +33,7 @@ But it made me remember my progress bar idea!
 
 Every time someone starts a long task, measure the end result and duration. Then you can render a progress bar like the one above.
 
-For any given time, it shows what percent of people who waited that long would eventually see success, or end up aborting.
+For any given time, it shows what percent of people remaining would eventually see success, or end up aborting.
 
 It helps your users decide: should I wait or abort?
 
