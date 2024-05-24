@@ -4,7 +4,7 @@ Write a Javascript function `simulateLongJob()` that when you run it, returns th
 */
 
 class AbortBar {
-    constructor(historicalStatistics, width = 600, height = 100) {
+    constructor(historicalStatistics, width = 600, height = 25) {
         this.historicalStatistics = historicalStatistics
         this.width = width
         this.height = height
@@ -28,41 +28,88 @@ class AbortBar {
         return this
     }
 
+    colors = {
+        success: "rgb(101,170,102)",
+        abort: "rgb(208,85,87)",
+        border: "rgba(100,100,100,.5)",
+        background: "rgba(200,200,200,.5)",
+    }
+
     // Function to update the vertical line
     updateVerticalLine(currentTime) {
-        this.svg.selectAll(".time-line").remove() // Remove previous line if any
         if (currentTime > this.maxSeconds) {
             currentTime = this.maxSeconds
             this.stop()
+            return
         }
+
+        this.svg.selectAll(".time-line,.time-line-border").remove() // Remove previous line if any
+
+        const { colors } = this
+
+        // Find the closest data point to the given time
+        const closestData = this.historicalStatistics.reduce((prev, curr) => {
+            return Math.abs(curr.timeInSeconds - currentTime) <
+                Math.abs(prev.timeInSeconds - currentTime)
+                ? curr
+                : prev
+        })
+
+        const total =
+            closestData.remainingSuccesses + closestData.remainingAborts
+        const abortProbability = total ? closestData.remainingAborts / total : 1
+
+        // Calculate y-coordinates for splitting the line
+        const splitY = this.height * abortProbability
+
+        // Define the border color and width
+        const borderColor = colors.border
+        const borderWidth = 6 // Adjust the width as needed
+
+        // Draw the success (green) part of the line with a border
+        this.svg
+            .append("line")
+            .attr("class", "time-line-border")
+            .attr("x1", this.x(currentTime))
+            .attr("x2", this.x(currentTime))
+            .attr("y1", splitY)
+            .attr("y2", this.height)
+            .attr("stroke", borderColor)
+            .attr("stroke-width", borderWidth)
+
+        this.svg
+            .append("line")
+            .attr("class", "time-line")
+            .attr("x1", this.x(currentTime))
+            .attr("x2", this.x(currentTime))
+            .attr("y1", splitY)
+            .attr("y2", this.height)
+            .attr("stroke", colors.success)
+            .attr("stroke-width", 4)
+
+        // Draw the abort (red) part of the line with a border
+        this.svg
+            .append("line")
+            .attr("class", "time-line-border")
+            .attr("x1", this.x(currentTime))
+            .attr("x2", this.x(currentTime))
+            .attr("y1", 0)
+            .attr("y2", splitY)
+            .attr("stroke", borderColor)
+            .attr("stroke-width", borderWidth)
+
         this.svg
             .append("line")
             .attr("class", "time-line")
             .attr("x1", this.x(currentTime))
             .attr("x2", this.x(currentTime))
             .attr("y1", 0)
-            .attr("y2", this.height)
-            .attr("stroke", "black")
-            .attr("stroke-width", 2)
+            .attr("y2", splitY)
+            .attr("stroke", colors.abort)
+            .attr("stroke-width", 4)
     }
 
     draw() {
-        // Prepare the data for the stacked area chart
-        const stack = d3
-            .stack()
-            .keys(["remainingSuccesses", "remainingAborts"])
-            .order(d3.stackOrderNone)
-            .offset(d3.stackOffsetExpand) // Ensures areas add up to 100%
-
-        const series = stack(
-            this.historicalStatistics.map((d) => ({
-                timeInSeconds: d.timeInSeconds,
-                remainingSuccesses: d.remainingSuccesses,
-                remainingAborts: d.remainingAborts || 1,
-                stillWaiting: d.stillWaiting,
-            })),
-        )
-
         // Set the dimensions and margins of the graph
         const margin = { top: 0, right: 0, bottom: 0, left: 0 }
         const width = this.width - margin.left - margin.right
@@ -74,21 +121,42 @@ class AbortBar {
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
+            .attr(
+                "style",
+                `border: 1px solid ${this.colors.border};background: ${this.colors.background};`,
+            )
             .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`)
+        this.svg = svg
 
         // Add X axis
         const x = d3
             .scaleLinear()
             .domain(d3.extent(simulationResults, (d) => d.timeInSeconds))
             .range([0, width])
-        // svg.append("g")
-        //     .attr("transform", `translate(0,${height})`)
-        //     .call(d3.axisBottom(x).ticks(0)) // No tick marks or labels
+        this.x = x
 
         // Add Y axis
-        const y = d3.scaleLinear().domain([0, 1]).range([height, 0])
-        //svg.append("g").call(d3.axisLeft(y).ticks(0)) // No tick marks or labels
+        const maxY = d3.max(
+            this.historicalStatistics,
+            (d) => d.successInThisPeriod + d.abortedInThisPeriod,
+        )
+        const y = d3.scaleLinear().domain([0, maxY]).range([height, 0])
+
+        // Prepare the data for the stacked area chart
+        const stack = d3
+            .stack()
+            .keys(["successInThisPeriod", "abortedInThisPeriod"])
+            .order(d3.stackOrderNone)
+        // No offset specified, defaults to d3.stackOffsetNone which stacks the data without normalization
+
+        const series = stack(
+            this.historicalStatistics.map((d) => ({
+                timeInSeconds: d.timeInSeconds,
+                successInThisPeriod: d.successInThisPeriod,
+                abortedInThisPeriod: d.abortedInThisPeriod,
+            })),
+        )
 
         // Add the areas
         const area = d3
@@ -97,14 +165,21 @@ class AbortBar {
             .y0((d) => y(d[0]))
             .y1((d) => y(d[1]))
 
+        const { colors } = this
+
         svg.selectAll(".area")
             .data(series)
             .enter()
             .append("path")
-            .attr("class", (d) => `area area-${d.key}`)
+            .attr(
+                "style",
+                (d) =>
+                    `fill:${
+                        colors[d.key.includes("uccess") ? "success" : "abort"]
+                    };`,
+            )
             .attr("d", area)
-        this.svg = svg
-        this.x = x
+
         return this
     }
 }
@@ -113,9 +188,10 @@ class AbortBarSim {
     constructor(
         seed = Math.random(),
         params = {
-            maxSeconds: 10 * 60,
-            shape: 0.2, // Shape parameter for Gamma distribution
-            scale: 100, // Scale parameter for Gamma distribution,
+            minSeconds: 0,
+            maxSeconds: 30,
+            shape: 1, // Shape parameter for Gamma distribution
+            scale: 10, // Scale parameter for Gamma distribution,
             abortProbabilityMultiplier: 1,
         },
     ) {
@@ -158,8 +234,13 @@ class AbortBarSim {
     }
 
     simulateLongRunningJob() {
-        const { shape, scale, maxSeconds, abortProbabilityMultiplier } =
-            this.params
+        const {
+            shape,
+            scale,
+            maxSeconds,
+            abortProbabilityMultiplier,
+            minSeconds,
+        } = this.params
         // Simulating the job duration using gamma distribution
         const duration = this.gammaRandom(shape, scale)
 
@@ -172,7 +253,10 @@ class AbortBarSim {
         const result = isAbort ? "abort" : "success"
 
         // Clamping the duration to the maximum time if it exceeds
-        const clampedDuration = Math.min(duration, maxSeconds)
+        const clampedDuration = Math.max(
+            minSeconds,
+            Math.min(duration, maxSeconds),
+        )
 
         return {
             result,
@@ -223,8 +307,26 @@ class AbortBarSim {
                 }
             })
 
+            let successInThisPeriod = 0
+            let abortedInThisPeriod = 0
+            jobResults
+                .filter((job) => !job.accountedFor)
+                .forEach((job) => {
+                    if (job.duration <= timeInSeconds) {
+                        if (job.result === "success") {
+                            successInThisPeriod++
+                        } else if (job.result === "abort") {
+                            abortedInThisPeriod++
+                        }
+                        job.accountedFor = true
+                    } else {
+                    }
+                })
+
             summary.push({
                 timeInSeconds,
+                successInThisPeriod,
+                abortedInThisPeriod,
                 remainingSuccesses: totalSuccesses - successCount,
                 remainingAborts: totalAborts - abortedCount,
                 success: (successCount / populationSize) * 100,
