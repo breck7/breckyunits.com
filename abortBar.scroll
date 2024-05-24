@@ -24,8 +24,8 @@ But it made me remember my progress bar idea!
 
 <div id="chart"></div>
 <style>
-    .area-success { fill: rgb(101,170,102); }
-    .area-aborted { fill: rgb(208,85,87); }
+    .area-remainingSuccesses { fill: rgb(101,170,102); }
+    .area-remainingAborts { fill: rgb(208,85,87); }
     .area-stillWaiting { fill: rgba(93,121,181, 0.5); }
  </style>
 <script src="d3.v6.min.js"></script>
@@ -33,7 +33,7 @@ But it made me remember my progress bar idea!
 
 Every time someone starts a long task, measure the end result and duration. Then you can render a progress bar like the one above.
 
-For any given time, it shows what percent of people were still waiting, what percent had succeeded, and what percent had aborted.
+For any given time, it shows what percent of people who waited that long would eventually see success, or end up aborting.
 
 It helps your users decide: should I wait or abort?
 

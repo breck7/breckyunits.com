@@ -50,15 +50,15 @@ class AbortBar {
         // Prepare the data for the stacked area chart
         const stack = d3
             .stack()
-            .keys(["success", "aborted", "stillWaiting"])
+            .keys(["remainingSuccesses", "remainingAborts"])
             .order(d3.stackOrderNone)
             .offset(d3.stackOffsetExpand) // Ensures areas add up to 100%
 
         const series = stack(
             this.historicalStatistics.map((d) => ({
                 timeInSeconds: d.timeInSeconds,
-                success: d.success,
-                aborted: d.aborted,
+                remainingSuccesses: d.remainingSuccesses,
+                remainingAborts: d.remainingAborts || 1,
                 stillWaiting: d.stillWaiting,
             })),
         )
@@ -114,9 +114,9 @@ class AbortBarSim {
         seed = Math.random(),
         params = {
             maxSeconds: 10 * 60,
-            shape: 0.6, // Shape parameter for Gamma distribution
-            scale: 20, // Scale parameter for Gamma distribution,
-            abortProbabilityMultiplier: 20,
+            shape: 0.2, // Shape parameter for Gamma distribution
+            scale: 100, // Scale parameter for Gamma distribution,
+            abortProbabilityMultiplier: 1,
         },
     ) {
         this.seed = seed
@@ -189,13 +189,22 @@ class AbortBarSim {
             .map(() => this.simulateLongRunningJob())
 
         // Determine the maximum duration
-        const maxTime = Math.max(...jobResults.map((job) => job.duration))
+        let maxTime = Math.max(...jobResults.map((job) => job.duration)) + 1
+        // always end in a failure
+        jobResults.push({ result: "abort", duration: maxTime })
 
         // Generate 100 evenly spaced time intervals from 0 to maxTime
         const timeIntervals = Array.from(
             { length: 100 },
             (_, i) => (i / 99) * maxTime,
         )
+
+        let totalSuccesses = 0
+        let totalAborts = 0
+        jobResults.forEach((run) => {
+            if (run.result === "success") totalSuccesses++
+            else totalAborts++
+        })
 
         for (const timeInSeconds of timeIntervals) {
             let successCount = 0
@@ -216,6 +225,8 @@ class AbortBarSim {
 
             summary.push({
                 timeInSeconds,
+                remainingSuccesses: totalSuccesses - successCount,
+                remainingAborts: totalAborts - abortedCount,
                 success: (successCount / populationSize) * 100,
                 aborted: (abortedCount / populationSize) * 100,
                 stillWaiting: (stillWaitingCount / populationSize) * 100,
@@ -227,6 +238,7 @@ class AbortBarSim {
 }
 
 const simulationResults = new AbortBarSim().populationSimulation()
+console.log(simulationResults)
 const abortBar = new AbortBar(
     simulationResults,
     document.querySelector(".scrollParagraph").offsetWidth,
