@@ -1,0 +1,99 @@
+date 2024-05-26
+groups All Society HasDataset Data Programming
+title Bring back RadioShack?
+
+import header.scroll
+printTitle
+
+mediumColumns 1
+
+You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
+ dateline
+
+image radioshack.png
+
+endSnippet
+
+# Notes
+- All of the data is in the source code for this blog post. Click "View Source" at the bottom of this page to see it.
+- There are still 412 independently owned RadioShacks
+ https://8bitboyz.com/radio-shack-store-numbers/ 412 independently owned RadioShacks
+- I found data for number of RadioShack stores for 6 years, and used Our World In Data's Grapher to interpolate the missing values.
+- For ElectronicsManufacturing, I used the data from All Employees, Computer and Electronic Product Manufacturing, averaged by year, and then applied a constant scale to map it to the same chart as the RadioShack data
+ https://fred.stlouisfed.org/graph/?g=1nSZt All Employees, Computer and Electronic Product Manufacturing
+
+Year	ElectronicsManufacturing	RadioShacks
+1990	9024	4300
+1991	8094	4711.111111
+1992	7072	5122.222222
+1993	6560	5533.333333
+1994	6510	5944.444444
+1995	6885	6355.555556
+1996	7467	6766.666667
+1997	8032	7177.777778
+1998	8309	7588.888889
+1999	7807	8000
+2000	8203	7735.5
+2001	7487	7471
+2002	5073	7206.5
+2003	3550	6942
+2004	3226	6677.5
+2005	3163	6413
+2006	3076	6148.5
+2007	2725	5884
+2008	2439	5619.5
+2009	1367	5355
+2010	945	5090.5
+2011	1032	4826
+2012	888	4561.5
+2013	656	4297
+2014	490	3547.75
+2015	529	2798.5
+2016	480	2049.25
+2017	392	1300
+2018	542	500
+2019	754	485.3333333
+2020	628	470.6666667
+2021	597	456
+2022	900	441.3333333
+2023	1081	426.6666667
+2024	1050	412
+
+Name	Year	Stores
+RadioShacks	1990	4300
+RadioShacks	1991	
+RadioShacks	1992	
+RadioShacks	1993	
+RadioShacks	1994	
+RadioShacks	1995	
+RadioShacks	1996	
+RadioShacks	1997	
+RadioShacks	1998	
+RadioShacks	1999	8000
+RadioShacks	2000	
+RadioShacks	2001	
+RadioShacks	2002	
+RadioShacks	2003	
+RadioShacks	2004	
+RadioShacks	2005	
+RadioShacks	2006	
+RadioShacks	2007	
+RadioShacks	2008	
+RadioShacks	2009	
+RadioShacks	2010	
+RadioShacks	2011	
+RadioShacks	2012	
+RadioShacks	2013	4297
+RadioShacks	2014	
+RadioShacks	2015	
+RadioShacks	2016	
+RadioShacks	2017	1300
+RadioShacks	2018	500
+RadioShacks	2019	
+RadioShacks	2020	
+RadioShacks	2021	
+RadioShacks	2022	
+RadioShacks	2023	
+RadioShacks	2024	412
+
+import footer.scroll
