@@ -42,7 +42,7 @@ I need to decide if I should ship fewer major versions with higher quality.
 Let's do some research on what other programming language developers are doing.
 
 I added version number data to over 600 languages in PLDB.
- https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion version number data to over 600 languages in PLDB
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D version number data to over 600 languages in PLDB
 
 ***
 
@@ -116,8 +116,17 @@ No big deal. I will soon release Scroll 100.0.0, and from then on will have far 
 
 An ounce of deep thought on the core of your language is worth a pound of major releases!
 
-I learned something today. Hope you did too!
+## Other things I learned
+
+- I learned 97.5% of languages with a version system use Semantic Versioning. The ~2% of languages, such as C and C++, that are still doing versions like C17 (which does not mean major version 17, but refers to the year the revision came out), maybe want to reconsider ;).
+- I learned most languages use git tags for tagging their releases. Something I should start doing.
+ https://git-scm.com/book/en/v2/Git-Basics-Tagging git tags
+
+I learned a few things today. Hope you did too!
 
 ****
+
+# Notes
+- Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.
 
 import footer.scroll
