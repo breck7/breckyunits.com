@@ -4,26 +4,13 @@ title Could in vitro brains power AI?
 
 import header.scroll
 printTitle
-
+# The advance of AGI is _currently_ stoppable
 thinColumns 2
 
-Happy New Year!
+Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
  dateline
 
-_First, a disclaimer_. I think a lot of my posts are my attempts to reflect on experiences and write tight advice for my future self. This one is less of that and more just unsophisticated musings on an intriguing thought that crossed my mind. I am taking advantage of it being New Year's day to yet again try and force myself to publish more.
- link experience-is-what-you-get.html experiences
- link publishing-more.html publish more
-
-endSnippet
-
-Most of my published writing these days is in communication with people over email or in online forums.
-
-But I also do a lot of self musings that I do not publish because they are meanderings like this one. But maybe if I publish a greater fraction of what I write, the time will be better used, because even if there are no readers, the threat of readers forces me to think things over better.
-
-Why am I still writing? I think symbols are probably doomed. The utility of being able to read and write is perhaps passed its prime. Inscrutable three dimensional matrices of weights are the future, and this practice I am engaging in now of conjuring and manipulating symbols on a two dimensional page is a dying art. But I am maybe too old to unlearn my appreciation for symbols. So I will keep writing. Because I enjoy doing it, like piecing together a puzzle. And because I still hope it can help my future self be a better person. Now, onto today's post.
-
-# The advance of AGI is currently stoppable
-Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
+***
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
 
@@ -33,29 +20,37 @@ So there is a very simple kill switch to prevent some emergent rogue superintell
 
 So AGI is easily stoppable, if you are a superpower. If you are just Joe Schmoe like me or even top 50 country, but just not quite top 10, you have effectively no say in the matter.
 
+***
+
+# Alternative to GPUs?
+
 Will there come a point where even superpowers lose the ability to stop AGI?
 
 There are many scenarios you can imagine where through a certain chain of independent events a rogue AI does manage to somehow take over the data centers and fabs and power plants of the world. There are a number of sci-fi stories with variations of this idea.
 
-# Alternative to GPUs?
 But part of me wonders if instead what happens is we develop all the components necessary so that GPUs are no longer the primary ingredient to ANNs but are replaced by organic brains grown in vitro. These in vitro brains would be hooked up to control machines using something like Neuralink's Neuralace. They would be trained by ANNs.
 
 We know it must be possible to run computations like in an ANN very power efficiently, using self reproducing organic materials, because we see nature do it. Just as scientists measured the amount of energy coming from the sun and deduced there must be a much more powerful way to create energy than chemical reactions, so we know there must be a better way to build these chips.
+ link ifNatureIsDoingIt.html we see nature do it
+
+***
 
 The technologies you would need to build this seem to almost be all available^note.
 
-Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container---that could contain the compute potential of 20,000 Einsteins!
+Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container—that could contain the compute potential of 20,000 Einsteins!
  https://en.wikipedia.org/wiki/Cultured_meat lab grown "meat"
 
 Neural tissue might as well just be meat if you can't interface with it. Enter Neuralink (and competitors). They are developing ways to do IO with neurons at scale.
 
 Without the ability to train this tissue, it again would just be meat. That's where our current ANNs come in. I imagine if you had to "teach" a giant blob of brain tissue using electrodes by hand, you would quickly get bored and go mad. But we now have ANNs that can do the most boring of tasks over and over without ever getting bored or angry. These ANNs could use Reinforcement Learning to train these neural blobs. In addition to controlling the electrodes, the ANN would control the environment of the neural tissue, perhaps altering the neurotransmitter balance or ambient electromagnetic frequencies to help steer learning and optimize learning rates.
 
+***
+
 I have no expert insight or opinions on these matters. I have just been thinking a lot about what the future looks like given the recent breakthroughs in AI. Thinking about whether AI is inevitable led me to think of how that might require biobots so AI would have a less fragile "food supply" than the fabs. Then it clicked to me that Neuralink's real business might not have much to do with the stated goal of communicating with brains in vivo, but instead with a new kind of lab grown brain in vitro, to maybe serve as a replacement for GPUs. Most of their technology, such as their surgical robot, would be relevant for building an AI backed by organic in vitro brains. Just as SpaceX has the stated mission of sending humans to Mars, but really the big economic model so far has been creating their own global Internet.
 
 In following this thought I wondered for the first time of how you would train a brain that did not have a body. I'm sure many people have thought and written on this. I had not. It's an intriguing challenge. It seems like it might be a good way to learn how human brains work. I am happy I decided to write about the initial Neuralink brain in vitro thought, as it led me to this other thought about training a bodyless brain.
 
-I have no conclusions, as I said in the disclaimer up top this is meant to just be a meandering post. If I tried to reach conclusions on these ideas before publishing it would be years.
+I have no conclusions yet. If I tried to reach conclusions on these ideas before publishing it would be years.
 
 ****
 

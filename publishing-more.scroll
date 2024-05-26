@@ -6,7 +6,7 @@ title Publishing More
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 I published 55 essays here the first year. The second and third years combined, that number nosedived to 5.
  dateline
