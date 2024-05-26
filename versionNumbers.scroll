@@ -42,7 +42,7 @@ I need to decide if I should ship fewer major versions with higher quality.
 Let's do some research on what other programming language developers are doing.
 
 I added version number data to over 600 languages in PLDB.
- https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22num%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D version number data to over 600 languages in PLDB
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning~foundationScore&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22boolean%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D version number data to over 600 languages in PLDB
 
 ***
 
@@ -128,5 +128,13 @@ I learned a few things today. Hope you did too!
 
 # Notes
 - Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.
+
+// Ohayo code:
+ data.localStorage datalocalstoragenode-2.data
+ group.by appeared
+  reduce MajorVersionsPerYear mean rate
+  tables.basic
+  rows.sortBy appeared
+   tables.basic
 
 import footer.scroll
