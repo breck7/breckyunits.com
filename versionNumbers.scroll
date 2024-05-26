@@ -1,0 +1,123 @@
+date 2024-05-25
+groups All Programming Data
+title What can we learn from programming language version numbers?
+
+import header.scroll
+printTitle
+
+# Analyzing the version numbers of 621 programming languages
+ // *including some other things that are closely related to PLs.
+
+mediumColumns 1
+
+image plVersions/versionNumbers.png
+ caption Interactive Version
+  https://observablehq.com/@breck/version-numbers
+ https://observablehq.com/@breck/version-numbers
+
+I just pushed version 93.0.0 of my language Scroll. *Version 93*!
+ dateline
+ https://scroll.pub/ Scroll
+
+endSnippet
+
+Why so many versions? I use Tom Preston-Warner's Semantic Versioning (2011).
+ https://semver.org/ Semantic Versioning
+ https://tom.preston-werner.com/ Tom Preston-Warner's
+
+In particular, I followed his advice in Major Version Numbers are Not Sacred.
+ https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred Major Version Numbers are Not Sacred
+
+***
+
+Pushing so many major versions was no big deal because Scroll was a toy.
+
+But Scroll now has a novel feature that makes it very useful.
+ link scrollsets.html novel feature
+
+I need to decide if I should ship fewer major versions with higher quality.
+
+***
+
+Let's do some research on what other programming language developers are doing.
+
+I added version number data to over 600 languages in PLDB.
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion version number data to over 600 languages in PLDB
+
+***
+
+# What major version are programming languages on?
+dashboard
+ 0 Min
+ 1 Median
+ 2.9 Average
+ 73% < v3
+ 95% < v10
+ 99% < v30
+
+Wow! No languages in the top 400 have surpassed 30 major versions.
+
+Erlang, at version 27, ranks #34 and is the only top 100 language with more than 25 major versions.
+ https://pldb.io/concepts/erlang.html Erlang
+
+My language, at version 93, is a huge outlier. Maybe I've done something wrong 😳.
+
+// Such an outlier that I filtered it from the charts on this page 
+
+***
+
+Let's plot version number by rank.
+
+image plVersions/versionRanks.png
+ openGraph
+ link https://datawrapper.dwcdn.net/XLcIn/1/
+ caption Interactive Version
+  https://datawrapper.dwcdn.net/XLcIn/1/
+
+We can see that there is a positive correlation between how many major versions a language has and how popular it is.
+
+However, we can also see that 5 of the top 10 languages are on version 5 or less.
+
+We can also see that ~15 of the top 25 languages are on version 5 or less.
+
+*If you have a great model of your core ideas, you can ship fewer major versions.*
+
+***
+
+? What's the relationship between age of the language and the current major version?
+
+image plVersions/ageVsVersion.png
+ link https://datawrapper.dwcdn.net/kcWGg/1/
+ caption Interactive Version
+  https://datawrapper.dwcdn.net/kcWGg/1/
+
+? Did Semantic Versioning, published in 2011, change release rates of major versions of programming languages?
+
+No. As you can see:
+
+image plVersions/releaseRates.png
+ link https://datawrapper.dwcdn.net/AiGaB/1/
+ caption Interactive Version
+  https://datawrapper.dwcdn.net/AiGaB/1/
+
+***
+
+# So, what did I learn?
+
+TIL I did SemVer wrong. In particular, I missed this part:
+
+> If you’re changing the API every day you should...still be in version 0.y.z 
+
+Whoops!
+
+It took me about 5 years to figure out what Scroll 1.0.0 should be. I should be on version 0.93.0, not version 93.0.0.
+
+No big deal. I will soon release Scroll 100.0.0, and from then on will have far fewer major releases.
+
+An ounce of deep thought on the core of your language is worth a pound of major releases!
+
+I learned something today. Hope you did too!
+
+****
+
+import footer.scroll
