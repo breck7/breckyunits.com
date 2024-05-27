@@ -10,3 +10,4 @@ gazetteHeader
 printTitle
 import categoryLinks.scroll
 css html {font-size: var(--base-font-size, 8px);}
+openGraphImage screenshot.png
