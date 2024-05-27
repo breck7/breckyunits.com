@@ -1,7 +1,8 @@
 date 5/24/2024
 groups All Programming Life
-title Abort Bars
 openGraphImage abortBars.gif
+title Abort Bars
+
 import header.scroll
 printTitle
 mediumColumns 1
@@ -35,7 +36,6 @@ The moving line shows elapsed time.
 The color of the moving line shows the odds that a task will succeed, given the amount of time passed.
 
 It helps your users decide: should I wait or abort?
-
 
 // There are some significant opportunities to improve this design further. I would love to see your iterations.
 

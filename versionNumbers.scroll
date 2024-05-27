@@ -62,7 +62,7 @@ Erlang, at version 27, ranks #34 and is the only top 100 language with more than
 
 My language, at version 93, is a huge outlier. Maybe I've done something wrong 😳.
 
-// Such an outlier that I filtered it from the charts on this page 
+// Such an outlier that I filtered it from the charts on this page
 
 ***
 
@@ -106,7 +106,7 @@ image plVersions/releaseRates.png
 
 TIL I did SemVer wrong. In particular, I missed this part:
 
-> If you’re changing the API every day you should...still be in version 0.y.z 
+> If you’re changing the API every day you should...still be in version 0.y.z
 
 Whoops!
 

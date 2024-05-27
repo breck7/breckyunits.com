@@ -1,6 +1,7 @@
 date 5/27/2024
 groups All Thinking Data
-related hits 
+openGraphImage meaning.webp
+related hits
 title The Choice
 
 import header.scroll
@@ -9,7 +10,6 @@ printAuthor
 
 thinColumns 1
 
-openGraphImage meaning.webp
 // ChatGPT
  Single pane, XKCD style comic, no color.
  In a majestic library. Very high ceilings. Multiple floors of books. Statues and artifacts.
