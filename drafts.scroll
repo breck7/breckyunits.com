@@ -1,0 +1,69 @@
+date 5/27/2024
+groups All Writing Startups Programming IntellectualFreedom
+title Drafts
+
+import header.scroll
+printTitle
+
+# A Business Model for Scientists
+
+mediumColumns 1
+
+image drafts.png
+ caption Above is a screenshot of breck.drafts (blurred on purpose). This is where I prioritize and shape my research before publishing. For $49 a year, I'll add you to the private Git repo and forums.
+
+How will independent scientists earn a living in a world with Intellectual Freedom?
+ dateline
+ link freedom.html Intellectual Freedom
+
+By selling lab access.
+
+endSnippet
+
+<br><br>
+<center>
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+<stripe-buy-button buy-button-id="buy_btn_1PL9FXJktJxKl0r5xS0LWyPm" publishable-key="pk_live_51IQx1tJktJxKl0r5YOhZM9Th6S8zhR2DXlUlJFIuLSrgzu3nfkKTx96ym19ihYYIeEnf3daa1TCPgDt0To2qt4Qk00TzjPmP9c"></stripe-buy-button>
+</center>
+<br><br>
+
+Independent scientists can do better science if
+
+- They can publish everything to the public domain
+- They have an empowered group of beta readers with shared interests
+- They have less need to worry about revenue streams
+
+Why not solve all three problems at once?
+
+***
+
+# Introducing Drafts
+
+For $49 a year, I'll add you to the private Git repository I use to prioritize and shape my work: *breck.drafts*.
+
+- You can see new research early, sometimes months before publication.
+
+- You can vote on which ideas you think deserve the most focus.
+
+- You can interact with other subscribers on the issues board.
+
+If you love science and the web, I have some _very_ exciting posts coming out this year.
+
+You can wait for the published versions, or you can join breck.drafts today.
+<br><br>
+<center>
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+<stripe-buy-button buy-button-id="buy_btn_1PL9FXJktJxKl0r5xS0LWyPm" publishable-key="pk_live_51IQx1tJktJxKl0r5YOhZM9Th6S8zhR2DXlUlJFIuLSrgzu3nfkKTx96ym19ihYYIeEnf3daa1TCPgDt0To2qt4Qk00TzjPmP9c"></stripe-buy-button>
+</center>
+
+****
+
+# The Fine Print
+- A purchase entitles you to one year of access to the breck.drafts git repo and issues board, for one email address and one person.
+- Everything on breck.drafts eventually evolves into a public domain post on breckyunits.com, with the exception of some ideas that are cut.
+- You are free to use any idea or code on breck.drafts in your own work, even before I publish it, but I politely ask that you let me know if you use anything unreleased from Drafts in a public way.
+- If you want to join but are a student or funds are momentarily low, email me an application for a scholarship.
+- If you're not 100% satisfied at any point, just email me why and I'll issue a prorated refund.
+- You can also join by sending $49 via PayPal (breck7@gmail.com), Cash App ($byunits), Venmo (@Breck-Yunits), or handing me $49 cash.
+
+import footer.scroll
