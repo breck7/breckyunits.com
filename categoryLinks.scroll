@@ -13,12 +13,12 @@ importOnly
  <a href="freedom.html">Intellectual Freedom</a>
  <a href="treeNotation.html">Tree Notation</a>
  <a href="startups.html">Startups</a>
- <a href="drafts.html" class="draftsButton">Drafts</a>
+ <a href="lab.html" class="labButton">Lab</a>
  </div>
 
 <style>.categoryLinks { text-align: center; font-size: 14px; } .categoryLinks a {padding: 0 10px 0 10px;} </style>
 css
- .draftsButton {
+ .labButton {
  	background-color: rgb(0, 116, 212);
  	border-radius: 5px;
  	color: white;

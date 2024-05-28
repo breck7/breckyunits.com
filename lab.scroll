@@ -1,16 +1,16 @@
 date 5/27/2024
-groups All Writing Startups Programming IntellectualFreedom
-title Drafts
+groups All Science Startups Programming IntellectualFreedom Writing
+title Breck's Lab
 
 import header.scroll
 printTitle
 
-# A Business Model for Independent Scientists
+# See and Influence the Future
 
 mediumColumns 1
 
-image drafts.png
- caption Above is a (blurred) screenshot of *breck.drafts*. For $49 a year, you get access to the private Git repo and issue boards.
+image lab.png
+ caption Above is a (blurred) screenshot of *brecks.lab*. For $49 a year, you get access to the private Git repo and issue boards.
 
 endSnippet
 
@@ -21,19 +21,19 @@ endSnippet
 </center>
 <br>
 
-# Introducing Drafts
+# Introducing Breck's Lab
 
-For $49 a year, you get access to *breck.drafts*, the private git repository where I prioritize and shape my research.
+For $49 a year, you get access to *brecks.lab*, the private git repository and issue board where I prioritize and shape my research.
 
 - *Early Access*: See new research and code early, sometimes months before publication.
 
-- *Prioritization*: Vote on which ideas you think deserve the most focus.
+- *Influence*: Vote on which ideas you think deserve the most focus.
 
-- *People*: Interact with other subscribers on the issues board.
+- *Meet*: Interact with other members on the issues board.
 
-If you love science and the web, I have some _very_ exciting posts coming out this year.
+If you love science and the web, we have some _very_ exciting posts coming out this year.
 
-You can wait for the published versions, or you can join *breck.drafts* today.
+You can wait for the published versions, or you can join *brecks.lab* today.
 
 <br>
 <center>
@@ -42,7 +42,7 @@ You can wait for the published versions, or you can join *breck.drafts* today.
 </center>
 <br>
 
-# Why Drafts?
+# Why sell lab access?
 
 How are independent scientists to earn a living in a world without copyright and patents?
 
@@ -56,7 +56,7 @@ Independent scientists can do better science if
 
 Why not solve all three problems at once?
 
-Drafts is designed to help fix science.
+Labs is designed to help fix science.
 
 <br>
 <center>
@@ -66,10 +66,10 @@ Drafts is designed to help fix science.
 <br>
 
 # The Fine Print
-- *Access*: A purchase entitles you to one year of access to the *breck.drafts* git repo and issues board, for one email address and one person.
-- *Public Domain*: Everything on *breck.drafts* eventually evolves into a public domain post on breckyunits.com or my other public domain sites, with the exception of some ideas that are cut.
-- *Usage*: You are free to use any idea or code on *breck.drafts* in your own work, even before publication, but if you use something not yet published I politely ask that you let me know beforehand.
-- *Scholarships*: If you want to join but are a student or funds are momentarily low, email me an application for a scholarship.
+- *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
+- *Public Domain*: Everything on *brecks.lab* eventually evolves into a public domain post on breckyunits.com or my other public domain sites, with the exception of some ideas that are cut.
+- *Usage*: You are free to use any idea or code on *brecks.lab* in your own work, even before publication, but if you use something not yet published I politely ask that you let me know beforehand.
+- *Honorary Members*: If you've contributed five or more commits to my open source projects, email me for your honorary membership.
 - *Satisfaction Guarantee*: If you are not 100% satisfied at any point, just email me why and I'll issue a prorated refund.
 - *Payment Methods*: You can also join by sending $49 to breck7.near, via PayPal (breck7@gmail.com), Cash App ($byunits), Venmo (@Breck-Yunits), or handing me $49 cash.
  https://nearblocks.io/address/breck7.near breck7.near
