@@ -5,7 +5,9 @@ title Breck's Lab
 import header.scroll
 printTitle
 
-# See and Influence the Future
+# Influence the future of PLDB, Scroll, and more
+ https://pldb.io PLDB
+ https://scroll.pub Scroll
 
 mediumColumns 1
 
@@ -23,7 +25,9 @@ endSnippet
 
 # Introducing Breck's Lab
 
-For $49 a year, you get access to *brecks.lab*, the private git repository and issue board where I prioritize and shape my research.
+For $49 a year, you get access to *brecks.lab*, the private git repository and issue board where I prioritize and shape the future of PLDB, Scroll, and other open source projects.
+ https://pldb.io PLDB
+ https://scroll.pub Scroll
 
 - *Early Access*: See new research and code early, sometimes months before publication.
 
@@ -67,10 +71,13 @@ Labs is designed to help fix science.
 
 # The Fine Print
 - *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
-- *Public Domain*: Everything on *brecks.lab* eventually evolves into a public domain post on breckyunits.com or my other public domain sites, with the exception of some ideas that are cut.
-- *Usage*: You are free to use any idea or code on *brecks.lab* in your own work, even before publication, but if you use something not yet published I politely ask that you let me know beforehand.
+- *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on PLDB, Scroll, breckyunits.com or one of my other public domain sites, with the exception of some ideas that are cut.
+ https://pldb.io PLDB
+ https://scroll.pub Scroll
+ https://breckyunits.com breckyunits.com
 - *Honorary Members*: If you've contributed five or more commits to my open source projects, email me for your honorary membership.
 - *Satisfaction Guarantee*: If you are not 100% satisfied at any point, just email me why and I'll issue a prorated refund.
+- *Usage*: If you use code or ideas from *brecks.lab* in your own work before they are published, just please be polite about it.
 - *Payment Methods*: You can also join by sending $49 to breck7.near, via PayPal (breck7@gmail.com), Cash App ($byunits), Venmo (@Breck-Yunits), or handing me $49 cash.
  https://nearblocks.io/address/breck7.near breck7.near
 
