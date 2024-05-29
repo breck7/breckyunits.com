@@ -1,7 +1,7 @@
 date 5/27/2024
 groups All Science Startups Programming IntellectualFreedom Writing
-title Breck's Lab
 replace PRICE $4,999
+title Breck's Lab
 
 import header.scroll
 printTitle
