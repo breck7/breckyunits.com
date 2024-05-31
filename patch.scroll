@@ -1,5 +1,5 @@
 date 2024-05-27
-groups All Programming TreeNotation
+groups All Programming ScrollNotation
 title Patch: a micro language to make pretty deep links easy
 
 import header.scroll

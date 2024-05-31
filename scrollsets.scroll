@@ -1,5 +1,5 @@
 date 2024-05-21
-groups All TreeNotation Programming Data Life
+groups All ScrollNotation Programming Data Life
 title A New Way to Store Knowledge
 
 import header.scroll
@@ -103,7 +103,7 @@ image scrollsets.png
 ***
 
 # Prior Art
-Modern databases^sql were designed before git^git, fast filesystems^apple, and the Tree Notation stack^treeNotation, all requirements of this system.
+Modern databases^sql were designed before git^git, fast filesystems^apple, and the Scroll stack^scrollStack, all requirements of this system.
 
 GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
  https://www.gnu.org/software/recutils/
@@ -155,8 +155,8 @@ You can read more about ScrollSets on the Scroll blog, see small demos at sets.s
  https://en.wikipedia.org/wiki/Apple_M1 M1
 - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
  https://breckyunits.com/building-a-treebase-with-6.5-million-files.html abysmal
-^treeNotation Tree Notation: Breck Yunits et al
- https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Tree Notation
+^scrollStack Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
+ https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Scroll Notation
 ^recutils GNU Recutils: Jose E. Marchesi
  https://www.gnu.org/software/recutils/ GNU Recutils
 - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
