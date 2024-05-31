@@ -7,11 +7,19 @@ title PCRI
 
 import header.scroll
 printTitle
+
+HTML | TXT | PDF
+ class scrollDateline
+ style text-align: center;
+ link pcri.html HTML
+ link pcri.txt TXT
+ link pcri.pdf PDF
+
 printAuthor
 
 mediumColumns 1
 
-Yesterday, on a plane, I finally found the simple equation I had spent over a decade looking for.
+Yesterday, on a plane, I found the equation I sought for a decade.
  dateline
 
 <center>
@@ -19,13 +27,22 @@ katex
  P = {C^R}^I
 </center>
 
-The equation says, the amount of possible programs is equal to the number of columns (characters), raised by the number of rows (lines), raised by the number of indentation levels.
-
 endSnippet
 
-PCRI is the reason why Tree Notation has proven so useful and powerful. A tiny amount of syntax allows for a vast universe of concise programs.
+PCRI describes a symbolic notation.
 
-It also explains the strength of flatter programs despite their simplicity: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
+PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
+
+If you view the source code of this post, you will see *C, R, and I* in action.
+ https://github.com/breck7/breckyunits.com/blob/main/pcri.scroll source code
+
+PCRI is the equation for Tree Notation. Other notations may have a better simplicity to power ratio, but Tree Notation is the best I've seen so far.
+ https://faq.treenotation.org/ Tree Notation
+
+PCRI is the reason why Tree Notation is so powerful. A tiny syntax supports a vast universe of concise programs.
+ link scrollsets.html so powerful
+
+PCRI explains the strength of flatter programs despite their simplicity: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
  // 16,777,216 to 16,777,216
 
 59 days ago I announced the decade long Tree Notation research endeavor over with a negative result.
@@ -33,12 +50,15 @@ It also explains the strength of flatter programs despite their simplicity: a li
 
 It looks like I was wrong again. We have a positive result.
 
-The experimental evidence kept hinting at some important natural law, and now we have found it.
+The experimental evidence kept hinting at some important natural law, and now we have a name for it: PCRI.
  link scrollsets.html experimental evidence
 
-Now, back to my vacation.
-
 ****
+
+# Notes
+- As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
+- I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
+- Now, back to my vacation.
 
 # Related Posts
 relatedList
