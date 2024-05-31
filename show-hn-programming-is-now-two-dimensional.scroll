@@ -1,6 +1,7 @@
 date 2017-06-21
 groups All TreeNotation Programming
 title Show HN: Programming is Now Two-Dimensional
+related treeNotationFinalReport tree-notation-annual-report-2019
 
 import header.scroll
 printTitle
@@ -48,5 +49,8 @@ Two updates on 12/30/2017. After I wrote this I was informed that one other pers
  https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
 
 ****
+
+# Related Posts
+relatedList
 
 import footer.scroll

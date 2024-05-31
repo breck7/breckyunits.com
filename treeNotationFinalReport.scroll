@@ -1,6 +1,7 @@
 date 2024-4-2
 groups All TreeNotation Programming
 title Final Tree Notation Report
+related tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional
 
 import header.scroll
 printTitle
@@ -62,6 +63,11 @@ It would have been great personally to have been right on this long shot bet, bu
 It took me a while to let Tree Notation go. Even after LLMs destroyed the potential upside of pragmatic utility of the notation, I still liked it because it gave me an interesting way to work on problems of knowledge itself. It wasn't until I had some insights into 4D languages that I finally could say there was no longer _any_ need for Tree Notation. I am grateful for the experience and have now moved on to a new research journey.
 
 ****
+
+# Related Posts
+relatedList
+
+***
 
 ^def Program synthesis: the ability for a computer to generate the right code. Just a unique term for the concept of _really_ good autocomplete.
 ^why And in particular, understanding the model that explains _why_ LLMs succeeded while my approach failed.

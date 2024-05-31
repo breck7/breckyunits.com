@@ -1,0 +1,46 @@
+date 5/31/2024
+groups All Programming TreeNotation
+
+related hits
+title PCRI
+
+import header.scroll
+printTitle
+printAuthor
+
+mediumColumns 1
+
+Yesterday, on a plane, I finally found the simple equation I had spent over a decade looking for.
+ dateline
+
+<center>
+katex
+ P = {C^R}^I
+</center>
+
+The equation says, the amount of possible programs is equal to the number of columns (characters), raised by the number of rows (lines), raised by the number of indentation levels.
+
+endSnippet
+
+PCRI is the reason why Tree Notation has proven so useful and powerful. A tiny amount of syntax allows for a vast universe of concise programs.
+
+It also explains the strength of flatter programs despite their simplicity: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
+ // 16,777,216 to 16,777,216
+
+59 days ago I announced the decade long Tree Notation research endeavor over with a negative result.
+ link treeNotationFinalReport.html announced
+
+It looks like I was wrong again. We have a positive result.
+
+The experimental evidence kept hinting at some important natural law, and now we have found it.
+ link scrollsets.html experimental evidence
+
+Now, back to my vacation.
+
+****
+related treeNotationFinalReport tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional introducing-note
+
+# Related Posts
+relatedList
+
+import footer.scroll
