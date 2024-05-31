@@ -1,7 +1,7 @@
 date 2017-06-21
 groups All TreeNotation Programming
-title Show HN: Programming is Now Two-Dimensional
 related treeNotationFinalReport tree-notation-annual-report-2019
+title Show HN: Programming is Now Two-Dimensional
 
 import header.scroll
 printTitle
