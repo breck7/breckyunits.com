@@ -7,7 +7,7 @@ import header.scroll
 printTitle
 
 # See where technology is going before your competitors
-# Influence the priorities of PLDB, Scroll, and more
+# Influence the priorities of Scroll, PLDB, and more
  https://pldb.io PLDB
  https://scroll.pub Scroll
 
@@ -22,7 +22,7 @@ import stripeButton.scroll
 
 # Introducing Breck's Lab
 
-For PRICE a year, you get access to *brecks.lab*, the private git repository and issue board where we post our in-progress language and AI research, and prioritize and shape the future of PLDB, Scroll, and our other open source projects.
+For PRICE a year, you get access to *brecks.lab*, the private git repository and issue board where we post our in-progress language and AI research, and prioritize and shape the future of Scroll, PLDB, and our other open source projects.
  https://pldb.io PLDB
  https://scroll.pub Scroll
 
@@ -58,7 +58,7 @@ import stripeButton.scroll
 
 # The Fine Print
 - *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
-- *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on PLDB, Scroll, breckyunits.com or one of our other public domain sites, with the exception of some ideas that are cut.
+- *Public Domain*: Everything in *brecks.lab* eventually evolves into a public domain publication on Scroll, PLDB, breckyunits.com or one of our other public domain sites, with the exception of some ideas that are cut.
  https://pldb.io PLDB
  https://scroll.pub Scroll
  https://breckyunits.com breckyunits.com
