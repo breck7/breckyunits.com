@@ -66,6 +66,7 @@ You can present them with Scroll Notation, and explain how it supports a vast un
 
 ***
 
+- Does PCRI also describe S-Expressions? S-Expressions are Scroll Notation inefficiently complected by unnecessary parentheses.
 - As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
 - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
 - Now, back to my vacation.
