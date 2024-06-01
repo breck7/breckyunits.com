@@ -8,7 +8,7 @@ title PCRI
 import header.scroll
 printTitle
 
-HTML | TXT | PDF
+HTML | TXT
  class scrollDateline
  style text-align: center;
  link pcri.html HTML
