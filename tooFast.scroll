@@ -1,0 +1,106 @@
+date 2024-06-05
+groups All Programming Startups
+title "You're posting too fast."
+
+import header.scroll
+printTitle
+thinColumns 1
+
+# The Conflicting Advice of YCombinator
+
+This morning on HackerNews a user posted a comment about a boring, niche product.
+ dateline
+
+However, I happened to work on that boring, niche product at Microsoft, and looked forward to having a constructive conversation about it.
+
+endSnippet
+
+Instead I got the familiar cryptic error message:
+
+> You're posting too fast. Please slow down. Thanks.
+
+image tooFast1.png
+ caption The comment I was blocked from posting: "Changeable permalinks could have achieved the same thing."
+
+image tooFast2.png
+ caption Screenshot of the error message I got.
+
+***
+
+# The HackerNews Guidelines
+
+The HackerNews Guidelines are a great read.
+ https://news.ycombinator.com/newsguidelines.html HackerNews Guidelines
+
+The Guidelines may be the wisest words assembled on running a constructive online community.
+
+I like to reread them every few months.
+
+***
+
+Nowhere in the guidelines does it say anything about "posting too fast".
+
+The word "speed" does not appear at all.
+
+What is the right speed?
+
+(I am genuinely curious.)
+
+***
+
+# Conflicting Advice
+
+I can't count the number of times YCombinator has said _FASTER!_
+
+For example, an essay on PaulGraham.com says:
+ https://www.paulgraham.com/really.html essay on PaulGraham.com
+
+> By this point everyone knows you should release fast and iterate. It's practically a mantra at YC...
+> Fast iteration is the key to success.
+
+I would estimate YCombinator has published _thousands_ of posts and videos, explaining from _a hundred angles_, why you should move _faster_.
+
+***
+
+Apparently they have also discovered there is a "too fast":
+
+> You're posting too fast. Please slow down. Thanks.
+
+For that discovery they give 8 words.
+
+***
+
+This is an interesting discovery! Tell us more!
+
+***
+
+# A Question for the HackerNews Mods
+
+The HN Guidelines state:
+
+> Please respond to the strongest plausible interpretation of what someone says...Assume good faith.
+
+The strongest plausible interpretation of that error message is that you have figured out something important: the optimal speed!
+
+Can you please share with us, your dedicated users^loyal, the answer to the question: _what is the right speed_?
+
+****
+
+# Notes
+
+^loyal I was one of the first people to join HackerNews, creating my current account on August 24th, 2007, which is about eight months after Paul Graham created it.
+ https://news.ycombinator.com/user?id=breck current account
+ link analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html Paul Graham created it
+
+# Disclosure
+
+I was part of two YCombinator batches, in 2008 and 2009.
+
+YCombinator expelled me in 2022^expelled.
+
+Of over 9,000 YCombinator alumni, I am the only founder who was part of both their #1 and #2 ranked batches (out of their ~37).
+ // I got to build alongside legendary founders, and gratefully am writing this in an AirBedAndBreakfast while /dev/finance handles my payments.
+
+^expelled I disagree with their expulsion and miss Bookface, the secret online forum they have for alums built originally by Garry Tan, but it's probably for the best. I am not yet sure whether I believe secret organized groups are a morally good thing. (Though I definitely miss pondering that moral question while utilizing the financially lucrative benefits of Bookface :) ).
+
+import footer.scroll
