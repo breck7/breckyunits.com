@@ -1,5 +1,5 @@
 date 1/13/2018
-groups All BipolarDisorder HasDataset
+groups All BipolarEnergy HasDataset
 title Going Manic with a FitBit
 
 import header.scroll

@@ -1,5 +1,5 @@
 date 4/16/2024
-groups All BipolarDisorder HasDataset
+groups All BipolarEnergy HasDataset
 title Ketones vs Lithium
 
 import header.scroll

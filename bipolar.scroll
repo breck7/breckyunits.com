@@ -1,5 +1,5 @@
-replace CAT_TITLE Bipolar Disorder
+replace CAT_TITLE Bipolar Energy
 
 import categoryPage.scroll
-snippets BipolarDisorder
+snippets BipolarEnergy
 import footer.scroll
