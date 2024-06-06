@@ -1,0 +1,47 @@
+date 6/6/2024
+groups All Programming ScrollNotation
+openGraphImage intelligence.png
+title A Measure of Intelligence
+
+import header.scroll
+printTitle
+printAuthor
+printDate
+
+HTML | TXT
+ class scrollDateline
+ style text-align: center;
+ link intelligence.html HTML
+ link intelligence.txt TXT
+
+mediumColumns 1
+
+Can we quantify intelligence? Yes.
+
+<br><br>
+<center>
+
+katex
+ {Intelligence}(P) = \frac{\text{Accuracy}(P)}{\text{Size}(P)}
+
+plainTextOnly Intelligence(P) = Accuracy(P) / Size(P)
+</center>
+<br><br>
+
+Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Reality).
+
+Accuracy(P) is the sum of the XNOR of the Predictions vector with the Reality vector.
+
+Intelligence(P) is equal to Accuracy(P) divided by Size(P).
+
+***
+
+If programs A and B are the same size, the more accurate program is more intelligent.
+
+If they have the same accuracy, the smaller program is more intelligent.
+
+// A measure that includes energy may be even more intelligent.
+
+****
+
+import footer.scroll
