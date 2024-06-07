@@ -28,9 +28,9 @@ plainTextOnly Intelligence(P) = Coverage(P) / Size(P)
 </center>
 <br><br>
 
-Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Reality).
+Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).
 
-Coverage(P) is the sum of the XNOR of the Predictions vector with the Reality vector.
+Coverage(P) is the sum of the XNOR of the Predictions vector with the Nature vector.
 
 Intelligence(P) is equal to Coverage(P) divided by Size(P).
 
