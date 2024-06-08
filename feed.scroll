@@ -1,8 +1,6 @@
 description Some writing about probability, programming, economics and life.
 permalink feed.xml
 title Breck's Blog
- hidden
 
 import settings.scroll
-printTitle
 printFeed All
