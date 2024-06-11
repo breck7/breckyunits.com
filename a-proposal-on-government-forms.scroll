@@ -44,7 +44,7 @@ The syntax I have developed that is one candidate for $X$ for making this system
 
 ## An Example
 A simple example is shown below. Despite the simplicity of the example, rest assured this system scales to handle even the most complex government forms and workflows. This system would work regardless of the character set or text direction of the language. The system works with both computers or pen & paper. This system does require a user friendly Specification Language $L$ to define the semantics available to the Specification writer, which could be created and iterated on as an open standard.
-image govFormsExample.png
+image govFormsExample.jpg
 
 # The Golden Age of Forms
 So far I've described a new infrastructure that could underlie all government forms worldwide. But the revolutionary part would happen next.
