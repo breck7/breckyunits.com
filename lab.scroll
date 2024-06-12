@@ -1,6 +1,7 @@
 date 5/27/2024
 groups All Science Startups Programming Writing
-replace PRICE $49,999
+replace PRICE $499,999
+replace COMMITMENT 11
 title Breck's Lab
 
 import header.scroll
@@ -32,7 +33,7 @@ For PRICE a year, you get access to *brecks.lab*, the private git repository and
 
 - *Meet*: Interact with other members on the issues board.
 
-If you are a technology investor, we have some _very_ exciting posts coming out this year on AI, science, and what comes after the web.
+If you are a technology investor, we have some _very_ exciting posts coming out on AI, science, and what comes after the web.
 
 You can wait for the published versions, or you can join *brecks.lab* today.
 
@@ -62,7 +63,7 @@ import stripeButton.scroll
  https://pldb.io PLDB
  https://scroll.pub Scroll
  https://breckyunits.com breckyunits.com
-- *Honorary Members*: If you've contributed ten or more commits to our open source projects, email me for your honorary membership.
+- *Honorary Members*: If you've contributed COMMITMENT or more commits to our open source projects, email me for your honorary membership.
 - *Satisfaction Guarantee*: If you are not 100% satisfied at any point, just email me why and I'll issue a refund for the unused months.
 - *Usage*: If you use code or ideas from *brecks.lab* in your own work before they are published, just please be polite about it.
 - *Payment Methods*: You can also join by sending PRICE to breck7.near, via PayPal (breck7@gmail.com), Cash App ($byunits), Venmo (@Breck-Yunits), or handing me PRICE cash.
