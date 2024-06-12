@@ -1,0 +1,41 @@
+date 6/12/2024
+groups All ScrollNotation Programming Society
+title The World Wide Scroll
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+After years of development, I'm looking for beta testers for The World Wide Scroll (WWS).
+ dateline
+
+***
+
+The WWS is like the World Wide Web, except:
+
+- *Offline.* You download entire sites and browse completely offline locally, rather than fetching one page at a time.
+- *Pristine.* No ads, no paywalls, no trackers, no cookies, no copyright.
+- *Human.* Instead of domains the WWS has folders owned by humans, not AIs or corporations.
+- *Trustworthy.* Source code behind every page.
+- *Intelligent.* Built from the ground up in a simple, expandable language.
+ https://scroll.pub simple, expandable language
+
+***
+
+If you know someone who might find this interesting, I'd appreciate it if you could share this with them.
+
+The link to register a folder is:
+https://scroll.pub/wws.html
+
+The price to own a folder is $10 per year.
+
+Mahalo!
+
+-Breck
+
+****
+
+endColumns
+
+import footer.scroll
