@@ -1,7 +1,7 @@
 date 5/27/2024
 groups All Science Startups Programming Writing
 replace PRICE $499,999
-replace COMMITMENT 11
+replace COMMITMENT 31
 title Breck's Lab
 
 import header.scroll
