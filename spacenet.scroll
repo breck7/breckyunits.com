@@ -1,0 +1,87 @@
+date 6/2/2013
+groups All Programming ScrollNotation
+title SpaceNet: A successor to the Internet
+
+import header.scroll
+printTitle
+thinColumns 1
+related wws
+
+I have an idea for a simpler Internet, where a human could hold in their head, how it all works, all at once.
+ dateline
+
+It would work much the same way as the Internet does now except for one major change. Almost all protocols and encodings such as TCP/IP, HTTP, SMTP, MIME, XML, Zone files, et cetera are replaced by a lightweight encoding called Space.
+ https://github.com/breck7/space Space
+
+***
+
+Computers would still communicate by sending and receiving packets, but those packets would be human readable Space objects.
+
+Programs would not have to speak dozens of different grammars for different services but could be equipped to work with Space and easily send and receive messages to other programs on SpaceNet.
+
+***
+
+A user could learn Space in under an hour and then have the ability to create and broadcast raw Space messages that could send emails, request web pages, trigger remote APIs, and much more.
+
+A user could inspect all SpaceNet traffic and not have the slightest bit of difficulty understanding what was happening on their wires.
+
+A user could experiment with creating languages on top of Space that could make SpaceNet do all sorts of neat things with minimal effort and without breaking existing programs.
+
+***
+
+An example electronic message on SpaceNet might look like this:
+
+code
+ to Vint Cerf <vint@cerf.com> Bob Kahn <bob@bob.com>
+ from breck7@gmail.com
+ subject SpaceNet: Good idea or bad idea?
+ message Would love to hear your thoughts.
+ 
+***
+
+This is simpler than how that message currently looks on the current Internet:
+
+`MIME-Version: 1.0 Received: by 10.76.12.234 with HTTP; Sun, 2 Jun 2013 16:36:57 -0700 (PDT) Date: Sun, 2 Jun 2013 16:36:57 -0700 Delivered-To: Vint Cerf <vint@cerf.com>, Bob Kahn <bob@kahn.com> Subject: SpaceNet: Good idea or bad idea? From: Breck Yunits <breck7@gmail.com> To: Me <breck7@gmail.com> Content-Type: multipart/alternative; boundary=bcaec554097aeca02704de34521c —bcaec554097aeca02704de34521c Content-Type: text/plain; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c Content-Type: text/html; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c—`
+
+***
+
+To transmit that message, the computer would add a transport encoding to the message, which on the Internet contains a fixed size header containing unprintable characters but on SpaceNet might look something like this:
+
+code
+ header
+ source 1.1.1.1
+ destination 1.1.1.1
+ length 135
+ sourcePort 80
+ destinationPort 81
+ sequenceNumber 1
+ acknowledgementNumber 1
+ checksum 234fsdafsda534453
+ to Vint Cerf <vint@cerf.com>, Bob Kahn <bob@bob.com>
+ from breck7@gmail.com
+ subject SpaceNet: Good idea or bad idea?
+ message Would love to hear your thoughts.
+
+Space can serve both as the high level encoding at the application layer and the low level encoding at the transport layer.
+
+***
+
+Of course, there are obvious issues that come up. How does hardware do packet switching with variable width headers? Is the increased packet header size a concern? Then of course, there’s the big issue of whether Space is even a good language. Why not XMLNet, or JSONNet? There are answers to those questions, but for now I just wanted to share this idea and see what people thought.
+
+***
+
+The current Internet works incredibly well, and has grown to be many magnitudes larger than its predecessor ARPANET. But only a tiny fraction of the population understands how it works at a low level, and even those who do had to invest considerable time to learn all of the encodings and pieces.
+
+The complexity of current Internet protocols could be holding us back from an even better successor that can benefit from orders of magnitude more tinkerers and experimenters.
+
+****
+
+# Related Posts
+relatedList
+
+***
+
+_I originally published this on Medium._
+ https://medium.com/space-net/spacenet-51aca95d49a2 published this on Medium
+
+import footer.scroll
