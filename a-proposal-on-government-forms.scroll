@@ -1,0 +1,67 @@
+date 6/16/2023
+groups All ScrollNotation Programming Society
+title A Proposal to Solve Government Forms Worldwide, Forever
+
+import header.scroll
+printTitle
+thinColumns 2
+
+// chatGptSummary The proposed idea is to create a universal infrastructure for government forms worldwide, using Specifications, Instances, and Templates, with the aim of reducing time wasted on forms, increasing transparency, and benefiting citizens; however, obstacles such as resistance from those in power and the potential creation of more forms if the system becomes popular are acknowledged.
+
+Here is an idea for a simple infrastructure to power all government forms, all over the world. This system would work now, would have worked thousands of years ago, and could work thousands of years in the future.
+ dateline
+
+endSnippet
+
+# Benefits
+In theory all government forms could shift to this model, and once a citizen learns this simple system, they would be able to understand how to work with government forms anywhere in the world.
+
+This system could reduce the amount of time citizens waste on forms, reduce asymmetries between those who can afford form experts (accountants, lawyers, et cetera), and those who cannot, and increase transparency and reduce expense of governments.
+
+# Obstacles
+I will not make any claims that this system will catch on. Let's be generous and assume my system works as I claim. Even then, and even if 99% of citizens were better off, if the 1% of the population with power does not find this system in their interests, it is very plausible that it will not happen. In other words, it is a plausible argument that the current byzantine system strongly benefits those in the top 1% of society who derive revenue from this system, and can simply use a fraction of their dividend streams to have experts deal with these problems. So even if the system is significantly better for 99% of people, it could be worse for 1% of people, and it could be those people who decide what system to use, meaning this system might never take off.
+
+Alternatively, if this system were to catch on, an unanticipated second order effect could be that by making government forms so easy and simple, more forms are created, reducing the net benefit of this system.
+
+Obstacles aside, let me describe it anyway.
+
+# The System
+
+## Government Forms
+There are 3 key concepts to this system: Specifications, Instances, and Templates.
+
+*Specifications* describe the fields of a form. For example, that it requires a name and a date and a signature. Every government form must have a Specification $S$ and every Specification must have an identifier. Specifications are written in a Specification Language $L$. The Specification Language has a syntax $X$.
+
+*Instances* are documents citizens submit that include the Specification identifier and contain a document written to that specification. Instances, $I$, are written in the same syntax $X$ as Specifications $S$.
+
+*Templates* can be any kind of document $T$ from which an instance $I$ of $S$ can be derived. Templates can follow any syntax.
+
+## Here's the Key Idea
+In this system, governments can provide Templates $T$ and citizens can submit them, as they do today, *_or_* they can directly submit an Instance $I$ for any and every Specification $S$. In other words, Governments can still have fancy Templates for Birth Certificates or Titles or Taxes, but they *also* have to accept Instances $I$ for that Specification. Government archives would treat the instances $I$ as the source of truth, and the Templates $T$ would only serve as an optional artifact backing the $I$.
+
+## The Syntax
+The syntax I have developed that is one candidate for $X$ for making this system work I call Tree Notation. There are no visible syntax characters in Tree Notation. It is merely the recognition that the grid of a spreadsheet and the concept of indentation is all the syntax needed to produce any Specification and any Instance ever needed. My syntax was inspired by languages like XML, JSON, and S-Expressions, but has the property that it is the most minimal—there is nothing left to take out, while still allowing the representation of any idea. I believe this mathematical minimalism makes it timeless and a good base for building a universal government form system.
+
+## An Example
+A simple example is shown below. Despite the simplicity of the example, rest assured this system scales to handle even the most complex government forms and workflows. This system would work regardless of the character set or text direction of the language. The system works with both computers or pen & paper. This system does require a user friendly Specification Language $L$ to define the semantics available to the Specification writer, which could be created and iterated on as an open standard.
+image govFormsExample.jpg
+
+# The Golden Age of Forms
+So far I've described a new infrastructure that could underlie all government forms worldwide. But the revolutionary part would happen next.
+
+On top of this infrastructure, people could build new tools to make it fantastically easy for citizens to interact with government forms. For example, a citizen could have a program on their personal computer that keeps a copy of every possible Specification for every government form in the world. The program could save their information securely and locally. The citizen could then use this program to complete and submit any government form in seconds. They would never have to enter the same information twice, because the program would have all the Specifications and would know how to map the fields accurately. Imagine if autocomplete were perfect and worked on every form. Documentation could be great because everyone building forms would be relying and contributing to the universal Specification Language. The common infrastructure would enable strong network effects where when form builders improve one form they'd improve many. Private enterprises could also leverage the Specification Language and read and write forms in the same vernacular to bring the benefits of this system beyond citizenship to all organizational interactions.
+
+# Conclusion
+This system is simple, future proof, works everywhere, and offers citizens worldwide a new universal user interface to their governments. It allows existing forms to co-exist as Templates but provides a new minimal and universal alternative.
+
+The challenges would be building a great Specification Language for diverse groups in the face of a small minority disproportionately benefiting from the status quo. A mathematical objective function such as optimizing for minimal syntax could be a long-term guide to consensus.
+
+If this infrastructure were built it should enable the construction of higher level tools to make governments work better for their citizens. It could be the dawn of a Golden Age of forms.
+
+I hope by publishing these ideas others might be encouraged to start developing these systems. I am hoping readers might alert me to locations where this kind of system is already in place. I am also keenly interested in mathematical arguments why this system should not exist universally.
+
+****
+
+katex
+
+import footer.scroll

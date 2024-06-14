@@ -1,0 +1,25 @@
+Bring back RadioShack?
+======================
+
+May 26, 2024
+
+You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
+
+[Image Omitted]
+
+Notes
+=====
+- All of the data is in the source code for this blog post. Click "View Source" at the bottom of this page to see it.
+- There are still 412 independently owned RadioShacks
+ https://8bitboyz.com/radio-shack-store-numbers/
+- I found data for number of RadioShack stores for 6 years, and used Our World In Data's Grapher to interpolate the missing values.
+- For ElectronicsManufacturing, I used the data from All Employees, Computer and Electronic Product Manufacturing, averaged by year
+ https://fred.stlouisfed.org/graph/?g=1nSZt
+
+****
+
+Highlighted Reader Comments
+===========================
+
+> I can have a far wider selection of electronic components delivered overnight for cheaper from Amazon, Mouser or Digikey. The need for a brick and mortar electronics store is long over. Time marches on. - rriggsco
+ https://www.reddit.com/r/electronics/comments/1d0zfcf/comment/l5rhzcz/

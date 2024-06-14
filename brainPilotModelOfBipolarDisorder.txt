@@ -1,0 +1,87 @@
+The Brain Pilot Model of Bipolar Disorder
+=========================================
+
+February 20, 2024
+
+A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
+ https://www.metabolicmind.org
+ https://breckyunits.com/bipolarKeto.html
+
+Today I want to explore a model of bipolar disorder that I've wondered about for a few years, after reading about Marvin Minsky's "Society of Mind" model of the brain. In the model I explore today, mania and depression are not the result of a chemical imbalance, nor the result of a metabolic disorder, but instead are two neural circuits that are learned over time and persist in the brain, whether active or not, like learned skills. This post explores the brain pilot model of bipolar disorder.
+ https://breckyunits.com/marvin-minsky.html
+
+Brain Circuits
+==============
+The gist of Minsky's theory is that you are not a single "I", but instead a large collection of separable neural circuits working together. Your brain starts as a raw collection of neural resources and groups of neurons wire and fire in different ways to form circuits (aka "agents" or "resources").
+
+Circuits that prove useful become stronger and survive. Some of these circuits are very low level, like a circuit for blinking. Some circuits are higher level and learn to control lower level circuits to achieve their goals. For example, you can think of learning how to ride a bike as developing a "bike riding circuit" that is capable of coordinating your legs, arms, center of gravity, et cetera, to successfully steer and propel the bike.
+
+To learn how to ride a bike, your body experiments with a lot of different circuits. The circuit that does the best job is active for a longer period of time, out-competing other possible bike riding circuits, receiving more resources, strengthening and persisting over time.
+
+Brain Pilots
+============
+The circuits at the highest level, the ones that you might say experience consciousness, I call brain pilots. Brain pilots are neural circuits that compete against each other for root level control of a brain. You might say the brain pilot in control is the one that experiences consciousness. To a brain pilot, the well being of their host is not the primary measure of success. Instead, the primary measure of success is how long that brain pilot is in control.
+ https://breckyunits.com/brain-pilots.html
+
+Learning how to mania
+=====================
+Children learn to crawl without knowing what they are doing. In learning to crawl, a circuit in the child's brain experiments with various combinations of contractions and relaxations of legs and arms. So it may be with learning to go manic.
+
+At some point a circuit in your brain might start experimenting with various contractions and releases around brain regions like the amygdala, hippocampus, and prefontal cortex, involved with things like mood, fear, anxiety, and executive function. This network, let's call it _M_, might at first be competing against 10 other possible brain pilots. The positive feelings associated with the combination that _M_ is hitting upon keep _M_ piloting for longer.
+
+In that person's brain is a new lifetime "skill". Alongside crawling, they now know how to go manic. They now have a manic brain pilot they can switch to.
+
+Why would someone learn how to mania? Perhaps it is a "necessity is the mother of invention" situation. Depression hits first, and a person's brain starts subconsciously prototyping new circuits to try and recover. Maybe MDDs and bipolars are the same, except the brains of MDDs never figured out the subconscious manic skill.
+ https://en.wikipedia.org/wiki/Major_depressive_disorder
+
+Bipolar brains may be _less_ chaotic than normal brains
+=======================================================
+A recent paper that looks at bipolar disorder through the lens of chaos theory suggests that counter-intuitively it is not that there is more chaos in a bipolar brain, it is that there is less of it: "a more chaotic pattern is present in healthy systems". In the brain pilots model, the problem with someone with bipolar is not that they experience brain pilot switching--that is normal--it is that they have a manic agent which is a brain pilot very skilled at staying in power. The problem is _less_ brain pilot switching, not more.
+ https://journalbipolardisorders.springeropen.com/articles/10.1186/s40345-021-00235-3
+
+Avoiding Brain Pilot Switches
+=============================
+The manic pilot "learns" that certain behaviors, while detrimental to the host, keep its time in control going.
+
+Sleep is perhaps the ultimate brain pilot switcher. The pilot that goes to sleep in control does not know if it will be the pilot that wakes up in control. In the brain pilot model of bipolar, the manic pilot likes to avoid sleep because the less the host sleeps the less pilot switching that goes on, meaning the manic pilot's expected reign is longer.
+
+The manic pilot could use spending as a way to bribe other brain circuits to keep it in power. Under the manic pilot, all brain circuits get what they want, and so those circuits in turn support the continuation of the manic pilot's reign.
+
+The manic pilot triggers paranoia, and wariness to medication, for good reason. Friends and family that are worried about the person experiencing mania are indeed trying to get the manic pilot to give up control. While taking a medication won't kill the host, to the manic pilot, it _is_ a matter of life and death, and so that pilot will deploy the resources at its disposal accordingly.
+
+At some point, by remaining in control for so long via its selfish actions, the manic pilot will have scorched the host's resources, and will retreat into hiding. But, like riding a bike, that neural circuit will remain in the brain, ready to pilot again if it gets its chance.
+
+Despite the harm to the host, in terms of ranking brain pilots by their time in control, mania is a very good strategy.
+
+Depression as a Pilot
+=====================
+Depression, like mania, is also a strong strategy for a brain pilot, when you rank them by time in control.
+
+The depressed pilot discourages all effort. Any effort might lead to a positive chain of events that lead to a different brain pilot taking control.
+
+The depressed brain pilot learns to stop its host from doing almost anything at all. The less the host does, the less the chance of a pilot switch.
+
+Being in social settings often requires a lot of pilot switching. The depressed brain pilot steers its host away from those.
+
+Perhaps the rumination the depressed pilot engages in is another way of keeping control and preserving its reign.
+
+The negative self-talk, hating on all the other brain pilots in a person, could also be a way of keeping other pilots from taking control.
+
+Thoughts on this model
+======================
+I don't think the model explored above is a leading contender for finally explaining bipolar disorder, but I do think it is worth consideration.
+
+- It explains why mania and depression are life long: they are actually subconsciously learned skills that, once learned, will persist in one's brain for a lifetime, like learning to walk or ride a bike.
+- It explains why bipolar disorder has yet to be "solved". Bipolar disorder would be a brain agent disorder, and we can't yet "see" neural agents. Minsky's model of the brain is still conceptual. The biomarkers of the root cause of bipolar haven't been identified because it is not an organ or organelle or metabolite issue but is instead a brain circuit issue.
+- It explains why if you don't develop mania or depression relatively early in life, you are not likely to develop it later. Later in life your there is more established competition so forming a new brain pilot might be more difficult.
+- It explains certain behaviors present in the extremes as being logical actions for the respective brain pilots to maintain control of the host.
+
+Unanswered Questions
+====================
+
+- Are there people who go manic (and hypomanic) but never depressed? It seems like this is a question we should be able to answer now with the vast amount of sleep data collected by FitBit, Apple, Garmin, Whoop, Samsung, Oura Ring, et cetera.
+- In what percentage of bipolars does mania develop first? In what percentage depression? It seems like to answer this question we need to wait until a large number of children wear wearables for many years.
+- Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
+ https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
+
+****

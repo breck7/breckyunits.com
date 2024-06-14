@@ -1,0 +1,51 @@
+date 2010-0-18
+groups index
+permalink bash-variables.html
+title Bash variables
+
+import pageHeader.scroll
+
+code
+ $ FIVE=5
+ $ echo $FIVE
+ 5
+ $ echo "The number five is $FIVE"
+
+# Variable scope
+
+A shell script will launch a new shell that has a fresh scope.
+
+code
+ $ FIVE = 5
+ $ vim myshellscript.sh
+ #!/bin/bash
+ echo $FIVE
+ $ ./myshellscript.sh
+
+Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
+
+# Export command.
+
+Use the export command to change the scope of your variable to global for your shell.
+
+To make a permanent global variable, add it to your .bash_profile like so:
+
+code
+ MY_NAME=breck; export MY_NAME
+
+# Accept input.
+
+Use the read command to accept input.
+
+code
+ echo "What is 1+1?"
+ read ANSWER
+ echo "Your answer is $ANSWER"
+
+# Notes
+
+1. Bash <a href="https://steve-parker.org/sh/variables1.shtml
+">tutorial</a> 2. Another <a href="https://www.mcsr.olemiss.edu/unixhelp/environment/env3db.html
+">tutorial</a> 3. Bash <a href="https://steve-parker.org/sh/variables2.shtml
+">parameters</a>
+import footer.scroll

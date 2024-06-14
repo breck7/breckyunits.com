@@ -1,0 +1,37 @@
+date 2009-12-20
+groups All Programming Startups
+title Problems Worth Solving
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
+ dateline
+
+Problems are not all created equal, so while programming you should occasionally ask yourself, "is this problem worth solving?"
+
+endSnippet
+
+Here's one rubric you can use to test whether a problem is worth solving:
+
+1. *Simplicity.* Can you envision a simple solution to the problem? Can you create at least a partial, meaningful solution or prototype in a short period of time? Building a flying car would solve a lot of my transportation problems, but I don't see a simple path to getting there. Don't be too far ahead of your time. Focus on more immediate problems.
+
+2. *Value.* Would solving this problem create value? Sometimes it's hard to predict in advance whether or not your solution would create value for people. The easiest way to tell if you've succeeded is if anyone would be disappointed if your solution were to disappear. If you can get a first prototype into people's hands early, you'll find out quickly whether or not you are building a solution to a problem that creates value.
+
+3. *Reach.* Do a lot of people have this problem? Some problems, like searching for information, are shared by nearly everyone. Others, like online version control, are shared by a much smaller niche but still a significant amount of people. If a problem is shared by only a handful of people, it's probably not worth programming a solution.
+
+# Great Programmers Solve Important Problems
+
+The best programmers aren't simply the ones that write the best solutions: they're the ones that solve the best problems. The best programmers write kernels that allow billions of people to run other software, write highly reliable code that puts astronauts into space, write crawlers and indexers that organize the world's information. They make the right choices not only about how to solve a problem, but what problem to solve.
+
+# Life is Short
+Life is too short to solve unimportant problems. If you want to solve important problems, it's now or never. The greatest programmers only get to solve a relatively small amount of truly important problems. The sooner you get started working on those, the better.
+
+# Ignore Speed Limits
+If you don't have the skills yet to solve important problems, reach out to those who do. To solve important problems, you need to develop a strong skill set. But you can do this much faster than you think. If you commit to solving important problems and then reach out to more committed programmers than you, I'm sure you'll find many of them willing to help speed you along your learning curve.
+
+****
+
+import footer.scroll

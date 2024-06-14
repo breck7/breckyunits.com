@@ -1,0 +1,134 @@
+date 2008-05-08
+groups All Startups HasDataset
+title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
+
+import header.scroll
+printTitle
+thinColumns 2
+
+xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
+ dateline
+ http://news.ycombinator.com/ HackerNews
+ https://web.archive.org/web/20081205044245/http://www.breckyunits.com/HackerNewsUsers.xls excel file
+ https://news.ycombinator.com/user?id=xirium xirium
+
+endSnippet
+
+# General Composition of the Dataset
+
+There are 7,159 users in this dataset.
+
+The newest user joined 1 day ago and the oldest user(pg) joined 563 days ago(about 19 months ago, appx. 11/2006).
+
+It was 4 days before the second user joined.
+
+Between days 563 and 441, there were only 34 users. I am guessing this was the beta period. You can easily see the beta period on the right in the picture below.
+
+[Missing chart] Karma by Join Date
+
+You can also see some large outliers who have a ton of karma. The largest outliers are:
+
+1. pg (17544)
+ https://news.ycombinator.com/user?id=pg pg
+2. nickb (11672)
+ https://news.ycombinator.com/user?id=nickb nickb
+3. edw519 (5316)
+ https://news.ycombinator.com/user?id=edw519 edw519
+4. rms (5017)
+ https://news.ycombinator.com/user?id=rms rms
+
+# Registration Trends
+
+193 days(8 months) is the average elapsed time since joining. The median is 191 days.
+
+While signups aren’t particularly skewed to one side, there are definitely periods of higher growth.
+
+There are 3 major periods of growth centered around approximately 390 days ago, 220 days ago, and in the past 30 days. The YC deadline for Summer 2007 was 4/2/07 (~390 days ago). The deadline for Winter 2008 was October 11,2007 (~220 days ago). The deadline for Summer 2008 was 4/2/2008(~ 30 days ago). I think it’s fair to conclude that when YC is gearing up to fund a new batch of startups HN signups go up significantly.
+
+BTW, the deadline for Winter 2007 was 10/18/2006 (over 500 days ago and thus before HN was public).
+
+[Missing chart] Hacker News Date Joined Distribution
+
+# OOPS! Missing Data
+
+I wanted to see the effects of the first mention of Hacker News in Techcrunch. The results were surprising–I realized this dataset is far from complete. The Techcrunch article was about 60 days ago and you can see a slight jump in registrations below. But only 32 new members from a Techcrunch article? I couldn’t believe it. So I used Search Y Combinator to see if there was any mention of the traffic bump from TC. There was, and pg reported that there were 258 new accounts within 24 hours of the TC article. So this dataset is missing about 88% of new members from that period. So obviously xirium’s dataset is not the complete user list(unless there are thousands of lurkers). He may have mentioned that, I’m not sure.
+ http://news.ycombinator.com/item?id=134247 258 new accounts
+
+[Missing chart] Busted Data
+
+# Karma/Joined Correlation
+
+Their is a slight positive correlation between karma and joined. In other words, the longer you’ve been a member, the higher your karma will be on average. However, a low R2 value indicates that the date joined isn’t a significant predictor of karma. See the image below(extreme outliers removed).
+
+[Missing chart] Karma by Joined
+
+# Average Karma Per Day
+
+The rookies have a pretty good batting average in terms of average karma per day. But just like in the major leagues, it’s hard to maintain that and there is a negative correlation between membership duration and karma per day average. But even here, length of time isn’t a good predictor of karma per day average.
+
+[Missing chart] Average Karma Per Day
+
+# About field filled out?
+
+1303 have an about page; 5856 don’t. This works out to 18.2% versus 81.8%.  The longer someone has been a member, the more likely they are to have filled out the about section. Although the correlation is positive, the length of time someone has joined is not a great predictor of whether or not they have an about page.
+
+[Missing chart] About Page by Join Date
+
+A better predictor of the about page binary is their karma level. Once again, however, not a great predictor.
+
+[Missing chart] Fit about by karma
+
+# Conclusions
+
+What did I learn? Honestly I did this mainly to refamiliarize myself with JMP. I didn’t really expect to find a whole lot of interesting things, and found what I expected. Seeing the beta period was cool, as well as the outliers. I also liked discovering that this was an incomplete dataset. The most interesting thing was definitely how memberships shot up during YC app periods.
+
+Python Script to parse xirium’s original tarball into a CSV file:
+
+code
+ import os
+ files = os.listdir(os.getcwd())
+ csv = open(”csv2.csv”,’w')
+ sep = “;”
+ term = “\n”
+ 
+ for i in files :
+ if i[-4:] != ‘html’ :
+ continue
+ f=open(i, ‘r’)
+ contents = f.read()
+ start = contents.find(”user:”)+14
+ if start < 100 :  ## a couple files are messed up
+ print i
+ print start
+ continue
+ end = contents.find(”</td>”,start)
+ user = contents[start:end]
+ start = contents.find(”created:”)+17
+ end = contents.find(”</td>”,start)
+ created = contents[start:end]
+ start = contents.find(”karma:”)+15
+ end = contents.find(”</td>”,start)
+ karma = contents[start:end]
+ start = contents.find(”about:”)+15
+ end = contents.find(”</td>”,start)
+ about = contents[start:end]
+ about = about.replace(”\n”,”<br>”)
+ about = about.replace(”\r”,”<br>”)
+ about = about.replace(”;”,”")
+ csv.write(user + sep + created + sep + karma + sep + about + term)
+ f.close()
+ csv.close()
+
+# Updates:
+
+I didn’t realize xirium collected the profile pages on different days. Skews things a bit.
+
+[Missing chart] log(karma) by joined
+
+****
+
+import importedNote.scroll
+Original post
+ https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/
+
+import footer.scroll

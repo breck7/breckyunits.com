@@ -1,0 +1,80 @@
+English cannot encode Real News
+===============================
+
+The Attempt to Capture Truth
+============================
+
+August 19, 2019
+
+Back in the 2000's Nassim Taleb's books set me on a new path in search of truth. One truth I became convinced of is that most stories are false due to oversimplification. I largely stopped writing over the years because I didn't want to contribute more false stories, and instead I've been searching for and building new forms of communication and ways of representing data that hopefully can get us closer to truth.
+ https://www.fooledbyrandomness.com/
+ https://breckyunits.com/narratives-misrepresent-complex-systems.html
+ https://breckyunits.com/ohayo.html
+ https://treenotation.org/
+
+I've tried my best to make my writings encode "real" and "true" information, but it's impossible to overcome the limitations of language. The longer any work of English writing is, the more inaccuracies it contains. This post itself will probably be more than 50% false.
+
+But most people aren't aware of the problem.
+
+Fake news is a great idea.
+==========================
+
+Then came DT and "fake news". One nice thing I can say about DT is that "fake news" is a great idea.
+
+If your ideas are any good, you'll have to ram them down people's throats.
+@ Howard H. Aiken
+
+..in science the credit goes to the man who convinces the world, not to the man to whom the idea first occurs.
+@ Francis Darwin
+
+DT has done a great job at spreading this idea. Hundreds of millions of people, at least, now are at least vaguely familiar that there's a serious problem, even if people can't describe precisely what that is. Some people mistakenly believe "their news" is real and their opponents' news is fake. It's all fake news.
+
+What's the underlying problem?
+==============================
+English is a fantastic story telling language that has been very effective at sharing stories, coordinating commerce and motivating armies, but English evolved in a simpler time with simpler technologies and far less understanding about how the world really works.
+
+English oversimplifies the world which makes it easy to communicate something to be done. English is a modern day cave painting language. Nothing motivates a person better than a good story, and that motivation was essential to get us out of the cave. It didn't matter so much in which direction people went, as long as they went in some direction together.
+
+But we are now out of the cave, and it is not enough to communicate what is to be done. We have many more options now and it's important that we have langauges that can better decide what is the best thing to do.
+
+What will a language that supports Real News look like?
+=======================================================
+Real News is starting to emerge in a few places. The WSJ has long been on the forefront but newer things like Observable are also popping up.
+ https://www.wsj.com
+ http://observablehq.com/
+
+I don't know exactly what a language for truth will look like but I imagine it will have some of these properties:
+
+- It will be a language that is hard to lie with
+- It will contain more numerics and be more data driven
+- It will be interactive, with assumptions made clear and adjustable by the reader
+- It will be blameable, with the source and history of every line and character auditable
+- It will be linked and auditable, with the ability to "go to definitions"
+- It will discourage obfuscation, and will make it easy to compare 2 representations and choose the simpler one
+- It will be more visual, expanding beyond character alphabets and embracing more charts and visualizations
+- It will be more Random Access, like bullet points
+
+English and Sapir–Whorf
+=======================
+
+I would say until we move away from English and other story-telling languages to encodings that are better for truth telling, our thinking will also be limited.
+
+A language that doesn’t affect the way you think about programming, is not worth knowing.
+– Alan Perlis
+
+New languages designed for truth telling might not just be useful in our everyday lives, they could very much change the way we think.
+
+Finally
+=======
+Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the stories_. But just remember they are stories. If you are reading English, know that you are not reading Real News.
+
+****
+
+Related Posts
+=============
+- Many Narratives. All true. (2023)
+ https://breckyunits.com/many-narratives-all-true.html
+- If stories are lies why do they work? (2020)
+ https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
+- Narratives Misrepresent Complex Systems (2012)
+ https://breckyunits.com/narratives-misrepresent-complex-systems.html

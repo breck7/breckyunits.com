@@ -1,0 +1,58 @@
+date 2024-05-05
+groups All IntellectualFreedom Data
+title Three Scientists Go To Heaven
+
+import header.scroll
+
+thinColumns 1
+
+printTitle
+
+printAuthor
+
+image scientistsHeaven.jpg
+ openGraph
+ // ChatGPT/DALLE made with a little editing in "Preview" by me.
+ // In this single pane comic, xkcd illustration, 3 figures are seen standing outside the gates of heaven. Another stick figure, representing God, stands next to the gate. God is in control of the gate, preventing the others from entering. Heaven is on the other side of the gate
+
+Newton, Darwin, and a modern Scientist go to heaven.
+
+***
+
+God is standing at the gate.
+
+"Your research will determine whether you may enter heaven."
+
+***
+
+Newton is up first.
+
+He shows God "Principia".
+
+God smiles reading Newton's description of gravity.
+
+God shakes his hand and opens the gate for him.
+
+***
+
+Next up is Darwin.
+
+He shows God "Origin of Species".
+
+God says "You nailed it!"
+
+He lets him in.
+
+***
+
+Finally, the modern Scientist is up.
+
+God asks to see his work.
+
+"Sorry", he says.
+
+"It's paywalled."
+
+****
+
+import footer.scroll

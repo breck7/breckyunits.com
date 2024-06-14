@@ -1,0 +1,141 @@
+date 2/9/2024
+groups All BipolarEnergy
+title What is the role of the bipolar in society?
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+It is estimated 2% of the population is bipolar. Sunday I explored: what if that was 98%? And today I explore, why isn't it 0%?
+ link stableMoodDisorder.html what if that was 98%
+ dateline
+// Big subject for future posts: is it really 2%? Toward an objective automatic measurement of BP.
+
+Why does a condition that is 60-80% heritable, deemed a severe, chronic disorder, persist in society? Is this a case purely of _selfish genes_ manipulating their host to reproduce? Is it a case of society changing in a way that previously useful traits are now harmful? Is it the case that society preserves bipolar genes because it can actually be a positive condition, hyperthymia, and there is a conspiracy to restrict that information for competitive reasons? Is it simply inevitable that any variable attribute will have outliers, and we are sure to have 2% mood outliers as we are to have 2% height outliers? Or is it the case that bipolars play a unique positive role in society and societies that have a small percentage of them do better than societies that don't?
+
+endSnippet
+
+First a disclaimer. I am not an evolutionary biologist and I know many have published empirical work on this topic already. If you want the latest and greatest, head to Google Scholar. If for some reason you'd prefer my thoughts on the matter, which are influenced from my first-person experience, then continue on.
+
+# Model 1: Bipolars as Selfish Gene Passers
+// Aka The "Con" Model
+Dawkins' book _The Selfish Gene_ taught me that the main characters in the Darwinian game are not individuals but genes. Individuals can live a long life but if they fail to reproduce and pass on their genes they lose the game. So strategies that maximize the passing on of genes, where the survival of the individual is of secondary importance, are superior.
+ class dropcap
+
+This seems to fit the data on bipolar really well. It is commonly thought the extremes of bipolar begin after puberty. Hypersexuality is a very clear characteristic of manias. Genes that cause people to go into a mode where they are simultaneously hypersexual and also highly energized, social, with charisma and grandiose ambition very clearly can lead to increased odds of reproduction.
+
+Someone with bipolar genes is optimized to have a volatile, shorter life, but with higher odds of reproducing. Although their exceptional energy levels are not sustainable, they can sustain them long enough to give the appearance that they are exceptional individuals worth mating with. This model logically explains a lot of the behavior of bipolars. They lack _insight_ into their manic states because if they knew that their high energy was temporary and not their normal, the cognitive dissonance would negatively affect their interactions with potential mates. They are prone to overspending because their genes more easily get them into a paranoid state where they think death is imminent, and living life to the fullest and reproduction is urgent. Bipolars have much shorter life expectancy because that's what their genes design them for. Bipolars are designed to live fast, breed, and die young. Their decisions are actually more logical than they first appear if you assume they are expecting an early death.
+
+If this is the best fitting model bipolars might rightly be seen as detrimental to a society that values productive, long lives. Society might be better off moving toward 0% bipolars. That might be difficult, however, as bipolar genes can adapt in ways to avoid detection, such as by using depression to hide their host when the energy inevitably fades, and by the already mentioned genuine lack of insight during manic episodes.
+
+This is a sad model that views bipolar disorder exclusively as an exploitative genetic strategy, and I hope it is not true.
+
+# Model 2: Bipolar Genes Only _Currently_ a Bad Fit in Society
+The modern definition of bipolar disorder didn't appear until the late 1800's. Perhaps today's bipolar genes were not a problem until the 1800's. In other words, perhaps 0% of the current bipolar population would have been bipolar in the old days. Maybe new technologies changed society and those with bipolar genes simply have genes maladaptive to the new environment.
+
+Let's list some possible examples.
+
+Disordered circadian rhythms is a prime indicator of bipolar disorder. Perhaps it is all of the artificial lighting that affects some people more than others. Or maybe new abilities to quickly change your location on earth affects some worse than others.
+
+Metabolic factors are prime indicators of bipolar disorder. Perhaps the rise in processed foods, sugar, and other new substances have affected some more than others.
+
+In this model it simply turns out that some genes that used to be helpful or harmless have turned out to be detrimental in this new world of the past 200 or so years. Perhaps the reason for less bipolar in the Amish is that their society lacks technologies that exacerbate bipolar traits.
+
+Things could change again. It could even be that future technological changes will be such that today's "bipolar genes" will not be tomorrow's bipolar genes. In other words, which genes lead to an extreme energy cycle might be different in future societies.
+
+# Model 3: Keeping Hyperthymics Bipolar
+There's no question that in hypomanic states bipolars have a number of positive qualities, like increased energy, IQ, charisma, and decreased need for sleep. What if the ability to get into these high energy states is actually a gift, they are sustainable long term without downsides, and this truth is just suppressed by those successful bipolars to limit their competition in society?
+
+In this model, the 2% bipolar population could actually all be hyperthymic, but instead a slim fraction (say 1% of the 2%, or .02% of the total population) of this cohort obtained power at some point and has used it to suppress information about the true positive nature of this condition to limit their competition for power in society.
+
+I would love to believe this conspiracy theory, sadly I haven't seen evidence for it. I do think it is worth listing though, as I really am curious if hyperthymic people really exist. I hope one day we'll have huge explorable population level datasets of biomarkers like sleep and can conclusively answer the question if hyperthymic people are out there.
+
+# Model 4: The Neutral Model (All distributions have a 2%)
+Perhaps bipolar disorder is simply a name for the 2% outliers in brain energy cycles. In other words, even if everyone currently diagnosed as bipolar were to disappear, suddenly the people who were next in the percentile rankings would be deemed to have a disorder.
+
+If you defined the tallest 2% of your population as suffering from "Height Disorder", and then deported them all, by definition you would still have the same number of people with Height Disorder, they would just be slightly closer to the mean. In other words, the 2% of society is bipolar might just be a societal construct.
+
+In this model, a society can't get to 0% bipolar disorder unless you had perfectly uniform energy level variations.
+
+# Positive Models
+Above I listed models where having bipolars was detrimental or neutral to society. What about models where bipolars add value to society? In other words, are there models where societies with ~2% bipolars are better off than societies with 0% bipolars?
+
+## Model 5A: Creatives
+Some claim bipolars are outliers not only on the brain energy spectrum, but also on the creativity spectrum. It could be possible that the creative contributions of bipolars to society outweigh the negative effects of their volatile energy levels.
+
+Think about creativity like mining diamonds. Finding a diamond is hard, but once you've found it you've added to society's supply of circulating diamonds for all time. Similar for creative works. Coming up with a novel, useful combination is hard, but once it is mined passing it around for all time is relatively easy.
+
+There's a non-linearity to finding diamonds and creating novel, useful creative works. Getting 99% of the way toward finding a diamond has the same payoff as getting 1% there: zero. Therefore, people who over-commit succeed at a higher rate, but also lose more when they fail.
+
+Bipolars are likely to over commit to ideas while in high energy states. This leads to a lot of hard failures, but also leads to more successes than a group of average committers would have. However, if this is the reason for the excess creativity of bipolars, it might diminish in the future as the amount of "low hanging fruit"--diamonds that could be found within the duration of a manic episode--could perhaps decrease over time.
+
+Bipolars naturally look at the world through 3 different perspectives: in a low, medium, and high mood state. This may provide more novel insights that can be mined into successful creative works.
+
+It could also be that bipolars are more willing to take risks because their energy cycles prevent them from enjoying the comforts of normal societal rhythms anyway, so they have less to lose.
+
+## Model 5B: Warriors
+In the past it could have been that bipolars made great warriors, and so a society that had a percentage of them was better off than a society with 0% bipolars. A bipolar in a manic state has high energy, needs little sleep, is goal directed, has faster response times, less risk averse, assumes death is coming soon anyway, and can relatively easily get into a state of rage. It seems like a perfect combination for battle. In the old days they could fight at their best during hypomanic season and rest during depressed season.
+
+Nowadays wars are more professional affairs, won not so much by emotion but by long term engineering, economics, and training. It might be that maintaining a percentage of bipolars was previously helpful for a society, but now there is not so much use.
+
+## Model 5C: Change Agents
+// Aka Moral Critics
+Bipolars have a unique feature set. They are at least average, if not well above average, in being sensitive, observant, and critical of themselves and society. They have huge self-confidence during manic episodes. And they often have less to lose.
+
+This might be a good source of people who might stand up to society if it goes astray.
+
+Most people go with the crowd and don't spend too much time exploring the morality of issues. Humans are very vulnerable to herd behavior. They often get in the mode where they question no actions by their own team. Maybe because bipolars, at times, are not afraid to go it alone, they can sometimes successfully stop bad behavior by a herd.
+
+Perhaps societies with a percentage of bipolars are better off than if they had 0% because they end up being more equitable places with a larger population of empowered agents. Bipolars might not be moral role models, but maybe they are like canaries in the coal mine and can call society out on specific dangers.
+// The manic's role in society: to stand up against the mob and say "you are doing something wrong".
+
+It seems unlikely that they can effectively lead teams better than average. But perhaps they are better than average at triggering cascading changes in behavior. Maybe they can be effective early revolutionaries.
+
+## Model 5D: Rule-breakers
+The survival of rules requires people that break them. A rule that is often broken is often abandoned. But also, a rule that is never broken is abandoned as well, as it is not necessary. Perhaps having a certain population that is prone to at times break the rules is beneficial to a society, because it provides a primary benefit of having rules, which then might confer positive secondary economic and coordination benefits. Perhaps the short term volatility of these characters leads to a more robust long term government and confers a survival advantage to those societies with a percentage of bipolars.
+
+## Model 5E: Happiness Experiments
+No one is as happy as someone in a pleasant state of hypomania. It is a peak feeling. If positive life events coincide with a hypomanic state, there is nothing better. So far, it is not known how to get that state to last, and it appears to always go to too much happiness, followed by depression.
+
+But having people who experience too much happiness might be a risk worth taking by a population. A population with 0% bipolars would be a population not exploring the happiness state space.
+
+To develop the genetic capability of sustainable happiness, you have to risk some experiments with unstable happiness.
+
+Permanent, healthy hypomania might not ever be possible for some existential or mathematical reasons, but oh my god, is it something for a society to explore.
+
+Before it goes wrong, healthy hypomania is an internal, utopian state. A society without bipolars would not be aware that such a state could exist. Nature is mostly dark, cold, and unforgiving. The world can be very depressing. But the happy times, though fleeting, can keep us going. Maybe a society without bipolars also gives up its genes for happiness and is thus worse off.
+
+Having bipolars might be the price society pays for also having happiness.
+
+If this is the case, then maybe in studying bipolars, particularly during elevated states, society might unlock new methods for healthier levels of happiness for everyone.
+
+# Recap
+Bipolars have a natural low frequency, high amplitude energy cycle more extreme than most people. The biological mechanisms of that energy cycle have not yet been solved by scientists, even after over 100 years of research. We also don't yet have very good ways to control that energy cycle, though it should be noted that lithium has proven it is not unalterable. It certainly seems difficult, if not impossible, to remove the energy cycle without causing secondary negative effects. It is currently estimated that around 2% of the population has this irregular energy cycle. Why does society have such a percentage of people with this energy cycle?
+ class dropcap
+
+It is possible, though extremely unlikely, that these energy cycles don't have to be cycles at all, that the elevated hyperthymic state is indefinitely sustainable, and information on how to do that has been suppressed.
+
+It is possible that these abnormal energy cycles confer no benefit to society, benefiting only their own selfish genes. If that were the case, eliminating these energy cycles and eventually filtering out their genetic propagation seems reasonable.
+
+It is possible that these cycles were once helpful to society, but no longer, and so the same conclusion above applies.
+
+It is possible that having these outliers provides a check on societal herds, and bipolars have a beneficial, if sadly martyr-esque, role to play. A society without these outliers standing up for independent lines of thought perhaps might go in a wrong direction and end up somewhere bad.
+
+Finally, it could be that in the study of the positive parts of the bipolar energy cycle, new things can be learned about happiness, leading to a better society for all.
+
+# Conclusion
+Personally, as a bipolar, with the bipolar energy cycle in my body, I am unsure of what the best role for me is in society. I want to do right by everyone. I hope my listing of some of these theories it is clearer that the answer is not as straightforward as some people make it out to be.
+
+If you have the energy cycle, should you embrace it and aim to be a creative, a warrior, a change agent? Or should you try to tame it? What if aiming for a long life expectancy, given your energy cycle, is not in your best interests or society's best interests? What if that is not what you were made for?
+
+I am not sure.
+
+The only thing I am sure of is that it would be great if we figure out the biology of what this energy cycle _is_.
+
+****
+
+# Limitations of this essay
+A productive exercise would be to get a large dataset on objective rates of bipolar disorder in different regions. Then these, and other models, could be applied, and we could learn what fits best. A major obstacle however is that no good large objective dataset on bipolar disorder is readily available for even one country yet, never mind multiple. That should change soon, as I will explore in future posts.
+
+import footer.scroll

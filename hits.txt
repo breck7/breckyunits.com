@@ -1,0 +1,117 @@
+High Impact Thoughts
+====================
+May 20, 2024
+
+[Image Omitted]
+
+Leibniz thought of Binary Notation; Lovelace of Computers; Darwin of Evolution; Marconi of the Wireless Telegraph; Einstein of Relativity; Watson & Crick of the Double Helix; Tim Berners-Lee of the Web; Linus of Git.
+
+Even more importantly _to you_ and _to me_, at some point our mothers and fathers thought to have us.
+
+And since we were born, many people throughout our lives have had thoughts that had high positive impact on us.
+
+If you believe we live in a Power Law World, then it follows that there is nothing with higher expected value; nothing with more leverage; nothing with higher ROI; nothing with higher impact; than High Impact Thoughts (HITs).
+ https://breckyunits.com/planets-and-pebbles.html
+
+HITs dominate both our professional and personal lives. Let's take a closer look.
+
+***
+
+How rare are HITs?
+==================
+
+I've filled many notebooks over the years with _potential HITs_.
+
+Looking at my notebooks, I would say I generate between 2 and 10 HIT candidates per day.
+
+***
+
+What is the difference in magnitude between the lowest impact thought and the highest?
+======================================================================================
+
+I have found it very hard to predict in advance what the impact of a HIT is going to be. I have to act on the HIT first.
+
+I am often off by many orders of magnitude. Sometimes I predict a thought is a surefire HIT but then after I act on it the predicted high impact is nowhere to be found. Instead the real impact is like that of a falling leaf.
+ https://breckyunits.com/orders-of-magnitude.html
+
+Other times I see what seems like a small, mildly interesting idea, I act on it in minutes, and it impacts my life for decades.
+
+Still other times I predict a thought will have a big impact, it has only a tiny impact, but then years later a slight tweak makes it have the impact I originally predicted.
+
+Or sometimes an idea has a big initial impact, but turns out to be inconsequential in the long run.
+
+Since we live for less than one million hours, then the smallest HITs on you personally, measured in hours, would have an impact of ~1, and the biggest HITs would have an impact of ~100,000. So the HIT range on an individual is 6 orders of magnitude.
+
+If you consider the impact your HITs can have on your family, friends, and communities, the impact range expands further.
+
+***
+
+A Recursion: HITs about HITs
+============================
+It follows from the ideas in this essay that the biggest HITs would be thoughts about big HITs. Let's call these HITs about HITs: *HITs!*.
+
+If this essay is true, then it should be one of the most impactful I ever write and one of the most impactful you ever read. It should be a *HIT!*.
+
+But of course, as I mentioned above, it is hard to predict in advance how big a HIT will be, and sometimes it will be years before the right tweaks are made to make something a big HIT.
+
+If this essay you are reading now does not have a big impact, perhaps a future version will.
+
+I share the git for this blog, so if this essay does become a HIT we'd be able to see which tweaks caused that phase change.
+ https://github.com/breck7/breckyunits.com
+
+***
+
+If *HITs!* have the highest expected value, why not spend all day seeking *HITs!*?
+
+What's the point of thinking about lowly HITs when *HITs!* dominate?
+
+I can think of five reasons.
+
+The first is that you don't know whether you've got a HIT until you act on it and get it past the payoff point. Focus and details matter. Nature does not care if you are _close_ to a HIT, you've got to get it all the way past the payoff point.
+
+The second is that your brain needs data to generate HITs. You've got to balance experience with reflection. Too much reflection and your brain won't have enough data to generate novel HITs.
+
+The third is more practical: you have to breathe, eat, drink, sleep, exercise, be social, et cetera. Generating HITs is harder if you're unhealthy. To generate HITs in this world you have to stay alive.
+
+Fourth, there's a fair amount of randomness in HIT Seeking. With 100 billion humans born so far, many of them who never thought about HITs will have bigger HITs than you, simply through chance. You can certainly do things to tilt the odds in your favor of seeing more HITs, but ultimately the dominant term in what HITs you will see is not something you get to control.
+
+Finally, one HIT is "don't take life too seriously—no one's ever gotten out alive." If you were to spend all your time *HIT!* Seeking, due to randomness, you might not ever discover the most impactful *HIT!*, which could be the one I just mentioned.
+
+***
+
+HIT Seeking
+===========
+Alright, so if one believes in the strategic importance of HITs, but also understands that HIT Seeking should not be overdone, what are some tactical things one can do?
+
+The most important thing is probably to setup your life so you can spend a substantial amount of time HIT Seeking. I like to aim for 2 - 4 hours per day.
+
+What does HIT Seeking look like? Walks in the woods, meals with friends, yoga, naps, long hot showers, quiet sitting, conversations with LLMs, drawing, playing in the sand with your kids, doing at home experiments. That sort of thing. The highest impact work often doesn't look like work.
+ https://breckyunits.com/walking-as-a-tool-of-thought.html
+ https://breckyunits.com/datasets.html
+
+Ask a lot of questions. Really drill down into the details. Don't worry much about words. Mental models—being able to picture things in your head, and rotate them—that is what matters.
+
+It's not enough to see potential HITs. It's not enough to just write them down.
+
+Those are required, but you also have to act on them. You will learn that your early versions always get a lot of important things wrong. And you will never know the impact of a HIT until you've taken it past the payoff point.
+
+Finally, *always* keep at least one slot open for the biggest HIT you have yet to find. Always assume it could come at any time. Don't sit there waiting for it—alternate between acting on the best HITs you have in front of you and HIT Seeking—but always be ready to act when a far bigger HIT arrives.
+
+That's all I have on this matter. For now.
+
+Happy HIT Seeking!
+
+Related Posts
+=============
+- The Tallest Tree (2024)
+ https://breckyunits.com/theTallestTree.html
+- Walking and other invisible tools of thought (2023)
+ https://breckyunits.com/walking-as-a-tool-of-thought.html
+- Logeracy (2021)
+ https://breckyunits.com/logeracy.html
+- Planets and Pebbles (2012)
+ https://breckyunits.com/planets-and-pebbles.html
+- Orders of Magnitude (2009)
+ https://breckyunits.com/orders-of-magnitude.html
+
+****

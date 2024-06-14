@@ -1,0 +1,63 @@
+date 2012-12-14
+groups All ScrollNotation Programming
+title Introducing Note
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+comment
+ Just want to note that it took nearly a decade but this article is now
+ written in a derivative of Note! 😀 5/11/2021
+
+Note is a structured, human readable, concise language for encoding data.
+ dateline
+
+endSnippet
+
+# XML to JSON to Note
+
+In 1998, a large group of developers were working on technologies to make the web simpler, more collaborative, and more powerful. Their vision and hard work led to XML and SOAP.
+
+XML was intended to be a markup language that was "both human-readable and machine-readable". As Dave Winer described it, "XML is structure, simplicity, discoverability and new power thru compatibility."
+ http://en.wikipedia.org/wiki/XML both human-readable and machine-readable
+ http://scripting.com/davenet/1998/06/04/xmlParsers.html XML is structure, simplicity, discoverability and new power thru compatibility.
+
+SOAP, which was built on top of XML, was intended to be a "Simple Object Access Protocol". Dave said "the technology is potentially far-reaching and precedent-setting."
+ http://scripting.com/davenet/1998/06/14/infoWorldOnSoap.html the technology is potentially far-reaching and precedent-setting
+
+These technologies allowed developers across the world to build websites that could work together with other websites in interesting ways. Nowadays, most web companies have APIs, but that wasn't always the case.
+
+Although XML and SOAP were a big leap forward, in practice they are difficult to use. It's arguable whether they are truly "human-readable" or "simple".
+
+Luckily, in 2001 Douglas Crockford specified a simpler, more concise language called JSON. Today JSON has become the de facto language for web services.
+ http://www.json.org JSON
+
+? Could JSON be improved?
+
+Early last year, one idea that struck me was that subtle improvements to underlying technologies can have exponential impact. Fix a bug in subversion and save someone hours of effort, but replace subversion and save someone weeks.
+ http://en.wikipedia.org/wiki/Git_(software) replace subversion
+
+The switch from XML to JSON had made my life so much easier, I wondered if you could extract an even simpler alternative to JSON. JSON, while simple, still takes a while to learn, particularly if you are new to coding. Although more concise than XML, JSON has at present six types and eight syntax characters, all of which can easily derail developers of all skill levels. Because whitespace is insignificant in JSON, it quickly becomes messy. These are all relatively small details, but I think perhaps getting the details right in a new encoding could make a big difference in developers' lives.
+
+# Introducing Note
+
+After almost two years of tinkering, and with a lot of inspiration from JSON, XML, HAML, Python, YAML, and other languages, we have a new simple encoding that I hope might make it easier for people to create and use web services.
+
+We dubbed the encoding Note, and have put an early version with Javascript support up on Github. We've also put out a quick demonstration site that allows you to interact with some popular APIs using Note.
+ https://github.com/breck7/note Github
+
+Note is a text based encoding that uses whitespace to give your data structure. Note is simple: there are only two syntax characters (newline and space). It is concise--not a single keystroke is wasted (we use a single space for indentation--why use 2 when one is sufficient?). Note is neat: the meaningful whitespace forces adherance to a clean style. These features make Note very easy to read and to write.
+
+Despite all this minimalism, Note is very powerful. Each note is a hash consisting of name/value pairs. Note is also recursive, so each note can be a tree containing other notes.
+
+Note has only two types: strings and notes. Every entity in note is either a string or another Note. But Note is infinitely extendable. You can create domain specific languages on top of Note that support additional types as long as you respect the whitespace syntax of Note.
+
+This is a very brief overview of the thinking behind Note and some of its features. I look forward to the months ahead as we start to implement Note on sites across the web and demonstrate some of the neat features and capabilities of the encoding.
+
+Please feel free to email me with any questions or feedback you may have, as well as if you'd be interested in contributing.
+
+****
+
+import footer.scroll

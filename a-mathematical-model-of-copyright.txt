@@ -1,0 +1,195 @@
+A Mathematical Model of Copyright
+=================================
+by Breck Yunits
+
+May 26, 2023
+
+What is copyright, from first principles? This essay introduces a mathematical model of a *world with ideas*, then adds a *copyright system* to that model, and finally analyzes the *predicted effects* of that system.
+
+Part 1: The world
+=================
+
+The world
+=========
+W
+The world $W$ contains observers who can make point-in-time observations $O_t$^terms of $W$.
+
+Ideas
+=====
+I: f(O_{t_1}, t_\Delta) → O_{{t_1}+{t_\Delta}}
+An idea $I$ is a function that given input observations at time $t_1$ can generate expected observations at time ${t_1}+{t_\Delta}$.
+
+Thinkers
+========
+T
+A thinker^communicators $T$ can store ideas $I$ in $T$.
+
+Skillsets
+=========
+S
+A skillset $S$ is the set of $\set{I_i, \mathellipsis, I_n}$ embedded in $T$.
+
+Idea Creation
+=============
+\alpha: f(S, O, t) → I_{new}
+A thinker can generate a new idea $I_{new}$ from its current skillset $S$ and new observations $O$ in time $t$.
+
+Value
+=====
+V: f(I, O_{predictions}, O_{actual}) → \sum{(O_{actual} - O_{prediction})}^2
+An idea $I$ can be valued by a function $V$ which measures the accuracy of all of the predictions produced by the idea $O_{{t_1}+{t_2}}$ against the actual observations of the world $W$ at time ${}_{{t_1}+{t_2}}$. Idea $I_i$ is more valuable than idea $I_j$ if it produces more accurate observations holding the size of $|I|$ constant.
+
+Fictions
+========
+F
+A fiction^artists $F$ is an $I$ that does not accurately model $W$.
+
+Messages
+========
+M
+Thinkers can communicate $I$ to other thinkers by encoding $I$ into messages $M_I$.
+
+Signal
+======
+\Omega: \frac{\sum{V(I)}}{|M|}
+The Signal $\Omega$ of a message is the value of its ideas divided by the size of the message.
+
+Fashions
+========
+Z
+A fashion $Z_{M_I}$ is a different encoding of the same idea $I$.
+
+Teachers
+========
+\tau
+A teacher is a $T$ who communicates messages $M$ to other $T$. A thinker $T$ has access to a supply of teachers $\tau$ within geographic radius $r$ so that $\tau = \set{T|T -1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
+
+Classes
+=======
+T = \begin{cases}
+  T_{R+} &\text{if } R_{in} - R_{out} > 0 \\
+  T_{R-} &\text{if } R_{in} - R_{out} \leq 0
+ \end{cases}
+The Royal Class $T_{R+}$ is the set of $T$ who receive more $R$ than they spend. Each member of the Non-Royal Class $T_{R-}$ pays more in $R$ than they receive.
+
+Public Domain
+=============
+A^0
+A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ still exists for all $A^0$.
+
+Advertising
+===========
+\varLambda: f(A_i, A_j^\Psi) → A_{ij}
+Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
+
+Part 3: Predicted effects of copyright
+======================================
+
+Effect on Z
+===========
+\Uparrow {Z \over I}
+We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are countless $M$ that can encode $I$ and each unique $M$ can be encoded into an $A^\Psi$ that can generate $R$ for $\Psi$.
+
+Effect on F
+===========
+\Uparrow F
+We should expect the number of Fictions $F$ to increase since $R$ are required regardless if the $M$ encoded by $A$ accurately predicts the world or not. $\Psi$ are incentivized to create $A$ encoding $F$ that convince $T$ to overvalue $A^\Psi$.
+
+Effect on $\varLambda$
+======================
+\Uparrow \varLambda
+We should expect a significant increase in the amount of advertising $\varLambda$ as $\chi$ are prevented from generating $A^{\prime}$ with ads removed.
+
+Effect on $|M|$
+===============
+\Uparrow |M|
+We should expected the average message size $|M|$ to increase because doing so increases $R$ by decreasing $\theta$ and increasing $A^\Psi$.
+
+Effect on $\Omega$
+==================
+\Downarrow \Omega
+We should expect the average signal $\overline{\Omega}$ of messages to decrease.
+
+Effect on K
+===========
+\Uparrow {K \over I_{new}}
+We should expect the ratio of number of copies $K$ to new ideas $I_{new}$ to increase since the cost of creating a new idea $α$ is greater than the cost of creating a copy $K$ and royalties are earned from $A$ not $I$.
+
+Effect on $\Pi$
+===============
+\Downarrow \Pi
+We should expect the speed of new artifact creation to slow because of the introduction of Permission Functions $P$.
+
+Effect on J
+===========
+\Uparrow {{Z + F + K} \over I}
+We should expect libraries to contain an increasing amount of fashions $Z$, fictions $F$, and copies $K$ relative to distinct ideas $I$.
+
+Effect on S
+===========
+\Downarrow S
+We should expect a decrease in the average thinker's skillset $\overline{S}$ as more of a thinker's $N$ is used up by $Z, F, K$ and less goes to learning distinct $I$.
+
+Effect on $I^\prime$
+====================
+\Downarrow I^\prime
+We should expect the rate of increase in new ideas to be lower due to the decrease in $\overline{S}$.
+
+Effect on Classes
+=================
+f^{\prime}(R, T_{R+}) > 0
+f^{\prime}(R, T_{R-})  0
+We should expect a small number of outlier creators to move from $T_{R-}$ to $T_{R+}$.
+
+Effect on $A^0$
+===============
+\Downarrow {{A^0} \over A^\Psi}
+We should expect a decrease in the amount of $A^0$ relative to $A^\Psi$ as $T_{R+}$ will be incentivized to eradicate $A^0$ that serve as substitutes for $A^\Psi$. In addition, the cost to $T$ of using any $A^0$ goes up relative to before because of the uncertainty term $\theta$.
+
+Effect on $A^{\prime}$
+======================
+\Downarrow A^{\prime}
+We should expect the number of $A^{\prime}$ to fall sharply due to the addition of the Permission Functions $P$.
+
+Effect on B
+===========
+\Uparrow {{B_\Psi} \over {B_T}}
+We should expect $A$ to increasingly serve the objective functions of $\Psi$ over the objective functions $B_T$.
+
+Effect on Q
+===========
+\Downarrow Q
+We should expect the number of Publishers $Q$ to decrease due to the increasing costs of the permission functions and economies of scale to the winners.
+
+Effect on U
+===========
+\Uparrow U
+We should expect censorship to go up to enforce copyright laws.
+
+Effect on $A_©$
+===============
+\Uparrow A_©
+We should expect the number of $A$ promoting © to increase to train $T$ to support a © system.
+
+Effect on $T_{R-}$
+==================
+\Downarrow T_{R-}
+We should expect the Non-Royal Class $T_{R-}$ to pay an increasing amount of $R$, deal with an increasing amount of noise from ${Z + F + K}$, and have increasingly lower skillsets $\overline{S}$.
+
+Conclusions
+===========
+
+New technologies $X_{new}$ and specifically $A_{new}$ can help $T$ maximize their $B_T$ and discover $I_{new}$ to better model $W$.
+
+A copyright system would have no effect on $I_{new}$ but instead increase the noise from ${Z + F + K}$ and shift the $\overline{A}$ from serving the objectives $B_T$ to serving the objectives $B_\Psi$.
+
+A copyright system should also increasingly consolidate power in a small Royal Class $T_{R+}$.
+
+****
+
+Notes
+=====
+^terms: The terms in this model could be vectors, matrices, tensors, graphs, or trees without changing the analysis.
+^communicators: We will exclude thinkers who cannot communicate from this analysis.
+^artists: The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
+^duration1: If copyright duration is 100 years then that is the max time it may take $P$ to resolve. Also worth noting is that even a duration of 1 year introduces the permission function which significantly complicates the creation function $\Pi$.

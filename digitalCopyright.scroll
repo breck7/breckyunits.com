@@ -1,0 +1,84 @@
+date 5/14/2024
+groups All IntellectualFreedom Society
+title Digital Copyright and AIs
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+image aiUni.webp
+ openGraph
+ // ChatGPT: An XKCD style comic. No color. A single pane. Shows a university. The panel label says "AI University". It looks massive, advanced, pristine. Like it may hold every book in the world. Robots walk around the grounds. A white sign in black letters says "No humans allowed".
+
+# AIs may train on everything. You may not.
+
+In America, AIs have more freedom to learn than humans. This worries me.
+ dateline
+
+Do you want learn at the same library as ChatGPT, Gemini, Grok, or Llama?
+ https://chat.openai.com ChatGPT
+ https://gemini.google.com/ Gemini
+ https://grok.x.ai/ Grok
+ https://llama.meta.com/ Llama
+ https://www.educatingsilicon.com/2024/05/09/how-much-llm-training-data-is-there-in-the-limit/ library
+
+Then you *must* become a criminal.
+
+You have no legal option^billion.
+
+***
+
+This sounds ridiculous.
+
+_Human made laws that work against humans?_
+
+But it is true.
+
+***
+
+The problem is Copyright Law. Specifically, Digital Copyright.
+
+Big corporations have the resources to legally build massive internal libraries of all the world's published information.
+
+Their AIs can legally train on this.
+
+Humans in America have to choose: use a criminal library, or fall behind AIs?
+
+***
+
+# A Proposed Fix
+
+Some smart people want to abolish copyright on digital publications.
+ https://www.stephankinsella.com/publications/#againstip smart people
+
+Among other benefits, this would ensure all Americans have the same freedom to learn as AIs.
+
+// We can probably leave physical copyright alone? Though I think we should shorten it back to 14 years, and to get one, you need to publish the source to a public proof of work blockchain (such as a GitHub).
+
+***
+
+# Does Digital Copyright matter?
+
+Of course, we may not _need_ to update the law.
+
+- _Good_ people publish their content freely.
+// As G. put it: "After all, what good is a paywall for one scientist if another one makes contributions of equal or greater importance while making them accessible without any (or almost no) restrictions? At that point, we keep evolving wherever there's less friction"
+- Digital copyright goes against the grain of nature so much, that it has long been ignored and worked around by smart and courageous citizens, who have built these "criminal" libraries.
+- AI generated content may become much better than the best human generated content. And then the entire concept of copyright will be irrelevant.
+
+***
+
+_But you never know._
+
+Now might be a good time to set into law equal educational rights between humans and AIs.
+
+While the laws are still set by humans.
+
+****
+
+# Notes
+
+^billion Well, there is no legal way for YOU to do it. A billionaire could theoretically afford to buy the "rights" and build their own library as good as a big corporation. But no billionaire is reading this post. Nevertheless, to be precise, only ~756 out of ~333,333,000 Americans ~have a legal way to train on the same materials as AIs.
+
+import footer.scroll

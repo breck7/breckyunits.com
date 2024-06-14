@@ -1,0 +1,15 @@
+date 2010-01-19
+groups index
+permalink unix-date-command.html
+title Unix date command
+
+import pageHeader.scroll
+
+Display the current unix timestamp:
+
+code
+ date +%s
+
+Handy way to view it from the command line.
+
+import footer.scroll

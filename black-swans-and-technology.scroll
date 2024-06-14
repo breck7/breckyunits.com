@@ -1,0 +1,44 @@
+date 2012-12-19
+groups All Thinking Startups
+title Black Swans and Technology
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+For the past year I've been raving about Node.js, so I cracked a huge smile when I saw this question on Quora:
+ dateline
+
+quote
+ In five years, which language is likely to be most prominent, Node.js, Python, or Ruby, and why?
+ - <a href="http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why">Quora</a>
+
+endSnippet
+
+For months I had been repeating the same answer to friends: "Node.js hands down. If you want to build great web apps, you don't have a choice, you have to master Javascript. Why then master two languages when you don't need to?"
+
+Javascript+Node.js is to Python and Ruby what the iPhone is to MP3 players--it has made them redundant. You don't need them anymore.
+
+So I started writing this out and expanding upon it. As I'm doing this, a little voice in my head was telling me something wasn't right. And then I realized: despite reading Taleb's books every year, I was making the exact mistake he warns about. I was predicting the future without remembering that the future is dominated not by the predictable, but by the unpredictable, the Black Swans.
+
+And sure enough, as soon as I started to imagine some Black Swans, I grew less confident in my prediction. I realized all it would take would be for one or two browser vendors to start supporting Python or Ruby or language X in the browser to potentially disrupt Node.js' major advantage. I don't think that's likely, but it's the type of low probability event that could have a huge impact.
+
+When I started to think about it, I realized it was quite easy to imagine Black Swans. Imagine visiting hackernews in 2013 and seeing any one of these headlines:
+
+- Microsoft Open Sources Windows.
+- Researchers Crack SSL. Render it useless.
+- Google Perfects Voice Recognition.
+- Facebook Covers the World in Free Wifi.
+- Amazon Launches Distributed Data Centers in your home.
+
+It took only a few minutes to imagine a few of these things. Clearly there are hundreds of thousands of low probability events that could come from established companies or startups that could shift the whole industry.
+
+The future is impossible to predict accurately.
+
+****
+
+# Notes
+_All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
+
+import footer.scroll

@@ -1,0 +1,12 @@
+date 2011-8-1
+groups index
+permalink netstat.html
+title netstat
+
+import pageHeader.scroll
+
+Every wonder what's listening on what ports?
+
+code
+ netstat -lp
+import footer.scroll

@@ -1,0 +1,21 @@
+date 2011-8-14
+groups index
+permalink new-shortcuts.html
+title New shortcuts
+
+import pageHeader.scroll
+
+Gmail:
+
+code
+ gi - go to inbox
+ c - compose
+ j/k - go up and down, enter go to a page.
+ gt - go to sent
+
+Mac:
+
+code
+ ctrl+a - home/start of line
+ ctrl+e - end
+import footer.scroll

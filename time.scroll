@@ -1,0 +1,26 @@
+date 2013-04-01
+groups All Life
+title Time
+
+import header.scroll
+printTitle
+
+printAuthor
+
+thinColumns 1
+
+Two people in the same forest,
+have the same amount of water and food,
+Are near each other, but may be out of sight,
+The paths behind each are equally long.
+The paths ahead, may vary.
+One's path is easy and clear.
+The other's is overgrown and treacherous.
+Their paths through the forest,
+in the past, in the present, and ahead
+are equal.
+Their journeys can be very different.
+
+****
+
+import footer.scroll

@@ -1,0 +1,17 @@
+date 2010-08-25
+groups All Programming
+title Ruby
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
+ dateline
+
+Python is a great language too, and I have more experience with it, and the whitespace thing is a silly gripe. But I've reached a peak with PHP and am looking to master something new. Ruby it is.
+
+****
+
+import footer.scroll

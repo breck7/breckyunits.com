@@ -1,0 +1,22 @@
+Big Data Notation
+=================
+
+A Suggestion for a Simple Notation
+==================================
+
+September 24, 2013
+
+What if instead of talking about Big Data, we talked about 12 Data, 13 Data, 14 Data, 15 Data, et cetera? The # refers to the number of zeroes we are dealing with.
+
+You can then easily differentiate problems. Some companies are dealing with 12 Data, some companies are dealing with 15 Data. No company is yet dealing with 19 Data. Big Data starts at 12 Data, and maybe over time you could say Big Data starts at 13 Data, et cetera.
+
+What do you think?
+
+This occurred to me recently as I just started following Big Data on Quora and was surprised to see the term used so loosely, when data is something so easily measurable. For example, a 2011 Big Data report from McKinsey defined big data as ranging "from a few dozen terabytes to multiple petabytes (thousands of terabytes)." Wikipedia defines Big Data as "a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications."
+ http://www.quora.com/Big-Data
+ http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation
+ http://en.wikipedia.org/wiki/Big_data
+
+I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
+
+****

@@ -1,0 +1,6 @@
+description Some writing about probability, programming, economics and life.
+permalink feed.xml
+title Breck's Blog
+
+import settings.scroll
+printFeed All

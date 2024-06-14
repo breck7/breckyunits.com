@@ -1,0 +1,78 @@
+date 2/3/2024
+groups All BipolarEnergy
+related theEnergyClock
+title Becoming a High Energy Person
+
+import header.scroll
+printTitle
+
+mediumColumns 1
+
+Approximately every eighteen months, I start transitioning from a low energy person to a high energy person. No substances or triggering events are at fault. It is a natural cycle, as inevitable as the tides.
+ dateline
+ link bipolarDisorder.html eighteen months
+
+image powerSurge.png
+ caption Your lifetime odds of getting hit by lightning are 1 in 15,000. Your lifetime odds of getting hit by a manic brain energy surge, like the one I was hit by here in 2022, are ~1 in 100. Like lightning strikes, brain energy surges can differ by orders of magnitude. You might just feel a slight shock, or you might become a very, very high energy person--temporarily. If you get hit by one large surge, you are likely to get hit again.
+ // Shown is a draft of a work in progress of a "BrainEnergyScore" metric. In this draft I'm computing it as: BrainEnergyScore_t = e^(AvgWeeklySleepHrs - Sleep_t)
+
+endSnippet
+
+Life is much easier as a high energy person. I leap out of bed in the morning and can easily handle the morning chores. Work is exciting, I excel at my job, and raise the level of energy among my coworkers. Exercise, healthy eating, and parenting are all easier.
+
+Life is much more fun as a high energy person. I have time and energy for family and friends, and make loads of new ones. Moments feel more joyous.
+
+Each transition is different. Sometimes the shift is gradual and mild. Sometimes it is more sudden and severe, like a power surge. The latter are hard to handle. It is like I wakeup to find myself on top of a bucking bull, and struggle to get this powerful force under control.
+ link hrSurge.jpg power surge
+  // This is my heart rate the last time I transitioned to a high energy person.
+
+image grabBullByTheHorns.jpg
+ caption Me on top of a bull during a power surge. On a couple hour layover in NYC I left the airport, ran miles to Wall Street, got a picture on the bull, and made it back just in time for my flight.
+
+# My New Reality
+At first I think the energy is probably fleeting, like the temporary buzz from an energy drink or a long run. I go to bed expecting tomorrow you'll revert. But that doesn't happen. Instead each day I seem to have more energy than the last. Weeks go by. Months go by. The energy keeps flowing. It was not just something I ate. My brain starts to accept the new reality. I am a high energy person now! My plans for life change. With all of this energy I will be able to do a whole lot more than I expected. The world is my oyster.
+
+# The Sputtering
+At times the energy spikes are too high. I get annoyed that my coworkers can't keep up. I sometimes snap at people. I feel like my energy is too great for working on what I start to perceive as small problems. I start to worry that a higher power in the universe gifted me with this high energy, and the morally correct thing to do is to direct my new energy gift to more important causes. My paranoia circuits have extra energy too, and start overestimating threats.
+
+Eventually the power fades, and like a plane with a sputtering engine, my life crashes to the ground.
+
+# A Disorder?
+I have been told that my energy fluctuations are a disorder. I don't dispute that I have not handled my energy well.
+
+But I also know the underlying cause of the energy fluctuations are not understood. I can _feel_ a radical difference in energy levels, but we don't have a way to measure those directly yet. My sleep fluctuates with the energy, but what is causing the energy shifts? Is it a change in ATP, mitochondrial biogenesis, mitochondrial swelling, dopamine, serotonin, adrenaline, or dozens of more potential factors? The relevant biomarkers are still a mystery.
+ https://www.google.com/books/edition/Biomarkers_in_Bipolar_Disorders/FEAyEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover biomarkers
+
+In the future, if the underlying causes can be understood, perhaps the ability to be high energy will be seen as a gift, not a disease.
+
+# Consistently High Energy People
+Meanwhile, I've occasionally come across high energy people whose energy levels are consistent. They have high energy, handle it, and never lose it. How do _they_ do it? Is there a secret to being a consistently high energy person? Is there some secret club of high energy people, and if they like you they will approach you, and whisper in your ear the secret to harnessing that energy efficiently and keeping it flowing?
+
+# Lithium
+Some tell me to take lithium. It supposedly flattens energy spikes. And it does seem reduce future energy surges from happening with 60% to 40% frequency, from what I can tell.
+ https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.161.2.217 from what I can tell
+
+So maybe I could become a Medium Energy Person. That's not bad. Being a temporarily High Energy Person comes with the great downside of also being a Low Energy Person, which is a terrible state that you don't want to endure.
+
+If you stop Lithium though, or miss a few does, you can experience an energy surge greater than any you've experienced before (ask me how I know). Also, long term, it will probably cause severe kidney damage. And you are near guaranteed to have some inconvenient side effects, such as weight gain.
+
+It is probably the best choice, but there is no clear best option.
+
+# Taking Big Risks During the Highs
+If I don't think the fluctuations are controllable, and accept that my high energy periods will always be fleeting, one life strategy is to strive to solve a hard, high paying problem for society during a high energy period. If I succeed, I can save enough to make it through the inevitable low energy periods. This is kind of how I made it in life, not so intentionally, while I continued the quest of trying to unlock how to be permanently high energy. It sort of worked, until it didn't.
+
+# The Dilemma
+Once you've experienced being a High Energy Person, it is hard to give that up. There is no accurate understanding yet of this "illness". Might some people out there have the secret to living a consistently high energy life? Could the information be out there?
+
+Some charlatans have long hawked mindfulness books and programs promising the secret to permanent high energy, but they fail upon close inspection of their models or when tested in trials. If a solution is out there, it is kept a secret or has remained below the radar.
+
+I must admit, I do not think it is out there yet.
+
+I believe science is the way to figure this out, but it sure is taking a while.
+
+****
+
+# Related Posts
+relatedList
+
+import footer.scroll

@@ -1,0 +1,39 @@
+date 6/11/2024
+groups All ScrollNotation Writing Programming
+title Download this Blog
+
+import header.scroll
+printTitle
+
+# Websites don't need web servers.
+
+thinColumns 1
+
+You can now download this entire blog as a zip file for offline use.
+ dateline
+
+The zip file includes the Scroll source code for every post; the generated HTML; all images; CSS; Javascript; even clientside search.
+ https://scroll.pub/ Scroll
+ link search.html search
+
+# Instructions
+
+1. Download
+ https://github.com/breck7/breckyunits.com/archive/refs/heads/wws.zip
+2. Unzip
+3. Open `index.html`
+
+***
+
+Technical users can still clone and build the repo, but sometimes you just want the compiled HTML for offline reading.
+ https://github.com/breck7/breckyunits.com repo
+
+***
+
+Wouldn't it be great if more of *The Web* were like this?
+
+> *The Scroll* is coming ;)
+
+****
+
+import footer.scroll

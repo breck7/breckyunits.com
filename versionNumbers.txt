@@ -1,0 +1,70 @@
+What can we learn from programming language version numbers?
+============================================================
+
+Analyzing the version numbers of 621 programming languages
+==========================================================
+
+[Image Omitted]
+ Interactive Version
+  https://observablehq.com/@breck/version-numbers
+ https://observablehq.com/@breck/version-numbers
+
+May 25, 2024
+
+I just pushed version 93.0.0 of my language Scroll. *Version 93*!
+ https://scroll.pub/
+
+Why so many versions? I use Tom Preston-Warner's Semantic Versioning (2011).
+ https://semver.org/
+ https://tom.preston-werner.com/
+
+In particular, I followed his advice in Major Version Numbers are Not Sacred.
+ https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred
+
+***
+
+Pushing so many major versions was no big deal because Scroll was a toy.
+
+But Scroll now has a novel feature that makes it very useful.
+ https://breckyunits.com/scrollsets.html
+
+I need to decide if I should ship fewer major versions with higher quality.
+
+***
+
+Let's do some research on what other programming language developers are doing.
+
+I added version number data to over 600 languages in PLDB.
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning~foundationScore&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22boolean%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D
+
+***
+
+What major version are programming languages on?
+================================================
+0 Min
+1 Median
+2.9 Average
+73%  If you’re changing the API every day you should...still be in version 0.y.z
+
+Whoops!
+
+It took me about 5 years to figure out what Scroll 1.0.0 should be. I should be on version 0.93.0, not version 93.0.0.
+
+No big deal. I will soon release Scroll 100.0.0, and from then on will have far fewer major releases.
+
+An ounce of deep thought on the core of your language is worth a pound of major releases!
+
+Other things I learned
+======================
+
+- I learned 97.5% of languages with a version system use Semantic Versioning. The ~2% of languages, such as C and C++, that are still doing versions like C17 (which does not mean major version 17, but refers to the year the revision came out), maybe want to reconsider ;).
+- I learned most languages use git tags for tagging their releases. Something I should start doing.
+ https://git-scm.com/book/en/v2/Git-Basics-Tagging
+
+I learned a few things today. Hope you did too!
+
+****
+
+Notes
+=====
+- Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.

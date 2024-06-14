@@ -1,0 +1,36 @@
+Synthesizing Knowledge
+======================
+
+February 21, 2024
+
+Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
+
+[Image Omitted]
+ Activated Cells in a Knowledge Base.
+
+A Question has infinite possible Answers. Answers can be ranked as a function of the relevant Cells used and the relevant Cells missed. Let's say when a Cell is used by an Answer it is _Activated_.
+
+So to approach the Optimal Answer to a Question you want to maximize the number of relevant Cells Activated.
+
+You also want your Knowledge Base to deliver Optimal Answers fast and free. You don't want Answers where relevant Cells are missed but you want your Knowledge Base to find and Activate all the relevant Cells in seconds, not days or weeks. (You also don't want Biased Answers where some relevant Cells are ignored to promote an Answer that benefits some third party.) You want to be able to ask your Question and have all the relevant Cells Activated and the Optimal Answer returned immediately.
+
+To quickly identify all the relevant Cells, your Knowledge Base needs them Connected along many different Axes. Cells that would be relevant to a Question but have few Connections are more likely to be missed.
+
+So you want your Knowledge Base to have many Cells with many Connections. This Knowledge Base can then deliver many Optimal Answers. It has _Synthesized Knowledge_.
+
+Wikipedia is a great Knowledge Base with a lot of Cells but a relatively small number of Connections per Cell. Wikipedia has Optimal Answers to many, many Questions. However, there are also a large number of important Questions that Wikipedia has the Cells for but because the Cells lack in Connections the Optimal Answers cannot be provided quickly and cheaply. Structured data is still lacking on Wikipedia.
+
+My (failed) attempt
+===================
+My attempt to solve the problem of Synthesizing Knowledge was TrueBase, where large amounts of Cells with large numbers of Connections could be put into place under human expert review. But ChatGPT, launched in November 2022, demonstrated that huge neural networks, through training matrices of weights, are an incredibly powerful way to Synthesize Knowledge. My approach was worse. Words are worse than weights.
+ https://github.com/breck7/truebase
+ https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
+ https://breckyunits.com/wordsAreWorseThanWeights.html
+
+Expanding Knowledge
+===================
+There are many Questions where the best Answers, even after synthesizing all human knowledge, are still far from Optimal. Identifying the best data to gather next to get closer to Optimal Answers to those Questions is the next problem after synthesizing knowledge.
+
+Today that process still requires agency and embodiment and is done by human scientists and pioneers, but I expect AIs will soon have these capabilities.
+
+****

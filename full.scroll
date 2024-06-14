@@ -1,0 +1,9 @@
+description Some writing about probability, programming, economics and life.
+title Breck's Blog
+
+import header.scroll
+printTitle
+
+thinColumns 2
+fullSnippets All
+import footer.scroll

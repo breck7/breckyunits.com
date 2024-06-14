@@ -1,0 +1,11 @@
+date 2011-6-30
+groups index
+permalink apache-conf-and-htaccess-examples.html
+title Apache Conf and Htaccess Examples
+
+import pageHeader.scroll
+
+Configuring Apache can be a pain. I'm going to try and collect links to great resources. The official docs are good, but they really need to add commenting so people can expand upon the resources available.
+
+- http://www.evolt.org/ultimate_htaccess_examples
+import footer.scroll

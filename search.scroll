@@ -1,0 +1,12 @@
+title Search Breck's Blog
+
+import header.scroll
+
+printTitle
+import categoryLinks.scroll
+
+wideColumns 2
+printSearchTable All
+tableSearch
+
+import footer.scroll

@@ -1,0 +1,15 @@
+date 2010-1-6
+groups index
+permalink how-to-load-a-sql-file-into-mysql.html
+title How to load a sql file into MySql
+
+import pageHeader.scroll
+
+It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
+
+code
+ mysql -u username -p < sqlfile.sql
+
+Make sure your sql file has a "use database" line.
+
+import footer.scroll

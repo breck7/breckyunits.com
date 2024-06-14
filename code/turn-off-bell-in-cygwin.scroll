@@ -1,0 +1,18 @@
+date 2010-0-11
+groups index
+permalink turn-off-bell-in-cygwin.html
+title Turn off bell in cygwin
+
+import pageHeader.scroll
+
+The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
+
+code
+ vim ~/.inputrc
+ 
+ (Then add or uncomment this line)
+ 
+ set bell-style none
+
+Save and restart your shell.
+import footer.scroll

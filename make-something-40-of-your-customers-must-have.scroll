@@ -1,0 +1,102 @@
+date 2009-12-16
+groups All Startups
+title Make Something 40% of Your Customers Must Have
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
+ dateline
+ http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
+
+quote
+ Make something 40% of your users must have
+
+endSnippet
+
+Your steps are then:
+
+- 1. Make something people want.
+- 2. Put it out there.
+- 3. Survey your users. If less than 40% would be disappointed if your product disappeared, go back to step 1.
+
+Only when you hit that 40% number(or something in that range) should you be comfortable that you've really made something people want.
+
+Does this advice work? I think it would for 3 reasons.
+
+# #1 The Sources
+
+PG and Sean Ellis know what they're talking about.
+
+# #2 Companies that make my "Must Haves" are successful
+
+I made a list of my "must have" products and they are all largely successful. I suggest you try this too. It's a good exercise.
+
+My List of Must Haves:
+
+- Google Search
+- Facebook
+- Gmail
+- Dropbox
+- craigslist
+- Windows
+- Excel
+- Twitter Search
+- Firefox
+- Chrome
+- Wikipedia
+- Amazon
+
+- (More Technical Products)
+- Git + Github
+- LAMP Stack
+- Ruby
+- Notepad++
+- Vim
+- jQuery
+- Firebug
+- Web Developers Extension
+- StackOverflow
+- TechCrunch
+- HackerNews
+- Navicat
+
+# #3 The Only "Must Have" Product I Built was the Biggest Success
+
+I've worked on a number of products over the past 3 years.
+
+One of them I can tell you had a "I'd be disappointed if this disappeared" rate of over 40%. We sold that site.
+
+All the others did not have that same "must-have" rate. We launched Jobpic this summer at Demo Day. People definitely wanted it. But we didn't get good product/market fit. If we had surveyed our users, I bet less than 10% of them would report being disappointed if Jobpic disappeared. Our options are to change the product to achieve better product/market fit, or go forward with an entirely new product that will be a must have.
+
+# Concluding thoughts
+
+I don't know if this advice will work. But I'm going to try it.
+
+Startup advice can be both exhilarating and demoralizing.
+
+On the plus side, good advice can drastically help you. At the same time, if it's really good advice that means two things:
+
+- 1. This is how you should be doing things.
+- 2. You were not doing things this way.
+
+That can frustrating. I've spent a few years now in the space and to realize you've been doing certain things wrong for a few _years_ is...well...painful.
+
+But you laugh it off and keep chugging along.
+
+****
+
+# Notes
+- Thanks Nivi for the great Venture Hacks interview!
+- Users/Customers refer to people who use your site regularly or buy from you. This is not "visitors". Generally a much lower percentage than 40% of visitors become users or customers. The 40% refers to the people who have made it through your funnel and have become users or customers.
+- I used customers and users interchangeably. For non-tech businesses, you can just use "customer" each time.
+- Thanks to Ben, Alex Andon, and Andrew Kitchell for feedback.
+ http://www.bigorangehousestudios.com Ben
+ http://www.jellyfishart.com Alex Andon
+ http://andrewkitchell.blogspot.com/ Andrew Kitchell
+- Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
+ http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
+
+import footer.scroll

@@ -1,0 +1,122 @@
+date 2021-10-15
+groups All Writing HasDataset
+title Write Thin to Write Fast
+
+// the dataset is the NYTimes
+
+import header.scroll
+printTitle
+
+printAuthor
+
+thinColumns 2
+
+comment
+ Todo: add caption support to image node.
+
+image writeThin.png
+ openGraph
+
+I constantly seek ways to improve my writing.
+ dateline
+
+I want my writing to be meaningful, clear, memorable, and short.
+
+And I want to write faster.
+
+This takes practice and there aren't a lot of shortcuts.
+
+But I did find one shortcut this year:
+
+quote
+ Set a thin column width in your editor
+
+Mine is 36 characters (your ideal width may be different).
+
+Beyond that my editor wraps lines.
+
+This simple mechanic has perhaps doubled my writing speed and quality.
+
+***
+
+At my current font-size, my laptop screen could easily support 180 characters across.
+
+But if my words spread across the full screen, I write slower and produce worse content.
+
+Another way to frame this is that my writing got worse as my screens got wider and I only recently noticed the correlation.
+
+***
+
+? How does column width affect writing speed?
+
+When I am writing I am mostly reviewing.
+
+I type a word once. But my eyes see it fifty times.
+
+Maybe great writers can edit more in their heads. With my limited mental capabilities editing happens on the page. I do a little bit of writing; a lot of reviewing and deleting.
+
+So the time I spend writing is dominated by the time I spend reviewing.
+
+Reviewing is reading.
+
+To write faster, I need to read faster.
+
+Humans read thinner columns faster.
+
+Perhaps this isn't the case for all people—I'm not an expert on what the full distribution looks like.
+
+But my claim is backed by a big dataset.
+
+I have my trusty copy of "The New York Times: The Complete Front Pages from 1851-2009". For over 150 years the editors at the New York Times, the most widely read newspaper on the planet, decided on thin columns.
+
+If fatter columns were more readable we would have known by now.
+
+Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
+
+? How does column width affect writing quality?
+
+Every word in a great piece of writing survived a brutal game of natural selection. Every review by the author was a chance for each word to be eliminated. The quality of the surviving words are a function of how many times they were reviewed. If the author reviews their writing more, then the words that survive should be fitter.
+
+But moving your eyes takes work. It might not seem like a lot to the amateur but may make a huge difference toward the extremes. A great athlete practices their mechanics. They figure out how to get maximal output for minimal exertion. They "let the racket do the work". If you are moving your eyes more than you have to, you are wasting energy and will not have the stamina to review your writing enough. So thinner columns leave you with more energy for more editing passes. More editing passes improves quality.
+
+If your columns are really wide, then you are not just moving your eyes, you are moving your head.
+
+The difference might not seem like much for one line, but if you read 1,000 lines, that energy adds up!
+
+Nodding your head left and right once is easy. Doing it 2,000 times is tiring!
+
+? If column width has such a significant impact on writing speed, why have I not seen this stressed more?
+
+I don't remember ever being told to use thinner columns when writing. In programming we often cap line length, but this is generally pitched for the benefit of future _readers_, not to help the authors at write time.
+
+I have long overlooked the benefit of thin columns at write time. How could I have overlooked this? Two obvious explanations come to mind.
+
+First, I could be wrong. Maybe this is not a general rule. I have not yet done much research. Heck, I haven't even done careful examination of my own data. I've been writing with narrow columns for about 10 months. It _feels_ impactful, but I could be overestimating its impact on my own writing speed.
+
+Second, I could be ignorant. Maybe this is already talked about plenty. I would not be surprised if a _professional_ writer sees this and says "duh". Maybe it's taught in some basic "writing mechanics 101" introductory course. Maybe if I got my MFA or went to journalism school or worked at a newspaper this is a basic thing. Maybe that's why journalists carry those thin notepads.
+
+But let's say my hunches are correct, that thin columns do help you write faster and that this is not mentioned much. If I'm correct on both of those counts, then a clear explanation for this is that this simply is a new potential hazard created by new technology.
+
+My generation is the first to have access to big screens, and so in the past writing with wide columns wasn't a mistake people made because it simply wasn't possible. An alternative title I considered was "Write as fast as your grandparents by using the line length they used".
+
+Jets are great, but beware jet lag when traveling. Big screens are great, but beware eye lag when writing. Try thin columns.
+
+****
+
+image nytimesDrawing.png
+
+# Notes
+- I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
+- I am a middling writer, so don't forget to weight this advice appropriately!
+- The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
+- Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at _write time_ with certain font and column settings. At _read time_ those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
+
+// Further threads to explore
+ - This may be an inconsequential tip on how to I went from a 0.1x writer a 0.2x writer.
+ - Average typing speed is approximately one word per second.
+ - What is eye exertion horizontal vs vertical?
+ - Survey some great editors/writers/journalists if they write with narrow columns?
+ - Has the frequency of this advice appearing gone up as screens got wider?
+ - Consider vertical languages like Japanese
+
+import footer.scroll

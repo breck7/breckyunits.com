@@ -1,0 +1,52 @@
+date 2011-8-14
+groups index
+permalink apache-ssl-and-self-signed-certificates.html
+title Apache, SSL and self signed certificates
+
+import pageHeader.scroll
+
+Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
+
+Here's what it boils down to:
+
+code
+ # The cool thing about SSL is it's just 2 text files. A public key and a private key.
+ # They have a "pem" and a "crt" extension, but they are just plain text. Neat.
+ 
+ # Okay, first step is to create a private key "pem" file.
+ # every time you run this the random output pem file will be different:
+ openssl genrsa -des3 -out private_key.pem 1024
+ # (enter passphrase)
+ 
+ # Next, generate a "signing request".
+ openssl req -new -key private_key.pem -out private_key_certificate_signing_request.csr
+ # (for common name enter the full domain name:
+ # (the extra options aren't necessary--just hit enter)
+ 
+ # Next remove the password from the private_key. Otherwise you'd have to enter
+ # that password at all sorts of inconvenient times.....be careful because
+ # if someone gets this unencrypted ket, you'll need to get a new cert..so make your pem readable
+ # only by root!
+ cp private_key.pem private_key.pem.original
+ openssl rsa -in private_key.pem.original -out private_key.pem
+ 
+ # now you can generate your public self signed certificate:
+ openssl x509 -req -days 365 -in private_key_certificate_signing_request.csr -signkey private_key.pem -out self_signed_public_certificate.crt
+ 
+ # now copy the private key (pem file) and the public key ( crt file ) to your web server.
+ mkdir /etc/httpd/certs
+ cp self_signed_public_certificate.cert /etc/httpd/certs
+ cp private_key.pem /etc/httpd/certs
+ # you can delete the CRT file. you don't need that crap anymore. you got the cert/public key and the pem/private key. thats all you need
+ rm private_key_certificate_signing_request.csr
+ 
+ 
+ # if you don't have mod_ssl installed you need to install it. on fedora:
+ yum install mod_ssl
+ 
+ #now edit the apache config to let apache with mod_ssl know where the keys are:
+ SSLEngine on
+ SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
+ SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
+
+import footer.scroll

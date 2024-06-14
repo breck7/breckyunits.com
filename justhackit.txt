@@ -1,0 +1,23 @@
+JustHackIt
+==========
+
+August 20, 2008
+
+This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.
+ https://web.archive.org/web/20081017081121/http://www.justhackit.com/
+
+The idea stemmed from the YC meetup last week. PG said that the YC interviews aren’t like interviews at all, they just “Do YC”. If the team and YC seem to click, then they get accepted. I think the same thing applies for finding good cofounders–you just start something and see if the chemistry among the team clicks. I’ve started projects with friends and complete strangers before, and whether or not I knew them before the project isn’t correlated with how well we worked together. There are a few people I met the day of starting a joint project who I’d love to start another company with.
+
+That’s what I hope this site could do: not just bring hackers together to discuss startups, but bring them together to launch things and find new cofounders.
+
+Already, the site’s getting pretty good traffic–400 visitors in the last hour. I don’t know if it will go anywhere, but it took only a few minutes to put together(thanks to slinkset) and hopefully will connect at least 1 co-founder team.
+
+BTW, the signup rate is pretty good–users are already in the double digits!
+
+****
+
+Note: I imported this post from my original Wordpress blog.
+ https://breckyunits.com/some-old-blogs.html
+
+Original post
+ https://web.archive.org/web/20081017081121/http://www.breckyunits.com/web-20/2008/08/20/justhackit/

@@ -1,0 +1,20 @@
+date 2012-01-04
+groups index
+permalink git-ignore-global.html
+title Git Ignore Global
+
+import pageHeader.scroll
+
+Create a global .gitignore file to ignore common pains:
+
+code
+ vim ~/.gitignore_global
+
+code
+ .DS_Store* Icon? Thumbs.db
+
+code
+ git config --global core.excludesfile ~/.gitignore_global
+
+Thanks to <a href="https://web.archive.org/web/20120614225952/http://help.github.com/ignore-files/">github</a>
+import footer.scroll

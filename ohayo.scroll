@@ -1,0 +1,20 @@
+date 2017-06-23
+groups All Data Programming Startups ScrollNotation
+title Ohayo
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+I just pushed a project I've been working on called Ohayo.
+ https://ohayo.breckyunits.com Ohayo
+ dateline
+
+You can also view it on GitHub: https://github.com/treenotation/ohayo
+
+I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
+
+****
+
+import footer.scroll

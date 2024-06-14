@@ -1,0 +1,28 @@
+A Measure of Intelligence
+=========================
+by Breck Yunits
+June 6, 2024
+
+HTML | TXT
+ https://breckyunits.com/intelligence.html
+ https://breckyunits.com/intelligence.txt
+
+Can we quantify intelligence? Yes.
+
+{Intelligence}(P) = \frac{\text{Coverage}(P)}{\text{Size}(P)}
+
+Intelligence(P) = Coverage(P) / Size(P)
+
+Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).
+
+Coverage(P) is the sum of the XNOR of the Predictions vector with the Nature vector.
+
+Intelligence(P) is equal to Coverage(P) divided by Size(P).
+
+***
+
+If programs A and B are the same size, the program with more coverage is more intelligent.
+
+If they have the same coverage, the smaller program is more intelligent.
+
+****

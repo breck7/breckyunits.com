@@ -1,0 +1,181 @@
+date 2020-02-25
+groups All Thinking Society HasDataset
+title How Old Are These Keys? Five Eras of Human Progress
+
+import header.scroll
+printTitle
+thinColumns 2
+image keyboard/screenshot.png
+ link keyboard/index.html
+ caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
+  link keyboard/index.html Try it yourself
+
+One of the questions I often come back to is this: how much of our collective wealth is inherited by our generation versus created by our generation?
+ dateline
+
+I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
+ link keyboard/index.html interactive experiment
+
+endSnippet
+
+# The Five Waves of Symbols
+image keyboardChart.png
+ caption Interactive Version
+  https://www.datawrapper.de/_/18PRa/
+
+Painting with broad strokes, there were approximately five big waves of inventions that have left their mark on the keyboard:
+- 1. The first wave was the invention of the phonetic alphabet letters.
+- 2. The second wave was the Hindu-Arabic Numerals.
+- 3. The third wave was the mathematical punctuation of the Enlightenment period.
+- 4. The fourth wave was the invention of the typewriter.
+- 5. And the fifth and most recent wave was the invention of the personal computer.
+
+# Concentric Circles
+An interesting pattern that I never saw before is how the five waves above are roughly arranged in circles.
+
+The oldest symbols (letters) are close to the center, followed by the Hindu-Arabic Numbers, surrounded by the punctuation of the Englightenment, surrounded by the keys of the typewriter, surrounded by the recent additions in the P.C. era.
+
+(Again, I'm painting with broad strokes, but I found that to be an interesting pattern.)
+
+# Standing on the Shoulders of Giants
+All of these waves happened before my generation.
+
+Almost all of them before any generation alive today.
+
+The keyboard dataset provides strong evidence that most of our collective wealth is inherited.
+
+# Build Notes
+I got this idea last week and couldn't get it out of my head. Yesterday I took a quick crack at it. I didn't have much time to spare, just enough to explore the big ideas.
+
+I started by typing all the characters on my keyboard into a dataset. Then I dug up some years for a handful of the symbols.
+
+Next I found the great Apple CSS keyboard. I stitched together the two and it seemed to be at least mildly interesting so I opted to continue.
+ http://cssdeck.com/labs/apple-keyboard-via-css3 great Apple CSS keyboard
+
+I then flushed out most of the dataset.
+
+Finally I played around with a number of visualization effects. At first I thought heatmaps would work well, and tried a few variations on that, but wasn't happy with anything. I posted my work-in-progress to a few friends last night and called it a day. Today I switched to the "disappearing keys" visualization. That definitely felt like a better approach than the heatmap.
+
+I made the thing as fun as I could given time constraints and then shipped.
+
+---
+
+* Update: I finally got around to making a chart with this data and adding colors to the keys.
+ dateline 4/28/2024
+
+endColumns
+
+wideColumns 1
+
+---
+
+expander Dataset
+printTable
+
+import footer.scroll
+
+symbol	year	count	source
+acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
+acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
+acommandSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
+acommandSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
+aescSymbol	1974	100	https://en.wikipedia.org/wiki/Esc_key
+aenterSymbol	1971	99	https://en.wikipedia.org/wiki/Enter_key
+aaltSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
+aaltSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
+aBacktickSymbol	1970	98	https://en.wikipedia.org/wiki/Grave_accent#Use_in_programming
+aoptionSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
+aoptionSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
+af10Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af11Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af12Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af1Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af2Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af3Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af4Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af5Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af6Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af7Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af8Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+af9Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+afnSymbol	1965	93	https://en.wikipedia.org/wiki/Function_key
+acontrolSymbol	1963	80	https://en.wikipedia.org/wiki/Control_key
+atabSymbol	1900	79	https://en.wikipedia.org/wiki/Tab_key
+aPowerSymbol	1884	78	https://en.wikipedia.org/wiki/Light_switch
+acapsLockSymbol	1878	77	https://en.wikipedia.org/wiki/Typewriter#Shift_key
+ashiftSymbol	1878	77	https://en.wikipedia.org/wiki/Shift_key
+ashiftSymbol	1878	77	https://en.wikipedia.org/wiki/Shift_key
+a_Symbol	1874	74	https://en.wikipedia.org/wiki/Underscore
+adeleteSymbol	1874	74	https://en.wikipedia.org/wiki/Backspace
+areturnSymbol	1874	74	https://en.wikipedia.org/wiki/Typewriter
+a#Symbol	1853	71	https://en.wikipedia.org/wiki/Number_sign
+aspacebarBlankSymbol	1843	70	https://en.wikipedia.org/wiki/Space_bar
+a|Symbol	1841	69	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a$Symbol	1770	68	https://en.wikipedia.org/wiki/Dollar_sign
+adownSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
+aleftSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
+arightSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)a
+aupSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
+a/Symbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+aSlashSymbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a^Symbol	1681	61	https://www.merriam-webster.com/dictionary/caret
+a<Symbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a>Symbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a=Symbol	1557	58	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a(Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
+a)Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
+a'Symbol	1496	55	https://en.wikipedia.org/wiki/Apostrophe
+a;Symbol	1494	54	https://en.wikipedia.org/wiki/Semicolon
+a-Symbol	1489	53	https://en.wikipedia.org/wiki/Plus_and_minus_signs
+a!Symbol	1450	52	https://en.wikipedia.org/wiki/Exclamation_mark
+a%Symbol	1435	51	https://en.wikipedia.org/wiki/Percent_sign
+a"Symbol	1400	50	https://en.wikipedia.org/wiki/Quotation_mark
+a+Symbol	1360	49	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a@Symbol	1345	48	https://en.wikipedia.org/wiki/At_sign
+a[Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
+a]Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
+a{Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
+a}Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
+a,Symbol	1200	43	https://en.wikipedia.org/wiki/Comma
+a~Symbol	1086	42	https://en.wikipedia.org/wiki/Tilde
+a0Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a1Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a2Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a3Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a4Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a5Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a6Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a7Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a8Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a9Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
+a?Symbol	800	31	https://en.wikipedia.org/wiki/Question_mark
+awSymbol	700	30	https://en.wikipedia.org/wiki/W
+aySymbol	100	29	https://www.daytranslations.com/blog/origin-english-alphabet/
+a*Symbol	0	28	https://en.wikipedia.org/wiki/Asterisk
+a&Symbol	0	28	https://en.wikipedia.org/wiki/Ampersand
+apSymbol	-200	26	https://www.daytranslations.com/blog/origin-english-alphabet/
+agSymbol	-230	25	https://en.wikipedia.org/wiki/G
+a:Symbol	-300	24	https://enz.wikipedia.org/wiki/Colon_(punctuation)
+a.Symbol	-300	24	https://en.wikipedia.org/wiki/Full_stop
+acSymbol	-300	24	https://en.wikipedia.org/wiki/C
+ajSymbol	-500	21	https://en.wikipedia.org/wiki/J
+arSymbol	-500	21	https://en.wikipedia.org/wiki/R
+atSymbol	-500	21	https://en.wikipedia.org/wiki/T
+axSymbol	-500	21	https://en.wikipedia.org/wiki/X
+aaSymbol	-1000	17	https://en.wikipedia.org/wiki/A
+afSymbol	-1000	17	https://en.wikipedia.org/wiki/F
+aiSymbol	-1000	17	https://www.daytranslations.com/blog/origin-english-alphabet/
+akSymbol	-1000	17	https://en.wikipedia.org/wiki/K
+alSymbol	-1000	17	https://en.wikipedia.org/wiki/L
+amSymbol	-1000	17	https://en.wikipedia.org/wiki/M
+auSymbol	-1000	17	https://www.daytranslations.com/blog/origin-english-alphabet/
+avSymbol	-1000	17	https://en.wikipedia.org/wiki/V
+azSymbol	-1000	17	https://en.wikipedia.org/wiki/Z
+abSymbol	-2000	8	https://en.wikipedia.org/wiki/B
+adSymbol	-2000	8	https://en.wikipedia.org/wiki/D
+aeSymbol	-2000	8	https://en.wikipedia.org/wiki/E
+ahSymbol	-2000	8	https://en.wikipedia.org/wiki/H
+anSymbol	-2000	8	https://en.wikipedia.org/wiki/N
+aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
+aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
+asSymbol	-2000	8	https://en.wikipedia.org/wiki/S

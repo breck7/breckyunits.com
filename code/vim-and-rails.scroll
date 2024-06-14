@@ -1,0 +1,43 @@
+date 2010-8-13
+groups index
+permalink vim-and-rails.html
+title VIM and Rails
+
+import pageHeader.scroll
+
+Check out this guide.
+ https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide guide
+
+code
+ filetype on  " Automatically detect file types.
+ set nocompatible  " We don't want vi compatibility.
+ 
+ " Add recently accessed projects menu (project plugin)
+ set viminfo^=!
+ 
+ " Minibuffer Explorer Settings
+ let g:miniBufExplMapWindowNavVim = 1
+ let g:miniBufExplMapWindowNavArrows = 1
+ let g:miniBufExplMapCTabSwitchBufs = 1
+ let g:miniBufExplModSelTarget = 1
+ 
+ " alt+n or alt+p to navigate between entries in QuickFix
+ map <silent> <m-p> :cp <cr>
+ map <silent> <m-n> :cn <cr>
+ 
+ " Change which file opens after executing :Rails command
+ let g:rails_default_file='config/database.yml'
+ 
+ syntax enable
+ 
+ set ruler  " Ruler on
+ set nu  " Line numbers on
+ set ruler  " Ruler on
+ set nu  " Line numbers on
+ set nowrap  " Line wrapping offset nowrap  " Line wrapping off
+ 
+ set timeoutlen=250  " Time to wait after ESC (default causes an annoying
+ set ts=2  " Tabs are 2 spaces
+ 
+ set laststatus=2  " Always show status line.
+import footer.scroll

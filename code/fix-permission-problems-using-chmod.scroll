@@ -1,0 +1,15 @@
+date 2009-11-25
+groups index
+permalink fix-permission-problems-using-chmod.html
+title Fix permission problems using chmod
+
+import pageHeader.scroll
+
+Permission problems driving you crazy? Here's a common command to fix them:
+
+code
+ chmod -R 755 directoryname
+
+Change the file permissions of all directories and files in directoryname to 755.
+
+import footer.scroll

@@ -1,0 +1,30 @@
+Checklist for New Products
+==========================
+
+December 28, 2009
+
+At our startup, we've practiced a diversification strategy.
+ http://bigorangehousestudios.com/
+ https://breckyunits.com/diversification-in-startups.html
+
+We've basically run an idea lab, where we've built around 7 different products. Now we're getting ready to double down on one of these ideas.
+
+The question is, which one?
+
+Here's a 10 question form that you can fill out for each of your products.
+
+Product Checklist
+=================
+
+1. How many users/customers does the product have? 
+2. What percentage of these users/customers would be disappointed if this product disappeared tomorrow? 
+3. Explain the product in one sentence: 
+4. Is the product good/honest?  Yes
+5. What is the predicted customer acquisition cost? $
+6. What is the predicted average lifetime value per customer? $
+7. Which of the 7 deadly sins does the product appeal to?  Lust  Greed  Sloth  Gluttony  Pride  Envy  Wrath
+8. What's the go to market strategy in one sentence? 
+9. What resources do you need to do this? 
+10. What's the total addressable market size?  people $
+
+****

@@ -1,0 +1,18 @@
+date 2010-3-10
+groups index
+permalink gca-alias-for-faster-git.html
+title gca alias for faster git
+
+import pageHeader.scroll
+
+One of my most frequent commands is:
+
+code
+ git commit -am "message"
+
+I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystrokes:
+
+code
+ alias gca="git commit -am "
+
+import footer.scroll

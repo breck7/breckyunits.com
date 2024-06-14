@@ -1,0 +1,297 @@
+Breck's Blog - Programming Posts
+================================
+
+The World Wide Scroll
+=====================
+06/12/2024
+https://breckyunits.com/wws.html
+
+Download this Blog
+==================
+06/11/2024
+https://breckyunits.com/download.html
+
+A Measure of Intelligence
+=========================
+06/06/2024
+https://breckyunits.com/intelligence.html
+
+PCRI
+====
+05/31/2024
+https://breckyunits.com/pcri.html
+
+Breck's Lab
+===========
+05/27/2024
+https://breckyunits.com/lab.html
+
+Patch: a micro language to make pretty deep links easy
+======================================================
+05/27/2024
+https://breckyunits.com/patch.html
+
+Bring back RadioShack?
+======================
+05/26/2024
+https://breckyunits.com/radioShack.html
+
+What can we learn from programming language version numbers?
+============================================================
+05/25/2024
+https://breckyunits.com/versionNumbers.html
+
+Abort Bars
+==========
+05/24/2024
+https://breckyunits.com/abortBar.html
+
+A New Way to Store Knowledge
+============================
+05/21/2024
+https://breckyunits.com/scrollsets.html
+
+Corporate Email
+===============
+05/12/2024
+https://breckyunits.com/corporateEmail.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
+
+Big O's Kitchen
+===============
+04/23/2024
+https://breckyunits.com/bigOsKitchen.html
+
+Final Tree Notation Report
+==========================
+04/02/2024
+https://breckyunits.com/treeNotationFinalReport.html
+
+A Different Kind of Mindmap
+===========================
+02/24/2024
+https://breckyunits.com/mindmap.html
+
+Synthesizing Knowledge
+======================
+02/21/2024
+https://breckyunits.com/synthesizingKnowledge.html
+
+Words are Worse than Weights
+============================
+01/12/2024
+https://breckyunits.com/wordsAreWorseThanWeights.html
+
+Could in vitro brains power AI?
+===============================
+01/01/2024
+https://breckyunits.com/couldInVitroBrainsPowerAI.html
+
+I thought we could build AI experts by hand
+===========================================
+12/28/2023
+https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
+
+A Proposal to Solve Government Forms Worldwide, Forever
+=======================================================
+06/16/2023
+https://breckyunits.com/a-proposal-on-government-forms.html
+
+Use the Spine
+=============
+01/03/2023
+https://breckyunits.com/useTheSpine.html
+
+One Textarea
+============
+12/30/2022
+https://breckyunits.com/oneTextarea.html
+
+Root Thinking
+=============
+11/16/2022
+https://breckyunits.com/root-thinking.html
+
+Replies always welcome
+======================
+11/14/2022
+https://breckyunits.com/replies-always-welcome.html
+
+The Three Byte Fix
+==================
+06/09/2022
+https://breckyunits.com/ckmeans.html
+
+Aftertext
+=========
+12/15/2021
+https://breckyunits.com/aftertext.html
+
+User Methods
+============
+08/11/2021
+https://breckyunits.com/user-methods.html
+
+Scroll Beta
+===========
+02/22/2021
+https://breckyunits.com/scroll-beta.html
+
+2019 Tree Notation Annual Report
+================================
+12/09/2020
+https://breckyunits.com/tree-notation-annual-report-2019.html
+
+Building a TreeBase with 6.5 million files
+==========================================
+01/29/2020
+https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
+
+Type the World
+==============
+01/20/2020
+https://breckyunits.com/type-the-world.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html
+
+30,000 Hours
+============
+07/18/2019
+https://breckyunits.com/30000hours.html
+
+Ohayo
+=====
+06/23/2017
+https://breckyunits.com/ohayo.html
+
+Show HN: Programming is Now Two-Dimensional
+===========================================
+06/21/2017
+https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+
+Big Data Notation
+=================
+09/24/2013
+https://breckyunits.com/big-data-notation.html
+
+NudgePad: An IDE in Your Browser
+================================
+09/23/2013
+https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
+
+SpaceNet: A successor to the Internet
+=====================================
+06/02/2013
+https://breckyunits.com/spacenet.html
+
+Software Should Save People Time
+================================
+04/02/2013
+https://breckyunits.com/software-should-save-people-time.html
+
+Minor Epiphanies
+================
+03/16/2013
+https://breckyunits.com/minor-epiphanies.html
+
+Introducing Note
+================
+12/14/2012
+https://breckyunits.com/introducing-note.html
+
+Setplicity
+==========
+11/20/2012
+https://breckyunits.com/setplicity.html
+
+Naming Things
+=============
+10/20/2012
+https://breckyunits.com/naming-things.html
+
+What can a Programmer learn from Rock Climbing?
+===============================================
+03/30/2011
+https://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html
+
+Ruby
+====
+08/25/2010
+https://breckyunits.com/ruby.html
+
+Design Matters. A lot.
+======================
+07/02/2010
+https://breckyunits.com/design-matters-a-lot.html
+
+The Churn Rate of Data
+======================
+06/15/2010
+https://breckyunits.com/the-churn-rate-of-data.html
+
+The Hidden Benefits of Automation
+=================================
+03/17/2010
+https://breckyunits.com/the-hidden-benefits-of-automation.html
+
+Metrics for Programmers
+=======================
+03/16/2010
+https://breckyunits.com/metrics-for-programmers.html
+
+HackerNews Data: Visits as a Function of Karma
+==============================================
+03/08/2010
+https://breckyunits.com/hackernews-data-visits-as-a-function-of-karma.html
+
+With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
+======================================================================
+01/15/2010
+https://breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html
+
+Problems Worth Solving
+======================
+12/20/2009
+https://breckyunits.com/problems-worth-solving.html
+
+SEO Made Easy: LUMPS
+====================
+12/15/2009
+https://breckyunits.com/seo-made-easy-lumps.html
+
+Don't Flip the Bozo Bit
+=======================
+12/13/2009
+https://breckyunits.com/dont-flip-the-bozo-bit.html
+
+(un)features
+============
+12/11/2009
+https://breckyunits.com/unfeatures.html
+
+6 Specific Ways to Find Programming Mentors
+===========================================
+12/08/2009
+https://breckyunits.com/6-specific-ways-to-find-programming-mentors.html
+
+Twelve Tips to Master Programming Faster
+========================================
+12/04/2009
+https://breckyunits.com/twelve-tips-to-master-programming-faster.html
+
+The Truth about Web Design
+==========================
+04/14/2009
+https://breckyunits.com/the-truth-about-web-design.html
+
+Learning How to Program Part I
+==============================
+08/28/2007
+https://breckyunits.com/learning-how-to-program-part-i.html

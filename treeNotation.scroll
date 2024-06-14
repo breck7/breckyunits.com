@@ -1,0 +1,5 @@
+replace CAT_TITLE Scroll Notation
+
+import categoryPage.scroll
+snippets ScrollNotation
+import footer.scroll

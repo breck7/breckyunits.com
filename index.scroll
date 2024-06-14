@@ -1,0 +1,5 @@
+replace CAT_TITLE All
+
+import categoryPage.scroll
+snippets All
+import footer.scroll

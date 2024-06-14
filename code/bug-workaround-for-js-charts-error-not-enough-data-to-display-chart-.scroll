@@ -1,0 +1,16 @@
+date 2010-1-16
+groups index
+permalink bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
+title Bug Workaround for JS Charts Error: Not enough data to display chart
+
+import pageHeader.scroll
+
+code
+ nullData = new Array( );
+ myChart.setDataArray(nullData,"null");
+
+Add these 2 lines to your javascript.
+
+Basically, if the first data set has only 1 data point, JSCharts will fire the alert. If it has 0 or 2+ data points, it won't. This fix creates an empty data series which disables this alert.
+
+import footer.scroll

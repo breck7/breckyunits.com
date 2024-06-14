@@ -1,0 +1,11 @@
+date 2009-11-18
+groups index
+permalink about-this-blog.html
+title About this Blog
+
+import pageHeader.scroll
+
+I constantly want to share little coding tidbits, snippets, or stories on how to solve specific little coding problems. Instead of clogging up the <a href="/">main blog</a> with these shorter, more specific technical posts, I decided to launch a second blog.
+
+This is it.
+import footer.scroll

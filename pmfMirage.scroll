@@ -1,0 +1,199 @@
+date 2024-05-15
+groups All Startups
+openGraphImage pmfMirage.jpg
+ // ChatGPT
+title PMF Mirages
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+I typed `tail -f pageViews.log` into my console.
+ dateline
+
+Then pressed Enter.
+
+I stared at my screen as it streamed with endless lines of text.
+
+Each line evidence of a visitor interacting with my new site.
+
+It had been like this for days.
+
+_Holy shit,_ I thought.
+
+_This must be "Product Market Fit"_.
+
+***
+
+# Startup Growth Rates
+
+You can categorize all startups into a handful of classes.
+ link bigOsKitchen.html handful of classes
+
+If you start a business washing clothes and your only equipment is a bathtub, you have a Log Business.
+
+Buy some washing machines, and now it can be a Linear Business.
+
+Add some employees and you might go Log Linear.
+
+But if you develop it into a Laundromat Franchising Startup, now you might enter the realm of Quadratic and Exponential Businesses.
+
+***
+
+# When Growth Rate Phase-Changes
+
+"Venture Capital" is the sport of trying to build Quadratic and Exponential Businesses.
+
+"Product Market Fit" (PMF) is the term for when your startup phase-changes from a Linear or Log Linear business to a Quadratic or Exponential one.
+
+You detect PMF when you see your numbers accelerate upward.
+
+It's like moving from skiing the bunny slopes to heli-skiing.
+
+***
+
+# PMF Frequency
+
+They say PMF is a rare thing. Maybe 1% of startups experience that kind of phase-change.
+
+I've been in this world for a couple of decades, and that sounds about right to me.
+
+I have seen it a number of times, mostly from the years I lived in San Francisco.
+
+I remember when the Dropbox and Airbnb gatherings went from beers around makeshift offices to having guest lists a thousand names long at the hippest venues in the city.
+
+When you make something that hits PMF—something that a lot of people want—the customers and resources come streaming.
+
+It's a lot to deal with, good and bad.
+
+***
+
+# Searching For PMF
+
+I have long had a technology that I thought might evolve to be in the Quad or Expo Class.
+
+In 2017, I launched it.
+
+The response was crickets.
+
+So, in 2019, I launched it again.
+
+Again, crickets.
+
+I launched again in 2021. And again. And again. And again.
+
+Crickets every time.
+
+Then in 2022, right before I launched for the 20th(?) time, I did 2 unrelated things, that, combined with this launch, would create one heck of a PMF mirage.
+
+***
+
+# The Launch
+
+The first thing I did was pay for a premium domain name. I thought maybe if the domain looked more expensive, people might share the product more.
+// this was a minor misstep. later I would buy the .io for $30 and that was better.
+
+The second thing I did was drop Google Analytics and add web server logs.
+// I'm glad I did this. I like a site free of any tracking scripts. Now I've gone even further and keep no page view stats at all on my websites.
+
+I did these things, along with a lot of more substantive product work, and "launched" my product on HackerNews, Reddit, and Twitter.
+
+I then went to the playground with my daughters, assuming crickets again.
+
+***
+
+# The "Metrics"
+
+The next day, I was pleasantly surprised to see hundreds of upvotes and many good signs that people were finding my thing useful.
+
+I enjoyed the small rush of dopamine—those helpful little payoffs that help one get through the laborious years of building—but I expected the increase in users to be fleeting, like it had been in the past.
+
+However, the traffic didn't stop.
+
+No matter what time of day, when I looked at the live server logs, a lot of people were visiting the site.
+
+_It's finally happening._ I thought.
+
+_I made something people want. It is somewhere in the Quad/Expo class. I've got PMF. I can now can get the resources to fully build out the vision._
+
+***
+
+# The Realization
+
+Six months and much confusion later, I finally realized my dumb mistake.
+
+Premium domains may or may not be helpful, but they certainly get a lot more bot traffic.
+
+And, in the decades since I last used server traffic logs, the Internet filled up with many bots that have User Agents posing as humans.
+
+I had not yet hit PMF.
+
+*It was a PMF mirage.*
+
+This is an embarrassing mistake to make.
+
+I write this blog post a year later because I realize I've actually made it a few times in my career^insight. I want to greatly reduce the odds I make this mistake again.
+
+***
+
+# The Opposite Mistake
+
+Of course, I have also made the opposite mistake.
+
+I have invested in businesses and taken Log Linear gains only to watch from the sidelines as the business phase-changed into Quad/Expo.
+
+I bought SellNothing.com years ago to remind myself of mistakes like the time I took a 10x gain on NVidia, and a 100x gain on Bitcoin, instead of just sitting on the beach and getting 100x and 10,000x gains.
+
+I have proof that I can be fooled in either direction.
+
+***
+
+# What have I learned?
+
+Never ever got cocky over man made metrics. Ultimately, man made metrics are meaningless. God doesn't care about man made metrics. The second you get cocky about man made metrics, nature will humble you.
+
+Don't care about metrics emotionally, but do use them for practical purposes.
+
+If you are the one building the thing, assume positive metrics are faulty. _Especially_ superficial metrics like views and likes.
+
+If you are committed to building something for the long term (and if you're not, you should be doing something else), it's unhealthy to get excited over short term metric bumps anyway.
+
+Make sure you have a really strong mental model of the world and how your product fits into that.
+
+Your mental models should be your primary source of truth. Metrics should merely be automated tests that your models predict reality.
+ link datasets.html automated tests
+
+Don't think just because you've worked on something for a long time that at some point it has to hit PMF. Nature does not owe you PMF.
+
+You've always got to zoom out to improve your mental models, and zoom in to execute on the many details required to implement them.
+
+You have got to build past the payoff points on your projects to realize the leverage from a good Quad/Expo idea.
+
+You have to be long term oriented.
+
+Remember, things in the Quad and Expo classes *only* become Quad and Expo *over time*. So slow down, spend more time thinking about your models and less time looking at your metrics.
+
+Finally, always make sure you are getting enough sleep.
+ link sleepWriting.html getting enough sleep
+
+***
+
+# Back on the Bike
+
+Just because I made a dumb mistake and got burned from a PMF Mirage, doesn't mean I want to stop trying to build Quad and Expo things.
+
+It is fun to build products in the Quad and Expo classes.
+
+It's _definitely_ not a good reason to live an unbalanced life.
+
+But if you can live a balanced life and find a way to make your work focused on building things with high leverage in the Quad/Expo classes, that's a fun world to work in.
+
+Just beware of PMF mirages.
+
+****
+
+# Notes
+^insight In 2016 I once misconfigured Google Analytics and thought users were using our data visualization tool for far longer than they actually were. Luckily in that case, it only took a few weeks to realize my error, not months.
+
+import footer.scroll

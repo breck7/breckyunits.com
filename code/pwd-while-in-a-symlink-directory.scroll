@@ -1,0 +1,13 @@
+date 2010-3-1
+groups index
+permalink pwd-while-in-a-symlink-directory.html
+title pwd while in a symlink directory
+
+import pageHeader.scroll
+
+To get the actual directory, run:
+
+code
+ /bin/pwd
+
+import footer.scroll

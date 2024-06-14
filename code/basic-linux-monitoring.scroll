@@ -1,0 +1,31 @@
+date 2011-7-9
+groups index
+permalink basic-linux-monitoring.html
+title Basic Linux Monitoring
+
+import pageHeader.scroll
+
+Show memory usage:
+
+code
+ free -m
+
+Add this to your bash_profile:
+
+code
+ alias free="free -m"
+
+code
+ top
+
+Show all processes
+
+code
+ ps -a
+
+Disk free space:
+
+code
+ df
+
+import footer.scroll

@@ -1,0 +1,20 @@
+date 2011-10-06
+groups index
+permalink find-big-files-in-linux.html
+title Find big files in Linux
+
+import pageHeader.scroll
+
+* _Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
+
+How to find files larger than a certain size:
+
+code
+ find /etc -size +100k
+
+Disk free space:
+
+code
+ du
+
+import footer.scroll

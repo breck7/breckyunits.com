@@ -1,0 +1,20 @@
+date 2010-2-6
+groups index
+permalink plugins-for-notepad.html
+title Plugins for Notepad++
+
+import pageHeader.scroll
+
+Notepad++ is my go to editor.
+
+The default plugins are great, but if you need more just visit <a href="http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central">the notepad++ plugins list</a>.
+
+To install a plugin:
+
+- 1. Download the zip file and unzip it.
+- 2. Copy the dll to your Program Files/Notepad++/Plugins folder.
+
+The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
+
+That's it!
+import footer.scroll

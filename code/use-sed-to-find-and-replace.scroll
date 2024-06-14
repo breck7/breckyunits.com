@@ -1,0 +1,32 @@
+date 2010-0-20
+groups index
+permalink use-sed-to-find-and-replace.html
+title Use sed to find and replace
+
+import pageHeader.scroll
+
+`grep` is to find what `sed` is to replace.
+ link use-grep-to-search-multiple-files-at-once.html grep
+
+Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
+
+You can fix all occurrences using this one-liner:
+
+code
+ sed 's/imposible/impossible/g' stuff.txt
+
+Often it's more helpful to sed across multiple files.
+
+code
+ sed -i 's/1.0.1/"1.0.1"/g' *.php
+
+That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
+
+# Notes
+
+- sed <a href="https://www.grymoire.com/Unix/Sed.html">tutorial</a>
+- <a href="https://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html">findAndReplace</a> with sed
+- sed on <a href="https://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm">about.com</a>
+- Very clear <a href="https://drupal.org/node/128513">examples</a>
+
+import footer.scroll

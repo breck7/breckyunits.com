@@ -1,0 +1,46 @@
+date 5/12/2024
+groups All Startups Society Programming
+title Corporate Email
+
+import header.scroll
+printTitle
+
+thinColumns 1
+
+The Four Seasons website says
+ dateline
+ https://www.fourseasons.com/about_four_seasons/corporate_bios/isadore_sharp/ Four Seasons website says
+
+> Treat others as you wish to be treated
+
+Sometimes Four Seasons sends me random emails.
+
+When I reply with a random email of my own I get
+
+> DoNotReply@fourseasons.com does not receive emails.
+
+***
+
+People don't want to interrupted by email bots.
+
+And people especially don't want to be interrupted by email bots that don't listen.
+
+***
+
+If you are implementing email for a company please know that there is _never_ a reason to use a no-reply email address--there is always a more user-friendly, more human way. 100% of the time.
+ link replies-always-welcome.html 100% of the time
+
+Let's infuse the Internet with the intelligent design and warm hospitality of Izzy Sharpe's (real life) hotels.
+ https://en.wikipedia.org/wiki/Isadore_Sharp Izzy Sharpe
+
+****
+
+// Make email human again!
+ Learn more: https://breckyunits.com/replies-always-welcome.html
+
+// Note: I made minor edits to the story above for brevity.
+ The actual email was from: "noreply@mail.fourseasons.com"
+
+// The Four Seasons is one of my favorite businesses and I recommend reading the autobiography of Isadore Sharp!
+
+import footer.scroll

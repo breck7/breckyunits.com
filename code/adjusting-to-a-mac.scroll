@@ -1,0 +1,30 @@
+date 2010-10-2
+groups index
+permalink adjusting-to-a-mac.html
+title Adjusting to a Mac
+
+import pageHeader.scroll
+
+For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.
+
+After a week I'm finally starting to get used to it. I'm starting to really customize it and that seems to make all the difference. I've removed nearly everything from the dock, added a bunch of things to my bash profile, and a friend at work gave me a crash course in Textmate.
+
+I've downloaded a program called <a href="http://www.irradiatedsoftware.com/sizeup/">Sizeup</a>, which not only emulates the awesome "Snap" feature of Windows 7, but in fact is even better. It gives you the left/right 50% snap feature just like in Win7, but also lets you snap things into top/bottom and even snap things into quadrants. Pretty nice software.
+
+Firefox is my favorite of the 3 browsers on the Mac. I loved Chrome on Windows because it was so fast, but this Air is so blazing fast that running Firefox or Chrome on Mac makes little difference.
+
+I've added the Secret Preferences menu and turned "show all hidden files and folders" on. I hate not seeing everything in a folder.
+
+I created an alias "dsdelete" to quickly recursively delete DS_Store hidden files (helpful when zipping folders for sharing).
+
+I learned the "open ." command and changed the terminal color scheme.
+
+I installed RubyMine and Web Developer Toolbar and Tamper Data and Charles and Dropbox. I'm still trying out VMWare Fusion and haven't decided if I want it yet.
+
+I've slowly gotten used to the keyboard. I tried spaces but have turned it back off for now. Expose I hardly use yet.
+
+All in all, I'm really enjoying the speed, instant on, the light weight of the computer, Ruby on a Mac (doing Rails dev on Windows is a pain), having a real terminal(cygwin is great, but native is better), and the fact that 50% of my CPU isn't dedicated to fighting viruses. I'm still developing slower on this machine but hoping that my speed will improve with time.
+
+I'd say the odds at this point are 60-40 in favor of me sticking with it this time.
+
+import footer.scroll

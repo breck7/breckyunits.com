@@ -1,0 +1,46 @@
+Thoughts on Setting Goals
+=========================
+
+December 23, 2009
+
+It is better to set small, meaningful goals than to set wild, audacious goals.
+
+Here's one way to set goals:
+
+Make them good. Make them small.
+
+Make them Good
+==============
+Good goals create value. Some examples:
+- Make a customer smile.
+- Teach someone math.
+- Learn how to cook.
+- Organize weather information.
+
+Make them Small
+===============
+Start small. It is better to set one or two goals per time period than to set two dozen goals. Instead of a goal like "get 1,000,000 people to your website", start with a smaller goal like "get 10 people to your website."
+
+If you exceed a goal and still think it's a good thing, raise the goal an order of magnitude. If you get those 10 visitors, aim for 100.
+
+Why Small Goals Are Better
+==========================
+Setting smaller goals is better because:
+- It feels good when you exceed a goal. Occasionally you'll wildly exceed a goal and that will feel great.
+- It's better to do a few small good things, than to fail trying one audacious thing.
+- It's easier to accomplish an audacious thing by going one step(order of magnitude) at a time.
+- It's less stressful and makes you happier. Low expectations are good because in most cases you will exceed them and feel happy. High expectations, by definition, are bad because in most cases you will not meet them and feel bad.
+- Goals are arbitrary anyway. All goals are simply arbitrary constraints that help you focus--often with a team--to get stuff done. So since they're arbitrary, and as long as they're good goals, might as well make them simpler and easier.
+
+Setting Ranges
+==============
+Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
+
+LowBar HighBar What
+2 7 new customers
+2 4 product improvements
+1 3 blog posts
+
+If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
+
+****

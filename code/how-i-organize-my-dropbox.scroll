@@ -1,0 +1,42 @@
+date 2009-11-27
+groups index
+permalink how-i-organize-my-dropbox.html
+title How I organize my Dropbox
+
+import pageHeader.scroll
+
+Gmail encourages users to "search not sort". I do that. Email works great for search. For files though, sorting is often better.
+
+I have well over 20GB of files synced onto my Dropbox. The rest of my computer is spotless(I use Windows 7 and do a fresh install every 30-60 days). But the Dropbox can get cluttered. I take a simple approach that is a hybrid of search and sort. Here's how to do it:
+
+Put files into 2 sections:
+
+ -Put commonly accessed folders in the root directory.
+ -Put everything else in a "Search" directory, which is in the Dropbox root directory.
+
+- Create a folder in your root Dropbox directory named "Search". Plop anything in here.
+- Keep your most common folders in the root Dropbox directory. Sort these ones.
+- Every few weeks, move any rarely used files and folders into the "Search" directory. Bring any commonly used files and folders back out to the root Dropbox directory.
+
+# End Result
+
+Here's what the end result may look like:
+
+code
+ -My Dropbox
+ --Music
+ --Photos
+ --Blog
+ --eBooks
+ --Company Docs
+ --Search
+
+The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
+
+This a hybrid of search and sort.
+
+#  Notes
+
+- 1. All of my coding work is done in my cygwin home directory and then pushed to github. These are the only files that I don't store in Dropbox, but I push them frequently so don't worry much about losing them.
+
+import footer.scroll

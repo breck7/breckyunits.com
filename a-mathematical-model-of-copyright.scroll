@@ -1,0 +1,260 @@
+date 5/26/2023
+groups All IntellectualFreedom
+openGraphImage mamoc.png
+title A Mathematical Model of Copyright
+
+import header.scroll
+printTitle
+thinColumns 2
+printAuthor
+
+// chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
+
+// A work in progress
+
+What is copyright, from first principles? This essay introduces a mathematical model of a *world with ideas*, then adds a *copyright system* to that model, and finally analyzes the *predicted effects* of that system.
+ dateline
+
+endSnippet
+
+katex
+css .scrollKatex {text-align: center;}
+
+<br>
+
+# Part 1: The world
+
+### The world
+katex W
+The world $W$ contains observers who can make point-in-time observations $O_t$^terms of $W$.
+
+### Ideas
+katex I: f(O_{t_1}, t_\Delta) → O_{{t_1}+{t_\Delta}}
+An idea $I$ is a function that given input observations at time $t_1$ can generate expected observations at time ${t_1}+{t_\Delta}$.
+
+### Thinkers
+katex T
+A thinker^communicators $T$ can store ideas $I$ in $T$.
+
+### Skillsets
+katex S
+A skillset $S$ is the set of $\set{I_i, \mathellipsis, I_n}$ embedded in $T$.
+
+### Idea Creation
+katex \alpha: f(S, O, t) → I_{new}
+A thinker can generate a new idea $I_{new}$ from its current skillset $S$ and new observations $O$ in time $t$.
+
+### Value
+katex V: f(I, O_{predictions}, O_{actual}) → \sum{(O_{actual} - O_{prediction})}^2
+An idea $I$ can be valued by a function $V$ which measures the accuracy of all of the predictions produced by the idea $O_{{t_1}+{t_2}}$ against the actual observations of the world $W$ at time ${}_{{t_1}+{t_2}}$. Idea $I_i$ is more valuable than idea $I_j$ if it produces more accurate observations holding the size of $|I|$ constant.
+
+### Fictions
+katex F
+A fiction^artists $F$ is an $I$ that does not accurately model $W$.
+
+### Messages
+katex M
+Thinkers can communicate $I$ to other thinkers by encoding $I$ into messages $M_I$.
+
+### Signal
+katex \Omega: \frac{\sum{V(I)}}{|M|}
+The Signal $\Omega$ of a message is the value of its ideas divided by the size of the message.
+
+### Fashions
+katex Z
+A fashion $Z_{M_I}$ is a different encoding of the same idea $I$.
+
+### Teachers
+katex \tau
+A teacher is a $T$ who communicates messages $M$ to other $T$. A thinker $T$ has access to a supply of teachers $\tau$ within geographic radius $r$ so that $\tau = \set{T|T < r}$.
+
+### Learning
+katex L: f(M_I, T) → T^\prime
+The learning function $L$ applies $M_I$ to $T$ to produce $T^\prime$ containing some memorization of the message $M_I$ and some learning of the idea $I$.
+
+### Objectives
+katex B
+A thinker $T$ has a set of objectives $B_T$ that they can maximize using their skillset $S_T$.
+
+### Technologies
+katex X
+$T$ can use their skillset $S$ to modify the world to contain technologies $X$.
+
+### Technology Creation
+katex \Pi: f(\set{T},\set{X}, t) → X_{new}
+Technology creation is a function that takes a set of thinkers and a set of existing technologies as input to produce a new technology $X_{new}$.
+
+### Artifacts
+katex A
+With $X$ $M_I$ can be encoded to a kind of $X$ called an artifact $A$.
+
+### Creators
+katex \chi
+A creator $\chi$ is a $T$ who produces $A$.
+
+### Outliers
+katex \sigma
+An outlier $\sigma$ is a $\chi$ who produces exceptionally high quality $A$.
+
+### Copies
+katex K
+A copy $K_A$ is an artifact that contains the same $M$ as $A$.
+
+### Derivatives
+katex A^{\prime}
+A derivative $A^{\prime}$ is an artifact updated by a $\chi$ to better serve the objectives $B$ of $\chi$.
+
+### Libraries
+katex J
+A library $J$ is a collection of $A$.
+
+### Attention
+katex N
+Thinkers $T$ have a finite amount of attention $N$ to process messages $M$.
+
+### Distribution
+katex D: f(A_o, T_o) → A_{T_o}
+Distribution is a function that takes artifact $A$ at location $o$ and moves it to the thinker's location $T_o$.
+
+### Publishers
+katex Q
+A publisher is a set of $T$ specializing in production of $A$.
+
+### Censors
+katex U: U(D)
+A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed.
+
+<br>
+
+# Part 2: Adding copyright to the model
+
+### Masters
+katex \Psi
+A master $\Psi$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{\Psi}$.
+
+### Royalties
+katex R
+A royalty $R$ is a payment from $T$ to $\Psi$ for a permission on $A^\Psi$.
+
+### Permission Function
+katex P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d
+For every $A^\Psi$ used in $\Pi$ a permission function $P$ must be called and resolve to $>-1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
+
+### Classes
+katex
+ T = \begin{cases}
+   T_{R+} &\text{if } R_{in} - R_{out} > 0 \\
+   T_{R-} &\text{if } R_{in} - R_{out} \leq 0
+  \end{cases}
+The Royal Class $T_{R+}$ is the set of $T$ who receive more $R$ than they spend. Each member of the Non-Royal Class $T_{R-}$ pays more in $R$ than they receive.
+
+### Public Domain
+katex A^0
+A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or an expired $d$. The $P$ function still must be applied to all $A^0$ and the uncertainty term $\theta$ still exists for all $A^0$.
+
+### Advertising
+katex \varLambda: f(A_i, A_j^\Psi) → A_{ij}
+Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
+
+<br>
+
+# Part 3: Predicted effects of copyright
+
+## Effect on Z
+katex \Uparrow {Z \over I}
+We should expect the ratio of Fashions $Z$ to Ideas $I$ to significantly increase since there are countless $M$ that can encode $I$ and each unique $M$ can be encoded into an $A^\Psi$ that can generate $R$ for $\Psi$.
+
+## Effect on F
+katex \Uparrow F
+We should expect the number of Fictions $F$ to increase since $R$ are required regardless if the $M$ encoded by $A$ accurately predicts the world or not. $\Psi$ are incentivized to create $A$ encoding $F$ that convince $T$ to overvalue $A^\Psi$.
+
+## Effect on $\varLambda$
+katex \Uparrow \varLambda
+We should expect a significant increase in the amount of advertising $\varLambda$ as $\chi$ are prevented from generating $A^{\prime}$ with ads removed.
+
+## Effect on $|M|$
+katex \Uparrow |M|
+We should expected the average message size $|M|$ to increase because doing so increases $R$ by decreasing $\theta$ and increasing $A^\Psi$.
+
+## Effect on $\Omega$
+katex \Downarrow \Omega
+We should expect the average signal $\overline{\Omega}$ of messages to decrease.
+
+## Effect on K
+katex \Uparrow {K \over I_{new}}
+We should expect the ratio of number of copies $K$ to new ideas $I_{new}$ to increase since the cost of creating a new idea $α$ is greater than the cost of creating a copy $K$ and royalties are earned from $A$ not $I$.
+
+## Effect on $\Pi$
+katex \Downarrow \Pi
+We should expect the speed of new artifact creation to slow because of the introduction of Permission Functions $P$.
+
+## Effect on J
+katex \Uparrow {{Z + F + K} \over I}
+We should expect libraries to contain an increasing amount of fashions $Z$, fictions $F$, and copies $K$ relative to distinct ideas $I$.
+
+## Effect on S
+katex \Downarrow S
+We should expect a decrease in the average thinker's skillset $\overline{S}$ as more of a thinker's $N$ is used up by $Z, F, K$ and less goes to learning distinct $I$.
+
+## Effect on $I^\prime$
+katex \Downarrow I^\prime
+We should expect the rate of increase in new ideas to be lower due to the decrease in $\overline{S}$.
+
+## Effect on Classes
+katex f^{\prime}(R, T_{R+}) > 0
+katex f^{\prime}(R, T_{R-}) < 0
+We should expect the Royal Class $T_{R+}$ to receive an increasing share of all royalties $R$ as surplus $R$ is used to obtain more $R$ streams.
+
+## Effect on $\sigma$
+katex \sigma → T_{R+} > 0
+We should expect a small number of outlier creators to move from $T_{R-}$ to $T_{R+}$.
+
+## Effect on $A^0$
+katex \Downarrow {{A^0} \over A^\Psi}
+We should expect a decrease in the amount of $A^0$ relative to $A^\Psi$ as $T_{R+}$ will be incentivized to eradicate $A^0$ that serve as substitutes for $A^\Psi$. In addition, the cost to $T$ of using any $A^0$ goes up relative to before because of the uncertainty term $\theta$.
+
+## Effect on $A^{\prime}$
+katex \Downarrow A^{\prime}
+We should expect the number of $A^{\prime}$ to fall sharply due to the addition of the Permission Functions $P$.
+
+## Effect on B
+katex \Uparrow {{B_\Psi} \over {B_T}}
+We should expect $A$ to increasingly serve the objective functions of $\Psi$ over the objective functions $B_T$.
+
+## Effect on Q
+katex \Downarrow Q
+We should expect the number of Publishers $Q$ to decrease due to the increasing costs of the permission functions and economies of scale to the winners.
+
+## Effect on U
+katex \Uparrow U
+We should expect censorship to go up to enforce copyright laws.
+
+## Effect on $A_©$
+katex \Uparrow A_©
+We should expect the number of $A$ promoting © to increase to train $T$ to support a © system.
+
+## Effect on $T_{R-}$
+katex \Downarrow T_{R-}
+We should expect the Non-Royal Class $T_{R-}$ to pay an increasing amount of $R$, deal with an increasing amount of noise from ${Z + F + K}$, and have increasingly lower skillsets $\overline{S}$.
+
+<br>
+
+# Conclusions
+
+New technologies $X_{new}$ and specifically $A_{new}$ can help $T$ maximize their $B_T$ and discover $I_{new}$ to better model $W$.
+
+A copyright system would have no effect on $I_{new}$ but instead increase the noise from ${Z + F + K}$ and shift the $\overline{A}$ from serving the objectives $B_T$ to serving the objectives $B_\Psi$.
+
+A copyright system should also increasingly consolidate power in a small Royal Class $T_{R+}$.
+
+****
+
+# Notes
+^terms The terms in this model could be vectors, matrices, tensors, graphs, or trees without changing the analysis.
+^communicators We will exclude thinkers who cannot communicate from this analysis.
+^artists The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
+^duration1 If copyright duration is 100 years then that is the max time it may take $P$ to resolve. Also worth noting is that even a duration of 1 year introduces the permission function which significantly complicates the creation function $\Pi$.
+
+// ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
+
+import footer.scroll

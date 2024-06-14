@@ -1,0 +1,111 @@
+date 3/08/2024
+groups All BipolarEnergy Life
+title Open-Mindedness
+
+import header.scroll
+printTitle
+thinColumns 2
+
+What is open-mindedness, from first principles? Here are some musings.
+ dateline
+
+endSnippet
+
+katex
+css .scrollKatex {text-align: center;}
+
+# A Brief Formal Discussion
+First I state the obvious, that open-mindedness, $OM$, is a measure of a mind, $M$. I will assume $M$ can be modeled as a society of agents, $A$, each occupying some neural space $N$. The formation of new $A$ in space $N$ is done by learning process $L$. Some $A$ can act as learning control agents and can act, with discretion, to block the $M$ from learning new agents.
+ link marvin-minsky.html a society of agents
+ // If that assumption is false, this essay is not likely to be true.
+
+The rest of this essay I'll spell out the full terms but stick to the list of concepts above.
+
+# Open-mindedness vs Closed-mindedness
+A mind can be in various levels of open-mindedness both globally and locally.
+
+With Artificial Neural Networks (ANNs) the current paradigm is to be _open-minded_ during training and then _closed-minded_ during inference (learning is stopped). In ANNs the open-mindedness state is generally global, whereas in biological neural networks it seems to almost always be in a mixed combination with both global and local levels of open-mindedness. I expect in the future engineers will get better at making ANNs that are able to keep certain areas open-minded.
+
+# Benefits of Open-Mindedness
+A mind capable of developing new agents can build teams of cooperative agents capable of better exploiting the organism's environment. Also, a mind capable of developing new agents can replace under-performing agents with better ones.
+
+Beyond this, I will take it as an assumption that open-mindedness is beneficial by default^aside.
+
+# Costs of Open-Mindedness
+Unfortunately time and resources are scarce and open-mindedness has costs.
+
+## 1. Energy Costs
+There are metabolic energy costs to developing new agents. There are also opportunity costs as investing time and energy into developing any specific agent comes at the cost of not developing other possible agents.
+
+## 2. Vulnerability Costs
+If an organism is open-minded and engages in learning it often involves making mistakes visible to other organisms. In competitive environments, other organisms can exploit this information against the open-minded mind.
+
+## 3. Internal Competition for Neural Resources
+It is possible that neural agents themselves are entities in a game of survival (like species, individuals, and genes), competing against other neural agents in the same mind, and so open-mindedness poses a threat to existing agents.
+
+### 3a. More "Mouths" to Feed
+It could be that each agent has a metabolic power draw greater than undeveloped neural material, against a relatively fixed power supply, and so adding new agents decreases the power supply to existing agents.
+
+It could be that the supply of neural "materials" is largely fixed and to build themselves new agents must literally take materials from existing agents (such as molecules for axons and dendrites).
+
+These costs would make existing agents opposed to new agents globally by default. It could be that in the beginning when unused neural materials are high, it is advantageous to be globally open-minded. Once agents have claimed a lot of space, the downsides of open-mindedness increase.
+
+### 3b. Internal Neural Warfare Between Opposing Agents
+Each agent has a functional territory over which it reigns. When a mind encounters problems related to that territory the problem is routed to the appropriate agent. An agent may only get energy if it is used. Without receiving any energy, an agent may die. It seems like it would be evolutionarily advantageous for agents to develop defense mechanisms that can discourage open-mindedness in areas related to its territory.
+
+Hence, an agent might want open-mindedness in areas orthogonal to its own, but push for closed-mindedness in its specialization.
+
+It also seems that alliances among factions of agents may form. If one agent resists a superior newcomer in its territory the rest of the mind would be worse off, so other agents might fight the agent promoting closed-mindedness.
+
+# Survival of the Stubborn Gene
+A stubborn strategy could often payoff. Imagine a mind has a 33% chance of surviving a choice. A closed mind will act fast and make a mistake 67% of the time. An open mind might spend significant time and resources and make the incorrect choice only 10% of the time. However, the open-minded survivor might be wrongly smug, as they wouldn't observe that 80% of the time they failed to make a choice at all, and if they could have observed the global multiverse they would have realized their open-minded strategy actually only survived 10% of the time, versus the closed-minded's 33%.
+ link the-many-worlds-law.html multiverse
+
+# Honesty
+It is easier for a mind to be open-minded to opposing ideas in a domain where there are few existing neural agents. It is harder to be open-minded in a domain with strongly established neural agents. Honesty requires being open to developing neural agents in opposition to existing agents in order to make a genuine judgement about which is better. Honesty can be hard because it sometimes involves not just superficially steel-manning an opposing idea, but being genuinely open-minded to letting that opposing idea take over a domain from existing agents, if it turns out to be a better idea after all.
+
+# Conclusions
+As I said in the beginning, these are mostly musings at the moment. I have many more questions than answers, including the questions below.
+
+- Is there such a thing as "blank" neurons?
+- If so, do "blank" neurons have a lower power draw?
+- If it exists, what would the "weapons" be in internal neural warfare? How do neural agents fight each other/fight learning?
+- Are there substances that increase global open-mindedness states? Decrease? What about local effects?
+- Would it be good practice to regularly (annually, perhaps) take such substances?
+- Are there patterns in what kinds of ideas people are open/closed minded about?
+
+****
+
+# Notes
+^aside Philosophically by some measures you could argue that having a mind is not clearly advantageous to _objects_ in general. For example, organisms with minds make up a small percentage of the biomass on earth. Or you could say that some rocks last billions of years, whereas minds are gone much faster than that.
+ https://ourworldindata.org/life-on-earth a small percentage of the biomass on earth
+
+***
+
+# Open-Mindedness, Part II
+
+It's a few weeks later, and I find myself wanting to take another look at open-mindedness.
+ dateline 4/5/2024
+
+## Why would a brain fight to stay closed-minded?
+Let's go over the same ideas but starting from the slightly changed perspective of the question above.
+
+A brain could fight to stay closed-minded as a form of agent NIMBYISM, where existing neural agents don't want to compete against new agents.
+
+It could be simply an energy conservation strategy, where your brain, by default, doesn't want to burn resources rewiring.
+
+It could be a logical default--where your brain is trying to avoid the mistake of giving up on a way of thinking too early. Imagine the reward for a contrarian idea doesn't come until your 10th year of following it. If you give up on year 9, you pay 90% of the costs and get 0% of the reward.
+
+It could be because your brain is trying to "save face", and doesn't want to suffer social penalties from being wrong. You can postpone feeling shame by keeping your mind closed, and hope that either your committed path will someday, somehow, finally payoff, or maybe something else happens so you don't have to face the social pain of admitting mistakes.
+
+It could be because your brain legitimately has a dislike for the other idea(s), or doesn't trust the source.
+
+It could be because your brain enjoys having a pastime where it can just repeat old patterns and relax. It might want to be closedminded in an area because it has to be openminded in other areas and does not want to be challenged at all hours of the day.
+
+It could be out of respect for a social group and/or traditions, and one would rather be respectful to their groups than have the best mental model on every topic.
+
+Or it could be simply a waiting strategy, where a mind is shut only to incrementally better ideas, and no new ideas are significant enough to be worth opening one's mind for.
+
+****
+
+import footer.scroll

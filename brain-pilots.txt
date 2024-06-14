@@ -1,0 +1,175 @@
+Brain Pilots
+============
+
+[Image Omitted]
+ What if there is not just one part of your brain that can say "I", but many?
+
+Introduction
+============
+February 18, 2022
+
+Which is more accurate: "I think, therefore I am", or "We think, therefore we are"? The latter predicts that inside the brain is not one "I", but instead multiple *_Brain Pilots_*, _semi-independent neural networks capable of consciousness that pass command._
+
+The Brain Pilots theory predicts multiple locations capable of supporting root level consciousness and that the seat of consciousness moves. The brain is a system of agents and some agents are capable of being Pilots—of driving root level consciousness.
+
+Sometimes you go to bed one person and wakeup someone else. The brain pilot swapped in the night. These swaps then continue subconsciously throughout the day.
+
+The Brain Pilots theory is not about the exceptions, that some people with their callosums cut develop two consciousnesses, or that some of the population have multiple personalities. Rather that multiple consciousnesses is the rule and a feature of how all human minds work.
+ https://en.wikipedia.org/wiki/Corpus_callosotomy
+ https://en.wikipedia.org/wiki/Dissociative_identity_disorder
+ https://en.wikipedia.org/wiki/Dual_consciousness#Models_of_multiple_consciousnesses
+ caveat how all human minds work
+  Though the population and behaviors of brain pilots in individual humans have huge variance.
+
+_I should note that the term "Brain Pilots Theory", does not come from the field. It's a term I started using to get to the essence of the big idea. I am sure there is a better term for it, and a more fully developed theory, and hopefully a more knowledgeable reader can point me to that. Until then, I'll stick to calling it the Brain Pilots Theory._
+
+This is a theory of the mind that blows my mind. I stumbled into it while programming multi-agent simulations and thinking "wait, what if the mind is a multi-agent system"? I quickly found that a lot of neuroscientists have been going this way for decades and writing about it. My favorites so far being The Society of Mind (Minsky 1988), A Thousand Brains (Hawkins 2021), and LessWrong's collection on Subagents.
+ https://en.wikipedia.org/wiki/Agent-based_model
+ https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135/
+ https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675819
+ https://www.lesswrong.com/tag/subagents
+
+What are the odds that this theory is right? I am not in the field and have no clue yet (10%? .1%?). I do feel confident saying that if true, this seems like it would have dramatic implications for how we understand the brain, ourselves, other people, and society, not to mention how it would lead to new technologies for the brain.
+
+Is this just Inside Out?
+========================
+The 2015 film Inside Out gets across a core idea of the Brain Pilots theory—that our brains are vehicles for multiple agents and the one self is an oversimplification.
+ caveat gets across
+  It's also very entertaining.
+
+[Image Omitted]
+ In the 2015 film Inside Out five brain pilots (Anger, Disgust, Joy, Fear, and Sadness) live inside the brain of a girl and can take turns piloting.
+
+Inside Out is primarily a movie and not a scientific model, of course. To make it a better model we need to drop the personification of the agents. Instead of looking like tiny humans and being as capable as humans, in reality Brain Pilots would look like tangles of roots and globs of cells, and would likely have a very different and incomplete set of capabilities and behaviors. It's very important to keep in mind that the agents in your brain are very limited by themselves. It's why in your dream an elephant can start talking to you and your current brain pilot isn't taken aback, because that current might not have access to other agents that would detect the absurdity of the situation.
+
+[Image Omitted]
+ If you picture brain pilots not as personified mini-humans but some type of plant-like neuronal circuits, you get a pretty good model of this Brain Pilots theory.
+
+Where are the pilots?
+=====================
+
+My working hypothesis is that pilots could be found in various parts of the brain. Perhaps you have Pilots in the Cerebrum, Pilots in the Thalamus, and so on. Perhaps a Pilot consists of a network that extends into multiple regions of the brain. Different pilots could be located on opposite sides of the brain or perhaps microns apart from each other.
+
+What is a pilot exactly?
+========================
+It seems the materials would be some collection of neurons, synapses, et cetera. Obviously I have my homework to do here.
+
+How many pilots per brain?
+==========================
+It seems unlikely that an entity the size of a single cell or smaller could run a human. Rather, a network of some minimum size is probably required. Call the required materials MinPilotMaterials.
+ caveat unlikely
+  Perhaps unlikely but would be important to investigate. And if one neuron could be a pilot, that would be a big discovery.
+
+If MinPilotMaterials == BrainMaterials then there would be room for only 1 consciousness in 1 brain. Similarly, a pilot may not have a fixed min size but instead is programmed to grow to assume control of all relevant materials in the brain.
+
+Alternatively, MinPilotMaterials could be a fraction of BrainMaterials. Perhaps 10%-50% of BrainMaterials, meaning there would be room for just a few pilots. Or perhaps a pilot needs 1% of BrainMaterials, and there could be 100 in a brain.
+
+What practitioners in dissociative identity disorder call Identities might be brain pilots, and the average population per person is ~16, with some patients reporting over 100.
+ https://en.wikipedia.org/wiki/Dissociative_identity_disorder
+
+There are ~150,000 cortical columns, so perhaps there are that many Brain Pilots.
+ https://numenta.com/neuroscience-research/cortical-columns/
+ caveat
+  Apologies to the actual neuroscientists here as I'm could be using this number about cortical columns in a nonsensical way.
+
+Perhaps I'm wrong that it takes a network of multiple cells, and a single neuron with many synapses could take charge, in which case there could be millions (or more) brain pilots per brain.
+
+With 150,000 cortical columns, 100 billion neurons, as many as a quadrillion synapses, it seems highly likely to me that there is enough material in the human brain to support many brain pilots. Neuroscientists have not identified some small singular control room, rather point to the "seat of consciousness" being roughly in the 10-20 billion neurons that make up the cerebral cortex. If one brain pilot could arise there, why not many?
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1312236/
+
+How do brain pilots form?
+=========================
+They likely evolve like plants in a garden. It seems to me that the population of pilots in a brain probably follows a power law, where ~65% of your pilots are there by age 4, ~80% by age 20, and then changes get slower and slower over time. Pilots probably grow stronger when they make correct predictions.
+
+How long do brain pilots live?
+==============================
+I'd imagine once an agent has evolved to be a pilot, it would probably stick around until death given the safe confines of the skull. It may be harder to get rid of an old pilot than it is to grow a new one (or that may change with age).
+
+[Image Omitted]
+ I sometimes visualize pilots as old trees in the brain.
+
+Can you trigger a pilot change?
+===============================
+[Image Omitted]
+ How can a pill one millionth the size of the brain cause it to change directions? Perhaps the pill changes the pilot?
+
+As many have experienced, there are certain chemicals that if you ingest just a minuscule amount, millions of times smaller than your brain, your whole consciousness can change within the hour. Perhaps what is happening is a different pilot is taking over? Or perhaps a new one is being formed?
+ caveat chemicals
+  Does not just have to be LSD. There are numerous classes of substances that have huge lever affects.
+
+But it's not just chemicals that can swap pilots. You would have a HungerPilot that increasingly angles for control if deprived of food; a ThirstPilot angling to drink; a SleepPilot that makes her moves as the night gets late, and so on. Perhaps mindfulness is the practice of learning to detect which pilots are currently in control, which are vying for control, and perhaps achieving Enlightenment is being able to choose who is piloting. Perhaps one role of sleep is to ensure that no matter what there is at least one pilot rotation per day, to prevent any one pilot from becoming too powerful.
+
+If I've gotten across one thing to you so far, it should be that I am a complete amateur in neuroscience and have a lot to learn before I can write well on the topic. So let me postpone the question of whether the the theory is true and address the implications, to demonstrate why I think this is a valuable theory to investigate. As the saying goes: _All models are wrong. Some are useful_.
+
+Some Implications if the Brain Pilots Theory is True
+====================================================
+Let's assume the Brain Pilots Theory is true. Specifically, that there are multiple agents—networks of brainstuff—physically located in space, that are where consciousness happens. We could then explain some things in new ways.
+
+Creativity
+==========
+Perhaps creatives have a higher than average number of Brain Pilots and/or switch between them differently. There's a saying "if you want to go far, go together". Perhaps some creatives are able to go further than others because in a sense they aren't going alone——they have an above average population of internal pilots.
+
+I wonder if the norm in life is to pretty rapidly pilot swap, and if "Flow State" would be when instead you are able to have the same pilot running the show for an extended period of time.
+ https://en.wikipedia.org/wiki/Flow_(psychology)
+
+Attribution
+===========
+The words "I" and "You" are both in the top 20 most frequently used English words. It makes sense to use those when speaking of the physical actions of the human being—"he walked over there. She said this." However, statements of the form "I think..." might not be accurate, as thoughts would be more accurately attributable to agents in the brain. "I think" would always only be speaking for part of the whole. We have some evidence in our language of an awareness of these multiple-pilots: phrases like "My heart is saying yes but my brain is saying no".
+
+We also often categorize people as "bad" or "good". But that often serves as a bad model for predicting future behavior. Instead if you modeled a person as a collection of agents, you might find that it is not the person as a whole that you disapprove of, but certain of their agents (or perhaps it could be meta things, like their inability to form new agents, or too rapid agent switching).
+
+Truth
+=====
+If the Brain Pilots Theory is true, then it is almost a certainty that you'd have some agents that don't care about truth. So if you are an agent that does care about truth, it would be essential to not only be weary of lies and misdirection from external sources, but also from your internal neighbors. In the struggle for truth agents are the atomic unit, not a human.
+
+One thing I like about the Brain Pilots theory is that it provides a way to explain discrepancies. Like, how can a person be Catholic and an evolutionary biologist? With the Brain Pilots Theory, it's easy to see how they might have two distinct pilots who somehow peacefully coexist and alternate control.
+
+Consistency
+===========
+Should your pilots be loyal to each other, or pursue only their agenda? It's easy for your AwakePilot to say "I'm sorry I was wrong this morning, that was my TiredPilot". IIRC contracts aren't necessarily enforceable if someone's UnderTheInfluencePilot signed. But if you made a claim while angry, should you then later defend that after you've calmed down, or attribute it to a different agent? If your SocialPilot committed to an event but then when the hour comes around your IntrovertedPilot is in charge, do you still go? Do some pilots have different moralities? How do you deal with that?
+
+Mental Health
+=============
+If the Brain Pilots theory of the mind is true, then you could imagine the main levers a human has to control their life would be to grow new pilots, prune undesired pilots, and perhaps most importantly have more conscious control over what pilot was currently in charge.
+
+Similar to how we use multi-agent simulations to model epidemics, perhaps through brain imaging coupled with introspective therapy one might be able to build an agent map of all the brain pilots in someone's mind, and run experiments on that model to figure out more effective plans of attack.
+
+If the Brain Pilots Model holds, I'd be curious whether most mental health difficulties stem from undesirable pilots, or from the higher level problem of pilot switching. Perhaps folks higher on the introverted or self-centered scales have high populations of active pilots, and are low in time for others because they are metaphorically herding cats in their head.
+
+Quantified Self
+===============
+Current wearables track markers like heart rate, heart rhythm, body temperature, movement, perspiration, blood sugar, sleep, and so on, and even often have ways to manually input things like mood. If the Brain Pilots Theory is a useful model, you'd imagine that someone could build a collection of named Pilots and then align those biometrics to which pilot was in control. Then instead of focusing on managing the behaviors, one might operate upstream and focus on maximizing the time your desired pilots were at the wheel.
+
+Genius and Work Output
+======================
+Do geniuses have more pilots? Or fewer? Are they able to build/destroy pilots faster? How would the MathPilots differ between a Princeton Math Professor and an average citizen?
+
+Would productivity be more a product of having some exceptionally talented pilots, or the result of being able to stay with one pilot longer, or perhaps have a low population of bad pilots?
+
+People
+======
+The real population of Earth could be 8 trillion
+
+There are 1.4 billion cars in the world. Vehicle count is important, but more often we are concerned with how many agents are traveling in those vehicles, and that is 8 billion.
+ https://hedgescompany.com/blog/2021/06/how-many-cars-are-there-in-the-world/
+ https://www.worldometers.info/world-population/
+
+But if each human brain contains a population of brain pilots, then the Earth's population of agents would be far larger. If the average human has 10 brain pilots, then we are a planet with 80 billion agents. If the average is closer to 1,000 pilots per person, then there are 8 trillion consciousnesses around right now.
+
+Outliers
+========
+Are peoples lives most affected by their best agents, worst agents, average agent, median agent, inter agent communication, agent switching strategies, agent awareness, agent chemical milieu?
+
+Conclusion
+==========
+This post has so many questions, so few answers. It is one of those posts writing about things I don't understand much about yet. My brain pilots brain pilot is not yet very advanced.
+
+****
+
+Notes
+=====
+- Cover image derived from BrainFacts.org's 3D-Brain.
+ https://www.brainfacts.org/3d-brain
+- Palm image made from Elizabeth Nixon's Palm Study.
+ https://www.pinterest.com/pin/58335757660803584/
+- Perhaps consciousness is the logging agent and there is only one consciousness. Perhaps the brain pilots drive the show, and the consciousness records the log, but the consciousness is not able to see which pilot is driving.

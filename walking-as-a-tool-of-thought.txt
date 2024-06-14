@@ -1,0 +1,59 @@
+Walking and other invisible tools of thought
+============================================
+
+May 19, 2023
+
+There are tools of thought you can see: pen & paper, mathematical notation, computer aided design applications, programming languages, ... .
+
+And there are tools of thought you cannot see: walking, rigorous conversation, travel, real world adventures, showering, breathe & body work, ... ^chatgpt. I will write about two you cannot see: *walking* and *mentors inside your head*.
+
+***
+
+On walking
+==========
+Walking is one of the more interesting invisible tools of thought. It seems it often helps me get _unstuck_ on an idea. Or sometimes on a walk it will click that an idea I thought was done is missing a critical piece. Or I will realize that I had gotten the priorities of things wrong.
+
+Why is walking so effective?
+============================
+My bet is it has something to do with neural agents.
+ https://breckyunits.com/marvin-minsky.html
+
+Fatigue Theory
+==============
+Perhaps it's a muscle fatigue phenomena. When you are working on an idea a few _active agents_ in your brain have control. Those agents consist largely of neurons. Perhaps thousands of cells, perhaps many millions. Cells consume energy and create waste products. Perhaps like a muscle, the active agents become fatigued. Going for a walk hands control to other neural agents which allows the previously active agents to recuperate. After they are rested, they have a much better shot at solving the next piece of the puzzle.
+
+Change in Perspective Theory
+============================
+Or perhaps it's a change in perspective phenomena. It's not that the active agents are fatigued, it's that they are indeed stuck in a maze with no feasible way out. The act of walking gives control to other agents, who may not have such a deep understanding of the problem at hand but have a different vantage point and can see an easy-to-verify but hard-to-mine path^superdimensional. Alternatively you could call this the "Alan Kay quote theory" after the quote which claims that a change in perspective can be worth as many as _eighty_ IQ points.
+
+Connecting the Dots Theory
+==========================
+Going for a walk you see a large number of stimuli which perhaps cause many dormant agents in your brain to wake up. Some agents are required to solve a problem. Then on your walk at some point you come across a stimuli that wakes those required agents up. That is the epiphany moment.
+
+Would this mean that browsing the web could have a similar effect? I could somewhat see that but I think a random walk on the web exposes you to junk stimuli that activates less helpful agents too, making it often a net negative. This might be easy to test: get subjects stuck on a problem then have them go on "walks" of various kinds (nature, city, book reading, web browsing, video games, ...) and measure the time to epiphany.
+
+No-op Theory
+============
+Or perhaps walking doesn't actually do anything and it's just a correlation illusion. Walking is simply an alternative way to pass the time until your subconscious cracks the problem. It may feel better when the solution comes to you while on a walk, even though the time elapsed was the same, because not only did you solve the problem but you also got some exercise.
+
+***
+
+On Mentors Inside Your Head
+===========================
+Marvin Minsky mentions how he has "copies" of some of his friends inside his head, like the great Dick Feynman. Sometimes he would write an idea out and then "hear" Feynman say "What experiment would you do to test this?".
+ https://breckyunits.com/marvin-minsky.html
+ https://en.wikipedia.org/wiki/Richard_Feynman
+
+When I stop to think, I realize I have some friends whose voices I can hear in my head. Friends who have a great habit of asking the probing questions, finding and speaking the best challenge, helping me do my best work.
+
+Listening to certain podcasts—Lex Fridman's comes to mind—can have a similar effect. Though basic math shows it is an order of magnitude  more effective to find work  surrounded by people like this. It might take 10 hours of podcast listening to equate to 1 hour of real life back-and-forth with a smart mentor discussing ideas.
+ https://lexfridman.com/
+
+****
+
+Notes
+=====
+
+^chatgpt: I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
+
+^superdimensional: Probably something super-dimensional such as "you just need a ladder".

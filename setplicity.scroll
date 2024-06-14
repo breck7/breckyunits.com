@@ -1,0 +1,40 @@
+date 2012-11-20
+groups All Programming Thinking
+title Setplicity
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+"Is simplicity ever bad?" If you had asked me this a year ago, I probably would have called you a fucking moron for asking such a dumb question. "Never!", I would have shouted. Now, I think it's a fair question. Simplicity has it's limits. Simplicity is not enough, and if you pursue simplicity at all costs, that can be a bad thing. There's something more than simplicity that you need to be aware of. I'll get to that in a second, but first, I want to backtrack a bit and state clearly that I do strongly, strongly believe and strive for simplicity. Let me talk about why for a second.
+ dateline
+
+endSnippet
+
+# Why I love simplicity
+Simple products are pleasant to use. When I use a product, and it is easy to use, and it's quick to use, I love that. I fucking hate things that are not as simple as possible and waste people's time or mental energy as a result. For example, to file my taxes with the IRS, I cannot go to the IRS' website. It's much more complex than that. I hate that. It is painful. Complex things are painful to use. Simple things are pleasant to use. They make life better. This is, of course, well known to all good designers and engineers.
+
+Simple things are also more democratic. When I can understand something, I feel smart. I feel empowered. When I cannot understand something, I feel stupid. I feel inferior. Complex things are hard to understand. The response shouldn't be to spend a long time learning the complex thing, it should be to figure out how to make the complex thing simpler. When you do that, you create a lot of value. If I can understand something, I can do something. When we make things simpler, we empower people. Often times I wonder if being a doctor would only take 2 years if Medicine abandoned Latin terms for a simpler vocabulary.
+
+# Reaching the Limits of Simplicity
+This whole year, and well before that, I've been working with people trying to make the web simpler. The web is really complex. You need to know about HTML, CSS, Javascript, DNS, HTTP, DOM, Command Line, Linux, Web Servers, Databases, and so on. It's a fucking mess. It's fragmented to all hell as well. Everyone is using different languages, tools, and platforms. It can be a pain.
+
+Anyway, we've been trying to make a simple product. And we've been trying to balance simplicity with features. And that's been difficult. Way more difficult than I would have predicted.
+
+The thing is, simpler is not always better. A fork is simpler than a fork, knife, and spoon, but which would you rather have? The set is better. Great things are built by combining distinct, simple things together. If you took away the spoon, you'd make the set simpler, but not better. Which reminds me of that Einstein quote:
+
+quote
+ Make things as simple as possible, but not simpler.
+
+I had always been focused on the first part of that quote. Make things as simple as possible. Lately I've thought more about the second part. Sometimes by trying to make things too simple you make something a lot worse. Often, less is more, but less can definitely be less.
+
+People rave about the simplicity of the iPhone. And it is simple, in a sense. But it is also very complex. It has a large screen, 2 cameras, a wifi antenna, a GPS, an accelerometer, a gyroscope, a cell antenna, a gpu, cpus, memory, a power unit, 2 volume buttons, a power button, a home button, a SIM card slot, a mode switch, and a whole lot more. Then the software inside is another massive layer of complexity. You could try to make the iPhone simpler by, for example, removing the volume buttons or the cameras, but that, while increasing the simplicity, would decrease the "setplicity". It would remove a very helpful part of the set which would make the whole product worse.
+
+Think about what the world would be like if we only used half of the periodic table of elements--it would be less beautiful, less enjoyable, and more painful.
+
+Simplicity is a great thing to strive for. But sometimes cutting things out to make something simpler can make it worse. Simplicity is not the only thing to maximize. Make sure to balance simplicity with setplicity. Don't worry if you haven't reduced things to a singularity. Happiness in life is found by balancing amongst a set of things, not by cutting everything out.
+
+****
+
+import footer.scroll

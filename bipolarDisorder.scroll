@@ -1,0 +1,175 @@
+date 1/24/2024
+groups All BipolarEnergy
+title Focusing on Bipolar Disorder
+
+import header.scroll
+printTitle
+
+mediumColumns 1
+
+Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
+ dateline
+
+Bipolar disorder is a condition not yet understood, with no cure, and is predictive of disruptive behavior. So I very much understand why society discriminates against those with the label.
+ https://en.wikipedia.org/wiki/Bipolar_disorder Bipolar disorder
+
+I did not keep my diagnosis a secret maliciously, but genuinely remained unsure how to handle it, and ultimately, optimistically, believed I would figure the thing out. But—like a Greek tragedy—my efforts to avoid my fate perhaps led me faster to it. My mania in 2022 was at least twice as strong as anything I ever experienced. Things went KABOOM!
+
+image 7yearsSleepData.png
+ caption The past 7 years of mood swings, revealed accurately by sleep data. That sleep line nosediving in 2022 was bad. Real bad. HTML Version.
+  https://datawrapper.dwcdn.net/VP8AW/1/ HTML Version
+
+endSnippet
+
+# My Bipolar History
+I will recap the long history of my bipolar disorder below. Though diagnosis happened at 20, I can remember hypomanic episodes at least as early as 12, when I remember extended periods of euphoria. But I will start at the diagnosis.
+
+## Diagnosis
+Until I was 20, I had no clue something like "bipolar disorder" even existed. That year, 2004, was quite volatile for me. I started in a low mood and flunked out of my sophomore year at Duke University. Then, despite flunking out, I quickly reversed mood and felt better than ever. That lasted a number of months until the end of the year when I crashed again. Finally, reading about depression online, I came across a symptom checklist for this thing called "bipolar disorder". My jaw dropped. Here was a spot on description of the energy waves I had been experiencing all my life.
+
+## Family
+After I got the label, I returned home with my tail between my legs. Luckily my family was incredibly supportive. Bipolar disorder was a new term for them all as well, but they faced it with determination and showed me then, and ever since, the meaning of unconditional love. Looking back I see how I always was an outlier among my siblings (for example, I am the only kid in the family to have the "distinction" of being suspended from high school and thrown out of college). No question I would not be here if they had not supported me back then or many times in the intermediate years.
+
+## First Treatment
+In 2005 I saw a psychiatrist and therapist for the first time. My official diagnosis at the time was Bipolar II. My therapist, Steve, was great, and helped cheer me up. The first medication I was prescribed was Depakote. Soon I started noticing large amounts of hair coming out in the shower, which freaked me out, and my psychiatrist switched me to Abilify. I would remain on that for a number of months.
+
+## Military
+Having gotten kicked out of college I explored joining the military. I had always admired soldiers. I also thought the discipline and physical challenges would be good for my condition. I sailed through MEPS but then hit a roadblock. The military does not take people with bipolar disorder.
+ https://www.goarmy.com/how-to-join/steps/processing-station.html MEPS
+// I later read an interview with a top recruiter for the military where he stated in his whole career he had never heard of an exception being made for someone with bipolar disorder. However, in 2024 I read about a guy who had a bipolar diagnose but was able to get a special waiver after all. So perhaps it was possible.
+
+Fortunately, I was able to get a steady job waiting tables and was able to get re-accepted to Duke.
+
+## The first time I "cured" my Bipolar Disorder
+Unfortunately, the Abilify gave me terrible brain fog. I could barely do arithmetic, nevermind college level coursework. After a few weeks I realized there was no way I could stay on this medication and graduate. I viewed my choice as either keep taking the meds and flunk out for sure, or stop the meds and try and wing it. I stopped the meds.
+
+Almost immediately my brain fog lifted and I was able to think and do schoolwork again. But I knew I was not supposed to quit meds cold turkey like that. So I spent a lot of time journaling, looking at my history, to try and figure out what I could do to not experience mood swings again.
+
+I came up with a theory: compared to other people I seemed more able to quietly entertain myself. I got plenty of pleasure from just thinking and could easily waste hours day dreaming. I figured perhaps my problem was that my brain could generate its own neurochemical rewards by just imagining things, without actually accomplishing anything productive in the real world. I wrote "Be aware of brain chemicals. Be aware of dopamine". I came up with a mantra: "No pleasure from thinking, only physical action". I could take pleasure in a school task completed, or a friend helped, but would immediately cut off any imagined images in my mind.
+
+I repeated this mantra to myself over and over again. No day dreams. No watching shows. No pleasure reading. I kept myself busy with actions--attending all my classes with perfect attendance, getting all my school work done, spending time with friends and in physical activities.
+
+For a year, this worked! I excelled in college. The medication approach had failed, but I discovered a model and treatment that works! I even thought that my idea that bipolar disorder was caused by brains that could "self-pleasure" themselves could be a novel insight and maybe I could do an independent study and publish something. It's obvious now that my "cure" was just reinventing mindfulness.
+
+Unfortunately mindfulness was not a strong enough cure and I went hypomanic again in the summer of 2006. This was two years after my last hypomania and my first hypomania since diagnosis. It was followed by a crash, but then I managed to graduate, partly due to another hypomania in summer of 2007.
+
+## The second time I "cured" my bipolar disorder
+I had a new logic for the hypomania I experienced after graduation: my natural state was actually hyperthymic and it was simply because I was in school my whole life that I struggled. School was too constrictive for people with my kind of energy. This also turned out not to be accurate, and a big crash followed 2007's hypomania.
+ https://en.wikipedia.org/wiki/Hyperthymic_temperament hyperthymic
+
+## BPBio.com
+In 2008 wearables were not yet a thing but Blackberries were. By this time in my life I had developed some programming and statistics skills and thought maybe I could build something to help solve this problem not only for myself, but for other people. I figured with modern tools I could track more data than ever, and maybe find a real cure for my condition. I built an email and web app called BpBio.com that allowed me to manually log anything 24/7 by emailing [any-measure]@bpbio.com.
+ https://en.wikipedia.org/wiki/BlackBerry Blackberries
+
+Looking back, BPBio was actually pretty neat. It was minimal but very functional and better than many mood trackers out there today.
+
+Around this time, some college friends invited me to live with them in San Francisco. I said yes and planned to turn BpBio into a startup out there. But when I got there, I chickened out. I didn't tell a soul about BpBio. Literally, this is the very first time I've ever mentioned it. I decided instead to try and do something more lucrative and keep my bipolar disorder diagnosis a secret.
+
+image bpBio.png
+ caption A screenshot of BpBio.
+
+## The third time I "cured" my bipolar disorder
+From 2008 to 2014 my mood swings were less severe than the prior college years. I used BpBio for a long while but did not attribute my improved stability to that. Instead, I thought it was the fact that I had "found my people" in the house I lived in and the startup ecosystem of Silicon Valley.
+
+But in 2014 work brought me to Seattle and I experienced my worst depression since 2008. I guess I was not cured after all. For the first time in 6 years I again saw a therapist and took medication.
+
+## The fourth time I "cured" my bipolar disorder
+In November 2014 I started wearing a sleep tracker. Among other things, the sleep data revealed to me that even a small amount of alcohol would negatively affect my sleep. Looking back, I also realized that some of my dumber decisions were made when drunk.
+
+So I gave up drinking. I then experienced a prolonged period of stability. I felt like finally I had become the person I always wanted to be: not depressed and not _too_ happy. Finally I had it all figured out: no debt, a good career, tracking my sleep, exercising, no drinking, a great girlfriend, great friends and family, a great life. Bipolar disorder was finally in the rearview!
+
+Unfortunately, it was not cured and I had a mild manic episode in 2017. I wrote about this episode (originally anonymously) in the post Going Manic with a FitBit.
+ link going-manic-with-a-fitbit.html Going Manic with a FitBit
+
+## Medication
+My 2017 mania was followed by milder hypomanias in summer of 2019 and winter of 2020. During this period a pattern emerged. I would go to therapy and on Lithium and Lamictal when depressed. I then would abruptly stop medications for various reasons. And I would quickly cycle up.
+
+Looking back on it now, I see the incredible danger from rapidly stopping things like lithium. I simply did not have the knowledge of how lithium can prime your brain to launch into record setting manias if abruptly stopped. I expect I will write more about this in the future. But, for now I'll just mention that I stopped lithium in July of 2022.
+
+## The fifth time I "cured" my bipolar disorder
+On August 20th, 2022, I wrote in my journal, "First he comes for your sleep. I can see how it sneaks up on you. Slept really poorly last night. Feel very tired right now."
+
+Days later, at 4:34am on August 24th I wrote "Knocking on the door of hypomania. I am more vigilant this time, I hope."
+
+By August 28th I was hypomanic and by September 1st I was in what would be the worst manic episode of my life. I have already written a bit about this in the post A Manic Startup and I'm sure I'll write more about it later.
+ link a-manic-startup.html A Manic Startup
+
+For now, the thing I want to mention is that this time once again I thought I was over bipolar disorder. I decided that my real problem over the years was not believing in myself, and taking the word of doctors that I had this terrible condition bipolar disorder. I decided instead that I really was hyperthymic. I believed that the thing I screwed up before was my breathing. Someone with energy like me required a lot of oxygen and I needed to make sure I was increasing my lung capacity. I believed I could maintain my hyperthymic temperament indefinitely-never falling back into depression-if I just did strong breathing exercises to keep my lung capacity maximized. Once again, this "cure" turned out to be short lived.
+
+# Summarizing
+So about twenty years after diagnosis, I have not gotten a handle on these energy swings. Five times I tried to pretend like I could stop worrying about it thanks to:
+
+1. Mindfulness
+2. Belief in Hyperthymia
+3. California/living with like minded people
+4. Sleep tracking + no drinking
+5. Breathing (and believing in hyperthymia again)
+
+While some of these have been very helpful, none of them was a cure.
+
+# Episode Frequency
+These are the major bullet points in my bipolar history. In the chart at the top of this page you can see 4 high episodes and 4 low episodes in 7 years. This frequency has been roughly the same since at least age 12. Thus at age 39 I've probably had 15-20 up spans and 15-20 down spans. It's been a roller coaster.
+
+The period for me--the time for a complete cycle from hypo to depressed to hypo again--is about 18 months. The downside of these long cycles is that I could try a new treatment and have no major episodes for 2 years and that would be little evidence that the treatment worked, because it could have also just happened by chance.
+
+# Frustration with Science and Medicine
+Bipolar disorder has been a constant, dominant term in the equation of my life. So although I am amazed by modern science and medicine, I am also disappointed in it, as twenty years after diagnosis expected prognosis hasn't changed.
+
+Besides participating in as many studies as I can, I have spent a lot of my career trying to improve things. BPBio was openly aimed at bipolar disorder, but in fact nearly all my work has been secretly motivated by my battle with this condition and my attempts to try new things to help science and medicine solve this. My work on Ohayo was motivated by my belief that better data tools could help scientists and patients. My efforts on public domain issues is motivated by my belief (perhaps incorrect) that paywalled science slows things down. My work on TrueBase and the BrainDB prototype was motivated by thinking perhaps a new kind of symbolic model could help solve this.
+ link ohayo.html Ohayo
+ https://braindb.com BrainDB
+
+# The Latest
+Personally I am now 3 months into trying a ketogenic diet as a treatment for bipolar disorder. I think it holds promise as a treatment, but more than that I think it may help us triangulate the biological mechanisms driving mood episodes. The metabolic theories of bipolar disorder seem to be making rapid progress in an area that otherwise hasn't seen much. Lately I have been trying to get caught up on all the research. I've been taking copious notes about everything from glutamate to the Krebs cycle to Oxidative Stress.
+ link bipolarKeto.html ketogenic diet as a treatment for bipolar disorder
+ https://en.wikipedia.org/wiki/Citric_acid_cycle Krebs cycle
+ https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter) glutamate
+ https://en.wikipedia.org/wiki/Oxidative_stress Oxidative Stress
+
+It seems like there is a new boom in funding for bipolar disorder research. BD², funded by the Brin, Dauten, and Baszucki families, is funding a large number of very exciting projects. I hope to write more about a number of them.
+ https://www.bipolardiscoveries.org/ BD²
+ https://www.bipolardiscoveries.org/funding/grantees/ projects
+
+I recently was able to be a participant in one of the newer bipolar research studies going on. I got lots of cool data like the image below, and it only required time, many blood draws, and my first arterial line!
+ https://en.wikipedia.org/wiki/Arterial_line arterial line
+
+image brainScan.jpg
+ caption A still from a scan of my brain. Somewhere in there lies the problem...I think. In late 2023 I participated in a research study and for the first time got scanned with MRI, fMRI, MRS, PET, and EEG machines.
+  https://en.wikipedia.org/wiki/Magnetic_resonance_imaging MRI
+  https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging fMRI
+  https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy MRS
+  https://en.wikipedia.org/wiki/Positron_emission_tomography PET
+  https://en.wikipedia.org/wiki/Electroencephalography EEG
+
+It gives me hope that there are so many smart, caring, hard working people trying to figure this thing out. I will do my best to contribute in any and every way I can. I've learned if we don't neutralize bipolar disorder, it will neutralize me.
+
+****
+
+# Appendix: Table of start of elevated energy episodes
+spaceTable
+ Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
+ 2024    ✅ No No
+ 2023    ✅ No No
+ 2022 August 4 PL ✅ Partial No
+ 2021    ✅ Partial No
+ 2020 November 1 PD ✅ Partial No
+ 2019 May 1 TL ✅ Partial No
+ 2018    ✅ Yes No
+ 2017 June 3 TN ✅ No No
+ 2016 January 1 OH ✅ No Yes
+ 2015    ✅ No Yes
+ 2014    ❌ No No
+ 2013 May 1 IN ❌ No No
+ 2012    ❌ No No
+ 2011 March 3 NP ❌ No No
+ 2010    ❌ No No
+ 2009 December 1 BB ❌ No Yes
+ 2008 September 1 PS ❌ Partial No
+ 2007 July 3 SM ❌ Partial No
+ 2006 July 2 SY ❌ No Yes
+ 2005    ❌ Partial No
+ 2004 June 3 IF ❌ No No
+ 2003 August 2 MD ❌ No No
+ 2002 October 1 AP ❌ No No
+
+import footer.scroll

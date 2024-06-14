@@ -1,0 +1,45 @@
+date 2021-05-07
+groups All Writing
+title Some old blogs
+
+import header.scroll
+printTitle
+thinColumns 2
+
+I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
+ dateline
+
+endSnippet
+
+// idea:
+ - would be nice to define a wayback extension to Scroll so ^wayback link would generate one of these super links and autopopulate the label text with the month/year.
+ - would only make sense if it were much easier to define wraps/macros in grammar
+
+# August 2007 - Running Wordpress on my own domain
+It looks like I registered breckyunits.com on August 24th, 2007. It appears I used Wordpress <a class="wayback" href="https://web.archive.org/web/20070907182730/http://www.breckyunits.com/">SEP 2007</a>. There's a Flash widget on there. The title of the site is "The Best Blog on the Internet". I think it was a good joke. I had just recently graduated college, and had not yet moved to the West Coast.
+
+# July 2009 - Two years of Wordpress
+About two years later, my Wordpress blog had grown to many pages <a class="wayback" href="https://web.archive.org/web/20090713043922/http://breckyunits.com/">JUL 2009</a>.
+
+# August 2009 - Switched to Posterous
+Looks like I started transitioning to a new site <a class="wayback" href="https://web.archive.org/web/20090813063739/http://breckyunits.com/">AUG 2009</a> , and moved my blog from my own server running Wordpress to posterous <a class="wayback" href="https://web.archive.org/web/20130307210904/http://breck7.posterous.com/">MAR 2013</a>.
+
+After I moved to posterous, I put up this homepage <a class="wayback" href="https://web.archive.org/web/20091103021126/http://www.breckyunits.com/">SEP 2009</a>.
+ link oldHomepage/ homepage
+
+# December 2009 - Switched to Brecksblog
+In December 2009 I wrote my own blog software called <a href="https://github.com/breck7/brecksblog">brecksblog</a>. Here's what my new site looked like <a class="wayback" href="https://web.archive.org/web/20091204020806/http://breckyunits.com/">DEC 2009</a>.
+
+I kept it simple. My current homepage now powered by Scroll evolved from brecksblog.
+ https://breckyunits.com homepage
+ https://scroll.pub Scroll
+
+# December 2009 - My "Computer science" blog
+It looks like I also maintained a programming blog from December 2009 to January 2012 <a class="wayback" href="https://web.archive.org/web/20120531162851/http://breckyunits.com/code/">MAY 2012</a>. Here is that blog migrated to Scroll.
+ link code/ that blog
+
+css .wayback{vertical-align: baseline;position: relative;top: -0.6em;font-size: 8px;}
+
+****
+
+import footer.scroll

@@ -1,0 +1,60 @@
+Wisdom: a Tiny Language for Great Advice
+========================================
+
+May 6, 2021
+
+I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.
+
+🥠 Reading is to the mind what exercise is to the body.
+
+🥠 Talking to users is the most important thing a startup can do.
+
+Here are two similar pieces of advice written in Wisdom:
+
+🔬 In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
+Charlie Munger
+
+🔬 I don't know of a single case of a startup that felt they spent too much time talking to users.
+Jessica Livingston
+
+If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.
+
+But all things considered, the FortuneCookie versions are worthless compared to the Wisdom versions.
+
+✒️ Wisdom is a short piece of advice that is backed by a large dataset, is clear and easily testable.
+
+Like FortuneCookie, Wisdom is some advice that can change your perspective or guide your decision making. No difference there.
+
+Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example, in 2009 I wrote:
+ https://breckyunits.com/twelve-tips-to-master-programming-faster.html
+
+🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
+
+Ten years later, after gathering data I can now write:
+ https://github.com/breck7/30000hours
+
+🔬 The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
+
+Even though the message is the same, the latter introduces a dataset to the problem. More importantly, it is instantly testable.
+
+Wisdom can't just be the inclusion of a dataset. Without the testability, Munger's quote would be FortuneCookie:
+
+🥠 I've met hundreds of wise people who read all the time
+
+That's not the clearest advice. It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing. The quote above leaves it ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
+
+Sometimes you see a FortuneCookie idea evolving into Wisdom, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
+
+🔬 If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
+Marc Andreessen
+
+Coming up with great pieces of Wisdom is hard. Like a good Proof of Work algorithm, Wisdom is hard to generate and easy to test. I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't come up with any. I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't think of any.
+
+If you have great experience, I urge you to not put it out there in the form of FortuneCookie, but chew on it until you can form it into Wisdom. These are very valuable contributions to our common blockchain.
+
+****
+
+Notes
+=====
+
+^hours: There are a lot of programmers who have 10,000 hours of experience that I respect a lot and enjoy working with, but the ones I study the most are the ones who stuck with it (and also just lucky enough to live long lives).

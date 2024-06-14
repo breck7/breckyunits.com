@@ -1,0 +1,131 @@
+Patch: a micro language to make pretty deep links easy
+======================================================
+May 27, 2024
+
+Patch is a tiny Javascript class (1k compressed) with zero dependencies that makes pretty deep links easy.
+
+Patch can be used with both:
+
+- ?queryStrings
+- #hashStrings
+
+Patch handles encoding and decoding for you, and makes your deep links pretty, so you don't have to think about it.
+
+Example
+=======
+This object:
+{
+  "countries": [
+    "Canada",
+    "France"
+  ],
+  "selection": "France"
+}
+Becomes `countries=Canada=France&selection=France` (and vice versa).
+
+How to use
+==========
+1. Include patch.js or just copy/paste the code:
+ https://breckyunits.com/patch.js
+
+2. Give your Javascript object to Patch, and it will give you the prettiest query string it can make:
+
+window.location.hash = new Patch(
+{
+  "countries": [
+    "Canada",
+    "France"
+  ],
+  "selection": "France"
+}
+ ).uriEncodedString
+
+3. Give Patch a query string, and it will give you back your Javascript object:
+
+console.log(new Patch(window.location.hash).object)
+
+***
+
+Specification
+=============
+*They key idea of Patch is to think of your query params as a spreadsheet.*
+
+Then Patch encodes and decodes that spreadsheet.
+
+A Patch object has 4 forms:
+1. Spreadsheet Form
+===================
+countries	Canada	France
+selection	France
+
+2. URI form
+===========
+countries=Canada=France&selection=France
+
+3. Object Form
+==============
+{
+ "countries": ["Canada", "France"],
+ "selection": ["France"],
+}
+
+4. Matrix Form
+==============
+[
+ ["countries", "Canada", "France"],
+ ["selection", "France"],
+]
+
+Delimiters
+==========
+Patch requires 2 delimiters, one for separating "rows" and one for separating "columns".
+
+The default is `&` for rows and `=` for columns.
+
+You can change these to suit your own needs.
+
+Spaces
+======
+Patch encodes spaces to `+` instead of `%20` and uses the standard encoding of `+` to `%2B`.
+
+URI Encoding
+============
+String inputs to the Patch constructor are assumed to be encoded and will be decoded before parsing. Similarly the string output is always encoded.
+
+Scalar Types
+============
+Patch treats all scalars as strings. Do a just-in-time parse of numbers, booleans, or JSON values if needed.
+
+***
+
+Why Patch?
+==========
+QueryStrings can be thought of as a domain specific language for describing this structure:
+
+type QueryStrings = Omit
+Map
+
+- QueryStrings has one very restricted string type and a simple map type.
+- QueryStrings arguably adds little to no value on top of just a single string.
+- QueryStrings requires you encode and decode each map pair separately.
+- JSON is an alternative to Patch, except after uriEncoding JSON you lose almost all human editability in query strings.
+
+Some benefits of Patch
+======================
+- Encode and decode your params just once.
+- Cleanly encodes arrays and nested structures.
+- Very easy to debug—it's just a patch!
+
+Live examples of Patch
+======================
+- This blog
+ https://breckyunits.com/search.html#q=patch
+- PLDB
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog
+
+History
+=======
+I made Patch in 2020 for Our World in Data.
+ https://ourworldindata.org
+
+This is an updated fork.

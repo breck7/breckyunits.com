@@ -1,0 +1,34 @@
+date 2009-04-14
+groups All Startups Programming
+related design-matters-a-lot
+title The Truth about Web Design
+
+import header.scroll
+printTitle
+thinColumns 1
+
+Here’s what I’m going to assume: craigslist, Google, and eBay do not have very pretty designs. How can a website be so successful if the design isn’t pretty? My position is that because design doesn’t matter a whole lot.
+ dateline
+
+endSnippet
+
+Utility and function matter a whole lot more. Why doesn’t design matter a whole lot? What would you rather look at:
+
+image computerScreenVersusView.jpeg
+ caption Computer Screen versus View. Image source.
+  https://readwriteroam.blog/for-roamers/ Image source
+  // Note: the original image was different but couldn't find it when importing this post 15 years later.
+
+Imagine trying to compete with nature. My premise is that you go to a website for the utility of it. Design is far secondary. There are plenty of prettier things to look at in the real world. Of course, you can make a website that is pretty to look at, that people will love spending time on. The way to do that is to make it look like the real world: Facebook photos, YouTube videos, etc. People will spend a lot of time on those sites because pictures and videos look pretty. But if you make a website with a whole lot of utility, design is secondary.  (And if your goal is to make a website that sells something instead of providing a service–then sometimes ugly designs win–in that case the trick is to try a lot of variation to see what works).
+
+****
+
+# Related Posts
+relatedList
+
+import importedNote.scroll
+
+Original post
+ https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-startups/2009/04/14/the-truth-about-web-design/
+
+import footer.scroll

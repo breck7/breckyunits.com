@@ -1,0 +1,13 @@
+date 2010-8-9
+groups index
+permalink kill-a-detached-rails-webrick-server.html
+title Kill a Detached Rails Webrick Server
+
+import pageHeader.scroll
+
+From your rails app's root:
+
+code
+ cat tmp/pids/server.pid
+ kill -9 {pid}
+import footer.scroll

@@ -1,0 +1,29 @@
+Learning How to Program Part I
+==============================
+
+`while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
+
+August 28, 2007
+
+I thought today I’d write my first post on programming. I have always been very passionate about computers, but to be honest my programming skills are embarrassingly weak. Mainly it’s because I haven’t spent any time developing them. Although I wrote my first webpage in 1996, it wasn’t until 2002 at Duke that I wrote my first computer program.
+
+Until I took Computer Science 6 that fall semester in 2002, computers were still pretty much a mystery to me. Luckily that class was a complete eye-opener and advanced me light-years ahead to where I wanted to be. Well, almost advanced me light years ahead. Unfortunately for my programming skills, I spent the next four years enjoying life and learning about non-digital things.
+
+Then during a trip to San Francisco in November of 2006, a number of friends, after discussing my career goals, strongly encouraged me to learn the technical stuff(thanks for the solid advice ya’ll, particularly Mareza). So I heeded their advice, and rather than enjoy my Friday afternoons during my Senior Spring Semester I learned how to count in binary, construct logic gates, and draw circuit diagrams in my first electrical engineering class. It wasn’t anything advanced, but it reignited my deep passion for the digital world.
+ https://web.archive.org/web/20081120161711/http://www.doostang.com/
+
+It’s funny, now that I’m out of school, I finally have time to learn. I couldn’t be more excited to have graduated college and to have stumbled into such a great opportunity with SeeMeWin. Now I have all day to program and learn new things with a terrific team of smart engineers.
+
+Besides learning on the job, I’m trying to spend time in new areas that normally I wouldn’t approach. Today for instance, I needed a break from the daily PHP grind today so I downloaded Eclipse(hadn’t used that since CompSci6) and started reacquainting myself with C++ and the whole “not-interpretted-at-run-time & statically typed” thing. Not a huge fan of C++ I must say. I know programs in C++ would execute faster, would probably be necessary in order to scale a high traffic site(unless servers could just be added), and there are a whole ton of cool libraries that can be used, but can someone tell me if there’s a good reason to spend much time learning something like C++? It seems between PHP, Python, JavaScript, and Flash, I can pretty much create everything I would need to create. And with the price of equipment falling, and the interpreters of these languages getting more optimized themselves, is there a good reason to learn C++ well? I know I’m probably wrong, so I’d like to defer to some people with more knowledge than I.
+
+So after brashly deciding C++ was outdated, I opted instead to fiddle with Ruby. So far, I’m pretty impressed. Stay tuned as I expect to write my first side project with Rails sometime within the next month or two.
+
+–Breck
+
+****
+
+Note: I imported this post from my original Wordpress blog.
+ https://breckyunits.com/some-old-blogs.html
+
+Original post
+ https://web.archive.org/web/20081120161711/http://www.breckyunits.com/programming/2007/08/28/learning-how-to-program-part-i/

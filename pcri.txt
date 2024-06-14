@@ -1,0 +1,76 @@
+PCRI
+====
+
+HTML | TXT
+ https://breckyunits.com/pcri.html
+ https://breckyunits.com/pcri.txt
+
+by Breck Yunits
+
+May 31, 2024
+
+Yesterday, on a plane, I found an equation I sought for a decade.
+
+P = {C^R}^I
+
+PCRI describes a symbolic notation.
+
+PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters, words, or bits), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
+
+If you view the source code of this post, you will see *C, R, and I* in action.
+ https://github.com/breck7/breckyunits.com/blob/main/pcri.scroll
+
+***
+
+PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another notation(s) might be found with superior metrics, but I have yet to see it.
+ https://scroll.pub
+
+PCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
+
+***
+
+59 days ago I announced the decade long Scroll Notation research endeavor over with a negative result.
+ https://breckyunits.com/treeNotationFinalReport.html
+
+It looks like I was wrong again. There was something special about Scroll Notation, and PCRI explains what that is.
+
+_It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Scroll Notation doesn't even have parentheses!_
+
+And yet, the experimental evidence kept piling up.
+ https://breckyunits.com/scrollsets.html
+
+The evidence hinted at some important natural formula, and now we have a name for it: PCRI.
+
+****
+
+Notes
+=====
+
+^treeNotationNameChange: Scroll Notation was originally named Tree Notation.
+
+***
+
+It may help to explain from another angle. Imagine your boss comes up to you and says "We are giving you a special assignment. We want you to come up with the best possible syntax for all programming languages." What do you come up with?
+
+You can present them with Scroll Notation, and explain how it supports a vast universe of programs, $P = {C^R}^I$, with just three syntax rules:
+- lines split into columns via bits, characters or words
+- groups of lines joined to each other via newlines
+- scopes established via the indent trick (aka the "Offiside Rule", popularized by Python, HAML, et cetera)
+
+***
+
+- Does PCRI also describe S-Expressions? S-Expression Notation works. Scroll Notation _barely_ works.
+- As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
+- I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
+- Now, back to my vacation.
+
+Related Posts
+=============
+- Final Tree Notation Report (2024)
+ https://breckyunits.com/treeNotationFinalReport.html
+- 2019 Tree Notation Annual Report (2020)
+ https://breckyunits.com/tree-notation-annual-report-2019.html
+- Show HN: Programming is Now Two-Dimensional (2017)
+ https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+- Introducing Note (2012)
+ https://breckyunits.com/introducing-note.html

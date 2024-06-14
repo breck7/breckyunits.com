@@ -1,0 +1,70 @@
+SEO Made Easy: LUMPS
+====================
+
+December 15, 2009
+
+The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
+
+Just remember LUMPS:
+
+- *L*inks
+- *U*urls
+- *M*etadata
+- *P*age Content
+- *S*itemaps
+
+These are the things you need to focus on in order to improve your SEO. You should also, of course, first know what terms you want to rank highly for.
+
+LUMPS is listed in order of importance to search engines. So links are most important, sitemaps are least important.
+
+Let's break each one down a bit more.
+
+Links
+=====
+External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
+
+1. Quality. A link from CNN.com is worth order(s) of magnitude more than a link from my blog. A link from a related source, like from ESPN.com to a sports blog, would likely be better than from an unrelated source.
+ https://breckyunits.com/orders-of-magnitude.html
+
+2. Quantity. Even though quality is most important, a lot of inbound links help.
+
+3. Anchor Text. You want links with relevant anchor text. Jellyfish tanks is better than click here.
+ http://www.jellyfishart.com
+ http://www.jellyfishart.com
+
+Your internal link structure is also important. Make sure your site repeatedly links to the pages you are optimizing for.
+
+External links are the most important thing you need for SEO. Internal links you can easily control, but it takes time to accumulate a lot of quality external links. Focus on creating quality content(or even better, build a User Generated Content site). People will link to interesting content.
+
+URL Structure
+=============
+The terms you are optimizing for should be in your urls. It's even better if they are in your domain. For instance, if I'm optimizing for "breck yunits", I've done a good job by having the domain name breckyunits.com. If I'm optimizing for the term "seo made easy", ideally I'd have that domain. But I don't, so having breckyunits.com/seo_made_easy is the next best thing.
+
+Luckily, URL Structure is not just important, it's also relatively easy to do well and you can generally set up friendly URLs in an hour or so. I could explain how to do it with .htaccess and so forth, but there are plenty of articles out there with more details on that.
+
+Metadata Content
+================
+Your TITLE tags and META DESCRIPTIONS tags are important for 2 reasons. First, search engines will use the content in them to rank your pages. Second, when a user sees a search results page, the title and description tags are what the user sees. You need good copy that will increase the Click Through Rate. Think of your title and description tags as the Link Text and Description in an AdWords ad. Just as you'd optimize the AdWords ad, you need to optimize this "seo ad". Make the copy compelling and clear.
+
+Like URL structure, you can generally set up a system that generates good meta and description tags relatively easily.
+
+Page Content
+============
+Content is king. If you've got the other 3 things taken care of and you have great content, you're golden. Not only will great content please your visitors, but it will likely be keyword rich which helps with SEO. Most importantly, it is much easier to get links to valuable, interesting content than to bad content. Figure out a way to get great content and the whole SEO process will work a lot better.
+
+Sitemaps
+========
+Sitemaps are not the most crucial thing you can do, but they help and are an easy thing to check off your list. Use Google Webmaster tools and follow all recommendations and submit links to your sitemaps.
+
+Summary
+=======
+There you have it, SEO made easy! Just remember LUMPS.
+
+****
+
+Links
+=====
+- Google WebmasterTools
+ https://www.google.com/webmasters/tools
+- SEOBook - one of the best SEO sites out there.
+ https://www.seobook.com

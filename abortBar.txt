@@ -1,0 +1,30 @@
+Abort Bars
+==========
+A Suggested Improvement to Progress Bars
+========================================
+
+May 24, 2024
+
+When I was a programmer at Microsoft I participated in a lot of internal betas.
+
+So I saw a lot of animated "progress" bars in software that was actually hung.
+
+_I bet you could invent a better progress bar_, I thought.
+
+But life went on and I forgot.
+
+***
+
+Yesterday my FitBit app showed an animated progress bar for hours. It turned out no progress was being made—the phone had no Internet connection.
+
+But it made me remember my progress bar idea!
+
+Every time someone starts a long task, measure the duration and end result. Then you have the data to render a progress bar like the one above.
+
+The green and red areas show tasks completions and aborts.
+
+The moving line shows elapsed time.
+
+The color of the moving line shows the odds that a task will succeed, given the amount of time passed.
+
+It helps your users decide: should I wait or abort?

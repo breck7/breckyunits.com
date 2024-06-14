@@ -1,0 +1,172 @@
+A New Way to Store Knowledge
+============================
+
+HTML | TXT | PDF
+ https://breckyunits.com/scrollsets.html
+ https://breckyunits.com/scrollsets.txt
+ https://breckyunits.com/scrollsets.pdf
+
+by Breck Yunits
+May 21, 2024
+
+All tabular knowledge can be stored in a single long plain text file.
+
+The only syntax characters needed are spaces and newlines.
+
+This has many advantages over existing binary storage formats.
+
+Using the method below, a very long scroll could be made containing all tabular scientific knowledge in a computable form.
+
+***
+
+There are four concepts to understand:
+- measures
+- concepts
+- measurements
+- comments
+
+Measures
+========
+First we create measures by writing parsers. The parser contains information about the measure.
+
+The only required information for a measure is an id, such as `temperature`.
+
+An example measure:
+
+temperatureParser
+
+Concepts and Measurements
+=========================
+Next we create concepts by writing measurements.
+
+The only required measurement for a concept is an id. A line that starts with an id measurement is the start of a new concept.
+
+A measurement is a single line of text with the measure id, a space, and then the measurement value.
+
+Multiple sequential lines of measurements form a concept.
+
+An example concept:
+
+id Earth
+temperature 14
+
+Comments
+========
+Unlimited comments can be attached under any measurement using the indentation trick.
+
+An example comment:
+
+temperature 14
+ > The global mean surface air temperature for that period was 14°C (57°F), with an uncertainty of several tenths of a degree.
+  - NASA
+   https://earthobservatory.nasa.gov/world-of-change/global-temperatures
+
+***
+
+The Complete Example
+====================
+Putting this all together, all tabular knowledge can be stored in a single plain text file using this pattern:
+idParser
+temperatureParser
+
+id Earth
+temperature 14
+ > The global mean surface air temperature for that period was 14°C (57°F), with an uncertainty of several tenths of a degree.
+  - NASA
+   https://earthobservatory.nasa.gov/world-of-change/global-temperatures
+***
+
+Once your knowledge is stored in this format, it is ready to be read—_and written_—by humans, traditional software, and artificial neural networks, to power understanding and decision making.
+
+Edit history can be tracked by git.
+
+***
+
+A Visualization
+===============
+
+[Image Omitted]
+ Blue dots are measure ids. The first blue dot is a measure definition (aka a parser). The red dot is a measurement value. The blue-red pair is a measurement, as well as a concept. The cyan dot is a comment. View Source
+  https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment
+
+***
+
+Prior Art
+=========
+Modern databases^sql were designed before git^git, fast filesystems^apple, and the Scroll stack^scrollStack, all requirements of this system.
+
+GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
+ https://www.gnu.org/software/recutils/
+
+***
+
+Initial Implementation and Experimental Evidence
+================================================
+ScrollSets is the name of the first implementation of the system above. It is open source and dedicated to the public domain.
+ https://scroll.pub/
+
+ScrollSets are used to power the open source website PLDB.io. PLDB currently has over 300 measures, over 4,000 concepts and over 150,000 measurements, contributed by over 100 people, dozens of software crawlers, and a couple of artificial neural networks.
+ https://pldb.io
+
+If printed on a single scroll, the PLDB ScrollSet would be over one kilometer long.
+
+***
+
+Enhancements
+============
+- For pragmatic reasons, it is best to split your data into 1 file per concept and combine concept files at runtime.
+- The utility and joy of this system improves as your parser language improves. The parser language powering ScrollSets is currently called Grammar, and is largely influenced by ANTLR^antlr and Racket^racket.
+
+- It is _very_ helpful to have a `sortIndex` attribute on your measures to automatically prioritize^prettier the measurements in your source and output files. The impact of this simple enhancement hints at interesting signs of dense information packing achieved by this method, which may have implications for the weights and training of artificial neural networks.
+- Computed measures are measurements not stored statically, but derived at runtime from other measurements. They are very useful and easy to add with a few lines of parser code.
+- You generally always want to add a type attribute to your measures, which gives you error checking, among other things.
+- Measures can be nested. This means it is best to be restrictive in what characters are allowed in measure ids to integrate with a broad set of software tools. For example, you can nest a `minParser` under `temperatureParser` to generate a `temperature_min` column name in a generated TSV.
+- It is useful to have measures whose values are foreign keys, such as a list of `ids`.
+
+***
+
+Conclusion
+==========
+Measurements loosely map to nucleotides; concepts to genes; parsers to ribosomes.
+
+This system might also have broad use.
+
+You can read more about ScrollSets on the Scroll blog, see small demos at sets.scroll.pub, and see the large implementation at PLDB.io.
+ https://scroll.pub/blog/scrollsets.html
+ https://sets.scroll.pub
+ https://pldb.io
+
+***
+
+Citations
+=========
+^sql: SQL: Donald D. Chamberlin and Raymond F. Boyce
+ https://en.wikipedia.org/wiki/SQL
+^git: Git: Linus Torvalds, Junio Hamano, et al
+ https://en.wikipedia.org/wiki/Git
+^apple: M1: Apple
+ https://en.wikipedia.org/wiki/Apple_M1
+- The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
+ https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
+^scrollStack: Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
+ https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf
+^recutils: GNU Recutils: Jose E. Marchesi
+ https://www.gnu.org/software/recutils/
+- Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
+ - "difficult to manage hierarchies". Hierarchies are painless in our system through nested parsers, parser inheritance, parser mixins, and nested measurements.
+ - "tedious to manually encode...several lines". No encoding is needed in our system thanks to the indentation trick.
+ - In Recutils comments are "completely ignored by processing tools and can only be seen by looking at the recfile itself". Our system supports first class comments which are bound to measurements using the indentation trick.
+ - "It is difficult to manually maintain the integrity of data stored in the data base." In our system advances parsers provides unlimited capabilities for maintaining data integrity.
+^antlr: ANTLR: Terence Parr et al
+ https://www.antlr.org/
+^racket: Racket: Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Shriram Krishnamurthi, et al.
+ https://racket-lang.org/
+^prettier: Prettier: James Long et al
+ https://archive.jlongster.com/
+
+***
+
+Thanks
+======
+Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
+****

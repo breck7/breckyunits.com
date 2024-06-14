@@ -1,0 +1,10 @@
+date 2011-4-24
+groups index
+permalink wildcard-subdomains-with-godaddy.html
+title Wildcard Subdomains with GoDaddy
+
+import pageHeader.scroll
+
+Just create a new A Record with * as the host and your IP in the points to field.
+
+import footer.scroll

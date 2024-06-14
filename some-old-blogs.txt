@@ -1,0 +1,36 @@
+Some old blogs
+==============
+
+May 7, 2021
+
+I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
+
+August 2007 - Running Wordpress on my own domain
+================================================
+It looks like I registered breckyunits.com on August 24th, 2007. It appears I used Wordpress SEP 2007. There's a Flash widget on there. The title of the site is "The Best Blog on the Internet". I think it was a good joke. I had just recently graduated college, and had not yet moved to the West Coast.
+
+July 2009 - Two years of Wordpress
+==================================
+About two years later, my Wordpress blog had grown to many pages JUL 2009.
+
+August 2009 - Switched to Posterous
+===================================
+Looks like I started transitioning to a new site AUG 2009 , and moved my blog from my own server running Wordpress to posterous MAR 2013.
+
+After I moved to posterous, I put up this homepage SEP 2009.
+ https://breckyunits.com/oldHomepage/
+
+December 2009 - Switched to Brecksblog
+======================================
+In December 2009 I wrote my own blog software called brecksblog. Here's what my new site looked like DEC 2009.
+
+I kept it simple. My current homepage now powered by Scroll evolved from brecksblog.
+ https://breckyunits.com
+ https://scroll.pub
+
+December 2009 - My "Computer science" blog
+==========================================
+It looks like I also maintained a programming blog from December 2009 to January 2012 MAY 2012. Here is that blog migrated to Scroll.
+ https://breckyunits.com/code/
+
+****

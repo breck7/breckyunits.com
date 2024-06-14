@@ -1,0 +1,158 @@
+Hot Coffee
+==========
+
+Datasets are automated tests for world models
+=============================================
+
+by Breck Yunits
+
+April 23, 2024
+
+I wrapped my fingers around the white ceramic mug in the cold air. I felt the warmth on my hands. The caramel colored surface released snakes of steam. I brought the cup to my lips and took a slow sip of the coffee bean flavored water inside.
+
+Happiness is a hot cup of coffee in a ceramic mug on a cold day.
+
+But, like happiness, heat is fleeting.
+
+_How can I keep the coffee hot?_
+
+***
+
+I am using a free ceramic mug I got at a work conference.
+
+_That's the issue_.
+
+I pour my coffee into a ceramic mug I bought at HomeGoods.
+
+_Expensive mugs hold heat better._
+
+It gets cold anyway.
+
+***
+
+My hands can feel the heat rushing from the ceramic. It must be the material.
+
+_That's the issue_.
+
+I buy an insulated metal mug.
+
+_A better material than ceramic is the most important thing for holding heat._
+
+It gets cold anyway.
+
+***
+
+I combine my theories. I buy an expensive insulated metal mug.
+
+It gets cold anyway.
+
+_Wrong again_.
+
+***
+
+_Let me try a new approach._
+
+I go back to HomeGoods and buy a thermometer and stopwatch.
+
+I line up the 3 coffee mugs. Pour hot coffee in each.
+
+Every five minutes, I write down the temperature in each mug.
+
+I plot the data in a line chart.
+
+There are some differences, but they are minor.
+
+***
+
+"What are you doing?" my cousin asks.
+
+I explain the situation.
+
+"Try my mugs, they have covers", he says.
+
+I repeat the experiment and add the new data to my dataset.
+
+[Image Omitted]
+ The lab. I measured how long these 5 coffee mugs kept coffee hot.
+
+***
+
+The coffee in my cousin's covered metal mugs stays hot.
+
+_Materials *and covers* are the key_.
+
+***
+
+I still can't explain _why_.
+
+_What is heat?_
+
+I know I can build a much better model.
+
+But I have successfully discarded false models.
+
+And now I have a dataset to test all future models against.
+
+***
+
+Takeaways
+=========
+
+- *Datasets are automated tests for world models*.
+- Building datasets can be done first, orthogonal to models. What Test Driven Development is to programming, Dataset Driven Development is to science.
+ https://en.wikipedia.org/wiki/Test-driven_development
+- You can only hold so many concepts in your head at once, so automated testing from datasets helps more the more complex the system.
+- Beware stories lacking datasets!
+ https://breckyunits.com/dataset-needed.html
+- Also beware stories that start with true datasets but then discreetly (but swiftly) switch to false ones.
+- Love data sharers, beware data misers.
+- An ounce of good data is worth a pound of bad models.
+- An additional concept, measure, or measurement are all capable of triggering a huge leap toward a more accurate model.
+- Datasets are a useful, simple, and timeless tool to discover better models.
+- Datasets are particularly good at automating the identification of bad models.
+- Tabular UIs have superior ergonomics for humans because they allow more efficient eye movement and require fewer tokens to manage.
+- All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
+
+****
+
+Footnotes
+=========
+
+I took some narrative liberties above^liberties, but for accuracy and _fun_^fun, I really did this experiment.
+
+The Raw Data
+============
+[Image Omitted]
+ This is both a dataset on thermal dissipation and penmanship deficiency.
+
+The Data Visualized
+===================
+[Image Omitted]
+ Interactive version.
+  https://www.datawrapper.de/_/1hhse/
+
+The Typed Data
+==============
+
+Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
+1	Thermos	3	7.25	TRUE	149.9	147	144.6	141.2	138.2	137.1	134	132.8	131.1	129.3	127.2
+2	Yeti Covered	4	3.8	TRUE	146.6	141	136.7	132.5	129	125.6	123.4	121.6	118.5	117.6	115.7
+3	Yeti	4	3.8	FALSE	135.5	118.9	107.9	100.5	94.6	90.8	87.6	85.4	82.9	81.3	79.7
+4	SF	4	4.5	FALSE	128.8	113.9	102.5	95.9	90.5	86.3	83.6	81.6	79.8	78.2	76.6
+5	Aruba	3	3.75	FALSE	130.8	114.6	104.9	98.9	92.3	87.6	85.4	82.9	81.1	80.2	78
+
+The Best Model of Heat
+======================
+[Coming in a future post]
+
+Footnotes²
+==========
+^liberties: There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
+^fun: Everyone^datasetNeeded agrees making datasets at home is extremely fun.
+^datasetNeeded: Dataset needed.
+ https://breckyunits.com/dataset-needed.html
+
+Related Posts
+=============
+- Dataset Needed (2020)
+ https://breckyunits.com/dataset-needed.html

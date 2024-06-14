@@ -1,0 +1,13 @@
+importOnly
+description Posts on this blog categorized in CAT_TITLE.
+groups categoryPages
+openGraphImage screenshot.png
+title Breck's Blog - CAT_TITLE Posts
+
+import settings.scroll
+metaTags
+gazetteCss
+gazetteHeader
+printTitle
+import categoryLinks.scroll
+css html {font-size: var(--base-font-size, 8px);}

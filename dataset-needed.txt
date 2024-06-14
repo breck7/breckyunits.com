@@ -1,0 +1,50 @@
+Dataset Needed
+==============
+
+January 23, 2020
+
+People make biased claims all the time. A decent response used to be "citation needed". But we should demand more. Anytime someone makes a claim that seems biased, call them out with: *_Dataset needed_*.
+
+Whether it's an academic paper, news article, blog post, tweet, comment or ad, linking to analyses is not enough. If someone stops at that, demand a link to a clean dataset supporting the author's position. If they can't deliver, they should retract.
+
+Of course, most sources don't currently publish their datasets. *You cannot trust claims from any person or organization without an easily accessible dataset.* In fact, it's probably safe to assume when someone shares a conclusion without the accompanying dataset that they are distorting reality for their own benefit.
+
+Be a broken record: "Dataset needed. Dataset needed. Dataset needed."
+=====================================================================
+Encourage authors to link to and/or publish their datasets. You can't say _dataset needed_ enough. It is valuable, constructive feedback.
+
+Authors: support your arguments with open data
+==============================================
+Link to the dataset. If you want to include a conclusion, provide a deep link to the relevant query of the dataset. Do not repeat conclusions that don't have an accompanying dataset. If people can't verify what you say, don't say it.
+
+Software teams: make it easy for users to share deep links to queries over public datasets
+==========================================================================================
+Many teams are creating tools that make it easy to deep link to queries over open datasets, such as Observable, Our World in Data, Google Big Query, Wolfram Data Repository, Tableau Public, IDL, Jupyter, Awesome Public Datasets, USAFacts, Google Dataset Search, and many more.
+ https://observablehq.com/
+ https://ourworldindata.org/
+ https://cloud.google.com/bigquery/
+ https://datarepository.wolframcloud.com/
+ https://public.tableau.com/en-us/s/
+ https://idl.cs.washington.edu/
+ https://github.com/jupyterlab/jupyterlab
+ https://github.com/awesomedata/awesome-public-datasets
+ https://usafacts.org/
+ https://datasetsearch.research.google.com/
+
+Students: Learn to build and publish datasets
+=============================================
+I remember being a high school student and getting graded on our dataset notebooks we made in the lab. Writing clean data should be widely taught in school, and there's an army of potential workers who could help us create more public, deep-linkable datasets.
+
+****
+
+Notes
+=====
+Thanks to DL for helping me refine my thinking from this earlier post.
+ https://breckyunits.com/dreaming-of-a-data-checked-language.html
+
+Related Posts
+=============
+- Hot Coffee (2024)
+ https://breckyunits.com/datasets.html
+- Dreaming of a Data Checked Language (2020)
+ https://breckyunits.com/dreaming-of-a-data-checked-language.html

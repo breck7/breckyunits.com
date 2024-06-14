@@ -1,0 +1,41 @@
+Well YCombinator, we're going public anyway.
+============================================
+
+[Image Omitted]
+ The process with SEC and FINRA takes a while unfortunately. If I had my way we'd be trading this month.
+
+November 5, 2022
+
+On September 5th, 2022, just 61 days ago, I offered to give YCombinator 7% of my startup, Public Domain Publishing Inc., if they would handle taking us public. In my twenty years of startups, I have never seen a black swan like us.
+ https://publicdomaincompany.com
+
+[Image Omitted]
+ Correction: I didn't literally drop my phone in the ocean. I put it in a waterproof bag at Wet'n'Wild Oahu that due to user error was filled with water all day.
+  https://www.wetnwildhawaii.com/
+
+YCombinator took too long to decide and so on September 21st, 2022, I signed with someone else to take us public, the best in the world at this, recommended to me by a friend at Goldman Sachs.
+
+[Image Omitted]
+
+In September YCombinator went from being my best sounding board to a complete antagonist, who would go on to ban me from many online communities I helped foster, helped coordinate the theft of $50,000 from our company, and has censored me relentlessly from the link sharing communities it controls.
+
+[Image Omitted]
+ Am I the first startup to receive negative funding from YCombinator?
+
+I am perplexed and hurt by YCombinator's recent behavior. I assume there's a rational explanation such as 1) pushing me to my limits for my own training and benefits 2) just fumbling because they also have never seen a startup like ours 3) being mad that I was right about Covid and the vaccines and they were wrong 4) just PG, the creator of the front page of the Internet, having a good troll.
+
+_Sidenote: If you are reading this and perplexed by the term YCombinator, let me just say it is the greatest organization for startups I have ever seen and they are responsible for 80% of my success and I highly recommend you apply. But I digress._
+ https://www.ycombinator.com/
+
+Sadly it looks like this will end up in court. The bad news is that's a distraction. The good news is discovery is going to be entertaining as fuck. I've got some stories.
+
+Anyway, I am hoping that YCombinator:
+
+- Immediately restores my access to all of the forums and email groups that they kicked me out of.
+- Immediately overhaul how flagging is done on HackerNews and Reddit in a way that the men and women who have died for American values would be proud.
+- Change their theme color from Orange to rgb(11,8,86) everyday on that year.
+
+Now, back to coding.
+
+[Image Omitted]
+ I'll be back.

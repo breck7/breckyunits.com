@@ -1,0 +1,28 @@
+date 2010-2-21
+groups index
+permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
+title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
+
+import pageHeader.scroll
+
+I've been getting this error a lot in Cygwin on Windows 7:
+
+code
+ Could not resolve hostname X: Non-recoverable failure in name resolution
+
+It happens a lot when I run a deploy script or git push. Haven't found a solution yet, and am trying to track one down.
+
+The problem is this bug is hard to reproduce. It happens only 5-10% of the time.
+
+Edit #1:
+ <a href="http://technet.microsoft.com/en-us/library/bb727005.aspx">Helpful article from Microsoft on Host Name Resolution</a>
+
+Edit #2:
+ Upon closer examination, it seems this error only happens with ssh:
+
+code
+ ssh: Could not resolve hostname X: Non-recoverable failure in name resolution
+
+That's narrowed it down a bit but still no solution. Sadly because it only happens once or twice out of 10-20 times I run the "ssh" command, it's taking longer to pin down.
+
+import footer.scroll

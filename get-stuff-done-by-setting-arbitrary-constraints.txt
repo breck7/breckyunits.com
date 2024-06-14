@@ -1,0 +1,43 @@
+Get Stuff Done By Setting Arbitrary Constraints
+===============================================
+
+December 10, 2009
+
+Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints".
+
+Does it really matter if you learn about the American Revolution by Friday? No. Is there a good reason why you must increase your sales this month by 10%, versus say 5% or 15%? No. Does it really matter if you get a 4.0 GPA? No.
+
+But these constraints are valuable, despite the fact that they are arbitrary. _They help you get things done_.
+
+Constraints Help You Focus
+==========================
+Constraints, whether meaningful or not, simplify things and help you focus. We are simple creatures. Even the smartest amongst us need simple directions: green means go, red means stop, yellow means step on it. Even if April 15th is an arbitrary day to have your tax return filed, it is a simple constraint that gets people acting.
+
+Successful People Constantly Set Constraints
+============================================
+Successful people are good at getting things done. They focus well. Oftentimes they focus on relatively meaningless constraints. But they meet those constraints, however arbitrary. By meeting a lot of constraints, in the long run they hit enough of those non-arbitrary constraints to achieve success. Google is known for it's "OKR's"--objectives and key results--basically a set of arbitrary constraints that each employee sets and tries to hit.
+
+Entrepreneurs Must Set Their Own Constraints
+============================================
+If you start a company, there are no teachers or bosses to set these constraints for you. This is a blessing and a curse. It's a blessing because you get to choose constraints that are more meaningful to you and your interests. It's a curse because if you don't set these constraints, you can get fuddled. Being unfocused, _at times_, can be very beneficial. Having unfocused time is a great way to learn new things and come up with new ideas. However, to get things done you need to be focused. And the first step to get focused is to set some arbitrary constraints.
+
+A Specific Example
+==================
+Here are some specific constraints I set in the past week:
+
+1. Write 1 blog post per day.
+2. Create blogging software in under 100 lines of code.
+3. Have version 0.2 of blogging software done by 5pm yesterday.
+
+All of these are mostly arbitrary. And I have not met all of them. But setting them has helped me focus.
+
+When You Don't Meet Your Constraints
+====================================
+
+If you don't meet your constraints, it's no big deal. They're largely arbitrary anyway. Even by just trying to meet your constraints, you learn a lot more. You are forced to think critically about what you are doing.
+
+When you don't meet some constraints, set new ones. Because you now have more experience, the new ones might be less arbitrary.
+
+But the important thing is just having constraints in the first place.
+
+****

@@ -1,0 +1,30 @@
+HackerNews Data: Visits as a Function of Karma
+==============================================
+
+March 8, 2010
+
+If a post on HackerNews gets more points, it gets more visits.
+
+But how much more? That's what Murkin wanted to know.
+ http://news.ycombinator.com/item?id=1175277
+
+I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
+
+Here's how it looks if you plot visits by karma score:
+
+[Image Omitted]
+
+The Pearson Correlation is high: 0.894. Here's the raw data:
+
+Karma Visits Page
+53 3389 /twelve_tips_to_master_programming_faster
+54 2075 /code/use_rsync_to_deploy_your_website
+54 1688 /unfeatures
+34 1588 /flee_the_bubble
+25 1462 /make_something_40_of_your_customers_must_have
+14 1056 /when_forced_to_wait_wait
+4 214 /diversification_in_startups
+1 146 /seo_made_easy_lumps
+1 36 /dont_flip_the_bozo_bit
+
+****

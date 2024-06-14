@@ -1,0 +1,37 @@
+An Angel Investor's Data
+========================
+
+September 1, 2022
+
+There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:
+
+[Image Omitted]
+ Sigh. I am sharing my data as a png. We need a beautiful plain text spreadsheet language.
+
+Bottom line
+===========
+I left my job at big company in 2016 and since then my average after tax annual take home has been $91,759. As you can see from my data, a single change could have dropped that to $0. I have worked at two non-profits since I left big company, so I have had other smaller sources of income. It was years before I get any return and there was a time where I thought I might go bust.
+
+Dumb Luck
+=========
+At first I took myself seriously and thought I would be one of those smart "value add" investors. I am not. I have little idea what I'm doing. The one investment I made that did well pivoted to a very different idea than what they started with, in a domain I knew a lot less about. I sent them a lot of bad ideas. Luckily I don't think they followed any of them. At some point I changed my pitch to _I'll be there for the comic relief_.
+
+Counting my blessings, moving on
+================================
+Last year I explored making a career of being a full time angel. I do love building things with great teams and it's fun to parallelize. But the pull from programming and science is too strong. I still will send bad ideas to the companies I invested in for many years, I hope, but going to keep this part-time. My focus is back to writing code. It's not good luck if you don't do something good with it.
+
+Of course, there are a few exceptions here and there. I love sites like Angel List, WeFunder, Republic, et cetera, where I can make impulse investments and don't have to deal with useless forms. If there's one thing I hate, it's useless forms.
+
+Gratitude
+=========
+Angel investing changed my life. Not just because of the returns, but for getting to witness deeply personal trials and tribulations from many entrepreneurs over many years. Although I personally didn't improve the trajectory of any of the companies I've worked with, they have improved my life. And they are all doing great things to improve the world. If you are a founder I invested in reading this: _thank you_.
+
+$5,000 investments
+==================
+I included only the investments I made where I wired $10,000 or more. That is 17. I made lots of smaller bets but those don't change the dataset much. My one piece of advice if you're getting in this game is to make as many investments as you can of small sizes to increase your learning rate.
+
+****
+
+Reading List
+============
+More posts in the category of Angel Investors publishing data:

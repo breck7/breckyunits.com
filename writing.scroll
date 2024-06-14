@@ -1,0 +1,5 @@
+replace CAT_TITLE Writing
+
+import categoryPage.scroll
+snippets Writing
+import footer.scroll

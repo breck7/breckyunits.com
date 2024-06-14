@@ -1,0 +1,26 @@
+{
+  "name": "breckyunits.com",
+  "version": "1.0.0",
+  "description": "Breck's Blog.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/breckyunits.com.git"
+  },
+  "author": "Breck Yunits",
+  "scripts": {
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
+  },
+  "bugs": {
+    "url": "https://github.com/breck7/breckyunits.com/issues"
+  },
+  "homepage": "https://breckyunits.com",
+  "dependencies": {
+    "scroll-cli": "^95.0.0"
+  },
+  "devDependencies": {
+    "tap": "^15.0.1"
+  }
+}

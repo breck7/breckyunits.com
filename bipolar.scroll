@@ -1,0 +1,5 @@
+replace CAT_TITLE Bipolar Energy
+
+import categoryPage.scroll
+snippets BipolarEnergy
+import footer.scroll

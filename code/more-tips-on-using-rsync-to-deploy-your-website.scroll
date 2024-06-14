@@ -1,0 +1,36 @@
+date 2010-2-3
+groups index
+permalink more-tips-on-using-rsync-to-deploy-your-website.html
+title More tips on using rsync to deploy your website
+
+import pageHeader.scroll
+
+My post on <a href="use-rsync-to-deploy-your-website.html">deploying a website using rsync</a> has gotten quite a few hits.
+
+I thought I'd add some more tips:
+
+- use the "--delete" option if you want to delete files on the destination directory that no longer exist in the source directory.
+- add "$1" after your options like this:
+
+code
+ rsync -rvz$1
+
+Then you can easily do a DRY RUN. Just type:
+
+code
+ ./deploy.sh n
+
+The n will get substituted for $1.
+
+# Troubleshooting
+
+I've found a lot of times rsync appears to be copying the same files over and over.
+
+There are a few things you can do to troubleshoot <a href="http://samba.anu.edu.au/rsync/FAQ.html">when rsync recopies the same files</a>.
+
+The options that I've found come in real handy are:
+
+- 1. The <b>i</b> option, which shows you why a file is being copied (all pluses means rsync thinks it doesn't exist in the destination; t means the times differ; s means the contents differ (?)).
+- 2. The <b>--modify-window=1</b> option. This lets you ignore differences in modified timestamps. You can set 1 to a high number to ignore large differences.
+
+import footer.scroll

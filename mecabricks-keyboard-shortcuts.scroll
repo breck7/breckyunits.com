@@ -1,0 +1,116 @@
+title Keyboard Shortcuts for Mecabricks
+
+import header.scroll
+printTitle
+
+thinColumns 2
+
+## Global
+
+pipeTable
+ Combo|Command
+ Ctrl + S|Save
+ Ctrl + Z|Undo
+ Ctrl + Y|Redo
+
+## Viewport and Graph Panel
+pipeTable
+ Combo|Command
+ A|Select all / Deselect all
+ B|Start box select tool. Elements in the box will be added to the selection. Press shift to remove them
+ C|Take viewport screenshot
+ D|Clone selection
+ E|Show/Hide empty panel
+ F|Flexible Part Tool (only active for flexible parts like rubber band, flex tube, etc.)
+ H|Hide selection
+ ALT + H|Show everything
+ I|Invert selection
+ J|Group selection
+ Alt + J|Ungroup selection
+ L|Show/Hide lamp panel
+ M|Toggle between translation and rotation gizmo
+ P|Select pivot point
+ Q|Toggle between small, medium and large transformation grid
+ R + (X or Y or Z) + numerical value|Rotation along selected axis in the global or local space
+ S|Select snap point
+ T + (X or Y or Z) + numerical value|Translation along selected axis in the global or local space
+ V|Toggle between Global and Local Space
+ W|Display selection tools
+ Z|Toggle between shaded, shaded with edges and wireframe mode
+
+pipeTable
+ Combo|Command
+ CTRL + Left Click|Add or remove element to or from the selection
+
+pipeTable
+ Combo|Command
+ NUMPAD 8 or 2|Translate along Z axis
+ NUMPAD 4 or 6|Translate along X axis
+ Page Up or Page Down|Translate along Y axis
+
+pipeTable
+ Combo|Command
+ ← or →|Rotate selection 45° along Y axis
+ ↑ or ↓|Rotate selection 45° along X axis
+ Home or End|Rotate selection 45° along Z axis (keys next to page up and page down keys on an apple keyboard)
+
+pipeTable
+ Combo|Command
+ Esc|Deactivate selected tool / Cancel rotation or translation
+ Ctrl + Click|Add or remove a part/group to the selection
+
+pipeTable
+ Combo|Command
+ Numpad 5|Toggle between Perspective and Orthographic projection
+ Numpad 9|Toggle between Turntable and Trackball orbit style
+ Numpad 0|Reset the position of the camera
+ Ctrl + Numpad 3|Left view
+ Numpad 3|Right view
+ Ctrl + Numpad 1|Back view
+ Numpad 1|Front view
+ Ctrl + Numpad 7|Bottom view
+ Numpad 7|Top view
+ Numpad .|Center selection or scene
+ Space|Change camera orientation
+
+pipeTable
+ Combo|Command
+ Del or Bak|Delete selection
+
+## Flexible Tool
+pipeTable
+ Combo|Command
+ B|Box select: add to selection
+ B + Ctrl|Box select: remove from selection
+ I|Inverse selection
+ A|Select all / Deselect all
+ Click + Ctrl|Add / Remove Anchor point to / from selection
+ E|Extrude first or last anchor points
+ D|Divide curve joining two anchor points
+ DEL or BAK|Delete anchor points
+ S|Snap anchor point or solid part selected
+
+## Animation Editor
+pipeTable
+ Combo|Command
+ A|Select all nodes
+ B|Start box select
+ Ctrl + C|Copy selected nodes
+ D|Duplicate selected nodes
+ G|Move selected nodes
+ I|Invert node selection
+ Ctrl + V|Paste nodes previously copied
+
+pipeTable
+ Combo|Command
+ Numpad .|Center selection
+ Numpad 0|Reset diagram position
+ Numpad 1|Reset diagram zoom
+
+pipeTable
+ Combo|Command
+ Del or Bak|Delete selected nodes
+
+As Printable Image
+ link mecabricks-keyboard-shortcuts.png As Printable Image
+import footer.scroll
