@@ -12,7 +12,7 @@ chat
  cool. But what's Scrolldown?
  Scrolldown is a new alternative to Markdown that is easier to extend.
  how is it easier to extend?
- because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of grammar code and 16 lines of CSS.
+ because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of parser code and 16 lines of CSS.
  okay, how do I use this new feature?
  the source is below!
 aboveAsCode
@@ -22,7 +22,7 @@ endSnippet
 Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
  dateline
 
-Here is the Grammar code in the commit that added support for Dialogues:
+Here is the parser in the commit that added support for Dialogues:
  https://github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af commit
 
 image dialogues.png
