@@ -1258,7 +1258,7 @@
  
  # Enhancements
  - For pragmatic reasons, it is best to split your data into 1 file per concept and combine concept files at runtime.
- - The utility and joy of this system improves as your parser language improves. The parser language powering ScrollSets is currently called Grammar, and is largely influenced by ANTLR^antlr and Racket^racket.
+ - The utility and joy of this system improves as your parser language improves. The parser language powering ScrollSets is currently called Parsers, and is largely influenced by ANTLR^antlr and Racket^racket.
  
  - It is _very_ helpful to have a `sortIndex` attribute on your measures to automatically prioritize^prettier the measurements in your source and output files. The impact of this simple enhancement hints at interesting signs of dense information packing achieved by this method, which may have implications for the weights and training of artificial neural networks.
  - Computed measures are measurements not stored statically, but derived at runtime from other measurements. They are very useful and easy to add with a few lines of parser code.
@@ -7051,8 +7051,8 @@
  
  ? Why did I make this?
  
- First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
-  https://github.com/publicdomaincompany/scroll/blob/main/grammar/ grammar nodes
+ First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable parsers makes that true for all additions.
+  https://github.com/publicdomaincompany/scroll/blob/main/parsers/ parsers
  
  With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
  
@@ -7083,7 +7083,7 @@
  I'm particularly interested in exploring new ways to do footnotes, sparklines, definitions, highlights and comments. Basic Aftertext might not be compelling on its own, but maybe it will be a useful tool for evolving a new "killer markup".
  
  Adding a new markup command is just a few lines of code.
-  https://github.com/publicdomaincompany/scroll/blob/main/grammar/aftertext.grammar lines of code
+  https://github.com/publicdomaincompany/scroll/blob/main/parsers/aftertext.parsers lines of code
  
  comment
   *a few lines of code and some time fighting the JTree SDK, unless someone sometime makes a better Tree Notation SDK
@@ -7773,7 +7773,7 @@
   cool. But what's Scrolldown?
   Scrolldown is a new alternative to Markdown that is easier to extend.
   how is it easier to extend?
-  because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of grammar code and 16 lines of CSS.
+  because it's a tree language and tree languages are highly composable. for example, adding dialogues was a simple append of 11 lines of parser code and 16 lines of CSS.
   okay, how do I use this new feature?
   the source is below!
  aboveAsCode
@@ -7783,7 +7783,7 @@
  Dialogues seem to be a really common pattern in books and writings throughout history. So Scroll now supports that.
   dateline
  
- Here is the Grammar code in the commit that added support for Dialogues:
+ Here is the parser in the commit that added support for Dialogues:
   https://github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af commit
  
  image dialogues.png

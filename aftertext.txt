@@ -29,8 +29,8 @@ The first implementation of Aftertext ships in the newest version of Scroll. You
 Why did I make this?
 ====================
 
-First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable grammar nodes makes that true for all additions.
- https://github.com/publicdomaincompany/scroll/blob/main/grammar/
+First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable parsers makes that true for all additions.
+ https://github.com/publicdomaincompany/scroll/blob/main/parsers/
 
 With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
 
@@ -61,7 +61,7 @@ When you get to more advanced markup ideas, Aftertext gives each markup node it'
 I'm particularly interested in exploring new ways to do footnotes, sparklines, definitions, highlights and comments. Basic Aftertext might not be compelling on its own, but maybe it will be a useful tool for evolving a new "killer markup".
 
 Adding a new markup command is just a few lines of code.
- https://github.com/publicdomaincompany/scroll/blob/main/grammar/aftertext.grammar
+ https://github.com/publicdomaincompany/scroll/blob/main/parsers/aftertext.parsers
 
 What are the downsides of Aftertext?
 ====================================

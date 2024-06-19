@@ -124,7 +124,7 @@ If printed on a single scroll, the PLDB ScrollSet would be over one kilometer lo
 
 # Enhancements
 - For pragmatic reasons, it is best to split your data into 1 file per concept and combine concept files at runtime.
-- The utility and joy of this system improves as your parser language improves. The parser language powering ScrollSets is currently called Grammar, and is largely influenced by ANTLR^antlr and Racket^racket.
+- The utility and joy of this system improves as your parser language improves. The parser language powering ScrollSets is currently called Parsers, and is largely influenced by ANTLR^antlr and Racket^racket.
 
 - It is _very_ helpful to have a `sortIndex` attribute on your measures to automatically prioritize^prettier the measurements in your source and output files. The impact of this simple enhancement hints at interesting signs of dense information packing achieved by this method, which may have implications for the weights and training of artificial neural networks.
 - Computed measures are measurements not stored statically, but derived at runtime from other measurements. They are very useful and easy to add with a few lines of parser code.
