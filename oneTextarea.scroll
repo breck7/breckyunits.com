@@ -10,11 +10,11 @@ thinColumns 2
 Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and should be replaced by a single textarea.
  dateline
  hoverNote replaced
-  The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Tree Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
+  The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Scroll Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
 
 image oneTextarea.gif
  openGraph
- caption Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Tree Notation or a similar base 2D notation. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+ caption Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
   https://github.com/breck7/copypaster demo gif
 
 endSnippet
