@@ -1,6 +1,11 @@
 Breck's Blog - Scroll Notation Posts
 ====================================
 
+CheckBox: An Online + Offline Voting System
+===========================================
+06/25/2024
+https://breckyunits.com/checkbox.html
+
 The World Wide Scroll
 =====================
 06/12/2024
