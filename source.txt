@@ -35,7 +35,8 @@
  
  ***
  
- About six months after this hackathon, Microsoft acqui-hired our team for the other project we were working on.
+ About six months after this hackathon, Microsoft acqui-hired our team for NudgePad, the other project we were working on.
+  https://breckyunits.com/nudgepad-an-ide-in-your-browser.html NudgePad
  
  This was great because I could now afford anything on the McDonalds menu.
  
