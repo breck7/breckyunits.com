@@ -1,6 +1,6 @@
 homeUrl ../index.html
 title Chemical Blood Tests Dataset
-writeConcepts chemicalBloodTests.tsv
+buildConcepts chemicalBloodTests.tsv
 
 import ../header.scroll
 
