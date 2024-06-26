@@ -48,11 +48,11 @@
  
  (I am still trying to find the code that powered our beta).
  
- Although CheckBox as a business is not for me, I love the underlying CheckBox design, and am more confident than ever that this system is the core of the right way to do elections.
+ Although CheckBox as a business is not for me, I love the underlying CheckBox design, and still think that this system has a better underlying design than any other electronic voting system-by a wide margin.
  
- The key idea is this: *the simplest possible language for elections that works the same digitally AND with paper*.
+ The key idea is this: *the underlying languages can power 100% digital election, 100% paper election, or a hybrid election*.
  
- If you want to build the best voting system, this is the way.
+ If you want to build the best voting system, I am highly confident this is the way.
  
  ****
  
