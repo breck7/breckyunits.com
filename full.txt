@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+IPDD
+====
+06/29/2024
+https://breckyunits.com/ipdd.html
+
 CheckBox: An Online + Offline Voting System
 ===========================================
 06/25/2024
