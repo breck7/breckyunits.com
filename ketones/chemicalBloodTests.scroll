@@ -31,6 +31,10 @@ belowAsCodeUntil // endSchema
 
 // id
 
+idParser
+ extends abstractIdParser
+ boolean isMeasureRequired true
+
 bottomParser
  extends abstractFloatMeasureParser
  description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
