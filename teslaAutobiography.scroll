@@ -1,6 +1,8 @@
 import header.scroll
 openGraphImage tesla.jpeg
 title My Inventions
+buildHtml
+buildTxt
 
 author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 
