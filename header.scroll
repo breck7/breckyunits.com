@@ -2,7 +2,9 @@ importOnly
 
 import settings.scroll
 metaTags
-gazetteCss
+
+import gazetteTag.scroll
+
 gazetteHeader
 
 css img {border: 2px solid #e9e9e9; border-radius: 5px;}

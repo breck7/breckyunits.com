@@ -6,7 +6,7 @@ title Breck's Blog - CAT_TITLE Posts
 
 import settings.scroll
 metaTags
-gazetteCss
+import gazetteTag.scroll
 gazetteHeader
 printTitle
 import categoryLinks.scroll
