@@ -1,5 +1,5 @@
 replace CAT_TITLE Society
 
 import categoryPage.scroll
-snippets Society
+printSnippets Society
 import footer.scroll

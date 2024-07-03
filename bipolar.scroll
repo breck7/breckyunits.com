@@ -1,5 +1,5 @@
 replace CAT_TITLE Bipolar Energy
 
 import categoryPage.scroll
-snippets BipolarEnergy
+printSnippets BipolarEnergy
 import footer.scroll

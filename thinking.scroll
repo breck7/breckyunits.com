@@ -1,5 +1,5 @@
 replace CAT_TITLE Thinking
 
 import categoryPage.scroll
-snippets Thinking
+printSnippets Thinking
 import footer.scroll

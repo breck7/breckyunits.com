@@ -1,5 +1,5 @@
 description Some writing about probability, programming, economics and life.
-permalink feed.xml
+buildRss feed.xml
 title Breck's Blog
 
 import settings.scroll
