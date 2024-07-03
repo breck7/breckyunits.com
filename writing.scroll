@@ -1,5 +1,5 @@
 replace CAT_TITLE Writing
 
 import categoryPage.scroll
-snippets Writing
+printSnippets Writing
 import footer.scroll

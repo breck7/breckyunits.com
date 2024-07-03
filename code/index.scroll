@@ -5,5 +5,5 @@ metaTags
 gazetteCss
 gazetteHeader
 printTitle
-snippets index
+printSnippets index
 import footer.scroll

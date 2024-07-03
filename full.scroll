@@ -5,5 +5,5 @@ import header.scroll
 printTitle
 
 thinColumns 2
-fullSnippets All
+printFullSnippets All
 import footer.scroll
