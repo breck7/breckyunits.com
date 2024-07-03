@@ -1,41 +1,43 @@
-import header.scroll
-openGraphImage tesla.jpeg
-title My Inventions
-buildHtml
-buildTxt
+My Inventions
+=============
 
-author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
+Nikola Tesla's Autobiography
+============================
+by Nikola Tesla
 
-printTitle
-
-# Nikola Tesla's Autobiography
-printAuthor
-
-## Source
+Source
  http://www.tfcbooks.com/special/my_inventions_index.htm
+===============================================================
 
-## At the age of 63 Tesla tells the story of his creative life.
+At the age of 63 Tesla tells the story of his creative life.
+============================================================
 
-## First published in 1919 in the Electrical Experimenter magazine
+First published in 1919 in the Electrical Experimenter magazine
+===============================================================
 
-# Table of Contents
-## I. My Early Life
- link #part1
-## II. My First Efforts At Invention
- link #part2
-## III. My Later Endeavors
- link #part3
-## IV. The Discovery of the Tesla Coil and Transformer
- link #part4
-## V. The Magnifying Transmitter
- link #part5
-## VI. The Art of Telautomatics
- link #part6
+Table of Contents
+=================
+I. My Early Life
+ https://breckyunits.com/#part1
+================================================
+II. My First Efforts At Invention
+ https://breckyunits.com/#part2
+=================================================================
+III. My Later Endeavors
+ https://breckyunits.com/#part3
+=======================================================
+IV. The Discovery of the Tesla Coil and Transformer
+ https://breckyunits.com/#part4
+===================================================================================
+V. The Magnifying Transmitter
+ https://breckyunits.com/#part5
+=============================================================
+VI. The Art of Telautomatics
+ https://breckyunits.com/#part6
+============================================================
 
-thinColumns 4
-
-# I. My Early Life
- id part1
+I. My Early Life
+================
 
 The progressive development of man is vitally dependent on invention.  It is the most important product of his creative brain.  Its ultimate purpose is the complete mastery of mind over the material world, the harnessing of the forces of nature to human needs.  This is the difficult task of the inventor who is often misunderstood and unrewarded.  But he finds ample compensation in the pleasing exercises of his powers and in the knowledge of being one of that exceptionally privileged class without whom the race would have long ago perished in the bitter struggle against pitiless elements.
 
@@ -79,8 +81,8 @@ During another period I smoked excessively, threatening to ruin my health.  Then
 
 After finishing the studies at the Polytechnic Institute and University I had a complete nervous breakdown and while the malady lasted I observed many phenomena strange and unbelievable.
 
-# II. My First Efforts At Invention
- id part2
+II. My First Efforts At Invention
+=================================
 
 I shall dwell briefly on these extraordinary experiences, on account of their possible interest to students of psychology and physiology and also because this period of agony was of the greatest consequence on my mental development and subsequent labors.  But it is indispensable to first relate the circumstances and conditions which preceded them and in which might be found their partial explanation.
 
@@ -118,10 +120,11 @@ In the schoolroom there were a few mechanical models which interested me and tur
 
 I made all kinds of other contrivances and contraptions but among these the arbalists I produced were the best.  My arrows, when shot, disappeared from sight and at close range traversed a plank of pine one inch thick.  Thru the continuous tightening of the bows I developed skin on my stomach very much like that of a crocodile and I am often wondering whether it is due to this exercise that I am able even now to digest cobble-stones! Nor can I pass in silence my performances with the sling which would have enabled me to give a stunning exhibit at the Hippodrome.  And now I will tell of one of my feats with this antique implement of war which will strain to the utmost the credulity of the reader.  I was practicing while walking with my uncle along the river.  The sun was setting, the trout were playful and from time to time one would shoot up into the air, its glistening body sharply defined against a projecting rock beyond.  Of course any boy might have hit a fish under these propitious conditions but I undertook a much more difficult task and I foretold to my uncle, to the minutest detail, what I intended doing.  I was to hurl a stone to meet the fish, press its body against the rock, and cut it in two.  It was no sooner said than done.  My uncle looked at me almost scared out of his wits and exclaimed "Vade retro Satanas!" and it was a few days before he spoke to me again.  Other records, how ever great, will be eclipsed but I feel that I could peacefully rest on my laurels for a thousand years.
 
-# III. My Later Endeavors
- id part3
+III. My Later Endeavors
+=======================
 
-## The Discovery of the Rotating Magnetic Field
+The Discovery of the Rotating Magnetic Field
+============================================
 
 At the age of ten I entered the Real Gymnasium which was a new and fairly well equipt institution.  In the department of physics were various models of classical scientific apparatus, electrical and mechanical.  The demonstrations and experiments performed from time to time by the instructors fascinated me and were undoubtedly a powerful incentive to invention.  I was also passionately fond of mathematical studies and often won the professor's praise for rapid calculation.  This was due to my acquired facility of visualizing the figures and performing the operations, not in the usual intuitive manner, but as in actual life.  Up to a certain degree of complexity it was absolutely the same to me whether I wrote the symbols on the board or conjured them before my mental vision.  But freehand drawing, to which many hours of the course were devoted, was an annoyance I could not endure.  This was rather remarkable as most of the members of the family excelled in it.  Perhaps my aversion was simply due to the predilection I found in undisturbed thought.  Had it not been for a few exceptionally stupid boys, who could not do anything at all, my record would have been the worst.  It was a serious handicap as under the then existing educational regime, drawing being obligatory, this deficiency threatened to spoil my whole career and my father had considerable trouble in railroading me from one class to another.
 
@@ -163,29 +166,28 @@ In 1899, when I was past forty and carrying on my experiments in Colorado, I cou
 
 It is my eternal regret that I was not under the observation of experts in physiology and psychology at that time.  I clung desperately to life, but never expected to recover.  Can anyone believe that so hopeless a physical wreck could ever be transformed into a man of astonishing strength and tenacity, able to work thirty-eight years almost without a day's interruption, and find himself still strong and fresh in body and mind? Such is my case.  A powerful desire to live and to continue the work, and the assistance of a devoted friend and athlete accomplished the wonder.  My health returned and with it the vigor of mind.  In attacking the problem again I almost regretted that the struggle was soon to end.  I had so much energy to spare.  When I undertook the task it was not with a resolve such as men often make.  With me it was a sacred vow, a question of life and death.  I knew that I would perish if I failed.  Now I felt that the battle was won.  Back in the deep recesses of the brain was the solution, but I could not yet give it outward expression.  One afternoon, which is ever present in my recollection, I was enjoying a walk with my friend in the City Park and reciting poetry.  At that age I knew entire books by heart, word for word.  One of these was Goethe's "Faust." The sun was just setting and reminded me of the glorious passage:
 
-quote
- "Sie ruckt und weicht, der Tag ist uberlebt,
- Dort eilt sie hin und fordert neues Leben.
- Oh, dass kein Flugel mich vom Boden hebt
- Ihr nach und immer nach zu streben!
- 
- Ein schoner Traum indessen sie entweicht,
- Ach, zu des Geistes Flugeln wird so leicht
- Kein korperlicher Flugel sich gesellen!"
- 
- [The glow retreats, done is the day of toil;
- It yonder hastes, new fields of life exploring;
- Ah, that no wing can lift me from the soil
- Upon its track to follow, follow soaring!
- 
- A glorious dream! though now the glories fade.
- Alas! the wings that lift the mind no aid
- Of wings to lift the body can bequeath me.]
- 
+"Sie ruckt und weicht, der Tag ist uberlebt,
+Dort eilt sie hin und fordert neues Leben.
+Oh, dass kein Flugel mich vom Boden hebt
+Ihr nach und immer nach zu streben!
+
+Ein schoner Traum indessen sie entweicht,
+Ach, zu des Geistes Flugeln wird so leicht
+Kein korperlicher Flugel sich gesellen!"
+
+[The glow retreats, done is the day of toil;
+It yonder hastes, new fields of life exploring;
+Ah, that no wing can lift me from the soil
+Upon its track to follow, follow soaring!
+
+A glorious dream! though now the glories fade.
+Alas! the wings that lift the mind no aid
+Of wings to lift the body can bequeath me.]
+
 As I uttered these inspiring words the idea came like a flash of lightning and in an instant the truth was revealed.  I drew with a stick on the sand the diagrams shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly.  The images I saw were wonderfully sharp and clear and had the solidity of metal and stone, so much so that I told him: "See my motor here; watch me reverse it." I cannot begin to describe my emotions.  Pygmalion seeing his statue come to life could not have been more deeply moved.  A thousand secrets of nature which I might have stumbled upon accidentally I would have given for that one which I had wrested from her against all odds and at the peril of my existence.
 
-# IV. The Discovery of the Tesla Coil and Transformer
- id part4
+IV. The Discovery of the Tesla Coil and Transformer
+===================================================
 
 For a while I gave myself up entirely to the intense enjoyment of picturing machines and devising new forms.  It was a mental state of happiness about as complete as I have ever known in life.  Ideas came in an uninterrupted stream and the only difficulty I had was to hold them fast.  The pieces of apparatus I conceived were to me absolutely real and tangible in every detail, even to the minute marks and signs of wear.  I delighted in imagining the motors constantly running, for in this way they presented to mind's eye a more fascinating sight.  When natural inclination develops into a passionate desire, one advances towards his goal in seven-league boots.  In less than two months I evolved virtually all the types of motors and modifications of the system which are now identified with my name.  It was, perhaps, providential that the necessities of existence commanded a temporary halt to this consuming activity of the mind.  I came to Budapest prompted by a premature report concerning the telephone enterprise and, as irony of fate willed it, I had to accept a position as draftsman in the Central Telegraph Office of the Hungarian Government at a salary which I deem it my privilege not to disclose! Fortunately, I soon won the interest of the Inspector-in-Chief and was thereafter employed on calculations, designs and estimates in connection with new installations, until the Telephone Exchange was started, when I took charge of the same.  The knowledge and practical experience I gained in the course of this work was most valuable and the employment gave me ample opportunities for the exercise of my inventive faculties.  I made several improvements in the Central Station apparatus and perfected a telephone repeater or amplifier which was never patented or publicly described but would be creditable to me even today.  In recognition of my efficient assistance the organizer of the undertaking, Mr. Puskas, upon disposing of his business in Budapest, offered me a position in Paris which I gladly accepted.
 
@@ -213,8 +215,8 @@ At the close of 1889, however, my services in Pittsburg being no longer essentia
 
 From many other considerations it appeared desirable to invent a simpler device for the production of electric oscillations.  In 1856 Lord Kelvin had exposed the theory of the condenser discharge, but no practical application of that important knowledge was made.  I saw the possibilities and undertook the development of induction apparatus on this principle.  My progress was so rapid as to enable me to exhibit at my lecture in 1891 a coil giving sparks of five inches.  On that occasion I frankly told the engineers of a defect involved in the transformation by the new method, namely, the loss in the spark gap.  Subsequent investigation showed that no matter what medium is employed, be it air, hydrogen, mercury vapor, oil or a stream of electrons, the efficiency is the same.  It is a law very much like that governing the conversion of mechanical energy.  We may drop a weight from a certain height vertically down or carry it to the lower level along any devious path, it is immaterial insofar as the amount of work is concerned.  Fortunately however, this drawback is not fatal as by proper proportioning of the resonant circuits an efficiency of 85 per cent is attainable.  Since my early announcement of the invention it has come into universal use and wrought a revolution in many departments.  But a still greater future awaits it.  When in 1900 I obtained powerful discharges of 100 feet and flashed a current around the globe, I was reminded of the first tiny spark I observed in my Grand Street laboratory and was thrilled by sensations akin to those I felt when I discovered the rotating magnetic field.
 
-# V. The Magnifying Transmitter
- id part5
+V. The Magnifying Transmitter
+=============================
 
 As I review the events of my past life I realize how subtle are the influences that shape our destinies.  An incident of my youth may serve to illustrate.  One winter's day I managed to climb a steep mountain, in company with other boys.  The snow was quite deep and a warm southerly wind made it just suitable for our purpose.  We amused ourselves by throwing balls which would roll down a certain distance, gathering more or less snow, and we tried to outdo one another in this exciting sport.  Suddenly a ball was seen to go beyond the limit, swelling to enormous proportions until it became as big as a house and plunged thundering into the valley below with a force that made the ground tremble.  I looked on spellbound, incapable of understanding what had happened.  For weeks afterward the picture of the avalanche was before my eyes and I wondered how anything so small could grow to such an immense size.  Ever since that time the magnification of feeble actions fascinated me, and when, years later, I took up the experimental study of mechanical and electrical resonance, I was keenly interested from the very start.  Possibly, had it not been for that early powerful impression, I might not have followed up the little spark I obtained with my coil and never developed my best invention, the true history of which I'll tell here for the first time.
 
@@ -285,8 +287,8 @@ The tower was destroyed two years ago but my projects are being developed and an
 
 I would add further, in view of various rumors which have reached me, that Mr.  J. Pierpont Morgan did not interest himself with me in a business way but in the same large spirit in which he has assisted many other pioneers.  He carried out his generous promise to the letter and it would have been most unreasonable to expect from him anything more.  He had the highest regard for my attainments and gave me every evidence of his complete faith in my ability to ultimately achieve what I had set out to do.  I am unwilling to accord to some smallminded and jealous individuals the satisfaction of having thwarted my efforts.  These men are to me nothing more than microbes of a nasty disease.  My project was retarded by laws of nature.  The world was not prepared for it.  It was too far ahead of time.  But the same laws will prevail in the end and make it a triumphal success.
 
-# VI. The Art of Telautomatics
- id part6
+VI. The Art of Telautomatics
+============================
 
 No subject to which I have ever devoted myself has called for such concentration of mind and strained to so dangerous a degree the finest fibers of my brain as the system of which the Magnifying Transmitter is the foundation.  I put all the intensity and vigor of youth in the development of the rotating field discoveries, but those early labors were of a different character.  Although strenuous in the extreme, they did not involve that keen and exhausting discernment which had to be exercised in attacking the many puzzling problems of the wireless.  Despite my rare physical endurance at that period the abused nerves finally rebelled and I suffered a complete collapse, just as the consummation of the long and difficult task was almost in sight.
 
@@ -341,7 +343,5 @@ These automata, controlled within the range of vision of the operator, were, how
 As stated on a previous occasion, when I was a student at college I conceived a flying machine quite unlike the present ones.  The underlying principle was sound but could not be carried into practice for want of a prime-mover of sufficiently great activity.  In recent years I have successfully solved this problem and am now planning aerial machines devoid of sustaining planes, ailerons, propellers and other external attachments, which will be capable of immense speeds and are very likely to furnish powerful arguments for peace in the near future.  Such a machine, sustained and propelled entirely by reaction, is shown on page 108 and is supposed to be controlled either mechanically or by wireless energy.  By installing proper plants it will be practicable to project a missile of this kind into the air and drop it almost on the very spot designated, which may be thousands of miles away.  But we are not going to stop at this.  Telautomata will be ultimately produced, capable of acting as if possest of their own intelligence, and their advent will create a revolution.  As early as 1898 I proposed to representatives of a large manufacturing concern the construction and public exhibition of an automobile carriage which, left to itself, would perform a great variety of operations involving something akin to judgment.  But my proposal was deemed chimerical at that time and nothing came from it.
 
 At present many of the ablest minds are trying to devise expedients for preventing a repetition of the awful conflict which is only theoretically ended and the duration and main issues of which I have correctly predicted in an article printed in the Sun of December 20, 1914.  The proposed League is not a remedy but on the contrary, in the opinion of a number of competent men, may bring about results just the opposite.  It is particularly regrettable that a punitive policy was adopted in framing the terms of peace, because a few years hence it will be possible for nations to fight without armies, ships or guns, by weapons far more terrible, to the destructive action and range of which there is virtually no limit.  A city, at any distance whatsoever from the enemy, can be destroyed by him and no power on earth can stop him from doing so.  If we want to avert an impending calamity and a state of things which may transform this globe into an inferno, we should push the development of flying machines and wireless transmission of energy without an instant's delay and with all the power and resources of the nation.
-
-endColumns
 
 ****
