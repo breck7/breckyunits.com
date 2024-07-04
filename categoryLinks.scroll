@@ -3,16 +3,16 @@ importOnly
 <div class="categoryLinks">
  <a href="index.html">All</a>
  <a href="search.html">Search</a>
+ <a href="treeNotation.html">Scroll</a>
  <a href="programming.html">Programming</a>
  <a href="writing.html">Writing</a>
  <a href="thinking.html">Thinking</a>
  <a href="data.html">Data</a>
  <a href="life.html">Life</a>
  <a href="society.html">Society</a>
+ <a href="startups.html">Startups</a>
  <a href="bipolar.html">Bipolar Energy</a>
  <a href="freedom.html">Intellectual Freedom</a>
- <a href="treeNotation.html">Scroll Notation</a>
- <a href="startups.html">Startups</a>
  </div>
 
 <style>.categoryLinks { text-align: center; font-size: 14px; } .categoryLinks a {padding: 0 10px 0 10px;} </style>

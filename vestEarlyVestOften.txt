@@ -1,0 +1,68 @@
+Vest Early. Vest Often.
+=======================
+
+Silicon Valley Should Eliminate the 1 Year Cliff
+================================================
+
+July 4, 2024
+
+I lived in San Francisco and Seattle in the 2000's and 2010's, and if I told you the names of every startup I almost joined as employee <5, you'd probably think I was lying.
+
+But I declined them all for the same reason: the 1 year vesting cliff.
+
+***
+
+What's a cliff?
+===============
+
+If a startup gives you 1% of the company in the form of stock options, the standard is to vest 0.25% a year for 4 years with a 1 year cliff. This means you get nothing until after the first year.
+
+If you have to leave or they fire you after 11 months you own zero.
+
+***
+
+Cliffs are a bad deal for everyone and should be eliminated.
+
+It sucks for the employees. It's not fun to have a cliff hanging over your head.
+
+It sucks for the startups. They miss out on bringing in outlier talent who may stay for a decade, but only want to _guarantee_ a few months.
+
+***
+
+Back in 2008-2018, I was young and 1 year seemed like an eternity-what if I wanted to travel in 10 months, or someone close to me got sick, or I had my own startup idea?
+
+I also didn't want to have any incentive to sit on my best work until my shares started vesting. I wanted to give my teams my absolute best from day 1.
+
+Historically I knew I would make the most impact at a startup in months 3 - 12, so why I be rewarded less than the person who does just enough to last until month 12?
+
+***
+
+Now that I'm an angel investor and not subject to cliffs, I can say with much higher certainty: cliffs are dumb and should be eliminated.
+
+Four year vesting schedules are fine, but employees should vest daily, starting on day 1.
+
+***
+
+But what if we hire someone and they don't last even 1 month?
+=============================================================
+This should be very rare, but even if it happen, it's not a big deal.
+
+They get 2% of their stock options. Far less than a single percent of your company. So what.
+
+Everyone should be happier without the cliff.
+
+Presumably you've hired people who are _good people_, and so even though it wasn't a right fit, you think the world will be a better place if that person someday gets a little extra money from their stock.
+
+They also will forever be a booster of your business even though they are no longer an employee, because they now have the incentives to be.
+
+But what about all the paperwork, accounting, and legal trouble of daily vesting?
+=================================================================================
+It is basic arithmetic. The software to implement this is dead simple. And I've now seen it done with one of the startups I invested in (and it works _great_).
+
+***
+
+That's all I have to say about cliffs. Now, I've got to get back to building my own projets.
+
+But if you want to hire me, I am available. (For a month or two ;) )
+
+****
