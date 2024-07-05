@@ -70,3 +70,13 @@ An Unpopular Phrase
 ===================
 02/21/2020
 https://breckyunits.com/an-unpopular-phrase.html
+
+Dataset Needed
+==============
+01/23/2020
+https://breckyunits.com/dataset-needed.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html
