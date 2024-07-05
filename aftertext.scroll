@@ -22,7 +22,6 @@ code
   A link in Markdown looks like [this](hi.html).
 
 I needed an alternative where _content is separate from markup_. I made an experimental minilang I'm calling _Aftertext_.
- wrapsOn
 
 code
  aftertext
@@ -62,7 +61,6 @@ With that disclaimer out of the way, I made Aftertext because I see two potentia
 ## Benefits of Keeping Text and Markup Separate
 
 The most pressing need I had for Aftertext was importing blogs and books written by others into Scroll with the ability to postpone importing all markup. I import HTML blogs and books into Scroll for power reading. The source code with embedded markup is often messy. I don't always want to import the markup, but sometimes I do. Aftertext gives me a new trick where I can just copy the text, and add the markup later, if needed. Keeping text and markup separate is useful because _sometimes readers don't want the markup._
- wrapsOn
 
 It is likely a very small fraction of readers that would care about this, of course. But perhaps it would be a set of power users who could make good use of it.
 
@@ -71,7 +69,6 @@ Speaking of power users, Aftertext might also be useful for tool builders. Imagi
 Version control tools are often line oriented. When markup and content are on the same line it's not as easy to see which changes were content related and which were markup related. In Aftertext, each markup change corresponds to a single changed line. In the future, I could imagine using AI writing assistants to add more links and enhancements to my posts while keeping the history of content lines untouched.
 
 Finally, I should mention that it seems like keeping the written text and markup separate might make sense because it often matches the actual order in which writing text and marking up text happens. Writing is a human activity that goes back a thousand generations. Adding links is something only the current generations have done. A pattern I often find myself doing is: _write first; add links later_. Aftertext mirrors that behavior.
- wrapsOn
 
 ## A Petri dish for new markup ideas
 
@@ -99,14 +96,12 @@ There is the issue of breakages when editing Aftertext. The nice thing about *bo
  italics breakages
 
 A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed.
- wrapsOn
 
 Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
 
 ? What are the problems with the initial implementation?
 
 My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in `aftertext` nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.
- wrapsOn
 
 ? Is this a bad idea?
 
@@ -118,7 +113,6 @@ comment
  That the earth is headed to the sun and we are all destined for stardust anyway, so what is the point?
 
 Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles.
- wrapsOn
 
 # Summary and Closing Thoughts
 
@@ -150,7 +144,6 @@ A couple of folks mentioned similarities to troff directives. In a sense Afterte
 Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem _esolangy_ now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
  https://www.templetons.com/tech/oob.html OOB
  https://www.templetons.com/tech/proletext.html Proletext
- wrapsOn
 
 The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
  https://zfdg.de/sb004_008#hd14 standoff properties
