@@ -24,7 +24,7 @@ Imagine trying to compete with nature. My premise is that you go to a website fo
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import importedNote.scroll
 

@@ -28,6 +28,6 @@ Written 11/30/2009
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

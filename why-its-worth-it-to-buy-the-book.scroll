@@ -34,7 +34,7 @@ image bookcost.png
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 # Notes
 1. Even if a book is more expensive, say $50, the numbers don't change too much.

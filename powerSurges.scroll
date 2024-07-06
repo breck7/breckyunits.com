@@ -73,6 +73,6 @@ I believe science is the way to figure this out, but it sure is taking a while.
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll
