@@ -47,6 +47,6 @@ Despite my problems with narratives and my quest for something better, it seems 
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

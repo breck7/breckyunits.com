@@ -32,6 +32,6 @@ image bug.png
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

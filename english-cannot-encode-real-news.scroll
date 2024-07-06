@@ -75,6 +75,6 @@ Again, to channel Taleb, I'm not saying English is bad. By all means, _enjoy the
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

@@ -70,7 +70,7 @@ Though a propensity for gossip typically motivates gossip bloggers, many are lea
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import importedNote.scroll
 

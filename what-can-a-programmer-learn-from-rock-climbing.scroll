@@ -42,6 +42,6 @@ endSnippet
 - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

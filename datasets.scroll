@@ -217,6 +217,6 @@ thinColumns 1
 // Reading Speed vs Modeling Speed
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll

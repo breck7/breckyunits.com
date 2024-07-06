@@ -28,6 +28,6 @@ The bottom line is I want to publish more. It forces me to think hard about my o
 ****
 
 # Related Posts
-relatedList
+printRelatedList
 
 import footer.scroll
