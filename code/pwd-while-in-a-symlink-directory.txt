@@ -1,0 +1,7 @@
+pwd while in a symlink directory
+================================
+March 1, 2010
+
+To get the actual directory, run:
+
+/bin/pwd

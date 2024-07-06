@@ -1,0 +1,7 @@
+Windows Flush DNS
+=================
+June 30, 2010
+
+Open cmd.exe. Run:
+
+ipconfig /flushdns

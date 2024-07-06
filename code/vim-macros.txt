@@ -1,0 +1,38 @@
+vim macros
+==========
+March 9, 2010
+
+Let's say you want to add comments to your php functions following the conventional format:
+
+/**
+* Returns the sum of 2 variables.
+*
+* @param int $a
+* @param int $b
+* @return int $sum
+*/
+function sum($a, $b)
+{
+$sum = $a + $b;
+return $sum;
+}
+
+You can record a macro to help speed up the commenting process.
+
+Just type `q` followed by the letter you want to assign the macro to (in this case let's use `c`), type your keystrokes, then hit `q` again to stop recording. Now hit `c` to replay your macro.
+
+You can overwrite the macro by repeating the above steps.
+
+Bonus tip:
+
+*Bookmarks*.Use `m` + a letter to create a bookmark in vim. Then use the backtick plus the letter to return to the location.
+
+*Keyword completion*. Use `Ctrl+N` to complete a word.
+
+Notes
+=====
+
+- 1. Vim macro tutorial.
+ http://www.oreillynet.com/mac/blog/2006/07/more_vim_save_time_with_macros_1.html
+- 2. Another great vim resource.
+ http://jmcpherson.org/editing.html

@@ -1,0 +1,15 @@
+What Happens When you Open a 1.7 GB text file?
+==============================================
+May 27, 2011
+
+I downloaded the Verisign Master .com TLD zone file which weighs in at a hefty 1.7 GB. What happens when I open it with different programs on my Windows 7 Samsung netbook?
+
+With Windows Notepad: You quickly get a "File is too large. Open with a different text editor." message. Graceful FAIL
+
+With Microsoft Wordpad: Immediately got a "Not Responding". On the status bar it says "3% complete" but 3 minutes later it hasn't changed. I'm going to go ahead and CtrlAltDelete this one. Disgraceful FAIL.
+
+With Notepad++: "File is too big" error. Graceful FAIL.
+
+VIM in Cygwin: It appears frozen.
+
+I will continue this post at a later date.

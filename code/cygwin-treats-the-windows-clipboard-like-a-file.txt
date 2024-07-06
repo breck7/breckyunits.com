@@ -1,0 +1,18 @@
+Cygwin treats the Windows Clipboard like a file
+===============================================
+December 30, 2009
+
+In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
+
+Want to copy the current cygwin directory into your clipboard?
+
+pwd > /dev/clipboard
+
+Want to print the contents of the clipboard?
+
+cat /dev/clipboard
+
+Notes
+=====
+
+1. Fun with Cygwin's /dev/clipboard.

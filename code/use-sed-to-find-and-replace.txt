@@ -1,0 +1,26 @@
+Use sed to find and replace
+===========================
+December 20, 2009
+
+`grep` is to find what `sed` is to replace.
+ https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html
+
+Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
+
+You can fix all occurrences using this one-liner:
+
+sed 's/imposible/impossible/g' stuff.txt
+
+Often it's more helpful to sed across multiple files.
+
+sed -i 's/1.0.1/"1.0.1"/g' *.php
+
+That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
+
+Notes
+=====
+
+- sed tutorial
+- findAndReplace with sed
+- sed on about.com
+- Very clear examples

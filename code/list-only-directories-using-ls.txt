@@ -1,0 +1,15 @@
+List only directories using ls
+==============================
+December 13, 2009
+
+The `ls` command lists all files and directories. What if you just wanted to list the directories?
+
+ls -l | egrep '^d'
+
+Add this to your .bash_profile and now you can just type "lsd" when you want list only directories. Who said lsd was a bad thing?
+
+alias lsd="ls -l | egrep '^d'"
+
+Notes
+
+1. Found this tip here.

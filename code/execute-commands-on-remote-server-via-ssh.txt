@@ -1,0 +1,7 @@
+Execute commands on remote server via ssh
+=========================================
+November 7, 2011
+
+Ever want to non interactively execute commands on a remote server?
+
+ssh breckyunits.com 'df -h'

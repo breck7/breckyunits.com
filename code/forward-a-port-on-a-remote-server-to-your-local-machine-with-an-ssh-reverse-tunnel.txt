@@ -1,0 +1,24 @@
+Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
+==================================================================================
+December 4, 2010
+
+Say you are running a web server locally and want to show it to someone else remotely.
+
+You have a few ways to do this:
+
+- 1. Provide your local IP address to the person.
+- 2. Setup DNS to point a domain to your local IP.
+
+But what if your local computer is behind a NAT and you don't want to configure port forwarding on your router?
+
+One option if you have a publicly facing server already is to create a reverse SSH tunnel with that server. This allows you to forward a port on that server to a port on your local server.
+
+For instance, on my Mac OS X machine I open terminal and type this command:
+
+ssh -nNT -R 3333:localhost:3333 username@yourdomain.com
+
+This will connect to my server (yourdomain.com), and forward traffic from port 3333 on that server to my local machine. Now I can tell someone to go to yourdomain.com:3333 and that would be the equivalent of them going to localhost:3333.
+
+Notes:
+
+Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.

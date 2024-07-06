@@ -1,0 +1,11 @@
+Windows 7 Hosts File
+====================
+August 14, 2010
+
+The file is located at:
+
+windows/system32/drivers/etc/host
+
+Mac hosts file:
+
+/private/etc/hosts

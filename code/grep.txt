@@ -1,0 +1,7 @@
+Useful Grep Searches with Scroll
+================================
+May 14, 2024
+
+Find all scroll files not matching a pattern:
+
+> grep -rL "endSnippet" *.scroll

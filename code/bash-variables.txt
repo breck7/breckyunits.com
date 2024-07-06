@@ -1,0 +1,44 @@
+Bash variables
+==============
+December 18, 2009
+
+$ FIVE=5
+$ echo $FIVE
+5
+$ echo "The number five is $FIVE"
+
+Variable scope
+==============
+
+A shell script will launch a new shell that has a fresh scope.
+
+$ FIVE = 5
+$ vim myshellscript.sh
+#!/bin/bash
+echo $FIVE
+$ ./myshellscript.sh
+
+Blank because the executed script doesn't affect the current shell. To make something affect the current shell, use the source command.
+
+Export command.
+===============
+
+Use the export command to change the scope of your variable to global for your shell.
+
+To make a permanent global variable, add it to your .bash_profile like so:
+
+MY_NAME=breck; export MY_NAME
+
+Accept input.
+=============
+
+Use the read command to accept input.
+
+echo "What is 1+1?"
+read ANSWER
+echo "Your answer is $ANSWER"
+
+Notes
+=====
+
+1. Bash tutorial 2. Another tutorial 3. Bash parameters

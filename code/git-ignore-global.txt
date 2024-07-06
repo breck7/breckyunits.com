@@ -1,0 +1,13 @@
+Git Ignore Global
+=================
+January 4, 2012
+
+Create a global .gitignore file to ignore common pains:
+
+vim ~/.gitignore_global
+
+.DS_Store* Icon? Thumbs.db
+
+git config --global core.excludesfile ~/.gitignore_global
+
+Thanks to github

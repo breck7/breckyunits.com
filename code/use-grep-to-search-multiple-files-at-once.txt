@@ -1,0 +1,38 @@
+Use grep to search multiple files at once
+=========================================
+November 22, 2009
+
+`grep` lets you search through multiple text files at once.
+
+I recently removed a feature from a project and wanted to make sure I removed all references to it. With grep it was easy:
+
+grep -r picture *
+
+This searched all the files in my current directory as well as all the files in each subdirectory, and printed the filename and line where the word "picture" appeared.
+
+Then I went in and changed the 2 files that needed modifying.
+
+Had I wanted to just search the current directory (without the subdirectories) I could have done:
+
+grep picture *.*
+
+This would have searched through all the files in the current directory.
+
+Had I wanted to search in just 1 specific file:
+
+grep picture filename.txt
+
+Had I wanted to do a case insensitive search:
+
+grep -ir picture *
+
+Had I wanted to exclude a directory and done a case insensitive search:
+
+grep -ri "searchstring" --exclude="*\.svn*" *
+
+(grep uses regular expressions)
+
+Links
+=====
+- grep on Wikipedia
+- Stackoverflow grep help

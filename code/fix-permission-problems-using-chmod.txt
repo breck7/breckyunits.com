@@ -1,0 +1,9 @@
+Fix permission problems using chmod
+===================================
+November 25, 2009
+
+Permission problems driving you crazy? Here's a common command to fix them:
+
+chmod -R 755 directoryname
+
+Change the file permissions of all directories and files in directoryname to 755.

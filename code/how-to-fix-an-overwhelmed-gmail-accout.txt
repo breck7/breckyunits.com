@@ -1,0 +1,37 @@
+How to fix an overwhelmed Gmail Accout
+======================================
+December 17, 2009
+
+I have used the same Gmail address as my main email for over 5 years. Since then:
+
+- I've made dozens of other emails that forward to this address.
+- I've signed up for hundreds of web apps and newsletters.
+
+As a result, my Gmail account gets inundated with email. Here are the stats:
+
+- 16,054 unread emails in my inbox
+- 29,236 emails total in my inbox
+- ?? who knows how many total emails in my archive
+- 3.683 GB of email
+- Using 49% of my Gmail quota
+
+My Gmail account had become a firehose.
+
+This was bad for two reasons.
+
+First, I started missing important emails. Not many, but a few per month. I had to write my own simple Bayes filter to find them.
+
+Second, I couldn't do what most people do: use my inbox as a "todo" list. Most people immediately archive or delete an email when they're done with it. This is a great organizational trick. I wanted to do this again.
+
+I considered starting a new email address and giving it out to important people, but that seemed like it would make my life more complex.
+
+As it turns out, the solution was simple.
+
+- Started liberally using the "Spam" button. I started clicking Spam on pretty much any type of mass email that wasn't very interesting to me. Will be interesting to see how this plays out.
+- Starred all the recent messages that I still had to deal with.
+- Archived all 29,000+ of my gmail messages at once.
+- Went back to the starred folder and moved the important messages to inbox.
+
+Notes
+=====
+1. Thanks to this site for telling me how to archive all my gmail messages.

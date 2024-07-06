@@ -1,0 +1,476 @@
+Breck's Code Blog
+=================
+Useful Grep Searches with Scroll
+================================
+05/14/2024
+https://breckyunits.com/code/grep.html
+
+My Sublime Settings
+===================
+06/21/2022
+https://breckyunits.com/code/my-sublime-setttings.html
+
+Git Clone over SSH
+==================
+07/08/2021
+https://breckyunits.com/code/git-clone-over-ssh.html
+
+Unpause
+=======
+06/09/2021
+https://breckyunits.com/code/unpause.html
+
+Git Ignore Global
+=================
+01/04/2012
+https://breckyunits.com/code/git-ignore-global.html
+
+Execute commands on remote server via ssh
+=========================================
+11/07/2011
+https://breckyunits.com/code/execute-commands-on-remote-server-via-ssh.html
+
+Cool Way to Duplicate a Finder Window in the Current Directory
+==============================================================
+10/14/2011
+https://breckyunits.com/code/cool-way-to-duplicate-a-finder-window-in-the-current-directory.html
+
+Great Overview of Linux Command Line
+====================================
+10/11/2011
+https://breckyunits.com/code/great-overview-of-linux-command-line.html
+
+Find big files in Linux
+=======================
+10/06/2011
+https://breckyunits.com/code/find-big-files-in-linux.html
+
+ack and ackmate
+===============
+08/26/2011
+https://breckyunits.com/code/ack-and-ackmate.html
+
+nohup and disown
+================
+08/22/2011
+https://breckyunits.com/code/nohup-and-disown.html
+
+Apache, SSL and self signed certificates
+========================================
+08/14/2011
+https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html
+
+New shortcuts
+=============
+08/14/2011
+https://breckyunits.com/code/new-shortcuts.html
+
+EC2 Command Line Tools
+======================
+08/13/2011
+https://breckyunits.com/code/ec2-command-line-tools.html
+
+zip a directory in linux
+========================
+08/09/2011
+https://breckyunits.com/code/zip-a-directory-in-linux.html
+
+Recursive Sed
+=============
+08/05/2011
+https://breckyunits.com/code/recursive-sed.html
+
+netstat
+=======
+08/01/2011
+https://breckyunits.com/code/netstat.html
+
+Bash History
+============
+07/17/2011
+https://breckyunits.com/code/bash-history.html
+
+Amazing SSH Tricks
+==================
+07/16/2011
+https://breckyunits.com/code/amazing-ssh-tricks.html
+
+ngrep for packet monitoring
+===========================
+07/13/2011
+https://breckyunits.com/code/ngrep-for-packet-monitoring.html
+
+Basic Linux Monitoring
+======================
+07/09/2011
+https://breckyunits.com/code/basic-linux-monitoring.html
+
+Creating a bootable Linux USB disk on Mac
+=========================================
+07/08/2011
+https://breckyunits.com/code/creating-a-bootable-linux-usb-disk-on-mac.html
+
+Mac Terminal Cursor Trick
+=========================
+07/03/2011
+https://breckyunits.com/code/mac-terminal-cursor-trick.html
+
+Notepad++ HAML Syntax Highlighting and other custom extension mapping
+=====================================================================
+07/03/2011
+https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
+
+Apache Conf and Htaccess Examples
+=================================
+06/30/2011
+https://breckyunits.com/code/apache-conf-and-htaccess-examples.html
+
+Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive
+===================================================================
+06/27/2011
+https://breckyunits.com/code/fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.html
+
+My Programming Setup
+====================
+05/30/2011
+https://breckyunits.com/code/my-programming-setup.html
+
+What Happens When you Open a 1.7 GB text file?
+==============================================
+05/27/2011
+https://breckyunits.com/code/what-happens-when-you-open-a-1.7-gb-text-file.html
+
+Wildcard Subdomains with GoDaddy
+================================
+04/24/2011
+https://breckyunits.com/code/wildcard-subdomains-with-godaddy.html
+
+Quickly Set up a Web Proxy Server
+=================================
+03/13/2011
+https://breckyunits.com/code/quickly-set-up-a-web-proxy-server.html
+
+A few new Tricks in Notepad++
+=============================
+03/12/2011
+https://breckyunits.com/code/a-few-new-tricks-in-notepad.html
+
+RVM Quick Reference
+===================
+12/12/2010
+https://breckyunits.com/code/rvm-quick-reference.html
+
+Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
+==================================================================================
+12/04/2010
+https://breckyunits.com/code/forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
+
+Features I Miss from Notepad++ in Textmate
+==========================================
+10/16/2010
+https://breckyunits.com/code/features-i-miss-from-notepad-in-textmate.html
+
+Git ignore a file that's in the repo
+====================================
+10/03/2010
+https://breckyunits.com/code/git-ignore-a-file-thats-in-the-repo.html
+
+Adjusting to a Mac
+==================
+10/02/2010
+https://breckyunits.com/code/adjusting-to-a-mac.html
+
+Remove all DS_Store files recursively
+=====================================
+09/29/2010
+https://breckyunits.com/code/remove-all-ds_store-files-recursively.html
+
+Rubyful Soup
+============
+08/14/2010
+https://breckyunits.com/code/rubyful-soup.html
+
+Windows 7 Hosts File
+====================
+08/14/2010
+https://breckyunits.com/code/windows-7-hosts-file.html
+
+VIM and Rails
+=============
+08/13/2010
+https://breckyunits.com/code/vim-and-rails.html
+
+PHPUnit Filter Option
+=====================
+08/10/2010
+https://breckyunits.com/code/phpunit-filter-option.html
+
+Kill a Detached Rails Webrick Server
+====================================
+08/09/2010
+https://breckyunits.com/code/kill-a-detached-rails-webrick-server.html
+
+Cygwin SSH Client Keep Alive
+============================
+08/06/2010
+https://breckyunits.com/code/cygwin-ssh-client-keep-alive.html
+
+Augmented Gitignore
+===================
+08/04/2010
+https://breckyunits.com/code/augmented-gitignore.html
+
+Windows Flush DNS
+=================
+06/30/2010
+https://breckyunits.com/code/windows-flush-dns.html
+
+Insert a line of text to the top of a file
+==========================================
+05/29/2010
+https://breckyunits.com/code/insert-a-line-of-text-to-the-top-of-a-file.html
+
+wget don't save file
+====================
+03/27/2010
+https://breckyunits.com/code/wget-dont-save-file.html
+
+Dump MySQL schema only
+======================
+03/10/2010
+https://breckyunits.com/code/dump-mysql-schema-only.html
+
+gca alias for faster git
+========================
+03/10/2010
+https://breckyunits.com/code/gca-alias-for-faster-git.html
+
+ls color scheme
+===============
+03/10/2010
+https://breckyunits.com/code/ls-color-scheme.html
+
+Recursive ls
+============
+03/10/2010
+https://breckyunits.com/code/recursive-ls.html
+
+vim macros
+==========
+03/09/2010
+https://breckyunits.com/code/vim-macros.html
+
+pwd while in a symlink directory
+================================
+03/01/2010
+https://breckyunits.com/code/pwd-while-in-a-symlink-directory.html
+
+Case sensitivity in MySQL table names and lower_case_table_names
+================================================================
+02/27/2010
+https://breckyunits.com/code/case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html
+
+ANSI or ASCII and Unicode or UTF-8 and Newlines
+===============================================
+02/25/2010
+https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html
+
+The BASH Programming Language
+=============================
+02/25/2010
+https://breckyunits.com/code/the-bash-programming-language.html
+
+Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
+======================================================================================
+02/21/2010
+https://breckyunits.com/code/cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
+
+Plugins for Notepad++
+=====================
+02/06/2010
+https://breckyunits.com/code/plugins-for-notepad.html
+
+More tips on using rsync to deploy your website
+===============================================
+02/03/2010
+https://breckyunits.com/code/more-tips-on-using-rsync-to-deploy-your-website.html
+
+Linux Go Back to Previous Directory
+===================================
+02/01/2010
+https://breckyunits.com/code/linux-go-back-to-previous-directory.html
+
+Should your source code be in one folder or should it be nested?
+================================================================
+01/25/2010
+https://breckyunits.com/code/should-your-source-code-be-in-one-folder-or-should-it-be-nested.html
+
+Unix date command
+=================
+01/19/2010
+https://breckyunits.com/code/unix-date-command.html
+
+Bug Workaround for JS Charts Error: Not enough data to display chart
+====================================================================
+01/16/2010
+https://breckyunits.com/code/bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html
+
+Change the file owner or group in Linux
+=======================================
+01/08/2010
+https://breckyunits.com/code/change-the-file-owner-or-group-in-linux.html
+
+How to load a sql file into MySql
+=================================
+01/06/2010
+https://breckyunits.com/code/how-to-load-a-sql-file-into-mysql.html
+
+Shortcut for switching to a Windows directory in Cygwin
+=======================================================
+01/01/2010
+https://breckyunits.com/code/shortcut-for-switching-to-a-windows-directory-in-cygwin.html
+
+Cygwin treats the Windows Clipboard like a file
+===============================================
+12/30/2009
+https://breckyunits.com/code/cygwin-treats-the-windows-clipboard-like-a-file.html
+
+New tricks in Vim
+=================
+12/29/2009
+https://breckyunits.com/code/new-tricks-in-vim.html
+
+Pipes, standard output and standard input
+=========================================
+12/26/2009
+https://breckyunits.com/code/pipes-standard-output-and-standard-input.html
+
+Run multiple commands at once
+=============================
+12/26/2009
+https://breckyunits.com/code/run-multiple-commands-at-once.html
+
+Use cat to combine or print the contents of a file
+==================================================
+12/26/2009
+https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html
+
+The only 5 git commands you need to know
+========================================
+12/23/2009
+https://breckyunits.com/code/the-only-5-git-commands-you-need-to-know.html
+
+Use scp to download a file from a server
+========================================
+12/21/2009
+https://breckyunits.com/code/use-scp-to-download-a-file-from-a-server.html
+
+Clear screen in cygwin
+======================
+12/20/2009
+https://breckyunits.com/code/clear-screen-in-cygwin.html
+
+Use sed to find and replace
+===========================
+12/20/2009
+https://breckyunits.com/code/use-sed-to-find-and-replace.html
+
+Bash variables
+==============
+12/18/2009
+https://breckyunits.com/code/bash-variables.html
+
+How to fix an overwhelmed Gmail Accout
+======================================
+12/17/2009
+https://breckyunits.com/code/how-to-fix-an-overwhelmed-gmail-accout.html
+
+List only directories using ls
+==============================
+12/13/2009
+https://breckyunits.com/code/list-only-directories-using-ls.html
+
+Seven aliases that can save you time
+====================================
+12/13/2009
+https://breckyunits.com/code/seven-aliases-that-can-save-you-time.html
+
+git clone without history
+=========================
+12/11/2009
+https://breckyunits.com/code/git-clone-without-history.html
+
+Turn off bell in cygwin
+=======================
+12/11/2009
+https://breckyunits.com/code/turn-off-bell-in-cygwin.html
+
+Create a new user in Linux
+==========================
+12/05/2009
+https://breckyunits.com/code/create-a-new-user-in-linux.html
+
+Learn Symbolic Links in 30 seconds
+==================================
+12/05/2009
+https://breckyunits.com/code/learn-symbolic-links-in-30-seconds.html
+
+Use aliases to save time
+========================
+11/28/2009
+https://breckyunits.com/code/use-aliases-to-save-time.html
+
+How I organize my Dropbox
+=========================
+11/27/2009
+https://breckyunits.com/code/how-i-organize-my-dropbox.html
+
+Use git to get the latest source code only
+==========================================
+11/27/2009
+https://breckyunits.com/code/use-git-to-get-the-latest-source-code-only.html
+
+What non-web software do you use the most?
+==========================================
+11/26/2009
+https://breckyunits.com/code/what-non-web-software-do-you-use-the-most.html
+
+cron in 2 steps
+===============
+11/25/2009
+https://breckyunits.com/code/cron-in-2-steps.html
+
+Fix permission problems using chmod
+===================================
+11/25/2009
+https://breckyunits.com/code/fix-permission-problems-using-chmod.html
+
+Use the linux find command to find files
+========================================
+11/25/2009
+https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html
+
+Use grep to search multiple files at once
+=========================================
+11/22/2009
+https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html
+
+Use rsync to deploy your website
+================================
+11/21/2009
+https://breckyunits.com/code/use-rsync-to-deploy-your-website.html
+
+Get VIM Working in Cygwin
+=========================
+11/20/2009
+https://breckyunits.com/code/get-vim-working-in-cygwin.html
+
+SSH into your server without a password
+=======================================
+11/20/2009
+https://breckyunits.com/code/ssh-into-your-server-without-a-password.html
+
+About this Blog
+===============
+11/18/2009
+https://breckyunits.com/code/about-this-blog.html

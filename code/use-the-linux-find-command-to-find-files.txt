@@ -1,0 +1,9 @@
+Use the linux find command to find files
+========================================
+November 25, 2009
+
+Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
+
+find -name "breck*"
+
+Will search the current directory and all subdirectories for files starting with the word "breck".

@@ -1,0 +1,31 @@
+RVM Quick Reference
+===================
+December 12, 2010
+
+Return to the Mac OS X default Ruby install:
+
+rvm system
+
+Switch to Ruby 1.9.2:
+
+rvm 1.9.2
+
+Create a new gemset:
+
+rvm gemset create rails3
+
+Switch to newly created gemset:
+
+rvm 1.9.2@rails3
+
+Install rails 3 on new gemset:
+
+gem install rails -v 3.0.3
+
+Return to default ruby install:
+
+rvm system
+
+Install a new version of Ruby:
+
+rvm install 1.9.2

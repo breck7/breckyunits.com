@@ -1,0 +1,11 @@
+gca alias for faster git
+========================
+March 10, 2010
+
+One of my most frequent commands is:
+
+git commit -am "message"
+
+I made a simple alias to save keystrokes:
+
+alias gca="git commit -am "

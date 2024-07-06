@@ -1,0 +1,13 @@
+Git ignore a file that's in the repo
+====================================
+October 3, 2010
+
+Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:
+
+git update-index --assume-unchanged filepath
+
+And to reverse:
+
+git update-index --no-assume-unchanged filepath
+
+Learn more here.

@@ -1,0 +1,9 @@
+Dump MySQL schema only
+======================
+March 10, 2010
+
+I found this command to dump just the schema.
+
+mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql
+
+You can then load the file easily.

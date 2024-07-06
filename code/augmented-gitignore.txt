@@ -1,0 +1,18 @@
+Augmented Gitignore
+===================
+August 4, 2010
+
+.bundle
+db/*.sqlite3*
+log/*.log
+*.log
+tmp/**/*
+tmp/*
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
+
+- Source
+ http://railstutorial.org/chapters/beginning#sec:adding_and_committing

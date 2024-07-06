@@ -1,0 +1,5 @@
+Amazing SSH Tricks
+==================
+July 16, 2011
+
+Just read an article that contains some amazing SSH tricks.

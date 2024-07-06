@@ -1,0 +1,7 @@
+About this Blog
+===============
+November 18, 2009
+
+I constantly want to share little coding tidbits, snippets, or stories on how to solve specific little coding problems. Instead of clogging up the main blog with these shorter, more specific technical posts, I decided to launch a second blog.
+
+This is it.

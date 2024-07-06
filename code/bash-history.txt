@@ -1,0 +1,10 @@
+Bash History
+============
+July 17, 2011
+
+Understanding and mastering bash history can:
+
+- 1. Save you a lot of time, keystrokes, and errors.
+- 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
+
+Here's a terrific guide on using Bash History effectively.

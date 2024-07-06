@@ -1,0 +1,53 @@
+What non-web software do you use the most?
+==========================================
+November 26, 2009
+
+Here are the programs I use everyday, every week, and every month.
+
+What software do you use the most? What are your "must haves"?
+
+My Machines
+===========
+
+My primary development machine is a basic Compaq laptop with 4GB, 230GB, x2 Core Athlon, running Windows Vista/7.
+
+My secondary machine is an Asus EEE netbook with XP which is great for working on the road, at a coffee shop, or on a plane.
+
+Most of our servers are slices from slicehost running Fedora.
+
+On all my development machines I run Cygwin. Programs I run in Cygwin are noted by *.
+
+The following is a list of the programs I use on my development machines.
+
+Daily
+=====
+
+- Cygwin. I prefer Windows+cygwin over Macs, Fedora or Ubuntu, or Windows plus running virtualized machines.
+- Notepad++. I do half my editing in Notepad++ and half in Vim. I love Notepad++'s speed, reliability, and autocomplete.
+- Dropbox. Completely changed how I work. Allows me to work from multiple computers seamlessly. Allows me to share files easily with clients, family, and friends. Reinstalling Windows (which I do a few times per year), is made easy because all my important files are kept on my dropbox. The fact that install and uninstall is so easy and doesn't require a reboot really impresses me.
+- WAMP. The "AMP" stack is what I develop for mostly. WAMP gives me an easy local testing environment to try things out before pushing to a server.
+- Chrome. I spend most of my web time in Chrome. It's lighting fast. It's also simple. Tabs are done incredibly well.
+- Firefox. Still need this guy. The extensions are great. Firebug and the Web Developer's Extension I use at least weekly, close to daily. It's also nice to have 2 browsers going if you want to log in to the same site with 2 different accounts.
+- Skype. I don't use a cellphone, believe it or not. My Google Voice number points to my Skype In number. Skype allows me to not have a cellphone, which I greatly appreciate. My sister can call me from the Middle East just as easily and for the same price that my neighbors can call me from down the street.
+- *Vim. The only Nix editor I know and love. Vim took me a while to learn, but is becoming more and more indispensable the better I get at "typing in Vim".
+- *Git. Easy to use version control that makes sense. Paired with github, becomes indispensable.
+- *Rsync. Great for deploying simple websites and for downloading backups.
+- *Grep. Great when you need to track down a word or line across multiple files.
+- *Find. Simple and easy for finding files. I also use find over Windows 7's search occasionally.
+- *Cron. Simple and essential.
+- *SSH. Of course.
+- *Ruby. I keep irb running in a window when I need to do quick calculations.
+
+Weekly
+======
+
+- Navicat. Great way to keep an eye on databases. I also like it for creating and editing schemas. Find it easier to visualize a schema than to code it out.
+- Filezilla. Occasionally when I just want to drag and drop some things from or to a server.
+- Photoshop. I use an old version of Photoshop which is still way to advanced for me. But it's fast and gets the job done.
+- 7zip. "Extract to here" is a great little feature that it adds to the right click menu.
+- Word & Excel 2007. Solid programs. Too bulky for my liking, but necessary in many cases.
+
+Monthly
+=======
+
+- Visual Studio. When I get an urge to write a new desktop program.
