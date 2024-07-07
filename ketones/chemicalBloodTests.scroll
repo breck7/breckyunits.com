@@ -38,10 +38,12 @@ idParser
 bottomParser
  extends abstractFloatMeasureParser
  description The bottom of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+ float sortIndex 1.5
 
 topParser
  extends abstractFloatMeasureParser
  description The top of the normal healthy range. In mmol/L. If there are numerous healthy ranges available, choose one for a 30 year old healthy male.
+ float sortIndex 1.6
 
 canTestAtHomeParser
  extends abstractBooleanMeasureParser
