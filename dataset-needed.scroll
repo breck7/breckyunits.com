@@ -1,12 +1,12 @@
 date 2020-01-23
 groups All Data Thinking Society Writing IntellectualFreedom
-related datasets dreaming-of-a-data-checked-language
+related scrollsets datasets dreaming-of-a-data-checked-language
 title Dataset Needed
 
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 People make biased claims all the time. A decent response used to be "citation needed". But we should demand more. Anytime someone makes a claim that seems biased, call them out with: *_Dataset needed_*.
  dateline
@@ -19,6 +19,10 @@ Of course, most sources don't currently publish their datasets. *You cannot trus
 
 ## Be a broken record: "Dataset needed. Dataset needed. Dataset needed."
 Encourage authors to link to and/or publish their datasets. You can't say _dataset needed_ enough. It is valuable, constructive feedback.
+
+image datasetNeeded.jpg
+ caption You can't say it enough^enough.
+ // chatgpt
 
 # Authors: support your arguments with open data
 Link to the dataset. If you want to include a conclusion, provide a deep link to the relevant query of the dataset. Do not repeat conclusions that don't have an accompanying dataset. If people can't verify what you say, don't say it.
@@ -42,7 +46,8 @@ I remember being a high school student and getting graded on our dataset noteboo
 ****
 
 # Notes
-Thanks to DL for helping me refine my thinking from this earlier post.
+^enough Dataset Needed.
+- Thanks to Denny for helping me refine my thinking from this earlier post.
  link dreaming-of-a-data-checked-language.html earlier post
 
 # Related Posts
