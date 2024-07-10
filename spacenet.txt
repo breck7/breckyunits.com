@@ -71,7 +71,7 @@ The complexity of current Internet protocols could be holding us back from an ev
 
 Related Posts
 =============
-- The World Wide Scroll (2024)
+- Wws (2024)
  https://breckyunits.com/wws.html
 
 ***
