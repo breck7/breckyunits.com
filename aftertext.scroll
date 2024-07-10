@@ -36,11 +36,11 @@ You write some text. After your text, you add your markup instructions with sele
 aboveAsCode
 
 Here is a silly another example, with more markups.
- strikethrough a silly
+ strike a silly
  italics more
  bold with
  underline markups
- link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strikethrough%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
+ link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
 aboveAsCode
 
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
