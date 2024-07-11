@@ -1,7 +1,7 @@
 importOnly
 author https://breckyunits.com Breck Yunits
 baseUrl https://breckyunits.com/
-downloadUrl https://github.com/breck7/breckyunits.com/archive/refs/heads/wws.zip
+downloadUrl download.html
 email breck7@gmail.com
 git https://github.com/breck7/breckyunits.com
 rssFeedUrl feed.xml
