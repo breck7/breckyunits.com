@@ -1,33 +1,22 @@
-baseUrl https://breckyunits.com/library/
-buildHtml
-buildTxt
-date 04/01/2000
-email breck@breckyunits.com
-title Why the Future Doesn't Need Us
-
-metaTags
-printTitle
-
-<div style="max-width: 450px;">
+Why the Future Doesn't Need Us
+==============================
 
 _This long essay was published by Wired Magazine in April 2000. It is authored by Bill Joy, creator of the vi editor and co-founder of Sun Microsystems._
- https://www.wired.com/2000/04/joy-2/ April 2000
- https://en.wikipedia.org/wiki/Bill_Joy Bill Joy
- https://en.wikipedia.org/wiki/Vi vi editor
+ https://www.wired.com/2000/04/joy-2/
+ https://en.wikipedia.org/wiki/Bill_Joy
+ https://en.wikipedia.org/wiki/Vi
 
-# Our most powerful 21st-century technologies — robotics, genetic engineering, and nanotech — are threatening to make humans an endangered species.
- style font-size: 2em;
+Our most powerful 21st-century technologies — robotics, genetic engineering, and nanotech — are threatening to make humans an endangered species.
+=================================================================================================================================================
 
 FROM THE MOMENT I became involved in the creation of new technologies, their ethical dimensions have concerned me, but it was only in the autumn of 1998 that I became anxiously aware of how great are the dangers facing us in the 21st century. I can date the onset of my unease to the day I met Ray Kurzweil, the deservedly famous inventor of the first reading machine for the blind and many other amazing things.
- https://www.wired.com/2008/03/ff-kurzweil/ Ray Kurzweil
-
-endSnippet
+ https://www.wired.com/2008/03/ff-kurzweil/
 
 Ray and I were both speakers at George Gilder's Telecosm conference, and I encountered him by chance in the bar of the hotel after both our sessions were over. I was sitting with John Searle, a Berkeley philosopher who studies consciousness. While we were talking, Ray approached and a conversation began, the subject of which haunts me to this day.
- https://www.wired.com/2002/07/gilder-6/ George Gilder
+ https://www.wired.com/2002/07/gilder-6/
 
 I had missed Ray's talk and the subsequent panel that Ray and John had been on, and they now picked right up where they'd left off, with Ray saying that the rate of improvement of technology was going to accelerate and that we were going to become robots or fuse with robots or something like that, and John countering that this couldn't happen, because the robots couldn't be conscious.
- https://www.wired.com/story/artificial-intelligence-consciousness/ robots couldn't be conscious
+ https://www.wired.com/story/artificial-intelligence-consciousness/
 
 While I had heard such talk before, I had always felt sentient robots were in the realm of science fiction. But now, from someone I respected, I was hearing a strong argument that they were a near-term possibility. I was taken aback, especially given Ray's proven ability to imagine and create the future. I already knew that new technologies like genetic engineering and nanotechnology were giving us the power to remake the world, but a realistic and imminent scenario for intelligent robots surprised me.
 
@@ -35,7 +24,8 @@ It's easy to get jaded about such breakthroughs. We hear in the news almost ever
 
 I found myself most troubled by a passage detailing a dystopian scenario:
 
-## The New Luddite Challenge
+The New Luddite Challenge
+=========================
 
 First let us postulate that the computer scientists succeed in developing intelligent machines that can do all things better than human beings can do them. In that case presumably all work will be done by vast, highly organized systems of machines and no human effort will be necessary. Either of two cases might occur. The machines might be permitted to make all of their own decisions without human oversight, or else human control over the machines might be retained.
 
@@ -53,7 +43,8 @@ The cause of many such surprises seems clear: The systems involved are complex, 
 
 I started showing friends the Kaczynski quote from _The Age of Spiritual Machines_; I would hand them Kurzweil's book, let them read the quote, and then watch their reaction as they discovered who had written it. At around the same time, I found Hans Moravec's book _Robot: Mere Machine to Transcendent Mind_. Moravec is one of the leaders in robotics research, and was a founder of the world's largest robotics research program, at Carnegie Mellon University. _Robot_ gave me more material to try out on my friends—material surprisingly supportive of Kaczynski's argument. For example:
 
-## The Short Run (Early 2000s)
+The Short Run (Early 2000s)
+===========================
 
 Biological species almost never survive encounters with superior competitors. Ten million years ago, South and North America were separated by a sunken Panama isthmus. South America, like Australia today, was populated by marsupial mammals, including pouched equivalents of rats, deers, and tigers. When the isthmus connecting North and South America rose, it took only a few thousand years for the northern placental species, with slightly more effective metabolisms and reproductive and nervous systems, to displace and eliminate almost all the southern marsupials.
 
@@ -64,7 +55,7 @@ There is probably some breathing room, because we do not live in a completely fr
 A textbook dystopia—and Moravec is just getting wound up. He goes on to discuss how our main job in the 21st century will be “ensuring continued cooperation from the robot industries” by passing laws decreeing that they be “nice,” and to describe how seriously dangerous a human can be “once transformed into an unbounded superintelligent robot.”^3 Moravec's view is that the robots will eventually succeed us—that humans clearly face extinction.
 
 I decided it was time to talk to my friend Danny Hillis. Danny became famous as the cofounder of Thinking Machines Corporation, which built a very powerful parallel supercomputer. Despite my current job title of Chief Scientist at Sun Microsystems, I am more a computer architect than a scientist, and I respect Danny's knowledge of the information and physical sciences more than that of any other single person I know. Danny is also a highly regarded futurist who thinks long-term—four years ago he started the Long Now Foundation, which is building a clock designed to last 10,000 years, in an attempt to draw attention to the pitifully short attention span of our society. (See “Test of Time,” Wired 8.03.)
- https://www.wired.com/2000/03/test-of-time/ Test of Time
+ https://www.wired.com/2000/03/test-of-time/
 
 So I flew to Los Angeles for the express purpose of having dinner with Danny and his wife, Pati. I went through my now-familiar routine, trotting out the ideas and passages that I found so disturbing. Danny's answer—directed specifically at Kurzweil's scenario of humans merging with robots—came swiftly, and quite surprised me. He said, simply, that the changes would come gradually, and that we would get used to them.
 
@@ -141,7 +132,7 @@ Genetic engineering promises to revolutionize agriculture by increasing crop yie
 Technologies such as human cloning have in particular raised our awareness of the profound ethical and moral issues we face. If, for example, we were to reengineer ourselves into several separate and unequal species using the power of genetic engineering, then we would threaten the notion of equality that is the very cornerstone of our democracy.
 
 Given the incredible power of genetic engineering, it's no surprise that there are significant safety issues in its use. My friend Amory Lovins recently cowrote, along with Hunter Lovins, an editorial that provides an ecological view of some of these dangers. Among their concerns: that “the new botany aligns the development of plants with their economic, not evolutionary, success.” (See “A Tale of Two Botanies”) Amory's long career has been focused on energy and resource efficiency by taking a whole-system view of human-made systems; such a whole-system view often finds simple, smart solutions to otherwise seemingly difficult problems, and is usefully applied here as well.
- https://www.wired.com/wired/archive/8.04/botanies.html A Tale of Two Botanies
+ https://www.wired.com/wired/archive/8.04/botanies.html
 
 After reading the Lovins' editorial, I saw an op-ed by Gregg Easterbrook in _The New York Times_ (November 19, 1999) about genetically engineered crops, under the headline: “Food for the Future: Someday, rice will have built-in vitamin A. Unless the Luddites win.”
 
@@ -330,7 +321,7 @@ So I'm still searching; there are many more things to learn. Whether we are to s
 
 ---
 
-^1 The passage Kurzweil quotes is from Kaczynski's Unabomber Manifesto, which was published jointly, under duress, by _The New York Times_ and _The Washington Post_ to attempt to bring his campaign of terror to an end. I agree with David Gelernter, who said about their decision:
+^1: The passage Kurzweil quotes is from Kaczynski's Unabomber Manifesto, which was published jointly, under duress, by _The New York Times_ and _The Washington Post_ to attempt to bring his campaign of terror to an end. I agree with David Gelernter, who said about their decision:
 
 “It was a tough call for the newspapers. To say yes would be giving in to terrorism, and for all they knew he was lying anyway. On the other hand, to say yes might stop the killing. There was also a chance that someone would read the tract and get a hunch about the author; and that is exactly what happened. The suspect's brother read it, and it rang a bell.
 
@@ -338,57 +329,52 @@ So I'm still searching; there are many more things to learn. Whether we are to s
 
 ( Drawing Life: Surviving the Unabomber. Free Press, 1997: 120.)
 
-^2 Garrett, Laurie. The Coming Plague: Newly Emerging Diseases in a World Out of Balance. Penguin, 1994: 47-52, 414, 419, 452.
+^2: Garrett, Laurie. The Coming Plague: Newly Emerging Diseases in a World Out of Balance. Penguin, 1994: 47-52, 414, 419, 452.
 
-^3 Isaac Asimov described what became the most famous view of ethical rules for robot behavior in his book _I, Robot_ in 1950, in his Three Laws of Robotics: 1. A robot may not injure a human being, or, through inaction, allow a human being to come to harm. 2. A robot must obey the orders given it by human beings, except where such orders would conflict with the First Law. 3. A robot must protect its own existence, as long as such protection does not conflict with the First or Second Law.
+^3: Isaac Asimov described what became the most famous view of ethical rules for robot behavior in his book _I, Robot_ in 1950, in his Three Laws of Robotics: 1. A robot may not injure a human being, or, through inaction, allow a human being to come to harm. 2. A robot must obey the orders given it by human beings, except where such orders would conflict with the First Law. 3. A robot must protect its own existence, as long as such protection does not conflict with the First or Second Law.
 
-^4 Michelangelo wrote a sonnet that begins:
+^4: Michelangelo wrote a sonnet that begins:
 
-quote
- Non ha l' ottimo artista alcun concetto
- Ch' un marmo solo in sè non circonscriva
- Col suo soverchio; e solo a quello arriva
- La man che ubbidisce all' intelleto.
+Non ha l' ottimo artista alcun concetto
+Ch' un marmo solo in sè non circonscriva
+Col suo soverchio; e solo a quello arriva
+La man che ubbidisce all' intelleto.
 
 Stone translates this as:
 
-quote
- The best of artists hath no thought to show
- which the rough stone in its superfluous shell
- doth not include; to break the marble spell
- is all the hand that serves the brain can do.
+The best of artists hath no thought to show
+which the rough stone in its superfluous shell
+doth not include; to break the marble spell
+is all the hand that serves the brain can do.
 
 Stone describes the process: “He was not working from his drawings or clay models; they had all been put away. He was carving from the images in his mind. His eyes and hands knew where every line, curve, mass must emerge, and at what depth in the heart of the stone to create the low relief.”
 
 (The Agony and the Ecstasy. Doubleday, 1961: 6, 144.)
 
-^5 First Foresight Conference on Nanotechnology in October 1989, a talk titled “The Future of Computation.” Published in Crandall, B. C. and James Lewis, editors. Nanotechnology: Research and Perspectives. MIT Press, 1992: 269.
+^5: First Foresight Conference on Nanotechnology in October 1989, a talk titled “The Future of Computation.” Published in Crandall, B. C. and James Lewis, editors. Nanotechnology: Research and Perspectives. MIT Press, 1992: 269.
 
-^6 In his 1963 novel _Cat's Cradle_, Kurt Vonnegut imagined a gray-goo-like accident where a form of ice called ice-nine, which becomes solid at a much higher temperature, freezes the oceans.
+^6: In his 1963 novel _Cat's Cradle_, Kurt Vonnegut imagined a gray-goo-like accident where a form of ice called ice-nine, which becomes solid at a much higher temperature, freezes the oceans.
 
-^7 Kauffman, Stuart. “Self-replication: Even Peptides Do It.” Nature, 382, August 8, 1996: 496.
+^7: Kauffman, Stuart. “Self-replication: Even Peptides Do It.” Nature, 382, August 8, 1996: 496.
 
-^8 Else, Jon. The Day After Trinity: J. Robert Oppenheimer and The Atomic Bomb.
+^8: Else, Jon. The Day After Trinity: J. Robert Oppenheimer and The Atomic Bomb.
 
-^9 This estimate is in Leslie's book _The End of the World: The Science and Ethics of Human Extinction_, where he notes that the probability of extinction is substantially higher if we accept Brandon Carter's Doomsday Argument, which is, briefly, that “we ought to have some reluctance to believe that we are very exceptionally early, for instance in the earliest 0.001 percent, among all humans who will ever have lived. This would be some reason for thinking that humankind will not survive for many more centuries, let alone colonize the galaxy. Carter's doomsday argument doesn't generate any risk estimates just by itself. It is an argument for _revising_ the estimates which we generate when we consider various possible dangers.” (Routledge, 1996: 1, 3, 145.)
+^9: This estimate is in Leslie's book _The End of the World: The Science and Ethics of Human Extinction_, where he notes that the probability of extinction is substantially higher if we accept Brandon Carter's Doomsday Argument, which is, briefly, that “we ought to have some reluctance to believe that we are very exceptionally early, for instance in the earliest 0.001 percent, among all humans who will ever have lived. This would be some reason for thinking that humankind will not survive for many more centuries, let alone colonize the galaxy. Carter's doomsday argument doesn't generate any risk estimates just by itself. It is an argument for _revising_ the estimates which we generate when we consider various possible dangers.” (Routledge, 1996: 1, 3, 145.)
 
-^10 Clarke, Arthur C. “Presidents, Experts, and Asteroids.” Science, June 5, 1998. Reprinted as “Science and Society” in Greetings, Carbon-Based Bipeds! Collected Essays, 1934-1998. St. Martin's Press, 1999: 526.
+^10: Clarke, Arthur C. “Presidents, Experts, and Asteroids.” Science, June 5, 1998. Reprinted as “Science and Society” in Greetings, Carbon-Based Bipeds! Collected Essays, 1934-1998. St. Martin's Press, 1999: 526.
 
-^11 And, as David Forrest suggests in his paper “Regulating Nanotechnology Development,” “If we used strict liability as an alternative to regulation it would be impossible for any developer to internalize the cost of the risk (destruction of the biosphere), so theoretically the activity of developing nanotechnology should never be undertaken.” Forrest's analysis leaves us with only government regulation to protect us—not a comforting thought.
+^11: And, as David Forrest suggests in his paper “Regulating Nanotechnology Development,” “If we used strict liability as an alternative to regulation it would be impossible for any developer to internalize the cost of the risk (destruction of the biosphere), so theoretically the activity of developing nanotechnology should never be undertaken.” Forrest's analysis leaves us with only government regulation to protect us—not a comforting thought.
 
-^12 Meselson, Matthew. “The Problem of Biological Weapons.” Presentation to the 1,818th Stated Meeting of the American Academy of Arts and Sciences, January 13, 1999.
+^12: Meselson, Matthew. “The Problem of Biological Weapons.” Presentation to the 1,818th Stated Meeting of the American Academy of Arts and Sciences, January 13, 1999.
 
-^13 Doty, Paul. “The Forgotten Menace: Nuclear Weapons Stockpiles Still Represent the Biggest Threat to Civilization.” Nature, 402, December 9, 1999: 583.
+^13: Doty, Paul. “The Forgotten Menace: Nuclear Weapons Stockpiles Still Represent the Biggest Threat to Civilization.” Nature, 402, December 9, 1999: 583.
 
-^14 See also Hans Bethe's 1997 letter to President Clinton.
+^14: See also Hans Bethe's 1997 letter to President Clinton.
 
-^15 Hamilton, Edith. The Greek Way. W. W. Norton & Co., 1942: 35.
+^15: Hamilton, Edith. The Greek Way. W. W. Norton & Co., 1942: 35.
 
 ---
 
 _Bill Joy, cofounder and Chief Scientist of Sun Microsystems, was cochair of the presidential commission on the future of IT research, and is coauthor of The Java Language Specification. His work on the Jini pervasive computing technology was featured in Wired 6.08._
 
-</div>
-
 viewSource
-tufteCss
