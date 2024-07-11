@@ -1,7 +1,8 @@
 baseUrl https://breckyunits.com/library/
+buildHtml
+buildTxt
 date 04/01/2000
 email breck@breckyunits.com
-git https://github.com/breck7/breckyunits.com
 title Why the Future Doesn't Need Us
 
 metaTags
