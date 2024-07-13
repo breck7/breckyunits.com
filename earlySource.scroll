@@ -1,0 +1,42 @@
+date 7/13/2024
+groups All Startups
+title Early Source
+
+import header.scroll
+printTitle
+
+# A New Business Model for Public Domain Software
+
+mediumColumns 1
+
+I run a private git repo that you can subscribe to for $499,999. People think I must be trolling. But I'm not^troll.
+ https://breckyunits.com/lab.html private git repo
+ dateline
+
+That repo is where all our works-in-progress live before they get published to the public domain.
+
+Everyone will be able to use the things we publish. If you pay, you get to use them early.
+
+This business model I'm calling "Early Source".
+
+endSnippet
+
+# Early Source
+
+Early Source is a new business model for public domain, open source software. You publish your software to the public domain, but with a delay of N years. Professionals that most benefit from faster updates pay you for access to the private, cutting edge version.
+
+Early Source is a win-win-win-win:
+
+- It's a win for your most loyal customers who can pay you a simple fee for a simple deal and get early features fast
+- It's a win for your business model as you can benefit from the lower costs of open source while still keeping something scarce to sell
+- It's a win for casual users around the world who now can benefit from your older software and will know who to buy from if they later become professionals
+- It's a win for your ideas because you can now make them as good as possible, something you can only do if they are public domain
+
+What are the downsides? Let me hear it in the comments.
+
+# Notes
+^troll Who would pay $500K for access to a git repo? Someone who manages a lot of money, and notices a common node in many of the unicorns of the past 20 years. (But also, it's sort of a troll, with a hidden easter egg)
+
+****
+
+import footer.scroll

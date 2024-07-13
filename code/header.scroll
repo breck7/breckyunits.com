@@ -3,4 +3,4 @@ importOnly
 import settings.scroll
 metaTags
 import ../gazetteTag.scroll
-gazetteHeader
+pageHeader

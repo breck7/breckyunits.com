@@ -3,7 +3,7 @@ title Breck's Code Blog
 import settings.scroll
 metaTags
 import ../gazetteTag.scroll
-gazetteHeader
+pageHeader
 printTitle
 printSnippets index
 import footer.scroll

@@ -7,7 +7,7 @@ title Breck's Blog - CAT_TITLE Posts
 import settings.scroll
 metaTags
 import gazetteTag.scroll
-gazetteHeader
+pageHeader
 printTitle
 import categoryLinks.scroll
 css html {font-size: var(--base-font-size, 8px);}
