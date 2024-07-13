@@ -1,7 +1,6 @@
 https://breckyunits.com/wws.html
 https://breckyunits.com/writing.html
 https://breckyunits.com/when-woman-is-boss.html
-https://breckyunits.com/vestEarlyVestOften.html
 https://breckyunits.com/treeNotation.html
 https://breckyunits.com/thinking.html
 https://breckyunits.com/teslaAutobiography.html
@@ -22,6 +21,7 @@ https://breckyunits.com/csv.html
 https://breckyunits.com/bipolar.html
 https://breckyunits.com/about.html
 https://breckyunits.com/earlySource.html
+https://breckyunits.com/vestEarlyVestOften.html
 https://breckyunits.com/ipdd.html
 https://breckyunits.com/checkbox.html
 https://breckyunits.com/investments.html
