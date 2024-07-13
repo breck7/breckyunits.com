@@ -3,8 +3,13 @@ Breck's Blog - Startups Posts
 
 Vest Early. Vest Often.
 =======================
-07/11/2024
+07/13/2024
 https://breckyunits.com/vestEarlyVestOften.html
+
+Early Source
+============
+07/13/2024
+https://breckyunits.com/earlySource.html
 
 CheckBox: An Online + Offline Voting System
 ===========================================
