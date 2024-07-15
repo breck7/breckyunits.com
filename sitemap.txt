@@ -8,6 +8,7 @@ https://breckyunits.com/startups.html
 https://breckyunits.com/society.html
 https://breckyunits.com/search.html
 https://breckyunits.com/programming.html
+https://breckyunits.com/parserStats.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
 https://breckyunits.com/life.html
 https://breckyunits.com/index.html
