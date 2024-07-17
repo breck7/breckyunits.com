@@ -1,11 +1,11 @@
 date 6/2/2013
 groups All Programming ScrollNotation
+related wws
 title SpaceNet: A successor to the Internet
 
 import header.scroll
 printTitle
 thinColumns 1
-related wws
 
 I have an idea for a simpler Internet, where a human could hold in their head, how it all works, all at once.
  dateline

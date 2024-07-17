@@ -1,7 +1,7 @@
 date 6/12/2024
 groups All ScrollNotation Programming Society
-title The World Wide Scroll
 permalink wws.html
+title The World Wide Scroll
 
 import header.scroll
 printTitle

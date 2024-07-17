@@ -1,5 +1,6 @@
 date 2/24/2024
 groups All BipolarEnergy Programming Life
+related brain-pilots marvin-minsky
 title A Different Kind of Mindmap
 
 import header.scroll
@@ -28,5 +29,8 @@ I was in my twenties when I first learned the simple writing technique of "mind 
  link wiwmin.png learned
 
 ****
+
+# Related Posts
+printRelatedList
 
 import footer.scroll

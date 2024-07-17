@@ -1,11 +1,10 @@
 date 7/13/2024
 groups All Startups
+openGraphImage lab.jpg
 title Early Source
 
 import header.scroll
 printTitle
-
-openGraphImage lab.jpg
 
 # A New Business Model for Public Domain Software
 
