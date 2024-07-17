@@ -1,10 +1,9 @@
-groups All Startups
-
 date 7/4/2024
+groups All Startups
+title Vest Early. Vest Often.
 
 import header.scroll
 printTitle
-title Vest Early. Vest Often.
 
 # Silicon Valley Should Eliminate the 1 Year Cliff
 

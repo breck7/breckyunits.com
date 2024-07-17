@@ -66,6 +66,11 @@ He didn't figure it all out but he certainly found a solid foundation. The peopl
 
 Related reading
 ===============
+- Brain Pilots (2022)
+ https://breckyunits.com/brain-pilots.html
+- A Different Kind of Mindmap (2024)
+ https://breckyunits.com/mindmap.html
+
 - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
  https://www.lesswrong.com/tag/subagents
  https://www.lesswrong.com/

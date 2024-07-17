@@ -1,10 +1,10 @@
-import header.scroll
-openGraphImage tesla.jpeg
-title My Inventions
+author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 buildHtml
 buildTxt
+openGraphImage tesla.jpeg
+title My Inventions
 
-author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
+import header.scroll
 
 printTitle
 

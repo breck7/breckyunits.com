@@ -65,7 +65,7 @@ Online voting is a technical problem, not a political problem. No existing techn
 
 Solution
 ========
-We invented the Space language (_2024 note: this is now called Scroll Notation_), which is the key technical innovation behind CheckBox. Space is the only language that is simple and powerful enough for online voting. 
+We invented the Space language (_2024 note: this is now called Scroll Notation_), which is the key technical innovation behind CheckBox. Space is the only language that is simple and powerful enough for online voting.
 
 It offers:
 - Secure Voting

@@ -1,5 +1,6 @@
 date 5/09/2023
 groups All BipolarEnergy Life
+related brain-pilots mindmap
 title The Magnificent Multi-Agent Mind of Marvin Minsky
 
 import header.scroll
@@ -70,6 +71,8 @@ He didn't figure it all out but he certainly found a solid foundation. The peopl
 ****
 
 # Related reading
+printRelatedList
+
 - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
  https://www.lesswrong.com/tag/subagents Subagent Model of the Mind
  https://www.lesswrong.com/ LessWrong
