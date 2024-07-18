@@ -61,7 +61,7 @@
 <p class="scrollParagraph">Here's how it looks if you plot visits by karma score:</p>
 <figure class="scrollCaptionedFigure"><a href="visits_by_karma.png" target="_blank"  ><img src="visits_by_karma.png" width="483" height="291" loading="lazy"></a></figure>
 <p class="scrollParagraph">The Pearson Correlation is high: 0.894. Here's the raw data:</p>
-<table id="table93" class="scrollTable">
+<table id="table95" class="scrollTable">
  <thead><tr><th>Karma</th>
 
 <th>Visits</th>
@@ -106,7 +106,7 @@
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table93').addEventListener('click', e => {
+ document.querySelector('#table95').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });

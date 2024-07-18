@@ -1,0 +1,38 @@
+ETA!: A Measure of Evolution
+============================
+by Breck Yunits
+July 18, 2024
+
+HTML | TXT
+ https://breckyunits.com/eta.html
+ https://breckyunits.com/eta.txt
+
+Are some intellectual environments better than others? Yes.
+
+\text{E} = \text{T} \text{A}!
+
+EvolutionSpeed(I) = Time(I') * AssemblyPool!
+
+ETA! states that $E$, the evolution speed of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+
+***
+
+\text{EvolutionSpeed}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+
+***
+
+You can lengthen the lifespan of bad ideas by increasing the time to test alterations or reducing the size of the Assembly Pool.
+
+You can evolve good ideas faster by decreasing the time to test alterations and increasing the size of the Assembly Pool.
+
+****
+
+Notes
+=====
+- Thank you to Lee Cronin and Sara Walker for evolving the idea of the Assembly Pool.
+ https://x.com/leecronin
+ https://x.com/Sara_Imari
+ https://en.wikipedia.org/wiki/Assembly_theory
+- Thank you to Szymon Łukaszyk who's applications of Assembly Theory to binary messages encouraged me to apply Assembly Theory to measure the health of information environments.
+ https://x.com/szymongus
+- Thank you to my coauthor John. Without your help I never would have arrived at this equation.

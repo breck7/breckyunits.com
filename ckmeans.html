@@ -76,7 +76,7 @@
 <div class="scrollSection"><h1 class="scrollParagraph">Benchmarking shows closer to n² than n·log(n)</h1>
 <p class="scrollParagraph">Indeed, my benchmark results indicated <code>ckmeans</code> was closer to the much slower <code>O(n²)</code> class than the claimed <code>O(n·log(n))</code> class.</p>
 </div>
-<table id="table100" class="scrollTable">
+<table id="table102" class="scrollTable">
  <thead><tr><th>Rows</th>
 
 <th>Time</th>
@@ -101,7 +101,7 @@
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table100').addEventListener('click', e => {
+ document.querySelector('#table102').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -127,7 +127,7 @@ if (iMax < matrix<b style="background-color: rgb(139,197,130); color: rgb(35,85,
 After  x 52ms</code>
 <figure class="scrollCaptionedFigure"><a href="the-three-byte-fix.png" target="_blank"  ><img src="the-three-byte-fix.png" width="1240" height="1084" loading="lazy"></a><figcaption><p class="scrollParagraph"><a href="https://www.datawrapper.de/_/vrQfc/">Interactive Version.</a></p></figcaption></figure>
 <p class="scrollParagraph">You can easily see the difference when you look at time needed per additional row as the number of rows increases:</p>
-<table id="table101" class="scrollTable">
+<table id="table103" class="scrollTable">
  <thead><tr><th>Rows</th>
 
 <th>LogLinear</th>
@@ -152,13 +152,13 @@ After  x 52ms</code>
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table101').addEventListener('click', e => {
+ document.querySelector('#table103').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
  </script>
 <details><summary >Full Dataset</summary>
-<table id="table102" class="scrollTable">
+<table id="table104" class="scrollTable">
  <thead><tr><th>Rows</th>
 
 <th>LogLinear</th>
@@ -207,7 +207,7 @@ After  x 52ms</code>
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table102').addEventListener('click', e => {
+ document.querySelector('#table104').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });

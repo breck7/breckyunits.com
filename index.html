@@ -75,6 +75,32 @@
 }</style>
 <style>html {font-size: var(--base-font-size, 8px);}</style>
 <div class="scrollColumns" style="column-width:35ch;"><div class="scrollSnippetContainer"><style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
+<div class="scrollSection"><h1 class="scrollTitle"><a href="eta.html">ETA!: A Measure of Evolution</a></h1>
+<div class="scrollByLine">by <a href="https://breckyunits.com">Breck Yunits</a></div>
+<div style="text-align: center;" class="scrollDateline">July 18, 2024</div>
+</div>
+<p style="text-align: center;" class="scrollDateline"><a href="eta.html">HTML</a> | <a href="eta.txt">TXT</a></p>
+<p class="scrollParagraph">Are some intellectual environments better than others? Yes.</p>
+<br><br>
+<center>
+<link rel="stylesheet" href="katex.min.css">
+<script defer src="katex.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".scrollKatex").forEach(el =>
+ {
+  katex.render(el.innerText, el, {
+      throwOnError: false
+  });
+ }
+))
+</script>
+
+<div class="scrollKatex" id="1">\text{E} = \text{T} \text{A}!</div>
+</center>
+<br><br>
+<p class="scrollParagraph">ETA! states that <span  class="scrollKatex">E</span>, the evolution speed of ideas, is the time <span  class="scrollKatex">T</span> needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool <span  class="scrollKatex">A!</span>.</p><a class="scrollContinueReadingLink" href="eta.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
 <div class="scrollSection"><h1 class="scrollTitle"><a href="earlySource.html">Early Source</a></h1>
 </div>
 <div class="scrollSection"><h1 class="scrollParagraph">A New Business Model for Public Domain Software</h1>
@@ -134,19 +160,7 @@
 <p class="scrollParagraph">Can we quantify intelligence? Yes.</p>
 <br><br>
 <center>
-<link rel="stylesheet" href="katex.min.css">
-<script defer src="katex.min.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".scrollKatex").forEach(el =>
- {
-  katex.render(el.innerText, el, {
-      throwOnError: false
-  });
- }
-))
-</script>
-
-<div class="scrollKatex" id="1">{Intelligence}(P) = \frac{\text{Coverage}(P)}{\text{Size}(P)}</div>
+<div class="scrollKatex" id="2">{Intelligence}(P) = \frac{\text{Coverage}(P)}{\text{Size}(P)}</div>
 </center>
 <br><br>
 <p class="scrollParagraph">Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).</p>
@@ -160,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => document.querySelectorAll(".
 <div class="scrollByLine">by <a href="https://breckyunits.com">Breck Yunits</a></div>
 <p class="scrollParagraph"><span class="scrollDateline">May 31, 2024 — </span>Yesterday, on a plane, I found an equation I sought for a decade.</p>
 <center>
-<div class="scrollKatex" id="2">P = {C^R}^I</div>
+<div class="scrollKatex" id="3">P = {C^R}^I</div>
 </center><a class="scrollContinueReadingLink" href="pcri.html">Continue reading...</a></div>
 
 <div class="scrollSnippetContainer"><style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
@@ -895,7 +909,7 @@ Back of the envelope numbers are fine!"</blockquote>
 <p class="scrollParagraph">Some went unanswered.</p>
 <p class="scrollParagraph">But five coders wrote back.</p>
 <p class="scrollParagraph">This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting--and a testament to practice!</p>
-<table id="table21" class="scrollTable">
+<table id="table22" class="scrollTable">
  <thead><tr><th>Name</th>
 
 <th>GitHubId</th>
@@ -938,7 +952,7 @@ Back of the envelope numbers are fine!"</blockquote>
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table21').addEventListener('click', e => {
+ document.querySelector('#table22').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -1442,7 +1456,7 @@ so it's hey for the joyous and rollicking lad--for the One Who Delivers the Good
 <div class="scrollSection"><h1 class="scrollTitle"><a href="flee-the-bubble.html">Flee the Bubble</a></h1>
 </div>
 <p class="scrollParagraph"><span class="scrollDateline">January 5, 2010 — </span>Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:</p>
-<table id="table4" class="scrollTable">
+<table id="table5" class="scrollTable">
  <thead><tr><th>Type</th>
 
 <th>Count</th>
@@ -1479,7 +1493,7 @@ so it's hey for the joyous and rollicking lad--for the One Who Delivers the Good
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table4').addEventListener('click', e => {
+ document.querySelector('#table5').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
