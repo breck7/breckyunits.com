@@ -11,13 +11,15 @@ Are some intellectual environments better than others? Yes.
 
 \text{E} = \text{T} \text{A}!
 
-EvolutionSpeed(I) = Time(I') * AssemblyPool!
+EvolutionTime(I) = Time(I') * AssemblyPool!
 
-ETA! states that $E$, the evolution speed of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+
+Longer evolution times means worse ideas last longer before evolving into better ideas.
 
 ***
 
-\text{EvolutionSpeed}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+\text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
 
 ***
 
