@@ -24,18 +24,21 @@ Are some intellectual environments better than others? Yes.
 katex
  \text{E} = \text{T} \text{A}!
 
-plainTextOnly EvolutionSpeed(I) = Time(I') * AssemblyPool!
+plainTextOnly EvolutionTime(I) = Time(I') * AssemblyPool!
 </center>
 <br><br>
 
-ETA! states that $E$, the evolution speed of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
  // fitness of alterations
  // average time
+ // more evolution time === slower, longer duration of ideas staying in worse states
+
+Longer evolution times means worse ideas last longer before evolving into better ideas.
 
 ***
 
 katex
- \text{EvolutionSpeed}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+ \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
 
 ***
 
