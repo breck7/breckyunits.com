@@ -7,7 +7,7 @@ title Write Thin to Write Fast
 import header.scroll
 printTitle
 
-printAuthor
+printAuthors
 
 thinColumns 2
 

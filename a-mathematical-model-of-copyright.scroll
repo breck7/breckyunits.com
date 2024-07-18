@@ -6,7 +6,7 @@ title A Mathematical Model of Copyright
 import header.scroll
 printTitle
 thinColumns 2
-printAuthor
+printAuthors
 
 // chatGptSummary The essay introduces a mathematical model of copyright, analyzing its predicted effects, including an increase in fashions, fictions, and copies relative to distinct ideas, a decrease in the average thinker's skillset, a shift in the objective functions of artifacts towards serving the objectives of copyright holders, and consolidation of power in a small Royal Class.
 

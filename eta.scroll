@@ -5,7 +5,7 @@ title ETA!: A Measure of Evolution
 
 import header.scroll
 printTitle
-printAuthor
+printAuthors
 printDate
 
 HTML | TXT
