@@ -5,7 +5,7 @@ title The Omni Restaurant
 import header.scroll
 thinColumns 1
 printTitle
-printAuthor
+printAuthors
 printDate
 
 A famous celebrity passes away and wakes up on a beach.

@@ -1,3 +1,5 @@
+author  Others
+
 How James Park built FitBit
 ===========================
 

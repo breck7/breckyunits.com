@@ -5,7 +5,7 @@ title Time
 import header.scroll
 printTitle
 
-printAuthor
+printAuthors
 
 thinColumns 1
 

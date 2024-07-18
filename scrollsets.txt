@@ -7,6 +7,7 @@ HTML | TXT | PDF
  https://breckyunits.com/scrollsets.pdf
 
 by Breck Yunits
+ https://breckyunits.com
 May 21, 2024
 
 All tabular knowledge can be stored in a single long plain text file.

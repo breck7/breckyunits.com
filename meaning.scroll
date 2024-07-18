@@ -6,7 +6,7 @@ title The Choice
 
 import header.scroll
 printTitle
-printAuthor
+printAuthors
 
 thinColumns 1
 

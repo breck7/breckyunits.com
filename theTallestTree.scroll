@@ -7,7 +7,7 @@ import header.scroll
 printTitle
 // what are the black swans of black swans?
 
-printAuthor
+printAuthors
 
 thinColumns 1
 

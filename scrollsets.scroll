@@ -12,7 +12,7 @@ HTML | TXT | PDF
  link scrollsets.txt TXT
  link scrollsets.pdf PDF
 
-printAuthor
+printAuthors
 printDate
 
 // thinColumns 3

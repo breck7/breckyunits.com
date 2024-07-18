@@ -1,4 +1,5 @@
-author https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
+authors Nikola Tesla
+ https://en.wikipedia.org/wiki/Nikola_Tesla Nikola Tesla
 buildHtml
 buildTxt
 openGraphImage tesla.jpeg
@@ -9,7 +10,7 @@ import header.scroll
 printTitle
 
 # Nikola Tesla's Autobiography
-printAuthor
+printAuthors
 
 ## Source
  http://www.tfcbooks.com/special/my_inventions_index.htm
