@@ -3,9 +3,6 @@ Could in vitro brains power AI?
 The advance of AGI is _currently_ stoppable
 ===========================================
 
-[Image Omitted]
- I don't think autonomous AI becomes dangerous until this happens.
-
 January 1, 2024
 
 Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
@@ -13,6 +10,12 @@ Short of an extraterrestrial projectile hitting earth, Artificial Neural Network
 ***
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
+
+[Image Omitted]
+ height 100
+ width 300
+ float right
+ I don't think autonomous AI becomes dangerous until this happens.
 
 Fabs are very complex and expensive factories with a building cost in the billions. They are not something you can easily hide. If given the order in the morning, the U. S. Military could probably knock out every fab in the world by evening. I would not be surprised if there is a team somewhere monitoring all the world's fabs and developing exactly that kind of option. Maybe China has a team like that too.
 
