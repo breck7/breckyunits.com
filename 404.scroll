@@ -5,6 +5,8 @@ import header.scroll
 printTitle
 thinColumns 1
 
+<link rel="stylesheet" type="text/css" href="/gazette.css" />
+
 Sorry, the url you requested was not found.
 
 helpfulNotFound /sitemap.txt /code/sitemap.txt
