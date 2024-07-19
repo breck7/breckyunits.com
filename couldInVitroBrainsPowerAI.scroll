@@ -5,12 +5,7 @@ title Could in vitro brains power AI?
 import header.scroll
 printTitle
 # The advance of AGI is _currently_ stoppable
-thinColumns 2
-
-image brainVat.jpg
- caption I don't think autonomous AI becomes dangerous until this happens.
- // ChatGPT:
-  xkcd style comic. single pane. no color. inside a shipping container is a giant ball of brain, and on top its hooked up to a web of electrodes that connect to a computer plugged into the internet
+mediumColumns 1
 
 Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
  dateline
@@ -18,6 +13,14 @@ Short of an extraterrestrial projectile hitting earth, Artificial Neural Network
 ***
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
+
+image brainVat.jpg
+ height 100
+ width 300
+ float right
+ caption I don't think autonomous AI becomes dangerous until this happens.
+ // ChatGPT:
+  xkcd style comic. single pane. no color. inside a shipping container is a giant ball of brain, and on top its hooked up to a web of electrodes that connect to a computer plugged into the internet
 
 Fabs are very complex and expensive factories with a building cost in the billions. They are not something you can easily hide. If given the order in the morning, the U. S. Military could probably knock out every fab in the world by evening. I would not be surprised if there is a team somewhere monitoring all the world's fabs and developing exactly that kind of option. Maybe China has a team like that too.
 
