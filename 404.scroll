@@ -2,6 +2,7 @@ buildHtml
 title Page not found
 
 import header.scroll
+homeUrl /index.html
 printTitle
 thinColumns 1
 
