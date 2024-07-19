@@ -54,12 +54,28 @@
  ****
  
  # Notes
+ - After feedback from Szymon Łukaszyk it became clear to me the more precise formula is:
+  https://x.com/breckyunits/status/1814323549416652860 After feedback from Szymon Łukaszyk
+ 
+ 
+ 
+ katex
+  \sum_{A=0}^{A} A^A
+ 
+ 
+ 
+ Luckily $A^A$ is still in the factorial class so the memorable acronym still applies.
+  https://x.com/breckyunits/status/1814324339543789651 is still in the factorial class
+ 
  - Thank you to Lee Cronin and Sara Walker for evolving the idea of the Assembly Pool.
   https://x.com/leecronin Lee Cronin
   https://x.com/Sara_Imari Sara Walker
   https://en.wikipedia.org/wiki/Assembly_theory Assembly Pool
  - Thank you to Szymon Łukaszyk who's applications of Assembly Theory to binary messages encouraged me to apply Assembly Theory to measure the health of information environments.
   https://x.com/szymongus Szymon Łukaszyk
+ - Thank you to Connor McCormick for superb feedback.
+  https://warpcast.com/nor Connor McCormick
+  https://warpcast.com/nor/0xf847d93e superb feedback
  - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
  
  import footer.scroll
