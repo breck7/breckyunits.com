@@ -13,9 +13,9 @@ You can then easily differentiate problems. Some companies are dealing with 12 D
 What do you think?
 
 This occurred to me recently as I just started following Big Data on Quora and was surprised to see the term used so loosely, when data is something so easily measurable. For example, a 2011 Big Data report from McKinsey defined big data as ranging "from a few dozen terabytes to multiple petabytes (thousands of terabytes)." Wikipedia defines Big Data as "a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools or traditional data processing applications."
- http://www.quora.com/Big-Data
- http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation
- http://en.wikipedia.org/wiki/Big_data
+ http://www.quora.com/Big-Data Big Data on Quora
+ http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation 2011 Big Data report from McKinsey
+ http://en.wikipedia.org/wiki/Big_data Wikipedia defines Big Data
 
 I think these terms make Big Data seem mysterious and confusing, when in fact it could be completely straightforward.
 

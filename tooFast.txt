@@ -26,7 +26,7 @@ The HackerNews Guidelines
 =========================
 
 The HackerNews Guidelines are a great read.
- https://news.ycombinator.com/newsguidelines.html
+ https://news.ycombinator.com/newsguidelines.html HackerNews Guidelines
 
 The Guidelines may be the wisest words assembled on running a constructive online community.
 
@@ -50,7 +50,7 @@ Conflicting Advice
 I can't count the number of times YCombinator has said _FASTER!_
 
 For example, an essay on PaulGraham.com says:
- https://www.paulgraham.com/really.html
+ https://www.paulgraham.com/really.html essay on PaulGraham.com
 
 > By this point everyone knows you should release fast and iterate. It's practically a mantra at YC...
 > Fast iteration is the key to success.
@@ -88,8 +88,8 @@ Notes
 =====
 
 ^loyal: I was one of the first people to join HackerNews, creating my current account on August 24th, 2007, which is about eight months after Paul Graham created it.
- https://news.ycombinator.com/user?id=breck
- https://breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html
+ https://news.ycombinator.com/user?id=breck current account
+ https://breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html Paul Graham created it
 
 Disclosure
 ==========

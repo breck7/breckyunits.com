@@ -4,7 +4,7 @@ The Magnificent Multi-Agent Mind of Marvin Minsky
 May 9, 2023
 
 If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
- https://en.wikipedia.org/wiki/Marvin_Minsky
+ https://en.wikipedia.org/wiki/Marvin_Minsky Marvin Minsky
 
 To be fair, there is a big difference between a biologist unaware of Darwin today versus back in the 1800's. It is a lot more forgivable to be unaware of Minsky today than it will be in fifty years. It takes time for the most enduring signals to stand out.
 
@@ -15,7 +15,7 @@ Minsky had an extremely skeptical view of the fields of psychology and psychiatr
 
 [Image Omitted]
  A well known Richard Feynman quote is "What I cannot create I do not understand." I wonder if Feynman's friend Minsky inspired this quote.
-  https://www.youtube.com/watch?v=JKldGw7UXww
+  https://www.youtube.com/watch?v=JKldGw7UXww friend
 
 Minsky mocked psychiatrists and the pharmaceutical industry with their chemical view of the brain. Imagine thinking you could fix a computer if you just adjusted the ratio of Copper-63 vs Copper-65 in the CPU. These people have no idea what they are doing or talking about, and Minsky called them on it. The thinking processes matter most, not the materials.
 
@@ -40,9 +40,9 @@ My goal with this post is to beg you, if you want to understand the mind, to sta
 Also get _The Emotion Machine_. There is a lot of overlap, but these are important enough ideas that it's good to see them from slightly different perspectives.
 
 Alongside his books watch videos of him to get a fuller perspective on his ideas and life. There is an MIT course on OpenCourseWare. There's a great 1990 interview. And this 151 episode long playlist will not only enlighten you about his ideas but entertain you with stories of Einstein, Shannon, Oppenheimer, McCarthy, Feynman and so many of the other great 20th century pioneers who were his contemporaries and colleagues.
- https://www.youtube.com/watch?v=-pb3z2w9gDg&t=4506s
- https://www.youtube.com/watch?v=DrmnH0xkzQ8
- https://www.youtube.com/watch?v=CB2SsvcECzI&list=PLVV0r6CmEsFxJatFYBb7P4NZscvJw1f0r&index=1
+ https://www.youtube.com/watch?v=-pb3z2w9gDg&t=4506s MIT course
+ https://www.youtube.com/watch?v=DrmnH0xkzQ8 1990 interview
+ https://www.youtube.com/watch?v=CB2SsvcECzI&list=PLVV0r6CmEsFxJatFYBb7P4NZscvJw1f0r&index=1 playlist
 
 Why are so many hogwash theories of the brain still dominant?
 =============================================================
@@ -50,15 +50,15 @@ Why are so many hogwash theories of the brain still dominant?
 In college I took some courses on the brain. This was in the 2000's at a "top" school. We covered the DSM but not Minsky. How could we not have covered Minsky? How could we have not talked about multi-agent systems? These are far better ideas.
 
 My guess is financial pressures. As Sinclair wrote: "It is difficult to get a man to understand something, when his salary depends on his not understanding it." A lot of salaries depend not on having a better understanding of the brain, but on continuing business models based on flawed theories. I came across a great term the other day: the Mental Health Industrial Complex. Though the theories these people have about the mind are not real, the money they earn from pills and "services" is very real-in the tens of billions a year. You might think that because these people have "licenses" their skills are not fraudulent. I'll point out that in Cambridge, MA, licenses are also given to Fortune Tellers.
- https://slowmission.com/healing-brokenness-and-the-mental-health-industrial-complex/
- https://www.cambridgema.gov/iwantto/applyforafortunetellerslicense
+ https://slowmission.com/healing-brokenness-and-the-mental-health-industrial-complex/ Mental Health Industrial Complex
+ https://www.cambridgema.gov/iwantto/applyforafortunetellerslicense licenses are also given to Fortune Tellers
 
 A Solid Foundation
 ==================
 
 Minsky certainly didn't figure it all out. You'll see in his interviews he is very clear about how much we don't understand and he talks about the future and what devices we need to figure out more of the puzzle. Researchers at places like Numenta and Neuralink continue down the path that Minsky started.
- https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
- https://neuralink.com/
+ https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Numenta
+ https://neuralink.com/ Neuralink
 
 He didn't figure it all out but he certainly found a solid foundation. The people in computer science who took his ideas seriously are now building AIs that are indistinguishable from magic. Whereas the people in the mental health fields who have ignored his ideas in favor of the DSM continue to make things worse.
 
@@ -72,14 +72,14 @@ Related reading
  https://breckyunits.com/mindmap.html
 
 - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
- https://www.lesswrong.com/tag/subagents
- https://www.lesswrong.com/
+ https://www.lesswrong.com/tag/subagents Subagent Model of the Mind
+ https://www.lesswrong.com/ LessWrong
 - Internal Family Systems Model
- https://en.wikipedia.org/wiki/Internal_Family_Systems_Model
+ https://en.wikipedia.org/wiki/Internal_Family_Systems_Model Internal Family Systems Model
 - Plurality (or multiplicity)
- https://morethanone.info/
+ https://morethanone.info/ Plurality (or multiplicity)
 
 Footnotes
 =========
 ^hawkins: A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
- https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
+ https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains

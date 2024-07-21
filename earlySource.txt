@@ -7,7 +7,7 @@ A New Business Model for Public Domain Software
 July 13, 2024
 
 I run a private git repo that you can subscribe to for $499,999. People think I must be trolling. But I'm not^troll.
- https://breckyunits.com/lab.html
+ https://breckyunits.com/lab.html private git repo
 
 That repo is where all our works-in-progress live before they get published to the public domain.
 

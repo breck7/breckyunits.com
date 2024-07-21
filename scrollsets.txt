@@ -2,12 +2,12 @@ A New Way to Store Knowledge
 ============================
 
 HTML | TXT | PDF
- https://breckyunits.com/scrollsets.html
- https://breckyunits.com/scrollsets.txt
- https://breckyunits.com/scrollsets.pdf
+ https://breckyunits.com/scrollsets.html HTML
+ https://breckyunits.com/scrollsets.txt TXT
+ https://breckyunits.com/scrollsets.pdf PDF
 
 by Breck Yunits
- https://breckyunits.com
+ https://breckyunits.com Breck Yunits
 May 21, 2024
 
 All tabular knowledge can be stored in a single long plain text file.
@@ -88,7 +88,7 @@ A Visualization
 
 [Image Omitted]
  Blue dots are measure ids. The first blue dot is a measure definition (aka a parser). The red dot is a measurement value. The blue-red pair is a measurement, as well as a concept. The cyan dot is a comment. View Source
-  https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment
+  https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment View Source
 
 ***
 
@@ -97,17 +97,17 @@ Prior Art
 Modern databases^sql were designed before git^git, fast filesystems^apple, and the Scroll stack^scrollStack, all requirements of this system.
 
 GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
- https://www.gnu.org/software/recutils/
+ https://www.gnu.org/software/recutils/ GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
 
 ***
 
 Initial Implementation and Experimental Evidence
 ================================================
 ScrollSets is the name of the first implementation of the system above. It is open source and dedicated to the public domain.
- https://scroll.pub/
+ https://scroll.pub/ ScrollSet
 
 ScrollSets are used to power the open source website PLDB.io. PLDB currently has over 300 measures, over 4,000 concepts and over 150,000 measurements, contributed by over 100 people, dozens of software crawlers, and a couple of artificial neural networks.
- https://pldb.io
+ https://pldb.io PLDB.io
 
 If printed on a single scroll, the PLDB ScrollSet would be over one kilometer long.
 
@@ -133,37 +133,37 @@ Measurements loosely map to nucleotides; concepts to genes; parsers to ribosomes
 This system might also have broad use.
 
 You can read more about ScrollSets on the Scroll blog, see small demos at sets.scroll.pub, and see the large implementation at PLDB.io.
- https://scroll.pub/blog/scrollsets.html
- https://sets.scroll.pub
- https://pldb.io
+ https://scroll.pub/blog/scrollsets.html read more about ScrollSets on the Scroll blog
+ https://sets.scroll.pub small demos at sets.scroll.pub
+ https://pldb.io PLDB.io
 
 ***
 
 Citations
 =========
 ^sql: SQL: Donald D. Chamberlin and Raymond F. Boyce
- https://en.wikipedia.org/wiki/SQL
+ https://en.wikipedia.org/wiki/SQL SQL
 ^git: Git: Linus Torvalds, Junio Hamano, et al
- https://en.wikipedia.org/wiki/Git
+ https://en.wikipedia.org/wiki/Git Git
 ^apple: M1: Apple
- https://en.wikipedia.org/wiki/Apple_M1
+ https://en.wikipedia.org/wiki/Apple_M1 M1
 - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
- https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
+ https://breckyunits.com/building-a-treebase-with-6.5-million-files.html abysmal
 ^scrollStack: Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
- https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf
+ https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Scroll Notation
 ^recutils: GNU Recutils: Jose E. Marchesi
- https://www.gnu.org/software/recutils/
+ https://www.gnu.org/software/recutils/ GNU Recutils
 - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
  - "difficult to manage hierarchies". Hierarchies are painless in our system through nested parsers, parser inheritance, parser mixins, and nested measurements.
  - "tedious to manually encode...several lines". No encoding is needed in our system thanks to the indentation trick.
  - In Recutils comments are "completely ignored by processing tools and can only be seen by looking at the recfile itself". Our system supports first class comments which are bound to measurements using the indentation trick.
  - "It is difficult to manually maintain the integrity of data stored in the data base." In our system advances parsers provides unlimited capabilities for maintaining data integrity.
 ^antlr: ANTLR: Terence Parr et al
- https://www.antlr.org/
+ https://www.antlr.org/ ANTLR
 ^racket: Racket: Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Shriram Krishnamurthi, et al.
- https://racket-lang.org/
+ https://racket-lang.org/ Racket
 ^prettier: Prettier: James Long et al
- https://archive.jlongster.com/
+ https://archive.jlongster.com/ Prettier
 
 ***
 

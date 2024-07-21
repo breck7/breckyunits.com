@@ -8,8 +8,8 @@ Introduction
 March 11, 2021
 
 I have been a FitBit user for many years but did not know the story behind the company. Recently came across a podcast by Guy Raz called How I Built This. In this episode he interviews James Park who explains the story of FitBit.
- https://www.npr.org/podcasts/510313/how-i-built-this
- https://www.npr.org/2020/04/22/841267648/fitbit-james-park
+ https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
+ https://www.npr.org/2020/04/22/841267648/fitbit-james-park episode
 
 I loved the story so much but couldn't find a transcript, so made the one below. Subtitles (and all mistakes) added by me.
 
@@ -171,7 +171,7 @@ The pivotal $300 Press Release
 Bought by CNET for millions (2005)
 ==================================
 *Guy:* 2005, it gets purchased by CNET. They make an offer to buy this company, buy this product from you guys and you sell it to CNET. Was that life-changing money? Did that mean that you never had to work again?
- https://www.wsj.com/articles/SB111265965498397840
+ https://www.wsj.com/articles/SB111265965498397840 2005, it gets purchased by CNET
 
 *James:* It was definitely a good acquisition for all of us at the time. Remember we were three guys working out of our apartments. I was at the time about $40,000 in credit card debt as well. We were down to some desperate times and we were negotiating numbers and they threw out a number which was, their first offer was 4 million, and we were like, "Whoa, that's amazing."
 
@@ -244,7 +244,7 @@ The prototype
 *Guy:* Wow. I mean, how did you even get it to that point? Because you guys are both software engineers, how did you develop a physical product that even such a crude prototype could track movement? Did you have other people help you do that?
 
 *James:* That was our big task was to find the right people who could help us. I knew the founder of a really great industrial design firm in San Francisco called New Deal Design. His name is Gadi Amit. And then on the algorithm side, because it was going to take a lot of sophisticated algorithms to translate this motion data to actual data that users would be able to understand, I ended up asking my best friend from college, because he was in grad school at Harvard at the time. And he said, "Wait, I think I might know somebody." And it ended up being his teaching fellow, his name was Shelton. And we talked and I was like, "Wow, this guy is super smart. We need to get him working on the algorithms." So he ended up working on the side while doing his PHD, helping us out with a lot of the software.
- https://www.newdealdesign.com/
+ https://www.newdealdesign.com/ New Deal Design
 
 *Guy:* I mean, you leave CNET in 2007, and you've got 400,000 to come up with a prototype that quickly run out of that. So it's 2008, and you're trying to raise money, how much did you raise?
 
@@ -305,7 +305,7 @@ Doing a consumer hardware startup before KickStarter
 *James:* We had to go to a smaller place, who'd be more nimble, more flexible, who'd want to take a financial risk. And we finally found a great manufacturer based in Singapore called Racer Technologies. And the good thing is actually, it was the best of all worlds, the headquarters was in Singapore. Most of the management team and the engineering staff was in Singapore, but they had manufacturing facilities that were in Indonesia. The labor there was going to be lower cost than in Singapore.
 
 *Guy:* All right. So 2008, you've got the name Fitbit, you go to TechCrunch50 to present, to unveil this product. And what was the product that you were offering? Well, you said, "All right, we've got to think of the Fitbit and it does this." What did you say it did at that point?
- https://youtu.be/RRR26GPpQ4A?t=218
+ https://youtu.be/RRR26GPpQ4A?t=218 TechCrunch50
 
 [Image Omitted]
 
@@ -554,7 +554,7 @@ The Subscription Service
 The Google Acquisition (2019)
 =============================
 *Guy:* So we get to the end of last year where Google announces that they were going to buy Fitbit, $2.1 billion. We should mention that, at the time of this recording, it hasn't closed yet. To me, it makes perfect sense. If I'm you or Eric, I would have done it. I would've said, "$2.1 billion, that's great. That's a great outcome because now with Google, we've got access to their dollars and their research labs and all the people who work there and the analytics and our ability to really go to the next level." Why did it make sense from your perspective to sell to Google?
- https://techcrunch.com/2019/11/01/google-is-acquiring-fitbit/
+ https://techcrunch.com/2019/11/01/google-is-acquiring-fitbit/ Google announces that they were going to buy Fitbit, $2.1 billion
 
 *James:* Yeah, that's a very complicated and emotionally fraught question, but last year our board met and it was pretty clear to everybody that we had a lot of challenges in the business. We weren't profitable. There was a lot of competition out there from the likes of Apple, from Samsung, some emerging Chinese competitors, but there was a lot of just great things going on in the company. I was so excited about our product roadmap, about things that were in our pipeline, all the advanced research that we were doing around health and sensors. I would look at our product roadmap every day and just come away super excited about that. And then also be confronted with a lot of the business challenges as well.
 
@@ -581,7 +581,7 @@ Closing thoughts
 *James:* Yeah, that's always a tricky question to answer. I think, very fortunate to have grown up with my parents. Just having seen them persevere through life, you get the realization that nothing really comes easy. That it does take a lot of just grinding away at things that at the time seem unpleasant. I think those are good traits and very fortunate to have parents like that who sacrificed a lot to put me in great schools over time, even though they started from some humble beginnings. But also, have learned a lot of ways, gotten some lucky breaks where things could have gone the wrong way very, very quickly. Ultimately, I attribute it to a little bit of all of that. I think it's not fair to say that everything is luck because then I think you start to discount the actual things, actions that you can take on your own to affect the future. And that's really important.
 
 *Guy:* That's James Park, co-founder of Fitbit. And here's a number for you, 34,642,772, that is how many steps James has tracked since he first put on that balsa wood Fitbit prototype. At least as of this recording. It's about 15,430 miles or 24,832 kilometers. And thanks so much for listening to the show this week, you can subscribe wherever you get your podcasts. You can also write to us at hibt@npr.org. And if you want to send a tweet, it's @HowIBuiltThis or @guyraz. This episode was produced by James Delahoussaye, with music composed by Ramtin Arablouei. Thanks also to Sarah Saracen, Candice Lim, Julia Carney, Neva Grant, Casey Herman, and Jeff Rogers. I'm Guy Raz, and you've been listening to How I Built This. This is NPR.
- https://breckyunits.com/hibt@npr.org
- https://twitter.com/HowIBuiltThis
- https://twitter.com/guyraz
- https://www.npr.org/podcasts/510313/how-i-built-this
+ https://breckyunits.com/hibt@npr.org hibt@npr.org
+ https://twitter.com/HowIBuiltThis @HowIBuiltThis
+ https://twitter.com/guyraz @guyraz
+ https://www.npr.org/podcasts/510313/how-i-built-this How I Built This

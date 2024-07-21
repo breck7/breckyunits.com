@@ -4,11 +4,11 @@ My Inventions
 Nikola Tesla's Autobiography
 ============================
 by Breck Yunits
- https://breckyunits.com
+ https://breckyunits.com Breck Yunits
 
 Source
- http://www.tfcbooks.com/special/my_inventions_index.htm
-===============================================================
+ http://www.tfcbooks.com/special/my_inventions_index.htm Source
+======================================================================
 
 At the age of 63 Tesla tells the story of his creative life.
 ============================================================
@@ -19,23 +19,23 @@ First published in 1919 in the Electrical Experimenter magazine
 Table of Contents
 =================
 I. My Early Life
- https://breckyunits.com/#part1
-================================================
-II. My First Efforts At Invention
- https://breckyunits.com/#part2
+ https://breckyunits.com/#part1 I. My Early Life
 =================================================================
+II. My First Efforts At Invention
+ https://breckyunits.com/#part2 II. My First Efforts At Invention
+===================================================================================================
 III. My Later Endeavors
- https://breckyunits.com/#part3
-=======================================================
+ https://breckyunits.com/#part3 III. My Later Endeavors
+===============================================================================
 IV. The Discovery of the Tesla Coil and Transformer
- https://breckyunits.com/#part4
-===================================================================================
+ https://breckyunits.com/#part4 IV. The Discovery of the Tesla Coil and Transformer
+=======================================================================================================================================
 V. The Magnifying Transmitter
- https://breckyunits.com/#part5
-=============================================================
+ https://breckyunits.com/#part5 V. The Magnifying Transmitter
+===========================================================================================
 VI. The Art of Telautomatics
- https://breckyunits.com/#part6
-============================================================
+ https://breckyunits.com/#part6 VI. The Art of Telautomatics
+=========================================================================================
 
 I. My Early Life
 ================

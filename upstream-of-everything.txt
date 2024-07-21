@@ -15,14 +15,14 @@ But I've seen now the folly of having a brain without a strong spiritual section
 In science we observe things, write down many observations, work out simpler models, and use those to predict and invent. But everything we observe comes downstream to us from some source that we cannot observe, model, or predict.
 
 It is trivially easy to imagine some missive that comes from upstream that would change everything. We have many great stories imagining these sorts of events: a message from aliens, a black cat, a dropped boom mic. Many ideas for what's upstream have been named and scholarized: solipsism, a procedural generated universe, a multiverse, our reality is drugged, AGI, the Singularity.
- https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past
- https://en.wikipedia.org/wiki/The_Matrix
- https://en.wikipedia.org/wiki/The_Truman_Show
- https://en.wikipedia.org/wiki/Solipsism
- https://en.wikipedia.org/wiki/Multiverse
- https://en.wikipedia.org/wiki/Artificial_general_intelligence
- https://en.wikipedia.org/wiki/Technological_singularity
- https://en.wikipedia.org/wiki/Brave_New_World
+ https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past a message from aliens
+ https://en.wikipedia.org/wiki/The_Matrix a black cat
+ https://en.wikipedia.org/wiki/The_Truman_Show a dropped boom mic
+ https://en.wikipedia.org/wiki/Solipsism solipsism
+ https://en.wikipedia.org/wiki/Multiverse multiverse
+ https://en.wikipedia.org/wiki/Artificial_general_intelligence AGI
+ https://en.wikipedia.org/wiki/Technological_singularity the Singularity
+ https://en.wikipedia.org/wiki/Brave_New_World drugged
 
 And you can easily string these together to see how there will always be an "upstream of everything". Imagine our lifetime is an eventful one. First, AGI appears. As we're grappling with that, we make contact with aliens, then while we're having tea with aliens (who luckily are peaceful in this scenario) some anomaly pops up and we all deduce this is just a computer simulated multiverse. The biggest revelation ever will always be vulnerable to an ever bigger revelation. There will always be ideas "upstream of everything".
 
@@ -40,8 +40,8 @@ Errata
 ======
 
 - Though I ultimately found the limits of rationality, I did enjoy the writings from the "Rationalist" communities like LessWrong and RationalWiki.
- https://www.lesswrong.com/
- https://rationalwiki.org/
+ https://www.lesswrong.com/ LessWrong
+ https://rationalwiki.org/ RationalWiki
 
 - For me personally spirituality now  means more Buddhism and mindfulness than Catholicism, but I have a new appreciation for Catholicism and all religions.
 
@@ -56,9 +56,9 @@ Errata
 - I've found too much time thinking about upstream ideas leaves not enough time to attend to downstream details.
 
 - At one time I started collecting a list of all the upstream of everything ideas, like my tiny partial enumeration above where I mention The Matrix and Three Body Problem, and was thinking of the best way to catalog all of these ideas so one could grok them as fast as possible. Movies and books seem to communicate them well, but I also would be curious if there's a site out there that catalogs and explains them all concisely, perhaps using and xkcd comic book style.
- https://xkcd.com/2240/
+ https://xkcd.com/2240/ xkcd
 
 - I see myself fulfilling many common cliches (getting more religious as one gets older, et cetera). I also wonder if sometime I won't pick up on some big new scientific truth and also fulfill the cliche "science progresses one funeral at a time". Speaking of cliches, c'est la vie.
 
 - I realize now that this idea is thousands of years old.
- https://en.wikipedia.org/wiki/I_know_that_I_know_nothing
+ https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea

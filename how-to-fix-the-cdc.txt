@@ -4,7 +4,7 @@ How to fix the CDC
 March 30, 2021
 
 *The CDC needs to move to Git*. The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
- https://www.cdc.gov/
+ https://www.cdc.gov/ CDC
 
 How do you explain Git to a government leader?
 ==============================================
@@ -17,16 +17,16 @@ Because the CDC's publications are currently full of misrepresentations, make it
 Who builds on Git?
 ==================
 The whole world now builds on Git. The CDC is far behind the times. Even Microsoft Windows, the biggest proprietary software project in the world, now builds on Git.
- https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/
+ https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/ now builds on Git
 
 What is Git?
 ============
 Git is an open source, very fast, very powerful piece of software originally created by Linus Torvalds (the same guy who created Linux) and led by Junio C Hamano that makes extensive use of principles from blockchain and information theory.
- https://en.wikipedia.org/wiki/Git
- https://en.wikipedia.org/wiki/Linus_Torvalds
- https://github.com/gitster
- https://en.wikipedia.org/wiki/Blockchain
- https://en.wikipedia.org/wiki/Information_theory
+ https://en.wikipedia.org/wiki/Git Git
+ https://en.wikipedia.org/wiki/Linus_Torvalds Linus Torvalds
+ https://github.com/gitster Junio C Hamano
+ https://en.wikipedia.org/wiki/Blockchain blockchain
+ https://en.wikipedia.org/wiki/Information_theory information theory
 
 How can the CDC rapidly move to Git?
 ====================================
@@ -34,7 +34,7 @@ How can the CDC rapidly move to Git?
 Double Down on Internal Leaders
 ===============================
 The CDC's GitHub account has 169 repos and 10 people (and I'm told many hundreds more Git users). I would immediately promote every person working on these repos. (There are probably one or two jokers in there but who cares, it won't matter, just promote them all). Give them everything they need to be successful. Give them raises. Tell them part of their new job is to get everything the CDC is invovled with published to Git. This is probably really the only thing you need to do, and these people can lead it from there.
- https://github.com/CDCgov
+ https://github.com/CDCgov CDC's GitHub account
 
 Change Funding Requirements
 ===========================
@@ -60,11 +60,11 @@ For young children, especially children younger than 5 years old, the risk of se
 @ CDC
 
 This statement appeared on the CDC's website for more than a year. As it should have. Every big dataset I've looked at agrees with this, from the very first COVID-19 data dump in February 2020.
- https://twitter.com/breckyunits/status/1228117546974371840
+ https://twitter.com/breckyunits/status/1228117546974371840 first COVID-19 data dump
 
 I started actively sharing and quoting that CDC page in August 2021. Coincidentally or not, within days they removed that quote. There is no record of why they made the change. In fact the updated page misleadingly states "Page last reviewed: June 7, 2021", despite the August edit*.
- https://web.archive.org/web/20210820184423/https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
- https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm
+ https://web.archive.org/web/20210820184423/https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm August 2021
+ https://www.cdc.gov/flu/symptoms/flu-vs-covid19.htm removed that quote
 
 To recap, they quietly _reversed_ the most critical piece of contextual advice on how parents should think about COVID-19 in relation to their children. No record, no explanation. (In case you are wondering, the data has not changed, and the latest data aligns with the original statement which they removed. Perhaps the change was made for political reasons).
 
@@ -72,7 +72,7 @@ To recap, they quietly _reversed_ the most critical piece of contextual advice o
 =======================================
 
 The second example is well documented elsewhere, but the CDC changed their online definition of the word "vaccine", again perhaps for political reasons. That sort of thing seems like the kind of change that maybe should have some audit trail behind it, no?
- https://alexberenson.substack.com/p/a-lawsuit-in-three-acts
+ https://alexberenson.substack.com/p/a-lawsuit-in-three-acts documented
 
 ****
 

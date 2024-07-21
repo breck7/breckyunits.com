@@ -9,7 +9,7 @@ Symbols
 =======
 
 Leibniz is probably my favorite thinker. His discoveries in mathematics and science are astounding. Among other things, he's the thinker credited with discovering Binary Notation--that ones and zeros are all you need to represent anything. In my opinion this is perhaps the most incredible idea in the world. As a kid I grew up surrounded by magic digital technologies. To learn that truly all this complexity was built on top of the simplicity of ones and zeroes astounded me. Simplicity and complexity in harmony. What makes Leibniz stand out more to me is not just his discoveries but how what he was really after was a characteristica universalis, a natural system for representing all knowledge that would allow for the objective solving of questions across science.
- https://en.wikipedia.org/wiki/Characteristica_universalis
+ https://en.wikipedia.org/wiki/Characteristica_universalis characteristica universalis
 
 I wanted to be like Leibniz. Leibniz had extreme IQ, work ethic, and ability to take intellectual risks. Unfortunately I have only above average IQ and inconsistent work ethic. If I was going to invent something great, it would have to be because I took more risks and somehow got lucky.
 
@@ -20,8 +20,8 @@ Computers ultimately operate on instructions of ones and zeroes, but those that 
 Over time, a common pattern emerged. In addition to everything being ones and zeroes at some point, at some point everything would also be digital "trees" (simple structures with nodes and branches). Binary Notation can minimally represent every concept in ones and zeroes, was there some minimal notation for the tree forms of concepts? And if there were, would that notation be mildly interesting, or somehow really powerful like Binary Notation?
 
 This is an idea I became obsessed with. I came across it by chance, when I was still a beginner programmer. I was trying to make a programming language as simple as possible and realized all I needed was enough syntax to represent trees. If you had that, you could represent anything. Eureka! I then spent years trying to figure out whether this minimal notation was mildly interesting or really useful. I tried to apply it to lots of problems to see if it solved anything.
- https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
- https://breckyunits.com/tree-notation-annual-report-2019.html
+ https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html Eureka
+ https://breckyunits.com/tree-notation-annual-report-2019.html lots of problems
 
 [Image Omitted]
  If your syntax can distinguish symbols and define scopes you can represent anything.
@@ -92,7 +92,7 @@ There was also no reason that The Book had to built as a monolith. Books could b
 With these insights I made a prototype called "TreeBase". I described it like so: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of."
 
 At first, because of the naive file based approach, it was slow and didn't scale. But lucky for me, a few years later Apple came out with much faster computers. Suddenly my prototype seemed like it might work.
- https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
+ https://breckyunits.com/building-a-treebase-with-6.5-million-files.html slow and didn't scale
 
 The Prototype
 =============

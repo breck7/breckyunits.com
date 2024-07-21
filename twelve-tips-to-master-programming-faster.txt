@@ -14,7 +14,7 @@ So, to master programming, it might take you 10,000 hours of being actively codi
 Saying #2: No Speed Limit
 =========================
 There is another saying that I just read which inspired me to write this, that says "there is no speed limit".
- https://sivers.org/kimo
+ https://sivers.org/kimo read
 
 In that post, Derek Sivers claims that a talented and generous guy named Kimo Williams taught him 2 years worth of music theory in five lessons. I have been learning to program for 2 years, and despite the fact that I've made great progress, my process has been slow and inefficient.
 
@@ -70,13 +70,13 @@ That means I've spent between 2,000-5,000 hours developing my skills. Hopefully,
 Links
 =====
 - Github
- https://github.com
+ https://github.com Github
 - Dropbox
- https://dropbox.com
+ https://dropbox.com Dropbox
 - StackOverflow - when you need help, and eventually where you can give help
- https://stackoverflow.com
+ https://stackoverflow.com StackOverflow
 - Cygwin
- https://www.cygwin.com
+ https://www.cygwin.com Cygwin
 
 Notes
 =====

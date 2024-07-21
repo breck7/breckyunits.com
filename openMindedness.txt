@@ -8,7 +8,7 @@ What is open-mindedness, from first principles? Here are some musings.
 A Brief Formal Discussion
 =========================
 First I state the obvious, that open-mindedness, $OM$, is a measure of a mind, $M$. I will assume $M$ can be modeled as a society of agents, $A$, each occupying some neural space $N$. The formation of new $A$ in space $N$ is done by learning process $L$. Some $A$ can act as learning control agents and can act, with discretion, to block the $M$ from learning new agents.
- https://breckyunits.com/marvin-minsky.html
+ https://breckyunits.com/marvin-minsky.html a society of agents
 
 The rest of this essay I'll spell out the full terms but stick to the list of concepts above.
 
@@ -59,7 +59,7 @@ It also seems that alliances among factions of agents may form. If one agent res
 Survival of the Stubborn Gene
 =============================
 A stubborn strategy could often payoff. Imagine a mind has a 33% chance of surviving a choice. A closed mind will act fast and make a mistake 67% of the time. An open mind might spend significant time and resources and make the incorrect choice only 10% of the time. However, the open-minded survivor might be wrongly smug, as they wouldn't observe that 80% of the time they failed to make a choice at all, and if they could have observed the global multiverse they would have realized their open-minded strategy actually only survived 10% of the time, versus the closed-minded's 33%.
- https://breckyunits.com/the-many-worlds-law.html
+ https://breckyunits.com/the-many-worlds-law.html multiverse
 
 Honesty
 =======
@@ -81,7 +81,7 @@ As I said in the beginning, these are mostly musings at the moment. I have many 
 Notes
 =====
 ^aside: Philosophically by some measures you could argue that having a mind is not clearly advantageous to _objects_ in general. For example, organisms with minds make up a small percentage of the biomass on earth. Or you could say that some rocks last billions of years, whereas minds are gone much faster than that.
- https://ourworldindata.org/life-on-earth
+ https://ourworldindata.org/life-on-earth a small percentage of the biomass on earth
 
 ***
 

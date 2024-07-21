@@ -101,7 +101,7 @@ That might be because:
 ***
 
 It does seem like the process of finding the right formula is not so hard, once the right data has been collected.
- https://breckyunits.com/datasets.html
+ https://breckyunits.com/datasets.html right data has been collected
 
 ***
 
@@ -140,6 +140,6 @@ Notes
 
 - Sorry if you were expecting some quantified answers, as I haven't done that hard empirical work, yet. This post is early explorations of trying to think of what science is from first principles. Scientists and engineers and craftsmen have done absolutely amazing things in so many fields, but I'm very interested in an area where science has so far failed, and I try to think of possible root causes of that failure. In those situations, it might just be a matter of time (waiting for technologies to decrease voxel size, or take previously impossible measurements).
 - If you are interested in the concept of the evolution of patterns in nature, I recommend checking out assembly theory.
- https://en.wikipedia.org/wiki/Assembly_theory
+ https://en.wikipedia.org/wiki/Assembly_theory assembly theory
 - This great new post by Stephen Wolfram explores similar ideas.
- https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/
+ https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post

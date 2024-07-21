@@ -23,16 +23,16 @@ Link to the dataset. If you want to include a conclusion, provide a deep link to
 Software teams: make it easy for users to share deep links to queries over public datasets
 ==========================================================================================
 Many teams are creating tools that make it easy to deep link to queries over open datasets, such as Observable, Our World in Data, Google Big Query, Wolfram Data Repository, Tableau Public, IDL, Jupyter, Awesome Public Datasets, USAFacts, Google Dataset Search, and many more.
- https://observablehq.com/
- https://ourworldindata.org/
- https://cloud.google.com/bigquery/
- https://datarepository.wolframcloud.com/
- https://public.tableau.com/en-us/s/
- https://idl.cs.washington.edu/
- https://github.com/jupyterlab/jupyterlab
- https://github.com/awesomedata/awesome-public-datasets
- https://usafacts.org/
- https://datasetsearch.research.google.com/
+ https://observablehq.com/ Observable
+ https://ourworldindata.org/ Our World in Data
+ https://cloud.google.com/bigquery/ Google Big Query
+ https://datarepository.wolframcloud.com/ Wolfram Data Repository
+ https://public.tableau.com/en-us/s/ Tableau Public
+ https://idl.cs.washington.edu/ IDL
+ https://github.com/jupyterlab/jupyterlab Jupyter
+ https://github.com/awesomedata/awesome-public-datasets Awesome Public Datasets
+ https://usafacts.org/ USAFacts
+ https://datasetsearch.research.google.com/ Google Dataset Search
 
 Students: Learn to build and publish datasets
 =============================================
@@ -44,7 +44,7 @@ Notes
 =====
 ^enough: Dataset Needed.
 - Thanks to Denny for helping me refine my thinking from this earlier post.
- https://breckyunits.com/dreaming-of-a-data-checked-language.html
+ https://breckyunits.com/dreaming-of-a-data-checked-language.html earlier post
 
 Related Posts
 =============

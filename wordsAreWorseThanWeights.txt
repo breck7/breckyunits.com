@@ -47,8 +47,8 @@ Could I be wrong again? I was once so biased in favor of words. In 2019 I gave a
 But I don't think so. I was probably 55-45 back then, in favor of words. I think in large part I bet on words because so many people in the program synthesis world were betting on weights, so I saw taking the contrarian bet as the one with the higher expected value for me. *Now I am 500 to 1 that weights are the future*.
 
 The long time I spent betting on words makes me more confident that words are doomed. For years I tried thousands and thousands of paths to find some way to make word models radically better. I've also searched the world for people smarter than me who were trying to do that. Cyc is one of the more famous attempts that came up short. It is not that they failed to write all unwritten rules it is that nature's rules are likely unwriteable. Wolfram Mathematica has made far more progress and is a very useful tool, but it seems clear that its word system will never achieve the takeoff that a learning weights based system will. Again, the race at the moment seems close, but weights have started to pull away. If there was a path for word models to win I think I would have glimpsed it by now.
- https://en.wikipedia.org/wiki/Cyc
- https://www.wolfram.com/mathematica/
+ https://en.wikipedia.org/wiki/Cyc Cyc
+ https://www.wolfram.com/mathematica/ Wolfram Mathematica
 
 The only thing I can think of is that there actually will turn out to be some algebra of compression that would make the best performing weight models isomorphic to highly refined word models. But that seems far more like wishful thinking from some biased neural agents in my brain that formed for word models and want to justify their existence.
 
@@ -66,6 +66,6 @@ I will always enjoy playing with words as a hobby. Writing essays like these, wh
 Related Reading
 ===============
 - The Bitter Lesson (2019)
- http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+ http://www.incompleteideas.net/IncIdeas/BitterLesson.html The Bitter Lesson (2019)
 - What Just Happened? (2018)
- https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
+ https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/ What Just Happened? (2018)

@@ -9,7 +9,7 @@ I dislike the term _first principles thinking_. It's vaguer than it needs to be.
  Sometimes we get something wrong near the root which limits our late stage growth. To reach new heights, we have to backtrack and build up from a different point.
 
 All formal systems can be represented as trees^tn. First Principles are simply the nodes at the root.
- https://en.wikipedia.org/wiki/First_principle
+ https://en.wikipedia.org/wiki/First_principle First Principles
 
 Root thinking becomes more valuable as current growth slows
 ===========================================================
@@ -24,7 +24,7 @@ If everyone practiced _root thinking_ all the time we would get nowhere. It's ha
 Notes
 =====
 ^tn: Tree Notation is one minimal system for representing all structures as trees.
- https://treenotation.org
+ https://treenotation.org Tree Notation
 
 Update: 7/1/2023
 ================

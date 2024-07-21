@@ -15,4 +15,4 @@ doc/app
 .DS_Store
 
 - Source
- http://railstutorial.org/chapters/beginning#sec:adding_and_committing
+ http://railstutorial.org/chapters/beginning#sec:adding_and_committing Source

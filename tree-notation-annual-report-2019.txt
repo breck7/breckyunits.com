@@ -6,8 +6,8 @@ December 9, 2020
 _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
 
 In 2017 I wrote a post about a half-baked idea I named ScrollNotation.
- https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
- https://treenotation.org
+ https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html post
+ https://treenotation.org ScrollNotation
 
 Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
 
@@ -39,10 +39,10 @@ What is the idea?
 =================
 
 In these reports I'll try and restate the idea in a fresh way, but you can also find the idea explained in different places via visuals, an FAQ, a spec, demos, etc.
- https://treenotation.org/
- https://faq.treenotation.org/
- https://github.com/treenotation/faq.treenotation.org/blob/master/spec.txt
- https://jtree.treenotation.org/designer/
+ https://treenotation.org/ visuals
+ https://faq.treenotation.org/ FAQ
+ https://github.com/treenotation/faq.treenotation.org/blob/master/spec.txt spec
+ https://jtree.treenotation.org/designer/ demos
 
 My hypothesis is that there exists a *Simplest Universal Notation for Symbolic Abstraction (SUNSA)*. I propose Tree Notation as a potential candidate for that notation. It is hard to assign probabilities to events that haven't happened before, but I would say I am between 1% and 10% confident that a SUNSA exists and that Tree Notation is somewhat close to it^note-risk. If Tree Notation is not the SUNSA, it at least gives me an angle of attack on the general problem.
 
@@ -54,14 +54,14 @@ Where would a SUNSA fit?
 ========================
 
 Inventions aren't always built in a linear fashion. For example, when you add `2+3` on your computer, your machine will break down that statement into a binary form and compute something like `0010` + `0011`. The higher level base 10 are converted into the lower level base 2 binary numbers. So, before your computer solves `2+3`, it must do the equivalent of `import binary`. But we had Hindu-Arabic numerals centuries before we had boolean numerals. Dependencies can be built out of order.
- https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system
- https://en.wikipedia.org/wiki/Binary_number
+ https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system Hindu-Arabic numerals
+ https://en.wikipedia.org/wiki/Binary_number binary numbers
 
 Similarly, I think there is another missing dependency that fits somewhere between binary the idea and `binary` the symbolic word.
 
 Consider Euclid's Elements, maybe the most famous math book of all time written around 2,500 years ago. The book begins with the title "Στοιχεῖα"^note-euclid. Already there is a problem: where is `import the letter Σ`?. Euclid has imported undefined abstractions: letters and a word. Now, if we were to digitally encode the Elements today from scratch, we would first include the binary dependency and then a character encoding dependency like UTF-8. We abstract first from binary to symbols. Then maybe once we have things in a text stream, we might abstract again to encode the Elements book into something like XML and markdown. I think there is a missing notation in both of these abstractions: the abstraction leap from binary to characters, and abstraction leap from characters to words and beyond.
- https://en.wikipedia.org/wiki/Euclid's_Elements
- https://en.wikipedia.org/wiki/UTF-8
+ https://en.wikipedia.org/wiki/Euclid's_Elements Euclid's Elements
+ https://en.wikipedia.org/wiki/UTF-8 UTF-8
 
 I think to represent the jumps from binary to symbols to systems, there is a best natural notation. A SUNSA that fits in between languages that let's us build mountains of abstraction without introducing extra syntax.
 
@@ -109,7 +109,7 @@ Idea #3: Showcasing the Common Patterns in Computing From Low Level to High Leve
 =================================================================================
 
 I love projects like godbolt.org, that let you jump up and down all the levels of abstraction in computing. I think there's an opportunity to do some incredible things if there is a SUNSA and the patterns in languages at different layers of computing all looked roughly the same (since they _are_ roughly the same!).
- https://godbolt.org
+ https://godbolt.org godbolt.org
 
 What would the properties of a SUNSA be?
 ========================================
@@ -123,13 +123,13 @@ Tree Notation might not be the SUNSA, but it has a few properties that I think a
 3. Scopes: Essential for growth and collaboration.
 
 4. Brevity: I think a SUNSA will have fewer components, not more. I often see new replacements for S-Expressions or JSON come out with more concepts, not less. I don't think this is the way to go—I think a SUNSA will be like a NAND gate and not a suite of gates, although the latter are handy and pragmatic.
- https://en.wikipedia.org/wiki/Functional_completeness
+ https://en.wikipedia.org/wiki/Functional_completeness NAND gate
 
 I also will list one thing I don't think a SUNSA will have:
 
 1. A single entry point. Currently most documents and programs are parsed start to finish in a linear order. With Tree Notation you can parse things in any order you want—start from anywhere, move in any direction, or even start in multiple places at the same time. I think this will be a property of a SUNSA. Maybe SUNSA programs will look more like this than that.
- https://en.wikipedia.org/wiki/M%C3%B6bius_strip
- https://en.wikipedia.org/wiki/Source_code#/media/File:CodeCmmt002.svg
+ https://en.wikipedia.org/wiki/M%C3%B6bius_strip this
+ https://en.wikipedia.org/wiki/Source_code#/media/File:CodeCmmt002.svg that
 
 So those are a few things that I think we'll find in a SUNSA. Will we ever find a SUNSA?
 
@@ -180,7 +180,7 @@ Status of Predictions in Paper
 ==============================
 
 My Tree Notation paper was my first ever attempt at writing a scientific paper and my understanding was that a good theory would make some refutable predictions. Here are the predictions I made in that paper and where they stand today.
- https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf
+ https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf paper
 
 Prediction 1: no structure will be found that cannot serialize to TN.
 =====================================================================
@@ -193,7 +193,7 @@ Prediction 2: TLs will be found for every popular 1DL.
 ======================================================
 
 This one has not come true yet. While I have made many public Tree Languages myself and many more private ones, and I have prototyped many with other people, the net utility of Tree Languages is not high enough that people are rushing to design these things. Many people have kicked the tires, but things are not good enough and there is a lack of demand.
- https://jtree.treenotation.org/designer/
+ https://jtree.treenotation.org/designer/ Tree Languages
 
 On the supply side, it has turned out to be a bit harder to design useful Tree Languages than I expected. Not by 100x, but maybe by as much as 10x. I learned a lot of bad design patterns not to put in Tree Languages. I learned that bad tooling will force compromises in language design. For example, before I had syntax highlighting I relied on weird punctuation like "@" vs "#" prefixes for distinguishing types. I also learned a lot of patterns that seem to be useful in Tree Languages (like word suffixes for types). I learned good tooling leads to simpler and better languages.
 
@@ -211,7 +211,7 @@ Status of Long Bet
 ==================
 
 After someone suggested it, I made a Long Bet predicting the rise of Tree Notation or a SUNSA within ten years of my initial Tree Notation post. Clearly I am far off from winning this bet at this point, as there are not any candidate languages even noted in TIOBE, never mind in the Top 10. However, IF I were to win the bet, I'd expect it wouldn't be until around 2025 that we'd see any candidate languages even appear on TIOBE's radar. In other words, absence of evidence is not evidence of absence.
- http://longbets.org/793/
+ http://longbets.org/793/ Long Bet
 
 As an aside, I really like the idea of Long Bet, and I'm hoping it may prompt someone to come up with a theoretical argument against a SUNSA that buries my ideas for good. Now, it would be very easy to take the opposing side of my bet with the simple argument that the idea of 7/10 TIOBE languages dropping by 2027 won't happen because such a shift has never happened so quickly. However, I'd probably reject that kind of challenge as non-constructive, unless it was accompanied by something like a detailed data-backed case with models showing potential speed limits on the adoption of any language (which would be a constructive contribution).
 

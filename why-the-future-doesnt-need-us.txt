@@ -2,21 +2,21 @@ Why the Future Doesn't Need Us
 ==============================
 
 _This long essay was published by Wired Magazine in April 2000. It is authored by Bill Joy, creator of the vi editor and co-founder of Sun Microsystems._
- https://www.wired.com/2000/04/joy-2/
- https://en.wikipedia.org/wiki/Bill_Joy
- https://en.wikipedia.org/wiki/Vi
+ https://www.wired.com/2000/04/joy-2/ April 2000
+ https://en.wikipedia.org/wiki/Bill_Joy Bill Joy
+ https://en.wikipedia.org/wiki/Vi vi editor
 
 Our most powerful 21st-century technologies — robotics, genetic engineering, and nanotech — are threatening to make humans an endangered species.
 =================================================================================================================================================
 
 FROM THE MOMENT I became involved in the creation of new technologies, their ethical dimensions have concerned me, but it was only in the autumn of 1998 that I became anxiously aware of how great are the dangers facing us in the 21st century. I can date the onset of my unease to the day I met Ray Kurzweil, the deservedly famous inventor of the first reading machine for the blind and many other amazing things.
- https://www.wired.com/2008/03/ff-kurzweil/
+ https://www.wired.com/2008/03/ff-kurzweil/ Ray Kurzweil
 
 Ray and I were both speakers at George Gilder's Telecosm conference, and I encountered him by chance in the bar of the hotel after both our sessions were over. I was sitting with John Searle, a Berkeley philosopher who studies consciousness. While we were talking, Ray approached and a conversation began, the subject of which haunts me to this day.
- https://www.wired.com/2002/07/gilder-6/
+ https://www.wired.com/2002/07/gilder-6/ George Gilder
 
 I had missed Ray's talk and the subsequent panel that Ray and John had been on, and they now picked right up where they'd left off, with Ray saying that the rate of improvement of technology was going to accelerate and that we were going to become robots or fuse with robots or something like that, and John countering that this couldn't happen, because the robots couldn't be conscious.
- https://www.wired.com/story/artificial-intelligence-consciousness/
+ https://www.wired.com/story/artificial-intelligence-consciousness/ robots couldn't be conscious
 
 While I had heard such talk before, I had always felt sentient robots were in the realm of science fiction. But now, from someone I respected, I was hearing a strong argument that they were a near-term possibility. I was taken aback, especially given Ray's proven ability to imagine and create the future. I already knew that new technologies like genetic engineering and nanotechnology were giving us the power to remake the world, but a realistic and imminent scenario for intelligent robots surprised me.
 
@@ -55,7 +55,7 @@ There is probably some breathing room, because we do not live in a completely fr
 A textbook dystopia—and Moravec is just getting wound up. He goes on to discuss how our main job in the 21st century will be “ensuring continued cooperation from the robot industries” by passing laws decreeing that they be “nice,” and to describe how seriously dangerous a human can be “once transformed into an unbounded superintelligent robot.”^3 Moravec's view is that the robots will eventually succeed us—that humans clearly face extinction.
 
 I decided it was time to talk to my friend Danny Hillis. Danny became famous as the cofounder of Thinking Machines Corporation, which built a very powerful parallel supercomputer. Despite my current job title of Chief Scientist at Sun Microsystems, I am more a computer architect than a scientist, and I respect Danny's knowledge of the information and physical sciences more than that of any other single person I know. Danny is also a highly regarded futurist who thinks long-term—four years ago he started the Long Now Foundation, which is building a clock designed to last 10,000 years, in an attempt to draw attention to the pitifully short attention span of our society. (See “Test of Time,” Wired 8.03.)
- https://www.wired.com/2000/03/test-of-time/
+ https://www.wired.com/2000/03/test-of-time/ Test of Time
 
 So I flew to Los Angeles for the express purpose of having dinner with Danny and his wife, Pati. I went through my now-familiar routine, trotting out the ideas and passages that I found so disturbing. Danny's answer—directed specifically at Kurzweil's scenario of humans merging with robots—came swiftly, and quite surprised me. He said, simply, that the changes would come gradually, and that we would get used to them.
 
@@ -132,7 +132,7 @@ Genetic engineering promises to revolutionize agriculture by increasing crop yie
 Technologies such as human cloning have in particular raised our awareness of the profound ethical and moral issues we face. If, for example, we were to reengineer ourselves into several separate and unequal species using the power of genetic engineering, then we would threaten the notion of equality that is the very cornerstone of our democracy.
 
 Given the incredible power of genetic engineering, it's no surprise that there are significant safety issues in its use. My friend Amory Lovins recently cowrote, along with Hunter Lovins, an editorial that provides an ecological view of some of these dangers. Among their concerns: that “the new botany aligns the development of plants with their economic, not evolutionary, success.” (See “A Tale of Two Botanies”) Amory's long career has been focused on energy and resource efficiency by taking a whole-system view of human-made systems; such a whole-system view often finds simple, smart solutions to otherwise seemingly difficult problems, and is usefully applied here as well.
- https://www.wired.com/wired/archive/8.04/botanies.html
+ https://www.wired.com/wired/archive/8.04/botanies.html A Tale of Two Botanies
 
 After reading the Lovins' editorial, I saw an op-ed by Gregg Easterbrook in _The New York Times_ (November 19, 1999) about genetically engineered crops, under the headline: “Food for the Future: Someday, rice will have built-in vitamin A. Unless the Luddites win.”
 

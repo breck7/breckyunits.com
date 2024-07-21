@@ -4,11 +4,11 @@ The Brain Pilot Model of Bipolar Disorder
 February 20, 2024
 
 A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
- https://www.metabolicmind.org
- https://breckyunits.com/bipolarKeto.html
+ https://www.metabolicmind.org research effort
+ https://breckyunits.com/bipolarKeto.html writing about it
 
 Today I want to explore a model of bipolar disorder that I've wondered about for a few years, after reading about Marvin Minsky's "Society of Mind" model of the brain. In the model I explore today, mania and depression are not the result of a chemical imbalance, nor the result of a metabolic disorder, but instead are two neural circuits that are learned over time and persist in the brain, whether active or not, like learned skills. This post explores the brain pilot model of bipolar disorder.
- https://breckyunits.com/marvin-minsky.html
+ https://breckyunits.com/marvin-minsky.html Marvin Minsky's "Society of Mind" model of the brain
 
 Brain Circuits
 ==============
@@ -21,7 +21,7 @@ To learn how to ride a bike, your body experiments with a lot of different circu
 Brain Pilots
 ============
 The circuits at the highest level, the ones that you might say experience consciousness, I call brain pilots. Brain pilots are neural circuits that compete against each other for root level control of a brain. You might say the brain pilot in control is the one that experiences consciousness. To a brain pilot, the well being of their host is not the primary measure of success. Instead, the primary measure of success is how long that brain pilot is in control.
- https://breckyunits.com/brain-pilots.html
+ https://breckyunits.com/brain-pilots.html brain pilots
 
 Learning how to mania
 =====================
@@ -32,12 +32,12 @@ At some point a circuit in your brain might start experimenting with various con
 In that person's brain is a new lifetime "skill". Alongside crawling, they now know how to go manic. They now have a manic brain pilot they can switch to.
 
 Why would someone learn how to mania? Perhaps it is a "necessity is the mother of invention" situation. Depression hits first, and a person's brain starts subconsciously prototyping new circuits to try and recover. Maybe MDDs and bipolars are the same, except the brains of MDDs never figured out the subconscious manic skill.
- https://en.wikipedia.org/wiki/Major_depressive_disorder
+ https://en.wikipedia.org/wiki/Major_depressive_disorder MDDs
 
 Bipolar brains may be _less_ chaotic than normal brains
 =======================================================
 A recent paper that looks at bipolar disorder through the lens of chaos theory suggests that counter-intuitively it is not that there is more chaos in a bipolar brain, it is that there is less of it: "a more chaotic pattern is present in healthy systems". In the brain pilots model, the problem with someone with bipolar is not that they experience brain pilot switching--that is normal--it is that they have a manic agent which is a brain pilot very skilled at staying in power. The problem is _less_ brain pilot switching, not more.
- https://journalbipolardisorders.springeropen.com/articles/10.1186/s40345-021-00235-3
+ https://journalbipolardisorders.springeropen.com/articles/10.1186/s40345-021-00235-3 recent paper
 
 Avoiding Brain Pilot Switches
 =============================
@@ -82,6 +82,6 @@ Unanswered Questions
 - Are there people who go manic (and hypomanic) but never depressed? It seems like this is a question we should be able to answer now with the vast amount of sleep data collected by FitBit, Apple, Garmin, Whoop, Samsung, Oura Ring, et cetera.
 - In what percentage of bipolars does mania develop first? In what percentage depression? It seems like to answer this question we need to wait until a large number of children wear wearables for many years.
 - Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
- https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/
+ https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
 
 ****

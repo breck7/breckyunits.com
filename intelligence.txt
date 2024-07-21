@@ -1,12 +1,12 @@
 A Measure of Intelligence
 =========================
 by Breck Yunits
- https://breckyunits.com
+ https://breckyunits.com Breck Yunits
 June 6, 2024
 
 HTML | TXT
- https://breckyunits.com/intelligence.html
- https://breckyunits.com/intelligence.txt
+ https://breckyunits.com/intelligence.html HTML
+ https://breckyunits.com/intelligence.txt TXT
 
 Can we quantify intelligence? Yes.
 

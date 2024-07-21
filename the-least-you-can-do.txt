@@ -34,10 +34,10 @@ Notes
 =====
 
 - Thanks to Conor for providing feedback.
- http://massbeacon.com
+ http://massbeacon.com Conor
 - I never shop for clothes. Once a year, maybe twice. The reason I had so many was because I never got rid of any clothes.
 - This AdSense site doesn't make a ton of money, but it now makes enough to pay all my server bills, which is nice.
 - Finding the least you can do is kind of like diff. You are trying to find the smallest change you can make to turn the status quo into an improved version.
- http://en.wikipedia.org/wiki/Diff
+ http://en.wikipedia.org/wiki/Diff diff
 - Another relevant computer science topics is the The longest common subsequence problem.
- http://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+ http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem

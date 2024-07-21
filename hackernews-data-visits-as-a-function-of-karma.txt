@@ -6,7 +6,7 @@ March 8, 2010
 If a post on HackerNews gets more points, it gets more visits.
 
 But how much more? That's what Murkin wanted to know.
- http://news.ycombinator.com/item?id=1175277
+ http://news.ycombinator.com/item?id=1175277 Murkin
 
 I've submitted over 10 articles from this site to HackerNews and I pulled the data from my top 5 posts (in terms of visits referred by HackerNews) from Google Analytics.
 

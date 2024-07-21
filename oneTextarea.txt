@@ -7,7 +7,7 @@ Forget all the "best practices" you've learned about web forms. _Everyone is doi
 
 [Image Omitted]
  Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
-  https://github.com/breck7/copypaster
+  https://github.com/breck7/copypaster demo gif
 
 The Web Form Gravy Train
 ========================
@@ -23,7 +23,7 @@ Even Stripe sucks
 =================
 
 Stripe is the poster child for web form "experts". And Stripe sucks compared to the demo I released 8 years ago. I still can't do copy/paste with Stripe forms or instant eReceipts or work on forms offline.
- https://www.youtube.com/watch?v=DV4Nv23bBwQ
+ https://www.youtube.com/watch?v=DV4Nv23bBwQ the demo
 
 A Golden Opportunity
 ====================

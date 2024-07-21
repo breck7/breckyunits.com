@@ -24,13 +24,13 @@ Links
 External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
 
 1. Quality. A link from CNN.com is worth order(s) of magnitude more than a link from my blog. A link from a related source, like from ESPN.com to a sports blog, would likely be better than from an unrelated source.
- https://breckyunits.com/orders-of-magnitude.html
+ https://breckyunits.com/orders-of-magnitude.html order(s) of magnitude
 
 2. Quantity. Even though quality is most important, a lot of inbound links help.
 
 3. Anchor Text. You want links with relevant anchor text. Jellyfish tanks is better than click here.
- http://www.jellyfishart.com
- http://www.jellyfishart.com
+ http://www.jellyfishart.com Jellyfish tanks
+ http://www.jellyfishart.com click here
 
 Your internal link structure is also important. Make sure your site repeatedly links to the pages you are optimizing for.
 
@@ -65,6 +65,6 @@ There you have it, SEO made easy! Just remember LUMPS.
 Links
 =====
 - Google WebmasterTools
- https://www.google.com/webmasters/tools
+ https://www.google.com/webmasters/tools Google WebmasterTools
 - SEOBook - one of the best SEO sites out there.
- https://www.seobook.com
+ https://www.seobook.com SEOBook

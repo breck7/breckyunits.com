@@ -6,11 +6,11 @@ January 29, 2020
 In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
 
 TreeBase is a new system I am working on for long-term, strongly-typed collaborative knowledge bases. The design of TreeBase is dumb. It's just a folder with a bunch of files encoded with Tree Notation. A row in a normal SQL table in TreeBase is roughly equivalent to a file. The filenames serve as IDs. Instead of each using an optimized binary storage format it just uses plain text like UTF-8. Field names are stored alongside the values in every file. Instead of starting with a schema you can just start adding files and evolve your schema and types as you go.
- https://truebase.pub
- https://treenotation.org
+ https://truebase.pub TreeBase
+ https://treenotation.org Tree Notation
 
 For example, in this tiny demo TreeBase of the planets the file `mars.planet` looks like this:
- https://github.com/breck7/truebase/tree/main/planetsDB
+ https://github.com/breck7/truebase/tree/main/planetsDB TreeBase of the planets
 
 diameter 6794
 surfaceGravity 4
@@ -24,23 +24,23 @@ TreeBase is composed of 3 key ingredients.
 *Ingredient 2: Git* Instead of having code to implement any sort of versioning or metadata tracking, you just use Git. Edit your files and use Git for history, branching, collaboration, etc. Because Tree Notation is a line and word based syntax it meshes really well with Git workflows.
 
 *Ingredient 3: Tree Notation* The Third Ingredient for making a TreeBase is Tree Notation. Both schemas and data use Tree Notation. This is a new very simple syntax for encoding strongly typed data. It's simple, extensible, and plays well with Git.
- https://treenotation.org
+ https://treenotation.org Tree Notation
 
 TreeBase Compared to Other Database Systems
 ===========================================
 
 Probably hundreds of billions of dollars has gone into designing robust database systems like SQL Server, Oracle, PostgreSQL, MySQL, MongoDB, SQLite and so forth. These things run the world. They are incredibly robust and battle-hardened. Everything that can happen is thought of and planned for, and everything that can go wrong has gone wrong (and learned from). These databases can handle trillions of rows, can conduct complex real-time transactions, and survive disasters of all sort. They use sophisticated binary formats and are tuned for specific file systems. Thousands of people have gotten their PhD's working on database technology.
- https://www.microsoft.com/en-us/sql-server/default.aspx
- https://en.wikipedia.org/wiki/Oracle_Database
- https://www.postgresql.org
- https://www.mysql.com
- https://www.mongodb.com
- https://www.sqlite.org
+ https://www.microsoft.com/en-us/sql-server/default.aspx SQL Server
+ https://en.wikipedia.org/wiki/Oracle_Database Oracle
+ https://www.postgresql.org PostgreSQL
+ https://www.mysql.com MySQL
+ https://www.mongodb.com MongoDB
+ https://www.sqlite.org SQLite
 
 TreeBase doesn't have any of that. TreeBase is stupid. It's just a bunch of files in a folder.
 
 You might be asking yourself "Why use TreeBase at all when great databases exist?". To further put the stupidity of the current TreeBase design into perspective, the Largest Git Repo on the Planet is Windows which has 3.5 million files. I'm going to try and create a repo with 6.5 million files on my laptop.
- https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/
+ https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet/ Largest Git Repo on the Planet is Windows
 
 Even if you think TreeBase is silly aren't you curious what happens when I try to put 6.5 million files into one folder? I kind of am. If you want an explanation of _why_ TreeBase, I'll get to that near the end of this post.
 
@@ -50,7 +50,7 @@ Let's Break TreeBase
 ====================
 
 Here again is a demo TreeBase with only 8 files.
- https://github.com/breck7/truebase/tree/main/planetsDB
+ https://github.com/breck7/truebase/tree/main/planetsDB demo TreeBase
 
 The biggest TreeBase I work with has on the order of 10,000 files. Some files have thousands of lines, some just a handful.
 
@@ -68,7 +68,7 @@ TreeBase is meant for knowledge bases. So all TreeBases center around a topic.
 To test TreeBase on a big scale I want something realistic. I wanted to choose some big structured database that thousands of people have contributed to that's been around for a while and see what it would look like as a TreeBase.
 
 IMDB is just such a database and amazingly makes a lot of their data available for download. So movies will be the topic and the IMDB dataset will be my test case.
- https://www.imdb.com/interfaces/
+ https://www.imdb.com/interfaces/ download
 
 The Dataset
 ===========
@@ -99,7 +99,7 @@ What will happen when I split 1 file into 6.5 million files? Well, it's clear I 
 A file doesn't just take up space for its contents: it also has metadata. Every file contains metadata like permissions, modification time, etc. That metadata must take up some space, right? If I were to create 6.5M new files, how much extra space would that take up?
 
 My MacBook uses APFS It can hold up to 9,000,000,000,000,000,000 files. I can't easily find hard numbers on how much metadata one file takes up but can at least start with a ballpark estimate.
- https://en.wikipedia.org/wiki/Apple_File_System
+ https://en.wikipedia.org/wiki/Apple_File_System APFS
 
 I'll start by considering the space filenames will take up.
 
@@ -115,7 +115,7 @@ CSV error: record 1102213 (line: 1102214, byte: 91470022): found record with 8 f
  1102213 3564906 21815916
 
 XSV didn't like something in that file. Instead of getting bogged down, I'll just work around it.
- https://github.com/BurntSushi/xsv
+ https://github.com/BurntSushi/xsv XSV
 
 I'll build a subset from the first 1M rows with `head -n 1000000 title.basics.tsv > 1m.title.basics.tsv`. Now I will compute against that subset with `xsv select primaryTitle 1m.title.basics.tsv | wc`. I get `19751733` so an average of 20 characters per title.
 
@@ -208,7 +208,7 @@ Building the Grammar File
 The Grammar file adds some intelligence to a TreeBase. You can think of it as the schema for your base. TreeBase scripts can read those Grammar files and then do things like provide type checking or syntax highlighting.
 
 Now that we have a sample `title` file, I'm going to take a first pass at the grammar file for our TreeBase. I copied the file `the-photographical-congress-arrives-in-lyon.title` and pasted it into the right side of the Tree Language Designer. Then I clicked `Infer Prefix Grammar`.
- https://jtree.treenotation.org/designer/
+ https://jtree.treenotation.org/designer/ Tree Language Designer
 
 That gave me a decent starting point for the grammar:
 
@@ -297,7 +297,7 @@ Now I have rudimentary syntax highlighting for these new title files:
 [Image Omitted]
 
 Notice the syntax highlighting is a little broken. The Sublime syntax generating still needs some work.
- https://github.com/treenotation/jtree/issues/8
+ https://github.com/treenotation/jtree/issues/8 still needs some work
 
 Anyway, now we've got the basics done. We have a script for turning our CSV rows into Tree Notation files and we have a basic schema/grammar for our new TreeBase.
 
@@ -432,13 +432,13 @@ Uh oh. Already I am noticing some scaling delays with a few of these tasks.
 💣 The first `git add` took about 1 minute. I used to know the internals of Git well but that was a decade ago and my knowledge is rusty.
 
 I will now look some stuff up. Could Git be creating 1 file for each file in my TreeBase? I found this post from someone who created a Git repo with 1.7M files which should turn out to contain useful information. From that post it looks like you can indeed expect 1 file for Git for each file in the project.
- https://www.monperrus.net/martin/one-million-files-on-git-and-github
+ https://www.monperrus.net/martin/one-million-files-on-git-and-github this post
 
 The first `git commit` took about 10 seconds. Why? Git printed a message about Autopacking. It seems Git will combine a lot of small files into packs (perhaps in bundles of 6,700, though I haven't dug in to this) to speed things up. Makes sense.
- https://stackoverflow.com/questions/8633981/what-does-auto-packing-the-repository-for-optimum-performance-mean/16233094
+ https://stackoverflow.com/questions/8633981/what-does-auto-packing-the-repository-for-optimum-performance-mean/16233094 Autopacking
 
 💣 I forgot to mention, while doing the tasks for the 60k TreeBase, my computer fan kicked on. A brief look at Activity Monitor showed a number of `mdworker_shared` processes using single digit CPU percentages each, which appears to be some OS level indexing process. That's hinting that a bigger TreeBase might require at least some basic OS/file system config'ing.
- https://discussions.apple.com/thread/8510132
+ https://discussions.apple.com/thread/8510132 OS level indexing process
 
 Besides the delays with `git` everything else seemed to remain fast. The 60k TreeBase choked a little more than I'd like but seems with a few tweaks things could remain screaming fast.
 
@@ -452,8 +452,8 @@ A 600k TreeBase
 💣 It appears the first build script started writing files to the 600k directory before it failed. I had to `rm -rf 600k/` and that took a surprisingly long time. Probably a minute or so. Something to keep an eye on.
 
 💣  I updated my build script to use streams. Unfortunately the streaming csv parser I switched to choked on line 32546. Inspecting that vicinity it was hard to detect what it was breaking on. Before diving in I figured I'd try a different library.
- https://www.npmjs.com/package/csv-parse
- https://www.npmjs.com/package/csv-parser
+ https://www.npmjs.com/package/csv-parse csv parser
+ https://www.npmjs.com/package/csv-parser different library
 
 💣 The new library seemed to be working but it was taking a while so I added some instrumentation to the script. From those logs the new script seems to generate about 1.5k files per second. So should take about 6 minutes for all 600k. For the 6.5M files, that would grow to an hour, so perhaps there's more optimization work to be done here.
 
@@ -462,7 +462,7 @@ A 600k TreeBase
 Error: ENAMETOOLONG: name too long, open '/Users/breck/imdbPost/../imdb/600k/mord-an-lottomillionr-karl-hinrich-charly-l.sexualdelikt-an-carola-b.bankangestellter-zweimal-vom-selben-bankruber-berfallenmord-an-lottomillionr-karl-hinrich-charly-l.sexualdelikt-an-carola-b.bankangestellter-zweimal-vom-selben-bankruber-berfallen01985nncrimenews.title'
 
 Turns out the Apple File System has a filename size limit of 255 UTF-8 characters so this error is understandable. However, inspecting the filename shows that for some reason the permalink was generated by combining the original title with the primary title. Sounds like a bug.
- https://en.wikipedia.org/wiki/Comparison_of_file_systems
+ https://en.wikipedia.org/wiki/Comparison_of_file_systems size limit
 
 I `cd` into the `600k` directory to see what's going on.
 
@@ -496,10 +496,10 @@ treebase,how long will it take to scan the base for errors.,~5 seconds
 💣 `ls` is now nearly unusable. `ls -f -1 -U` takes about 30 seconds. A straight up `ls` takes about 45s.
 
 💣 Sublime Text failed to open. After 10 minutes of 100% CPU usage and beachball'ing I force quit the program. I tried twice to be sure with the same result.
- https://en.wikipedia.org/wiki/Spinning_pinwheel
+ https://en.wikipedia.org/wiki/Spinning_pinwheel beachball'ing
 
 💣 `mdworker_shared` again kept my laptop running hot. I found a way of potentially disabling Mac OS X Spotlight Indexing of the IMDB folder.
- http://osxdaily.com/2011/12/30/exclude-drives-or-folders-from-spotlight-index-mac-os-x/
+ http://osxdaily.com/2011/12/30/exclude-drives-or-folders-from-spotlight-index-mac-os-x/ disabling Mac OS X Spotlight Indexing
 
 💣 Opening the `600k` folder in Apple's Finder gave me a loading screen for about 3 minutes
 
@@ -528,12 +528,12 @@ user  0m2.657s
 sys 0m1.724s
 
 The 600k repo on GitHub comes up near instantly. GitHub just shows the first 1k out of 600k files which I think is a good compromise, and far better than a multiple minute loading screen.
- https://github.com/breck7/600k
+ https://github.com/breck7/600k 600k repo
 
 💣 Sadly there doesn't seem to be any pagination for this situation on GitHub, so not sure how to view the rest of the directory contents.
 
 I can pull up a file quickly on GitHub, like the entry for License to Kill.
- https://github.com/breck7/600k/blob/master/007-licence-to-kill.title
+ https://github.com/breck7/600k/blob/master/007-licence-to-kill.title License to Kill
 
 How about editing files locally? Sublime is no use so I'll use `vim`. Because `ls` is so slow, I'll find the file I want to edit on GitHub. Of course because I can't find pagination in GitHub I'll be limited to editing one of the first 1k files. I'll use just that License to Kill entry.
 
@@ -554,7 +554,7 @@ Now adding this 1 file seems tricky. Most of the time I do a `git status` and se
 `git push` was just a few seconds.
 
 I was able to see the change on GitHub instantly. Editing that file on GitHub and committing was a breeze. Looking at the change history and blame on GitHub was near instant.
- https://github.com/breck7/600k/blob/master/007-licence-to-kill.title
+ https://github.com/breck7/600k/blob/master/007-licence-to-kill.title see the change on GitHub
 
 Git blame locally was also just a couple of seconds.
 
@@ -648,12 +648,12 @@ What's Next?
 ============
 
 Now, my focus at the moment is not on big TreeBases. My focus is on making the experience of working with little TreeBases great. I want to help get things like Language Server Protocol going for TreeBases and a Content Management System backed by TreeBase.
- https://github.com/treenotation/jtree/issues/2
+ https://github.com/treenotation/jtree/issues/2 Language Server Protocol
 
 But I now can envision how, once the tiny TreeBase experience is nailed, you should be able to use this for bigger tasks. The infrastructure is there to make it feasible with just a few adjustments. There are some config tweaks that can be made, more in-memory approaches, and some straightforward algorithmic additions to make to a few pieces of software. I also have had some fun conversations where people have suggested good sharding strategies that may prove useful without changing the simplicity of the system.
 
 That being said, it would be fun to do this experiment again but this time try and make it work. Once that's a success, it would be fun to try and scale it another 100x, and try to build a TreeBase for something like the 180M paper Semantic Scholar dataset.
- https://www.semanticscholar.org/
+ https://www.semanticscholar.org/ Semantic Scholar
 
 Why Oh Why TreeBase?
 ====================
@@ -670,7 +670,7 @@ Okay, you might be wondering what is the point of this system? Specifically, why
 Wouldn't it be cool if we could combine sophisticated type checking, querying, and analytical capabilities of databases with the simplicity of files? Programmers can easily build GUIs on top of TreeBase that have any and all of the functionality of traditional database-backed programs but have the additional advantage of an extremely well-known access vector to their information.
 
 People have been predicting the death of files but these predictions are wrong. Even Apple recently backtracked and added a Files interface to iOS. Files and folders aren't going anywhere. It's a very simple and useful design pattern that works in the analog and digital realm. Files have been around for at least 4,500 years and my guess is will be around for another 5,000 years, if the earth doesn't blow up. Instead of dying, on the contrary file systems will keep getting better and better.
- https://en.wikipedia.org/wiki/Papyrus
+ https://en.wikipedia.org/wiki/Papyrus at least 4,500 years
 
 2) Tree Notation is All You Need to Create Meaningful Semantic Content
 ======================================================================
@@ -678,11 +678,11 @@ People have been predicting the death of files but these predictions are wrong. 
 People have recognized the value of semantic, strongly typed content for a long time. Databases have been strongly typed since the beginning of databases. Strongly typed programming languages have dominated the software world since the beginning of software.
 
 People have been attempting to build a system for collaborative semantic content for decades. XML, RDF, OWL2, JSON-LD, Schema.org—these are all great projects. I just think they can be simplified and I think one strong refinement is Tree Notation.
- https://en.wikipedia.org/wiki/XML
- https://www.w3.org/RDF/
- https://www.w3.org/TR/owl2-overview/
- https://json-ld.org/
- http://schema.org/
+ https://en.wikipedia.org/wiki/XML XML
+ https://www.w3.org/RDF/ RDF
+ https://www.w3.org/TR/owl2-overview/ OWL2
+ https://json-ld.org/ JSON-LD
+ http://schema.org/ Schema.org
 
 I imagine a world where you can effortlessly pass TreeBases around and combine them in interesting ways. As a kid I used to collect baseball cards. I think it would be cool if you could just as easily pass around "cards" like a "TreeBase of all the World's Medicines" or a "TreeBase of all the world's academic papers" or a "TreeBase of all the world's chemical compounds" and because I know how to work with one TreeBase I could get value out of any of these TreeBases. Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of.
 

@@ -4,7 +4,7 @@ Make Something 40% of Your Customers Must Have
 December 16, 2009
 
 If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
- http://venturehacks.com/articles/sean-ellis-interview
+ http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
 
 Make something 40% of your users must have
 
@@ -90,8 +90,8 @@ Notes
 - Users/Customers refer to people who use your site regularly or buy from you. This is not "visitors". Generally a much lower percentage than 40% of visitors become users or customers. The 40% refers to the people who have made it through your funnel and have become users or customers.
 - I used customers and users interchangeably. For non-tech businesses, you can just use "customer" each time.
 - Thanks to Ben, Alex Andon, and Andrew Kitchell for feedback.
- http://www.bigorangehousestudios.com
- http://www.jellyfishart.com
- http://andrewkitchell.blogspot.com/
+ http://www.bigorangehousestudios.com Ben
+ http://www.jellyfishart.com Alex Andon
+ http://andrewkitchell.blogspot.com/ Andrew Kitchell
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
- http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/
+ http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice

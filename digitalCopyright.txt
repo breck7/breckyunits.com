@@ -11,11 +11,11 @@ May 14, 2024
 In America, AIs have more freedom to learn than humans. This worries me.
 
 Do you want learn at the same library as ChatGPT, Gemini, Grok, or Llama?
- https://chat.openai.com
- https://gemini.google.com/
- https://grok.x.ai/
- https://llama.meta.com/
- https://www.educatingsilicon.com/2024/05/09/how-much-llm-training-data-is-there-in-the-limit/
+ https://chat.openai.com ChatGPT
+ https://gemini.google.com/ Gemini
+ https://grok.x.ai/ Grok
+ https://llama.meta.com/ Llama
+ https://www.educatingsilicon.com/2024/05/09/how-much-llm-training-data-is-there-in-the-limit/ library
 
 Then you *must* become a criminal.
 
@@ -45,7 +45,7 @@ A Proposed Fix
 ==============
 
 Some smart people want to abolish copyright on digital publications.
- https://www.stephankinsella.com/publications/#againstip
+ https://www.stephankinsella.com/publications/#againstip smart people
 
 Among other benefits, this would ensure all Americans have the same freedom to learn as AIs.
 

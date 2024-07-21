@@ -4,9 +4,9 @@ Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
 May 8, 2008
 
 xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
- http://news.ycombinator.com/
- https://web.archive.org/web/20081205044245/http://www.breckyunits.com/HackerNewsUsers.xls
- https://news.ycombinator.com/user?id=xirium
+ http://news.ycombinator.com/ HackerNews
+ https://web.archive.org/web/20081205044245/http://www.breckyunits.com/HackerNewsUsers.xls excel file
+ https://news.ycombinator.com/user?id=xirium xirium
 
 General Composition of the Dataset
 ==================================
@@ -24,13 +24,13 @@ Between days 563 and 441, there were only 34 users. I am guessing this was the b
 You can also see some large outliers who have a ton of karma. The largest outliers are:
 
 1. pg (17544)
- https://news.ycombinator.com/user?id=pg
+ https://news.ycombinator.com/user?id=pg pg
 2. nickb (11672)
- https://news.ycombinator.com/user?id=nickb
+ https://news.ycombinator.com/user?id=nickb nickb
 3. edw519 (5316)
- https://news.ycombinator.com/user?id=edw519
+ https://news.ycombinator.com/user?id=edw519 edw519
 4. rms (5017)
- https://news.ycombinator.com/user?id=rms
+ https://news.ycombinator.com/user?id=rms rms
 
 Registration Trends
 ===================
@@ -49,7 +49,7 @@ OOPS! Missing Data
 ==================
 
 I wanted to see the effects of the first mention of Hacker News in Techcrunch. The results were surprising–I realized this dataset is far from complete. The Techcrunch article was about 60 days ago and you can see a slight jump in registrations below. But only 32 new members from a Techcrunch article? I couldn’t believe it. So I used Search Y Combinator to see if there was any mention of the traffic bump from TC. There was, and pg reported that there were 258 new accounts within 24 hours of the TC article. So this dataset is missing about 88% of new members from that period. So obviously xirium’s dataset is not the complete user list(unless there are thousands of lurkers). He may have mentioned that, I’m not sure.
- http://news.ycombinator.com/item?id=134247
+ http://news.ycombinator.com/item?id=134247 258 new accounts
 
 [Missing chart] Busted Data
 
@@ -125,7 +125,7 @@ I didn’t realize xirium collected the profile pages on different days. Skews t
 ****
 
 Note: I imported this post from my original Wordpress blog.
- https://breckyunits.com/some-old-blogs.html
+ https://breckyunits.com/some-old-blogs.html original Wordpress blog
 
 Original post
- https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/
+ https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/ Original post

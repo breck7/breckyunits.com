@@ -26,12 +26,12 @@ But all things considered, the FortuneCookie versions are worthless compared to 
 Like FortuneCookie, Wisdom is some advice that can change your perspective or guide your decision making. No difference there.
 
 Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example, in 2009 I wrote:
- https://breckyunits.com/twelve-tips-to-master-programming-faster.html
+ https://breckyunits.com/twelve-tips-to-master-programming-faster.html I wrote
 
 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
 
 Ten years later, after gathering data I can now write:
- https://github.com/breck7/30000hours
+ https://github.com/breck7/30000hours gathering data
 
 🔬 The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
 

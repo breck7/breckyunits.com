@@ -9,7 +9,7 @@ It took me 18 years to figure this out. In 2004 I did what you would now call "f
 
 [Image Omitted]
  One of the many moves in the struggle for intellectual freedom. Aaron Swartz is a hero whose name and impact will expand for eons.
-  https://en.wikipedia.org/wiki/Aaron_Swartz
+  https://en.wikipedia.org/wiki/Aaron_Swartz Aaron Swartz
 
 Trust
 =====
@@ -28,7 +28,7 @@ Imagine that! You get to _do less_, _move faster_, and your products will be bet
 The Rise of Public Domain Products
 ==================================
 SQLite's meteoric success is not a fluke. Public domain products dominate non public domain alternatives on trust and speed and cost to build. SQLite is the first of millions to come.
- https://www.sqlite.org
+ https://www.sqlite.org SQLite's
 
 Is Disney dead?
 ===============

@@ -35,14 +35,14 @@ There are many scenarios you can imagine where through a certain chain of indepe
 But part of me wonders if instead what happens is we develop all the components necessary so that GPUs are no longer the primary ingredient to ANNs but are replaced by organic brains grown in vitro. These in vitro brains would be hooked up to control machines using something like Neuralink's Neuralace. They would be trained by ANNs.
 
 We know it must be possible to run computations like in an ANN very power efficiently, using self reproducing organic materials, because we see nature do it. Just as scientists measured the amount of energy coming from the sun and deduced there must be a much more powerful way to create energy than chemical reactions, so we know there must be a better way to build these chips.
- https://breckyunits.com/ifNatureIsDoingIt.html
+ https://breckyunits.com/ifNatureIsDoingIt.html we see nature do it
 
 ***
 
 The technologies you would need to build this seem to almost be all available^note.
 
 Companies now sell lab grown "meat" at scale which I assume means we are getting better and better at growing artificial tissue in vitro. So perhaps you could grow a chunk of neural tissue unbounded. Just add water and readily available organic nutrients. Imagine if you could grow enough brain tissue to fill a shipping container—that could contain the compute potential of 20,000 Einsteins!
- https://en.wikipedia.org/wiki/Cultured_meat
+ https://en.wikipedia.org/wiki/Cultured_meat lab grown "meat"
 
 Neural tissue might as well just be meat if you can't interface with it. Enter Neuralink (and competitors). They are developing ways to do IO with neurons at scale.
 
@@ -61,4 +61,4 @@ I have no conclusions yet. If I tried to reach conclusions on these ideas before
 ^note: It does seem like a ground breaking proof of concept could happen within a decade. If that were to happen maybe something like this could be viable within another decade. So perhaps the earliest something like this might happen would be 15 - 20 years. It doesn't seem like it would be 50 years out, as by then it seems AGI would have happened using traditional chips, or that world powers would have hit the kill switch.
 
 ^after: After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
- https://www.mdpi.com/2079-6374/13/5/551
+ https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip

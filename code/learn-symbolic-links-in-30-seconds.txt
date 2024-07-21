@@ -25,4 +25,4 @@ You can do all kinds of neat things with symlinks, but the simplest uses are oft
 Notes
 =====
 Aliases are another great time saver.
- https://breckyunits.com/code/use-aliases-to-save-time.html
+ https://breckyunits.com/code/use-aliases-to-save-time.html Aliases

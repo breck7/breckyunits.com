@@ -13,7 +13,7 @@ June 9, 2022
 
 "Your maps are slow".
 In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
- https://ourworldindata.org/
+ https://ourworldindata.org/ our
 
 [Image Omitted]
  Suddenly these charts were taking a long time to render.
@@ -21,20 +21,20 @@ In the fall of 2020 users started reporting that our map charts were now slow. A
 k-means was the culprit
 =======================
 To color our maps an engineer on our team utilized a very effective technique called k-means clustering, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow.
- https://en.wikipedia.org/wiki/K-means_clustering
+ https://en.wikipedia.org/wiki/K-means_clustering k-means clustering
 
 Using Chrome DevTools I was able to quickly determine the k-means function was causing the slowdown.
 
 Benchmarking ckmeans
 ====================
 We didn't write the k-means function ourselves, instead we used the function `ckmeans` from the widely-used package Simple Statistics.
- https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js
- https://github.com/simple-statistics/simple-statistics
+ https://github.com/simple-statistics/simple-statistics/blob/master/src/ckmeans.js ckmeans
+ https://github.com/simple-statistics/simple-statistics Simple Statistics
 
 My first naive thought was that I could just quickly write a better k-means function. It didn't take long to realize that was a non-trivial problem and should be a last resort.
 
 My next move was to look closer at the open source implementation we were using. I learned the function was a Javascript port of an algorithm first introduced in a 2011 paper and the comments in the code claimed it ran in `O(nlog(n))` time. That didn't seem to match what we were seeing, so I decided to write a simple benchmark script.
- https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf
+ https://journal.r-project.org/archive/2011-2/RJournal_2011-2_Wang+Song.pdf 2011 paper
 
 Benchmarking shows closer to n² than n·log(n)
 =============================================
@@ -51,12 +51,12 @@ Rows	Time
 Opening an issue
 ================
 After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
- https://github.com/simple-statistics/simple-statistics/issues/520
+ https://github.com/simple-statistics/simple-statistics/issues/520 issue
 
 A fix!
 ======
 Mere hours later, I had one of the most delightful surprises in my coding career. A teammate had, unbeknownst to me, looked into the issue and found a fix. Not just any fix, but a _3 character fix_ that sped up our particular case by 20x!
- https://github.com/simple-statistics/simple-statistics/pull/521
+ https://github.com/simple-statistics/simple-statistics/pull/521 found a fix
 
 Before:
 if (iMax < matrix.length - 1) {
@@ -65,7 +65,7 @@ After:
 if (iMax < matrix[0].length - 1) {
 
 He had read through the original ckmeans C++ implementation and found a conditional where the C++ version had a `[0]` but the Javascript port did not. At runtime, `matrix.length` would generally be small, whereas `matrix[0].length` would be large. That if statement should have resolved to true most of the time, but was not in the Javascript version, since the Javascript code was missing the `[0]`. This led the Javascript version to run a loop a lot more times that were effectively no-ops.
- https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp
+ https://github.com/rocketrip/ckmeans/blob/49eb1bb9ca5467fdc153fe5d20f027ab7375c078/Ckmeans.1d.dp/src/Ckmeans.1d.dp.cpp original ckmeans C++ implementation
 
 I was amazed by how fast he found that bug in code he had never seen before. I'm not sure if he read carefully through the original paper or came up with the clever debug strategy of "since this is a port, let's compare to the original, looking for typos, with a particular focus on the loops".
 
@@ -78,7 +78,7 @@ After  x 52ms
 
 [Image Omitted]
  Interactive Version.
-  https://www.datawrapper.de/_/vrQfc/
+  https://www.datawrapper.de/_/vrQfc/ Interactive Version.
 
 You can easily see the difference when you look at time needed per additional row as the number of rows increases:
 
@@ -98,7 +98,7 @@ Rows	LogLinear	Quadratic	Before	After
 Merged
 ======
 Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
- https://github.com/tmcw
+ https://github.com/tmcw creator
 
 Thanks!
 =======
@@ -120,7 +120,7 @@ Related Posts
 Notes
 =====
 - The industry term for this type of map is Choropleth map.
- https://en.wikipedia.org/wiki/Choropleth_map
+ https://en.wikipedia.org/wiki/Choropleth_map Choropleth map
 - To be precise the algo was `O(knlog(n))` time, where k is the number of groups. But I've simplified for this story as that detail is not important.
 - Wolfram Alpha fit of the quadratic runtime data
- https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
+ https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D Wolfram Alpha fit of the quadratic runtime data

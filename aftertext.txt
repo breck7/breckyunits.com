@@ -20,17 +20,17 @@ aftertext
 You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
 
 Here is a silly another example, with more markups.
- https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features
+ https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
 
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
- https://scroll.pub/
- https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll
+ https://scroll.pub/ Scroll
+ https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll here
 
 Why did I make this?
 ====================
 
 First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable parsers makes that true for all additions.
- https://github.com/publicdomaincompany/scroll/blob/main/parsers/
+ https://github.com/publicdomaincompany/scroll/blob/main/parsers/ parsers
 
 With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
 
@@ -53,15 +53,15 @@ A Petri dish for new markup ideas
 Aftertext provides a scalable way to add new markup ideas.
 
 Simple markups like bolds or italics aren't a big pain and conventions like *bold* and _italics_ used in languages like Markdown or Textile do a sufficient job. But even with those, after a certain amount of rules it's hard to keep track of what characters do what. You also have to worry about escaping rules. With Aftertext adding new markups does not increase the cognitive load on the writer.
- https://en.wikipedia.org/wiki/Markdown
- https://en.wikipedia.org/wiki/Textile_(markup_language)
+ https://en.wikipedia.org/wiki/Markdown Markdown
+ https://en.wikipedia.org/wiki/Textile_(markup_language) Textile
 
 When you get to more advanced markup ideas, Aftertext gives each markup node it's own scope for advanced functionality while keeping the text text.
 
 I'm particularly interested in exploring new ways to do footnotes, sparklines, definitions, highlights and comments. Basic Aftertext might not be compelling on its own, but maybe it will be a useful tool for evolving a new "killer markup".
 
 Adding a new markup command is just a few lines of code.
- https://github.com/publicdomaincompany/scroll/blob/main/parsers/aftertext.parsers
+ https://github.com/publicdomaincompany/scroll/blob/main/parsers/aftertext.parsers lines of code
 
 What are the downsides of Aftertext?
 ====================================
@@ -97,34 +97,34 @@ Related Work
 ============
 
 Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
- http://akkartik.name/
- https://shalabh.com/
- https://twitter.com/warianoguerra
- https://trellick.work
+ http://akkartik.name/ Kartik
+ https://shalabh.com/ Shalabh
+ https://twitter.com/warianoguerra Mariano
+ https://trellick.work Joe
 
 In 1997 Ted Nelson proposed parallel markup.
- https://www.xml.com/pub/a/w3j/s3.nelson.html
+ https://www.xml.com/pub/a/w3j/s3.nelson.html parallel markup
 
 The text and the markup are treated as separate parallel members, presumably (but not necessarily) in different files.
 @ Ted Nelson
 
 When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
- https://www.google.com/search?q=%22parallel+markup%22+implementation
- https://en.wikipedia.org/wiki/Overlapping_markup
+ https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup implementation"
+ https://en.wikipedia.org/wiki/Overlapping_markup Overlapping markup
 
 A couple of folks mentioned similarities to troff directives. In a sense Aftertext is reimagining troff/groff 50 years later, when characters/bytes aren't so expensive anymore.
- https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html
- https://www.systutorials.com/docs/linux/man/7-groff_man/
+ https://cgi.csc.liv.ac.uk/~ped/teachadmin/troff_intro.html troff directives
+ https://www.systutorials.com/docs/linux/man/7-groff_man/ groff
 
 Brad Templeton describes two inventions, Proletext and OOB, to solve what he termed "Out of band encoding for HTML". They seem _esolangy_ now but actually cleverly useful back in the day when bytes and keystrokes were more expensive.
- https://www.templetons.com/tech/oob.html
- https://www.templetons.com/tech/proletext.html
+ https://www.templetons.com/tech/oob.html OOB
+ https://www.templetons.com/tech/proletext.html Proletext
 
 The Codex project has a related idea called standoff properties. As I understand it, the Codex version uses character indexes for selectors which requires tooling to be practical and rules out hand editing.
- https://zfdg.de/sb004_008#hd14
+ https://zfdg.de/sb004_008#hd14 standoff properties
 
 AtJSON is a similar project and has clear documentation. AtJSON has a useful collection of markups evolved to support a large corpus of documents at CondeNast. AtJSON uses character indexes for selectors so hand editing is not practical.
- https://github.com/CondeNast/atjson
+ https://github.com/CondeNast/atjson AtJSON
 
 Why now?
 ========
@@ -136,7 +136,7 @@ Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocompl
 I may also be overvaluing the importance of universal parsibility. I value formats that are easy to maintain by hand but also easy to write parsers for. Before GUIs, collaborative VCSs, IDEs, or AIs, there wasn't as much value to be gained by doing this. But even today I may be overvaluing hand editability. This seems to be the era of AIs and all apps editing JSON documents on the backend. I may be a dinosaur.
 
 Finally, I may be overvaluing the clean scopes used by Aftertext provided by the underlying Tree Notation. Aftertext works because each text block gets its own scope for markup directives and each markup directive gets _its own scope_ and you don't have to worry about matching brackets. So maybe Aftertext just hasn't been tried because I overvalue that trick.
- https://treenotation.org/
+ https://treenotation.org/ Tree Notation
 
 ****
 

@@ -6,27 +6,27 @@ Analyzing the version numbers of 621 programming languages
 
 [Image Omitted]
  Interactive Version
-  https://observablehq.com/@breck/version-numbers
- https://observablehq.com/@breck/version-numbers
+  https://observablehq.com/@breck/version-numbers Interactive Version
+ https://observablehq.com/@breck/version-numbers undefined
 
 May 25, 2024
 
 I just pushed version 93.0.0 of my language Scroll. *Version 93*!
- https://scroll.pub/
+ https://scroll.pub/ Scroll
 
 Why so many versions? I use Tom Preston-Warner's Semantic Versioning (2011).
- https://semver.org/
- https://tom.preston-werner.com/
+ https://semver.org/ Semantic Versioning
+ https://tom.preston-werner.com/ Tom Preston-Warner's
 
 In particular, I followed his advice in Major Version Numbers are Not Sacred.
- https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred
+ https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred Major Version Numbers are Not Sacred
 
 ***
 
 Pushing so many major versions was no big deal because Scroll was a toy.
 
 But Scroll now has a novel feature that makes it very useful.
- https://breckyunits.com/scrollsets.html
+ https://breckyunits.com/scrollsets.html novel feature
 
 I need to decide if I should ship fewer major versions with higher quality.
 
@@ -35,7 +35,7 @@ I need to decide if I should ship fewer major versions with higher quality.
 Let's do some research on what other programming language developers are doing.
 
 I added version number data to over 600 languages in PLDB.
- https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning~foundationScore&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22boolean%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~latestMajorVersion~latestVersion~usesSemanticVersioning~foundationScore&searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22%3D%22%2C%22data%22%3A%22usesSemanticVersioning%22%2C%22origData%22%3A%22usesSemanticVersioning%22%2C%22type%22%3A%22boolean%22%2C%22value%22%3A%5B%22true%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D version number data to over 600 languages in PLDB
 
 ***
 
@@ -59,7 +59,7 @@ Other things I learned
 
 - I learned 97.5% of languages with a version system use Semantic Versioning. The ~2% of languages, such as C and C++, that are still doing versions like C17 (which does not mean major version 17, but refers to the year the revision came out), maybe want to reconsider ;).
 - I learned most languages use git tags for tagging their releases. Something I should start doing.
- https://git-scm.com/book/en/v2/Git-Basics-Tagging
+ https://git-scm.com/book/en/v2/Git-Basics-Tagging git tags
 
 I learned a few things today. Hope you did too!
 

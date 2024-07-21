@@ -4,7 +4,7 @@ Ohayo
 June 23, 2017
 
 I just pushed a project I've been working on called Ohayo.
- https://ohayo.breckyunits.com
+ https://ohayo.breckyunits.com Ohayo
 
 You can also view it on GitHub: https://github.com/treenotation/ohayo
 

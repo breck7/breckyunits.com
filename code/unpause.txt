@@ -3,13 +3,13 @@ Unpause
 June 9, 2021
 
 After a decade buried in the digital attic, I recently uncovered this old blog and upgraded the content to use Scroll. It was a fun restoration project and interesting to me personally to see what types of technologies I was using a decade ago. It was fun to read that I was still uncertain if I would switch to a Mac. IIRC that Macbook Air would last me until 2016! It was followed by another Air, and then around the end of 2020 I upgraded to the current crop of machines, typing this on an M1 MacBook Pro.
- https://breckyunits.com/code/some-old-blogs.html
- https://scroll.pub
- https://breckyunits.com/code/adjusting-to-a-mac.html
+ https://breckyunits.com/code/some-old-blogs.html uncovered
+ https://scroll.pub Scroll
+ https://breckyunits.com/code/adjusting-to-a-mac.html uncertain
 
 Anyway, I also just remembered how nice and convenient it was to post these small snippets I need in my day-to-day coding work on a fast, ad free site. So decided to restart this blog.
 
 Why not just start a fresh one? That might be a better idea. For now I plan to reuse this one. Perhaps split them later, if that makes sense.
 
 If I do keep with it, this post is just to acknowledge that that's no bug, there was a 3,444 day gap between posts.
- https://breckyunits.com/code/git-ignore-global.html
+ https://breckyunits.com/code/git-ignore-global.html posts

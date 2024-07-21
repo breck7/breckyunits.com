@@ -4,7 +4,7 @@ Why is it best to do one thing really, really well?
 March 22, 2010
 
 Google has a list of 10 principles that guide its actions. Number 2 on this list is:
- http://www.google.com/intl/en/corporate/tenthings.html
+ http://www.google.com/intl/en/corporate/tenthings.html 10 principles
 
 It's best to do one thing really, really well.
 
@@ -31,8 +31,8 @@ Thus, what Google is striving for is to be the #1 company that does search. They
 What's the most common mistake companies make when following this advice?
 =========================================================================
 My guess is they don't choose the correct "thing" for their given team. They pick the wrong thing to focus on. For instance, if Ben and I started a jellyfish business, and decided to do jellyfish tanks really, really well, we would be making a huge mistake because we just don't have the right team for that business. It makes more sense when Al, a marine biology major and highly skilled builder, decides to do jellyfish tanks really, really well.
- http://jellyfishart.com
- http://www.jellyfishart.com/aboutus.asp
+ http://jellyfishart.com jellyfish tanks
+ http://www.jellyfishart.com/aboutus.asp Al
 
 It makes perfect sense for the Google founders to start Google since they were getting their PhD's in search.
 

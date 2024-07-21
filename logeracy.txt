@@ -4,25 +4,25 @@ Logeracy
 April 26, 2021
 
 I invented a new word: *_Logeracy_*^coinage. I define it roughly as the ability to think in logarithms. It mirrors the word literacy.
- https://en.wikipedia.org/wiki/Logarithm
- https://en.wikipedia.org/wiki/Literacy
+ https://en.wikipedia.org/wiki/Logarithm logarithms
+ https://en.wikipedia.org/wiki/Literacy literacy
 
 Someone literate is fluent with reading and writing. Someone logerate is fluent with orders of magnitudes and the ubiquitous mathematical functions that dominate our universe.
 
 Someone literate can take an idea and break it down into the correct symbols and words, someone logerate can take an idea and break it down into the correct classes and orders of magnitude.
- https://en.wikipedia.org/wiki/Order_of_magnitude
+ https://en.wikipedia.org/wiki/Order_of_magnitude orders of magnitude
 
 Someone literate is fluent with terms like verb and noun and adjective. Someone logerate is fluent with terms like exponent and power law and base and factorial and black swan.
- https://en.wikipedia.org/wiki/Exponentiation
- https://en.wikipedia.org/wiki/Power_law
- https://en.wikipedia.org/wiki/Base_(exponentiation)
- https://en.wikipedia.org/wiki/Factorial
- https://en.wikipedia.org/wiki/Black_swan_theory
+ https://en.wikipedia.org/wiki/Exponentiation exponent
+ https://en.wikipedia.org/wiki/Power_law power law
+ https://en.wikipedia.org/wiki/Base_(exponentiation) base
+ https://en.wikipedia.org/wiki/Factorial factorial
+ https://en.wikipedia.org/wiki/Black_swan_theory black swan
 
 Someone literate can read an article and determine whether it makes sense grammatically. Someone logerate can read an article and determine whether it makes sense logarithmically.
 
 Someone literate can read and write an address on the front of the envelope. Someone logerate can use the back of the envelope.
- https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
+ https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation back of the envelope
 
 Illogeracy
 ==========
@@ -37,7 +37,7 @@ An illogerate person treats all parts of an argument as important.
 An illogerate person may mistake one part of a sin wave for a trend.
 
 An illogerate is one who may be familiar with exponentials but unfamiliar with sigmoids
- https://en.wikipedia.org/wiki/Sigmoid_function
+ https://en.wikipedia.org/wiki/Sigmoid_function sigmoids
 
 Measuring Logeracy
 ==================
@@ -46,7 +46,7 @@ No country or organization measures logeracy yet^email. I don't know which count
 [Image Omitted]
 
 Countries have been measuring literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
- https://ourworldindata.org/literacy
+ https://ourworldindata.org/literacy literacy
 
 The upside of logeracy
 ======================
@@ -55,13 +55,13 @@ Logeracy is how engineering works. Good engineers fluently and effortlessly work
 Logeracy makes decision making simple and fast (figure out the classes of the options, and then the decision should be obvious).
 
 You don't get wealthy without logeracy. An illogerate and his money are soon parted. Compound interest is a tool of the logerate. Money doesn't buy happiness, but the logarithm of money does.
- https://en.wikipedia.org/wiki/Compound_interest
- https://en.wikipedia.org/wiki/Kelly_criterion
+ https://en.wikipedia.org/wiki/Compound_interest Compound interest
+ https://en.wikipedia.org/wiki/Kelly_criterion logarithm of money
 
 Where is logeracy currently taught well?
 ========================================
 My knowledge here is limited. I know Computer Science students could be the ones taught logeracy best. We are taught it by a different name. CS students are repeatedly taught to think in Big O notation^bigO. In Computer Science you are constantly working with phenomena across vastly different scales so logeracy is critical if you want to be successful.
- https://en.wikipedia.org/wiki/Big_O_notation
+ https://en.wikipedia.org/wiki/Big_O_notation Big O notation
 
 Perhaps its electrical engineers, or astronomers, or aerospace engineers. These folks are frequently working with vast scale differences so logeracy is required.
 
@@ -72,7 +72,7 @@ It would be interesting to see logeracy rates across industries. Perhaps measuri
 How much logeracy is the average person taught?
 ===============================================
 My high school chemistry teacher first exposed me to logeracy when she taught me Scientific Notation. That was probably the only real drilling I got in logeracy before getting into Computer Science. Scientific Notation is a handy notation and a great introduction to logeracy, but logeracy is so important that it probably deserves its own dedicated class in high schools where it is drilled repeatedly from many difference perspectives.
- https://en.wikipedia.org/wiki/Scientific_notation
+ https://en.wikipedia.org/wiki/Scientific_notation Scientific Notation
 
 What are some good books for improving logeracy?
 ================================================
@@ -101,7 +101,7 @@ Literacy without logeracy is dangerous. My back-of-the-envelope guess is that ov
 Let's get to 99%+ logeracy
 ==========================
 I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2009. At the time I didn't have a concise way to put it, so instead I advised "think in Orders of Magnitude". Now I have a better way to put it: *become logerate*. I wonder what wonderful things humankind will achieve when we have logeracy rates like our literacy rates.
- https://breckyunits.com/orders-of-magnitude.html
+ https://breckyunits.com/orders-of-magnitude.html Orders of Magnitudes
 
 ****
 
@@ -117,7 +117,7 @@ Related Posts
 Notes
 =====
 ^coinage: I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
- https://breckyunits.com/logeracy.png
+ https://breckyunits.com/logeracy.png proof
 
 [Image Omitted]
 

@@ -13,7 +13,7 @@ For this post I combined 2,500 nights of sleep data with 58 blog posts. A 7 year
 
 [Image Omitted]
  Interactive version.
-  https://www.datawrapper.de/_/YsKWU/
+  https://www.datawrapper.de/_/YsKWU/ Interactive version.
 
 ~7 Hours is the Cutoff
 ======================
@@ -22,7 +22,7 @@ Most posts above 7 hours of sleep do not need a sleep disclaimer. Most posts bel
 Interactive Table
 =================
 Static image of table above.
- https://breckyunits.com/seven-years-of-blog-posts-sorted-by-sleep.png
+ https://breckyunits.com/seven-years-of-blog-posts-sorted-by-sleep.png Static image
 
 [Image Omitted]
 

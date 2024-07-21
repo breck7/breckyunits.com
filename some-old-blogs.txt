@@ -18,19 +18,19 @@ August 2009 - Switched to Posterous
 Looks like I started transitioning to a new site AUG 2009 , and moved my blog from my own server running Wordpress to posterous MAR 2013.
 
 After I moved to posterous, I put up this homepage SEP 2009.
- https://breckyunits.com/oldHomepage/
+ https://breckyunits.com/oldHomepage/ homepage
 
 December 2009 - Switched to Brecksblog
 ======================================
 In December 2009 I wrote my own blog software called brecksblog. Here's what my new site looked like DEC 2009.
 
 I kept it simple. My current homepage now powered by Scroll evolved from brecksblog.
- https://breckyunits.com
- https://scroll.pub
+ https://breckyunits.com homepage
+ https://scroll.pub Scroll
 
 December 2009 - My "Computer science" blog
 ==========================================
 It looks like I also maintained a programming blog from December 2009 to January 2012 MAY 2012. Here is that blog migrated to Scroll.
- https://breckyunits.com/code/
+ https://breckyunits.com/code/ that blog
 
 ****

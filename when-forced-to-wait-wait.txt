@@ -45,5 +45,5 @@ If you switch tasks during your idle times, you're implying that the time to rel
 Notes
 =====
 1. Influenced by Paul Graham's Holding a Program in One's Head
- http://paulgraham.com/head.html
+ http://paulgraham.com/head.html Holding a Program in One's Head
 2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.

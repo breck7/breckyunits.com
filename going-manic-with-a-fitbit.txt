@@ -103,14 +103,14 @@ Having lots of quantitative biological data like this makes it easier to accept 
 I'm hopeful that wearable makers might crack the code for measuring other key indicators, like anxiety and social activity data, which could also be very helpful for people with mental health issues.
 
 Of course, the holy grail would probably be actual images of the brain over time. Perhaps when industrious scientists and engineers improve MRI and fMRI technology enough, getting a brain scan done a few times a year could really help people with bipolar understand their brains more and take better control of their condition. A new study published in Nature in May of 2017 provides tantalizing evidence that brain MRI scans will help us understand more how bipolar brains are different. I know I have to accept that my brain has some biological aberrations that make me more likely to behave in ways I'd rather not — but it's hard to accept that when you can't see what those aberrations are, and when the treatments are a lot of guesswork.
- https://www.nature.com/articles/mp201773
+ https://www.nature.com/articles/mp201773 study published in Nature in May of 2017
 
 Wearables for Bipolar Disorder
 ==============================
 Monitoring sleep alone won't be the secret to a stable, productive, happy life. But it might reduce future manias. As far as I can remember, I never had a manic period without an accompanying need to sleep less. That seems to be the common experience, from what I've read. I would suggest to younger folks in high school and college who have been recently diagnosed with bipolar to get a sleep tracker and stay on it. Hopefully you'll be able to prevent some manic episodes. And if, like many others with bipolar disorder, you continue to have swings over the decades ahead, at least you'll gather data that could help you and other people figure this thing out.
 
 Of course, technology might also be making bipolar disorder worse in those prone to it. The technology advanced U.S. has the highest rate of bipolar disorder in the world. Perhaps increased screen time, less social time, or more media exacerbates the problem. But that's why I like passive wearables, which collect data without intruding on your life. Even if some innovations of the modern world offer new challenges to bipolar sufferers, some innovations also offers new hope.
- https://www.nimh.nih.gov/news/science-news/2011/international-impact-of-bipolar-disorder-highlights-need-for-recognition-and-better-treatment-availability.shtml
+ https://www.nimh.nih.gov/news/science-news/2011/international-impact-of-bipolar-disorder-highlights-need-for-recognition-and-better-treatment-availability.shtml U.S. has the highest rate of bipolar disorder in the world
 
 Conclusion
 ==========
@@ -123,4 +123,4 @@ Next time I start acting on a grand idea, I hope my band and I will do the healt
 ****
 
 _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
- https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54
+ https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium

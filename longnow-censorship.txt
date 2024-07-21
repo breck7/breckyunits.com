@@ -4,8 +4,8 @@ My LongBets.org prediction on cancer
 October 20, 2022
 
 For over 30 days I've waited patiently for LongNow Foundation, operator of LongBets.org, to publish my prediction on cancer. For some reason they have not done so. So I am publishing it publicly to my git backed blog so we have it confirmed on the blockchain.
- https://longnow.org/
- https://longbets.org/
+ https://longnow.org/ LongNow Foundation
+ https://longbets.org/ LongBets.org
 
 [Image Omitted]
  After I tried to publish it via the website and had a problem, the LongNow foundation was extremely quick to "DM" me on Twitter, then went dark.
@@ -13,11 +13,11 @@ For over 30 days I've waited patiently for LongNow Foundation, operator of LongB
 I'm not sure why they won't publish this one. I have been a LongNow member for many years. I even have one of those stupid metal membership cards.
 
 I have paid for and made 2 public predictions. My first is a prediction about programming languages. My second is about an upcoming medical disaster in the United States.
- https://longbets.org/793/
- https://longbets.org/855/
+ https://longbets.org/793/ prediction about programming languages
+ https://longbets.org/855/ medical disaster
 
 Anyway, my prediction is below, written in Scroll:
- https://scroll.pub/
+ https://scroll.pub/ Scroll
 
 What is your prediction?
 ========================

@@ -11,7 +11,7 @@ After years of development, I'm looking for beta testers for The World Wide Scro
 
 The WWS is like the World Wide Web, except:
 - *Intelligent.* Built not on HTML, but from the ground up in a simple, expandable language, designed for both humans and AIs.
- https://scroll.pub
+ https://scroll.pub simple, expandable language
 - *Offline.* You download entire sites and browse completely offline locally, rather than fetching one page at a time.
 - *Pristine.* No ads, no paywalls, no trackers, no cookies, no copyright.
 - *Human.* Instead of anonymous domains registered to corporations the WWS has folders owned by verified humans.

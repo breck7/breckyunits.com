@@ -23,7 +23,7 @@ Startup Growth Rates
 ====================
 
 You can categorize all startups into a handful of classes.
- https://breckyunits.com/bigOsKitchen.html
+ https://breckyunits.com/bigOsKitchen.html handful of classes
 
 If you start a business washing clothes and your only equipment is a bathtub, you have a Log Business.
 
@@ -162,7 +162,7 @@ If you are committed to building something for the long term (and if you're not,
 Make sure you have a really strong mental model of the world and how your product fits into that.
 
 Your mental models should be your primary source of truth. Metrics should merely be automated tests that your models predict reality.
- https://breckyunits.com/datasets.html
+ https://breckyunits.com/datasets.html automated tests
 
 Don't think just because you've worked on something for a long time that at some point it has to hit PMF. Nature does not owe you PMF.
 
@@ -175,7 +175,7 @@ You have to be long term oriented.
 Remember, things in the Quad and Expo classes *only* become Quad and Expo *over time*. So slow down, spend more time thinking about your models and less time looking at your metrics.
 
 Finally, always make sure you are getting enough sleep.
- https://breckyunits.com/sleepWriting.html
+ https://breckyunits.com/sleepWriting.html getting enough sleep
 
 ***
 

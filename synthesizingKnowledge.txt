@@ -23,9 +23,9 @@ Wikipedia is a great Knowledge Base with a lot of Cells but a relatively small n
 My (failed) attempt
 ===================
 My attempt to solve the problem of Synthesizing Knowledge was TrueBase, where large amounts of Cells with large numbers of Connections could be put into place under human expert review. But ChatGPT, launched in November 2022, demonstrated that huge neural networks, through training matrices of weights, are an incredibly powerful way to Synthesize Knowledge. My approach was worse. Words are worse than weights.
- https://github.com/breck7/truebase
- https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
- https://breckyunits.com/wordsAreWorseThanWeights.html
+ https://github.com/breck7/truebase TrueBase
+ https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html My approach was worse
+ https://breckyunits.com/wordsAreWorseThanWeights.html Words are worse than weights.
 
 Expanding Knowledge
 ===================

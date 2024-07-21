@@ -1,22 +1,22 @@
 How Old Are These Keys? Five Eras of Human Progress
 ===================================================
 [Image Omitted]
- https://breckyunits.com/keyboard/index.html
+ https://breckyunits.com/keyboard/index.html undefined
  My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
-  https://breckyunits.com/keyboard/index.html
+  https://breckyunits.com/keyboard/index.html Try it yourself
 
 February 25, 2020
 
 One of the questions I often come back to is this: how much of our collective wealth is inherited by our generation versus created by our generation?
 
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
- https://breckyunits.com/keyboard/index.html
+ https://breckyunits.com/keyboard/index.html interactive experiment
 
 The Five Waves of Symbols
 =========================
 [Image Omitted]
  Interactive Version
-  https://www.datawrapper.de/_/18PRa/
+  https://www.datawrapper.de/_/18PRa/ Interactive Version
 
 Painting with broad strokes, there were approximately five big waves of inventions that have left their mark on the keyboard:
 - 1. The first wave was the invention of the phonetic alphabet letters.
@@ -48,7 +48,7 @@ I got this idea last week and couldn't get it out of my head. Yesterday I took a
 I started by typing all the characters on my keyboard into a dataset. Then I dug up some years for a handful of the symbols.
 
 Next I found the great Apple CSS keyboard. I stitched together the two and it seemed to be at least mildly interesting so I opted to continue.
- http://cssdeck.com/labs/apple-keyboard-via-css3
+ http://cssdeck.com/labs/apple-keyboard-via-css3 great Apple CSS keyboard
 
 I then flushed out most of the dataset.
 

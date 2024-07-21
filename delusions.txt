@@ -18,7 +18,7 @@ When society went delusional
 In February 2020 I was living in Hawai'i with my family and witnessed society there (and around the world) go delusional about Covid-19.
 
 I had been following the early stories about Covid with some concern, but after the first big data dump was published on February 17th, 2020, it seemed clear to me that Covid would not be a huge danger. Most importantly, the first data dump indicated strongly Covid was not a significant danger to children. Every additional large data dump from then on only reinforced the more mild view of Covid. Covid was not deadly for nearly everyone (awful flu like experience aside), except those who were also at risk of dying from the flu. Thus, it shocked me as society locked down increasingly harshly over the next two years. The precautionary principle is a fine argument that would have justified a strong response measured in weeks, but the duration of the response put this in the delusional category.
- https://twitter.com/breckyunits/status/1228117546974371840
+ https://twitter.com/breckyunits/status/1228117546974371840 first big data dump
 
 [Image Omitted]
  It was easy to ballpark from the data what the disease would do. It was much harder to predict what society would do.
@@ -42,9 +42,9 @@ I really struggled with society's reaction to the pandemic. Because my day job w
 I developed two delusions of my own.
 
 My first delusion was that the copyright system was a root cause of society's delusions. I had long ago formed circuits in my brain that were against copyright law. These circuits believed copyright led to a less healthy information circulatory network. Now I was seeing the information network that our copyright system molded spouting delusions. Meanwhile, people were shouting "trust the science" while Sci-Hub, the preeminent site for sharing scientific research, was frozen by legal attacks from the copyright lobby. I really wish I could say that I was not delusional about this idea, but now I think that I likely greatly overestimated the impact of copyright in our world (positive or negative) and that whether we have copyright or not is probably not very impactful. So, I had a low probability theory (copyright significantly harms society) that I viewed with high probability for a long time. I also acted upon this theory, resigned from my job and formed a new corporation. So this meets all my criteria for a delusion.
- https://breckyunits.com/the-public-domain-publishing-company.html
- https://www.reddit.com/r/scihub/comments/lofj0r/announcement_scihub_has_been_paused_no_new/
- https://en.wikipedia.org/wiki/Sci-Hub
+ https://breckyunits.com/the-public-domain-publishing-company.html a new corporation
+ https://www.reddit.com/r/scihub/comments/lofj0r/announcement_scihub_has_been_paused_no_new/ frozen
+ https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
 
 My second delusion was that I had exceptional capability to solve this problem for society. I believed that I had world class talent and resources to spread a different kind of virus: a movement to abolish copyright law and replace our information circulatory network with something healthier. The theory that I was super talented (low probability), which I acted upon with great confidence, was a delusion.
 
@@ -79,7 +79,7 @@ The difficulty in countering delusions
 Society eventually did update its probabilities on Covid, but for years I found it incredibly frustrating trying to get society to change course. The agents I could get to admit the truth weren't the agents in power. If you think about the multi-agent theory of the mind, this makes sense. A delusion is an energized, specialized collection of neurons that is able to pilot the ship for a while. If the delusion was bendable, it would always simply bend to society and never be in a position of bending society. So the trick to countering delusions is to be content with communicating truth with out-of-power agents, realizing that eventually the currently powerful delusional neurons will eventually lose control (eventually the truth of physics catches up to you).
 
 People have told me when I'm in a hypomanic state I can't be reasoned with or talked to. I think this is a harmful attitude to have. Even when I am focused on one particularly delusional idea, I still experience many brain pilot switches in a day. I may be very angry and confrontational one moment, but even in those days I have a large number of moments when other agents are piloting and listening to feedback.
- https://breckyunits.com/brain-pilots.html
+ https://breckyunits.com/brain-pilots.html brain pilot
 
 Attacking Dissent
 =================

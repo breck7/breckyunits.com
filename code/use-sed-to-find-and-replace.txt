@@ -3,7 +3,7 @@ Use sed to find and replace
 December 20, 2009
 
 `grep` is to find what `sed` is to replace.
- https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html
+ https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html grep
 
 Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
 

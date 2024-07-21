@@ -6,13 +6,13 @@ January 24, 2024
 Assuming I keep blogging, which I hope I manage to do, I expect my posts will largely be about bipolar disorder. I've been blogging for fifteen years but never wrote publicly about bipolar disorder, even though I was diagnosed twenty years ago. I kept my diagnosis a secret.
 
 Bipolar disorder is a condition not yet understood, with no cure, and is predictive of disruptive behavior. So I very much understand why society discriminates against those with the label.
- https://en.wikipedia.org/wiki/Bipolar_disorder
+ https://en.wikipedia.org/wiki/Bipolar_disorder Bipolar disorder
 
 I did not keep my diagnosis a secret maliciously, but genuinely remained unsure how to handle it, and ultimately, optimistically, believed I would figure the thing out. But—like a Greek tragedy—my efforts to avoid my fate perhaps led me faster to it. My mania in 2022 was at least twice as strong as anything I ever experienced. Things went KABOOM!
 
 [Image Omitted]
  The past 7 years of mood swings, revealed accurately by sleep data. That sleep line nosediving in 2022 was bad. Real bad. HTML Version.
-  https://datawrapper.dwcdn.net/VP8AW/1/
+  https://datawrapper.dwcdn.net/VP8AW/1/ HTML Version
 
 My Bipolar History
 ==================
@@ -33,7 +33,7 @@ In 2005 I saw a psychiatrist and therapist for the first time. My official diagn
 Military
 ========
 Having gotten kicked out of college I explored joining the military. I had always admired soldiers. I also thought the discipline and physical challenges would be good for my condition. I sailed through MEPS but then hit a roadblock. The military does not take people with bipolar disorder.
- https://www.goarmy.com/how-to-join/steps/processing-station.html
+ https://www.goarmy.com/how-to-join/steps/processing-station.html MEPS
 
 Fortunately, I was able to get a steady job waiting tables and was able to get re-accepted to Duke.
 
@@ -54,12 +54,12 @@ Unfortunately mindfulness was not a strong enough cure and I went hypomanic agai
 The second time I "cured" my bipolar disorder
 =============================================
 I had a new logic for the hypomania I experienced after graduation: my natural state was actually hyperthymic and it was simply because I was in school my whole life that I struggled. School was too constrictive for people with my kind of energy. This also turned out not to be accurate, and a big crash followed 2007's hypomania.
- https://en.wikipedia.org/wiki/Hyperthymic_temperament
+ https://en.wikipedia.org/wiki/Hyperthymic_temperament hyperthymic
 
 BPBio.com
 =========
 In 2008 wearables were not yet a thing but Blackberries were. By this time in my life I had developed some programming and statistics skills and thought maybe I could build something to help solve this problem not only for myself, but for other people. I figured with modern tools I could track more data than ever, and maybe find a real cure for my condition. I built an email and web app called BpBio.com that allowed me to manually log anything 24/7 by emailing [any-measure]@bpbio.com.
- https://en.wikipedia.org/wiki/BlackBerry
+ https://en.wikipedia.org/wiki/BlackBerry Blackberries
 
 Looking back, BPBio was actually pretty neat. It was minimal but very functional and better than many mood trackers out there today.
 
@@ -81,7 +81,7 @@ In November 2014 I started wearing a sleep tracker. Among other things, the slee
 So I gave up drinking. I then experienced a prolonged period of stability. I felt like finally I had become the person I always wanted to be: not depressed and not _too_ happy. Finally I had it all figured out: no debt, a good career, tracking my sleep, exercising, no drinking, a great girlfriend, great friends and family, a great life. Bipolar disorder was finally in the rearview!
 
 Unfortunately, it was not cured and I had a mild manic episode in 2017. I wrote about this episode (originally anonymously) in the post Going Manic with a FitBit.
- https://breckyunits.com/going-manic-with-a-fitbit.html
+ https://breckyunits.com/going-manic-with-a-fitbit.html Going Manic with a FitBit
 
 Medication
 ==========
@@ -96,7 +96,7 @@ On August 20th, 2022, I wrote in my journal, "First he comes for your sleep. I c
 Days later, at 4:34am on August 24th I wrote "Knocking on the door of hypomania. I am more vigilant this time, I hope."
 
 By August 28th I was hypomanic and by September 1st I was in what would be the worst manic episode of my life. I have already written a bit about this in the post A Manic Startup and I'm sure I'll write more about it later.
- https://breckyunits.com/a-manic-startup.html
+ https://breckyunits.com/a-manic-startup.html A Manic Startup
 
 For now, the thing I want to mention is that this time once again I thought I was over bipolar disorder. I decided that my real problem over the years was not believing in myself, and taking the word of doctors that I had this terrible condition bipolar disorder. I decided instead that I really was hyperthymic. I believed that the thing I screwed up before was my breathing. Someone with energy like me required a lot of oxygen and I needed to make sure I was increasing my lung capacity. I believed I could maintain my hyperthymic temperament indefinitely-never falling back into depression-if I just did strong breathing exercises to keep my lung capacity maximized. Once again, this "cure" turned out to be short lived.
 
@@ -123,31 +123,31 @@ Frustration with Science and Medicine
 Bipolar disorder has been a constant, dominant term in the equation of my life. So although I am amazed by modern science and medicine, I am also disappointed in it, as twenty years after diagnosis expected prognosis hasn't changed.
 
 Besides participating in as many studies as I can, I have spent a lot of my career trying to improve things. BPBio was openly aimed at bipolar disorder, but in fact nearly all my work has been secretly motivated by my battle with this condition and my attempts to try new things to help science and medicine solve this. My work on Ohayo was motivated by my belief that better data tools could help scientists and patients. My efforts on public domain issues is motivated by my belief (perhaps incorrect) that paywalled science slows things down. My work on TrueBase and the BrainDB prototype was motivated by thinking perhaps a new kind of symbolic model could help solve this.
- https://breckyunits.com/ohayo.html
- https://braindb.com
+ https://breckyunits.com/ohayo.html Ohayo
+ https://braindb.com BrainDB
 
 The Latest
 ==========
 Personally I am now 3 months into trying a ketogenic diet as a treatment for bipolar disorder. I think it holds promise as a treatment, but more than that I think it may help us triangulate the biological mechanisms driving mood episodes. The metabolic theories of bipolar disorder seem to be making rapid progress in an area that otherwise hasn't seen much. Lately I have been trying to get caught up on all the research. I've been taking copious notes about everything from glutamate to the Krebs cycle to Oxidative Stress.
- https://breckyunits.com/bipolarKeto.html
- https://en.wikipedia.org/wiki/Citric_acid_cycle
- https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter)
- https://en.wikipedia.org/wiki/Oxidative_stress
+ https://breckyunits.com/bipolarKeto.html ketogenic diet as a treatment for bipolar disorder
+ https://en.wikipedia.org/wiki/Citric_acid_cycle Krebs cycle
+ https://en.wikipedia.org/wiki/Glutamate_(neurotransmitter) glutamate
+ https://en.wikipedia.org/wiki/Oxidative_stress Oxidative Stress
 
 It seems like there is a new boom in funding for bipolar disorder research. BD², funded by the Brin, Dauten, and Baszucki families, is funding a large number of very exciting projects. I hope to write more about a number of them.
- https://www.bipolardiscoveries.org/
- https://www.bipolardiscoveries.org/funding/grantees/
+ https://www.bipolardiscoveries.org/ BD²
+ https://www.bipolardiscoveries.org/funding/grantees/ projects
 
 I recently was able to be a participant in one of the newer bipolar research studies going on. I got lots of cool data like the image below, and it only required time, many blood draws, and my first arterial line!
- https://en.wikipedia.org/wiki/Arterial_line
+ https://en.wikipedia.org/wiki/Arterial_line arterial line
 
 [Image Omitted]
  A still from a scan of my brain. Somewhere in there lies the problem...I think. In late 2023 I participated in a research study and for the first time got scanned with MRI, fMRI, MRS, PET, and EEG machines.
-  https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
-  https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging
-  https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy
-  https://en.wikipedia.org/wiki/Positron_emission_tomography
-  https://en.wikipedia.org/wiki/Electroencephalography
+  https://en.wikipedia.org/wiki/Magnetic_resonance_imaging MRI
+  https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging fMRI
+  https://en.wikipedia.org/wiki/In_vivo_magnetic_resonance_spectroscopy MRS
+  https://en.wikipedia.org/wiki/Positron_emission_tomography PET
+  https://en.wikipedia.org/wiki/Electroencephalography EEG
 
 It gives me hope that there are so many smart, caring, hard working people trying to figure this thing out. I will do my best to contribute in any and every way I can. I've learned if we don't neutralize bipolar disorder, it will neutralize me.
 

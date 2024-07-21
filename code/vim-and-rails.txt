@@ -3,7 +3,7 @@ VIM and Rails
 August 13, 2010
 
 Check out this guide.
- https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide
+ https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide guide
 
 filetype on  " Automatically detect file types.
 set nocompatible  " We don't want vi compatibility.

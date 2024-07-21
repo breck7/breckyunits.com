@@ -10,65 +10,65 @@ I am joking.
 But these bloggers were not:
 
 MacRumors.com (2008)
- http://www.macrumors.com/
-===============================================
+ http://www.macrumors.com/ MacRumors.com
+=============================================================
 “Yesterday was my last day at my full time job as a physician. I plan to work on MacRumors.com and other web projects full time.” [source]
- http://normalkid.com/2008/07/01/i-quit-my-job/
+ http://normalkid.com/2008/07/01/i-quit-my-job/ [source]
 
 kottke.org (2005)
- http://kottke.org
-====================================
+ http://kottke.org kottke.org
+===============================================
 “I recently quit my web design gig and — as of today — will be working on kottke.org as my full-time job. And I need your help. ” [source]
- http://www.kottke.org/05/02/kottke-micropatron
+ http://www.kottke.org/05/02/kottke-micropatron [source]
 
 zenhabits.net (2008)
- http://zenhabits.net
-==========================================
+ http://zenhabits.net zenhabits.net
+========================================================
 “I’m officially a ProBlogger now. Yesterday morning, I turned in my resignation from my day job” [source]
- http://zenhabits.net/2008/01/so-i-quit-my-day-job-holy-cow-i-took-the-plunge/
+ http://zenhabits.net/2008/01/so-i-quit-my-day-job-holy-cow-i-took-the-plunge/ [source]
 
 getrichslowly.org (2007)
- http://getrichslowly.org
-==================================================
+ http://getrichslowly.org getrichslowly.org
+====================================================================
 “After months of deliberation, I’ve decided to quit my job at the family business…. GRS currently has 35,000 subscribers and generates $5,000 in monthly revenue.” [source]
- http://www.getrichslowly.org/blog/2007/11/11/quitting-the-day-job-finding-the-guts-to-pursue-your-dreams/
+ http://www.getrichslowly.org/blog/2007/11/11/quitting-the-day-job-finding-the-guts-to-pursue-your-dreams/ [source]
 
 TechCrunch.com (2006)
- http://techcrunch.com
-============================================
+ http://techcrunch.com TechCrunch.com
+===========================================================
 “I started writing TechCrunch one year ago, on June 11, 2005. Looking back, it’s been the best year of my life…TechCrunch serves 1-2 million page views per month. TechCrunch is now my full time job, and then some.” [source]
- http://www.techcrunch.com/2006/06/12/techcrunch-turns-one-year-old/
+ http://www.techcrunch.com/2006/06/12/techcrunch-turns-one-year-old/ [source]
 
 readwriteweb.com (2006)
- http://readwriteweb.com
-================================================
+ http://readwriteweb.com readwriteweb.com
+=================================================================
 “it took 3 whole years for Read/WriteWeb to go from ‘hobby’ to full-time job.” [source]
- http://www.readwriteweb.com/archives/turning_blogging_from_hobby_to_career.php
+ http://www.readwriteweb.com/archives/turning_blogging_from_hobby_to_career.php [source]
 
 GreatDay.com (2000)
- http://greatday.com
-========================================
+ http://greatday.com GreatDay.com
+=====================================================
 “Although it didn’t start out that way, The Daily Motivator is now my full-time job. Back in 1995 I started writing the messages as part of another website. Within a few months, the response was so positive that The Daily Motivator took on a life of its own. After five years or so, subscription sales and book sales were providing a modest income, and since that time the website has grown to the point where I am able to devote all my working hours to it.” [source]
- http://greatday.com/ralph/personal.html
+ http://greatday.com/ralph/personal.html [source]
 
 PlentyofFish.com (2006)
- http://PlentyofFish.com
-================================================
+ http://PlentyofFish.com PlentyofFish.com
+=================================================================
 “I was making around 4k a month off the site and i quit my job to do it full time.” [source]
- http://www.webpublishingblog.com/exclusive-interview-with-plentyoffishcom-creator-and-owner-markus-frind.htm
+ http://www.webpublishingblog.com/exclusive-interview-with-plentyoffishcom-creator-and-owner-markus-frind.htm [source]
 
 Craftster.com (2006)
- http://Craftster.com
-==========================================
+ http://Craftster.com Craftster.com
+========================================================
 “When I was working a regular full-time day job I constantly dreamed of working for myself at something craft-related. And Craftster, much to my surprise, made this possible.” [source]
- http://www.helloindie.us/list/mail.cgi/archive/helloindie/newest/
+ http://www.helloindie.us/list/mail.cgi/archive/helloindie/newest/ [source]
 
 PopSugar.com (2007)
- http://PopSugar.com
-========================================
+ http://PopSugar.com PopSugar.com
+=====================================================
 Though a propensity for gossip typically motivates gossip bloggers, many are learning to cash in on their hobby. That’s what Lisa Sugar, 28, wants to do with her new blog, popsugar, which has grown from 200 to 13,000 unique visitors a week since it appeared in March, according to the site. The self-described “media junkie” and Maryland native spends at least 40 hours a week researching and writing the blog on top of her full-time job as a media planner in San Francisco. [source]
- http://lisaandbrian.com/index.php?p=95
- http://popsugar.com/
+ http://lisaandbrian.com/index.php?p=95 [source]
+ http://popsugar.com/ popsugar
 
 ****
 
@@ -80,7 +80,7 @@ Related Posts
  https://breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.html
 
 Note: I imported this post from my original Wordpress blog.
- https://breckyunits.com/some-old-blogs.html
+ https://breckyunits.com/some-old-blogs.html original Wordpress blog
 
 Original post
- https://web.archive.org/web/20081024204528/http://www.breckyunits.com/web-20/2008/07/07/bloggers-who-turned-pro-and-their-famous-last-words/
+ https://web.archive.org/web/20081024204528/http://www.breckyunits.com/web-20/2008/07/07/bloggers-who-turned-pro-and-their-famous-last-words/ Original post

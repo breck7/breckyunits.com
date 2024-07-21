@@ -17,7 +17,7 @@ I saved this file as "deploy", and then run it by typing:
 The exclude option will exclude a file or directory from being synced.
 
 Here's an explanation about the options I use. I use rsync with these options:
- https://ubuntuforums.org/showthread.php?t=251516
+ https://ubuntuforums.org/showthread.php?t=251516 explanation
 
 rsync -arvuz /src/foo/ /dest/foo
 

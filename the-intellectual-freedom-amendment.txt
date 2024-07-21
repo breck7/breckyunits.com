@@ -8,15 +8,15 @@ This post is written for people who are anti-copyright and anti-patent.
 In this post I am not trying to educate newcomers on the pros of Intellectual Freedom.
 
 I am writing to those who are already strong supporters of open source, Sci-Hub, the Internet Archive, and others.
- https://en.wikipedia.org/wiki/Sci-Hub
- https://archive.org/
+ https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
+ https://archive.org/ the Internet Archive
 
 To that crowd I am trying to plant the seed for a new political strategy. If you think that copyright and patent laws _could be_ a root contributor to some of the big problems of our day, like misinformation (or _fake news_), deteriorating health, and inequality, this post is for you.
 
 ***
 
 I suggest we rally around a simple long-term vision of passing a new Intellectual Freedom Amendment to the U.S. Constitution.
- https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md
+ https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md U.S. Constitution
 
 I am not positive that if we abolished copyright and patent systems the world would be a better place. Just as I'm not positive that if we switch to clean energy the world would be a better place. Society is a big complex system, and it would be intellectually dishonest to make such a guarantee.
 
@@ -61,8 +61,8 @@ I have only passed a handful of Amendments to the U.S. Constitution in my lifeti
 
 ^if: Links
 - A Mathematical Model of Copyright
- https://breckyunits.com/a-mathematical-model-of-copyright.html
+ https://breckyunits.com/a-mathematical-model-of-copyright.html A Mathematical Model of Copyright
 - Intellectual Freedom posts
- https://breckyunits.com/freedom.html
+ https://breckyunits.com/freedom.html Intellectual Freedom posts
 - Stephan Kinsella
- https://www.stephankinsella.com/
+ https://www.stephankinsella.com/ Stephan Kinsella

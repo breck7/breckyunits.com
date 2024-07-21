@@ -29,16 +29,16 @@ Data errors are so pervasive that I came up with a hypothesis today and put it t
 Method
 ======
 I wrote down 10 reputable sources off the top of my head: the WSJ, The New England Journal of Medicine, Nature, The Economist, The New Yorker, Al Jazeera, Harvard Business Review, Google News: Science, the FDA, and the NIH.
- https://www.wsj.com/
- https://www.nejm.org/
- https://www.nature.com/
- https://www.economist.com/
- https://www.newyorker.com/
- https://www.aljazeera.com/
- https://hbr.org/
- https://news.google.com/
- https://www.fda.gov/home
- https://www.nih.gov/
+ https://www.wsj.com/ WSJ
+ https://www.nejm.org/ The New England Journal of Medicine
+ https://www.nature.com/ Nature
+ https://www.economist.com/ The Economist
+ https://www.newyorker.com/ The New Yorker
+ https://www.aljazeera.com/ Al Jazeera
+ https://hbr.org/ Harvard Business Review
+ https://news.google.com/ Google News: Science
+ https://www.fda.gov/home FDA
+ https://www.nih.gov/ NIH
 
 For each source, I went to their website and took a single screenshot of their homepage, above the fold, and skimmed their top stories for data errors.
 

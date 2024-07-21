@@ -26,7 +26,7 @@ Becomes `countries=Canada=France&selection=France` (and vice versa).
 How to use
 ==========
 1. Include patch.js or just copy/paste the code:
- https://breckyunits.com/patch.js
+ https://breckyunits.com/patch.js copy/paste the code
 
 2. Give your Javascript object to Patch, and it will give you the prettiest query string it can make:
 
@@ -119,13 +119,13 @@ Some benefits of Patch
 Live examples of Patch
 ======================
 - This blog
- https://breckyunits.com/search.html#q=patch
+ https://breckyunits.com/search.html#q=patch This blog
 - PLDB
- https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog
+ https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog PLDB
 
 History
 =======
 I made Patch in 2020 for Our World in Data.
- https://ourworldindata.org
+ https://ourworldindata.org Our World in Data
 
 This is an updated fork.

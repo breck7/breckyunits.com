@@ -8,7 +8,7 @@ I've had some free time the past two weeks to work on a few random ideas I've ha
 They all largely involve probability/statistics and have no practical or monetary purpose. If I was a painter and not a programmer you might call them "art projects".
 
 One project deals with categorizing data into "Extremistan" and "Mediocristan". Taleb's books, the Black Swan and Fooled by Randomness, list a number of different examples for each, and I thought it would be interesting to extend that categorization further.
- https://www.fooledbyrandomness.com
+ https://www.fooledbyrandomness.com Taleb's books
 
 The second project I'll expand on a bit more here.
 
@@ -47,7 +47,7 @@ My site is just a computer program. It's interesting to think about how the real
 What if the multiverse theory is correct?
 =========================================
 If the multiverse theory is correct, then my odds are almost certainly off. In other words, theOvarianLottery assumes there's only 1 universe and extrapolates the odds from that. If there are dozens or infinite universes, who knows what the real odds are.
- https://en.wikipedia.org/wiki/Multiverse
+ https://en.wikipedia.org/wiki/Multiverse multiverse
 
 What role has chaos played in the development of humanity?
 ==========================================================
@@ -79,8 +79,8 @@ I hope to finish up theOvarianLottery and slap a frontend on it sometime in the 
 Helpful Links for Population Statistics(beyond wikipedia):
 
 - US Census Bureau Historical Stats
- https://census.gov/ipc/www/worldhis.html
+ https://census.gov/ipc/www/worldhis.html US Census Bureau Historical Stats
 - Human population by year rough approximation
- https://breckyunits.com/population.html
+ https://breckyunits.com/population.html Human population by year rough approximation
 - NationMaster.com
- https://nationmaster.com
+ https://nationmaster.com NationMaster.com

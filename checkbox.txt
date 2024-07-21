@@ -7,7 +7,7 @@ CheckBox: An Online + Offline Voting System
 June 25, 2024
 
 In 2013 my friends and I won the Liberty Hackathon in San Francisco.
- https://www.mercurynews.com/2013/07/05/political-blotter-kochs-liberty-hackathon-has-surprising-winner/
+ https://www.mercurynews.com/2013/07/05/political-blotter-kochs-liberty-hackathon-has-surprising-winner/ won the Liberty Hackathon in San Francisco
 
 We built CheckBox, an open source system voting system that supported online, offline and hybrid elections. I did the technical design, Cam talked to users and developed the business pitch, and Ben provided the design.
 
@@ -28,7 +28,7 @@ I also had a roommate and we had one bed and one couch in the room, and when our
 ***
 
 About six months after this hackathon, Microsoft acqui-hired our team for NudgePad, the other project we were working on.
- https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
+ https://breckyunits.com/nudgepad-an-ide-in-your-browser.html NudgePad
 
 This was great because I could now afford anything on the McDonalds menu.
 
