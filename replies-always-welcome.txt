@@ -3,7 +3,48 @@ Replies always welcome
 
 November 14, 2022
 
-Imagine a waitress that drops off your food then immediately puts on noise cancelling headphones, turns and walks away. That's the experience a `noreply` email address provides. Let's make email human again! If a human can't read and reply to emails it's not too hard to setup scripts that can at least do _something_ for the customer.
+Imagine a waitress who delivers your food then immediately puts on noise cancelling headphones, turns and walks away. That would be a bad customer experience, right?
+
+Well that's _exactly_ the experience a `noreply` email address provides!
+
+Let's make email human again!
+
+If your business doesn't have the staff to read and reply to emails, you can at least write programs that can do _something_ for the customer.
+
+***
+
+No Exceptions
+=============
+My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+
+My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
+=====================================================================================
+Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
+
+I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
+=================================================================================================================================================================
+Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
+
+GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
+===========================================================================================================================
+Could be a `replyToDeauthorize@github.com` instead.
+
+Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
+=========================================================================================
+Could be a `replyToStopTracking@google.com`
+
+Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
+======================================================================================================
+Could be a `replyToUnsubscribe`
+
+e-Books available from a monthly subscription are available on noreply@thewordbooks.com
+=======================================================================================
+Could be a `replyToLeaveAReview`.
+
+****
+
+Appendix: My one-man protest against no-reply email addresses
+=============================================================
 
 [Image Omitted]
  My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
@@ -43,35 +84,3 @@ Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings 
         Hi! Did you know instead of a "no reply" email address there are ways to provide a better customer experience?
 
 Learn more: https://breckyunits.com/replies-always-welcome.html
-
-    
-
-Specific examples
-=================
-My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
-
-My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
-=====================================================================================
-Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
-
-I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
-=================================================================================================================================================================
-Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
-
-GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
-===========================================================================================================================
-Could be a `replyToDeauthorize@github.com` instead.
-
-Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
-=========================================================================================
-Could be a `replyToStopTracking@google.com`
-
-Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
-======================================================================================================
-Could be a `replyToUnsubscribe`
-
-e-Books available from a monthly subscription are available on noreply@thewordbooks.com
-=======================================================================================
-Could be a `replyToLeaveAReview`.
-
-****
