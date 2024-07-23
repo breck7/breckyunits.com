@@ -1,3 +1,41 @@
+/home/runner/work/breckyunits.com/breckyunits.com/litigation.scroll
+ date 7/23/2024
+ groups All Society
+ openGraphImage eta.png
+ title Abraham Lincoln: "Discourage Litigation."
+ 
+ import header.scroll
+ printTitle
+ printDate
+ 
+ thinColumns 1
+ 
+ Stephan Kinsella reposted a great 1850's quote from Abraham Lincoln on litigation.
+  dateline
+  https://www.stephankinsella.com/ Stephan Kinsella
+ 
+ The University of Michigan has the full piece.
+  https://quod.lib.umich.edu/l/lincoln/lincoln2/1:134.1?rgn=div2;view=fulltext full piece
+ 
+ quote
+  Discourage litigation.
+  
+  Persuade your neighbors to compromise whenever you can.
+  
+  Point out to them how the nominal winner is often a real loser---in fees, expenses, and waste of time.
+  
+  As a peacemaker the lawyer has a superior opportunity of being a good man.
+  
+  There will still be business enough.
+  
+  Never stir up litigation.
+  
+  A worse man can scarcely be found than one who does this.
+  
+  - Abraham Lincoln (1850)
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/eta.scroll
  date 7/18/2024
  groups All IntellectualFreedom Programming ScrollNotation Society
