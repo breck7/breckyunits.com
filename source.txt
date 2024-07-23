@@ -4755,44 +4755,89 @@
  
  import header.scroll
  printTitle
+ printDate
  
  mediumColumns 1
  
- Imagine a waitress who delivers your food then immediately puts on noise cancelling headphones, turns and walks away. That would be a bad customer experience, right?
-  dateline
+ The waitress puts her earmuffs on.
  
- Well that's _exactly_ the experience a `noreply` email address provides!
- 
- Let's make email human again!
- 
- If your business doesn't have the staff to read and reply to emails, you can at least write programs that can do _something_ for the customer.
+ She walks to the table, slams the food down, spins and runs away.
  
  ***
  
- # No Exceptions
- My claim is that no reply email address are always sub-optimal. Here are some examples, showing how in every case you can deliver a better customer experience without the noreply email. A great opportunity to get customer feedback!
+ Sounds like an annoying customer experience, right?
+ 
+ No business would actually do this...right?
+ 
+ ***
+ 
+ Well, in the digital world companies do this all the time.
+ 
+ They do it by blasting emails to their customers from `noreply@` email addresses.
+ 
+ ***
+ 
+ # The Golden Rule of Email
+ 
+ A PSA for all businesses and startups. You could call it the _Golden Rule of Email_.
+ 
+ > Email others only if they can email you.
+ 
+ Never send emails from a `noreply@` or `donotreply@` email address.
+  bold
+ 
+ If you can't handle the replies, don't send the email!
+  italics
+ 
+ Let's make email human again!
+ 
+ ***
+ 
+ # At the very least, have an AI inbox
+ 
+ If your business doesn't have the staff to read and reply to emails, you can at least write automatic programs that can do _something_ for the customer.
+ 
+ ***
+ 
+ # _*No*_ Exceptions
+ 
+ My claim is that `noreply@` email addresses are _always_ sub-optimal.
+ 
+ It is _never_ the right design decision. There is _always_ a better way.
+ 
+ Do you think you have an exception? You are wrong! (But let me hear it in the comments)
+ 
+ ***
+ 
+ What do you think of this post? Email me at breck7@gmail.com.
+ 
+ ****
+ 
+ # Appendix 1: Reader Responses
+ 
+ Here are some reader examples with my responses:
  
  ? My bank (Bank of Ireland) sends automated bi-monthly statements using noreply@boi.com
- Bank of Ireland could instead end each email with a question such as "Anything we can do better? Let us know!" or "If you have any issues you need help with reply to start a new case!"
+ Bank of Ireland could end each email with a question such as "Anything we can do better? Let us know!". The responses could be aggregated and inform product development.
  
  ? I follow many profiles on LinkedIn which sends me an occasional email on activities and updates that I might have missed using notifications-noreply@linkedin.com
- Could be even as simple as `replyWithAnythingToUnsubscribe@linkedin.com`. Any replies will cause the account to stop receiving such notices.
+ LinkedIn could send these from a `replyToUnsubscribe@linkedin.com`. Replies will stop that kind of notifications.
  
  ? GitHub sends me occasional emails about 3rd-party apps that have been granted access to my account using noreply@github.com
- Could be a `replyToDeauthorize@github.com` instead.
+ Github could send from `replyToDeauthorize@github.com`.
  
  ? Google Maps sends monthly updates on my car journeys via noreply-maps-timeline@google.com
  Could be a `replyToStopTracking@google.com`
  
  ? Monthly newsletters to which I am subscribed via LinkedIn come in via newsletters-noreply@linkedin.com
- Could be a `replyToUnsubscribe`
+ Replies could get feedback to the newsletter author.
  
  ? e-Books available from a monthly subscription are available on noreply@thewordbooks.com
- Could be a `replyToLeaveAReview`.
+ Replies could be `replyWithYourReview@thewordbooks.com`.
  
  ****
  
- # Appendix: My one-man protest against no-reply email addresses
+ # Appendix 2: My one-man protest against no-reply email addresses
  
  image noNoReplies.png
   openGraph
@@ -4840,8 +4885,6 @@
   
       
   
- 
- 
  
  import footer.scroll
  
