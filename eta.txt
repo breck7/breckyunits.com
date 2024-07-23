@@ -28,6 +28,8 @@ You can lengthen the lifespan of bad ideas by increasing the time to test altera
 
 You can evolve good ideas faster by decreasing the time to test alterations and increasing the size of the Assembly Pool.
 
+The number of test threads is proportional to the size of the Assembly Pool.
+
 ***
 
 This equation explains the triumph of open source and public domain software.
