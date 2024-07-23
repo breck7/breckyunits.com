@@ -1,7 +1,8 @@
 date 7/23/2024
 groups All Society
-openGraphImage eta.png
 title Abraham Lincoln: "Discourage Litigation."
+
+// todo: find a scan of the original letter
 
 import header.scroll
 printTitle
