@@ -4,7 +4,7 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Wed, 24 Jul 2024 00:36:04 +0000</lastBuildDate>
+ <lastBuildDate>Wed, 24 Jul 2024 02:50:35 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Abraham Lincoln: "Discourage Litigation."</title>
@@ -535,6 +535,11 @@
   <title>Going Manic with a FitBit</title>
   <link>https://breckyunits.com/going-manic-with-a-fitbit.html</link>
   <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Counting Complexity</title>
+  <link>https://breckyunits.com/countingComplexity.html</link>
+  <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
  </item>
  <item>
   <title>Ohayo</title>

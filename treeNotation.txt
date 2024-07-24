@@ -121,6 +121,11 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
 Ohayo
 =====
 06/23/2017
