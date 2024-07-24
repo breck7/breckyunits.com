@@ -1,6 +1,6 @@
 date 12/20/2017
 groups All ScrollNotation
-related intelligence pcri treenotationPaper aGrammarNotationForTreeLanguages
+related intelligence pcri aGrammarNotationForTreeLanguages treenotationPaper
 
 import header.scroll
 printTitle
