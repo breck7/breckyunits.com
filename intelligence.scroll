@@ -1,7 +1,7 @@
 date 6/6/2024
 groups All Programming Scroll
 openGraphImage intelligence.png
-title A Measure of Intelligence
+title ICS: A Measure of Intelligence
 
 import header.scroll
 printTitle
