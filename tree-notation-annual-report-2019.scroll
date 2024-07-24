@@ -1,5 +1,5 @@
 date 2020-12-09
-groups All ScrollNotation Programming
+groups AllScrollProgramming
 permalink tree-notation-annual-report-2019.html
 related treeNotationFinalReport show-hn-programming-is-now-two-dimensional
 title 2019 Tree Notation Annual Report
@@ -12,9 +12,9 @@ thinColumns 2
 * _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
  dateline
 
-In 2017 I wrote a post about a half-baked idea I named ScrollNotation.
+In 2017 I wrote a post about a half-baked idea I named Scroll Notation.
  link show-hn-programming-is-now-two-dimensional.html post
- https://treenotation.org ScrollNotation
+ https://treenotation.org Scroll Notation
 
 Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
 
