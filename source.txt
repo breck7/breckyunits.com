@@ -68,13 +68,13 @@
  
  
  katex
-  \text{E} = \text{T} \text{A}!
+  \text{E} = \text{T} / \text{A}!
  
- plainTextOnly EvolutionTime(I) = Time(I') * AssemblyPool!
+ plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
  
  
  
- ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, times the factorial of the number of ideas in the Assembly Pool $A!$.
+ ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
   // fitness of alterations
   // average time
   // more evolution time === slower, longer duration of ideas staying in worse states
@@ -84,7 +84,7 @@
  ***
  
  katex
-  \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) \times \text{AssemblyPool}!
+  \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) / \text{AssemblyPool}!
  
  ***
  
@@ -124,6 +124,9 @@
  - Thank you to Connor McCormick for superb feedback.
   https://warpcast.com/nor Connor McCormick
   https://warpcast.com/nor/0xf847d93e superb feedback
+ - Thank you to Cobe Liu for pointing out it should be T/A!.
+  https://warpcast.com/liucobe Cobe Liu
+  https://warpcast.com/liucobe/0x5e0c3936 pointing out
  - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
  
  import footer.scroll
