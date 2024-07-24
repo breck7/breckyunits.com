@@ -546,6 +546,11 @@ Show HN: Programming is Now Two-Dimensional
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html
+
 Big Data Notation
 =================
 09/24/2013
