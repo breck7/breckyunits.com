@@ -1,6 +1,5 @@
 date 2/18/2022
-groups All BipolarEnergy Life
-related marvin-minsky mindmap
+tags All BipolarEnergy Life Minsky
 title Brain Pilots
 
 import header.scroll
@@ -170,7 +169,7 @@ This post has so many questions, so few answers. It is one of those posts writin
 ****
 
 # Related Posts
-printRelatedList
+printRelated Minsky
 
 ***
 

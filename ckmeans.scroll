@@ -1,6 +1,5 @@
 date 6/09/2022
-groups All Programming Data HasDataset
-related bigOsKitchen logeracy planets-and-pebbles orders-of-magnitude
+tags All Programming Data HasDataset Logeracy
 title The Three Byte Fix
 
 import header.scroll
@@ -124,7 +123,7 @@ Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-mean
 ****
 
 # Related Posts
-printRelatedList
+printRelated Logeracy
 
 # Notes
 - The industry term for this type of map is Choropleth map.

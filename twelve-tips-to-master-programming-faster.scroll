@@ -1,6 +1,5 @@
 date 2009-12-04
-groups All Programming
-related 30000hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+tags All Programming MasterProgramming
 title Twelve Tips to Master Programming Faster
 
 import header.scroll
@@ -86,6 +85,6 @@ That means I've spent between 2,000-5,000 hours developing my skills. Hopefully,
 3. I still have a long way to go to become a "great programmer", 2-4 more years I'd say.
 
 # Related Posts
-printRelatedList
+printRelated MasterProgramming
 
 import footer.scroll

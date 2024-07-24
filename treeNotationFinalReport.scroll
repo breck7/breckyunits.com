@@ -1,6 +1,5 @@
 date 2024-4-2
-groups AllScrollProgramming
-related tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional
+tags All Scroll Programming
 title Final Tree Notation Report
 
 import header.scroll
@@ -65,7 +64,7 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 ****
 
 # Related Posts
-printRelatedList
+printRelated Scroll
 
 ***
 

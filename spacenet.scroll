@@ -1,6 +1,5 @@
 date 6/2/2013
-groups All Programming Scroll
-related wws
+tags All Programming Scroll WWS
 title SpaceNet: A successor to the Internet
 
 import header.scroll
@@ -77,7 +76,7 @@ The complexity of current Internet protocols could be holding us back from an ev
 ****
 
 # Related Posts
-printRelatedList
+printRelated WWS
 
 ***
 

@@ -1,6 +1,5 @@
 date 12/20/2017
-groups All ScrollNotation
-related intelligence pcri aGrammarNotationForTreeLanguages treenotationPaper
+tags All Scroll ScrollPapers
 
 import header.scroll
 printTitle
@@ -233,16 +232,18 @@ Future projects might look at creating Scroll Notation descriptions of large, co
 
 ****
 
-# Related Posts
-printRelatedList
 
 # Bibliography
-
 ^Edmonds Edmonds, B. (1999). Syntactic Measures of Complexity. Doctoral Thesis, University of Manchester, Manchester, UK.
 ^Mitchell Mitchell, M., 2009. Complexity: A guided tour. Oxford University Press.
 ^Lloyd Lloyd, Seth. "Measures of complexity: a nonexhaustive list." IEEE Control Systems Magazine 21.4 (2001): 7-8.
 
 // I originally published this to Arxiv, but they removed it.
+
+***
+
+# Related Posts
+printRelated ScrollPapers
 
 katex
 

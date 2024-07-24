@@ -1,6 +1,5 @@
 date 2020-01-23
-groups All Data Thinking Society Writing IntellectualFreedom
-related scrollsets datasets dreaming-of-a-data-checked-language
+tags All Data Thinking Society Writing IntellectualFreedom ScrollSets
 title Dataset Needed
 
 import header.scroll
@@ -51,6 +50,6 @@ I remember being a high school student and getting graded on our dataset noteboo
  link dreaming-of-a-data-checked-language.html earlier post
 
 # Related Posts
-printRelatedList
+printRelated ScrollSets
 
 import footer.scroll

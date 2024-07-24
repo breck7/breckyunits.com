@@ -1,7 +1,5 @@
 date 2020-12-09
-groups AllScrollProgramming
-permalink tree-notation-annual-report-2019.html
-related treeNotationFinalReport show-hn-programming-is-now-two-dimensional
+tags All Scroll Programming
 title 2019 Tree Notation Annual Report
 
 import header.scroll
@@ -225,7 +223,7 @@ That's it for the recap of 2019! Tune in next year for a recap of 2020.
 ****
 
 # Related Posts
-printRelatedList
+printRelated Scroll
 
 ***
 

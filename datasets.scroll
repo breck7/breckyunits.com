@@ -1,6 +1,5 @@
 date 4/23/2024 5:00
-groups All Data Thinking Programming HasDataset
-related dataset-needed
+tags All Data Thinking Programming HasDataset ScrollSets
 title Hot Coffee
 
 import header.scroll
@@ -217,6 +216,6 @@ thinColumns 1
 // Reading Speed vs Modeling Speed
 
 # Related Posts
-printRelatedList
+printRelated ScrollSets
 
 import footer.scroll

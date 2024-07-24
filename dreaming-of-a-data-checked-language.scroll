@@ -1,6 +1,5 @@
 date 2020-01-3
-groups All Data Programming Writing ThinkingScrollHasDataset IntellectualFreedom
-related dataset-needed
+tags All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets
 title Dreaming of a Data Checked Language
 
 import header.scroll
@@ -166,6 +165,6 @@ css
 ****
 
 # Related Posts
-printRelatedList
+printRelated ScrollSets
 
 import footer.scroll

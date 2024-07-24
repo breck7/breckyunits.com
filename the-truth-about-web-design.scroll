@@ -1,6 +1,5 @@
 date 2009-04-14
-groups All Startups Programming
-related design-matters-a-lot
+tags All Startups Programming Design
 title The Truth about Web Design
 
 import header.scroll
@@ -24,7 +23,7 @@ Imagine trying to compete with nature. My premise is that you go to a website fo
 ****
 
 # Related Posts
-printRelatedList
+printRelated Design
 
 import importedNote.scroll
 

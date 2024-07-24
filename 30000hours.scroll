@@ -1,6 +1,5 @@
 date 7/18/2019
-groups All Programming Life HasDataset
-related why-10000-hours what-can-a-programmer-learn-from-rock-climbing twelve-tips-to-master-programming-faster
+tags All Programming Life HasDataset MasterProgramming
 title 30,000 Hours
 
 import header.scroll
@@ -83,7 +82,7 @@ Until this morning (7/18/2019), when I stumbled upon one of those old emails.
 Sorry for the delay!
 
 # Related Posts
-printRelatedList
+printRelated MasterProgramming
 
 // Originally posted here: https://github.com/breck7/30000hours
 

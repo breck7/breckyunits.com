@@ -1,6 +1,5 @@
 date 2011-03-30
-groups All Programming Life
-related 30000hours twelve-tips-to-master-programming-faster
+tags All Programming Life MasterProgramming
 title What can a Programmer learn from Rock Climbing?
 
 import header.scroll
@@ -42,6 +41,6 @@ endSnippet
 - I'm a terrible rock climber and only a decent programmer. Take all my advice with a grain of salt.
 
 # Related Posts
-printRelatedList
+printRelated MasterProgramming
 
 import footer.scroll

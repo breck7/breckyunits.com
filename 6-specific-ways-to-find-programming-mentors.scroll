@@ -1,5 +1,5 @@
 date 2009-12-08
-groups All Programming
+tags All Programming MasterProgramming
 title 6 Specific Ways to Find Programming Mentors
 
 import header.scroll
@@ -45,5 +45,11 @@ Hopefully you'll find some of these tips useful. Feel free to email me if you ne
 
 # Notes
 1. That exercise percentage is a guess, but sounds right to me.
+
+***
+
+# Related Posts
+printRelated MasterProgramming
+
 
 import footer.scroll
