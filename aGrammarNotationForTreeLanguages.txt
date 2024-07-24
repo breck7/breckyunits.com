@@ -56,3 +56,10 @@ The introduction above is minimal but shows the core idea: Tree Languages can be
 Ohayo Computer has developed a compiler-compiler for these grammar files. Future publications and/or open source releases will delve into the additional features found in the compiler-compiler and its associated grammar.
 
 ****
+
+Related Posts
+=============
+- Counting Complexity (2017)
+ https://breckyunits.com/countingComplexity.html
+- Tree Notation: an antifragile program notation (2017)
+ https://breckyunits.com/treenotationPaper.html

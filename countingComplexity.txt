@@ -239,10 +239,10 @@ Related Posts
  https://breckyunits.com/intelligence.html
 - PCRI (2024)
  https://breckyunits.com/pcri.html
-- Tree Notation: an antifragile program notation (2017)
- https://breckyunits.com/treenotationPaper.html
 - A Grammar Notation For Tree Languages (2017)
  https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+- Tree Notation: an antifragile program notation (2017)
+ https://breckyunits.com/treenotationPaper.html
 
 Bibliography
 ============
