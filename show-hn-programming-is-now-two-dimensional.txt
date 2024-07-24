@@ -43,7 +43,32 @@ Two updates on 12/30/2017. After I wrote this I was informed that one other pers
 
 Related Posts
 =============
-- Final Tree Notation Report (2024)
- https://breckyunits.com/treeNotationFinalReport.html
-- 2019 Tree Notation Annual Report (2020)
- https://breckyunits.com/tree-notation-annual-report-2019.html
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+ICS: A Measure of Intelligence
+==============================
+06/06/2024
+https://breckyunits.com/intelligence.html
+
+PCRI: An Equation about Syntax Potential
+========================================
+05/31/2024
+https://breckyunits.com/pcri.html
+
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
+A Grammar Notation For Tree Languages
+=====================================
+09/10/2017
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html

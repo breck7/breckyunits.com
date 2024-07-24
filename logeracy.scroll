@@ -1,6 +1,5 @@
 date 2021-04-26
-groups All Data Thinking Society
-related bigOsKitchen planets-and-pebbles orders-of-magnitude
+tags All Data Thinking Society Hits Logeracy
 title Logeracy
 
 import header.scroll
@@ -104,7 +103,7 @@ I wrote my first post on Orders of Magnitudes nearly twelve years ago, back in 2
 ****
 
 # Related Posts
-printRelatedList
+printRelated Logeracy
 
 # Notes
 ^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.

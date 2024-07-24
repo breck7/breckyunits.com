@@ -17,9 +17,22 @@ I highly recommend this system. We live in a power law world, and it's important
 
 Related Posts
 =============
-- Big O's Kitchen (2024)
- https://breckyunits.com/bigOsKitchen.html
-- Logeracy (2021)
- https://breckyunits.com/logeracy.html
-- Orders of Magnitude (2009)
- https://breckyunits.com/orders-of-magnitude.html
+Big O's Kitchen
+===============
+04/23/2024
+https://breckyunits.com/bigOsKitchen.html
+
+The Three Byte Fix
+==================
+06/09/2022
+https://breckyunits.com/ckmeans.html
+
+Logeracy
+========
+04/26/2021
+https://breckyunits.com/logeracy.html
+
+Orders of Magnitude
+===================
+12/07/2009
+https://breckyunits.com/orders-of-magnitude.html

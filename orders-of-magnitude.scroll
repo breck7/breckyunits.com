@@ -1,6 +1,5 @@
 date 2009-12-07
-groups All Thinking
-related bigOsKitchen logeracy planets-and-pebbles
+tags All Thinking Logeracy Hits
 title Orders of Magnitude
 
 import header.scroll
@@ -59,7 +58,7 @@ Bill Gates has approximately $50,000,000,000. Warren Buffett has $40,000,000,000
 ****
 
 # Related Posts
-printRelatedList
+printRelated Logeracy
 
 # Notes
 - WolframAlpha

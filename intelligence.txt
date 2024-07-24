@@ -30,5 +30,27 @@ If they have the same coverage, the smaller program is more intelligent.
 
 Related Posts
 =============
-- Counting Complexity (2017)
- https://breckyunits.com/countingComplexity.html
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+PCRI: An Equation about Syntax Potential
+========================================
+05/31/2024
+https://breckyunits.com/pcri.html
+
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
+A Grammar Notation For Tree Languages
+=====================================
+09/10/2017
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html

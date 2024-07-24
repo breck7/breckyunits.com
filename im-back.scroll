@@ -1,6 +1,5 @@
 date 2009-12-02 1
-groups All Writing
-related publishing-more i-guess-the-time-had-come
+tags All Writing Blogging
 title I'm Back
 
 import header.scroll
@@ -28,6 +27,6 @@ Written 11/30/2009
 ****
 
 # Related Posts
-printRelatedList
+printRelated Blogging
 
 import footer.scroll

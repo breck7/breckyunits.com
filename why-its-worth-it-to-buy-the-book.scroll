@@ -1,6 +1,5 @@
 date 2010-02-17
-groups All Life Thinking
-related save-your-money-for-great-values
+tags All Life Thinking Hits
 title Why it's worth it to buy the book
 
 import header.scroll
@@ -34,7 +33,7 @@ image bookcost.png
 ****
 
 # Related Posts
-printRelatedList
+printRelated Hits
 
 # Notes
 1. Even if a book is more expensive, say $50, the numbers don't change too much.

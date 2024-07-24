@@ -108,14 +108,25 @@ Thanks to Haizhou Wang, Mingzhou Song and Joe Song for the paper and fast k-mean
 
 Related Posts
 =============
-- Big O's Kitchen (2024)
- https://breckyunits.com/bigOsKitchen.html
-- Logeracy (2021)
- https://breckyunits.com/logeracy.html
-- Planets and Pebbles (2012)
- https://breckyunits.com/planets-and-pebbles.html
-- Orders of Magnitude (2009)
- https://breckyunits.com/orders-of-magnitude.html
+Big O's Kitchen
+===============
+04/23/2024
+https://breckyunits.com/bigOsKitchen.html
+
+Logeracy
+========
+04/26/2021
+https://breckyunits.com/logeracy.html
+
+Planets and Pebbles
+===================
+11/26/2012
+https://breckyunits.com/planets-and-pebbles.html
+
+Orders of Magnitude
+===================
+12/07/2009
+https://breckyunits.com/orders-of-magnitude.html
 
 Notes
 =====

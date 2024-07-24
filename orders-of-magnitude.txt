@@ -54,12 +54,25 @@ More examples
 
 Related Posts
 =============
-- Big O's Kitchen (2024)
- https://breckyunits.com/bigOsKitchen.html
-- Logeracy (2021)
- https://breckyunits.com/logeracy.html
-- Planets and Pebbles (2012)
- https://breckyunits.com/planets-and-pebbles.html
+Big O's Kitchen
+===============
+04/23/2024
+https://breckyunits.com/bigOsKitchen.html
+
+The Three Byte Fix
+==================
+06/09/2022
+https://breckyunits.com/ckmeans.html
+
+Logeracy
+========
+04/26/2021
+https://breckyunits.com/logeracy.html
+
+Planets and Pebbles
+===================
+11/26/2012
+https://breckyunits.com/planets-and-pebbles.html
 
 Notes
 =====

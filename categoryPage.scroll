@@ -1,6 +1,6 @@
 importOnly
 description Posts on this blog categorized in CAT_TITLE.
-groups categoryPages
+tags categoryPages
 openGraphImage screenshot.png
 title Breck's Blog - CAT_TITLE Posts
 

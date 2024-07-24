@@ -52,8 +52,10 @@ Great engineering can't compensate for poor design just as great design can't co
 
 Related Posts
 =============
-- The Truth about Web Design (2009)
- https://breckyunits.com/the-truth-about-web-design.html
+The Truth about Web Design
+==========================
+04/14/2009
+https://breckyunits.com/the-truth-about-web-design.html
 
 Notes
 =====

@@ -48,9 +48,17 @@ Notes
 
 Related Posts
 =============
-- ScrollSets: A New Way to Store Knowledge (2024)
- https://breckyunits.com/scrollsets.html
-- Hot Coffee (2024)
- https://breckyunits.com/datasets.html
-- Dreaming of a Data Checked Language (2020)
- https://breckyunits.com/dreaming-of-a-data-checked-language.html
+ScrollSets: A New Way to Store Knowledge
+========================================
+05/21/2024
+https://breckyunits.com/scrollsets.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html

@@ -1,6 +1,5 @@
 date 9/10/2017
-groups All ScrollNotation
-related countingComplexity treenotationPaper
+tags All Scroll ScrollPapers
 
 import header.scroll
 printTitle
@@ -62,6 +61,6 @@ Ohayo Computer has developed a compiler-compiler for these grammar files. Future
 ****
 
 # Related Posts
-printRelatedList
+printRelated ScrollPapers
 
 import footer.scroll

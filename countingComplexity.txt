@@ -233,20 +233,37 @@ Future projects might look at creating Scroll Notation descriptions of large, co
 
 ****
 
-Related Posts
-=============
-- ICS: A Measure of Intelligence (2024)
- https://breckyunits.com/intelligence.html
-- PCRI: An Equation about Syntax Potential (2024)
- https://breckyunits.com/pcri.html
-- A Grammar Notation For Tree Languages (2017)
- https://breckyunits.com/aGrammarNotationForTreeLanguages.html
-- Tree Notation: an antifragile program notation (2017)
- https://breckyunits.com/treenotationPaper.html
-
 Bibliography
 ============
-
 ^Edmonds: Edmonds, B. (1999). Syntactic Measures of Complexity. Doctoral Thesis, University of Manchester, Manchester, UK.
 ^Mitchell: Mitchell, M., 2009. Complexity: A guided tour. Oxford University Press.
 ^Lloyd: Lloyd, Seth. "Measures of complexity: a nonexhaustive list." IEEE Control Systems Magazine 21.4 (2001): 7-8.
+
+***
+
+Related Posts
+=============
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+ICS: A Measure of Intelligence
+==============================
+06/06/2024
+https://breckyunits.com/intelligence.html
+
+PCRI: An Equation about Syntax Potential
+========================================
+05/31/2024
+https://breckyunits.com/pcri.html
+
+A Grammar Notation For Tree Languages
+=====================================
+09/10/2017
+https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html

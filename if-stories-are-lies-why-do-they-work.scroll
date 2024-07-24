@@ -1,6 +1,5 @@
 date 2020-01-16
-groups All Writing Life Data
-related many-narratives-all-true dreaming-of-a-data-checked-language english-cannot-encode-real-news narratives-misrepresent-complex-systems
+tags All Writing Life Data Narratives
 title If stories are lies why do they work?
 
 import header.scroll
@@ -47,6 +46,6 @@ Despite my problems with narratives and my quest for something better, it seems 
 ****
 
 # Related Posts
-printRelatedList
+printRelated Narratives
 
 import footer.scroll

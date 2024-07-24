@@ -1,8 +1,6 @@
 date 5/31/2024
-groups All Programming Scroll
+tags All Programming Scroll ScrollPapers
 openGraphImage pcri.png
-related hits
-related treeNotationFinalReport tree-notation-annual-report-2019 countingComplexity aGrammarNotationForTreeLanguages show-hn-programming-is-now-two-dimensional treenotationPaper spacenet introducing-note
 title PCRI: An Equation about Syntax Potential
 
 import header.scroll
@@ -82,6 +80,6 @@ You can present them with Scroll Notation, and explain how it supports a vast un
 - Now, back to my vacation.
 
 # Related Posts
-printRelatedList
+printRelated Scroll
 
 import footer.scroll

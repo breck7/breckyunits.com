@@ -1,6 +1,5 @@
 date 2007-08-24
-groups All Writing Life
-related im-back
+tags All Writing Life Blogging
 title I guess the time has come
 
 import header.scroll
@@ -23,7 +22,7 @@ PS, Be the first to email me at my new address: breck@breckyunits.com . See if y
 ****
 
 # Related Posts
-printRelatedList
+printRelated Blogging
 
 import importedNote.scroll
 

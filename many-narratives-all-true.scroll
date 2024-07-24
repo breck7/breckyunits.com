@@ -1,6 +1,5 @@
 date 6/13/2023
-groups All Writing Life
-related if-stories-are-lies-why-do-they-work english-cannot-encode-real-news narratives-misrepresent-complex-systems
+tags All Writing Life Narratives
 title Many Narratives. All true.
 
 import header.scroll
@@ -56,7 +55,7 @@ Our brains are like a ship on a long voyage inhabited by multiple characters (pi
 ****
 
 # Related Posts
-printRelatedList
+printRelated Narratives
 
 import footer.scroll
 

@@ -1,6 +1,5 @@
 date 2013-03-30
-groups All Life Thinking Data
-related 30000hours
+tags All Life Thinking Data MasterProgramming
 title Why 10,000 hours?
 
 import header.scroll
@@ -32,6 +31,6 @@ image bug.png
 ****
 
 # Related Posts
-printRelatedList
+printRelated MasterProgramming
 
 import footer.scroll

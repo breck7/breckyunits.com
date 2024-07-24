@@ -1,6 +1,5 @@
 date 1/30/2024
-groups All BipolarEnergy Writing
-related theTallestTree wordsAreWorseThanWeights publishing-more why-you-shouldnt-save-blogging-for-old-age im-back
+tags All BipolarEnergy Writing
 title Blogging as Therapy
 
 import header.scroll
@@ -34,6 +33,6 @@ Anyway. I'm going to publish this one now and try and get a double post out toda
 ****
 
 # Related Posts
-printRelatedList
+printRelated Writing
 
 import footer.scroll

@@ -79,11 +79,22 @@ Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The
 
 Related Posts
 =============
-- The Three Byte Fix (2022)
- https://breckyunits.com/ckmeans.html
-- Logeracy (2021)
- https://breckyunits.com/logeracy.html
-- Planets and Pebbles (2012)
- https://breckyunits.com/planets-and-pebbles.html
-- Orders of Magnitude (2009)
- https://breckyunits.com/orders-of-magnitude.html
+The Three Byte Fix
+==================
+06/09/2022
+https://breckyunits.com/ckmeans.html
+
+Logeracy
+========
+04/26/2021
+https://breckyunits.com/logeracy.html
+
+Planets and Pebbles
+===================
+11/26/2012
+https://breckyunits.com/planets-and-pebbles.html
+
+Orders of Magnitude
+===================
+12/07/2009
+https://breckyunits.com/orders-of-magnitude.html

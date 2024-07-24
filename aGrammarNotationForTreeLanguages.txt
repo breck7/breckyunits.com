@@ -59,7 +59,27 @@ Ohayo Computer has developed a compiler-compiler for these grammar files. Future
 
 Related Posts
 =============
-- Counting Complexity (2017)
- https://breckyunits.com/countingComplexity.html
-- Tree Notation: an antifragile program notation (2017)
- https://breckyunits.com/treenotationPaper.html
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+ICS: A Measure of Intelligence
+==============================
+06/06/2024
+https://breckyunits.com/intelligence.html
+
+PCRI: An Equation about Syntax Potential
+========================================
+05/31/2024
+https://breckyunits.com/pcri.html
+
+Counting Complexity
+===================
+12/20/2017
+https://breckyunits.com/countingComplexity.html
+
+Tree Notation: an antifragile program notation
+==============================================
+06/21/2017
+https://breckyunits.com/treenotationPaper.html

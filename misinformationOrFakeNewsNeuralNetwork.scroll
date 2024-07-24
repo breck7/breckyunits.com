@@ -1,5 +1,5 @@
 date 10/15/2022
-groups All IntellectualFreedom Society
+tags All IntellectualFreedom Society
 title Training a neural network to spot misinformation and fake news from a single image
 
 import header.scroll

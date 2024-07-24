@@ -171,3 +171,20 @@ Thanks
 ======
 Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
 ****
+
+Related Posts
+=============
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
+
+Dataset Needed
+==============
+01/23/2020
+https://breckyunits.com/dataset-needed.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html
