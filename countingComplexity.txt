@@ -26,16 +26,16 @@ How do you count complexity?
 
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
-In this paper I add to the pile, and propose using Tree Notation as a tool for counting complexity.
+In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
 
 ***
 
 Overview
 ========
-The method introduced here, named Tree Notation Complexity (TNC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Scroll Notation Complexity (SNC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
-2. Given the assumption that all structures can be represented as trees, we can then use Tree Notation, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Tree Notation language defined by a grammar, `G0`.
+2. Given the assumption that all structures can be represented as trees, we can then use Scroll Notation, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Scroll Notation language defined by a grammar, `G0`.
 3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
 5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
@@ -49,7 +49,7 @@ Which concept is more complex, a boolean digit (0 or 1) or a base-10 digit (betw
 
 Let's imagine a machine that takes as input one character and returns true if that input is defined in a program written for that machine.
 
-Let's encode both concepts using one Tree Notation language (not defined here).
+Let's encode both concepts using one Scroll Notation language (not defined here).
 
 boolean
  0
@@ -68,7 +68,7 @@ digit
 
 Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".
 
-Hence, by this simple TNC measure we can say that a digit is more complex than a boolean.
+Hence, by this simple SNC measure we can say that a digit is more complex than a boolean.
 
 ***
 
@@ -119,12 +119,12 @@ Atomic Components of Complexity
 ===============================
 
 [Image Omitted]
- A visualization of the countable atomic units in TNC.
+ A visualization of the countable atomic units in SNC.
  float right
 
-TNC has more atomic units to count beyond nodes.
+SNC has more atomic units to count beyond nodes.
 
-In TNC countable atomic units of complexity include:
+In SNC countable atomic units of complexity include:
 
 - trees (files/2D planes/documents)
 - nodes (messages/lines in a file)
@@ -151,40 +151,40 @@ But the Total Complexity of the Python program might be greater than that of the
 
 ***
 
-Why Tree Notation?
-==================
+Why Scroll Notation?
+====================
 
-TNC is one of many systems that measure the "difficulty of description"^Lloyd. This means TNC doesn't measure complexity directly, rather the description of the entity is measured.
+SNC is one of many systems that measure the "difficulty of description"^Lloyd. This means SNC doesn't measure complexity directly, rather the description of the entity is measured.
 
-Tree Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
+Scroll Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
 
-Basic primitives like the bit, the concept of a word, or an AND gate have a Tree Notation representation.
+Basic primitives like the bit, the concept of a word, or an AND gate have a Scroll Notation representation.
 
-Macro objects, like the Linux Kernel, could also be described using just Tree Notation.
+Macro objects, like the Linux Kernel, could also be described using just Scroll Notation.
 
 Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
 
 ***
 
-Tree Notation is minimal and unambiguous.
+Scroll Notation is minimal and unambiguous.
 
-Descriptions written in Tree Notation can expand gracefully to handle new ideas.
+Descriptions written in Scroll Notation can expand gracefully to handle new ideas.
 
-Other descriptions become noisier or repetitive over time, whereas Tree Notation is a noiseless encoding and the signal in the information remains strong over time.
-
-***
-
-Tree Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
-
-TNC thus could enable cross-domain complexity comparisons.
-
-In a sense, Tree Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+Other descriptions become noisier or repetitive over time, whereas Scroll Notation is a noiseless encoding and the signal in the information remains strong over time.
 
 ***
 
-Furthermore, items encoded in Tree Notation can be thought of and visualized as existing in 3-Dimensions.
+Scroll Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
 
-This is far-off speculation, but perhaps there exists a correlation between the TNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
+SNC thus could enable cross-domain complexity comparisons.
+
+In a sense, Scroll Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+
+***
+
+Furthermore, items encoded in Scroll Notation can be thought of and visualized as existing in 3-Dimensions.
+
+This is far-off speculation, but perhaps there exists a correlation between the SNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
 
 ***
 
@@ -199,13 +199,13 @@ How complex is a comprehensive description of the human brain?
 
 How complex is a comprehensive blueprint of the new iPhone?
 
-At the moment no total complexity descriptive project so ambitious has been attempted in Tree Notation.
+At the moment no total complexity descriptive project so ambitious has been attempted in Scroll Notation.
 
 It is an open question as to whether or not such an accomplishment is even possible.
 
-For example, a back of the envelope estimate of how many nodes might be in the total Tree Notation description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
+For example, a back of the envelope estimate of how many nodes might be in the total Scroll Notation description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
 
-One thing is certain: assuming Tree Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
+One thing is certain: assuming Scroll Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
 
 ***
 
@@ -223,11 +223,11 @@ Relative Complexity measurements of concepts ebbs and flows in sinusoidal waves,
 Conclusion and Future Work
 ==========================
 
-To an evergrowing number of systems for measuring I add one more: Tree Notation Complexity.
+To an evergrowing number of systems for measuring I add one more: Scroll Notation Complexity.
 
 The benefit of this system is that it is simple, practical, universal, and scale free.
 
-Future projects might look at creating Tree Notation descriptions of large, complex systems and visualizing and summarizing the results.
+Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
 
 ****
 

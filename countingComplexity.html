@@ -69,13 +69,13 @@
 <p class="scrollParagraph">How do you count complexity?</p>
 <div class="dinkus"><span>*</span></div>
 <p class="scrollParagraph">One 1999 survey of complexity measures found 48 systems in use<a href="#note1" class="scrollNoteLink" id="noteUsage1"><sup>[1]</sup></a>. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard<a href="#note2" class="scrollNoteLink" id="noteUsage2"><sup>[2]</sup></a>.</p>
-<p class="scrollParagraph">In this paper I add to the pile, and propose using Tree Notation as a tool for counting complexity.</p>
+<p class="scrollParagraph">In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Overview</h1>
-<p class="scrollParagraph">The method introduced here, named Tree Notation Complexity (TNC), can be used to measure the complexity of an entity X. It operates as follows.</p>
+<p class="scrollParagraph">The method introduced here, named Scroll Notation Complexity (SNC), can be used to measure the complexity of an entity X. It operates as follows.</p>
 </div>
 <ol  start="1."><li >It is assumed that all ideas are graphs that can be sliced into tree structures.</li>
-<li >Given the assumption that all structures can be represented as trees, we can then use Tree Notation, a simple encoding of tree structures, to encode the components of <code>X</code>, in a program <code>P</code>, which is written in a high level symbolic Tree Notation language defined by a grammar, <code>G0</code>.</li>
+<li >Given the assumption that all structures can be represented as trees, we can then use Scroll Notation, a simple encoding of tree structures, to encode the components of <code>X</code>, in a program <code>P</code>, which is written in a high level symbolic Scroll Notation language defined by a grammar, <code>G0</code>.</li>
 <li >We can then describe that language <code>G0</code> in a recursive series of grammars (<code>G1</code>, <code>G2</code>, ...).</li>
 <li >We can then stop at a desired level of abstraction (to get <em>Relative Complexity</em>), or continue until we reach irreducible trees (to get <em>Total Complexity</em>).</li>
 <li >We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.</li></ol>
@@ -84,7 +84,7 @@
 </div>
 <p class="scrollParagraph">Which concept is more complex, a boolean digit (0 or 1) or a base-10 digit (between 0 and 9)?</p>
 <p class="scrollParagraph">Let's imagine a machine that takes as input one character and returns true if that input is defined in a program written for that machine.</p>
-<p class="scrollParagraph">Let's encode both concepts using one Tree Notation language (not defined here).</p>
+<p class="scrollParagraph">Let's encode both concepts using one Scroll Notation language (not defined here).</p>
 <code class="scrollCodeBlock">boolean
  0
  1
@@ -100,7 +100,7 @@ digit
  8
  9</code>
 <p class="scrollParagraph">Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".</p>
-<p class="scrollParagraph">Hence, by this simple TNC measure we can say that a digit is more complex than a boolean.</p>
+<p class="scrollParagraph">Hence, by this simple SNC measure we can say that a digit is more complex than a boolean.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Simple Example #2</h1>
 </div>
@@ -135,9 +135,9 @@ programB
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Atomic Components of Complexity</h1>
 </div>
-<figure class="scrollCaptionedFigure" style="margin: 20px; float: right;"><a href="atomicUnits.png" target="_blank"  ><img src="atomicUnits.png" width="251" height="214" loading="lazy"></a><figcaption><p class="scrollParagraph">A visualization of the countable atomic units in TNC.</p></figcaption></figure>
-<p class="scrollParagraph">TNC has more atomic units to count beyond nodes.</p>
-<p class="scrollParagraph">In TNC countable atomic units of complexity include:</p>
+<figure class="scrollCaptionedFigure" style="margin: 20px; float: right;"><a href="atomicUnits.png" target="_blank"  ><img src="atomicUnits.png" width="251" height="214" loading="lazy"></a><figcaption><p class="scrollParagraph">A visualization of the countable atomic units in SNC.</p></figcaption></figure>
+<p class="scrollParagraph">SNC has more atomic units to count beyond nodes.</p>
+<p class="scrollParagraph">In SNC countable atomic units of complexity include:</p>
 <ul ><li >trees (files/2D planes/documents)</li>
 <li >nodes (messages/lines in a file)</li>
 <li >words (cells/delimited by spaces)</li>
@@ -154,24 +154,24 @@ programB
 <p class="scrollParagraph">Another trivial example might be, given a computer that can execute both C code and Python code, and a task to sum some numbers from a CSV file, a program in Python would be less complex.</p>
 <p class="scrollParagraph">But the Total Complexity of the Python program might be greater than that of the C program, when dependencies are measured.</p>
 <div class="dinkus"><span>*</span></div>
-<div class="scrollSection"><h1 class="scrollParagraph">Why Tree Notation?</h1>
+<div class="scrollSection"><h1 class="scrollParagraph">Why Scroll Notation?</h1>
 </div>
-<p class="scrollParagraph">TNC is one of many systems that measure the "difficulty of description"<a href="#note3" class="scrollNoteLink" id="noteUsage3"><sup>[3]</sup></a>. This means TNC doesn't measure complexity directly, rather the description of the entity is measured.</p>
-<p class="scrollParagraph">Tree Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.</p>
-<p class="scrollParagraph">Basic primitives like the bit, the concept of a word, or an AND gate have a Tree Notation representation.</p>
-<p class="scrollParagraph">Macro objects, like the Linux Kernel, could also be described using just Tree Notation.</p>
+<p class="scrollParagraph">SNC is one of many systems that measure the "difficulty of description"<a href="#note3" class="scrollNoteLink" id="noteUsage3"><sup>[3]</sup></a>. This means SNC doesn't measure complexity directly, rather the description of the entity is measured.</p>
+<p class="scrollParagraph">Scroll Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.</p>
+<p class="scrollParagraph">Basic primitives like the bit, the concept of a word, or an AND gate have a Scroll Notation representation.</p>
+<p class="scrollParagraph">Macro objects, like the Linux Kernel, could also be described using just Scroll Notation.</p>
 <p class="scrollParagraph">Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.</p>
 <div class="dinkus"><span>*</span></div>
-<p class="scrollParagraph">Tree Notation is minimal and unambiguous.</p>
-<p class="scrollParagraph">Descriptions written in Tree Notation can expand gracefully to handle new ideas.</p>
-<p class="scrollParagraph">Other descriptions become noisier or repetitive over time, whereas Tree Notation is a noiseless encoding and the signal in the information remains strong over time.</p>
+<p class="scrollParagraph">Scroll Notation is minimal and unambiguous.</p>
+<p class="scrollParagraph">Descriptions written in Scroll Notation can expand gracefully to handle new ideas.</p>
+<p class="scrollParagraph">Other descriptions become noisier or repetitive over time, whereas Scroll Notation is a noiseless encoding and the signal in the information remains strong over time.</p>
 <div class="dinkus"><span>*</span></div>
-<p class="scrollParagraph">Tree Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.</p>
-<p class="scrollParagraph">TNC thus could enable cross-domain complexity comparisons.</p>
-<p class="scrollParagraph">In a sense, Tree Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.</p>
+<p class="scrollParagraph">Scroll Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.</p>
+<p class="scrollParagraph">SNC thus could enable cross-domain complexity comparisons.</p>
+<p class="scrollParagraph">In a sense, Scroll Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.</p>
 <div class="dinkus"><span>*</span></div>
-<p class="scrollParagraph">Furthermore, items encoded in Tree Notation can be thought of and visualized as existing in 3-Dimensions.</p>
-<p class="scrollParagraph">This is far-off speculation, but perhaps there exists a correlation between the TNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their <span  class="scrollKatex">10e11</span> neurons and <span  class="scrollKatex">10e15</span> synapses.</p>
+<p class="scrollParagraph">Furthermore, items encoded in Scroll Notation can be thought of and visualized as existing in 3-Dimensions.</p>
+<p class="scrollParagraph">This is far-off speculation, but perhaps there exists a correlation between the SNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their <span  class="scrollKatex">10e11</span> neurons and <span  class="scrollKatex">10e15</span> synapses.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Big Complexity</h1>
 </div>
@@ -179,10 +179,10 @@ programB
 <p class="scrollParagraph">How complex is the Linux Kernel?</p>
 <p class="scrollParagraph">How complex is a comprehensive description of the human brain?</p>
 <p class="scrollParagraph">How complex is a comprehensive blueprint of the new iPhone?</p>
-<p class="scrollParagraph">At the moment no total complexity descriptive project so ambitious has been attempted in Tree Notation.</p>
+<p class="scrollParagraph">At the moment no total complexity descriptive project so ambitious has been attempted in Scroll Notation.</p>
 <p class="scrollParagraph">It is an open question as to whether or not such an accomplishment is even possible.</p>
-<p class="scrollParagraph">For example, a back of the envelope estimate of how many nodes might be in the total Tree Notation description of the Linux Kernel might be a <span  class="scrollKatex">10e6</span> or perhaps as many as <span  class="scrollKatex">10e12</span>.</p>
-<p class="scrollParagraph">One thing is certain: assuming Tree Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.</p>
+<p class="scrollParagraph">For example, a back of the envelope estimate of how many nodes might be in the total Scroll Notation description of the Linux Kernel might be a <span  class="scrollKatex">10e6</span> or perhaps as many as <span  class="scrollKatex">10e12</span>.</p>
+<p class="scrollParagraph">One thing is certain: assuming Scroll Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Growth of Complexity</h1>
 </div>
@@ -192,9 +192,9 @@ programB
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Conclusion and Future Work</h1>
 </div>
-<p class="scrollParagraph">To an evergrowing number of systems for measuring I add one more: Tree Notation Complexity.</p>
+<p class="scrollParagraph">To an evergrowing number of systems for measuring I add one more: Scroll Notation Complexity.</p>
 <p class="scrollParagraph">The benefit of this system is that it is simple, practical, universal, and scale free.</p>
-<p class="scrollParagraph">Future projects might look at creating Tree Notation descriptions of large, complex systems and visualizing and summarizing the results.</p>
+<p class="scrollParagraph">Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.</p>
 <div class="dinkus"><span>⁂</span></div>
 <div class="scrollSection"><h1 class="scrollParagraph">Bibliography</h1>
 </div>

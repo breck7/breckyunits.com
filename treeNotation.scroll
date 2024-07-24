@@ -1,5 +1,5 @@
 replace CAT_TITLE Scroll Notation
 
 import categoryPage.scroll
-printSnippets ScrollNotation
+printSnippets Scroll
 import footer.scroll
