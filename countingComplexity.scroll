@@ -40,7 +40,7 @@ The method introduced here, named Scroll Notation Complexity (SNC), can be used 
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
 2. Given the assumption that all structures can be represented as trees, we can then use Scroll Notation, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Scroll Notation language defined by a grammar, `G0`.
- link grammar aGrammarNotationForTreeLanguages.html grammar
+ link aGrammarNotationForTreeLanguages.html grammar
 3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
 5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
