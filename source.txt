@@ -241,6 +241,10 @@
  
  ****
  
+ # Related Posts
+ printRelatedList
+ related countingComplexity
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/pcri.scroll
@@ -9601,6 +9605,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/countingComplexity.scroll
  date 12/20/2017
  groups All ScrollNotation
+ related intelligence
  
  import header.scroll
  printTitle
@@ -9830,6 +9835,9 @@
  Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
  
  ****
+ 
+ # Related Posts
+ printRelatedList
  
  # Bibliography
  

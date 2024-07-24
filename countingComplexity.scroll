@@ -1,5 +1,6 @@
 date 12/20/2017
 groups All ScrollNotation
+related intelligence
 
 import header.scroll
 printTitle
@@ -229,6 +230,9 @@ The benefit of this system is that it is simple, practical, universal, and scale
 Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
 
 ****
+
+# Related Posts
+printRelatedList
 
 # Bibliography
 

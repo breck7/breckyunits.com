@@ -27,3 +27,8 @@ If programs A and B are the same size, the program with more coverage is more in
 If they have the same coverage, the smaller program is more intelligent.
 
 ****
+
+Related Posts
+=============
+- Counting Complexity (2017)
+ https://breckyunits.com/countingComplexity.html
