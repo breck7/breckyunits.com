@@ -1,6 +1,6 @@
 date 12/20/2017
 groups All ScrollNotation
-related intelligence
+related intelligence treenotationPaper
 
 import header.scroll
 printTitle
@@ -31,6 +31,7 @@ How do you count complexity?
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
 In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
+ link treenotationPaper.html Scroll Notation
 
 ***
 

@@ -27,6 +27,7 @@ How do you count complexity?
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
 In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
+ https://breckyunits.com/treenotationPaper.html Scroll Notation
 
 ***
 
@@ -235,6 +236,8 @@ Related Posts
 =============
 - A Measure of Intelligence (2024)
  https://breckyunits.com/intelligence.html
+- Tree Notation: an antifragile program notation (2017)
+ https://breckyunits.com/treenotationPaper.html
 
 Bibliography
 ============
