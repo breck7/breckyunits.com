@@ -1,5 +1,5 @@
-PCRI
-====
+PCRI: An Equation about Syntax Potential
+========================================
 
 HTML | TXT
  https://breckyunits.com/pcri.html HTML
@@ -14,7 +14,7 @@ Yesterday, on a plane, I found an equation I sought for a decade.
 
 P = {C^R}^I
 
-PCRI describes a symbolic notation.
+PCRI describes the potential of a programming syntax.
 
 PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters, words, or bits), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
 
@@ -23,7 +23,7 @@ If you view the source code of this post, you will see *C, R, and I* in action.
 
 ***
 
-PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another notation(s) might be found with superior metrics, but I have yet to see it.
+PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
  https://scroll.pub Scroll Notation
 
 PCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
@@ -34,6 +34,8 @@ PCRI also explains why _nearly_ flat structures work so well: a little nesting g
  https://breckyunits.com/treeNotationFinalReport.html announced
 
 It looks like I was wrong again. There was something special about Scroll Notation, and PCRI explains what that is.
+
+***
 
 _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Scroll Notation doesn't even have parentheses!_
 
@@ -60,8 +62,8 @@ You can present them with Scroll Notation, and explain how it supports a vast un
 
 ***
 
-- Does PCRI also describe S-Expressions? S-Expression Notation works. Scroll Notation _barely_ works.
-- As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
+- Does PCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
+- All mistakes are on me, and credit goes to the people who have supported this effort with me.
 - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
 - Now, back to my vacation.
 
@@ -71,7 +73,15 @@ Related Posts
  https://breckyunits.com/treeNotationFinalReport.html
 - 2019 Tree Notation Annual Report (2020)
  https://breckyunits.com/tree-notation-annual-report-2019.html
+- Counting Complexity (2017)
+ https://breckyunits.com/countingComplexity.html
+- A Grammar Notation For Tree Languages (2017)
+ https://breckyunits.com/aGrammarNotationForTreeLanguages.html
 - Show HN: Programming is Now Two-Dimensional (2017)
  https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+- Tree Notation: an antifragile program notation (2017)
+ https://breckyunits.com/treenotationPaper.html
+- SpaceNet: A successor to the Internet (2013)
+ https://breckyunits.com/spacenet.html
 - Introducing Note (2012)
  https://breckyunits.com/introducing-note.html

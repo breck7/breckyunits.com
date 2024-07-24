@@ -46,8 +46,8 @@ ICS: A Measure of Intelligence
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PCRI
-====
+PCRI: An Equation about Syntax Potential
+========================================
 05/31/2024
 https://breckyunits.com/pcri.html
 
@@ -86,8 +86,8 @@ The Omni Restaurant
 05/23/2024
 https://breckyunits.com/omniRestaurant.html
 
-A New Way to Store Knowledge
-============================
+ScrollSets: A New Way to Store Knowledge
+========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
 

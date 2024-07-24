@@ -48,7 +48,7 @@ Notes
 
 Related Posts
 =============
-- A New Way to Store Knowledge (2024)
+- ScrollSets: A New Way to Store Knowledge (2024)
  https://breckyunits.com/scrollsets.html
 - Hot Coffee (2024)
  https://breckyunits.com/datasets.html

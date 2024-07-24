@@ -2,8 +2,8 @@ date 5/31/2024
 groups All Programming Scroll
 openGraphImage pcri.png
 related hits
-related treeNotationFinalReport tree-notation-annual-report-2019 show-hn-programming-is-now-two-dimensional introducing-note
-title PCRI
+related treeNotationFinalReport tree-notation-annual-report-2019 countingComplexity aGrammarNotationForTreeLanguages show-hn-programming-is-now-two-dimensional treenotationPaper spacenet introducing-note
+title PCRI: An Equation about Syntax Potential
 
 import header.scroll
 printTitle
@@ -28,7 +28,7 @@ katex
 
 endSnippet
 
-PCRI describes a symbolic notation.
+PCRI describes the potential of a programming syntax.
 
 PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters, words, or bits), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
 
@@ -37,7 +37,7 @@ If you view the source code of this post, you will see *C, R, and I* in action.
 
 ***
 
-PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another notation(s) might be found with superior metrics, but I have yet to see it.
+PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
  https://scroll.pub Scroll Notation
 
 PCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
@@ -49,6 +49,8 @@ PCRI also explains why _nearly_ flat structures work so well: a little nesting g
  link treeNotationFinalReport.html announced
 
 It looks like I was wrong again. There was something special about Scroll Notation, and PCRI explains what that is.
+
+***
 
 _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Scroll Notation doesn't even have parentheses!_
 
@@ -74,8 +76,8 @@ You can present them with Scroll Notation, and explain how it supports a vast un
 
 ***
 
-- Does PCRI also describe S-Expressions? S-Expression Notation works. Scroll Notation _barely_ works.
-- As always, all mistakes are on me, and credit goes to the people who have supported this effort with me.
+- Does PCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
+- All mistakes are on me, and credit goes to the people who have supported this effort with me.
 - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
 - Now, back to my vacation.
 
