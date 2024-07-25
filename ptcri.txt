@@ -19,7 +19,7 @@ PTCRI describes the potential of a programming syntax.
 PTCRI says the number of possible programs *P* is equal to the number of tokens *T* raised by the number of columns *C*, raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
 
 If you view the source code of this post, you will see *T, C, R, and I* in action.
- https://github.com/breck7/breckyunits.com/blob/main/pcri.scroll source code
+ https://github.com/breck7/breckyunits.com/blob/main/ptcri.scroll source code
 
 ***
 
