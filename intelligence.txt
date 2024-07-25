@@ -35,10 +35,10 @@ ETA!: A Measure of Evolution
 07/18/2024
 https://breckyunits.com/eta.html
 
-PCRI: An Equation about Syntax Potential
-========================================
+PTCRI: An Equation about Syntax Potential
+=========================================
 05/31/2024
-https://breckyunits.com/pcri.html
+https://breckyunits.com/ptcri.html
 
 Counting Complexity
 ===================

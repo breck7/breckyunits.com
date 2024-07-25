@@ -246,11 +246,11 @@
  
  import footer.scroll
  
-/home/runner/work/breckyunits.com/breckyunits.com/pcri.scroll
+/home/runner/work/breckyunits.com/breckyunits.com/ptcri.scroll
  date 5/31/2024
  tags All Programming Scroll ScrollPapers
- openGraphImage pcri.png
- title PCRI: An Equation about Syntax Potential
+ openGraphImage ptcri.png
+ title PTCRI: An Equation about Syntax Potential
  
  import header.scroll
  printTitle
@@ -258,8 +258,8 @@
  HTML | TXT
   class scrollDateline
   style text-align: center;
-  link pcri.html HTML
-  link pcri.txt TXT
+  link ptcri.html HTML
+  link ptcri.txt TXT
  
  printAuthors
  
@@ -269,33 +269,36 @@
   dateline
  
  
+ 
  katex
-  P = {C^R}^I
+  P = {T^{C^R}}^I
+ 
  
  
  endSnippet
  
- PCRI describes the potential of a programming syntax.
+ PTCRI describes the potential of a programming syntax.
  
- PCRI says the number of possible programs *P* is equal to the number of columns *C* (aka characters, words, or bits), raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
+ PTCRI says the number of possible programs *P* is equal to the number of tokens *T* raised by the number of columns *C*, raised by the number of rows *R* (aka lines), raised by the number of indentation levels *I*.
  
- If you view the source code of this post, you will see *C, R, and I* in action.
+ If you view the source code of this post, you will see *T, C, R, and I* in action.
   https://github.com/breck7/breckyunits.com/blob/main/pcri.scroll source code
  
  ***
  
- PCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
+ PTCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
   https://scroll.pub Scroll Notation
  
- PCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set C and R to 8, changing I from 1 to 2 increases the amount of possible programs from 16 million to 281 trillion.
-  // 16,777,216 to 281,474,976,710,656
+ PTCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set T and C and R to 3, changing I from 1 to 2 increases the amount of possible programs from 7,625,597,484,987 to 58,149,737,003,040,060,000,000,000.
+  // Math.pow(Math.pow(3, Math.pow(3, 3)), 1) vs:
+  // Math.pow(Math.pow(3, Math.pow(3, 3)), 2)
  
  ***
  
  59 days ago I announced the decade long Scroll Notation research endeavor over with a negative result.
   link treeNotationFinalReport.html announced
  
- It looks like I was wrong again. There was something special about Scroll Notation, and PCRI explains what that is.
+ It looks like I was wrong again. There was something special about Scroll Notation, and PTCRI explains what that is.
  
  ***
  
@@ -304,7 +307,7 @@
  And yet, the experimental evidence kept piling up.
   link scrollsets.html experimental evidence
  
- The evidence hinted at some important natural formula, and now we have a name for it: PCRI.
+ The evidence hinted at some important natural formula, and now we have a name for it: PTCRI.
  
  ****
  
@@ -314,16 +317,22 @@
  
  ***
  
+ Thank you to Marc Forward and Inconstant_Moo for feedback and helping me add the T.
+  https://www.youtube.com/@origineering Marc Forward
+  https://www.reddit.com/user/Inconstant_Moo/ Inconstant_Moo
+ 
+ ***
+ 
  It may help to explain from another angle. Imagine your boss comes up to you and says "We are giving you a special assignment. We want you to come up with the best possible syntax for all programming languages." What do you come up with?
  
- You can present them with Scroll Notation, and explain how it supports a vast universe of programs, $P = {C^R}^I$, with just three syntax rules:
+ You can present them with Scroll Notation, and explain how it supports a vast universe of programs, $P = {T^{C^R}}^I$, with just three syntax rules:
  - lines split into columns via bits, characters or words
  - groups of lines joined to each other via newlines
  - scopes established via the indent trick (aka the "Offiside Rule", popularized by Python, HAML, et cetera)
  
  ***
  
- - Does PCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
+ - Does PTCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
  - All mistakes are on me, and credit goes to the people who have supported this effort with me.
  - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
  - Now, back to my vacation.

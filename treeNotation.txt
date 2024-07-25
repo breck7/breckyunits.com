@@ -26,10 +26,10 @@ ICS: A Measure of Intelligence
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PCRI: An Equation about Syntax Potential
-========================================
+PTCRI: An Equation about Syntax Potential
+=========================================
 05/31/2024
-https://breckyunits.com/pcri.html
+https://breckyunits.com/ptcri.html
 
 Patch: a micro language to make pretty deep links easy
 ======================================================
