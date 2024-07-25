@@ -2975,11 +2975,12 @@
  import header.scroll
  printTitle
  printAuthors
- thinColumns 2
+ mediumColumns 1
  
  image ketones/ketoMojoFingerPrick.jpeg
   caption Pricking my finger then measuring the level of ketones in my blood.
   // Keto-Mojo GK+
+  width 300
  
  I pricked my finger and moved a disposable ketone measuring stick into the newly formed drop of blood. I was checking my "blood ketone" levels. If the result came back higher than 0.8 mmol/L, I would be in a state of "ketosis".
   dateline
