@@ -329,7 +329,7 @@
  - Now, back to my vacation.
  
  # Related Posts
- printRelated Scroll
+ printRelated ScrollPapers
  
  import footer.scroll
  
