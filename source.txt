@@ -5938,7 +5938,7 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/elbakian-interview.scroll
- author  Others
+ authors Others
  date 05/22/2021
  tags All OtherAuthor
  title Goblin Interviews Alexandra Elbakian
@@ -6743,7 +6743,7 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-james-park-built-fitbit.scroll
- author  Others
+ authors Others
  date 2021-03-11
  tags All OtherAuthor
  title How James Park built FitBit
@@ -7305,7 +7305,7 @@
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
- author  Others
+ authors Others
  date 2021-02-28 2
  tags All Startups OtherAuthor
  permalink insist-on-focus.html

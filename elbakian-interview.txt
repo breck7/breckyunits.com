@@ -1,5 +1,3 @@
-author  Others
-
 Goblin Interviews Alexandra Elbakian
 ====================================
 
