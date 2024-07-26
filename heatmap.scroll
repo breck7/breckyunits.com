@@ -14,3 +14,4 @@ heatrix
   #238b45 100
   #005a32 200
 </div>
+css .heatrixRow {white-space: unset;}
