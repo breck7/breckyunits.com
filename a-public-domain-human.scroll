@@ -4,17 +4,25 @@ title A Public Domain Human
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
 # Open sourcing more of my life for honesty
 
-I believe Minsky's theory of the brain as a Society of Mind is correct^minsky. His theory implies there is no "I" but instead a collection of neural agents living together in a single brain. We all have agents capable of dishonesty—evolved, understandably, for survival—along with agents capable of acting with integrity. Inside our brains competing agents jockey for control.
+I believe Minsky's theory of the brain as a Society of Mind is correct^minsky. His theory implies there is no "I" but instead a collection of neural agents living together in a single brain.
  https://en.wikipedia.org/wiki/Society_of_Mind Society of Mind
  dateline
 
-endSnippet
+We all have agents capable of dishonesty—evolved, understandably, for survival—along with agents capable of acting with integrity.
 
-I like to think the majority of agents in my own brain steer me to behave honestly. This wasn't always the case. As a kid in particular I was a rascal. I'd use my wits to gain short term rewards, like sneaking out, kissing the older girl, or getting free Taco Bell (and later, beer). But the truth would catch up to me, and my honest neural agents would retaliate on the dishonest ones.
+Inside our brains competing agents jockey for control.
+
+How can the honest agents win?
+
+***
+
+I like to think the majority of agents in my own brain steer me to behave honestly.
+
+This wasn't always the case. As a kid in particular I was a rascal. I'd use my wits to gain short term rewards, like sneaking out, kissing the older girl, or getting free Taco Bell (and later, beer). But the truth would catch up to me, and my honest neural agents would retaliate on the dishonest ones.
 
 I've gotten more honest as I've gotten older but I have further to go. I'd love for my gravestone to read:
 
@@ -25,8 +33,12 @@ quote
  Became an extraordinarily honest man.
  Also for some reason founded FunnyTombstones.com
 
+***
+
 ? How can I become more honest?
 I am going to double down on something that has worked for me in my programming career: open source.
+
+***
 
 # Becoming a more honest programmer
 
@@ -36,6 +48,8 @@ It's futile to lie about open source projects. There are too many intricate deta
 
 My software products are imperfect. They always seem much worse to me than I know they can be. But they are honest, and one can see I am hellbent on making them better.
 
+***
+
 # Closed sourced programs are like Instagram accounts
 With closed source software one gets a shiny finished product without seeing any of the truth behind what it took to make. And almost always what people hide from you they will lie to you about.
 
@@ -43,10 +57,16 @@ The closed source software company is like the social media influencer who posts
 
 On social media this probably has minor consequences but in software eventually consumers are left increasingly paying the price for dishonest software. Technical debt accumulates in closed source projects and in the long run more honest approaches turn out to be better.
 
+***
+
 # Applying the same open source strategy to the rest of my life
 Like my software projects, I don't have my life all figured out. I'm figuring it out and improving as I go. Stupidly, besides this blog I didn't do much in the way of open sourcing my life. I'm not talking about sharing glamour shots on Instaface. Instead I'm talking about *open sourcing the plumbing: financials, health, legal contracts*. The things people generally don't share, at least in my region of the world.
 
+***
+
 Now, I would be lying if I said I got here by choice.
+
+***
 
 # A Curse and a Blessing
 On October 6th of last year, I showed up to my then-wife's parents' house with flowers. As the saying goes "Flowers are cheap. Divorce is expensive." Unfortunately, my wife was off in a suite with someone else, the marriage was not savable, and divorce is expensive^marriageAdvice.
@@ -59,6 +79,8 @@ I am an 89 year old man in a 39 year old's body. I am not afraid of divorce. I a
 Things that people don't publish are the things they lie about. If I want to force myself into being extraordinarily honest, I need to take extraordinary steps. If I publish everything, then I can lie about nothing.
 
 I have the opportunity to open source my life. Not for attention or because I think other people will care, but because it will help me be a more honest me. I won't have to waste a second thinking about what to reveal to someone, or deciding whether to be coy. I will make it futile to lie about anything.
+
+***
 
 # A Better Life
 In addition to keeping me honest, I see a lot of ways how open sourcing my life will have similar benefits to open sourcing my code. I can get more feedback, and collaborate with more people on new approaches to life.
