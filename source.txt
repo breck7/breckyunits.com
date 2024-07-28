@@ -4490,6 +4490,11 @@
  
  ****
  
+ image emerson.jpeg
+  caption I loved this 1904 quote from Ralph Waldo Emerson, which I saw in a Tweet from Dylan O'Sullivan.
+   https://www.theatlantic.com/magazine/archive/1904/11/country-life/376194/ 1904 quote
+   https://x.com/DylanoA4/status/1816503516833476691 a Tweet from Dylan O'Sullivan
+ 
  # Notes
  
  ^chatgpt I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
