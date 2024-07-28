@@ -4,7 +4,7 @@ title Walking and other invisible tools of thought
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
 // chatGptSummary Walking and mentors inside your head are two invisible tools of thought that can help with problem-solving, gaining new perspectives, and generating creative ideas.
 
