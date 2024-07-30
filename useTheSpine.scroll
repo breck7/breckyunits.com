@@ -5,16 +5,27 @@ title Use the Spine
 import header.scroll
 printTitle
 
-thinColumns 2
-
-Greater than 99% of the time symbols are read and written on surfaces with spines. You cannot get away from it. Yet still, amongst programming language designers there exists some sort of "spine blindness". They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises. Why they would fight this and not embrace this is beyond me. Nature provides, man ignores.
- dateline
+mediumColumns 1
 
 image spines.jpg
  openGraph
+ width 400
  caption My M1 MacBook screen, paper notebook, notepads, and my 1920 copy of Einstein's Theory of Relativity, all have spines.
 
-endSnippet
+Greater than 99% of the time symbols are read and written on surfaces with spines.
+ dateline
+
+You cannot get away from this.
+
+Yet still, amongst programming language designers there exists some sort of "spine blindness".
+
+They overlook the fact that no matter how perfect their language, it will always be read and written by humans on surfaces with spines, as surely as the sun rises.
+
+Why they would fight this and not embrace this is beyond me.
+
+Nature provides, man ignores.
+
+***
 
 ## What does it mean for a language to "use the spine"?
 There are many other terms for _using the spine_. The off-side rule. Semantic indentation. Grid languages. Significant whitespace. I would define it as:
@@ -24,9 +35,13 @@ There are many other terms for _using the spine_. The off-side rule. Semantic in
 quote
  To use the spine is to recognize that all programs in your language will be read and written on surfaces with not only a horizontal but also a vertical axis—the spine—and thus you should design your language to exploit this free and guaranteed resource.
 
+***
+
 ## The lessons from Positional Notation
 Over one thousand years ago humans started to catch on that you could _exploit the surface_ that numbers were written on to represent infinite numbers with a finite amount of symbols. You define your base symbols and then use multiplication times position to generate endlessly large numbers. From this positional base, humans further created many clever editing and computational techniques. Positional notation languages would go on to dominate the number writing world.
  https://en.wikipedia.org/wiki/Positional_notation Positional notation
+
+***
 
 ## Programming languages that use the spine are more successful
 Similarly, in programming languages we are now seeing more than 50% of programmers using languages that use the spine, even though languages of this kind make up fewer than 2% of all languages.
@@ -35,11 +50,15 @@ image spineGraph.png
  caption Data from PLDB.io shows only 57 out of 4,228 computer languages use the spine. Less than 1.5%. Yet in that 1.5% are some of the most popular ones such as Python and YAML. This is probably signal.
   https://pldb.io/docs/csv.html PLDB.io
 
+***
+
 ## Spreadsheets use the spine
 When one expands one classification of programming languages to include spreadsheet languages, then the evidence is overwhelming: languages that use the spine are dominating. Excel and Google sheets famously have over 1 billion users and makes heavy use of the spine.
 
 image explorer.jpg
  caption Spreadsheets have used the spine and have over 1 billion users—orders of magnitude more than 1D programming languages.
+
+***
 
 ## At the dawn of a language revolution
 I firmly believe that this simple trick—using the spine—will unleash a wave of innovation that will eventually replace all top programming languages with better, more human friendly two dimensional ones. I already have dozens of tricks that I use in my daily programming world that exploit the fact that my languages use the spine. I expect innovative programmers will discover many many more. Good luck and have fun.
