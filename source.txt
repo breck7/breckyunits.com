@@ -4509,8 +4509,8 @@
  title The Magnificent Multi-Agent Mind of Marvin Minsky
  
  import header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
  
  If you want to understand the mind, start with Marvin Minsky. There are many people that claim to be experts on the brain, but I've found nearly all of them are unfamiliar with Minsky and his work. This would be like a biologist being unfamiliar with Charles Darwin.
   dateline
