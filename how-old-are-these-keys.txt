@@ -12,6 +12,8 @@ One of the questions I often come back to is this: how much of our collective we
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
  https://breckyunits.com/keyboard/index.html interactive experiment
 
+***
+
 The Five Waves of Symbols
 =========================
 [Image Omitted]
@@ -25,6 +27,8 @@ Painting with broad strokes, there were approximately five big waves of inventio
 - 4. The fourth wave was the invention of the typewriter.
 - 5. And the fifth and most recent wave was the invention of the personal computer.
 
+***
+
 Concentric Circles
 ==================
 An interesting pattern that I never saw before is how the five waves above are roughly arranged in circles.
@@ -33,6 +37,8 @@ The oldest symbols (letters) are close to the center, followed by the Hindu-Arab
 
 (Again, I'm painting with broad strokes, but I found that to be an interesting pattern.)
 
+***
+
 Standing on the Shoulders of Giants
 ===================================
 All of these waves happened before my generation.
@@ -40,6 +46,8 @@ All of these waves happened before my generation.
 Almost all of them before any generation alive today.
 
 The keyboard dataset provides strong evidence that most of our collective wealth is inherited.
+
+****
 
 Build Notes
 ===========
@@ -55,8 +63,6 @@ I then flushed out most of the dataset.
 Finally I played around with a number of visualization effects. At first I thought heatmaps would work well, and tried a few variations on that, but wasn't happy with anything. I posted my work-in-progress to a few friends last night and called it a day. Today I switched to the "disappearing keys" visualization. That definitely felt like a better approach than the heatmap.
 
 I made the thing as fun as I could given time constraints and then shipped.
-
----
 
 April 28, 2024
 
