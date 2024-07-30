@@ -4,7 +4,7 @@ title How Old Are These Keys? Five Eras of Human Progress
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 image keyboard/screenshot.png
  link keyboard/index.html
  caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
@@ -16,7 +16,7 @@ One of the questions I often come back to is this: how much of our collective we
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
  link keyboard/index.html interactive experiment
 
-endSnippet
+***
 
 # The Five Waves of Symbols
 image keyboardChart.png
@@ -30,6 +30,8 @@ Painting with broad strokes, there were approximately five big waves of inventio
 - 4. The fourth wave was the invention of the typewriter.
 - 5. And the fifth and most recent wave was the invention of the personal computer.
 
+***
+
 # Concentric Circles
 An interesting pattern that I never saw before is how the five waves above are roughly arranged in circles.
 
@@ -37,12 +39,16 @@ The oldest symbols (letters) are close to the center, followed by the Hindu-Arab
 
 (Again, I'm painting with broad strokes, but I found that to be an interesting pattern.)
 
+***
+
 # Standing on the Shoulders of Giants
 All of these waves happened before my generation.
 
 Almost all of them before any generation alive today.
 
 The keyboard dataset provides strong evidence that most of our collective wealth is inherited.
+
+****
 
 # Build Notes
 I got this idea last week and couldn't get it out of my head. Yesterday I took a quick crack at it. I didn't have much time to spare, just enough to explore the big ideas.
@@ -58,10 +64,9 @@ Finally I played around with a number of visualization effects. At first I thoug
 
 I made the thing as fun as I could given time constraints and then shipped.
 
----
-
-* Update: I finally got around to making a chart with this data and adding colors to the keys.
+Update: I finally got around to making a chart with this data and adding colors to the keys.
  dateline 4/28/2024
+ italics
 
 endColumns
 
