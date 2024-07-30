@@ -2,7 +2,7 @@ One Textarea
 ============
 
 [Image Omitted]
- Every single web form on earth can (and should) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+ Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar base 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone using one textarea to fill out an application to YCombinator. As this continues to catch on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
   https://github.com/breck7/copypaster demo gif
 
 December 30, 2022
