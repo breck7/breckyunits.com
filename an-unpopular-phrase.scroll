@@ -5,7 +5,7 @@ title An Unpopular Phrase
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 One of the most _un_popular phrases I use is the phrase "Intellectual Slavery Laws".
  dateline
@@ -16,15 +16,25 @@ However, the industry insists on using the false term "Intellectual Property Law
 
 Instead of wasting my breath trying to pull them away from the property analogy, lately I've leaned into it and completed the analogy for them. So let me explain "Intellectual Slavery Laws".
 
-endSnippet
+***
+
+# Intellectual Slavery Laws
 
 As far as I can figure, you cannot have Property Rights and "Intellectual Property" rights. Having both is logically inconsistent. My computer is my property. However, by law there are billions of peaceful things I cannot do on my computer. Therefore, my computer is not my property.
 
 Unless of course, the argument is that my computer is my property, but some copyright and patent holders have property rights over _me_, so their property rights allow them to restrict my freedom. I still get rights over my property. But other people get rights over me. Property Rights and Intellectual Slavery Laws can logically co-exist! Logical inconsistency solved!
 
+***
+
+# The First Step to Having a Logical Debate
+
 We can have a logical debate about whether we should have an Intellectual Slavery System, Intellectual Slavery Laws, Intellectual Slavery Law Schools, Intellectual Slavery Lawyers, etc. But we cannot have a _logical_ debate about Intellectual Property Laws. Because the term itself is not logical.
 
+***
+
 I know, having now used this term with a hundred different people, that this is a not a popular thing to say. But I think someone needs to say it. Do we really think we are going to be an interplanetary species and solve the world's biggest challenges if we keep 99+% of the population in intellectual chains?
+
+***
 
 # Errata
 - "They are stealing my IP." What would your "IP" be if you weren't "stealing" inventions like words, the alphabet, numbers, rules of physics, etc, that were developed and passed down over thousands of years?
@@ -41,5 +51,7 @@ I know, having now used this term with a hundred different people, that this is 
 - One difference between Physical Slavery and Intellectual Slavery is in the latter it is slavery from a million masters.
 - This woman is amazing.
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan
+
+****
 
 import footer.scroll
