@@ -258,8 +258,8 @@ PTCRI: An Equation about Syntax Potential
 05/31/2024
 https://breckyunits.com/ptcri.html
 
-A Grammar Notation For Tree Languages
-=====================================
+A New Language for Making Languages
+===================================
 09/10/2017
 https://breckyunits.com/aGrammarNotationForTreeLanguages.html
 
