@@ -12122,7 +12122,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  I've had some free time the past two weeks to work on a few random ideas I've had.
   dateline
