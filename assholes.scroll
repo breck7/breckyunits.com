@@ -52,6 +52,17 @@ I do not advocate flipping the bit on people. I believe all people are mostly go
 
 ***
 
+# What am I trying to optimize for?
+
+<center>
+katex
+ \min_{B, C}
+</center>
+
+We want to minimize bad behavior B while also minimizing time spent correcting bad behavior C. If that requires delivering a blunt hyperbolic zinger that risks getting you tagged with the label "asshole", I say go for it.
+
+***
+
 The worst thing about Steve Jobs is that he wasn't _asshole enough in public_^sj. Maybe if he showed the same range in public as he did in private, people would have understood more the value of being part asshole.
 
 ***
