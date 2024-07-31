@@ -90,7 +90,7 @@ moons 2</code>
 <p class="scrollParagraph">First I grabbed the data. I downloaded the 7 files from IMDB to my laptop. After unzipping, they were about 7GB.</p>
 <p class="scrollParagraph">One file, the 500MB <code>title.basics.tsv</code>, contained basic data for all the movie and shows in the database.</p>
 <p class="scrollParagraph">Here's what that file looks like with <code>head -5 title.basics.tsv</code>:</p>
-<table id="table89" class="scrollTable">
+<table id="table90" class="scrollTable">
  <thead><tr><th>tconst</th>
 
 <th>titleType</th>
@@ -151,7 +151,7 @@ moons 2</code>
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table89').addEventListener('click', e => {
+ document.querySelector('#table90').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -379,7 +379,7 @@ task treebase error check
  description how long will it take to scan the base for errors.</code>
 <p class="scrollParagraph">💣 Before I get to the results, let me note I had 2 bugs. First I needed to update my <code>title.grammar</code> file by adding a <code>cells fileNameCell</code> to the root node and also adding a <code>fileNameCell</code> line. Second, my strategy above of putting the CSV file for each TreeBase into the same folder as the TreeBase was not ideal as Sublime Text would open that file as well. So I moved each file up with <code>mv titles.tsv ../6k.titles.tsv</code>.</p>
 <p class="scrollParagraph">The results for 6k are below.</p>
-<table id="table90" class="scrollTable">
+<table id="table91" class="scrollTable">
  <thead><tr><th>category</th>
 
 <th>description</th>
@@ -456,7 +456,7 @@ task treebase error check
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table90').addEventListener('click', e => {
+ document.querySelector('#table91').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -468,7 +468,7 @@ task treebase error check
 <p class="scrollParagraph">💣 This markdown file that I'm writing was in the parent folder of the 60k directory and Sublime text seemed to be slowing a bit, so I closed Sublime and created a new unrelated folder to hold this writeup separate from the TreeBase folders.</p>
 <p class="scrollParagraph">The build script for the 60k TreeBase took 30 seconds or so, as expected. I can optimize for that later.</p>
 <p class="scrollParagraph">I now repeat the tasks from above to see how things are holding up.</p>
-<table id="table91" class="scrollTable">
+<table id="table92" class="scrollTable">
  <thead><tr><th>category</th>
 
 <th>description</th>
@@ -545,7 +545,7 @@ task treebase error check
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table91').addEventListener('click', e => {
+ document.querySelector('#table92').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -571,7 +571,7 @@ task treebase error check
 <p class="scrollParagraph">The titles look correct. I'm not sure why the script got hung up on that one entry. For now I'll just wrap the function call in a Try/Catch and press on. I should probably make this script resumable but will skip that for now.</p>
 <p class="scrollParagraph">Rerunning the script...it worked! That line seemed to be the only problematic line.</p>
 <p class="scrollParagraph">We now have our 600k TreeBase.</p>
-<table id="table92" class="scrollTable">
+<table id="table93" class="scrollTable">
  <thead><tr><th>category</th>
 
 <th>description</th>
@@ -648,7 +648,7 @@ task treebase error check
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table92').addEventListener('click', e => {
+ document.querySelector('#table93').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
@@ -709,7 +709,7 @@ time git push</code>
 <div class="scrollSection"><h1 class="scrollParagraph">It's Alive!</h1>
 </div>
 <p class="scrollParagraph">It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.</p>
-<table id="table93" class="scrollTable">
+<table id="table94" class="scrollTable">
  <thead><tr><th>category</th>
 
 <th>description</th>
@@ -782,7 +782,7 @@ time git push</code>
 </tr></tbody>
  </table>
  <script>
- document.querySelector('#table93').addEventListener('click', e => {
+ document.querySelector('#table94').addEventListener('click', e => {
   if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
   e.currentTarget.classList.toggle('expandedTable');
  });
