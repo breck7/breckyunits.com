@@ -7,7 +7,13 @@ One Textarea
 
 December 30, 2022
 
-Forget all the "best practices" you've learned about web forms. _Everyone is doing it wrong_. The true best practice is this: every web form on earth can and will be replaced by a single textarea as the primary field and current forms will become a fallback secondary UI.
+Forget all the "best practices" you've learned about web forms.
+
+_Everyone is doing it wrong_.
+
+The true best practice is this: every web form on earth can and will be replaced by a single textarea.
+
+Current form technology will become "classic forms" and can still be used as a fallback.
 
 ***
 
@@ -15,11 +21,13 @@ The Web Form Gravy Train
 ========================
 Being in the web form business is great.
 
-Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done. But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
+Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done.
 
-Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes. So much can go wrong!
+But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
 
-So much to bill for!
+Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes.
+
+So much can go wrong! So much to bill for!
 
 In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
 
@@ -42,13 +50,13 @@ How it works
 
 This is the early days, think web forms in 1990's. So it's a little bit of work to implement, until tooling and libraries improve.
 
-But it basically boils down to 2 steps:
+But it basically boils down to 3 steps:
 
-1. Define your form as a "microlang" in Parsers.
+1. *Arrange*. Define your form as a "microlang" in Parsers.
  https://scroll.pub/parserLeetsheet.html Parsers
-2. Put a textarea on your web page and use the ScrollSDK and your Parsers microlang to turn it into a rich-text editor.
+2. *Accept*. Put a textarea on your web page and use the ScrollSDK and your Parsers microlang to turn it into a rich-text editor.
  https://github.com/breck7/scrollsdk ScrollSDK
-3. Save form submissions as files on your server and use Scroll to compile them to TSV or whatever you need.
+3. *Analyze*. Save form submissions as files on your server and use Scroll to compile them to TSV or whatever you need.
  https://scroll.pub/ Scroll
 
 ***
