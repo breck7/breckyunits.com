@@ -1,0 +1,70 @@
+date 2021-05-12
+tags All IntellectualFreedom
+title The Intellectual Freedom Amendment
+
+import header.scroll
+printTitle
+
+mediumColumns 1
+
+Are you anti-copyright and anti-patent? Then this post is for you.
+ dateline
+
+(If you are new to this issues, you might be more interested in my other posts on Intellectual Freedom)
+ link freedom.html Intellectual Freedom
+
+***
+
+# To Whom it May Concern
+
+To the lovers of open source, Linux, Sci-Hub, the Internet Archive, OG Napster; to the followers of Aaron Swartz, Alexandra Elbakian and Stephan Kinsella; to all of you that truly love ideas and believe every human should get their own copy of humanity's most intelligent information; I present the idea for a new political strategy.
+ https://en.wikipedia.org/wiki/Sci-Hub Sci-Hub
+ https://archive.org/ the Internet Archive
+ http://aaronsw.com/ Aaron Swartz
+ https://en.wikipedia.org/wiki/Napster Napster
+ https://www.kernel.org/ Linux
+ https://x.com/ringo_ring Alexandra Elbakian
+ https://www.stephankinsella.com/ Stephan Kinsella
+
+***
+
+# A Proposal
+
+I suggest we rally around a simple long-term vision of passing a new Intellectual Freedom Amendment to the U.S. Constitution.
+ https://github.com/JesseKPhillips/USA-Constitution/blob/master/Constitution.md U.S. Constitution
+
+The below proposal is 187 characters.
+
+quote
+ Section 1. Article I, Section 8, Clause 8 of this Constitution is hereby repealed.
+ Section 2. Congress shall make no law granting monopolies on the publication or implementation of ideas.
+
+I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
+
+****
+
+# Notes
+
+I am not 100% certain that if we abolished copyright and patent systems the world would be a better place.
+
+It would be intellectually dishonest of me to say that.
+
+But I am highly confident it would be a huge improvement based on empirical evidence and theoretical math.
+ link eta.html theoretical math
+ https://cds.cern.ch/record/1164399/ empirical evidence
+
+It would take a lot of thought to do it right, but I know we could pull the transition off without as much disruption as people fear.
+
+The bigger problem is this debate is not being had.
+
+The problem is our side needs a better starting position.
+
+When the debate is on details like what is the ideal length of monopolies, or when illogical terms like "Intellectual Property" are used, you've already conceded too much, and are fighting for local maxima.
+
+A stronger and more logical place to have the debate is upstream of that: debate whether we should have these systems at all.
+
+I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
+
+_The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
+
+import footer.scroll
