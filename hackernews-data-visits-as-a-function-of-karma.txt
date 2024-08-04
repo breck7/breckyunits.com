@@ -16,15 +16,15 @@ Here's how it looks if you plot visits by karma score:
 
 The Pearson Correlation is high: 0.894. Here's the raw data:
 
-Karma Visits Page
-53 3389 /twelve_tips_to_master_programming_faster
-54 2075 /code/use_rsync_to_deploy_your_website
-54 1688 /unfeatures
-34 1588 /flee_the_bubble
-25 1462 /make_something_40_of_your_customers_must_have
-14 1056 /when_forced_to_wait_wait
-4 214 /diversification_in_startups
-1 146 /seo_made_easy_lumps
-1 36 /dont_flip_the_bozo_bit
+Karma,Visits,Page
+53,3389,/twelve_tips_to_master_programming_faster
+54,2075,/code/use_rsync_to_deploy_your_website
+54,1688,/unfeatures
+34,1588,/flee_the_bubble
+25,1462,/make_something_40_of_your_customers_must_have
+14,1056,/when_forced_to_wait_wait
+4,214,/diversification_in_startups
+1,146,/seo_made_easy_lumps
+1,36,/dont_flip_the_bozo_bit
 
 ****

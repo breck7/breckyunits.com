@@ -6,7 +6,7 @@ title Building a TreeBase with 6.5 million files
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
  dateline
@@ -84,12 +84,15 @@ One file, the 500MB `title.basics.tsv`, contained basic data for all the movie a
 
 Here's what that file looks like with `head -5 title.basics.tsv`:
 
-pipeTable
- tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
- tt0000001|short|Carmencita|Carmencita|0|1894|\N|1|Documentary,Short
- tt0000002|short|Le clown et ses chiens|Le clown et ses chiens|0|1892|\N|5|Animation,Short
- tt0000003|short|Pauvre Pierrot|Pauvre Pierrot|0|1892|\N|4|Animation,Comedy,Romance
- tt0000004|short|Un bon bock|Un bon bock|0|1892|\N|\N|Animation,Short
+table
+ printTable
+ delimiter |
+ data
+  tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
+  tt0000001|short|Carmencita|Carmencita|0|1894|\N|1|Documentary,Short
+  tt0000002|short|Le clown et ses chiens|Le clown et ses chiens|0|1892|\N|5|Animation,Short
+  tt0000003|short|Pauvre Pierrot|Pauvre Pierrot|0|1892|\N|4|Animation,Comedy,Romance
+  tt0000004|short|Un bon bock|Un bon bock|0|1892|\N|\N|Animation,Short
 
 This looks like a good candidate for TreeBase. With this TSV I can create a file for each movie. I don't need the other 6 files for this experiment, though if this was a real project I'd like to merge in that data as well (in that case I'd probably create a second TreeBase for the `names` in the IMDB dataset).
 
@@ -384,25 +387,28 @@ treeCode
 
 The results for 6k are below.
 
-commaTable
- category,description,result
- bash,ls,instant
- sublime,Start sublime in the TreeBase folder,instant
- sublime,scroll and click around files in the treebase folder and see how responsive it feels.,nearInstant
- sublime,find all movies with the query "titleType movie",neaerInstant
- sublime,find all comedy movies with the regex query "genres ._Comedy._",nearInstant
- finder,open and browse,instant
- git,init git for the treebase,instant
- git,see git status,instant
- git,first git add for the treebase,aFewSeconds
- git,first git commit,instant
- sublime,edit some file,instant
- git,git status when there is a change,instant
- git,add the change above,instant
- git,commit the change,instant
- github,push the treebase to github,~10 seconds
- treebase,how long will it take to start treebase,instant
- treebase,how long will it take to scan the base for errors.,nearInstant
+table
+ delimiter ,
+ printTable
+ data
+  category,description,result
+  bash,ls,instant
+  sublime,Start sublime in the TreeBase folder,instant
+  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,nearInstant
+  sublime,find all movies with the query "titleType movie",neaerInstant
+  sublime,find all comedy movies with the regex query "genres ._Comedy._",nearInstant
+  finder,open and browse,instant
+  git,init git for the treebase,instant
+  git,see git status,instant
+  git,first git add for the treebase,aFewSeconds
+  git,first git commit,instant
+  sublime,edit some file,instant
+  git,git status when there is a change,instant
+  git,add the change above,instant
+  git,commit the change,instant
+  github,push the treebase to github,~10 seconds
+  treebase,how long will it take to start treebase,instant
+  treebase,how long will it take to scan the base for errors.,nearInstant
 
 So 6k worked without a hitch. Not surprising as this is in the ballpark of where I normally operate with TreeBases.
 
@@ -416,25 +422,28 @@ The build script for the 60k TreeBase took 30 seconds or so, as expected. I can 
 
 I now repeat the tasks from above to see how things are holding up.
 
-commaTable
- category,description,result
- bash,ls,aFewSeconds
- sublime,Start sublime in the TreeBase folder,aFewSeconds with Beachball
- sublime,scroll and click around files in the treebase folder and see how responsive it feels.,instant
- sublime,find all movies with the query "titleType movie",~20 seconds with beachball
- sublime,find all comedy movies with the regex query "genres ._Comedy._",~20 seconds with beachball
- git,init git for the treebase,instant
- finder,open and browse,6 seconds
- git,see git status,nearInstant
- git,first git add for the treebase,1 minute
- git,first git commit,10 seconds
- sublime,edit some file,instant
- git,git status when there is a change,instant
- git,add the change above,instant
- git,commit the change,instant
- github,push the treebase to github,~10 seconds
- treebase,how long will it take to start treebase,~10 seconds
- treebase,how long will it take to scan the base for errors.,~5 seconds
+table
+ delimiter ,
+ printTable
+ data
+  category,description,result
+  bash,ls,aFewSeconds
+  sublime,Start sublime in the TreeBase folder,aFewSeconds with Beachball
+  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,instant
+  sublime,find all movies with the query "titleType movie",~20 seconds with beachball
+  sublime,find all comedy movies with the regex query "genres ._Comedy._",~20 seconds with beachball
+  git,init git for the treebase,instant
+  finder,open and browse,6 seconds
+  git,see git status,nearInstant
+  git,first git add for the treebase,1 minute
+  git,first git commit,10 seconds
+  sublime,edit some file,instant
+  git,git status when there is a change,instant
+  git,add the change above,instant
+  git,commit the change,instant
+  github,push the treebase to github,~10 seconds
+  treebase,how long will it take to start treebase,~10 seconds
+  treebase,how long will it take to scan the base for errors.,~5 seconds
 
 Uh oh. Already I am noticing some scaling delays with a few of these tasks.
 
@@ -483,25 +492,28 @@ Rerunning the script...it worked! That line seemed to be the only problematic li
 
 We now have our 600k TreeBase.
 
-commaTable
- category,description,result
- bash,ls,~30 seconds
- sublime,Start sublime in the TreeBase folder,failed
- sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
- sublime,find all movies with the query "titleType movie",X
- sublime,find all comedy movies with the regex query "genres ._Comedy._",X
- finder,open and browse,3 minutes
- git,init git for the treebase,nearInstant
- git,see git status,6s
- git,first git add for the treebase,40 minutes
- git,first git commit,10 minutes
- sublime,edit some file,X
- git,git status when there is a change,instant
- git,add the change above,instant
- git,commit the change,instant
- github,push the treebase to github,~10 seconds
- treebase,how long will it take to start treebase,~10 seconds
- treebase,how long will it take to scan the base for errors.,~5 seconds
+table
+ delimiter ,
+ printTable
+ data
+  category,description,result
+  bash,ls,~30 seconds
+  sublime,Start sublime in the TreeBase folder,failed
+  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
+  sublime,find all movies with the query "titleType movie",X
+  sublime,find all comedy movies with the regex query "genres ._Comedy._",X
+  finder,open and browse,3 minutes
+  git,init git for the treebase,nearInstant
+  git,see git status,6s
+  git,first git add for the treebase,40 minutes
+  git,first git commit,10 minutes
+  sublime,edit some file,X
+  git,git status when there is a change,instant
+  git,add the change above,instant
+  git,commit the change,instant
+  github,push the treebase to github,~10 seconds
+  treebase,how long will it take to start treebase,~10 seconds
+  treebase,how long will it take to scan the base for errors.,~5 seconds
 
 💣 `ls` is now nearly unusable. `ls -f -1 -U` takes about 30 seconds. A straight up `ls` takes about 45s.
 
@@ -609,24 +621,27 @@ Whenever running a long script, it's smart to test it with a smaller dataset fir
 
 It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.
 
-commaTable
- category,description,result
- bash,ls,X
- sublime,Start sublime in the TreeBase folder,X
- sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
- sublime,find all movies with the query "titleType movie",X
- sublime,find all comedy movies with the regex query "genres ._Comedy._",X
- finder,open and browse,X
- git,init git for the treebase,nearInstant
- git,first git add for the treebase,12 hours
- git,first git commit,5 hours
- sublime,edit some file,X
- git,git status when there is a change,X
- git,add the change above,X
- git,commit the change,X
- github,push the treebase to github,X
- treebase,how long will it take to start treebase,X
- treebase,how long will it take to scan the base for errors.,X
+table
+ delimiter ,
+ printTable
+ data
+  category,description,result
+  bash,ls,X
+  sublime,Start sublime in the TreeBase folder,X
+  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
+  sublime,find all movies with the query "titleType movie",X
+  sublime,find all comedy movies with the regex query "genres ._Comedy._",X
+  finder,open and browse,X
+  git,init git for the treebase,nearInstant
+  git,first git add for the treebase,12 hours
+  git,first git commit,5 hours
+  sublime,edit some file,X
+  git,git status when there is a change,X
+  git,add the change above,X
+  git,commit the change,X
+  github,push the treebase to github,X
+  treebase,how long will it take to start treebase,X
+  treebase,how long will it take to scan the base for errors.,X
 
 💣 There was a slight hiccup in my script where somehow v8 again ran out of memory. But only after creating 6,340,000 files, which is good enough for my purposes.
 

@@ -2833,13 +2833,16 @@
  
  wideColumns 1
  
- printTable
- Index	Name	Diameter	Height	Covered	5	10	15	20	25	30	35	40	45	50	55
- 1	Thermos	3	7.25	TRUE	149.9	147	144.6	141.2	138.2	137.1	134	132.8	131.1	129.3	127.2
- 2	Yeti Covered	4	3.8	TRUE	146.6	141	136.7	132.5	129	125.6	123.4	121.6	118.5	117.6	115.7
- 3	Yeti	4	3.8	FALSE	135.5	118.9	107.9	100.5	94.6	90.8	87.6	85.4	82.9	81.3	79.7
- 4	SF	4	4.5	FALSE	128.8	113.9	102.5	95.9	90.5	86.3	83.6	81.6	79.8	78.2	76.6
- 5	Aruba	3	3.75	FALSE	130.8	114.6	104.9	98.9	92.3	87.6	85.4	82.9	81.1	80.2	78
+ table
+  delimiter ,
+  printTable
+  data
+   Index,Name,Diameter,Height,Covered,5,10,15,20,25,30,35,40,45,50,55
+   1,Thermos,3,7.25,TRUE,149.9,147,144.6,141.2,138.2,137.1,134,132.8,131.1,129.3,127.2
+   2,Yeti Covered,4,3.8,TRUE,146.6,141,136.7,132.5,129,125.6,123.4,121.6,118.5,117.6,115.7
+   3,Yeti,4,3.8,FALSE,135.5,118.9,107.9,100.5,94.6,90.8,87.6,85.4,82.9,81.3,79.7
+   4,SF,4,4.5,FALSE,128.8,113.9,102.5,95.9,90.5,86.3,83.6,81.6,79.8,78.2,76.6
+   5,Aruba,3,3.75,FALSE,130.8,114.6,104.9,98.9,92.3,87.6,85.4,82.9,81.1,80.2,78
  
  // Note, for Thermos and Yeti they proably would have done better but I:
  // Thermos = I would remove the cover to measure the temp.
@@ -2991,15 +2994,18 @@
  
  ## Plates needed
  
- printTable
- Ingredients	The Constant	The Log	The Linear	The Log Linear	The Quad	The Expo	The Factory
- 1	1	1	1	1	1	2	1
- 2	1	1	2	2	4	4	2
- 3	1	2	3	5	9	8	6
- 4	1	2	4	8	16	16	24
- 5	1	3	5	12	25	32	120
- 6	1	3	6	16	36	64	720
- 7	1	3	7	20	49	128	5040
+ table
+  printTable
+  delimiter ,
+  data
+   Ingredients,The Constant,The Log,The Linear,The Log Linear,The Quad,The Expo,The Factory
+   1,1,1,1,1,1,2,1
+   2,1,1,2,2,4,4,2
+   3,1,2,3,5,9,8,6
+   4,1,2,4,8,16,16,24
+   5,1,3,5,12,25,32,120
+   6,1,3,6,16,36,64,720
+   7,1,3,7,20,49,128,5040
  
  # Related Posts
  printRelated Logeracy
@@ -5512,14 +5518,16 @@
  # Benchmarking shows closer to n² than n·log(n)
  Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
  
- printTable
- Rows	Time
- 1000	36000
- 2000	53000
- 10000	258000
- 20000	1236000
- 100000	23122000
- 200000	113886000
+ table
+  delimiter ,
+  data
+   Rows,Time
+   1000,36000
+   2000,53000
+   10000,258000
+   20000,1236000
+   100000,23122000
+   200000,113886000
  
  # Opening an issue
  After triple checking my logic, I created an issue on the Simple Statistics repo with my benchmark script.
@@ -5560,20 +5568,26 @@
  
  You can easily see the difference when you look at time needed per additional row as the number of rows increases:
  
- printTable
- Rows	LogLinear	Quadratic	Before	After
- 100000	16.60964	100000	231.22	1.25
- 200000	17.60964	200000	569.43	1.62
+ table
+  delimiter ,
+  printTable
+  data
+   Rows,LogLinear,Quadratic,Before,After
+   100000,16.60964,100000,231.22,1.25
+   200000,17.60964,200000,569.43,1.62
  
  expander Full Dataset
- printTable
- Rows	LogLinear	Quadratic	Before	After
- 1000	9966	1000000	36000	15000
- 2000	21932	4000000	53000	29000
- 10000	132877	100000000	258000	32000
- 20000	285754	400000000	1236000	52000
- 100000	1660964	10000000000	23122000	125000
- 200000	3521928	40000000000	113886000	324000
+ table
+  delimiter ,
+  printTable
+  data
+   Rows,LogLinear,Quadratic,Before,After
+   1000,9966,1000000,36000,15000
+   2000,21932,4000000,53000,29000
+   10000,132877,100000000,258000,32000
+   20000,285754,400000000,1236000,52000
+   100000,1660964,10000000000,23122000,125000
+   200000,3521928,40000000000,113886000,324000
  
  # Merged
  Very shortly after he submitted the fix, the creator of Simple Statistics reviewed and merged it in. We pulled the latest version and our maps were fast again. As a bonus, anyone else who uses the Simple Statistics ckmeans function now gets the faster version too.
@@ -8297,115 +8311,10 @@
  ---
  
  expander Dataset
- printTable
+ table keys.tsv
+  printTable
  
  import footer.scroll
- 
- symbol	year	count	source
- acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
- acommandIconSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
- acommandSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
- acommandSymbol	1980	104	https://en.wikipedia.org/wiki/Command_key
- aescSymbol	1974	100	https://en.wikipedia.org/wiki/Esc_key
- aenterSymbol	1971	99	https://en.wikipedia.org/wiki/Enter_key
- aaltSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
- aaltSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
- aBacktickSymbol	1970	98	https://en.wikipedia.org/wiki/Grave_accent#Use_in_programming
- aoptionSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
- aoptionSymbol	1970	98	https://en.wikipedia.org/wiki/Meta_key
- af10Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af11Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af12Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af1Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af2Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af3Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af4Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af5Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af6Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af7Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af8Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- af9Symbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- afnSymbol	1965	93	https://en.wikipedia.org/wiki/Function_key
- acontrolSymbol	1963	80	https://en.wikipedia.org/wiki/Control_key
- atabSymbol	1900	79	https://en.wikipedia.org/wiki/Tab_key
- aPowerSymbol	1884	78	https://en.wikipedia.org/wiki/Light_switch
- acapsLockSymbol	1878	77	https://en.wikipedia.org/wiki/Typewriter#Shift_key
- ashiftSymbol	1878	77	https://en.wikipedia.org/wiki/Shift_key
- ashiftSymbol	1878	77	https://en.wikipedia.org/wiki/Shift_key
- a_Symbol	1874	74	https://en.wikipedia.org/wiki/Underscore
- adeleteSymbol	1874	74	https://en.wikipedia.org/wiki/Backspace
- areturnSymbol	1874	74	https://en.wikipedia.org/wiki/Typewriter
- a#Symbol	1853	71	https://en.wikipedia.org/wiki/Number_sign
- aspacebarBlankSymbol	1843	70	https://en.wikipedia.org/wiki/Space_bar
- a|Symbol	1841	69	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- a$Symbol	1770	68	https://en.wikipedia.org/wiki/Dollar_sign
- adownSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
- aleftSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
- arightSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)a
- aupSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
- a/Symbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- aSlashSymbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- a^Symbol	1681	61	https://www.merriam-webster.com/dictionary/caret
- aSymbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- a=Symbol	1557	58	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- a(Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
- a)Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
- a'Symbol	1496	55	https://en.wikipedia.org/wiki/Apostrophe
- a;Symbol	1494	54	https://en.wikipedia.org/wiki/Semicolon
- a-Symbol	1489	53	https://en.wikipedia.org/wiki/Plus_and_minus_signs
- a!Symbol	1450	52	https://en.wikipedia.org/wiki/Exclamation_mark
- a%Symbol	1435	51	https://en.wikipedia.org/wiki/Percent_sign
- a"Symbol	1400	50	https://en.wikipedia.org/wiki/Quotation_mark
- a+Symbol	1360	49	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
- a@Symbol	1345	48	https://en.wikipedia.org/wiki/At_sign
- a[Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
- a]Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
- a{Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
- a}Symbol	1300	47	https://en.wikipedia.org/wiki/Bracket
- a,Symbol	1200	43	https://en.wikipedia.org/wiki/Comma
- a~Symbol	1086	42	https://en.wikipedia.org/wiki/Tilde
- a0Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a1Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a2Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a3Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a4Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a5Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a6Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a7Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a8Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a9Symbol	825	41	https://en.wikipedia.org/wiki/Arabic_numerals
- a?Symbol	800	31	https://en.wikipedia.org/wiki/Question_mark
- awSymbol	700	30	https://en.wikipedia.org/wiki/W
- aySymbol	100	29	https://www.daytranslations.com/blog/origin-english-alphabet/
- a*Symbol	0	28	https://en.wikipedia.org/wiki/Asterisk
- a&Symbol	0	28	https://en.wikipedia.org/wiki/Ampersand
- apSymbol	-200	26	https://www.daytranslations.com/blog/origin-english-alphabet/
- agSymbol	-230	25	https://en.wikipedia.org/wiki/G
- a:Symbol	-300	24	https://enz.wikipedia.org/wiki/Colon_(punctuation)
- a.Symbol	-300	24	https://en.wikipedia.org/wiki/Full_stop
- acSymbol	-300	24	https://en.wikipedia.org/wiki/C
- ajSymbol	-500	21	https://en.wikipedia.org/wiki/J
- arSymbol	-500	21	https://en.wikipedia.org/wiki/R
- atSymbol	-500	21	https://en.wikipedia.org/wiki/T
- axSymbol	-500	21	https://en.wikipedia.org/wiki/X
- aaSymbol	-1000	17	https://en.wikipedia.org/wiki/A
- afSymbol	-1000	17	https://en.wikipedia.org/wiki/F
- aiSymbol	-1000	17	https://www.daytranslations.com/blog/origin-english-alphabet/
- akSymbol	-1000	17	https://en.wikipedia.org/wiki/K
- alSymbol	-1000	17	https://en.wikipedia.org/wiki/L
- amSymbol	-1000	17	https://en.wikipedia.org/wiki/M
- auSymbol	-1000	17	https://www.daytranslations.com/blog/origin-english-alphabet/
- avSymbol	-1000	17	https://en.wikipedia.org/wiki/V
- azSymbol	-1000	17	https://en.wikipedia.org/wiki/Z
- abSymbol	-2000	8	https://en.wikipedia.org/wiki/B
- adSymbol	-2000	8	https://en.wikipedia.org/wiki/D
- aeSymbol	-2000	8	https://en.wikipedia.org/wiki/E
- ahSymbol	-2000	8	https://en.wikipedia.org/wiki/H
- anSymbol	-2000	8	https://en.wikipedia.org/wiki/N
- aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
- aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
- asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
- 
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
  tags All IntellectualFreedom
@@ -8511,7 +8420,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
   dateline
@@ -8589,12 +8498,15 @@
  
  Here's what that file looks like with `head -5 title.basics.tsv`:
  
- pipeTable
-  tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
-  tt0000001|short|Carmencita|Carmencita|0|1894|\N|1|Documentary,Short
-  tt0000002|short|Le clown et ses chiens|Le clown et ses chiens|0|1892|\N|5|Animation,Short
-  tt0000003|short|Pauvre Pierrot|Pauvre Pierrot|0|1892|\N|4|Animation,Comedy,Romance
-  tt0000004|short|Un bon bock|Un bon bock|0|1892|\N|\N|Animation,Short
+ table
+  printTable
+  delimiter |
+  data
+   tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
+   tt0000001|short|Carmencita|Carmencita|0|1894|\N|1|Documentary,Short
+   tt0000002|short|Le clown et ses chiens|Le clown et ses chiens|0|1892|\N|5|Animation,Short
+   tt0000003|short|Pauvre Pierrot|Pauvre Pierrot|0|1892|\N|4|Animation,Comedy,Romance
+   tt0000004|short|Un bon bock|Un bon bock|0|1892|\N|\N|Animation,Short
  
  This looks like a good candidate for TreeBase. With this TSV I can create a file for each movie. I don't need the other 6 files for this experiment, though if this was a real project I'd like to merge in that data as well (in that case I'd probably create a second TreeBase for the `names` in the IMDB dataset).
  
@@ -8889,25 +8801,28 @@
  
  The results for 6k are below.
  
- commaTable
-  category,description,result
-  bash,ls,instant
-  sublime,Start sublime in the TreeBase folder,instant
-  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,nearInstant
-  sublime,find all movies with the query "titleType movie",neaerInstant
-  sublime,find all comedy movies with the regex query "genres ._Comedy._",nearInstant
-  finder,open and browse,instant
-  git,init git for the treebase,instant
-  git,see git status,instant
-  git,first git add for the treebase,aFewSeconds
-  git,first git commit,instant
-  sublime,edit some file,instant
-  git,git status when there is a change,instant
-  git,add the change above,instant
-  git,commit the change,instant
-  github,push the treebase to github,~10 seconds
-  treebase,how long will it take to start treebase,instant
-  treebase,how long will it take to scan the base for errors.,nearInstant
+ table
+  delimiter ,
+  printTable
+  data
+   category,description,result
+   bash,ls,instant
+   sublime,Start sublime in the TreeBase folder,instant
+   sublime,scroll and click around files in the treebase folder and see how responsive it feels.,nearInstant
+   sublime,find all movies with the query "titleType movie",neaerInstant
+   sublime,find all comedy movies with the regex query "genres ._Comedy._",nearInstant
+   finder,open and browse,instant
+   git,init git for the treebase,instant
+   git,see git status,instant
+   git,first git add for the treebase,aFewSeconds
+   git,first git commit,instant
+   sublime,edit some file,instant
+   git,git status when there is a change,instant
+   git,add the change above,instant
+   git,commit the change,instant
+   github,push the treebase to github,~10 seconds
+   treebase,how long will it take to start treebase,instant
+   treebase,how long will it take to scan the base for errors.,nearInstant
  
  So 6k worked without a hitch. Not surprising as this is in the ballpark of where I normally operate with TreeBases.
  
@@ -8921,25 +8836,28 @@
  
  I now repeat the tasks from above to see how things are holding up.
  
- commaTable
-  category,description,result
-  bash,ls,aFewSeconds
-  sublime,Start sublime in the TreeBase folder,aFewSeconds with Beachball
-  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,instant
-  sublime,find all movies with the query "titleType movie",~20 seconds with beachball
-  sublime,find all comedy movies with the regex query "genres ._Comedy._",~20 seconds with beachball
-  git,init git for the treebase,instant
-  finder,open and browse,6 seconds
-  git,see git status,nearInstant
-  git,first git add for the treebase,1 minute
-  git,first git commit,10 seconds
-  sublime,edit some file,instant
-  git,git status when there is a change,instant
-  git,add the change above,instant
-  git,commit the change,instant
-  github,push the treebase to github,~10 seconds
-  treebase,how long will it take to start treebase,~10 seconds
-  treebase,how long will it take to scan the base for errors.,~5 seconds
+ table
+  delimiter ,
+  printTable
+  data
+   category,description,result
+   bash,ls,aFewSeconds
+   sublime,Start sublime in the TreeBase folder,aFewSeconds with Beachball
+   sublime,scroll and click around files in the treebase folder and see how responsive it feels.,instant
+   sublime,find all movies with the query "titleType movie",~20 seconds with beachball
+   sublime,find all comedy movies with the regex query "genres ._Comedy._",~20 seconds with beachball
+   git,init git for the treebase,instant
+   finder,open and browse,6 seconds
+   git,see git status,nearInstant
+   git,first git add for the treebase,1 minute
+   git,first git commit,10 seconds
+   sublime,edit some file,instant
+   git,git status when there is a change,instant
+   git,add the change above,instant
+   git,commit the change,instant
+   github,push the treebase to github,~10 seconds
+   treebase,how long will it take to start treebase,~10 seconds
+   treebase,how long will it take to scan the base for errors.,~5 seconds
  
  Uh oh. Already I am noticing some scaling delays with a few of these tasks.
  
@@ -8988,25 +8906,28 @@
  
  We now have our 600k TreeBase.
  
- commaTable
-  category,description,result
-  bash,ls,~30 seconds
-  sublime,Start sublime in the TreeBase folder,failed
-  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
-  sublime,find all movies with the query "titleType movie",X
-  sublime,find all comedy movies with the regex query "genres ._Comedy._",X
-  finder,open and browse,3 minutes
-  git,init git for the treebase,nearInstant
-  git,see git status,6s
-  git,first git add for the treebase,40 minutes
-  git,first git commit,10 minutes
-  sublime,edit some file,X
-  git,git status when there is a change,instant
-  git,add the change above,instant
-  git,commit the change,instant
-  github,push the treebase to github,~10 seconds
-  treebase,how long will it take to start treebase,~10 seconds
-  treebase,how long will it take to scan the base for errors.,~5 seconds
+ table
+  delimiter ,
+  printTable
+  data
+   category,description,result
+   bash,ls,~30 seconds
+   sublime,Start sublime in the TreeBase folder,failed
+   sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
+   sublime,find all movies with the query "titleType movie",X
+   sublime,find all comedy movies with the regex query "genres ._Comedy._",X
+   finder,open and browse,3 minutes
+   git,init git for the treebase,nearInstant
+   git,see git status,6s
+   git,first git add for the treebase,40 minutes
+   git,first git commit,10 minutes
+   sublime,edit some file,X
+   git,git status when there is a change,instant
+   git,add the change above,instant
+   git,commit the change,instant
+   github,push the treebase to github,~10 seconds
+   treebase,how long will it take to start treebase,~10 seconds
+   treebase,how long will it take to scan the base for errors.,~5 seconds
  
  💣 `ls` is now nearly unusable. `ls -f -1 -U` takes about 30 seconds. A straight up `ls` takes about 45s.
  
@@ -9114,24 +9035,27 @@
  
  It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.
  
- commaTable
-  category,description,result
-  bash,ls,X
-  sublime,Start sublime in the TreeBase folder,X
-  sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
-  sublime,find all movies with the query "titleType movie",X
-  sublime,find all comedy movies with the regex query "genres ._Comedy._",X
-  finder,open and browse,X
-  git,init git for the treebase,nearInstant
-  git,first git add for the treebase,12 hours
-  git,first git commit,5 hours
-  sublime,edit some file,X
-  git,git status when there is a change,X
-  git,add the change above,X
-  git,commit the change,X
-  github,push the treebase to github,X
-  treebase,how long will it take to start treebase,X
-  treebase,how long will it take to scan the base for errors.,X
+ table
+  delimiter ,
+  printTable
+  data
+   category,description,result
+   bash,ls,X
+   sublime,Start sublime in the TreeBase folder,X
+   sublime,scroll and click around files in the treebase folder and see how responsive it feels.,X
+   sublime,find all movies with the query "titleType movie",X
+   sublime,find all comedy movies with the regex query "genres ._Comedy._",X
+   finder,open and browse,X
+   git,init git for the treebase,nearInstant
+   git,first git add for the treebase,12 hours
+   git,first git commit,5 hours
+   sublime,edit some file,X
+   git,git status when there is a change,X
+   git,add the change above,X
+   git,commit the change,X
+   github,push the treebase to github,X
+   treebase,how long will it take to start treebase,X
+   treebase,how long will it take to scan the base for errors.,X
  
  💣 There was a slight hiccup in my script where somehow v8 again ran out of memory. But only after creating 6,340,000 files, which is good enough for my purposes.
  
@@ -9776,21 +9700,16 @@
  
  This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting--and a testament to practice!
  
- printTable
- Name	GitHubId	Hours	YearOfEstimate	BornIn
- Donald Knuth		56000	2013	1938
- Rob Pike	robpike	30000	2013	1956
- Peter Norvig	norvig	30000	2013	1956
- Stephen Wolfram		50000	2013	1959
- Lars Bak	larsbak	30000	2013	1965
-  https://en.wikipedia.org/wiki/Donald_Knuth Donald Knuth
-  https://en.wikipedia.org/wiki/Rob_Pike Rob Pike
-  https://en.wikipedia.org/wiki/Peter_Norvig Peter Norvig
-  https://en.wikipedia.org/wiki/Stephen_Wolfram Stephen Wolfram
-  https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer) Lars Bak
-  https://github.com/robpike robpike
-  https://github.com/norvig norvig
-  https://github.com/larsbak larsbak
+ table
+  printTable
+  delimiter ,
+  data
+   Name,GitHub,Hours,YearOfEstimate,BornIn,NameLink,GitHubLink
+   Donald Knuth,,56000,2013,1938,https://en.wikipedia.org/wiki/Donald_Knuth,
+   Rob Pike,robpike,30000,2013,1956,https://en.wikipedia.org/wiki/Rob_Pike,https://github.com/robpike
+   Peter Norvig,norvig,30000,2013,1956,https://en.wikipedia.org/wiki/Peter_Norvig,https://github.com/norvig
+   Stephen Wolfram,,50000,2013,1959,https://en.wikipedia.org/wiki/Stephen_Wolfram,
+   Lars Bak,larsbak,30000,2013,1965,https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer),https://github.com/larsbak
  
  image 30000.png
  
@@ -12800,7 +12719,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
   dateline
@@ -12816,14 +12735,17 @@
  
  My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
  
- spaceTable
-  Name Directories Files PHPFiles PHPLOC PHPClasses PHPFunctions
-  ../cake-1.2.6 296 677 428 165183 746 3675
-  ../wordpress-2.9.2 82 753 279 143907 149 3827
-  ../phpMyAdmin-3.3.1-english 63 810 398 175867 44 3635
-  ../CodeIgniter_1.7.2 44 321 136 43157 74 1211
-  ../Zend-1.10 360 2145 1692 336419 42 11123
-  ../symfony-1.4.3 770 2905 2091 298700 362 12198
+ table
+  printTable
+  delimiter |
+  data
+   Name|Directories|Files|PHPFiles|PHPLOC|PHPClasses|PHPFunctions
+   ../cake-1.2.6|296|677|428|165183|746|3675
+   ../wordpress-2.9.2|82|753|279|143907|149|3827
+   ../phpMyAdmin-3.3.1-english|63|810|398|175867|44|3635
+   ../CodeIgniter_1.7.2|44|321|136|43157|74|1211
+   ../Zend-1.10|360|2145|1692|336419|42|11123
+   ../symfony-1.4.3|770|2905|2091|298700|362|12198
  
  ****
  
@@ -12855,17 +12777,20 @@
  
  The Pearson Correlation is high: 0.894. Here's the raw data:
  
- spaceTable
-  Karma Visits Page
-  53 3389 /twelve_tips_to_master_programming_faster
-  54 2075 /code/use_rsync_to_deploy_your_website
-  54 1688 /unfeatures
-  34 1588 /flee_the_bubble
-  25 1462 /make_something_40_of_your_customers_must_have
-  14 1056 /when_forced_to_wait_wait
-  4 214 /diversification_in_startups
-  1 146 /seo_made_easy_lumps
-  1 36 /dont_flip_the_bozo_bit
+ table
+  printTable
+  delimiter ,
+  data
+   Karma,Visits,Page
+   53,3389,/twelve_tips_to_master_programming_faster
+   54,2075,/code/use_rsync_to_deploy_your_website
+   54,1688,/unfeatures
+   34,1588,/flee_the_bubble
+   25,1462,/make_something_40_of_your_customers_must_have
+   14,1056,/when_forced_to_wait_wait
+   4,214,/diversification_in_startups
+   1,146,/seo_made_easy_lumps
+   1,36,/dont_flip_the_bozo_bit
  
  ****
  
@@ -13340,14 +13265,17 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
   dateline
  
- spaceTable
-  Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
-  Bubble 3 0 Months 99% Good None-low
+ table
+  delimiter 
+  printTable
+  data
+   Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
+   Bubble 3 0 Months 99% Good None-low
  
  ? What is "the bubble"?
  
@@ -13527,7 +13455,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  It is better to set small, meaningful goals than to set wild, audacious goals.
   dateline
@@ -13562,11 +13490,14 @@
  # Setting Ranges
  Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
  
- spaceTable
-  LowBar HighBar What
-  2 7 new customers
-  2 4 product improvements
-  1 3 blog posts
+ table
+  printTable
+  delimiter ,
+  data
+   LowBar,HighBar,What
+   2,7,new customers
+   2,4,product improvements
+   1,3,blog posts
  
  If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
  
@@ -14872,10 +14803,13 @@
  According to the World Factbook:
   https://web.archive.org/web/20081120163150/https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
  
- commaTable
-  Median,Age
-  male,27.4 years
-  female,28.7 years (2008 est.)
+ table
+  printTable
+  delimiter ,
+  data
+   Median,Age
+   male,27.4 years
+   female,28.7 years (2008 est.)
  
  World’s per capita income: $10,000 (2007 est.)...Although this distribution is a lot different than the distribution of ages, so you can’t draw the same conclusions.
  

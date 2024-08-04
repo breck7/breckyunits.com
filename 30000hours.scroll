@@ -23,21 +23,16 @@ But five coders wrote back.
 
 This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting--and a testament to practice!
 
-printTable
-Name	GitHubId	Hours	YearOfEstimate	BornIn
-Donald Knuth		56000	2013	1938
-Rob Pike	robpike	30000	2013	1956
-Peter Norvig	norvig	30000	2013	1956
-Stephen Wolfram		50000	2013	1959
-Lars Bak	larsbak	30000	2013	1965
- https://en.wikipedia.org/wiki/Donald_Knuth Donald Knuth
- https://en.wikipedia.org/wiki/Rob_Pike Rob Pike
- https://en.wikipedia.org/wiki/Peter_Norvig Peter Norvig
- https://en.wikipedia.org/wiki/Stephen_Wolfram Stephen Wolfram
- https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer) Lars Bak
- https://github.com/robpike robpike
- https://github.com/norvig norvig
- https://github.com/larsbak larsbak
+table
+ printTable
+ delimiter ,
+ data
+  Name,GitHub,Hours,YearOfEstimate,BornIn,NameLink,GitHubLink
+  Donald Knuth,,56000,2013,1938,https://en.wikipedia.org/wiki/Donald_Knuth,
+  Rob Pike,robpike,30000,2013,1956,https://en.wikipedia.org/wiki/Rob_Pike,https://github.com/robpike
+  Peter Norvig,norvig,30000,2013,1956,https://en.wikipedia.org/wiki/Peter_Norvig,https://github.com/norvig
+  Stephen Wolfram,,50000,2013,1959,https://en.wikipedia.org/wiki/Stephen_Wolfram,
+  Lars Bak,larsbak,30000,2013,1965,https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer),https://github.com/larsbak
 
 image 30000.png
 

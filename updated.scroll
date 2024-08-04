@@ -1,0 +1,8 @@
+replace CAT_TITLE All
+
+import categoryPage.scroll
+
+// printSnippets All
+ sortBy commitTime
+
+import footer.scroll
