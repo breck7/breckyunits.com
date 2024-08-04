@@ -10,10 +10,12 @@ thinColumns 2
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
  dateline
 
-spaceTable
- Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
- Bubble 3 0 Months <$5,000 <1% -$10,000's High
- NonBubble 10 5-8 1-14Days $100,000's >99% Good None-low
+table
+ delimiter 
+ data
+  Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
+  Bubble 3 0 Months <$5,000 <1% -$10,000's High
+  NonBubble 10 5-8 1-14Days $100,000's >99% Good None-low
 
 ? What is "the bubble"?
 

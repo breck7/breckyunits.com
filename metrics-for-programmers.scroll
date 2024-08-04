@@ -21,14 +21,17 @@ I thought it would be neat to compute some stats for popular open source PHP app
 
 My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
 
-spaceTable
- Name Directories Files PHPFiles PHPLOC PHPClasses PHPFunctions
- ../cake-1.2.6 296 677 428 165183 746 3675
- ../wordpress-2.9.2 82 753 279 143907 149 3827
- ../phpMyAdmin-3.3.1-english 63 810 398 175867 44 3635
- ../CodeIgniter_1.7.2 44 321 136 43157 74 1211
- ../Zend-1.10 360 2145 1692 336419 42 11123
- ../symfony-1.4.3 770 2905 2091 298700 362 12198
+table
+ printTable
+ delimiter  
+ data
+  Name Directories Files PHPFiles PHPLOC PHPClasses PHPFunctions
+  ../cake-1.2.6 296 677 428 165183 746 3675
+  ../wordpress-2.9.2 82 753 279 143907 149 3827
+  ../phpMyAdmin-3.3.1-english 63 810 398 175867 44 3635
+  ../CodeIgniter_1.7.2 44 321 136 43157 74 1211
+  ../Zend-1.10 360 2145 1692 336419 42 11123
+  ../symfony-1.4.3 770 2905 2091 298700 362 12198
 
 ****
 

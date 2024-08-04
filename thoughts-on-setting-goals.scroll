@@ -40,11 +40,14 @@ Setting smaller goals is better because:
 # Setting Ranges
 Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
 
-spaceTable
- LowBar HighBar What
- 2 7 new customers
- 2 4 product improvements
- 1 3 blog posts
+table
+ printTable
+ delimiter  
+ data
+  LowBar HighBar What
+  2 7 new customers
+  2 4 product improvements
+  1 3 blog posts
 
 If you exceed your low bar, you can be happy. If you exceed your high bar, you can be very happy.
 

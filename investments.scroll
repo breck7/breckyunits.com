@@ -38,30 +38,7 @@ I am happy to receive cold pitches via plain text email.
 
 A sample of the companies I've invested in is listed below:
 
-printTable
-
-Name	NameLink
-Alba Orbital	https://www.albaorbital.com/
-Alltruists	https://www.instagram.com/alltruists/
-AngelList	https://www.angellist.com/
-Avion	https://www.avionschool.com/
-DreamWorld	https://www.playdreamworld.com/
-Elpha	https://elpha.com/
-Float	https://floatpay.com/
-Gerald	https://joingerald.com/
-H3X	https://www.h3x.tech/
-Jelly	https://jellypbc.com/
-Kilobaser	https://kilobaser.com/
-Levels	https://www.levelshealth.com/
-Localyze	https://www.localyze.com/
-Mercury	https://mercury.com/
-NearAI	http://near.ai/
-Numina	https://numina.co/
-Numind	https://www.numind.ai/
-Pear Suite	https://www.pearsuite.com/
-Serinus	https://www.serinus.bio/
-Span	https://www.span.io/
-Version Story	https://versionstory.com/
-Wefunder	https://wefunder.com/
+table investments.tsv
+ printTable
 
 import footer.scroll
