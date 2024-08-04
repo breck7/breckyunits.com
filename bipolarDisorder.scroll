@@ -19,7 +19,7 @@ image 7yearsSleepData.png
  caption The past 7 years of mood swings, revealed accurately by sleep data. That sleep line nosediving in 2022 was bad. Real bad. HTML Version.
   https://datawrapper.dwcdn.net/VP8AW/1/ HTML Version
 
-endSnippet
+***
 
 # My Bipolar History
 I will recap the long history of my bipolar disorder below. Though diagnosis happened at 20, I can remember hypomanic episodes at least as early as 12, when I remember extended periods of euphoria. But I will start at the diagnosis.
@@ -148,6 +148,7 @@ It gives me hope that there are so many smart, caring, hard working people tryin
 # Appendix: Table of start of elevated energy episodes
 table
  delimiter 
+ printTable
  data
   Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
   2024    ✅ No No

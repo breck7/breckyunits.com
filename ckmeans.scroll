@@ -102,6 +102,7 @@ You can easily see the difference when you look at time needed per additional ro
 
 table
  delimiter ,
+ printTable
  data
   Rows,LogLinear,Quadratic,Before,After
   100000,16.60964,100000,231.22,1.25
@@ -110,6 +111,7 @@ table
 expander Full Dataset
 table
  delimiter ,
+ printTable
  data
   Rows,LogLinear,Quadratic,Before,After
   1000,9966,1000000,36000,15000

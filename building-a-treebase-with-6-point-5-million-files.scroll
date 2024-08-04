@@ -6,7 +6,7 @@ title Building a TreeBase with 6.5 million files
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
  dateline
@@ -85,6 +85,7 @@ One file, the 500MB `title.basics.tsv`, contained basic data for all the movie a
 Here's what that file looks like with `head -5 title.basics.tsv`:
 
 table
+ printTable
  delimiter |
  data
   tconst|titleType|primaryTitle|originalTitle|isAdult|startYear|endYear|runtimeMinutes|genres
@@ -388,6 +389,7 @@ The results for 6k are below.
 
 table
  delimiter ,
+ printTable
  data
   category,description,result
   bash,ls,instant
@@ -422,6 +424,7 @@ I now repeat the tasks from above to see how things are holding up.
 
 table
  delimiter ,
+ printTable
  data
   category,description,result
   bash,ls,aFewSeconds
@@ -491,6 +494,7 @@ We now have our 600k TreeBase.
 
 table
  delimiter ,
+ printTable
  data
   category,description,result
   bash,ls,~30 seconds
@@ -619,6 +623,7 @@ It worked!!! I now have a TreeBase with over 6 million files in a single directo
 
 table
  delimiter ,
+ printTable
  data
   category,description,result
   bash,ls,X

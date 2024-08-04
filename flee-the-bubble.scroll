@@ -5,13 +5,14 @@ title Flee the Bubble
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
  dateline
 
 table
  delimiter 
+ printTable
  data
   Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll
   Bubble 3 0 Months <$5,000 <1% -$10,000's High
