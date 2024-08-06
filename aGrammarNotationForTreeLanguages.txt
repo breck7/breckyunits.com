@@ -1,5 +1,5 @@
-A New Language for Making Languages
-===================================
+Parsers: a language for making languages
+========================================
 
 by Breck Yunits
  https://breckyunits.com Breck Yunits

@@ -4,12 +4,12 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Tue, 06 Aug 2024 15:58:05 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 06 Aug 2024 21:29:35 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Part Assholes are Awesome</title>
   <link>https://breckyunits.com/assholes.html</link>
-  <pubDate>Tue, 06 Aug 2024 15:57:56 +0000</pubDate>
+  <pubDate>Tue, 06 Aug 2024 21:29:30 +0000</pubDate>
  </item>
  <item>
   <title>David's Last Letter</title>
@@ -552,7 +552,7 @@
   <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
  </item>
  <item>
-  <title>A New Language for Making Languages</title>
+  <title>Parsers: a language for making languages</title>
   <link>https://breckyunits.com/aGrammarNotationForTreeLanguages.html</link>
   <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
  </item>
