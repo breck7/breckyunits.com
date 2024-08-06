@@ -1,7 +1,7 @@
 date 9/10/2017
 tags All Scroll ScrollPapers
 
-title A New Language for Making Languages
+title Parsers: a language for making languages
 
 import header.scroll
 printTitle

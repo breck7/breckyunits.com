@@ -1,0 +1,5 @@
+replace CAT_TITLE Papers
+
+import categoryPage.scroll
+printSnippets ScrollPapers
+import footer.scroll
