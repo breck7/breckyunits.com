@@ -33,7 +33,9 @@ Our solar system lacks living things. Humans in space is possible but might be i
 
 All practical inventions have abundant models
 =============================================
-All practical inventions have abundant natural models. The sun is a model for nuclear power plants. Lightning for light bulbs. Branches for bridges. Birds for planes. Ears for recorders. Eyes for cameras. Fish for submarines. Ant hills for homes. Pools for ponds. Chloroplast for solar panels. DNA replication for downloading. Bacteria for CRISPR. Brains for artificial neural networks.
+All practical inventions have abundant natural models.
+
+The sun is a model for nuclear power plants. Lightning for light bulbs. Branches for bridges. Birds for planes. Ears for microphones. Eyes for cameras. Fish for submarines. Anthills for homes. Ponds for pools. Chloroplast for solar panels. DNA replication for downloads. Bacteria for CRISPR. Brains for AI.
 
 Once human inventions become abundant, they can serve as models for further practical inventions. Carriages for cars. Human computers for computing machines. Phonebooks for search engines. Facebooks for Facebook.
 
