@@ -10763,33 +10763,72 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Why does it take 10,000 hours to become a master of something, and not 1,000 hours or 100,000 hours?
   dateline
  
  The answer is simple. Once you've spent 10,000 hours practicing something, no one can crush you like a bug.
  
- endSnippet
+ image bug.png
+  width 400
+  caption The figure on top has 10,000 hours of experience and crushes people with 100 hours or 1,000 hours like a bug. But they cannot crush another person with 10,000 hours.
  
- Let me explain. First, the most important thing to keep in mind is that nature loves inequality. For example, humans and bugs are not even close to equal in size. Humans are 1,000x bigger than bugs. It is very easy for a human to squash a bug.
+ ***
  
- Now, when you are starting to learn something and have spent say, 100 hours practicing that thing, you, my friend, are the bug. There are many people out there who have been practicing that thing for 10,000 hours, and can easily crush you like a bug, if they are mean spirited like that.
+ # Nature loves inequality
  
- Once you've got 1,000 hours of practice under your belt, it becomes very hard for someone to crush you.
+ Nature loves inequality. For example, humans are 1,000x bigger than bugs.
  
- You reach 10,000 hours of practice, and you are now at a level where no one can possibly crush you like a bug. It is near impossible for a human to practice something for 100,000 hours. That would be 40 hours of practice per week for fifty years! Life is too chaotic, and our bodies are too fragile, to hit that level of practice. Thus, when you hit 10,000 hours, you're safe. You no longer have to wonder if there's someone out there who knows 10x more than you. You are now a master.
+ It is very easy for a human to squash a bug.
+ 
+ ***
+ 
+ # 100 Hours
+ 
+ When you are starting to learn something and have spent say, 100 hours practicing that thing, you, my friend, are the bug.
+ 
+ There are many people out there who have been practicing that thing for 10,000 hours, and can easily crush you like a bug (if they are mean spirited like that ;) ).
+ 
+ ***
+ 
+ # 1,000 Hours
+ 
+ Once you've got 1,000 hours of practice under your belt, it becomes hard for someone to easily crush you.
+ 
+ ***
+ 
+ # 10,000 Hours
+ 
+ You reach 10,000 hours of practice, and you are now at a level where no one can crush you like a bug.
+ 
+ You can put up a fight against anyone.
+ 
+ ***
+ 
+ # 100,000 Hours
+ 
+ It is near impossible for a human to practice something for 100,000 hours.
+ 
+ That would be 40 hours of practice per week for fifty years!
+ 
+ Life is too chaotic, and our bodies are too fragile, to hit that level of practice.
+ 
+ Thus, when you hit 10,000 hours, you're at "mastery level".
+ 
+ Almost no one one in the world will know 10x more than you.^goats
  
  quote
   Do you hear them talking of genius, Degna? There is no such thing. Genius, if you like to call it that, is the gift of work continuously applied. That's all it is, as I have proved for myself.
   @ Guglielmo Marconi
  
- image bug.png
- 
  ****
  
  # Related Posts
  printRelated MasterProgramming
+ 
+ # Notes
+ ^goats Perhaps to be one of the _greatest of all time_, you have to both be constantly practicing and have exceptional luck to live a healthy long live.
  
  import footer.scroll
  
