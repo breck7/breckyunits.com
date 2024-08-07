@@ -5,7 +5,7 @@ title NudgePad: An IDE in Your Browser
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 Making websites is slow and frustrating.
  dateline
