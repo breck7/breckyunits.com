@@ -4,6 +4,22 @@ heatrixAdvanced
  table
   
   h10;w40 '2007 '2008 '2009 '2010 '2011 '2012 '2013 '2014 '2015 '2016 '2017 '2018 '2019 '2020 '2021 '2022 '2023 '2024 
-  h40;w40; 4 11 23 37 3 14 12 0 0 0 5 1 2 11 15 10 12 56
+  h40;w40; 4 11 23 37 3 14 12 0 0 0 5 1 2 11 15 10 12 57
 </div>
 css .heatrixRow {white-space: unset;}
+
+edit heatmap
+ center
+ link https://try.scroll.pub/#
+  program
+   scroll
+    gazetteCss
+    # Press "Run Build" to load
+    fetch https://breckyunits.com/posts.csv
+    tableSearch
+    table posts.csv
+     groupBy year
+      impute year
+       transpose
+        heatrix
+       printTable
