@@ -1971,7 +1971,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/corporateEmail.scroll
  date 5/12/2024
- tags All Startups Society Programming
+ tags All Startups Society Programming NoNoReply
  title Corporate Email
  
  import header.scroll
@@ -2006,6 +2006,9 @@
   https://en.wikipedia.org/wiki/Isadore_Sharp Izzy Sharpe
  
  ****
+ 
+ # Related Posts
+ printRelated NoNoReply
  
  // Make email human again!
   Learn more: https://breckyunits.com/replies-always-welcome.html
@@ -5104,7 +5107,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
- tags All Programming
+ tags All Programming NoNoReply
  title Replies always welcome
  
  import header.scroll
@@ -5166,6 +5169,9 @@
  What do you think of this post? Email me at breck7@gmail.com.
  
  ****
+ 
+ # Related Posts
+ printRelated NoNoReply
  
  # Appendix 1: Reader Responses
  
