@@ -164,7 +164,7 @@ Conclusion
 ==========
 This post has so many questions, so few answers. It is one of those posts writing about things I don't understand much about yet. My brain pilots brain pilot is not yet very advanced.
 
-****
+⁂
 
 Related Posts
 =============
@@ -178,7 +178,7 @@ The Magnificent Multi-Agent Mind of Marvin Minsky
 05/09/2023
 https://breckyunits.com/marvin-minsky.html
 
-***
+*
 
 Notes
 =====

@@ -18,11 +18,11 @@ ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to tes
 
 Longer evolution times means worse ideas last longer before evolving into better ideas.
 
-***
+*
 
 \text{EvolutionTime}(\text{Ideas}) = \text{TimeToTest}(\text{Ideas'}) / \text{AssemblyPool}!
 
-***
+*
 
 You can lengthen the lifespan of bad ideas by increasing the time to test alterations or reducing the size of the Assembly Pool.
 
@@ -30,11 +30,11 @@ You can evolve good ideas faster by decreasing the time to test alterations and 
 
 The number of test threads is proportional to the size of the Assembly Pool.
 
-***
+*
 
 This equation explains the triumph of open source and public domain software.
 
-****
+⁂
 
 Notes
 =====

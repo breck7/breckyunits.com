@@ -10,7 +10,7 @@ In 2007 we came up with an idea for a scratch ticket that would give everyday Am
  Still makes me laugh.
   https://www.youtube.com/watch?v=SgG63QYZaE0 Still makes me laugh.
 
-***
+*
 
 Backstory
 =========
@@ -26,7 +26,7 @@ Unfortunately this was before YCombinator and Shark Tank, and instead I literall
 
 Needless to say I sucked at business and drove the startup into the ground.
 
-***
+*
 What I learned from our users
 =============================
 
@@ -40,7 +40,7 @@ My idea of teaching them something was stupid and not working.
 
 Could we come up with our own scratch ticket that was better than the competition?
 
-***
+*
 
 The idea (patent not yet pending ;) )
 =====================================
@@ -53,7 +53,7 @@ The idea (patent not yet pending ;) )
 
 I think it's still a great idea. I unfortunately was 23 and drove that business into the ground so someone else will have to do it.
 
-****
+⁂
 
 Notes
 =====

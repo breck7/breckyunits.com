@@ -6,7 +6,7 @@ February 22, 2021
 Today I'm launching the beta of something new called Scroll.
  https://github.com/publicdomaincompany/scroll Scroll
 
-***
+*
 
 I've been reading the newspaper everyday since I was a kid.
 
@@ -22,7 +22,7 @@ The feel of the pages.
 
 The ink that would be smeared on my forearms when I finished reading and stood back up straight.
 
-***
+*
 
 Scroll has none of that.
 
@@ -30,7 +30,7 @@ But it does at least have the same big single page layout.
 
 Scroll brings back _some_ of the magic of newspapers.
 
-***
+*
 
 In addition to the layout, Scroll has two important differences from existing static publishing software.
 
@@ -41,4 +41,4 @@ Second, Scroll is built on Scroll Notation. Unlike Markdown, Scroll is easily ex
 
 I've had fun building Scroll so far and am excited to start working on it with others.
 
-****
+⁂

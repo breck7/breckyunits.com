@@ -8,7 +8,7 @@ Are you anti-copyright and anti-patent? Then this post is for you.
 (If you are new to this issues, you might be more interested in my other posts on Intellectual Freedom)
  https://breckyunits.com/freedom.html Intellectual Freedom
 
-***
+*
 
 To Whom it May Concern
 ======================
@@ -22,7 +22,7 @@ To the lovers of open source, Linux, Sci-Hub, the Internet Archive, OG Napster; 
  https://x.com/ringo_ring Alexandra Elbakian
  https://www.stephankinsella.com/ Stephan Kinsella
 
-***
+*
 
 A Proposal
 ==========
@@ -37,7 +37,7 @@ Section 2. Congress shall make no law granting monopolies on the publication or 
 
 I have only passed a handful of Amendments to the U.S. Constitution in my lifetime 😉, so if you have suggestions to make that better, pull requests and discussions are welcome.
 
-****
+⁂
 
 Notes
 =====

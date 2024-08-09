@@ -21,7 +21,7 @@ Then you *must* become a criminal.
 
 You have no legal option^billion.
 
-***
+*
 
 This sounds ridiculous.
 
@@ -29,7 +29,7 @@ _Human made laws that work against humans?_
 
 But it is true.
 
-***
+*
 
 The problem is Copyright Law. Specifically, Digital Copyright.
 
@@ -39,7 +39,7 @@ Their AIs can legally train on this.
 
 Humans in America have to choose: use a criminal library, or fall behind AIs?
 
-***
+*
 
 A Proposed Fix
 ==============
@@ -49,7 +49,7 @@ Some smart people want to abolish copyright on digital publications.
 
 Among other benefits, this would ensure all Americans have the same freedom to learn as AIs.
 
-***
+*
 
 Does Digital Copyright matter?
 ==============================
@@ -60,7 +60,7 @@ Of course, we may not _need_ to update the law.
 - Digital copyright goes against the grain of nature so much, that it has long been ignored and worked around by smart and courageous citizens, who have built these "criminal" libraries.
 - AI generated content may become much better than the best human generated content. And then the entire concept of copyright will be irrelevant.
 
-***
+*
 
 _But you never know._
 
@@ -68,7 +68,7 @@ Now might be a good time to set into law equal educational rights between humans
 
 While the laws are still set by humans.
 
-****
+⁂
 
 Notes
 =====

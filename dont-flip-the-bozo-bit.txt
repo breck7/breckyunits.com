@@ -31,7 +31,7 @@ It seems like a simple evolutionary trick to save time. If someone is right only
 
 But this is a bad solution. The two presented above are better.
 
-****
+⁂
 
 Notes
 =====

@@ -14,7 +14,7 @@ Wetsuits: _hundreds of people_.
 
 Boardshorts: _one person_.
 
-***
+*
 
 "You're brave," another triathlete said.
 
@@ -24,7 +24,7 @@ I was not brave.
 
 I was dumb.
 
-***
+*
 
 I did not think this through.
 
@@ -32,11 +32,11 @@ If I had done any research, I would have learned that the lake was 50 degrees.
 
 If I had done any research, I would have learned that in 50 degree water, hypothermia sets in at 30 minutes.
 
-***
+*
 
 I had one minute to think of a model and make a plan before the starter's gun went off.
 
-***
+*
 
 _I've got it_, I thought.
 
@@ -50,7 +50,7 @@ _Swimming will make me hot._
 
 _Then swim the second half faster._
 
-***
+*
 
 _POWWW_.
 
@@ -58,7 +58,7 @@ The gun boomed and hundreds of wetsuits dove in the water.
 
 I dove in last, in my boardshorts, and started swimming slowly.
 
-***
+*
 
 I am typing this story eleven years later. In warm clothes.
 
@@ -68,7 +68,7 @@ As I learned that day, my model of the world was *bad*.
 
 Swimming generates heat, but in water that cold, you lose heat 10x faster than you make it.
 
-***
+*
 
 Back in Lake Berryessa, things were not going as planned.
  https://en.wikipedia.org/wiki/Lake_Berryessa Lake Berryessa
@@ -83,7 +83,7 @@ Knowing Tom was there to keep me from drowning, I flapped on.
 
 After half an hour, I made it back to shore.
 
-***
+*
 
 I had never been so cold.
 
@@ -97,7 +97,7 @@ And I had learned an important lesson.
 
 *Bad models of the world can be dangerous.*
 
-****
+⁂
 
 [Image Omitted]
  Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.

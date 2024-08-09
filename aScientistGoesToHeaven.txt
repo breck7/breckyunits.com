@@ -8,13 +8,13 @@ by Breck Yunits
 
 Newton, Darwin, and a modern Scientist go to heaven.
 
-***
+*
 
 God is standing at the gate.
 
 "Your research will determine whether you may enter heaven."
 
-***
+*
 
 Newton is up first.
 
@@ -24,7 +24,7 @@ God smiles reading Newton's description of gravity.
 
 God shakes his hand and opens the gate for him.
 
-***
+*
 
 Next up is Darwin.
 
@@ -34,7 +34,7 @@ God says "You nailed it!"
 
 He lets him in.
 
-***
+*
 
 Finally, the modern Scientist is up.
 
@@ -44,4 +44,4 @@ God asks to see his work.
 
 "It's paywalled."
 
-****
+⁂

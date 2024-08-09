@@ -10,4 +10,4 @@ You can also view it on GitHub: https://github.com/treenotation/ohayo
 
 I wanted to try and make a fast, visual app for doing data science. I can't quite recommend it yet, but I think it might get there. If you are interested you can try it now.
 
-****
+⁂

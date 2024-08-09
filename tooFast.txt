@@ -20,7 +20,7 @@ Instead I got the familiar cryptic error message:
 [Image Omitted]
  Screenshot of the error message I got.
 
-***
+*
 
 The HackerNews Guidelines
 =========================
@@ -32,7 +32,7 @@ The Guidelines may be the wisest words assembled on running a constructive onlin
 
 I like to reread them every few months.
 
-***
+*
 
 Nowhere in the guidelines does it say anything about "posting too fast".
 
@@ -42,7 +42,7 @@ What is the right speed?
 
 (I am genuinely curious.)
 
-***
+*
 
 Conflicting Advice
 ==================
@@ -57,7 +57,7 @@ For example, an essay on PaulGraham.com says:
 
 I would estimate YCombinator has published _thousands_ of posts and videos, explaining from _a hundred angles_, why you should move _faster_.
 
-***
+*
 
 Apparently they have also discovered there is a "too fast":
 
@@ -65,11 +65,11 @@ Apparently they have also discovered there is a "too fast":
 
 For that discovery they give 8 words.
 
-***
+*
 
 This is an interesting discovery! Tell us more!
 
-***
+*
 
 A Question for the HackerNews Mods
 ==================================
@@ -82,7 +82,7 @@ The strongest plausible interpretation of that error message is that you have fi
 
 Can you please share with us, your dedicated users^loyal, the answer to the question: _what is the right speed_?
 
-****
+⁂
 
 Notes
 =====

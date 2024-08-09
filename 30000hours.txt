@@ -54,7 +54,7 @@ One of my favorite responses was from Peter Norvig, who sent me a Python program
 
 Thank you everyone!
 
-****
+⁂
 
 Notes
 =====

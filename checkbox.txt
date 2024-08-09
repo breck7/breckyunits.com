@@ -15,7 +15,7 @@ CheckBox built on our new discovery at the time, which now goes by the name Scro
 
 We tried (and failed) to raise money to work on CheckBox full-time.
 
-***
+*
 
 We were quite poor at the time.
 
@@ -25,7 +25,7 @@ I often slept on a couch while hosting an AirBedAndBreakfast guest in my bed.
 
 I also had a roommate and we had one bed and one couch in the room, and when our room wasn't rented we alternated who got the bed.
 
-***
+*
 
 About six months after this hackathon, Microsoft acqui-hired our team for NudgePad, the other project we were working on.
  https://breckyunits.com/nudgepad-an-ide-in-your-browser.html NudgePad
@@ -34,7 +34,7 @@ This was great because I could now afford anything on the McDonalds menu.
 
 Unfortunately CheckBox fell by the wayside, until someone reminded me of it today.
 
-***
+*
 
 Below is our executive summary from our failed fundraising attempt in 2013.
 
@@ -46,7 +46,7 @@ The key idea is this: *the underlying languages can power 100% digital election,
 
 If you want to build the best voting system, I am highly confident this is the way.
 
-****
+⁂
 
 CheckBox Executive Summary
 ==========================

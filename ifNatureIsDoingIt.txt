@@ -5,7 +5,7 @@ January 4, 2024
 
 You can easily imagine inventions that humans have never built before. How does one filter which of these inventions are practical?
 
-***
+*
 
 If nature is doing it, it is possible.
 ======================================
@@ -18,7 +18,7 @@ Portals are non-existant. Teleporters are impractical.
 
 Your invention doesn't need to work exactly as nature's version but if there is not an abundant model in nature then it is probably impractical.
 
-***
+*
 
 Possible but not practical
 ==========================
@@ -29,7 +29,7 @@ Our solar system is filled with lifeless rocks. Satellites are practical.
 
 Our solar system lacks living things. Humans in space is possible but might be impractical.
 
-***
+*
 
 All practical inventions have abundant models
 =============================================
@@ -39,7 +39,7 @@ The sun is a model for nuclear power plants. Lightning for light bulbs. Branches
 
 Once human inventions become abundant, they can serve as models for further practical inventions. Carriages for cars. Human computers for computing machines. Phonebooks for search engines. Facebooks for Facebook.
 
-***
+*
 
 If nature is not doing it, be skeptical
 =======================================
@@ -50,4 +50,4 @@ If a model isn't out there yet in abundance, the invention is most likely imprac
 
 If nature is doing it, there has to be a practical way. If nature is not doing it, be skeptical.
 
-****
+⁂

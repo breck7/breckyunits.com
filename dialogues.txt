@@ -18,7 +18,7 @@ Here is the parser in the commit that added support for Dialogues:
 
 [Image Omitted]
 
-****
+⁂
 
 Links
 =====

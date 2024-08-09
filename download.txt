@@ -20,15 +20,15 @@ Instructions
 2. Unzip
 3. Open `index.html`
 
-***
+*
 
 Technical users can still clone and build the repo, but sometimes you just want the compiled HTML for offline reading.
  https://github.com/breck7/breckyunits.com repo
 
-***
+*
 
 Wouldn't it be great if more of *The Web* were like this?
 
 > *The Scroll* is coming ;)
 
-****
+⁂

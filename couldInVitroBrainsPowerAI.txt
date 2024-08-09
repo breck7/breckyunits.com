@@ -7,7 +7,7 @@ January 1, 2024
 
 Short of an extraterrestrial projectile hitting earth, Artificial Neural Networks (ANNs) seem to be on an unstoppable trajectory toward becoming a generally intelligent species of their own, without being dependent on humans. But that's because the world's most powerful entities, foremost being the United States Military (USM), are allowing them to grow.
 
-***
+*
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
 
@@ -23,7 +23,7 @@ So there is a very simple kill switch to prevent some emergent rogue superintell
 
 So AGI is easily stoppable, if you are a superpower. If you are just Joe Schmoe like me or even top 50 country, but just not quite top 10, you have effectively no say in the matter.
 
-***
+*
 
 Alternative to GPUs?
 ====================
@@ -37,7 +37,7 @@ But part of me wonders if instead what happens is we develop all the components 
 We know it must be possible to run computations like in an ANN very power efficiently, using self reproducing organic materials, because we see nature do it. Just as scientists measured the amount of energy coming from the sun and deduced there must be a much more powerful way to create energy than chemical reactions, so we know there must be a better way to build these chips.
  https://breckyunits.com/ifNatureIsDoingIt.html we see nature do it
 
-***
+*
 
 The technologies you would need to build this seem to almost be all available^note.
 
@@ -48,7 +48,7 @@ Neural tissue might as well just be meat if you can't interface with it. Enter N
 
 Without the ability to train this tissue, it again would just be meat. That's where our current ANNs come in. I imagine if you had to "teach" a giant blob of brain tissue using electrodes by hand, you would quickly get bored and go mad. But we now have ANNs that can do the most boring of tasks over and over without ever getting bored or angry. These ANNs could use Reinforcement Learning to train these neural blobs. In addition to controlling the electrodes, the ANN would control the environment of the neural tissue, perhaps altering the neurotransmitter balance or ambient electromagnetic frequencies to help steer learning and optimize learning rates.
 
-***
+*
 
 I have no expert insight or opinions on these matters. I have just been thinking a lot about what the future looks like given the recent breakthroughs in AI. Thinking about whether AI is inevitable led me to think of how that might require biobots so AI would have a less fragile "food supply" than the fabs. Then it clicked to me that Neuralink's real business might not have much to do with the stated goal of communicating with brains in vivo, but instead with a new kind of lab grown brain in vitro, to maybe serve as a replacement for GPUs. Most of their technology, such as their surgical robot, would be relevant for building an AI backed by organic in vitro brains. Just as SpaceX has the stated mission of sending humans to Mars, but really the big economic model so far has been creating their own global Internet.
 
@@ -56,7 +56,7 @@ In following this thought I wondered for the first time of how you would train a
 
 I have no conclusions yet. If I tried to reach conclusions on these ideas before publishing it would be years.
 
-****
+⁂
 
 ^note: It does seem like a ground breaking proof of concept could happen within a decade. If that were to happen maybe something like this could be viable within another decade. So perhaps the earliest something like this might happen would be 15 - 20 years. It doesn't seem like it would be 50 years out, as by then it seems AGI would have happened using traditional chips, or that world powers would have hit the kill switch.
 

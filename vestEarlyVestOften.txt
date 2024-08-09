@@ -10,7 +10,7 @@ I lived in San Francisco and Seattle in the 2000's and 2010's, and if I told you
 
 But I declined them all for the same reason: the 1 year vesting cliff.
 
-***
+*
 
 What's a cliff?
 ===============
@@ -19,7 +19,7 @@ If a startup gives you 1% of the company in the form of stock options, the stand
 
 If you have to leave or they fire you after 11 months you own zero.
 
-***
+*
 
 Cliffs are a bad deal for everyone and should be eliminated.
 
@@ -27,7 +27,7 @@ It sucks for the employees. It's so much more *fun* to do your best work immedia
 
 It sucks for the startups. They miss out on bringing in outlier talent who may stay for a decade, but only want to _guarantee_ a few months.
 
-***
+*
 
 Back in 2008-2018, I was young and 1 year seemed like an eternity-what if I wanted to travel in 10 months, or someone close to me got sick, or I had my own startup idea?
 
@@ -35,13 +35,13 @@ I also didn't want to have any incentive to sit on my best work until my shares 
 
 Historically I knew I would make the most impact at a startup in months 3 - 12, so why should I be rewarded less than the person who does just enough to last until month 12?
 
-***
+*
 
 Now that I'm an angel investor and not subject to cliffs, I can say with much higher certainty: cliffs are dumb and should be eliminated.
 
 Four year vesting schedules are fine, but employees should vest daily, starting on day 1.
 
-***
+*
 
 But what if we hire someone and they don't last even 1 month?
 =============================================================
@@ -59,12 +59,12 @@ But what about all the paperwork, accounting, and legal trouble of daily vesting
 =================================================================================
 It is basic arithmetic. The software to implement this is dead simple. And I've now seen it done with one of the startups I invested in (and it works _great_).
 
-***
+*
 
 That's all I have to say about cliffs. Now, I've got to get back to building my own projects.
 
 But if your startups wants to hire me and pay me in options, I am available. (For a month or two ;) )
 
-****
+⁂
 
 [Image Omitted]

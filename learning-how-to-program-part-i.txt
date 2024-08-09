@@ -20,7 +20,7 @@ So after brashly deciding C++ was outdated, I opted instead to fiddle with Ruby.
 
 –Breck
 
-****
+⁂
 
 Note: I imported this post from my original Wordpress blog.
  https://breckyunits.com/some-old-blogs.html original Wordpress blog

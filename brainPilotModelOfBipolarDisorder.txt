@@ -84,4 +84,4 @@ Unanswered Questions
 - Are brain pilots really a thing? Will Minsky's model conceptual model be proven true by a factual one? It seems like if so, Jeff Hawkins and his team at Numenta are a team that might prove that.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
 
-****
+⁂

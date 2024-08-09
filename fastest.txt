@@ -12,7 +12,7 @@ The girl lost the race.
 
 "No. I want to be the _fastest_."
 
-***
+*
 
 "I solved it! If I eat less, I'll weigh less and go faster."
 
@@ -24,7 +24,7 @@ The girl lost the race.
 
 "Ok", said the man, "but the moving trucks are coming. Time to pack."
 
-***
+*
 
 In the new town, the girl skipped dinner.
 
@@ -36,7 +36,7 @@ The man smiled.
 
 She won race after race, in the new town.
 
-***
+*
 
 At regionals, the girl stayed at the dorm with the other runners.
 
@@ -46,7 +46,7 @@ At regionals, the girl stayed at the dorm with the other runners.
 
 The girl lost the race.
 
-***
+*
 
 "I solved it! I need to eat the _right_ things."
 
@@ -56,7 +56,7 @@ The girl kept notes on her meals and race times.
 
 The next year, the girl won regionals.
 
-***
+*
 
 At college, the girl tried the relay.
 
@@ -64,7 +64,7 @@ She was the fastest on the team.
 
 Her team lost.
 
-***
+*
 
 "I solved it! If I share my notes, everyone will run faster."
 
@@ -72,19 +72,19 @@ The man smiled.
 
 Her team won.
 
-***
+*
 
 The man got sick.
 
 "I'm proud of you", he said.
 
-***
+*
 
 After college, the girl turned pro.
 
 She followed her notes, but still lost.
 
-***
+*
 
 A shoe company sponsored her.
 
@@ -94,7 +94,7 @@ A shoe company sponsored her.
 
 The doctor winked.
 
-***
+*
 
 The girl won the race.
 
@@ -104,7 +104,7 @@ And the next.
 
 She was the fastest in the world.
 
-***
+*
 
 "How did you do it?"
 
@@ -118,4 +118,4 @@ She finally moved her throat.
 
 "The shoes", she said, with tears in her eyes.
 
-****
+⁂

@@ -15,7 +15,7 @@ If you believe we live in a Power Law World, then it follows that there is nothi
 
 HITs dominate both our professional and personal lives. Let's take a closer look.
 
-***
+*
 
 How rare are HITs?
 ==================
@@ -24,7 +24,7 @@ I've filled many notebooks over the years with _potential HITs_.
 
 Looking at my notebooks, I would say I generate between 2 and 10 HIT candidates per day.
 
-***
+*
 
 What is the difference in magnitude between the lowest impact thought and the highest?
 ======================================================================================
@@ -44,7 +44,7 @@ Since we live for less than one million hours, then the smallest HITs on you per
 
 If you consider the impact your HITs can have on your family, friends, and communities, the impact range expands further.
 
-***
+*
 
 A Recursion: HITs about HITs
 ============================
@@ -59,7 +59,7 @@ If this essay you are reading now does not have a big impact, perhaps a future v
 I share the git for this blog, so if this essay does become a HIT we'd be able to see which tweaks caused that phase change.
  https://github.com/breck7/breckyunits.com git for this blog
 
-***
+*
 
 If *HITs!* have the highest expected value, why not spend all day seeking *HITs!*?
 
@@ -77,7 +77,7 @@ Fourth, there's a fair amount of randomness in HIT Seeking. With 100 billion hum
 
 Finally, one HIT is "don't take life too seriously—no one's ever gotten out alive." If you were to spend all your time *HIT!* Seeking, due to randomness, you might not ever discover the most impactful *HIT!*, which could be the one I just mentioned.
 
-***
+*
 
 HIT Seeking
 ===========
@@ -143,4 +143,4 @@ Orders of Magnitude
 12/07/2009
 https://breckyunits.com/orders-of-magnitude.html
 
-****
+⁂

@@ -17,7 +17,7 @@ If a bank wants to charge someone a fee, that's fine, just require they send tha
 
 What would happen to the statistic above, if instead of silently and automatically taking money from people's accounts, banks had to work for it?
 
-****
+⁂
 
 Sources
 =======

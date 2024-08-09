@@ -11,7 +11,7 @@ The answer is simple. Once you've spent 10,000 hours practicing something, no on
  width 400
  The figure on top has 10,000 hours of experience and crushes people with 100 hours or 1,000 hours like a bug. But they cannot crush another person with 10,000 hours.
 
-***
+*
 
 Nature loves inequality
 =======================
@@ -20,7 +20,7 @@ Nature loves inequality. For example, humans are 1,000x bigger than bugs.
 
 It is very easy for a human to squash a bug.
 
-***
+*
 
 100 Hours
 =========
@@ -29,14 +29,14 @@ When you are starting to learn something and have spent say, 100 hours practicin
 
 There are many people out there who have been practicing that thing for 10,000 hours, and can easily crush you like a bug (if they are mean spirited like that ;) ).
 
-***
+*
 
 1,000 Hours
 ===========
 
 Once you've got 1,000 hours of practice under your belt, it becomes hard for someone to easily crush you.
 
-***
+*
 
 10,000 Hours
 ============
@@ -45,7 +45,7 @@ You reach 10,000 hours of practice, and you are now at a level where no one can 
 
 You can put up a fight against anyone.
 
-***
+*
 
 100,000 Hours
 =============
@@ -63,7 +63,7 @@ Almost no one one in the world will know 10x more than you.^goats
 Do you hear them talking of genius, Degna? There is no such thing. Genius, if you like to call it that, is the gift of work continuously applied. That's all it is, as I have proved for myself.
 @ Guglielmo Marconi
 
-****
+⁂
 
 Related Posts
 =============

@@ -48,7 +48,7 @@ Second, learn to work well with designers. Don't treat design as secondary to en
 
 Great engineering can't compensate for poor design just as great design can't compensate for poor engineering. To create great products, you need both. Don't be lazy when it comes to design. It could be the make or break difference between your product's success or failure.
 
-****
+⁂
 
 Related Posts
 =============

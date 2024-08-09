@@ -11,13 +11,13 @@ Now that I am writing more about Bipolar Disorder, and even have a category page
 
 In short, I predict in the long run, as our understanding increases, the phrase "Bipolar Disorder" and its sub-phrases (Bipolar I, Bipolar II, Bipolar NOS, and Cyclothymia), will fall out of use and be replaced by a larger set of more specific terms clustered not by symptoms but by biological causes.
 
-***
+*
 
 This is not an uncommon opinion to have. Kay Jamison, in a 2012 talk said "It's a bit misleading to talk about bipolar disorder/manic depressive illness because we are really talking about twenty to twenty five different disorders that we don't know yet."
  https://en.wikipedia.org/wiki/Kay_Redfield_Jamison Kay Jamison
  https://youtu.be/8MOHA-_O4EI?t=3548 2012 talk
 
-***
+*
 
 What might these new terms look like? One interesting new term from Hannah Warren is "neurometabolic dysfunction". It is based on the hypothesis that for at least one subset of people currently given the label "bipolar disorder", it may be more accurate to label their condition as a metabolic problem.
  https://www.metabolicmind.org/blog/five-reasons-i-no-longer-label-myself-bipolar neurometabolic dysfunction
@@ -25,7 +25,7 @@ What might these new terms look like? One interesting new term from Hannah Warre
 
 Even neurometabolic dysfunction is still a fairly broad term, but it heads in the direction of finding terms labeling conditions by their root biological causes, rather than by their symptoms.
 
-***
+*
 
 What's wrong with naming conditions after their symptoms rather than their causes?
 
@@ -33,7 +33,7 @@ Imagine if instead of having more specific diagnoses like influenza, strep throa
 
 In a way this is kind of where we are at with the term "Bipolar Disorder".
 
-***
+*
 Terminology has always been evolving. The two major classification systems are the DSM and ICD. Newer ideas include RDoC and HiTOP.
  https://en.wikipedia.org/wiki/DSM-5 DSM
  https://en.wikipedia.org/wiki/ICD-10 ICD
@@ -45,7 +45,7 @@ Newer classification systems include RDoC (2010) and HiTOP (2015) have interesti
  An interesting visual of HiTOP, from Wikipedia.
   https://en.wikipedia.org/wiki/Hierarchical_Taxonomy_of_Psychopathology Wikipedia
 
-***
+*
 
 About that word _Disorder_
 ==========================
@@ -56,7 +56,7 @@ Perhaps there are natural energy cycles that serve a purpose that we just haven'
 Perhaps once we're finally able to fully understand the biology, it might not make any sense to call these patterns "Disorders", just as it would not make sense to diagnose lobsters with "Molting Disorders."
  https://breckyunits.com/doHumanBrainsMolt.html Molting Disorders
 
-***
+*
 
 Reification Fallacies
 =====================
@@ -69,7 +69,7 @@ There is a proverb "it is difficult to find a black cat in a dark room, especial
 
 Likewise, it may be difficult to find Bipolar Disorder, especially if there is no Bipolar Disorder (and there are instead dozens of different smaller patterns instead).
 
-***
+*
 
 Present Usefulness of the term
 ==============================
@@ -80,4 +80,4 @@ Despite all this, in the present moment, *it is a very useful term* for coordina
 I expect it will be many years, if not decades, before we have better terms, and so until then, I will keep tagging posts like this one with the term Bipolar Disorder.
  https://breckyunits.com/bipolar.html Bipolar Disorder
 
-****
+⁂

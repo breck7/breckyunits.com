@@ -145,7 +145,7 @@ While I don't know what the solution will be, I would not be surprised if the fo
 
 Have you invented a data checked language, or are working on one? If so, please get in touch.
 
-****
+⁂
 
 Related Posts
 =============

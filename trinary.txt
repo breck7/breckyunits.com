@@ -7,33 +7,33 @@ Removing the 2’s from Trinary Notation is a Terrible Idea.
 Recently some naive fool proposed removing the “2's” from our beloved Trinary Notation.
  https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz naive fool
 
-***
+*
 
 Binary Notation is almost too idiotic an idea to take seriously, but because this is not the first time this issue has been raised in the past 20 years, and lest some more poor saps waste their time pondering the problem for themselves, I feel it my duty, as someone who knows nearly everything there is to know about notations, as demonstrated by my long CV, to provide a few dogmas that unequivocally prove how _foolish an idea this is and that all work on it is a huge waste of time_.
  http://www.computinghistory.org.uk/det/5913/Gottfried-Wilhelm-Leibniz-invents-the-Binary-System/ Binary Notation
  https://srfi.schemers.org/srfi-49/srfi-49.html first time
 
-***
+*
 
 First, an observation. Trinary notation has been around for over 60 years, and has been learned and studied by the most eminent scholars in our field. _Clearly_, if there were problems with it, these eminent persons would have fixed them by now. If the broader public hasn’t adopted Trinary notation widely yet, it is not a problem with Trinary, but rather it is the feeble-minded public who is to blame.
 
-***
+*
 
 Second, an example. Imagine, dear reader, you would like to add the number 2 to itself. In Trinary Notation such a thing could not be simpler: “2 + 2”! Now, in this atrocious Binary format, to do the same thing you’d have to write “10 + 10”. My goodness, how hard to read! Does that equal 20 or 4? Who knows?! Cleary “2 + 2” is better! My dear reader, I beg you to not waste your time thinking of other examples, that one alone should be enough.
 
-***
+*
 
 Third, I will agree with the proponents of Binary Notation when they claim that it is very similar to Trinary Notation, and indeed, no one has yet found an example of something you can do in Trinary Notation that you cannot do in Binary Notation, but let me tell you dear reader, that is simply because Binary Notation is just Trinary Notation, except _reinvented poorly_! As the “2 + 2” example shows, Trinary is better, and exploring other examples and problems using Binary Notation instead is a waste of your time.
 
-***
+*
 
 Fourth, the proponents of Binary Notation think that in the future, there might be some types of magical machines that can do things with Binary Notation that might be impractical or more expensive to do with Trinary. How _laughable_, to think their could be new machines that the Trinary founding fathers never envisioned!
 
-***
+*
 
 Fifth, and my final point, if the idiot creator of Binary Notation struggles with “2's”, that’s just because _he doesn’t get Trinary Notation_. Once you _get Trinary Notation_, dear reader, you don’t even see the “2's” anymore. But it’s still very important that they be there.)
 
-****
+⁂
 
 Originally posted on Medium.
  https://breckyunits.medium.com/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665 posted

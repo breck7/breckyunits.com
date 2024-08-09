@@ -13,7 +13,7 @@ _I bet you could invent a better progress bar_, I thought.
 
 But life went on and I forgot.
 
-***
+*
 
 Yesterday my FitBit app showed an animated progress bar for hours. It turned out no progress was being made—the phone had no Internet connection.
 

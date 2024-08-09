@@ -7,7 +7,7 @@ September 10, 2017
 
 I introduce the core idea of a new language for making languages.
 
-***
+*
 
 Introduction
 ============
@@ -16,7 +16,7 @@ Creating a great programming language is a multi-step process. One step in that 
 
 Below I introduce the core idea of a much simpler parser notation for defining 2D Languages.
 
-***
+*
 
 Parsers: A language for building languages
 ==========================================
@@ -46,7 +46,7 @@ A valid program in the Tally microlang defined by the file above:
 + 4 5
  - 1 1
 
-***
+*
 
 Conclusion and Future Work
 ==========================
@@ -58,7 +58,7 @@ We have developed and open-sourced Parsers a compiler-compiler implementing thes
 
 Future publications and/or open source releases will delve into the additional features found in the compiler-compiler.
 
-****
+⁂
 
 Related Posts
 =============

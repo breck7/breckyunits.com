@@ -13,7 +13,7 @@ I pricked my finger and moved a disposable ketone measuring stick into the newly
 
 The meter showed "1.0 mmol/L". Success! I was still in ketosis.
 
-***
+*
 
 It was day 174 since, at wits' end, I started a therapeutic ketogenic diet as a treatment strategy for bipolar disorder.
 
@@ -22,7 +22,7 @@ Before hearing about keto for bipolar I had tried and failed nearly all of the m
 
 One, lithium, is often called the "gold standard" bipolar treatment.
 
-***
+*
 
 I tried lithium. Three times.
 
@@ -34,7 +34,7 @@ So, even if I took lithium correctly for 300 days, on day 301 parts of me would 
 
 And so, inevitably, at some point parts of me would find an excuse to stop. Then, within weeks, I would enter a state of hypomania or mania. As the lithium tapered out of my system, my brain energy would shoot forward way past the starting point. The lithium slingshot.
 
-***
+*
 
 I looked at the ketone meter again: 1.0 mmol/L.
 
@@ -59,7 +59,7 @@ But I had to know the answer. You could even say there was a chance my life depe
 
 So, I dove in. This is the story of coming up with an answer to the question: what are the odds that the therapeutic windows for 2 different chemicals would overlap?
 
-***
+*
 
 Lithium
 =======
@@ -85,7 +85,7 @@ Of course, there _are_ real safety concerns with lithium. At high enough concent
 
 To sum up, not even talking about side effects but for logistical reasons alone, taking lithium was annoying.
 
-***
+*
 
 Keto
 ====
@@ -110,7 +110,7 @@ Meanwhile, while we wait for the professional scientists to come to confident, b
 
 And so now I return to the one millimole question.
 
-***
+*
 
 What is a ketone?
 =================
@@ -156,7 +156,7 @@ For ketones to reach brain cells, they travel in the blood plasma from your live
  https://en.wikipedia.org/wiki/Citric_acid_cycle Krebs cycle
  https://en.wikipedia.org/wiki/Adenosine_triphosphate ATP
 
-***
+*
 
 Okay. So I can describe a ketone. What about a _millimole of ketones_?
 
@@ -197,7 +197,7 @@ Estimates vary on how many ketones my body would produce in a day while in ketos
 
 Alright, so now we have a better sense of what _a millimole of ketones_ is. Let's turn our attention to lithium.
 
-***
+*
 
 What is lithium?
 ================
@@ -255,13 +255,13 @@ I also want to note something interesting about lithium blood levels vs ketone l
 
 Lithium seems to move more slowly into cells compared to ketones. Perhaps the response time to ketones might be 2x-10x greater than to lithium. Again, this is probably the reason for the delayed lithium slingshot.
 
-***
+*
 
 Whew. That was a lot to learn.
 
 Now, armed with these basic model of ketones and lithium, I can start returning to the main question of this post.
 
-***
+*
 
 One millimole: what are the odds?
 =================================
@@ -274,7 +274,7 @@ The range for nutritional ketosis is usually given as between "0.5 and 3.0 mmol/
 
 Admittedly then my "one millimole" is a slight simplification, as the target therapeutic ranges are not identical, but there is overlap^range.
 
-***
+*
 
 We can measure a ton of chemicals in the body. Different chemicals have different effects in different concentrations. Should we be surprised at all that two different chemicals both seem to treat the same condition at similar concentrations?
 
@@ -286,7 +286,7 @@ If few chemicals had a therapeutic range around that region, then it would be mo
 
 To answer this question, we need to know how likely it is that 2 randomly selected blood chemicals would have overlapping therapeutic ranges.
 
-***
+*
 
 How many blood tests are there?
 ===============================
@@ -305,7 +305,7 @@ An example besides ketones and lithium is glucose. For glucose, the normal blood
   https://en.wikipedia.org/wiki/Glucose Glucose
   https://en.wikipedia.org/wiki/Carbohydrate carbohydrate
 
-***
+*
 
 My first day looking for a good dataset of chemicals found in human blood with reference ranges did not go well. I spent a couple of hours without success. So I started making my own.
 
@@ -325,7 +325,7 @@ Finally I had enough raw material to start building my first structured, clean, 
 
 So now I can finally answer: one millimole, what are the odds?
 
-***
+*
 
 My Answer (v1): 1 in 20
 =======================
@@ -354,11 +354,11 @@ _Especially_ because I got an answer that makes me look good. This is often a si
 
 I must walk around my work and do another inspection.
 
-***
+*
 
 The biggest flaw in my current research is that I haven't made an extra effort to include other chemicals taken by bipolars in my dataset. Let's do that now.
 
-***
+*
 
 I went back and added 8 drugs by hand to my dataset including the common bipolar medications Valproate, Lamictal, Zyprexa, and Abilify. Of the 8, only one has a bit of overlap: Valproate (~.2 - .5). Interestingly enough, the bipolar medication that usually ranks #2 (after lithium), is...Valproate!
 
@@ -368,7 +368,7 @@ I went back and added 8 drugs by hand to my dataset including the common bipolar
 
 So I expanded my dataset yet still found it unlikely that 2 random chemicals would have therapeutic level overlaps. At this point, I am confident concluding this leg of my research journey. With this additional data I would not change my initial bet. My answer is: *the slight overlap in the therapeutic blood level ranges of the 2 top bipolar drugs with the therapeutic level of ketones is a strong clue to some underlying biomechanisms*.
 
-***
+*
 
 My research won't stop here. But this blog post will.
 
@@ -382,7 +382,7 @@ I am looking forward to researching the next logical question: what might those 
 
 But for now, if you'll excuse me, I've got fats to eat, and fingers to prick.
 
-****
+⁂
 
 Notes
 =====

@@ -20,13 +20,13 @@ Coverage(P) is the sum of the XNOR of the Predictions vector with the Nature vec
 
 Intelligence(P) is equal to Coverage(P) divided by Size(P).
 
-***
+*
 
 If programs A and B are the same size, the program with more coverage is more intelligent.
 
 If they have the same coverage, the smaller program is more intelligent.
 
-****
+⁂
 
 Related Posts
 =============

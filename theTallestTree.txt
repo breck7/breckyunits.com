@@ -20,7 +20,7 @@ Gray Beard explained the tree.
 
 The boy turned around and walked out of the forest back to the city.
 
-***
+*
 
 In the city the boy met many people.
 
@@ -34,7 +34,7 @@ He got a job selling medicines.
 
 A few years later he had saved some money.
 
-***
+*
 
 He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
 
@@ -44,7 +44,7 @@ Gray Beard again explained the tree.
 
 "Ah! Now I understand," said the young man.
 
-***
+*
 
 Back in the city the young man began helping people with their projects.
 
@@ -52,7 +52,7 @@ He put his savings into some of his favorite projects.
 
 Years later, one project helped many people and he became rich.
 
-***
+*
 
 He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
 
@@ -62,7 +62,7 @@ Gray Beard again explained the tree.
 
 "Ah! Finally I understand," said the man.
 
-***
+*
 
 He left the forest and went back to the city.
 
@@ -70,7 +70,7 @@ In the city he took classes and went to parties and danced and fell in love.
 
 A few years later he looked down at a beautiful crying baby.
 
-***
+*
 
 He returned to the forest and found Gray Beard sitting in his carved out stump by the tall tree.
 
@@ -84,7 +84,7 @@ Nothing was said.
 
 He rubbed his own beard.
 
-***
+*
 
 He left the forest and went back to the city.
 
@@ -92,7 +92,7 @@ He left the forest and went back to the city.
 
 They packed their bags and buckled up their children and drove to the forest.
 
-***
+*
 
 Back in the forest he went to the tall tree.
 
@@ -104,7 +104,7 @@ Eventually he became tired.
 
 He sat down in the stump.
 
-***
+*
 
 The breeze blew on his face and the birds chirped and the leaves rustled.
 
@@ -114,4 +114,4 @@ Then he heard a child's voice.
 
 "Excuse me mister, why is that tree so tall?"
 
-****
+⁂

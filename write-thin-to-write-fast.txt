@@ -26,7 +26,7 @@ Beyond that my editor wraps lines.
 
 This simple mechanic has perhaps doubled my writing speed and quality.
 
-***
+*
 
 At my current font-size, my laptop screen could easily support 180 characters across.
 
@@ -34,7 +34,7 @@ But if my words spread across the full screen, I write slower and produce worse 
 
 Another way to frame this is that my writing got worse as my screens got wider and I only recently noticed the correlation.
 
-***
+*
 
 How does column width affect writing speed?
 ===========================================
@@ -93,7 +93,7 @@ My generation is the first to have access to big screens, and so in the past wri
 
 Jets are great, but beware jet lag when traveling. Big screens are great, but beware eye lag when writing. Try thin columns.
 
-****
+⁂
 
 [Image Omitted]
 

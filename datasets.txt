@@ -17,7 +17,7 @@ But, like happiness, heat is fleeting.
 
 _How can I keep the coffee hot?_
 
-***
+*
 
 I am using a free ceramic mug I got at a work conference.
 
@@ -29,7 +29,7 @@ _Expensive mugs hold heat better._
 
 It gets cold anyway.
 
-***
+*
 
 My hands can feel the heat rushing from the ceramic. It must be the material.
 
@@ -41,7 +41,7 @@ _A better material than ceramic is the most important thing for holding heat._
 
 It gets cold anyway.
 
-***
+*
 
 I combine my theories. I buy an expensive insulated metal mug.
 
@@ -49,7 +49,7 @@ It gets cold anyway.
 
 _Wrong again_.
 
-***
+*
 
 _Let me try a new approach._
 
@@ -63,7 +63,7 @@ I plot the data in a line chart.
 
 There are some differences, but they are minor.
 
-***
+*
 
 "What are you doing?" my cousin asks.
 
@@ -76,13 +76,13 @@ I repeat the experiment and add the new data to my dataset.
 [Image Omitted]
  The lab. I measured how long these 5 coffee mugs kept coffee hot.
 
-***
+*
 
 The coffee in my cousin's covered metal mugs stays hot.
 
 _Materials *and covers* are the key_.
 
-***
+*
 
 I still can't explain _why_.
 
@@ -94,7 +94,7 @@ But I have successfully discarded false models.
 
 And now I have a dataset to test all future models against.
 
-***
+*
 
 Takeaways
 =========
@@ -114,7 +114,7 @@ Takeaways
 - Tabular UIs have superior ergonomics for humans because they allow more efficient eye movement and require fewer tokens to manage.
 - All that being said, remember that datasets are shadows, *ultimately the models, not the datasets, are the important thing*!
 
-****
+⁂
 
 Footnotes
 =========

@@ -5,13 +5,13 @@ by Breck Yunits
  https://breckyunits.com Breck Yunits
 June 21, 2017
 
-***
+*
 
 This paper presents Tree Notation, a new simple, universal syntax. Language designers can invent new programming languages, called Tree Languages, on top of Tree Notation. Tree Languages have a number of advantages over traditional programming languages.
 
 We include a Visual Abstract to succinctly display the problem and discovery. Then we describe the problem--the BNF to abstract syntax tree (AST) parse step--and introduce the novel solution we discovered: a new family of 2D programming languages that are written directly as geometric trees.
 
-***
+*
 
 [Image Omitted]
  Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
@@ -137,7 +137,7 @@ Future publications might explore the Tree Notation Grammar, TLCC, or machine-wr
 [Image Omitted]
  Rearranging these fridge magnets is equivalent to editing a TN program. The fridge magnet set that includes parentheses is a poor seller.
 
-****
+⁂
 
 References
 ==========

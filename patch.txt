@@ -44,7 +44,7 @@ window.location.hash = new Patch(
 
 console.log(new Patch(window.location.hash).object)
 
-***
+*
 
 Specification
 =============
@@ -96,7 +96,7 @@ Scalar Types
 ============
 Patch treats all scalars as strings. Do a just-in-time parse of numbers, booleans, or JSON values if needed.
 
-***
+*
 
 Why Patch?
 ==========

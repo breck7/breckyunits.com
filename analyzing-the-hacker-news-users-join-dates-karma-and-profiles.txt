@@ -122,7 +122,7 @@ I didn’t realize xirium collected the profile pages on different days. Skews t
 
 [Missing chart] log(karma) by joined
 
-****
+⁂
 
 Note: I imported this post from my original Wordpress blog.
  https://breckyunits.com/some-old-blogs.html original Wordpress blog

@@ -8,7 +8,7 @@ by Breck Yunits
  https://breckyunits.com Breck Yunits
 December 20, 2017
 
-***
+*
 
 Introduction
 ============
@@ -22,14 +22,14 @@ This statement presents a hard problem. How do we know when we've made things as
 
 How do you count complexity?
 
-***
+*
 
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
 In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
  https://breckyunits.com/treenotationPaper.html Scroll Notation
 
-***
+*
 
 Overview
 ========
@@ -42,7 +42,7 @@ The method introduced here, named Scroll Notation Complexity (SNC), can be used 
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
 5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
 
-***
+*
 
 Simple Example #1
 =================
@@ -72,7 +72,7 @@ Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes f
 
 Hence, by this simple SNC measure we can say that a digit is more complex than a boolean.
 
-***
+*
 
 Simple Example #2
 =================
@@ -115,7 +115,7 @@ ProgramA requires fifteen nodes while programB requires three nodes.
 
 Hence, the programB is less complex by this measure, _given machineA and machineB_ (I will explain later what I mean by "given machineA and machineB").
 
-***
+*
 
 Atomic Components of Complexity
 ===============================
@@ -136,7 +136,7 @@ In SNC countable atomic units of complexity include:
 
 Other derived measures could be devised as well, but in this paper we look at only the atomic units fully necessary to describe an entity.
 
-***
+*
 
 Relative vs Total Complexity
 ============================
@@ -151,7 +151,7 @@ Another trivial example might be, given a computer that can execute both C code 
 
 But the Total Complexity of the Python program might be greater than that of the C program, when dependencies are measured.
 
-***
+*
 
 Why Scroll Notation?
 ====================
@@ -166,7 +166,7 @@ Macro objects, like the Linux Kernel, could also be described using just Scroll 
 
 Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
 
-***
+*
 
 Scroll Notation is minimal and unambiguous.
 
@@ -174,7 +174,7 @@ Descriptions written in Scroll Notation can expand gracefully to handle new idea
 
 Other descriptions become noisier or repetitive over time, whereas Scroll Notation is a noiseless encoding and the signal in the information remains strong over time.
 
-***
+*
 
 Scroll Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
 
@@ -182,13 +182,13 @@ SNC thus could enable cross-domain complexity comparisons.
 
 In a sense, Scroll Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
 
-***
+*
 
 Furthermore, items encoded in Scroll Notation can be thought of and visualized as existing in 3-Dimensions.
 
 This is far-off speculation, but perhaps there exists a correlation between the SNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
 
-***
+*
 
 Big Complexity
 ==============
@@ -209,7 +209,7 @@ For example, a back of the envelope estimate of how many nodes might be in the t
 
 One thing is certain: assuming Scroll Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
 
-***
+*
 
 Growth of Complexity
 ====================
@@ -220,7 +220,7 @@ However, new higher level trees are also constantly introduced, reducing Relativ
 
 Relative Complexity measurements of concepts ebbs and flows in sinusoidal waves, while the underlying absolute complexity steadily increases.
 
-***
+*
 
 Conclusion and Future Work
 ==========================
@@ -231,7 +231,7 @@ The benefit of this system is that it is simple, practical, universal, and scale
 
 Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
 
-****
+⁂
 
 Bibliography
 ============
@@ -239,7 +239,7 @@ Bibliography
 ^Mitchell: Mitchell, M., 2009. Complexity: A guided tour. Oxford University Press.
 ^Lloyd: Lloyd, Seth. "Measures of complexity: a nonexhaustive list." IEEE Control Systems Magazine 21.4 (2001): 7-8.
 
-***
+*
 
 Related Posts
 =============

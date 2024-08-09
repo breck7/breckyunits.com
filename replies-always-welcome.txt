@@ -6,19 +6,19 @@ The waitress puts her earmuffs on.
 
 She walks to the table, slams the food down, spins and runs away.
 
-***
+*
 
 Sounds like an annoying customer experience, right?
 
 No business would actually do this...right?
 
-***
+*
 
 Well, in the digital world companies do this all the time.
 
 They do it by blasting emails to their customers from `noreply@` email addresses.
 
-***
+*
 
 The Golden Rule of Email
 ========================
@@ -33,14 +33,14 @@ If you can't handle the replies, don't send the email!
 
 Let's make email human again!
 
-***
+*
 
 At the very least, have an AI inbox
 ===================================
 
 If your business doesn't have the staff to read and reply to emails, you can at least write automatic programs that can do _something_ for the customer.
 
-***
+*
 
 _*No*_ Exceptions
 =================
@@ -51,11 +51,11 @@ It is _never_ the right design decision. There is _always_ a better way.
 
 Do you think you have an exception? You are wrong! (But let me hear it in the comments)
 
-***
+*
 
 What do you think of this post? Email me at breck7@gmail.com.
 
-****
+⁂
 
 Related Posts
 =============
@@ -93,7 +93,7 @@ e-Books available from a monthly subscription are available on noreply@thewordbo
 =======================================================================================
 Replies could be `replyWithYourReview@thewordbooks.com`.
 
-****
+⁂
 
 Appendix 2: My one-man protest against no-reply email addresses
 ===============================================================

@@ -18,7 +18,7 @@ This has many advantages over existing binary storage formats.
 
 Using the method below, a very long scroll could be made containing all tabular scientific knowledge in a computable form.
 
-***
+*
 
 There are four concepts to understand:
 - measures
@@ -62,7 +62,7 @@ temperature 14
   - NASA
    https://earthobservatory.nasa.gov/world-of-change/global-temperatures
 
-***
+*
 
 The Complete Example
 ====================
@@ -75,13 +75,13 @@ temperature 14
  > The global mean surface air temperature for that period was 14°C (57°F), with an uncertainty of several tenths of a degree.
   - NASA
    https://earthobservatory.nasa.gov/world-of-change/global-temperatures
-***
+*
 
 Once your knowledge is stored in this format, it is ready to be read—_and written_—by humans, traditional software, and artificial neural networks, to power understanding and decision making.
 
 Edit history can be tracked by git.
 
-***
+*
 
 A Visualization
 ===============
@@ -90,7 +90,7 @@ A Visualization
  Blue dots are measure ids. The first blue dot is a measure definition (aka a parser). The red dot is a measurement value. The blue-red pair is a measurement, as well as a concept. The cyan dot is a comment. View Source
   https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment View Source
 
-***
+*
 
 Prior Art
 =========
@@ -99,7 +99,7 @@ Modern databases^sql were designed before git^git, fast filesystems^apple, and t
 GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
  https://www.gnu.org/software/recutils/ GNU Recutils^recutils deserves credit as the closest precursor to our system. If Recutils were to adopt some designs from our system it would be capable of supporting larger databases.
 
-***
+*
 
 Initial Implementation and Experimental Evidence
 ================================================
@@ -111,7 +111,7 @@ ScrollSets are used to power the open source website PLDB.io. PLDB currently has
 
 If printed on a single scroll, the PLDB ScrollSet would be over one kilometer long.
 
-***
+*
 
 Enhancements
 ============
@@ -124,7 +124,7 @@ Enhancements
 - Measures can be nested. This means it is best to be restrictive in what characters are allowed in measure ids to integrate with a broad set of software tools. For example, you can nest a `minParser` under `temperatureParser` to generate a `temperature_min` column name in a generated TSV.
 - It is useful to have measures whose values are foreign keys, such as a list of `ids`.
 
-***
+*
 
 Conclusion
 ==========
@@ -137,7 +137,7 @@ You can read more about ScrollSets on the Scroll blog, see small demos at sets.s
  https://sets.scroll.pub small demos at sets.scroll.pub
  https://pldb.io PLDB.io
 
-***
+*
 
 Citations
 =========
@@ -165,12 +165,12 @@ Citations
 ^prettier: Prettier: James Long et al
  https://archive.jlongster.com/ Prettier
 
-***
+*
 
 Thanks
 ======
 Thank you to everyone who helped me evolve this idea into its simplest form, including but not limited to, A, Alex, Andy, Ben, Brian, C, Culi, Dan, G, Greg, Jack, Jeff, John, L, Liam, Hari, Hassam, Jose, Matthieu, Ned, Nick, Nikolai, Pavel, Steph, Tom, Zach, Zohaib.
-****
+⁂
 
 Related Posts
 =============

@@ -15,7 +15,7 @@ Inside our brains competing agents jockey for control.
 
 How can the honest agents win?
 
-***
+*
 
 I like to think the majority of agents in my own brain steer me to behave honestly.
 
@@ -29,13 +29,13 @@ Dad to Kaia and Pemma.
 Became an extraordinarily honest man.
 Also for some reason founded FunnyTombstones.com
 
-***
+*
 
 How can I become more honest?
 =============================
 I am going to double down on something that has worked for me in my programming career: open source.
 
-***
+*
 
 Becoming a more honest programmer
 =================================
@@ -46,7 +46,7 @@ It's futile to lie about open source projects. There are too many intricate deta
 
 My software products are imperfect. They always seem much worse to me than I know they can be. But they are honest, and one can see I am hellbent on making them better.
 
-***
+*
 
 Closed sourced programs are like Instagram accounts
 ===================================================
@@ -56,17 +56,17 @@ The closed source software company is like the social media influencer who posts
 
 On social media this probably has minor consequences but in software eventually consumers are left increasingly paying the price for dishonest software. Technical debt accumulates in closed source projects and in the long run more honest approaches turn out to be better.
 
-***
+*
 
 Applying the same open source strategy to the rest of my life
 =============================================================
 Like my software projects, I don't have my life all figured out. I'm figuring it out and improving as I go. Stupidly, besides this blog I didn't do much in the way of open sourcing my life. I'm not talking about sharing glamour shots on Instaface. Instead I'm talking about *open sourcing the plumbing: financials, health, legal contracts*. The things people generally don't share, at least in my region of the world.
 
-***
+*
 
 Now, I would be lying if I said I got here by choice.
 
-***
+*
 
 A Curse and a Blessing
 ======================
@@ -81,7 +81,7 @@ Things that people don't publish are the things they lie about. If I want to for
 
 I have the opportunity to open source my life. Not for attention or because I think other people will care, but because it will help me be a more honest me. I won't have to waste a second thinking about what to reveal to someone, or deciding whether to be coy. I will make it futile to lie about anything.
 
-***
+*
 
 A Better Life
 =============
@@ -89,7 +89,7 @@ In addition to keeping me honest, I see a lot of ways how open sourcing my life 
 
 I have a lot of ideas. I want to open source my net worth, income and expenses, assets, health information, and a lot more. There's a lot of opportunity to also build new languages to do so. I'm excited for the future. Time to get to work.
 
-****
+⁂
 
 Notes
 =====

@@ -24,7 +24,7 @@ When you have an idea or receive a feature request, there's a physical, OCD-like
 This blog is powered by software with an (un)features list.
  https://github.com/breck7/brecksblog software
 
-****
+⁂
 
 Notes
 =====

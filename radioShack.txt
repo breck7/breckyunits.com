@@ -16,7 +16,7 @@ Notes
 - For ElectronicsManufacturing, I used the data from All Employees, Computer and Electronic Product Manufacturing, averaged by year
  https://fred.stlouisfed.org/graph/?g=1nSZt All Employees, Computer and Electronic Product Manufacturing
 
-****
+⁂
 
 Highlighted Reader Comments
 ===========================

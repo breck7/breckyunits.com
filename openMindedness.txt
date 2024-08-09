@@ -76,14 +76,14 @@ As I said in the beginning, these are mostly musings at the moment. I have many 
 - Would it be good practice to regularly (annually, perhaps) take such substances?
 - Are there patterns in what kinds of ideas people are open/closed minded about?
 
-****
+⁂
 
 Notes
 =====
 ^aside: Philosophically by some measures you could argue that having a mind is not clearly advantageous to _objects_ in general. For example, organisms with minds make up a small percentage of the biomass on earth. Or you could say that some rocks last billions of years, whereas minds are gone much faster than that.
  https://ourworldindata.org/life-on-earth a small percentage of the biomass on earth
 
-***
+*
 
 Open-Mindedness, Part II
 ========================
@@ -112,4 +112,4 @@ It could be out of respect for a social group and/or traditions, and one would r
 
 Or it could be simply a waiting strategy, where a mind is shut only to incrementally better ideas, and no new ideas are significant enough to be worth opening one's mind for.
 
-****
+⁂
