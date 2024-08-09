@@ -4,12 +4,12 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Thu, 08 Aug 2024 22:45:51 +0000</lastBuildDate>
+ <lastBuildDate>Fri, 09 Aug 2024 14:36:35 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Part Assholes are Awesome</title>
   <link>https://breckyunits.com/assholes.html</link>
-  <pubDate>Thu, 08 Aug 2024 22:45:46 +0000</pubDate>
+  <pubDate>Fri, 09 Aug 2024 14:36:30 +0000</pubDate>
  </item>
  <item>
   <title>David's Last Letter</title>
@@ -540,6 +540,11 @@
   <title>30,000 Hours</title>
   <link>https://breckyunits.com/30000hours.html</link>
   <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+ </item>
+ <item>
+  <title>Removing the 2’s from Trinary Notation is a Terrible Idea.</title>
+  <link>https://breckyunits.com/trinary.html</link>
+  <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
  </item>
  <item>
   <title>Going Manic with a FitBit</title>

@@ -358,6 +358,11 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
+Removing the 2’s from Trinary Notation is a Terrible Idea.
+==========================================================
+07/14/2019
+https://breckyunits.com/trinary.html
+
 Counting Complexity
 ===================
 12/20/2017

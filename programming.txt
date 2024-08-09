@@ -171,6 +171,11 @@ https://breckyunits.com/dreaming-of-a-data-checked-language.html
 07/18/2019
 https://breckyunits.com/30000hours.html
 
+Removing the 2’s from Trinary Notation is a Terrible Idea.
+==========================================================
+07/14/2019
+https://breckyunits.com/trinary.html
+
 Ohayo
 =====
 06/23/2017
