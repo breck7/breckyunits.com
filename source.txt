@@ -5907,10 +5907,9 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
- comment
-  This invention falls somewhere between trivial and mildly interesting.
+ // This invention falls somewhere between trivial and mildly interesting.
  
  Both HTML and Markdown mix content with markup:
   dateline
@@ -5930,8 +5929,6 @@
    A link in Aftertext looks like this.
    link hi.html this
  
- endSnippet
- 
  You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
   italics After your text
   italics selectors
@@ -5949,9 +5946,10 @@
   https://scroll.pub/ Scroll
   https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll here
  
- comment Why, oh God, why?
- comment
+ // Why, oh God, why?
   As a child I was bitten by a right parenthesis ), and ever since have had a strong aversion to closing brackets. Rather than talk to a therapist, I've tried to invent ways to eradicate closing brackets from the world.
+ 
+ ***
  
  ? Why did I make this?
  
@@ -5959,6 +5957,8 @@
   https://github.com/publicdomaincompany/scroll/blob/main/parsers/ parsers
  
  With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
+ 
+ ***
  
  ## Benefits of Keeping Text and Markup Separate
  
@@ -5971,6 +5971,8 @@
  Version control tools are often line oriented. When markup and content are on the same line it's not as easy to see which changes were content related and which were markup related. In Aftertext, each markup change corresponds to a single changed line. In the future, I could imagine using AI writing assistants to add more links and enhancements to my posts while keeping the history of content lines untouched.
  
  Finally, I should mention that it seems like keeping the written text and markup separate might make sense because it often matches the actual order in which writing text and marking up text happens. Writing is a human activity that goes back a thousand generations. Adding links is something only the current generations have done. A pattern I often find myself doing is: _write first; add links later_. Aftertext mirrors that behavior.
+ 
+ ***
  
  ## A Petri dish for new markup ideas
  
@@ -5987,8 +5989,9 @@
  Adding a new markup command is just a few lines of code.
   https://github.com/publicdomaincompany/scroll/blob/main/parsers/aftertext.parsers lines of code
  
- comment
-  *a few lines of code and some time fighting the JTree SDK, unless someone sometime makes a better Tree Notation SDK
+ // *a few lines of code and some time fighting the JTree SDK, unless someone sometime makes a better Tree Notation SDK
+ 
+ ***
  
  ? What are the downsides of Aftertext?
  
@@ -6001,9 +6004,13 @@
  
  Another problem of Aftertext is when markup is semantic and not just an augmentation. `*I* did not say that` is different from `I did not say *that*`. Without embedded markup in these situations meaning could be lost.
  
+ ***
+ 
  ? What are the problems with the initial implementation?
  
  My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in `aftertext` nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.
+ 
+ ***
  
  ? Is this a bad idea?
  
@@ -6011,14 +6018,17 @@
  
  The most likely reason why this is a bad idea is that it simply doesn't matter whether it's a good idea or not. You could argue that improvements to markup syntax are inconsequential. That even if it was a 2x better way to markup text for some use cases, AIs will change writing and code in so many bigger ways that's it not even worth thinking about clean source anymore. This could very well be true (luckily it didn't take many hours to build).
  
- comment
-  That the earth is headed to the sun and we are all destined for stardust anyway, so what is the point?
+ // That the earth is headed to the sun and we are all destined for stardust anyway, so what is the point?
  
  Or perhaps it is a bad idea because although it may be mildly useful _initially_, it is actually an anti-pattern and instead of scaling well, will lead to a Wild West of complex colliding markups. I generally don't have the mental capacity to think too many moves ahead. So I fallback to inching my way forward with code and relying on the feedback of others smarter than me to warn of unforeseen obstacles.
+ 
+ ***
  
  # Summary and Closing Thoughts
  
  Markups on text may increase monotonically. With current patterns that means source will get messier and more complex. Aftertext is an alternative way to markup text which can scale while keeping source clean. Aftertext might be a good backend format for WYSIWYG GUIs. Though most humans write in WYSIWYG GUIs, Aftertext is designed for the small subset who prefer formats that are also maintainable by hand.
+ 
+ ***
  
  # Related Work
  
@@ -6053,12 +6063,13 @@
  AtJSON is a similar project and has clear documentation. AtJSON has a useful collection of markups evolved to support a large corpus of documents at CondeNast. AtJSON uses character indexes for selectors so hand editing is not practical.
   https://github.com/CondeNast/atjson AtJSON
  
+ ***
+ 
  ? Why now?
  
  Issues with embedded markup and alternative solutions have been discussed for decades. I would say it's a safe bet to say embedded markup is superior since it so thoroughly dominates usage. Nevertheless, as I mentioned in my use case, there is a time and a place for alternatives. Aftertext would have been simple enough to understand decades ago and use with pen and paper. So why hasn't Aftertext's been tried before?
  
- comment
-  millennia ago, really, though markup langs not relevant until the computing age (maybe printing press age?)
+ // millennia ago, really, though markup langs not relevant until the computing age (maybe printing press age?)
  
  Verbosity is certainly a reason. Bytes, bandwidth, and keystrokes (pre-autocomplete) used to be more expensive, so Aftertext would have been inefficient. It probably was worthwhile to have a learning curve and force users to memorize cryptic acronyms. It paid off to minimize keystrokes.
  
@@ -6075,8 +6086,7 @@
  - Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
  - Another downside of the current implementation, pointed out by David Chisnall, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
  
- comment
-  In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
+ // In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
   Does it have to be insert only? I guess you could render those as hidden spans(Anything deleted is done with display:none;)?
  
  image aftertext.jpg
