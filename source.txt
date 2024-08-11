@@ -5907,6 +5907,8 @@
  import header.scroll
  printTitle
  
+ # An alternative to inline markup
+ 
  mediumColumns 1
  
  // This invention falls somewhere between trivial and mildly interesting.
@@ -5914,31 +5916,31 @@
  Both HTML and Markdown mix content with markup:
   dateline
  
- code
-  html
-   A link in HTML looks like &lt;a href="hi.html">this&lt;/a>
+ codeWithHeader HTML
+  A link in HTML looks like &lt;a href="hi.html">this&lt;/a>
  
- code
-  markdown
-   A link in Markdown looks like [this](hi.html).
+ codeWithHeader Markdown
+  A link in Markdown looks like [this](hi.html).
  
- I needed an alternative where _content is separate from markup_. I made an experimental minilang I'm calling _Aftertext_.
+ ***
  
- code
-  aftertext
-   A link in Aftertext looks like this.
-   link hi.html this
+ I needed an alternative where _content is separate from markup_.
  
- You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
-  italics After your text
-  italics selectors
- aboveAsCode
+ I made an experimental microlang I'm calling *Aftertext*.
  
- Here is a silly another example, with more markups.
+ codeWithHeader Aftertext
+  A link in Aftertext looks like this.
+   https://scroll.pub this
+ 
+ ***
+ 
+ You write some text. _After your text_, you add your markup instructions with _selectors_ to select the text to markup, one command per line.
+ 
+ Here is a silly another example, with a lot of aftertext.
   strike a silly
-  italics more
+  italics a lot
   bold with
-  underline markups
+  underline aftertext
   link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
  aboveAsCode
  
@@ -5953,7 +5955,7 @@
  
  ? Why did I make this?
  
- First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable parsers makes that true for all additions.
+ First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is a third way to markup text, there when you need it. The design of Scroll as a collection of composable parsers makes that true for all additions.
   https://github.com/publicdomaincompany/scroll/blob/main/parsers/ parsers
  
  With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.
@@ -5997,8 +5999,9 @@
  
  There are downsides in using Aftertext that you don't have with paired delimiter markups.
  
- There is the issue of breakages when editing Aftertext. The nice thing about *bold* is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
-  italics breakages
+ There is the issue of _breakages_ when editing Aftertext. The nice thing about `*bold*` is that if you change the text between the delimiters you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.
+  inlineMarkupsOn italics code
+   // turn bold wrap off
  
  A similar issue to the breakage problem is _verbosity_. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed.
  
@@ -6009,6 +6012,9 @@
  ? What are the problems with the initial implementation?
  
  My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in `aftertext` nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.
+ 
+ (Edit: these have been fixed.)
+  italics
  
  ***
  

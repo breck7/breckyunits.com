@@ -54,32 +54,31 @@
 <style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
 <div class="scrollSection"><h1 class="scrollTitle"><a href="aftertext.html">Aftertext</a></h1>
 </div>
+<div class="scrollSection"><h1 class="scrollParagraph">An alternative to inline markup</h1>
+</div>
 <div class="scrollColumns" style="column-width:65ch;column-count:1;max-width:65ch;">
 <p class="scrollParagraph"><span class="scrollDateline">December 15, 2021 — </span>Both HTML and Markdown mix content with markup:</p>
-<code class="scrollCodeBlock">html
- A link in HTML looks like &lt;a href="hi.html">this&lt;/a></code>
-<code class="scrollCodeBlock">markdown
- A link in Markdown looks like [this](hi.html).</code>
-<p class="scrollParagraph">I needed an alternative where <em>content is separate from markup</em>. I made an experimental minilang I'm calling <em>Aftertext</em>.</p>
-<code class="scrollCodeBlock">aftertext
- A link in Aftertext looks like this.
- link hi.html this</code>
-<p class="scrollParagraph">You write some text. <i>After your text</i>, you add your markup instructions with <i>selectors</i> to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:</p>
-<code class="scrollCodeBlock">You write some text. After your text, you add your markup instructions with selectors to select the text to markup, one command per line. For example, this paragraph is written in Aftertext and the source code looks like:
- italics After your text
- italics selectors</code>
-<p class="scrollParagraph"><a href="https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features">Here</a> is <s>a silly</s> another example, <b>with</b> <i>more</i> <u>markups</u>.</p>
-<code class="scrollCodeBlock">Here is a silly another example, with more markups.
+<div class="codeWithHeader"><div class="codeHeader">HTML</div><code class="scrollCodeBlock">A link in HTML looks like &lt;a href="hi.html">this&lt;/a></code></div>
+<div class="codeWithHeader"><div class="codeHeader">Markdown</div><code class="scrollCodeBlock">A link in Markdown looks like [this](hi.html).</code></div>
+<div class="dinkus"><span>*</span></div>
+<p class="scrollParagraph">I needed an alternative where <em>content is separate from markup</em>.</p>
+<p class="scrollParagraph">I made an experimental microlang I'm calling <strong>Aftertext</strong>.</p>
+<div class="codeWithHeader"><div class="codeHeader">Aftertext</div><code class="scrollCodeBlock">A link in Aftertext looks like this.
+ https://scroll.pub this</code></div>
+<div class="dinkus"><span>*</span></div>
+<p class="scrollParagraph">You write some text. <em>After your text</em>, you add your markup instructions with <em>selectors</em> to select the text to markup, one command per line.</p>
+<p class="scrollParagraph"><a href="https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features">Here</a> is <s>a silly</s> another example, <b>with</b> <i>a lot</i> of <u>aftertext</u>.</p>
+<code class="scrollCodeBlock">Here is a silly another example, with a lot of aftertext.
  strike a silly
- italics more
+ italics a lot
  bold with
- underline markups
+ underline aftertext
  link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here</code>
 <p class="scrollParagraph">The first implementation of Aftertext ships in the newest version of <a href="https://scroll.pub/">Scroll</a>. You can also play with it <a href="https://try.scroll.pub/#url%20https://raw.githubusercontent.com/breck7/breckyunits.com/main/aftertext.scroll">here</a>.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h4 class="scrollQuestion">Why did I make this?</h4>
 </div>
-<p class="scrollParagraph">First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is an independent addition. The design of Scroll as a collection of composable <a href="https://github.com/publicdomaincompany/scroll/blob/main/parsers/">parsers</a> makes that true for all additions.</p>
+<p class="scrollParagraph">First I should explicitly state that markup languages like HTML and Markdown with embedded markup are extremely popular and I will always support those as well. Aftertext is a third way to markup text, there when you need it. The design of Scroll as a collection of composable <a href="https://github.com/publicdomaincompany/scroll/blob/main/parsers/">parsers</a> makes that true for all additions.</p>
 <p class="scrollParagraph">With that disclaimer out of the way, I made Aftertext because I see two potential upsides of this kind of markup language. First is the orthogonality of text and markup for those that care about clean source. Second is a fun environment to evolve new markup tags.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h2 class="scrollParagraph">Benefits of Keeping Text and Markup Separate</h2>
@@ -101,13 +100,14 @@
 <div class="scrollSection"><h4 class="scrollQuestion">What are the downsides of Aftertext?</h4>
 </div>
 <p class="scrollParagraph">There are downsides in using Aftertext that you don't have with paired delimiter markups.</p>
-<p class="scrollParagraph">There is the issue of <i>breakages</i> when editing Aftertext. The nice thing about <strong>bold</strong> is that if you change the text between the tags you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.</p>
+<p class="scrollParagraph">There is the issue of <em>breakages</em> when editing Aftertext. The nice thing about <code>*bold*</code> is that if you change the text between the delimiters you don't break formatting. When editing Aftertext by hand when you change formatted text you break formatting and have to update those lines separately. I hit this a lot. Surprisingly it hasn't bothered me. Not yet, at least. I need to wait and see how it feels in a few months.</p>
 <p class="scrollParagraph">A similar issue to the breakage problem is <em>verbosity</em>. Embedded markup adds a constant number of bytes per tag but with Aftertext the bytes increase linearly with N, the size of the span you are marking up. Again, I haven't found this to be a problem yet. Perhaps the downside is outweighed by the helpful nudge toward brevity. Or maybe I just haven't used it enough yet to be annoyed.</p>
 <p class="scrollParagraph">Another problem of Aftertext is when markup is semantic and not just an augmentation. <code>*I* did not say that</code> is different from <code>I did not say *that*</code>. Without embedded markup in these situations meaning could be lost.</p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h4 class="scrollQuestion">What are the problems with the initial implementation?</h4>
 </div>
 <p class="scrollParagraph">My first implementation leaves a lot of decisions still to make. Right now Aftertext is only usable in <code>aftertext</code> nodes. That is a footgun. The current implementation uses exact match string selectors that only format the first hit. Another footgun. I've already hit both of those. And at least two or three more.</p>
+<p class="scrollParagraph"><i>(Edit: these have been fixed.)</i></p>
 <div class="dinkus"><span>*</span></div>
 <div class="scrollSection"><h4 class="scrollQuestion">Is this a bad idea?</h4>
 </div>
