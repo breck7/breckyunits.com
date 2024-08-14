@@ -1,5 +1,3 @@
-homeUrl ../index.html
-
 Chemical Blood Tests Dataset
 ============================
 
