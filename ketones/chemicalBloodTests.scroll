@@ -1,8 +1,12 @@
-// homeUrl ../index.html
 title Chemical Blood Tests Dataset
 buildConcepts chemicalBloodTests.tsv
 
-import ../header.scroll
+import ../settings.scroll
+metaTags
+import ../gazetteTag.scroll
+homeButton
+ link ../index.html
+viewSourceButton
 
 wideColumns 1
 

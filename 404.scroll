@@ -1,8 +1,13 @@
 buildHtml
 title Page not found
 
-import header.scroll
-// homeUrl /index.html
+import settings.scroll
+metaTags
+import gazetteTag.scroll
+homeButton
+ link /index.html
+viewSourceButton
+
 printTitle
 thinColumns 1
 
