@@ -3,7 +3,9 @@ title Breck's Code Blog
 import settings.scroll
 metaTags
 import ../gazetteTag.scroll
-pageHeader
+homeButton
+leftRightButtons
+viewSourceButton
 printTitle
 printSnippets index
 import footer.scroll
