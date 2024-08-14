@@ -7,7 +7,9 @@ title Breck's Blog - CAT_TITLE Posts
 import settings.scroll
 metaTags
 import gazetteTag.scroll
-pageHeader
+homeButton
+leftRightButtons
+viewSourceButton
 printTitle
 import categoryLinks.scroll
 

@@ -5,6 +5,8 @@ metaTags
 
 import gazetteTag.scroll
 
-pageHeader
+homeButton
+leftRightButtons
+viewSourceButton
 
 css img {border: 2px solid #e9e9e9; border-radius: 5px;}
