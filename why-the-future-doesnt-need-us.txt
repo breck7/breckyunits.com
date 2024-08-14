@@ -376,5 +376,3 @@ Stone describes the process: “He was not working from his drawings or clay mod
 ---
 
 _Bill Joy, cofounder and Chief Scientist of Sun Microsystems, was cochair of the presidential commission on the future of IT research, and is coauthor of The Java Language Specification. His work on the Jini pervasive computing technology was featured in Wired 6.08._
-
-viewSource
