@@ -17,7 +17,6 @@ https://breckyunits.com/parserStats.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
 https://breckyunits.com/life.html
-https://breckyunits.com/ketoneMap.html
 https://breckyunits.com/index.html
 https://breckyunits.com/heatmap.html
 https://breckyunits.com/gazetteTag.html
@@ -28,8 +27,9 @@ https://breckyunits.com/feed.html
 https://breckyunits.com/data.html
 https://breckyunits.com/csv.html
 https://breckyunits.com/bipolar.html
-https://breckyunits.com/assholes.html
 https://breckyunits.com/about.html
+https://breckyunits.com/ketoneMap.html
+https://breckyunits.com/assholes.html
 https://breckyunits.com/davidsLastLetter.html
 https://breckyunits.com/litigation.html
 https://breckyunits.com/eta.html
