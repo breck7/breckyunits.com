@@ -4,4 +4,4 @@ buildTxt
 
 keyboardNav
 
-pageFooter
+import pageFooter.scroll
