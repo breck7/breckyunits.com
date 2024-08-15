@@ -24,3 +24,5 @@ Words don't prove anything about you. How you spend your time proves everything.
 The only way to accurately describe yourself or your group is to look at how you've spent your time in the past. Anytime someone says something about what they will do or be like in the future, your response should be simple: prove it.
 
 ⁂
+
+Built with Scroll v120.2.0

@@ -127,3 +127,5 @@ Notes
 - To be precise the algo was `O(knlog(n))` time, where k is the number of groups. But I've simplified for this story as that detail is not important.
 - Wolfram Alpha fit of the quadratic runtime data
  https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D Wolfram Alpha fit of the quadratic runtime data
+
+Built with Scroll v120.2.0

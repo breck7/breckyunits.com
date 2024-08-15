@@ -9,3 +9,5 @@ windows/system32/drivers/etc/host
 Mac hosts file:
 
 /private/etc/hosts
+
+Built with Scroll v120.2.0

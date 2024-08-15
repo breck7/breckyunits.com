@@ -3,3 +3,5 @@ Wildcard Subdomains with GoDaddy
 April 24, 2011
 
 Just create a new A Record with * as the host and your IP in the points to field.
+
+Built with Scroll v120.2.0

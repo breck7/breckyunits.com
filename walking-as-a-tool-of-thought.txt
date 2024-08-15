@@ -62,3 +62,5 @@ Notes
 ^chatgpt: I did not use ChatGPT to write or edit this essay at all but afterwards I asked it for more "invisible" tools of thought, and this is the list it generated: Mindfulness/Meditation, Memory Techniques, Journaling, Emotional Intelligence, Critical Thinking, Reading, Empathy, Visualization, Music or Art Appreciation, Philosophical Inquiry. Listening to music and visiting museums are two really good ones I frequently use.
 
 ^superdimensional: Probably something super-dimensional such as "you just need a ladder".
+
+Built with Scroll v120.2.0

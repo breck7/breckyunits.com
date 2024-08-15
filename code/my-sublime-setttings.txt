@@ -9,3 +9,5 @@ I'm going to start sticking my Sublime Text settings and plugins here.
 This setting is new *devBuilds* in ST4 (Build 4130 released on March 23, 2022). Set it to true and any file that matches your `.gitignore` patterns will not show up in ST's autocomplete, navigation, et cetera. Found this one on StackOverflow.
  https://www.sublimetext.com/dev devBuilds
  https://stackoverflow.com/questions/18482976/tell-sublime-text-to-ignore-everything-in-gitignore StackOverflow
+
+Built with Scroll v120.2.0

@@ -15,3 +15,5 @@ Pushing to your server from your local machine
 The one annoying thing here is your push will be rejected if your are pushing the branch that is currently checked out on the server. You can quickly check out a temporary branch, push main, and then check main back out on the server.
 
 git push
+
+Built with Scroll v120.2.0

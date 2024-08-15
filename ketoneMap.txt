@@ -89,4 +89,6 @@ https://breckyunits.com/ketonesVsLithium.html
 
 Notes
 =====
-- I took all the photos above on Sunday.
+- I snapped these photos on Sunday.
+
+Built with Scroll v120.2.0

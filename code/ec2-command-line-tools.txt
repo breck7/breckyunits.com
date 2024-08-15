@@ -16,3 +16,5 @@ Step 4. set ec2 path in your .bash_profile:
 
 export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1
 export PATH=$PATH:$EC2_HOME/bin
+
+Built with Scroll v120.2.0

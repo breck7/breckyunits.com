@@ -3,3 +3,5 @@ Mac Terminal Cursor Trick
 July 3, 2011
 
 If you hold the "option" key while using the Mac terminal you can use your mouse and click on where you want the cursor to go. This comes in handy if you mistype a command and don't want to retype the whole thing. It also kind of negates the need for a "home" key on the terminal.
+
+Built with Scroll v120.2.0

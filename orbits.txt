@@ -20,3 +20,5 @@ Notes
 2. My roommate Andrew suggests the reason why we don't refer to a year as an orbit is perhaps because when we started calling things years, we didn't yet know that the earth revolved around the sun. Bad habits die hard.
 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
 4. We should also call days "revs". Okay I'm done.
+
+Built with Scroll v120.2.0

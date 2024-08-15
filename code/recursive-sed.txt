@@ -16,3 +16,5 @@ alias rsed="~/rsed"
 Now I can use it like so:
 
 rsed old new
+
+Built with Scroll v120.2.0

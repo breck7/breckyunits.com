@@ -42,3 +42,5 @@ Second, Scroll is built on Scroll Notation. Unlike Markdown, Scroll is easily ex
 I've had fun building Scroll so far and am excited to start working on it with others.
 
 ⁂
+
+Built with Scroll v120.2.0

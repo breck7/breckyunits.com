@@ -28,3 +28,5 @@ I'm more concerned about creating the best worst case scenario. I spend most of 
 Then, if you want to make yourself open to positive black swans, you can put 10% of your efforts into things that make you more open to those like: recruiting world class talent, pitching and raising money, tackling bigger markets. But make sure you focus on the conservative things. Risk, in moderation, is a good thing. Risk, in significant amounts, is for the foolish.
 
 ⁂
+
+Built with Scroll v120.2.0

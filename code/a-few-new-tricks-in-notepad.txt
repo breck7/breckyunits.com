@@ -14,3 +14,5 @@ Here are some things I'm using a lot more now in Notepad++:
 - Goto. Ctrl+G lets you jump to a line number quick. I've used this in the past but am using it more often now.
 - Column Editor. Pretty handy sometimes.
 - Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code.
+
+Built with Scroll v120.2.0

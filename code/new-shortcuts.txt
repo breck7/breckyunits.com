@@ -13,3 +13,5 @@ Mac:
 
 ctrl+a - home/start of line
 ctrl+e - end
+
+Built with Scroll v120.2.0

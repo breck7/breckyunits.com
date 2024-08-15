@@ -20,4 +20,4 @@ helpfulNotFound /sitemap.txt /code/sitemap.txt
 If you think there's a bug on my site, please email breck7@gmail.com or open an issue to let me know. Thank you!
  https://github.com/breck7/breckyunits.com/issues open an issue
 
-pageFooter
+import pageFooter.scroll

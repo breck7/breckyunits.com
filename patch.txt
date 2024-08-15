@@ -129,3 +129,5 @@ I made Patch in 2020 for Our World in Data.
  https://ourworldindata.org Our World in Data
 
 This is an updated fork.
+
+Built with Scroll v120.2.0

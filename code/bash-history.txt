@@ -8,3 +8,5 @@ Understanding and mastering bash history can:
 - 2. Allow you to easily create shell scripts for common tasks (such as setting up a server).
 
 Here's a terrific guide on using Bash History effectively.
+
+Built with Scroll v120.2.0

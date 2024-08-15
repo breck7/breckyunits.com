@@ -26,3 +26,5 @@ Credit
 Richard Brhel of placepeep shared this quote the other day on StartupSchool. He saw the quote on a poster years ago when he was helping a digitization effort in Ohio. I had never seen this exact quote before so wanted to transcribe it for the web.
  https://placepeep.com placepeep
  https://startupschool.org StartupSchool
+
+Built with Scroll v120.2.0

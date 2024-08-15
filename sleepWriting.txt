@@ -67,3 +67,5 @@ Grateful for FitBit
 I started wearing a Microsoft Band when it first came out in November 2014. Then a Band 2, then FitBit Charge, Ionic, Versa, and now Sense 2. I am grateful for all the people involved with creating these things. I think continued progress in the wearable sensor field is the best bet for improving human health.
 
 ⁂
+
+Built with Scroll v120.2.0

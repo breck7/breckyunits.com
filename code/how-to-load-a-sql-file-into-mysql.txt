@@ -7,3 +7,5 @@ It's very simple thanks to pipes.
 mysql -u username -p < sqlfile.sql
 
 Make sure your sql file has a "use database" line.
+
+Built with Scroll v120.2.0

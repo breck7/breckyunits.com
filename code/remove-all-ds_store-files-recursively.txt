@@ -3,3 +3,5 @@ Remove all DS_Store files recursively
 September 29, 2010
 
 find . -type f -name ".DS_Store" -exec rm {} \;
+
+Built with Scroll v120.2.0

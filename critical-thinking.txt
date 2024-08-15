@@ -10,3 +10,5 @@ If you're constantly using the critical thinking part of your mind, you're not u
 Come to conclusions and build good habits. Let your auto pilot take over. Then occasionally come back and revisit your conclusions.
 
 ⁂
+
+Built with Scroll v120.2.0

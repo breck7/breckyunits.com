@@ -85,3 +85,5 @@ Unanswered Questions
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ Jeff Hawkins
 
 ⁂
+
+Built with Scroll v120.2.0

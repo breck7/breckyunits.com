@@ -36,3 +36,5 @@ set timeoutlen=250  " Time to wait after ESC (default causes an annoying
 set ts=2  " Tabs are 2 spaces
 
 set laststatus=2  " Always show status line.
+
+Built with Scroll v120.2.0

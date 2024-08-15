@@ -11,3 +11,5 @@ alias eprof='vim ~/.bash_profile' # edit this file
 alias rprof='source ~/.bash_profile' # reload this file (after making edits)
 alias pconf='vim /etc/php.ini' # edit php.ini
 alias lsd="ls -l | egrep '^d'" # list only directories
+
+Built with Scroll v120.2.0

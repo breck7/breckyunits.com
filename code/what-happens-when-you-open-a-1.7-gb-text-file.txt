@@ -13,3 +13,5 @@ With Notepad++: "File is too big" error. Graceful FAIL.
 VIM in Cygwin: It appears frozen.
 
 I will continue this post at a later date.
+
+Built with Scroll v120.2.0

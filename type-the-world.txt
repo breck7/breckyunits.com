@@ -183,3 +183,5 @@ I see a global pattern here that I call the "Type the World" trend. Here are som
 The result of this will be a future where all business, from finance to shopping to healthcare to law, is conducted in a rich, open type system, and untyped language work is relegated to research, entertainment and leisure.
 
 While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
+
+Built with Scroll v120.2.0

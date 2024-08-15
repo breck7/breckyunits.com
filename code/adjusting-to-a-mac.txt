@@ -23,3 +23,5 @@ I've slowly gotten used to the keyboard. I tried spaces but have turned it back 
 All in all, I'm really enjoying the speed, instant on, the light weight of the computer, Ruby on a Mac (doing Rails dev on Windows is a pain), having a real terminal(cygwin is great, but native is better), and the fact that 50% of my CPU isn't dedicated to fighting viruses. I'm still developing slower on this machine but hoping that my speed will improve with time.
 
 I'd say the odds at this point are 60-40 in favor of me sticking with it this time.
+
+Built with Scroll v120.2.0

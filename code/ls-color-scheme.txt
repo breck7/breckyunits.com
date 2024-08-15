@@ -7,3 +7,5 @@ Found this helpful color scheme for ls. toss in your bash_profile.
 alias ls="ls --color=auto"
 LS_COLORS="di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1"
 export LS_COLORS
+
+Built with Scroll v120.2.0

@@ -3,3 +3,5 @@ Clear screen in cygwin
 December 20, 2009
 
 Just hit ctrl+l
+
+Built with Scroll v120.2.0

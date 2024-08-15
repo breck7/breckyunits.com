@@ -31,3 +31,5 @@ Notes
 
 - Linux Phrasebook
 - pipe to vim
+
+Built with Scroll v120.2.0

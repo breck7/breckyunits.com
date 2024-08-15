@@ -81,7 +81,7 @@
  ****
  
  # Notes
- - I took all the photos above on Sunday.
+ - I snapped these photos on Sunday.
  
  import footer.scroll
  

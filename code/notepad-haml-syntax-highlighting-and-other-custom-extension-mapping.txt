@@ -7,3 +7,5 @@ I want my HAML files to have PHP(or Ruby) syntax highlighting.
 Settings > Style Configurator
 
 Then click php and under "user ext" (in the bottom left) add haml
+
+Built with Scroll v120.2.0

@@ -93,3 +93,5 @@ English cannot encode Real News
 ===============================
 08/19/2019
 https://breckyunits.com/english-cannot-encode-real-news.html
+
+Built with Scroll v120.2.0

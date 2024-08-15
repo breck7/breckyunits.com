@@ -48,3 +48,5 @@ Humans have had symbols for 1% of history but 99% of humans have lived during th
 No one who loves ideas would ever enchain them.
 
 ⁂
+
+Built with Scroll v120.2.0

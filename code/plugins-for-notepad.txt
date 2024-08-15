@@ -14,3 +14,5 @@ To install a plugin:
 The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
 
 That's it!
+
+Built with Scroll v120.2.0

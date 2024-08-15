@@ -62,3 +62,5 @@ If this infrastructure were built it should enable the construction of higher le
 I hope by publishing these ideas others might be encouraged to start developing these systems. I am hoping readers might alert me to locations where this kind of system is already in place. I am also keenly interested in mathematical arguments why this system should not exist universally.
 
 ⁂
+
+Built with Scroll v120.2.0

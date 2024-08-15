@@ -19,3 +19,5 @@ If you have tons of competition, you're probably working on a problem that peopl
  http://www.fooledbyrandomness.com/robustness.pdf Mother Nature does not like overspecialization
 
 ⁂
+
+Built with Scroll v120.2.0

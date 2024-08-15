@@ -43,3 +43,5 @@ yum install mod_ssl
 SSLEngine on
 SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
 SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
+
+Built with Scroll v120.2.0

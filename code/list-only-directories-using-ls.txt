@@ -13,3 +13,5 @@ alias lsd="ls -l | egrep '^d'"
 Notes
 
 1. Found this tip here.
+
+Built with Scroll v120.2.0

@@ -9,3 +9,5 @@ git commit -am "message"
 I made a simple alias to save keystrokes:
 
 alias gca="git commit -am "
+
+Built with Scroll v120.2.0

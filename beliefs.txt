@@ -17,3 +17,5 @@ It seems brains can get into states where the threshold for a belief to become a
 For a belief to exist means it had to outcompete other potential beliefs for survival in a resource constrained environment and provide a positive benefit to its host. If a host had the ability to simply erase beliefs instantly, it seems like too many beneficial beliefs would disappear prematurely. So beliefs are hard to erase from a person's neural wirings. However, people could add a new neural wiring _NotX_, that represents the belief that _X_ is not true. They can then reinforce this new neural wiring, and eventually change the probability so that they are far more likely to have the _NotX_ wiring active versus the _X_ wiring.
 
 ⁂
+
+Built with Scroll v120.2.0

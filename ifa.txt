@@ -63,3 +63,5 @@ A stronger and more logical place to have the debate is upstream of that: debate
 I think the Amendment Strategy is clear enough, concrete enough, simple enough that you could get critical mass and start moving the debate upstream.
 
 _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
+
+Built with Scroll v120.2.0

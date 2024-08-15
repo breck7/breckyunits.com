@@ -7,3 +7,5 @@ So one common problem I have is writing code at a macro level---refactoring thin
 Grep & Sed don't cut it either. I've been using some custom written perl scripts for my needs. But today I discovered ack & AckMate. Problem solved. Really tight integration with TextMate (though the default 4 key shortcut is terrible--need to change that).
 
 This is probably something I would have learned faster had I been doing more pair programming with senior devs.
+
+Built with Scroll v120.2.0

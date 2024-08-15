@@ -28,3 +28,5 @@ The moving line shows elapsed time.
 The color of the moving line shows the odds that a task will succeed, given the amount of time passed.
 
 It helps your users decide: should I wait or abort?
+
+Built with Scroll v120.2.0

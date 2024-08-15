@@ -233,3 +233,5 @@ I thought we needed a characteristica universalis. I wasn't sure if it was possi
 A characteristica universalis might be possible someday as a novelty. But not something needed for the best AIs. In fact, if we ever do get a characteristica universalis it will probably be built by AIs, as something for us mere humans to play with when we are no longer the species running the zoo.
 
 ⁂
+
+Built with Scroll v120.2.0

@@ -111,3 +111,5 @@ Notes
 ^profanity: I removed all angry profanity from their quotes above. I forgive the delivery and am grateful for their feedback.
 ^sj: I never met SJ nor his family. This is about the SJ as portrayed in the media, and not the actual person, who I am unfamiliar with. I am familiar with the amazing things that he built, and some of the amazing things his wife has done, but sadly never got the chance to meet him.
  https://elementalexcelerator.com/ some of the amazing things
+
+Built with Scroll v120.2.0
