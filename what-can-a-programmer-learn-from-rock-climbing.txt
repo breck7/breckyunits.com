@@ -3,9 +3,23 @@ What can a Programmer learn from Rock Climbing?
 
 March 30, 2011
 
-Railay is a tiny little beach town in Southern Thailand famous for its rock climbing. I've been in Railay for two weeks. When the weather is good, I'm outside rock climbing. When the weather is bad, I'm inside programming. So naturally I've found myself comparing the two. Specifically I've been thinking about what I can take away from my rock climbing experience and apply to my programming education.
+Railay is a tiny little beach town in Southern Thailand famous for its rock climbing.
+
+I've been in Railay for two weeks.
+
+When the weather is good, I'm outside rock climbing.
+
+When the weather is bad, I'm inside programming.
+
+*
+
+Naturally I've found myself comparing the two.
+
+Specifically I've been thinking about what I can take away from my rock climbing experience and apply to my programming education.
 
 Here's what I've come up with.
+
+*
 
 1. *You should always be pushing yourself.* Each day spent climbing I've made it to a slightly higher level than the previous day. The lazy part of me has then wanted to just spend one day enjoying this new level without pushing myself further. Luckily I've had a great climbing partner who's refused that and has forced me to reach for the next level each day. In both rock climbing and programming you should always be reaching for that new level. It's not easy, you have to risk a fall to reach a new height, but it's necessary if you want to become good. In programming, just like in climbing, you should be tagging along with the climbers at levels above you. That's how you get great. Of course, don't forget to enjoy the moment too.
 

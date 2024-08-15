@@ -3,18 +3,31 @@ tags All Programming Life MasterProgramming
 title What can a Programmer learn from Rock Climbing?
 
 import header.scroll
+
+mediumColumns 1
+
 printTitle
 
-thinColumns 2
-
-Railay is a tiny little beach town in Southern Thailand famous for its rock climbing. I've been in Railay for two weeks. When the weather is good, I'm outside rock climbing. When the weather is bad, I'm inside programming. So naturally I've found myself comparing the two. Specifically I've been thinking about what I can take away from my rock climbing experience and apply to my programming education.
+Railay is a tiny little beach town in Southern Thailand famous for its rock climbing.
  dateline
+
+I've been in Railay for two weeks.
+
+When the weather is good, I'm outside rock climbing.
+
+When the weather is bad, I'm inside programming.
+
+***
+
+Naturally I've found myself comparing the two.
+
+Specifically I've been thinking about what I can take away from my rock climbing experience and apply to my programming education.
 
 Here's what I've come up with.
 
-* 1. *You should always be pushing yourself.* Each day spent climbing I've made it to a slightly higher level than the previous day. The lazy part of me has then wanted to just spend one day enjoying this new level without pushing myself further. Luckily I've had a great climbing partner who's refused that and has forced me to reach for the next level each day. In both rock climbing and programming you should always be reaching for that new level. It's not easy, you have to risk a fall to reach a new height, but it's necessary if you want to become good. In programming, just like in climbing, you should be tagging along with the climbers at levels above you. That's how you get great. Of course, don't forget to enjoy the moment too.
+***
 
-endSnippet
+* 1. *You should always be pushing yourself.* Each day spent climbing I've made it to a slightly higher level than the previous day. The lazy part of me has then wanted to just spend one day enjoying this new level without pushing myself further. Luckily I've had a great climbing partner who's refused that and has forced me to reach for the next level each day. In both rock climbing and programming you should always be reaching for that new level. It's not easy, you have to risk a fall to reach a new height, but it's necessary if you want to become good. In programming, just like in climbing, you should be tagging along with the climbers at levels above you. That's how you get great. Of course, don't forget to enjoy the moment too.
 
 * 2. *_Really_ push yourself.* In rock climbing you sometimes have these points where you're scared--no, where you're _fucking petrified_--that you're going to fall and get hurt or die and you're hanging on to the rock for dear life, pouring sweat, and you've got to overcome it. In programming you should _seek out moments like these_. It will never be that extreme of course, but you should find those spots where you are afraid of falling and push yourself to conquer them. It might be a project whose scope is way beyond anything you've attempted before, or a task that requires advanced math, or a language that scares the crap out of you. My climbing instructor here was this Thai guy named Nu. He's the second best speed climber in Thailand and has been climbing for fifteen years. The other day I was walking by a climbing area and saw Nu banging his chest and yelling at the top of his lungs. I asked a bystander what was going on and he told me that Nu was struggling with the crux of a route and was psyching himself up to overcome it. That's why he's a master climber. Because he's been climbing for over fifteen years and he's _still seeking out those challenges that scare him_.
 
