@@ -8228,7 +8228,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/medical-records-to-the-moon.scroll
  date 2020-03-02
- tags All Thinking Society HasDataset Data
+ tags All Thinking Society HasDataset Data MedicalRecords
  title Medical Records to the Moon
  
  import header.scroll
@@ -8333,7 +8333,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
  date 2020-03-02
- tags All Thinking Society
+ tags All Thinking Society MedicalRecords
  title Musing on the Future of Healthcare
  
  import header.scroll

@@ -1,6 +1,5 @@
 importOnly
 baseUrl https://breckyunits.com/code/
 description Helpful one liners, and more, that I may need later
-email breck7@gmail.com
 rssFeedUrl feed.xml
 viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/code
