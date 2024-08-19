@@ -8233,7 +8233,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  A paradigm change is coming to medical records. In this post I do some back-of-the-envelope math to explore the changes ahead, both qualitative and quantitative. I also attempt to answer the question no one is asking: *in the future will someone's medical record stretch to the moon?*
   dateline
@@ -8329,6 +8329,9 @@
  
  ****
  
+ # Related posts
+ printRelated MedicalRecords
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
@@ -8339,7 +8342,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
   dateline
@@ -8361,6 +8364,9 @@
  Another benefit to all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
  
  ****
+ 
+ # Related posts
+ printRelated MedicalRecords
  
  import footer.scroll
  

@@ -5,7 +5,7 @@ title Musing on the Future of Healthcare
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 I expect the future of healthcare will be powered by consumer devices. Devices you wear. Devices you keep in your home. In the kitchen. In the bathroom. In the medicine cabinet.
  dateline
@@ -27,5 +27,8 @@ You can not only reduce illness, but you can improve well-being too. You can see
 Another benefit to all of this? Healthcare powered by consumer devices seems like it will be a lot cheaper.
 
 ****
+
+# Related posts
+printRelated MedicalRecords
 
 import footer.scroll
