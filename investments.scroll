@@ -1,5 +1,5 @@
 date 2024-06-18
-tags Startups
+tags Startups AngelInvesting
 title My Angel Investments
 
 import header.scroll
@@ -7,38 +7,36 @@ printTitle
 
 mediumColumns 1
 
-I have made angel investments in ~50-100 companies.
+> I am now investing via Flash Angel Investments
+ https://flash.breckyunits.com/ Flash Angel Investments
 
-My check size is usually $10,000, but sometimes less and sometimes more.
-
-I usually invest in seed rounds, but sometimes later like a Series A.
-
-I usually invest as an individual, but sometimes through a shell company.
-
-I love being the first check.
+- *I invest in highly technical founders who like to build things with their hands, care about customer service, and love open source*.
+- I invest in teams great at software across all industries.
+- I don't care if/where you went to school or worked, but I do care about your git profiles or YouTube videos or personal homepage or other portfolio.
+- I have made angel investments in ~50-100 companies.
+- My check size is usually $10,000, but sometimes less and sometimes more.
+- I usually invest in seed rounds, but sometimes later like a Series A.
+- I usually invest as an individual, but sometimes through a shell company.
+- I love being the first check.
  // never the lead because my work focus is research
-
-My research commitments mean I don't have time to be the lead investor.
-
-I like to invest in companies in accelerators. Accelerators streamline logistics. I'm happy to trade a worse valuation for time savings.
-
-I invest mostly in "hard tech" startups, but sometimes invest in other things.
-
-I do a lot of things for the founders I invest in, from technical strategy to recruiting to marketing to code reviews.
-
-I am not much help with legal or fundraising issues, but do provide a lot of fundraising intros.
-
-I invest in things I'm interested in, that I think could make the world better, and in founders who I want to work for (since I will be doing part time work for you for many many years).
-
-I am delighted when I get returns but expect zeroes. I want you to go after your biggest dreams, and I only win big if you win big.
-
-All the money I make I reinvest in more startups, give away, put into research, or spend on my family and fancy vacations.
-
-I am happy to receive cold pitches via plain text email.
+- My research commitments mean I don't have time to be the lead investor.
+- I like to invest in companies in accelerators. Accelerators streamline logistics. I'm happy to trade a worse valuation for time savings.
+- I invest mostly in "hard tech" startups, but sometimes invest in other things.
+- I do a lot of things for the founders I invest in, from technical strategy to recruiting to marketing to writing code to designing DSLs to code reviews.
+- I am not much help with legal or fundraising issues, but do provide a lot of fundraising intros.
+- I invest in things I'm interested in, that I think could make the world better, and in founders who I want to work for (since I will be doing part time work for you for many many years).
+- I am delighted when I get returns but expect zeroes. I want you to go after your biggest dreams, and I only win big if you win big.
+- All the money I make I reinvest in more startups, give away, put into research, or spend on my family and fancy vacations.
+- I am happy to receive cold pitches via plain text email.
 
 A sample of the companies I've invested in is listed below:
 
 table investments.tsv
  printTable
+
+****
+
+# Related reading
+printRelated AngelInvesting
 
 import footer.scroll
