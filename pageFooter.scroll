@@ -2,7 +2,7 @@ importOnly
 
 endColumns
 center
-emailButton
-wwsButton
+emailButton breck7@gmail.com
+downloadButton /download.html
 viewSourceButton
 scrollVersionLink
