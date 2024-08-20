@@ -8,4 +8,4 @@ Sample usage:
 
 ngrep -q -W byline "^(GET|POST) .*"
 
-Built with Scroll v121.0.0
+Built with Scroll v121.0.1

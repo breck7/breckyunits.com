@@ -37,4 +37,4 @@ Notes
 - 2. Cast of Characters- ASCII, ANSI, UTF-8 and all that
 - 3. ANSI versus Unicode
 
-Built with Scroll v121.0.0
+Built with Scroll v121.0.1

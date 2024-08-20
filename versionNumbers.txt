@@ -69,4 +69,4 @@ Notes
 =====
 - Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.
 
-Built with Scroll v121.0.0
+Built with Scroll v121.0.1
