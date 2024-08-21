@@ -1,0 +1,47 @@
+PAU: Patient Accessible and Understandable health records
+=========================================================
+
+August 21, 2024
+
+In 2019 I led some research into building next-gen medical records based on some breakthroughs in computer language design.
+
+The underlying technology to bring this to market is finally maturing, and I expect we will see a system like PAU appear soon.
+
+Medical records will never be the same.
+
+Exciting times!
+
+[Image Omitted]
+ Our slides from 2019 as relevant as ever.
+
+⁂
+
+Related posts
+=============
+Medical Records to the Moon
+===========================
+03/02/2020
+https://breckyunits.com/medical-records-to-the-moon.html
+
+Musing on the Future of Healthcare
+==================================
+03/02/2020
+https://breckyunits.com/musing-on-the-future-of-healthcare.html
+
+*
+
+Related efforts
+===============
+
+If you know of links that should be here, please let me know. Or better yet, send a pull request!
+
+- Blue Button
+ https://en.wikipedia.org/wiki/Blue_Button Blue Button
+- OHDSI
+ https://en.wikipedia.org/wiki/Observational_Health_Data_Sciences_and_Informatics OHDSI
+- Unified Medical Language System
+ https://en.wikipedia.org/wiki/Unified_Medical_Language_System Unified Medical Language System
+- Fast Healthcare Interoperability Resources
+ https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources Fast Healthcare Interoperability Resources
+
+Built with Scroll v121.0.1
