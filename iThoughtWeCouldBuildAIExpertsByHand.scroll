@@ -5,7 +5,7 @@ title I thought we could build AI experts by hand
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 I thought we could build AI experts by hand. I bet everything I had to make that happen. I placed my bet in the summer of 2022. Right before the launch of the Transformer AIs that changed everything. Was I wrong? Almost certainly. Did I lose everything? Yes. Did I do the right thing? I'm not sure. I'm writing this to try and figure that out.
  dateline

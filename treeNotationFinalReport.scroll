@@ -5,7 +5,7 @@ title Final Tree Notation Report
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 image treeNotationTimeline.png
 

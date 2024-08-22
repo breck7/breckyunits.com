@@ -4,9 +4,10 @@ title Learning How to Program Part I
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
-* `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
+code
+ while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }
 
 I thought today I’d write my first post on programming. I have always been very passionate about computers, but to be honest my programming skills are embarrassingly weak. Mainly it’s because I haven’t spent any time developing them. Although I wrote my first webpage in 1996, it wasn’t until 2002 at Duke that I wrote my first computer program.
  dateline

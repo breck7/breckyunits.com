@@ -4,7 +4,7 @@ title Open-Mindedness
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
 What is open-mindedness, from first principles? Here are some musings.
  dateline
