@@ -5,7 +5,7 @@ title SafeFS
 
 import header.scroll
 printTitle
-thinColumns 2
+mediumColumns 1
 
 ## _Or: If lawyers invented a filesystem_
 

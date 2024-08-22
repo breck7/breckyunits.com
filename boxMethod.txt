@@ -2,6 +2,7 @@ The Box Method of Science
 =========================
 
 [Image Omitted]
+ width 300
  S = side length of box. P = pattern. t = time. V = voxel side length.
 
 March 30, 2024

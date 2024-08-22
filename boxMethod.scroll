@@ -5,10 +5,11 @@ title The Box Method of Science
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 image boxMethod.jpeg
  openGraph
+ width 300
  caption S = side length of box. P = pattern. t = time. V = voxel side length.
 
 Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?

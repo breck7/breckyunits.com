@@ -3550,7 +3550,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  image treeNotationTimeline.png
  
@@ -3628,10 +3628,11 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  image boxMethod.jpeg
   openGraph
+  width 300
   caption S = side length of box. P = pattern. t = time. V = voxel side length.
  
  Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
@@ -3784,7 +3785,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  What is open-mindedness, from first principles? Here are some musings.
   dateline
@@ -3980,7 +3981,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
   https://www.metabolicmind.org research effort
@@ -4160,7 +4161,7 @@
  import header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  It is estimated 2% of the population is bipolar. Sunday I explored: what if that was 98%? And today I explore, why isn't it 0%?
   link stableMoodDisorder.html what if that was 98%
@@ -5012,7 +5013,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  ## _Or: If lawyers invented a filesystem_
  
@@ -15369,8 +15370,8 @@
  title First Place in the Stock Market Game
  
  import header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
  
  So after 1 year, my Fantasy Stock Portfolio returned a little over 150%, which was enough to capture 1st place. We used the MarketWatch game. At first I had no competition among our friends in our private game, although Conor(and his risky day trading in the subprime market) spiked at one point and finished around 80%. I lucked out thanks to a hot tech market and picking some of the best companies in that. Not a single pick lost money(though this is lucky).
   https://web.archive.org/web/20081120154142/http://vse.marketwatch.com/Game/Homepage.aspx MarketWatch
@@ -15403,8 +15404,8 @@
  title Why a Team is Worth a lot more than an Idea
  
  import header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
  
  Every successful person in the startup world will tell you that the most important part of any startup is the *team*. From my own experiences, I wholeheartedly agree. But everyday I talk to people who think the most important thing is the *idea*. For instance, I just met a nice young woman at Logan Airport. She was wearing a well-pressed white blouse and grey skirt, dressed to impressed for her job at a prominent Boston-based health care consulting firm. We started talking about Facebook, and she repeated something I’ve heard at least a dozen times “[Zuckerberg] is going to make so much money. Facebook was such a simple idea. I wish I had thought of that.” I smiled and agreed pleasantly while trying hard not to roll my eyes.
   dateline
@@ -15445,9 +15446,10 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
- * `while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }`
+ code
+  while ($brecks_programming_skills < ‘great’) { write_learning_how_to_program_series(); }
  
  I thought today I’d write my first post on programming. I have always been very passionate about computers, but to be honest my programming skills are embarrassingly weak. Mainly it’s because I haven’t spent any time developing them. Although I wrote my first webpage in 1996, it wasn’t until 2002 at Duke that I wrote my first computer program.
   dateline
@@ -15483,7 +15485,7 @@
  
  import header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  For a few years, GoDaddy kept alerting me that BreckYunits.com was available and I should buy fast before someone else does! Lucky for me, all the other Breck Yunits’ out there weren’t getting the same alerts. Enjoy BreckYunits.info, suckers!!!
   dateline
