@@ -6912,6 +6912,10 @@
  
  _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
  
+ image billOfRights.jpg
+  caption You can honestly say The Bill of Rights outlaws copyright, but let's pass the IFA just to be clear.
+   https://www.archives.gov/milestone-documents/bill-of-rights The Bill of Rights
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/some-old-blogs.scroll
