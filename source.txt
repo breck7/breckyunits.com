@@ -1,3 +1,64 @@
+/home/runner/work/breckyunits.com/breckyunits.com/southPark.scroll
+ tags All Startups
+ 
+ date 8/25/2024
+ 
+ import standardHeader.scroll
+ 
+ title A Review of the South Park Commons Rejection Letter
+ 
+ image rejected.jpg
+  caption If someone tossed me a nickel for every rejection I've gotten I'd be dead buried under nickels.
+ 
+ Two weeks ago I applied for the South Park Commons Founder Fellowship.
+  dateline
+  https://www.youtube.com/watch?v=NMY-O8BUz5c applied
+  https://www.southparkcommons.com/founder-fellowship South Park Commons Founder Fellowship
+ 
+ I applied because I love being part of cohorts of builders building and because I repeatedly invest all my money into Scroll, my angel investments, and other people, and would love to have more money so I can build the World Wide Scroll faster.
+  https://scroll.pub/ Scroll
+  https://breckyunits.com/investments.html my angel investments
+  https://wws.scroll.pub/ World Wide Scroll
+ 
+ I was sad by South Park's rejection yesterday but I'm excited to use this as a teachable moment for South Park Commons, because building new things is hard and making things better for the people who do is something I care deeply about.
+  https://flash.breckyunits.com/ making things better for the people who do
+ 
+ ***
+ 
+ css .feedback {color: green;}
+ feedbackParser
+  extends paragraphParser
+  crux $
+  javascript
+   className = "feedback"
+ 
+ > Hi there,
+ > Thank you for applying to the SPC Founder Fellowship.
+ > Our team appreciates the time and thought that you put into completing the application.
+ 
+ $ What are some ways you might *show* you appreciate my time rather than tell me you do?
+ 
+ > We carefully reviewed all of the materials that you submitted and are sorry to say that we will not be able to offer you a place in the upcoming cohort. Due to the large number of applicants, we unfortunately won’t be able to offer more individual feedback.
+ 
+ $ If you carefully reviewed my materials, that implies you made some notes, and wouldn't it take just as much time to send me those notes as to send this email?
+ 
+ > While we know this is disappointing news, we hope that it is not discouraging to your founding endeavors. We have been wrong in the past about ideas and founders this early in the journey and have (unfortunately) passed on companies that have gone on to achieve great things.
+ 
+ $ Why not share your numbers of applicants, acceptance rates, and outliers you missed?
+ 
+ > We hope you’ll stay in touch through our community newsletter and Twitter. We’ll share any updates regarding future cohort applications through those channels and would be happy to see you apply again in the future.
+ 
+ $ Will you consider going back through these rejections and doing some actions that _show your apprecation_?
+ 
+ > Best,
+ > South Park Commons
+ 
+ $ Have you considered signing with your human names?
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/pau.scroll
  tags All MedicalRecords
  
