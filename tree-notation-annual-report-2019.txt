@@ -393,10 +393,10 @@ NudgePad: An IDE in Your Browser
 09/23/2013
 https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
 
-SpaceNet: A successor to the Internet
-=====================================
+ScrollNet: A successor to the Internet
+======================================
 06/02/2013
-https://breckyunits.com/spacenet.html
+https://breckyunits.com/scrollnet.html
 
 Introducing Note
 ================
