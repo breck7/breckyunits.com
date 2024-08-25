@@ -176,4 +176,4 @@ aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
 aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
 asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
 
-Built with Scroll v121.0.1
+Built with Scroll v122.0.0
