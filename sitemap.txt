@@ -13,6 +13,7 @@ https://breckyunits.com/society.html
 https://breckyunits.com/search.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/pcri.html
+https://breckyunits.com/parserUsage.html
 https://breckyunits.com/parserStats.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html

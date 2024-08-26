@@ -59,4 +59,4 @@ Notes
 
 ^hours: There are a lot of programmers who have 10,000 hours of experience that I respect a lot and enjoy working with, but the ones I study the most are the ones who stuck with it (and also just lucky enough to live long lives).
 
-Built with Scroll v122.0.0
+Built with Scroll v123.2.0

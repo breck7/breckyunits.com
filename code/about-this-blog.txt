@@ -6,4 +6,4 @@ I constantly want to share little coding tidbits, snippets, or stories on how to
 
 This is it.
 
-Built with Scroll v122.0.0
+Built with Scroll v123.2.0
