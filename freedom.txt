@@ -56,6 +56,11 @@ Training a neural network to spot misinformation and fake news from a single ima
 10/15/2022
 https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
 
+Cancer and Copyright
+====================
+10/04/2022
+https://breckyunits.com/cancer-and-copyright.html
+
 How the public domain can win
 =============================
 08/30/2022
