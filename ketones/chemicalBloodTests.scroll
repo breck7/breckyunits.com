@@ -1,5 +1,5 @@
 title Chemical Blood Tests Dataset
-buildConcepts chemicalBloodTests.tsv
+buildConcepts chemicalBloodTests.tsv chemicalBloodTests.csv
 
 import ../settings.scroll
 viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/ketones
@@ -27,7 +27,8 @@ This dataset was created to see how common it is for the target levels of certai
 At some point, I would like to add fields to get some measure on how popular each test is. Also, I want to add categories for each test (ie, electrolytes, Hormones, etc), and what the test method is (for example, Ion-Selective Electrode, Atomic Absorption Spectroscopy, Inductively Coupled Plasma Mass Spectrometry or Flame Emission Spectroscopy). I also want to add chemical formulas. It is likely that all the measures I would want to add are already present in HMDB.
  https://hmdb.ca/metabolites?utf8=%E2%9C%93&filter=true&quantified=1&blood=1&filter=true HMDB
 
-printConcepts
+table
+ printTable
 tableSearch
 
 # Schema

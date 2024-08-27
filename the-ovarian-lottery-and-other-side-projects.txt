@@ -85,4 +85,4 @@ Helpful Links for Population Statistics(beyond wikipedia):
 - NationMaster.com
  https://nationmaster.com NationMaster.com
 
-Built with Scroll v123.2.0
+Built with Scroll v124.0.0

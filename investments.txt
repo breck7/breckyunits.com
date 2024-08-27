@@ -58,4 +58,4 @@ An Angel Investor's Data
 09/01/2022
 https://breckyunits.com/an-angel-investors-data.html
 
-Built with Scroll v123.2.0
+Built with Scroll v124.0.0
