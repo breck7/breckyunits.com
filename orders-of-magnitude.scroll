@@ -5,7 +5,7 @@ title Orders of Magnitude
 import header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 Do you think in Orders of Magnitude? You should.
  dateline
