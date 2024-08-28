@@ -73,6 +73,11 @@ PTCRI: An Equation about Syntax Potential
 05/31/2024
 https://breckyunits.com/ptcri.html
 
+ScrollSets: A New Way to Store Knowledge
+========================================
+05/21/2024
+https://breckyunits.com/scrollsets.html
+
 Counting Complexity
 ===================
 12/20/2017

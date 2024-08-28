@@ -1657,7 +1657,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollsets.scroll
  date 2024-05-21
- tags All Scroll Programming Data Life ScrollSets
+ tags All Scroll Programming Data Life ScrollSets ScrollPapers
  title ScrollSets: A New Way to Store Knowledge
  
  import header.scroll
@@ -10671,7 +10671,7 @@
  
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
- tags All Scroll Programming
+ tags All Scroll Programming ScrollPapers
  title A New Discovery in Computer Science: 2-Dimensional Programming Languages
  
  import header.scroll
