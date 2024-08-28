@@ -1,21 +1,22 @@
 date 2017-06-21
 tags All Scroll Programming
-title Show HN: Programming is Now Two-Dimensional
+title A New Discovery in Computer Science: 2-Dimensional Programming Languages
 
 import header.scroll
-printTitle
 
-thinColumns 2
+mediumColumns 1
+
+printTitle
 
 *Eureka!* I wanted to announce something small, but slightly novel, and potentially useful.
  dateline
 
 What did I discover? That there might be useful general purpose programming languages that don't use any visible syntax characters at all.
 
+***
+
 I call the whitespace-based notation Tree Notation and languages built on top of it Tree Languages.
  https://treenotation.org Tree Notation
-
-endSnippet
 
 Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
 
@@ -26,6 +27,9 @@ code
 This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
 
 image 3dprogram.png
+ caption Programs in this system look sort of like DNA strands. The balls in this program represent words, and the colors represent the types of those words.
+
+***
 
 There are hundreds of very active programming languages, and they all have different syntax as well as different semantics.
 
@@ -33,13 +37,23 @@ I think there will always be a need for new semantic ideas. The world's knowledg
 
 But I wonder if we always need a new syntax for each new general purpose programming language. I wonder if we could unlock potentially very different editing environments and experiences with a simple geometric syntax, and if by making the syntax simpler folks could build better semantic tooling.
 
+***
+
 Maybe there's nothing useful here. Perhaps it is best to have syntax characters and a unique syntax for each general purpose programming language. Tree Notation might be a bad idea or only useful for very small domains. But I think it's a long-shot idea worth exploring.
+
+***
 
 Thousands of language designers focus on the semantics and choose the syntax to best fit those semantics (or a syntax that doesn't deviate too much from a mainstream language). I've taken the opposite approach--on purpose--with the hopes of finding something overlooked but important. I've stuck to a simple syntax and tried to implement all semantic ideas without adding syntax.
 
+***
+
 Initially I just looked at Tree Notation as an alternative to declarative format languages like JSON and XML, but then in a minor "Eureka!" moment, realized it might work well as a syntax for general purpose Turing complete languages across all paradigms like functional, object-oriented, logic, dataflow, et cetera.
 
+***
+
 Someday I hope to have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is suboptimal and why we need more complex syntax.
+
+***
 
 I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled Tree Notation: an antifragile program notation. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
  https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf Tree Notation: an antifragile program notation
