@@ -1,5 +1,5 @@
 parserId,uses
-blankLineParser,10210
+blankLineParser,10217
 catchAllParagraphParser,4362
 importOnlyParser,1063
 stumpContentParser,1024
@@ -9,7 +9,7 @@ listAftertextParser,509
 viewSourceButtonParser,507
 lineOfCodeParser,424
 chatLineParser,408
-scrollDinkusParser,390
+scrollDinkusParser,397
 BlobParser,314
 cssParser,281
 authorsParser,265
@@ -40,13 +40,13 @@ imageParser,194
 quoteLineParser,168
 orderedListAftertextParser,167
 h2Parser,167
-endSnippetParser,150
+endSnippetParser,149
 linkParser,147
-thinColumnsParser,137
+thinColumnsParser,136
 htmlInlineParser,126
 cssLineParser,113
-mediumColumnsParser,105
-captionAftertextParser,102
+mediumColumnsParser,106
+captionAftertextParser,103
 footnoteDefinitionParser,77
 scrollQuestionParser,74
 katexParser,65

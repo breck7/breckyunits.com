@@ -211,8 +211,8 @@ Ohayo
 06/23/2017
 https://breckyunits.com/ohayo.html
 
-Show HN: Programming is Now Two-Dimensional
-===========================================
+A New Discovery in Computer Science: 2-Dimensional Programming Languages
+========================================================================
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
@@ -243,4 +243,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v124.0.0
+Built with Scroll v124.1.0
