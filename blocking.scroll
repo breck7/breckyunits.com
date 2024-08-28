@@ -1,0 +1,84 @@
+tags All Society
+
+date 8/28/2024
+
+import standardHeader.scroll
+
+title Why Warpcast should not add blocking
+
+# Blocking misleads
+
+## Blocking encourages the worst impulses of humans
+
+I have a backlog of interesting scientific work to do, but an important free speech matter has come to my attention. Warpcast is suddenly considering adding blocking.
+ https://warpcast.com Warpcast
+ https://warpcast.com/v/0x48416b4b considering adding blocking
+ dateline
+
+***
+
+I don't know whether some powerful people have joined and are pushing for this in secret, but I do know, as Farcaster user #158, that what has attracted a lot of active users to Farcaster has been our desire for a censorship resistant town square.
+ https://farcasterstudio.com/users/158 Farcaster user #158
+
+I hope in this short essay, we can show why Warpcast should veto adding blocking, now and forever in the future.
+
+***
+
+# Blocking visualized.
+
+We will use the illustration below to define our terms.
+
+image blockingExplained.png
+ caption Black triangle represents a powerful user with a lot of followers (grey triangles). Black circle is a post by black user. Blue circle is a comment by blue follower. Black triangle blocks blue follower, preventing gray triangles from seeing response. By blocking blue, black user harms grey users by preventing them from seeing truthful enhancements to their posts.
+
+***
+
+# Humans are born rate limited
+
+A common argument made in favor of blocking is that black users must be protected from some firehose of responses coming from blue users. 
+
+But this is physically impossible. Blue users are just humans, who have to eat, sleep, take a piss, cook for their kids, and do a million other things.
+
+They do not have time to dedicate their lives to "piling on" to black users.
+
+It must be considered that the black user subconsciously knows they are doing something wrong, and so is experiencing extreme cognitive dissonance causing them to exaggerate the volume of messages from the blue user.
+
+(Note that bots posing as humans should be blocked, but at the global protocol level and with efficient means to appeal to avoid the dangers of false positives.)
+
+***
+
+# Naming Names
+
+I am currently blocked by the below 3 popular users on Twitter:
+
+table
+ printTable
+ data
+  name,user,followersInMillions, earliestBooster,blockedAfter
+  Massimo,Rainmaker1973,2.2,true, Asking for citations after reporting inaccurate information.
+  Nassim Taleb,nntaleb,1,true,Posting data that refuted a tweet.
+  Garry Tan,garrytan,.465,true,Trying to share helpful feedback about the SVBank situation.
+
+In all three cases I was blocked after trying to help improve their ideas and better inform their users, who are all communities of people (science, statistics, startups) that I have a 20 year public track record of caring deeply about.
+
+I also was an early public booster of all 3 of these people, with years of public proof behind that, so one can not only show evidence that my actions were good, but that there is strong evidence of long term good intentions and good will from me to these people.
+
+I couldn't care less about my own ego, and I find it humorous and harmless when people _mute me_-I can be annoying with all my intense data and mathematical thinking. Muting is fine!
+
+But to block me is to commit active harm to your users. It is censorship. It is anti-free speech.
+
+It should not only not be done, but it should not be a feature of these digital town square platforms.
+
+It makes me sad that these people, who I respect and enjoy their work, would have their worst impulses encouraged by Twitter allowing the blocking of users.
+
+I blame Twitter for encouraging their worst impulses. I hope dearly Warpcast does not make the same mistake.
+
+Thank you for listening. If you disagree, I am happy to look at your data and math in favor of adding blocking. And if I disagree, at the very worst, I will mute you.
+
+****
+
+# Note
+This took me one hour to create, and I livestreamed for full transparency because I believe free speech is such an important issue.
+ https://www.youtube.com/live/oMb5HQ-RqxE livestreamed
+
+import footer.scroll
