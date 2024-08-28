@@ -56,12 +56,21 @@ Someday I hope to have data definitively showing that Tree Notation is useful, o
 ***
 
 I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled Tree Notation: an antifragile program notation. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
- https://github.com/treenotation/research/blob/master/papers/paper/treenotation.pdf Tree Notation: an antifragile program notation
-
-Two updates on 12/30/2017. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on. The second note is I updated the wording of this post as the original was a bit rushed.
- https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
+ link treenotationPaper.html Tree Notation: an antifragile program notation
 
 ****
+
+#### Updated 12/30/2017
+1. After I wrote this I was informed that one other person from the Scheme world created a very similar notation years ago. Very little was written in it, which I guess is evidence that the notation itself isn't that useful, or perhaps that there is still something missing before it catches on.
+ https://srfi.schemers.org/srfi-49/srfi-49.html a very similar notation
+2. The second note is I updated the wording of this post as the original was a bit rushed.
+
+#### Updated 2024
+
+We renamed Tree Notation Scroll Notation. We now call the Grammar language Parsers. See the latest at Scroll.pub
+ https://scroll.pub/ Scroll.pub
+
+***
 
 # Related Posts
 printRelated ScrollPapers
