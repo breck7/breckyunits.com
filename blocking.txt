@@ -50,16 +50,17 @@ It must be considered that the black user subconsciously knows they are doing so
 Naming Names
 ============
 
-I am currently blocked by the below 3 popular users on Twitter:
+I am currently blocked by the below 4 popular users on Twitter:
 
 name,user,followersInMillions, earliestBooster,blockedAfter
 Massimo,Rainmaker1973,2.2,true, Asking for citations after reporting inaccurate information.
 Nassim Taleb,nntaleb,1,true,Posting data that refuted a tweet.
 Garry Tan,garrytan,.465,true,Trying to share helpful feedback about the SVBank situation.
+Suhail Doshi,suhail,.307,true,I don't even remember. I helped him for free for many years.
 
 In all three cases I was blocked after trying to help improve their ideas and better inform their users, who are all communities of people (science, statistics, startups) that I have a 20 year public track record of caring deeply about.
 
-I also was an early public booster of all 3 of these people, with years of public proof behind that, so one can not only show evidence that my actions were good, but that there is strong evidence of long term good intentions and good will from me to these people.
+I also was an early public booster of all 4 of these people, with years of public proof behind that, so one can not only show evidence that my actions were good, but that there is strong evidence of long term good intentions and good will from me to these people.
 
 I couldn't care less about my own ego, and I find it humorous and harmless when people _mute me_-I can be annoying with all my intense data and mathematical thinking. Muting is fine!
 
@@ -80,4 +81,4 @@ Note
 This took me one hour to create, and I livestreamed for full transparency because I believe free speech is such an important issue.
  https://www.youtube.com/live/oMb5HQ-RqxE livestreamed
 
-Built with Scroll v125.0.0
+Built with Scroll v125.0.1

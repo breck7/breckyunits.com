@@ -10,7 +10,7 @@ viewSourceButtonParser,509
 lineOfCodeParser,424
 chatLineParser,408
 scrollDinkusParser,402
-BlobParser,313
+BlobParser,314
 cssParser,282
 authorsParser,266
 endColumnsParser,263
