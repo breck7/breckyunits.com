@@ -109,4 +109,4 @@ Yes. But they are a special category of PublicMethod and it's a distinction wort
 
 ⁂
 
-Built with Scroll v124.1.0
+Built with Scroll v125.0.0

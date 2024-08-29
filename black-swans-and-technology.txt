@@ -34,4 +34,4 @@ Notes
 =====
 _All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
 
-Built with Scroll v124.1.0
+Built with Scroll v125.0.0

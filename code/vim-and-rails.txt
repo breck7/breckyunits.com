@@ -37,4 +37,4 @@ set ts=2  " Tabs are 2 spaces
 
 set laststatus=2  " Always show status line.
 
-Built with Scroll v124.1.0
+Built with Scroll v125.0.0
