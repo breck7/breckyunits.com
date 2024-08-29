@@ -8,9 +8,13 @@ February 28, 2022
 
 There will always be truths upstream that we will never be able to see, that are far more important than anything we learn downstream. So devoting too much of your brain to rationality has diminishing returns, as at best your most scientific map of the universe will be perpetually vulnerable to irrelevance by a single missive from upstream.
 
+*
+
 Growing up I practiced Catholicism and think the practice was probably good for my mind. But as I practiced science and math and logic those growing networks in my brain would conflict with the established religious networks. After a while, in my brain, science vanquished religion.
 
-But I've seen now the folly of having a brain without a strong spiritual section.
+But now I've seen the folly of having a brain without a strong spiritual section.
+
+*
 
 In science we observe things, write down many observations, work out simpler models, and use those to predict and invent. But everything we observe comes downstream to us from some source that we cannot observe, model, or predict.
 
@@ -26,9 +30,13 @@ It is trivially easy to imagine some missive that comes from upstream that would
 
 And you can easily string these together to see how there will always be an "upstream of everything". Imagine our lifetime is an eventful one. First, AGI appears. As we're grappling with that, we make contact with aliens, then while we're having tea with aliens (who luckily are peaceful in this scenario) some anomaly pops up and we all deduce this is just a computer simulated multiverse. The biggest revelation ever will always be vulnerable to an ever bigger revelation. There will always be ideas "upstream of everything".
 
+*
+
 When you accept an upstream idea, you have to update a lot of downstream synapses. When you grok DNA, you have to add a lot of new mental modules or update existing networks to ensure they are compatible with how we know it works. You might have a lot of "well the thing I thought about B doesn't matter much anymore now given C". It takes a lot of mental work to rewire the brain, and requires some level of neuroplasticity.
 
 So now, if you commit your full brain to science, you've got to keep yourself fully open to rewiring your brain as new evidence floats downstream. This might even be a problem if only high quality evidence and high quality theories floated by. But evidence is rarely so clear cut. And so you are constantly having to exert mental energy scanning for new true upstream ideas. And often ideas are promoted more for incentive rather than accuracy. And you will make mistakes and rewire your brain to a theory only to realize it was wrong. Or you might be in the middle of one rewiring and then have to start another. It seems a recipe for mental tumult.
+
+*
 
 Maybe, if there were any chance at all of ultimate success, it would make sense to dedicate every last 1% of the brain to the search for truth. But there's zero chance of success. The next bend also has a next bend. Therefore science will never be able to see beyond the next bend.
 
