@@ -35,7 +35,7 @@ We will use the illustration below to define our terms.
 Humans are born rate limited
 ============================
 
-A common argument made in favor of blocking is that black users must be protected from some firehose of responses coming from blue users. 
+A common argument made in favor of blocking is that black users must be protected from some firehose of responses coming from blue users.
 
 But this is physically impossible. Blue users are just humans, who have to eat, sleep, take a piss, cook for their kids, and do a million other things.
 

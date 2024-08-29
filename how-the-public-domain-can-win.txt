@@ -49,7 +49,7 @@ Cost to build
 =============
 Public domain products are far cheaper to build than non public domain products.
 
-Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude. 
+Failure to embrace the public domain increases the cost to build any information product by at least an order of magnitude.
 
 This is because not only are most tasks a builder has to do sped up as explained above, but also because building for the public domain means you can immediately _build less_. For example, you don't have to spend a _single moment_ investing in infrastructure to prevent your source code from leaking.
 

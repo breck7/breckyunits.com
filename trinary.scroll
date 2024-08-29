@@ -1,12 +1,11 @@
 date 7/14/2019
 tags All Scroll Programming
+title Removing the 2’s from Trinary Notation is a Terrible Idea.
 
 import header.scroll
-title Removing the 2’s from Trinary Notation is a Terrible Idea.
 printTitle
 
 mediumColumns 1
-
 
 image binary.webp
  width 300

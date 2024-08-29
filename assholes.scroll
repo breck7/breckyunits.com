@@ -1,10 +1,10 @@
-tags All Life Startups
-
 date 8/5/2024
+inlineMarkups
+ ~~ s
+tags All Life Startups
+title Part Assholes are Awesome
 
 import standardHeader.scroll
-
-title Part Assholes are Awesome
 
 # Anyone not part asshole is full of shit
 
@@ -95,9 +95,6 @@ Instead of declaratives ask questions.
 ~~This is terrible~~. Can you do better?
 
 ~~Dataset needed~~. What dataset would confirm this?
-
-inlineMarkups
- ~~ s
 
 ***
 

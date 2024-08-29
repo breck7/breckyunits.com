@@ -1,8 +1,8 @@
 date 6/21/2017
 tags All Scroll ScrollPapers
+title Tree Notation: an antifragile program notation
 
 import header.scroll
-title Tree Notation: an antifragile program notation
 printTitle
 
 printAuthors
@@ -115,7 +115,6 @@ code
  o
   s dsl yrt
   n ma 902
-
 
 TLs will be found for great 1DLs including C, RISC-V, ES6, and Arc. Some TLs have already been found^Roughan, but their common TN DNA has gone unseen. The immediate benefit of creating a TL for an 1DL is that programs can then be written in a TL editor and compiled to that 1DL.
 

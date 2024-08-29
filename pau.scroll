@@ -1,10 +1,8 @@
-tags All MedicalRecords
-
 date 8/21/2024
+tags All MedicalRecords
+title PAU: Patient Accessible and Understandable health records
 
 import standardHeader.scroll
-
-title PAU: Patient Accessible and Understandable health records
 
 In 2019 I led some research into building next-gen medical records based on some breakthroughs in computer language design.
  dateline
