@@ -1,7 +1,7 @@
 importOnly
 description Posts on this blog categorized in CAT_TITLE.
-tags categoryPages
 openGraphImage screenshot.png
+tags categoryPages
 title Breck's Blog - CAT_TITLE Posts
 
 import settings.scroll

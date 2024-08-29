@@ -117,7 +117,6 @@ ProgramA requires fifteen nodes while programB requires three nodes.
 
 Hence, the programB is less complex by this measure, _given machineA and machineB_ (I will explain later what I mean by "given machineA and machineB").
 
-
 ***
 
 # Atomic Components of Complexity
@@ -231,7 +230,6 @@ The benefit of this system is that it is simple, practical, universal, and scale
 Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
 
 ****
-
 
 # Bibliography
 ^Edmonds Edmonds, B. (1999). Syntactic Measures of Complexity. Doctoral Thesis, University of Manchester, Manchester, UK.
