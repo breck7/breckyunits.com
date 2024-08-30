@@ -5,6 +5,8 @@ December 4, 2009
 
 Do you want to become a great coder? Do you have a *passion* for computers but not a thorough understanding of them? If so, this post is for you.
 
+*
+
 Saying #1: 10,000 Hours
 =======================
 There is a saying that it takes 10,000 hours of doing something to master it.
@@ -21,6 +23,8 @@ In that post, Derek Sivers claims that a talented and generous guy named Kimo Wi
 I did not have a Kimo Williams. But now that I know a bit, I'll try and emulate him and help you learn faster by sharing my top 12 lessons.
 
 I'll provide the tips first, then if you're curious, a little bit more history about my own process.
+
+*
 
 The 12 Tips
 ===========
