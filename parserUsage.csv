@@ -1,6 +1,6 @@
 parserId,uses
-blankLineParser,10306
-catchAllParagraphParser,4394
+blankLineParser,10307
+catchAllParagraphParser,4395
 importOnlyParser,1076
 stumpContentParser,1036
 quickLinkParser,975

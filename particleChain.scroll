@@ -52,6 +52,8 @@ Chains that are mirrored more with more history are more reliable.
 
 The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper. For better usability it is recommended to build a digital Particle Chain. For implementing that, the Parsers Programming Language (or a similar compiler compiler and virtual machine) may be used.
 
+All existing chains such as Bitcoin, Ethereum, and NEAR could be ported to Particle Chain in a straightforward manner. New chains would likely want to build on a Particle Chain from the start.
+
 ****
 
 import footer.scroll
