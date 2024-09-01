@@ -58,8 +58,8 @@ scrollTableParser,32
 printTableParser,31
 scrollTableDataParser,30
 openGraphParser,29
-scrollTableDelimiterParser,29
 quickParagraphParser,27
+scrollTableDelimiterParser,27
 openGraphImageParser,27
 classMarkupParser,24
 printAuthorsParser,24

@@ -62,7 +62,7 @@ Updated 12/30/2017
 Updated 2024
 ============
 
-We renamed Tree Notation Scroll Notation. We now call the Grammar language Parsers. See the latest at Scroll.pub
+We renamed Tree Notation Particle Syntax. We now call the Grammar language Parsers. See the latest at Scroll.pub
  https://scroll.pub/ Scroll.pub
 
 *
@@ -104,4 +104,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v125.0.1
+Built with Scroll v125.2.0

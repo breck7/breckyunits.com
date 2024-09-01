@@ -149,8 +149,8 @@ Citations
  https://en.wikipedia.org/wiki/Apple_M1 M1
 - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
  https://breckyunits.com/building-a-treebase-with-6.5-million-files.html abysmal
-^scrollStack: Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
- https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Scroll Notation
+^scrollStack: Particle Syntax: Breck Yunits et al (formerly called Tree Notation)
+ https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Particle Syntax
 ^recutils: GNU Recutils: Jose E. Marchesi
  https://www.gnu.org/software/recutils/ GNU Recutils
 - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
@@ -189,4 +189,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v125.0.1
+Built with Scroll v125.2.0

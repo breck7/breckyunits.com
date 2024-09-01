@@ -12,4 +12,4 @@ alias rprof='source ~/.bash_profile' # reload this file (after making edits)
 alias pconf='vim /etc/php.ini' # edit php.ini
 alias lsd="ls -l | egrep '^d'" # list only directories
 
-Built with Scroll v125.0.1
+Built with Scroll v125.2.0

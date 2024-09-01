@@ -1,4 +1,4 @@
-Breck's Blog - Scroll Notation Posts
+Breck's Blog - Particle Syntax Posts
 ====================================
 
 ETA!: A Measure of Evolution
@@ -176,4 +176,4 @@ Introducing Note
 12/14/2012
 https://breckyunits.com/introducing-note.html
 
-Built with Scroll v125.0.1
+Built with Scroll v125.2.0

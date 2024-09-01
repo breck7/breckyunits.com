@@ -839,8 +839,8 @@
  
  ***
  
- PTCRI explains the simplicity and power of Scroll Notation^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
-  https://scroll.pub Scroll Notation
+ PTCRI explains the simplicity and power of Particle Syntax^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
+  https://scroll.pub Particle Syntax
  
  PTCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set T and C and R to 3, changing I from 1 to 2 increases the amount of possible programs from 7,625,597,484,987 to 58,149,737,003,040,060,000,000,000.
   // Math.pow(Math.pow(3, Math.pow(3, 3)), 1) vs:
@@ -848,14 +848,14 @@
  
  ***
  
- 59 days ago I announced the decade long Scroll Notation research endeavor over with a negative result.
+ 59 days ago I announced the decade long Particle Syntax research endeavor over with a negative result.
   link treeNotationFinalReport.html announced
  
- It looks like I was wrong again. There was something special about Scroll Notation, and PTCRI explains what that is.
+ It looks like I was wrong again. There was something special about Particle Syntax, and PTCRI explains what that is.
  
  ***
  
- _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Scroll Notation doesn't even have parentheses!_
+ _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Particle Syntax doesn't even have parentheses!_
  
  And yet, the experimental evidence kept piling up.
   link scrollsets.html experimental evidence
@@ -866,7 +866,7 @@
  
  # Notes
  
- ^treeNotationNameChange Scroll Notation was originally named Tree Notation.
+ ^treeNotationNameChange Particle Syntax was originally named Tree Notation.
  
  ***
  
@@ -878,14 +878,14 @@
  
  It may help to explain from another angle. Imagine your boss comes up to you and says "We are giving you a special assignment. We want you to come up with the best possible syntax for all programming languages." What do you come up with?
  
- You can present them with Scroll Notation, and explain how it supports a vast universe of programs, $P = {T^{C^R}}^I$, with just three syntax rules:
+ You can present them with Particle Syntax, and explain how it supports a vast universe of programs, $P = {T^{C^R}}^I$, with just three syntax rules:
  - lines split into columns via bits, characters or words
  - groups of lines joined to each other via newlines
  - scopes established via the indent trick (aka the "Offiside Rule", popularized by Python, HAML, et cetera)
  
  ***
  
- - Does PTCRI also describe S-Expressions? S-Expression work. Scroll Notation _barely_ works.
+ - Does PTCRI also describe S-Expressions? S-Expression work. Particle Syntax _barely_ works.
  - All mistakes are on me, and credit goes to the people who have supported this effort with me.
  - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
  - Now, back to my vacation.
@@ -1906,8 +1906,8 @@
   https://en.wikipedia.org/wiki/Apple_M1 M1
  - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
   https://breckyunits.com/building-a-treebase-with-6.5-million-files.html abysmal
- ^scrollStack Scroll Notation: Breck Yunits et al (formerly called Tree Notation)
-  https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Scroll Notation
+ ^scrollStack Particle Syntax: Breck Yunits et al (formerly called Tree Notation)
+  https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Particle Syntax
  ^recutils GNU Recutils: Jose E. Marchesi
   https://www.gnu.org/software/recutils/ GNU Recutils
  - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
@@ -5368,7 +5368,7 @@
  
  image oneTextarea.gif
   openGraph
-  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Scroll Notation or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particle Syntax or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
    https://github.com/breck7/copypaster demo gif
  
  Forget all the "best practices" you've learned about web forms.
@@ -5381,7 +5381,7 @@
  Current form technology will become "classic forms" and can still be used as a fallback.
  
  //
-  The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Scroll Notation and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
+  The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Particle Syntax and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
  
  ***
  
@@ -8248,8 +8248,8 @@
  
  First, Scroll is built for public domain sites and _only_ public domain sites. Builders of Scroll will spend 100% of the time building for the amazing creators who understand and value the public domain.
  
- Second, Scroll is built on Scroll Notation. Unlike Markdown, Scroll is easily extensible. We can create and combine thousands of new parsers to help people be more creative and communicate more effectively.
-  https://notation.scroll.pub Scroll Notation
+ Second, Scroll is built on Particle Syntax. Unlike Markdown, Scroll is easily extensible. We can create and combine thousands of new parsers to help people be more creative and communicate more effectively.
+  https://notation.scroll.pub Particle Syntax
  
  I've had fun building Scroll so far and am excited to start working on it with others.
  
@@ -8349,9 +8349,9 @@
  * _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
   dateline
  
- In 2017 I wrote a post about a half-baked idea I named Scroll Notation.
+ In 2017 I wrote a post about a half-baked idea I named Particle Syntax.
   link show-hn-programming-is-now-two-dimensional.html post
-  https://treenotation.org Scroll Notation
+  https://treenotation.org Particle Syntax
  
  Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
  
@@ -10452,16 +10452,16 @@
  
  One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
  
- In this paper I add to the pile, and propose using Scroll Notation as a tool for counting complexity.
-  link treenotationPaper.html Scroll Notation
+ In this paper I add to the pile, and propose using Particle Syntax as a tool for counting complexity.
+  link treenotationPaper.html Particle Syntax
  
  ***
  
  # Overview
- The method introduced here, named Scroll Notation Complexity (SNC), can be used to measure the complexity of an entity X. It operates as follows.
+ The method introduced here, named Particle Syntax Complexity (PSC), can be used to measure the complexity of an entity X. It operates as follows.
  
  1. It is assumed that all ideas are graphs that can be sliced into tree structures.
- 2. Given the assumption that all structures can be represented as trees, we can then use Scroll Notation, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Scroll Notation language defined by a grammar, `G0`.
+ 2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particle Syntax language defined by a grammar, `G0`.
   link aGrammarNotationForTreeLanguages.html grammar
  3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
  4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
@@ -10475,7 +10475,7 @@
  
  Let's imagine a machine that takes as input one character and returns true if that input is defined in a program written for that machine.
  
- Let's encode both concepts using one Scroll Notation language (not defined here).
+ Let's encode both concepts using one Particle Syntax language (not defined here).
  
  code
   boolean
@@ -10495,7 +10495,7 @@
  
  Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".
  
- Hence, by this simple SNC measure we can say that a digit is more complex than a boolean.
+ Hence, by this simple PSC measure we can say that a digit is more complex than a boolean.
  
  ***
  
@@ -10545,12 +10545,12 @@
  # Atomic Components of Complexity
  
  image atomicUnits.png
-  caption A visualization of the countable atomic units in SNC.
+  caption A visualization of the countable atomic units in PSC.
   float right
  
- SNC has more atomic units to count beyond nodes.
+ PSC has more atomic units to count beyond nodes.
  
- In SNC countable atomic units of complexity include:
+ In PSC countable atomic units of complexity include:
  
  - trees (files/2D planes/documents)
  - nodes (messages/lines in a file)
@@ -10578,39 +10578,39 @@
  
  ***
  
- # Why Scroll Notation?
+ # Why Particle Syntax?
  
- SNC is one of many systems that measure the "difficulty of description"^Lloyd. This means SNC doesn't measure complexity directly, rather the description of the entity is measured.
+ PSC is one of many systems that measure the "difficulty of description"^Lloyd. This means PSC doesn't measure complexity directly, rather the description of the entity is measured.
  
- Scroll Notation is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
+ Particle Syntax is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
  
- Basic primitives like the bit, the concept of a word, or an AND gate have a Scroll Notation representation.
+ Basic primitives like the bit, the concept of a word, or an AND gate have a Particle Syntax representation.
  
- Macro objects, like the Linux Kernel, could also be described using just Scroll Notation.
+ Macro objects, like the Linux Kernel, could also be described using just Particle Syntax.
  
  Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
  
  ***
  
- Scroll Notation is minimal and unambiguous.
+ Particle Syntax is minimal and unambiguous.
  
- Descriptions written in Scroll Notation can expand gracefully to handle new ideas.
+ Descriptions written in Particle Syntax can expand gracefully to handle new ideas.
  
- Other descriptions become noisier or repetitive over time, whereas Scroll Notation is a noiseless encoding and the signal in the information remains strong over time.
- 
- ***
- 
- Scroll Notation is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
- 
- SNC thus could enable cross-domain complexity comparisons.
- 
- In a sense, Scroll Notation can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+ Other descriptions become noisier or repetitive over time, whereas Particle Syntax is a noiseless encoding and the signal in the information remains strong over time.
  
  ***
  
- Furthermore, items encoded in Scroll Notation can be thought of and visualized as existing in 3-Dimensions.
+ Particle Syntax is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
  
- This is far-off speculation, but perhaps there exists a correlation between the SNC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
+ PSC thus could enable cross-domain complexity comparisons.
+ 
+ In a sense, Particle Syntax can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+ 
+ ***
+ 
+ Furthermore, items encoded in Particle Syntax can be thought of and visualized as existing in 3-Dimensions.
+ 
+ This is far-off speculation, but perhaps there exists a correlation between the PSC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
  
  ***
  
@@ -10624,13 +10624,13 @@
  
  How complex is a comprehensive blueprint of the new iPhone?
  
- At the moment no total complexity descriptive project so ambitious has been attempted in Scroll Notation.
+ At the moment no total complexity descriptive project so ambitious has been attempted in Particle Syntax.
  
  It is an open question as to whether or not such an accomplishment is even possible.
  
- For example, a back of the envelope estimate of how many nodes might be in the total Scroll Notation description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
+ For example, a back of the envelope estimate of how many nodes might be in the total Particle Syntax description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
  
- One thing is certain: assuming Scroll Notation does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
+ One thing is certain: assuming Particle Syntax does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
  
  ***
  
@@ -10646,11 +10646,11 @@
  
  # Conclusion and Future Work
  
- To an evergrowing number of systems for measuring I add one more: Scroll Notation Complexity.
+ To an evergrowing number of systems for measuring I add one more: Particle Syntax Complexity.
  
  The benefit of this system is that it is simple, practical, universal, and scale free.
  
- Future projects might look at creating Scroll Notation descriptions of large, complex systems and visualizing and summarizing the results.
+ Future projects might look at creating Particle Syntax descriptions of large, complex systems and visualizing and summarizing the results.
  
  ****
  
@@ -10702,7 +10702,7 @@
  
  A Parser Definition consists of a match rule and optionally another Parsers microlang.
  
- Everything is encoded in the same notation (Scroll Notation), hence Parsers is written in Parsers.
+ Everything is encoded in the same sytnax (Particle Syntax), hence Parsers is written in Parsers.
  
  # Example
  
@@ -10728,7 +10728,7 @@
  
  # Conclusion and Future Work
  
- The introduction above is minimal but shows the core idea: a new notation (Scroll Notation) can be used to define new languages in a language (Parsers) that itself is defined in Parsers on top of Scroll Notation.
+ The introduction above is minimal but shows the core idea: a new notation (Particle Syntax) can be used to define new languages in a language (Parsers) that itself is defined in Parsers on top of Particle Syntax.
  
  We have developed and open-sourced Parsers a compiler-compiler implementing these ideas.
   https://github.com/breck7/scrollsdk/tree/main/langs/parsers Parsers
@@ -10834,7 +10834,7 @@
  
  #### Updated 2024
  
- We renamed Tree Notation Scroll Notation. We now call the Grammar language Parsers. See the latest at Scroll.pub
+ We renamed Tree Notation Particle Syntax. We now call the Grammar language Parsers. See the latest at Scroll.pub
   https://scroll.pub/ Scroll.pub
  
  ***
@@ -13889,7 +13889,6 @@
   dateline
  
  table
-  delimiter
   printTable
   data
    Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll

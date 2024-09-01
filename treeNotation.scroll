@@ -1,4 +1,4 @@
-replace CAT_TITLE Scroll Notation
+replace CAT_TITLE Particle Syntax
 
 import categoryPage.scroll
 printSnippets Scroll

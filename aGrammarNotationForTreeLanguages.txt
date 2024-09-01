@@ -25,7 +25,7 @@ A microlang in Parsers consists of a set of Parser Definitions including a catch
 
 A Parser Definition consists of a match rule and optionally another Parsers microlang.
 
-Everything is encoded in the same notation (Scroll Notation), hence Parsers is written in Parsers.
+Everything is encoded in the same sytnax (Particle Syntax), hence Parsers is written in Parsers.
 
 Example
 =======
@@ -51,7 +51,7 @@ A valid program in the Tally microlang defined by the file above:
 Conclusion and Future Work
 ==========================
 
-The introduction above is minimal but shows the core idea: a new notation (Scroll Notation) can be used to define new languages in a language (Parsers) that itself is defined in Parsers on top of Scroll Notation.
+The introduction above is minimal but shows the core idea: a new notation (Particle Syntax) can be used to define new languages in a language (Parsers) that itself is defined in Parsers on top of Particle Syntax.
 
 We have developed and open-sourced Parsers a compiler-compiler implementing these ideas.
  https://github.com/breck7/scrollsdk/tree/main/langs/parsers Parsers
@@ -97,4 +97,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v125.0.1
+Built with Scroll v125.2.0
