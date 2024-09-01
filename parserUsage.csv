@@ -1,10 +1,10 @@
 parserId,uses
 blankLineParser,10306
-catchAllParagraphParser,4393
+catchAllParagraphParser,4394
 importOnlyParser,1076
 stumpContentParser,1036
 quickLinkParser,975
-h1Parser,684
+h1Parser,685
 viewSourceButtonParser,513
 listAftertextParser,509
 lineOfCodeParser,426
@@ -36,7 +36,7 @@ endOfPostDinkusParser,222
 slashCommentParser,218
 htmlLineParser,216
 datelineParser,210
-imageParser,195
+imageParser,196
 orderedListAftertextParser,169
 quoteLineParser,168
 h2Parser,167
@@ -46,7 +46,7 @@ thinColumnsParser,135
 htmlInlineParser,121
 cssLineParser,113
 mediumColumnsParser,110
-captionAftertextParser,104
+captionAftertextParser,105
 footnoteDefinitionParser,77
 scrollQuestionParser,74
 katexParser,67
