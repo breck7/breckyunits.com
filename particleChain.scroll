@@ -17,6 +17,9 @@ mediumColumns 1
 
 Is there a better way to build a blockchain? Yes.
 
+image particleChain.gif
+ caption A Particle Chain is a single plain text document of particles encoded in Particle Syntax with new transactions at the top of the document and an ID generated from the hash of the previous transaction.
+
 ***
 
 # RPM
@@ -45,8 +48,9 @@ Chains that are mirrored more with more history are more reliable.
 
 ***
 
+# Implementing
 
-
+The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper. For better usability it is recommended to build a digital Particle Chain. For implementing that, the Parsers Programming Language (or a similar compiler compiler and virtual machine) may be used.
 
 ****
 
