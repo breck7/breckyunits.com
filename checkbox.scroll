@@ -18,7 +18,7 @@ endSnippet
 
 We built CheckBox, an open source system voting system that supported online, offline and hybrid elections. I did the technical design, Cam talked to users and developed the business pitch, and Ben provided the design.
 
-CheckBox built on our new discovery at the time, which now goes by the name Scroll Notation.
+CheckBox built on our new discovery at the time, which now goes by the name Particle Syntax.
 
 We tried (and failed) to raise money to work on CheckBox full-time.
 
@@ -71,7 +71,7 @@ We built CheckBox so that voting districts can easily create a secure ballot for
 Online voting is a technical problem, not a political problem. No existing technology is able to provide a secure, user-friendly online voting experience.
 
 # Solution
-We invented the Space language (_2024 note: this is now called Scroll Notation_), which is the key technical innovation behind CheckBox. Space is the only language that is simple and powerful enough for online voting.
+We invented the Space language (_2024 note: this is now called Particle Syntax_), which is the key technical innovation behind CheckBox. Space is the only language that is simple and powerful enough for online voting.
 
 It offers:
 - Secure Voting
