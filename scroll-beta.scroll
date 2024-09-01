@@ -40,8 +40,8 @@ In addition to the layout, Scroll has two important differences from existing st
 
 First, Scroll is built for public domain sites and _only_ public domain sites. Builders of Scroll will spend 100% of the time building for the amazing creators who understand and value the public domain.
 
-Second, Scroll is built on Particle Syntax. Unlike Markdown, Scroll is easily extensible. We can create and combine thousands of new parsers to help people be more creative and communicate more effectively.
- https://notation.scroll.pub Particle Syntax
+Second, Scroll is built on Particles. Unlike Markdown, Scroll is easily extensible. We can create and combine thousands of new parsers to help people be more creative and communicate more effectively.
+ https://particles.scroll.pub Particles
 
 I've had fun building Scroll so far and am excited to start working on it with others.
 

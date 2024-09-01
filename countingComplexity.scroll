@@ -29,16 +29,16 @@ How do you count complexity?
 
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
-In this paper I add to the pile, and propose using Particle Syntax as a tool for counting complexity.
- link treenotationPaper.html Particle Syntax
+In this paper I add to the pile, and propose using Particles as a tool for counting complexity.
+ link treenotationPaper.html Particles
 
 ***
 
 # Overview
-The method introduced here, named Particle Syntax Complexity (PSC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Particles Complexity (PSC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
-2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particle Syntax language defined by a grammar, `G0`.
+2. Given the assumption that all structures can be represented as trees, we can then use Particles, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
  link aGrammarNotationForTreeLanguages.html grammar
 3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
@@ -52,7 +52,7 @@ Which concept is more complex, a boolean digit (0 or 1) or a base-10 digit (betw
 
 Let's imagine a machine that takes as input one character and returns true if that input is defined in a program written for that machine.
 
-Let's encode both concepts using one Particle Syntax language (not defined here).
+Let's encode both concepts using one Particles language (not defined here).
 
 code
  boolean
@@ -155,37 +155,37 @@ But the Total Complexity of the Python program might be greater than that of the
 
 ***
 
-# Why Particle Syntax?
+# Why Particles?
 
 PSC is one of many systems that measure the "difficulty of description"^Lloyd. This means PSC doesn't measure complexity directly, rather the description of the entity is measured.
 
-Particle Syntax is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
+Particles is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
 
-Basic primitives like the bit, the concept of a word, or an AND gate have a Particle Syntax representation.
+Basic primitives like the bit, the concept of a word, or an AND gate have a Particles representation.
 
-Macro objects, like the Linux Kernel, could also be described using just Particle Syntax.
+Macro objects, like the Linux Kernel, could also be described using just Particles.
 
 Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
 
 ***
 
-Particle Syntax is minimal and unambiguous.
+Particles is minimal and unambiguous.
 
-Descriptions written in Particle Syntax can expand gracefully to handle new ideas.
+Descriptions written in Particles can expand gracefully to handle new ideas.
 
-Other descriptions become noisier or repetitive over time, whereas Particle Syntax is a noiseless encoding and the signal in the information remains strong over time.
+Other descriptions become noisier or repetitive over time, whereas Particles is a noiseless encoding and the signal in the information remains strong over time.
 
 ***
 
-Particle Syntax is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
+Particles is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
 
 PSC thus could enable cross-domain complexity comparisons.
 
-In a sense, Particle Syntax can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
+In a sense, Particles can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
 
 ***
 
-Furthermore, items encoded in Particle Syntax can be thought of and visualized as existing in 3-Dimensions.
+Furthermore, items encoded in Particles can be thought of and visualized as existing in 3-Dimensions.
 
 This is far-off speculation, but perhaps there exists a correlation between the PSC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
 
@@ -201,13 +201,13 @@ How complex is a comprehensive description of the human brain?
 
 How complex is a comprehensive blueprint of the new iPhone?
 
-At the moment no total complexity descriptive project so ambitious has been attempted in Particle Syntax.
+At the moment no total complexity descriptive project so ambitious has been attempted in Particles.
 
 It is an open question as to whether or not such an accomplishment is even possible.
 
-For example, a back of the envelope estimate of how many nodes might be in the total Particle Syntax description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
+For example, a back of the envelope estimate of how many nodes might be in the total Particles description of the Linux Kernel might be a $10e6$ or perhaps as many as $10e12$.
 
-One thing is certain: assuming Particle Syntax does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
+One thing is certain: assuming Particles does provide the simplest notation to describe entities and thus measure their complexity (a big assumption), that does not change the fact that the total complexity of entities in our modern world is large and ever increasing.
 
 ***
 
@@ -223,11 +223,11 @@ Relative Complexity measurements of concepts ebbs and flows in sinusoidal waves,
 
 # Conclusion and Future Work
 
-To an evergrowing number of systems for measuring I add one more: Particle Syntax Complexity.
+To an evergrowing number of systems for measuring I add one more: Particles Complexity.
 
 The benefit of this system is that it is simple, practical, universal, and scale free.
 
-Future projects might look at creating Particle Syntax descriptions of large, complex systems and visualizing and summarizing the results.
+Future projects might look at creating Particles descriptions of large, complex systems and visualizing and summarizing the results.
 
 ****
 

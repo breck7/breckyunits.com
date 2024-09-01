@@ -1,5 +1,5 @@
-Breck's Blog - Particle Syntax Posts
-====================================
+Breck's Blog - Particles Posts
+==============================
 
 ETA!: A Measure of Evolution
 ============================
@@ -176,4 +176,4 @@ Introducing Note
 12/14/2012
 https://breckyunits.com/introducing-note.html
 
-Built with Scroll v125.2.0
+Built with Scroll v125.3.0

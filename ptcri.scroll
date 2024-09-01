@@ -37,8 +37,8 @@ If you view the source code of this post, you will see *T, C, R, and I* in actio
 
 ***
 
-PTCRI explains the simplicity and power of Particle Syntax^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
- https://scroll.pub Particle Syntax
+PTCRI explains the simplicity and power of Particles^treeNotationNameChange. Four concepts, three syntax rules support a vast universe of concise programs. Another syntax(es) might be found with superior metrics, but I have yet to see it.
+ https://scroll.pub Particles
 
 PTCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set T and C and R to 3, changing I from 1 to 2 increases the amount of possible programs from 7,625,597,484,987 to 58,149,737,003,040,060,000,000,000.
  // Math.pow(Math.pow(3, Math.pow(3, 3)), 1) vs:
@@ -46,14 +46,14 @@ PTCRI also explains why _nearly_ flat structures work so well: a little nesting 
 
 ***
 
-59 days ago I announced the decade long Particle Syntax research endeavor over with a negative result.
+59 days ago I announced the decade long Particles research endeavor over with a negative result.
  link treeNotationFinalReport.html announced
 
-It looks like I was wrong again. There was something special about Particle Syntax, and PTCRI explains what that is.
+It looks like I was wrong again. There was something special about Particles, and PTCRI explains what that is.
 
 ***
 
-_It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Particle Syntax doesn't even have parentheses!_
+_It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Particles doesn't even have parentheses!_
 
 And yet, the experimental evidence kept piling up.
  link scrollsets.html experimental evidence
@@ -64,7 +64,7 @@ The evidence hinted at some important natural formula, and now we have a name fo
 
 # Notes
 
-^treeNotationNameChange Particle Syntax was originally named Tree Notation.
+^treeNotationNameChange Particles was originally named Tree Notation.
 
 ***
 
@@ -76,14 +76,14 @@ Thank you to Marc Forward and Inconstant_Moo for feedback and helping me add the
 
 It may help to explain from another angle. Imagine your boss comes up to you and says "We are giving you a special assignment. We want you to come up with the best possible syntax for all programming languages." What do you come up with?
 
-You can present them with Particle Syntax, and explain how it supports a vast universe of programs, $P = {T^{C^R}}^I$, with just three syntax rules:
+You can present them with Particles, and explain how it supports a vast universe of programs, $P = {T^{C^R}}^I$, with just three syntax rules:
 - lines split into columns via bits, characters or words
 - groups of lines joined to each other via newlines
 - scopes established via the indent trick (aka the "Offiside Rule", popularized by Python, HAML, et cetera)
 
 ***
 
-- Does PTCRI also describe S-Expressions? S-Expression work. Particle Syntax _barely_ works.
+- Does PTCRI also describe S-Expressions? S-Expression work. Particles _barely_ works.
 - All mistakes are on me, and credit goes to the people who have supported this effort with me.
 - I think this equation is pretty interesting, so I really hope a lot of people on the Internet tell me how stupid it is and that it was discovered 100 years ago.
 - Now, back to my vacation.

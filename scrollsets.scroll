@@ -155,8 +155,8 @@ You can read more about ScrollSets on the Scroll blog, see small demos at sets.s
  https://en.wikipedia.org/wiki/Apple_M1 M1
 - The M1 laptop was the first consumer machine where the performance of this system wasn't abysmal.
  https://breckyunits.com/building-a-treebase-with-6.5-million-files.html abysmal
-^scrollStack Particle Syntax: Breck Yunits et al (formerly called Tree Notation)
- https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Particle Syntax
+^scrollStack Particles: Breck Yunits et al (formerly called Tree Notation)
+ https://github.com/breck7/research/blob/master/papers/paper3/countingComplexity.pdf Particles
 ^recutils GNU Recutils: Jose E. Marchesi
  https://www.gnu.org/software/recutils/ GNU Recutils
 - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
