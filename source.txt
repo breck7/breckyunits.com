@@ -1,3 +1,58 @@
+/home/runner/work/breckyunits.com/breckyunits.com/particleChain.scroll
+ date 9/1/2024
+ tags All Startups Programming Scroll Society ScrollPapers
+ title Particle Chain: A New Kind of Blockchain
+ 
+ import header.scroll
+ printTitle
+ printAuthors
+ printDate
+ 
+ HTML | TXT
+  class scrollDateline
+  style text-align: center;
+  link particleChain.html HTML
+  link particleChain.txt TXT
+ 
+ mediumColumns 1
+ 
+ Is there a better way to build a blockchain? Yes.
+ 
+ ***
+ 
+ # RPM
+ 
+ br 2
+ 
+ center
+ katex
+  R(C) =  P(C) \times M(C)
+ 
+ plainTextOnly Reliability(Chain) =  Particles(Chain) * Mirrors(Chain)
+ 
+ br 2
+ 
+ RPM states that $R$, the reliability of the chain, is the number of particles $P$ times the number of independent mirrors of the chain $M$.
+ 
+ ***
+ 
+ center
+ katex
+  Reliability(Chain) =  Particles(Chain) \times Mirrors(Chain)
+ 
+ ***
+ 
+ Chains that are mirrored more with more history are more reliable.
+ 
+ ***
+ 
+ 
+ 
+ 
+ ****
+ 
+ import footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/races.scroll
  date 8/30/2024
  tags All Society Life
@@ -620,7 +675,7 @@
  
  Are some intellectual environments better than others? Yes.
  
- 
+ br 2
  
  
  katex
@@ -628,7 +683,7 @@
  
  plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
  
- 
+ br 2
  
  ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
   // fitness of alterations
@@ -768,7 +823,7 @@
  
  Can we quantify intelligence? Yes.
  
- 
+ br 2
  
  
  katex
@@ -776,7 +831,7 @@
  
  plainTextOnly Intelligence(P) = Coverage(P) / Size(P)
  
- 
+ br 2
  
  Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).
  
@@ -3250,7 +3305,7 @@
  // perhaps
  // in a new language
  
- 
+ br 2
  
  # Footnotes²
  ^liberties There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.

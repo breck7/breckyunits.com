@@ -18,7 +18,7 @@ mediumColumns 1
 
 Can we quantify intelligence? Yes.
 
-<br><br>
+br 2
 <center>
 
 katex
@@ -26,7 +26,7 @@ katex
 
 plainTextOnly Intelligence(P) = Coverage(P) / Size(P)
 </center>
-<br><br>
+br 2
 
 Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).
 

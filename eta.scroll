@@ -18,7 +18,7 @@ mediumColumns 1
 
 Are some intellectual environments better than others? Yes.
 
-<br><br>
+br 2
 <center>
 
 katex
@@ -26,7 +26,7 @@ katex
 
 plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
 </center>
-<br><br>
+br 2
 
 ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
  // fitness of alterations
