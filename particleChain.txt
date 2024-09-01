@@ -43,4 +43,9 @@ All existing chains such as Bitcoin, Ethereum, and NEAR could be ported to Parti
 
 ⁂
 
+Notes
+=====
+Livestream creation of this post
+ https://www.youtube.com/watch?v=s8vQuCGCYPM Livestream creation of this post
+
 Built with Scroll v125.3.0

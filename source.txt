@@ -57,6 +57,10 @@
  
  ****
  
+ # Notes
+ Livestream creation of this post
+  https://www.youtube.com/watch?v=s8vQuCGCYPM
+ 
  import footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/races.scroll
