@@ -53,6 +53,7 @@
  
  The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper.
   https://particles.scroll.pub/ Particle Syntax
+  // Note: this is a joke! You *can* do this, just as you could train ChatGPT with pen and paper, but I wouldn't recommend it.
  
  For better usability it is recommended to build a digital Particle Chain.
  
