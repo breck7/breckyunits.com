@@ -1,0 +1,53 @@
+date 9/1/2024
+tags All Startups Programming Scroll Society ScrollPapers
+title Particle Chain: A New Kind of Blockchain
+
+import header.scroll
+printTitle
+printAuthors
+printDate
+
+HTML | TXT
+ class scrollDateline
+ style text-align: center;
+ link particleChain.html HTML
+ link particleChain.txt TXT
+
+mediumColumns 1
+
+Is there a better way to build a blockchain? Yes.
+
+***
+
+# RPM
+
+br 2
+
+center
+katex
+ R(C) =  P(C) \times M(C)
+
+plainTextOnly Reliability(Chain) =  Particles(Chain) * Mirrors(Chain)
+
+br 2
+
+RPM states that $R$, the reliability of the chain, is the number of particles $P$ times the number of independent mirrors of the chain $M$.
+
+***
+
+center
+katex
+ Reliability(Chain) =  Particles(Chain) \times Mirrors(Chain)
+
+***
+
+Chains that are mirrored more with more history are more reliable.
+
+***
+
+
+
+
+****
+
+import footer.scroll
