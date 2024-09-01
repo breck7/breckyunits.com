@@ -9,7 +9,7 @@ mediumColumns 1
 
 image oneTextarea.gif
  openGraph
- caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particle Syntax or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+ caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particles or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
   https://github.com/breck7/copypaster demo gif
 
 Forget all the "best practices" you've learned about web forms.
@@ -22,7 +22,7 @@ The true best practice is this: every web form on earth can and will be replaced
 Current form technology will become "classic forms" and can still be used as a fallback.
 
 //
- The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Particle Syntax and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
+ The current web forms with individual form fields will obviously be kept around for a while longer as secondary input experiences. But in the long run as the tooling for Particles and similar 2D notations evolve, people will stop using those as they'll prefer the faster, simpler single document editing experiences.
 
 ***
 
