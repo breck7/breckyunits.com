@@ -1131,7 +1131,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-edit heatmap
- https://try.scroll.pub/#scroll%0A%20gazetteCss%0A%20%23%20Press%20%22Run%20Build%22%20to%20load%0A%20fetch%20https%3A%2F%2Fbreckyunits.com%2Fposts.csv%0A%20tableSearch%0A%20table%20posts.csv%0A%20%20groupBy%20year%0A%20%20%20impute%20year%0A%20%20%20%20transpose%0A%20%20%20%20%20heatrix%0A%20%20%20%20printTable edit heatmap
-
-Built with Scroll v125.3.0
+Built with Scroll v125.5.1

@@ -21,4 +21,4 @@ Notes
 3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
 4. We should also call days "revs". Okay I'm done.
 
-Built with Scroll v125.3.0
+Built with Scroll v125.5.1

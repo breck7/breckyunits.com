@@ -1,4 +1,4 @@
-buildTxt posts.csv
+buildCsv
 
 import settings.scroll
 printCsv All
