@@ -24,7 +24,7 @@
  image particleChain.gif
   caption A Particle Chain is a single plain text document of particles encoded in Particle Syntax with new transactions at the top of the document and an ID generated from the hash of the previous transaction.
  
- > Particle Chain is a syntax-free storage format for the base layer of a blockchain to increase trust among non-expert users without sacrificing one iota of capabilities. 
+ > Particle Chain is a syntax-free storage format for the base layer of a blockchain to increase trust among non-expert users without sacrificing one iota of capabilities. A Particle Chain can be grokked by >10x as many people, thus leading to an order of magnitude increase in trust and developers on a chain.
  
  ***
  
