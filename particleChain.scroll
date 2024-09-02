@@ -4,6 +4,9 @@ title Particle Chain: A New Kind of Blockchain
 
 import header.scroll
 printTitle
+
+# Trust, _and understand_.
+
 printAuthors
 printDate
 
@@ -20,6 +23,8 @@ Is there a better way to build a blockchain? Yes.
 image particleChain.gif
  caption A Particle Chain is a single plain text document of particles encoded in Particle Syntax with new transactions at the top of the document and an ID generated from the hash of the previous transaction.
 
+> Particle Chain is a syntax-free storage format for the base layer of a blockchain to increase trust among non-expert users without sacrificing one iota of capabilities. 
+
 ***
 
 # RPM
@@ -34,7 +39,7 @@ plainTextOnly Reliability(Chain) =  Particles(Chain) * Mirrors(Chain)
 
 br 2
 
-RPM states that $R$, the reliability of the chain, is the number of particles $P$ times the number of independent mirrors of the chain $M$.
+RPM states that $R$, the reliability of a chain, is the number of particles $P$ times the number of independent mirrors of the chain $M$.
 
 ***
 
@@ -50,11 +55,9 @@ Chains that are mirrored more with more history are more reliable.
 
 # Implementing
 
-The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper.
+The chain itself is encoded in Particles (Particle Syntax) which could be done with pen and paper, though for more utility it is recommended to build a digital Particle Chain 😉.
  https://particles.scroll.pub/ Particle Syntax
  // Note: this is a joke! You *can* do this, just as you could train ChatGPT with pen and paper, but I wouldn't recommend it.
-
-For better usability it is recommended to build a digital Particle Chain.
 
 For implementing a digital Particle Chain, the Parsers Programming Language (or a similar compiler compiler and virtual machine) may be used.
  https://pldb.io/concepts/parsers.html Parsers Programming Language

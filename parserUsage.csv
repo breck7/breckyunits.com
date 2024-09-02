@@ -1,10 +1,10 @@
 parserId,uses
-blankLineParser,10312
-catchAllParagraphParser,4399
+blankLineParser,10314
+catchAllParagraphParser,4398
 importOnlyParser,1076
 stumpContentParser,1036
 quickLinkParser,978
-h1Parser,686
+h1Parser,687
 viewSourceButtonParser,513
 listAftertextParser,509
 lineOfCodeParser,426
@@ -64,7 +64,7 @@ openGraphImageParser,27
 classMarkupParser,25
 printAuthorsParser,25
 programLinkParser,22
-quickQuoteParser,20
+quickQuoteParser,21
 openGraphDescriptionParser,16
 chatParser,14
 h4Parser,14
