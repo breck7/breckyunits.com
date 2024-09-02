@@ -9,4 +9,4 @@ Understanding and mastering bash history can:
 
 Here's a terrific guide on using Bash History effectively.
 
-Built with Scroll v125.5.1
+Built with Scroll v125.6.0

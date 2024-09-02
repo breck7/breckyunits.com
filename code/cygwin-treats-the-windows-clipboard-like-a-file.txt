@@ -17,4 +17,4 @@ Notes
 
 1. Fun with Cygwin's /dev/clipboard.
 
-Built with Scroll v125.5.1
+Built with Scroll v125.6.0
