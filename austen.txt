@@ -34,4 +34,4 @@ Eventually I did move out to San Francisco. Timing is a funny thing though. Aust
 
 I will never ever believe Austen killed himself. Austen was never crazy. Austen was intelligent, tough, gentle, brave, bold, hard working, loving, funny, kind. It's society who has been crazy. Maybe it's time more people took Heinz 101.
 
-Built with Scroll v125.8.0
+Built with Scroll v126.0.1

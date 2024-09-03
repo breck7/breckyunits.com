@@ -69,4 +69,4 @@ Links
 - SEOBook - one of the best SEO sites out there.
  https://www.seobook.com SEOBook
 
-Built with Scroll v125.8.0
+Built with Scroll v126.0.1
