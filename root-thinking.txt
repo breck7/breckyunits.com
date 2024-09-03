@@ -31,4 +31,4 @@ Update: 7/1/2023
 
 On second thought, I think this idea is bad. The representation of your principles-axioms-agents-types-etc rounds to irrelevant. Infinitely better to spend time making sure you have the correct collection of first principles than worrying about representing them as a "tree" so you can have a visual. It's knowing what the principles are and how they interact that matters most, not some striving for the ideal representation syntax. This post presents a bad idea, but I'll leave it up as a reminder that sometimes I'm dead wrong.
 
-Built with Scroll v125.6.0
+Built with Scroll v125.8.0

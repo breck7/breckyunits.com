@@ -29,4 +29,4 @@ The color of the moving line shows the odds that a task will succeed, given the 
 
 It helps your users decide: should I wait or abort?
 
-Built with Scroll v125.6.0
+Built with Scroll v125.8.0
