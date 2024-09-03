@@ -35,4 +35,4 @@ I still have a ton to learn but I wanted to share this simple book scan in case 
 
 ⁂
 
-Built with Scroll v126.0.1
+Built with Scroll v126.1.0
