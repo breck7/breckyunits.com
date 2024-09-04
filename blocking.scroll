@@ -26,7 +26,7 @@ I hope in this short essay, we can show why Warpcast should veto adding blocking
 
 We will use the illustration below to define our terms.
 
-image blockingExplained.png
+blockingExplained.png
  caption Black triangle represents a powerful user with a lot of followers (grey triangles). Black circle is a post by black user. Blue circle is a comment by blue follower. Black triangle blocks blue follower, preventing gray triangles from seeing response. By blocking blue, black user harms grey users by preventing them from seeing truthful enhancements to their posts.
 
 ***

@@ -15,7 +15,7 @@ endSnippet
 quote
  In mathematics, an irrational number is any real number that is not a rational number—that is, it is a number which cannot be expressed as a fraction m/n, where m and n are integers, with n non-zero. Informally, this means numbers that cannot be represented as simple fractions. It can be deduced that they also cannot be represented as terminating or repeating decimals, but the idea is more profound than that. As a consequence of Cantor’s proof that the real numbers are uncountable (and the rationals countable) it follows that almost all real numbers are irrational.[1] Perhaps the best-known irrational numbers are π, e and √2.
 
-image irrationalNumber.png
+irrationalNumber.png
 
 Here’s what I think now that I didn’t understand back in the day. Say someone showed me the picture of the triangle above and said “write down the exact length of the hypotenuse in decimal form”, I might try and use Pythagorean’s Theorem and say C^2 = A^2+B^2 so c = 2^.5…Then if I tried to write the 2^.5 in decimal form of course I’d go on forever.
 

@@ -36,7 +36,7 @@ The fact is, people want to do millions of different things  with their websites
 # The solution
 Which is why we're building a third option. We are building an open source, general purpose IDE for building websites.
 
-image nudgepadYouTube.jpg
+nudgepadYouTube.jpg
 
 Here's a short video demonstrating how it works:
 
@@ -44,7 +44,7 @@ youTube https://youtube.com/watch?v=yh_EdtGpBak
 
 NudgePad is in early beta, but is powering a number of live websites  like these:
 
-image samples.gif
+samples.gif
 
 Although we have a lot more to do to get to a stable version 2.0, we thought the time was right to start opening up NudgePad to more people and recruiting more help for the project. We also want to get feedback on the core ideas in NudgePad.
 

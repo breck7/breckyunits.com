@@ -21,7 +21,7 @@
  
  Is there a better way to build a blockchain? Yes.
  
- image particleChain.gif
+ particleChain.gif
   caption A Particle Chain is a single plain text document of particles encoded in Particle Syntax with new transactions at the top of the document and an ID generated from the hash of the previous transaction.
  
  > Particle Chain is a syntax-free storage format for the base layer of a blockchain to increase trust among non-expert users without sacrificing one iota of capabilities. A Particle Chain can be grokked by >10x as many people, thus leading to an order of magnitude increase in trust and developers on a chain.
@@ -175,7 +175,7 @@
  
  import standardHeader.scroll
  
- image neo.jpg
+ neo.jpg
   caption A human builds an elaborate sandcastle, with their back to the ocean...
  
  ****
@@ -211,7 +211,7 @@
  
  We will use the illustration below to define our terms.
  
- image blockingExplained.png
+ blockingExplained.png
   caption Black triangle represents a powerful user with a lot of followers (grey triangles). Black circle is a post by black user. Blue circle is a comment by blue follower. Black triangle blocks blue follower, preventing gray triangles from seeing response. By blocking blue, black user harms grey users by preventing them from seeing truthful enhancements to their posts.
  
  ***
@@ -274,7 +274,7 @@
  
  import standardHeader.scroll
  
- image rejected.jpg
+ rejected.jpg
   caption If someone tossed me a nickel for every rejection I've gotten I'd be dead, buried under nickels.
  
  Two weeks ago I applied for the South Park Commons Founder Fellowship.
@@ -342,7 +342,7 @@
  
  Exciting times!
  
- image pau.gif
+ pau.gif
   caption Our slides from 2019 as relevant as ever.
  
  ****
@@ -412,25 +412,25 @@
  
  ## My mental model of the entire life cycle of ketones
  
- image ketoneMap/side2.jpg
+ ketoneMap/side2.jpg
   openGraph
   caption Food enters mouth then throat then down into the stomach where it starts to be broken down. Parts of it move to the liver, where ketones are metabolized. Some of those ketones travel in the blood through the carotid and vertebral arteries to the brain and across the blood brain barrier.
- image ketoneMap/cross2.jpg
+ ketoneMap/cross2.jpg
   caption A different angle.
- image ketoneMap/brain2.jpg
+ ketoneMap/brain2.jpg
   caption Ketones travel through arteries that run up along the spine/neck to the brain.
  
  ***
  
  # More images from Real Bodies relevant to Ketones
  
- image ketoneMap/liver.jpg
+ ketoneMap/liver.jpg
   caption The liver is the largest organ inside your body.
- image ketoneMap/liverCanals.jpg
+ ketoneMap/liverCanals.jpg
   caption Look at all those branches! Lots of places to make a lot of ketones.
- image ketoneMap/pipes.jpg
+ ketoneMap/pipes.jpg
   caption The complete digestive system.
- image ketoneMap/vessels.jpg
+ ketoneMap/vessels.jpg
   caption Ketones travel in your bloodstream through all of these tubes.
  
  ***
@@ -576,7 +576,7 @@
  
  mediumColumns 1
  
- image davidAndSandy.jpg
+ davidAndSandy.jpg
   caption David and Sandy
  
  ***
@@ -672,7 +672,7 @@
  Matthew Pinsker at Dickinson posted an image of the original:
   https://housedivided.dickinson.edu/sites/lincoln/notes-for-a-law-lecture-july-1-1850/notes-for-a-law-lecture/ an image of the original
  
- image notesForALawLecture.gif
+ notesForALawLecture.gif
  
  ****
  
@@ -991,7 +991,7 @@
  
  mediumColumns 1
  
- image lab.jpg
+ lab.jpg
   caption Above is a (blurred) screenshot of *brecks.lab*. For PRICE a year, you get access to the private Git repo and issue boards.
  
  endSnippet
@@ -1352,7 +1352,7 @@
  You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
   dateline
  
- image radioshack.png
+ radioshack.png
  
  endSnippet
  
@@ -1460,7 +1460,7 @@
  
  mediumColumns 1
  
- image plVersions/versionNumbers.png
+ plVersions/versionNumbers.png
   caption Interactive Version
    https://observablehq.com/@breck/version-numbers
   https://observablehq.com/@breck/version-numbers
@@ -1635,7 +1635,7 @@
  
  On it is a perfectly grilled Portobello mushroom.
  
- image omni.png
+ omni.png
   openGraph
   // chatgpt/dalle
  
@@ -1925,7 +1925,7 @@
  
  # A Visualization
  
- image scrollsets.png
+ scrollsets.png
   openGraph
   caption Blue dots are measure ids. The first blue dot is a measure definition (aka a parser). The red dot is a measurement value. The blue-red pair is a measurement, as well as a concept. The cyan dot is a comment. View Source
    https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment View Source
@@ -2025,7 +2025,7 @@
  
  thinColumns 1
  
- image hits.png
+ hits.png
   openGraph
   // thoughts and shooting stars have a lot in common.
   // A single pane comic. XKCD style. No color. Mostly black. Shows a sky at night. A person is walking looking up at the stars. There are 3 shooting stars. One is long but feint. One is medium length and brightness. And one is just starting, but is 10x bigger than the others
@@ -2341,7 +2341,7 @@
  
  thinColumns 1
  
- image aiUni.jpeg
+ aiUni.jpeg
   openGraph
   // ChatGPT: An XKCD style comic. No color. A single pane. Shows a university. The panel label says "AI University". It looks massive, advanced, pristine. Like it may hold every book in the world. Robots walk around the grounds. A white sign in black letters says "No humans allowed".
  
@@ -2479,7 +2479,7 @@
  
  thinColumns 1
  
- image shoeSize.png
+ shoeSize.png
  
  That charts work at all is amazing.
   dateline
@@ -2550,7 +2550,7 @@
  
  But for meaning, it takes marks.
  
- image meaning.jpg
+ meaning.jpg
   openGraph
  
  ****
@@ -2586,7 +2586,7 @@
  
  thinColumns 1
  
- image theTallestTree.jpg
+ theTallestTree.jpg
   openGraph
   // ChatGPT/DallE, with some slight edits by me. Prompt:
    It is a comic. Single frame. XKCD style. A very tall tree stands in the middle, ten times taller than a tree to the left and a tree to the right. Next to the tree on the left is a stump carved out to form a throne. On the stump sites an old man with a gray beard. On the right is a small child looking up at the tree.
@@ -2716,7 +2716,7 @@
  
  printAuthors
  
- image scientistsHeaven.jpg
+ scientistsHeaven.jpg
   openGraph
   // ChatGPT/DALLE made with a little editing in "Preview" by me.
   // In this single pane comic, xkcd illustration, 3 figures are seen standing outside the gates of heaven. Another stick figure, representing God, stands next to the gate. God is in control of the gate, preventing the others from entering. Heaven is on the other side of the gate
@@ -2875,7 +2875,7 @@
  
  ****
  
- image lakeCrew.jpeg
+ lakeCrew.jpeg
   openGraph
   caption Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.
    https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson Jack Dawson
@@ -2940,7 +2940,7 @@
  
  ***
  
- image energyClock.jpeg
+ energyClock.jpeg
   openGraph
   caption In the movie Hunger Games: Catching Fire, an outdoor arena has 12 slices. Each slice gets power for one hour, then it rotates to the next slice. A rotating energy clock.
    https://www.imdb.com/title/tt1951264/ Hunger Games: Catching Fire
@@ -3243,7 +3243,7 @@
  
  I repeat the experiment and add the new data to my dataset.
  
- image coffeeMugs.jpg
+ coffeeMugs.jpg
   caption The lab. I measured how long these 5 coffee mugs kept coffee hot.
  
  ***
@@ -3291,11 +3291,11 @@
  I took some narrative liberties above^liberties, but for accuracy and _fun_^fun, I really did this experiment.
  
  ### The Raw Data
- image coffeeRaw.jpg
+ coffeeRaw.jpg
   caption This is both a dataset on thermal dissipation and penmanship deficiency.
  
  ### The Data Visualized
- image coffeeChart.png
+ coffeeChart.png
   openGraph
   caption Interactive version.
    link https://www.datawrapper.de/_/1hhse/ Interactive version
@@ -3456,7 +3456,7 @@
  ****
  
  thinColumns 1
- image bigOs.png
+ bigOs.png
   caption Interactive Version
    https://www.datawrapper.de/_/O5Pmu/
  
@@ -3627,7 +3627,7 @@
  printAuthors
  mediumColumns 1
  
- image ketones/ketoMojoFingerPrick.jpeg
+ ketones/ketoMojoFingerPrick.jpeg
   caption Pricking my finger then measuring the level of ketones in my blood.
   // Keto-Mojo GK+
   width 300
@@ -3736,7 +3736,7 @@
  // Note: what is termed "ketones" here is termed "ketone bodies" on Wikipedia
  
  # What is a ketone?
- image ketones/bhb.png
+ ketones/bhb.png
   openGraph
   caption Ketones are tiny molecules. The ketone BHB (beta-hydroxybutyrate) accounts for around 70-80% of your ketones. Image Source: NIH
    https://3d.nih.gov/entries/4223/2 NIH
@@ -3752,7 +3752,7 @@
   https://en.wikipedia.org/wiki/Acetoacetic_acid AA
   https://en.wikipedia.org/wiki/Acetone Acetone
  
- image ketones/3types.png
+ ketones/3types.png
   caption Source
    https://www.ruled.me/what-is-acetoacetate/ Source
  
@@ -3763,7 +3763,7 @@
   https://en.wikipedia.org/wiki/Amperometry Amperometry
  
  // ? How do ketone tests work?
- image ketones/testAccuracy.png
+ ketones/testAccuracy.png
   caption At home finger prick ketone blood tests are highly accurate. Source: Keto Mojo GK+ manual
    https://keto-mojo.com/wp-content/uploads/2020/09/Keto-Mojo-GK-US-Users-Manual-English.pdf Keto Mojo GK+ manual
  
@@ -3780,7 +3780,7 @@
  Static image of table above.
   link seven-years-of-blog-posts-sorted-by-sleep.png Static image
  
- image sleeping-less-is-slightly-correlated-with-posting-more.png
+ sleeping-less-is-slightly-correlated-with-posting-more.png
  
  # More Posts. Similar Word Counts. Higher Scatteredness. Similar IQ. Higher Confidence.
  I actually post slightly more when I sleep less (Pearson correlation coefficient of -.14), but fewer words per post, which is indicative of a more "scattered" thinking state. I was surprised to see that I don't generally generate a whole lot more words in deprived sleep states. I _perceive_ my writing to be smarter during those times, but looking back it's clearly not.
@@ -3829,7 +3829,7 @@
  printTitle
  mediumColumns 1
  
- image lobsterMoltingChart.png
+ lobsterMoltingChart.png
   caption In lobsters, a steroid hormone called ecdysteroid spikes during the pre-molt phase and declines sharply after molting. Source: J. Sook Chung
    https://www.researchgate.net/figure/Ecdysteroid-profiles-in-hemolymphs-during-last-three-molt-cycles-of-the-life-history-of_fig4_26322112 J. Sook Chung
  
@@ -3868,7 +3868,7 @@
  
  mediumColumns 1
  
- image treeNotationTimeline.png
+ treeNotationTimeline.png
  
  It has been over 3 years since I published the 2019 Tree Notation "Annual" Report. An update is long overdue. This is the second and _last_ report as I am officially concluding the Tree Notation project.
   link tree-notation-annual-report-2019.html 2019 Tree Notation "Annual" Report
@@ -3946,7 +3946,7 @@
  
  mediumColumns 1
  
- image boxMethod.jpeg
+ boxMethod.jpeg
   openGraph
   width 300
   caption S = side length of box. P = pattern. t = time. V = voxel side length.
@@ -4000,7 +4000,7 @@
  
  Untagged natural patterns may have become rarer.
  
- image diminishingReturns.png
+ diminishingReturns.png
   caption The box at the element size is well described. Scientists have identified all the natural elements and the only new ones are man-made.
   // Does this hold up to scrutiny? Is the "taxonomy of elements" what creates this sigmoidal pattern? Would we still see it if we counted ions and molecules?
  
@@ -4220,7 +4220,7 @@
  In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
   dateline
  
- image mindmap.png
+ mindmap.png
   caption The ugly prototype I made at a hackathon in 2023 to explore this idea.
  
  endSnippet
@@ -4257,7 +4257,7 @@
  Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
   dateline
  
- image activatedCells.jpg
+ activatedCells.jpg
   caption Activated Cells in a Knowledge Base.
  
  endSnippet
@@ -4389,7 +4389,7 @@
  printTitle
  mediumColumns 1
  
- image blackCup.jpg
+ blackCup.jpg
  
  The color of the cup on my desk is black.
   dateline
@@ -4692,7 +4692,7 @@
   dateline
   link bipolarDisorder.html eighteen months
  
- image powerSurge.png
+ powerSurge.png
   caption Your lifetime odds of getting hit by lightning are 1 in 15,000. Your lifetime odds of getting hit by a manic brain energy surge, like the one I was hit by here in 2022, are ~1 in 100. Like lightning strikes, brain energy surges can differ by orders of magnitude. You might just feel a slight shock, or you might become a very, very high energy person--temporarily. If you get hit by one large surge, you are likely to get hit again.
   // Shown is a draft of a work in progress of a "BrainEnergyScore" metric. In this draft I'm computing it as: BrainEnergyScore_t = e^(AvgWeeklySleepHrs - Sleep_t)
  
@@ -4706,7 +4706,7 @@
   link hrSurge.jpg power surge
    // This is my heart rate the last time I transitioned to a high energy person.
  
- image grabBullByTheHorns.jpg
+ grabBullByTheHorns.jpg
   caption Me on top of a bull during a power surge. On a couple hour layover in NYC I left the airport, ran miles to Wall Street, got a picture on the bull, and made it back just in time for my flight.
  
  # My New Reality
@@ -4825,7 +4825,7 @@
  I had been following the early stories about Covid with some concern, but after the first big data dump was published on February 17th, 2020, it seemed clear to me that Covid would not be a huge danger. Most importantly, the first data dump indicated strongly Covid was not a significant danger to children. Every additional large data dump from then on only reinforced the more mild view of Covid. Covid was not deadly for nearly everyone (awful flu like experience aside), except those who were also at risk of dying from the flu. Thus, it shocked me as society locked down increasingly harshly over the next two years. The precautionary principle is a fine argument that would have justified a strong response measured in weeks, but the duration of the response put this in the delusional category.
   https://twitter.com/breckyunits/status/1228117546974371840 first big data dump
  
- image covidTweet.png
+ covidTweet.png
   caption It was easy to ballpark from the data what the disease would do. It was much harder to predict what society would do.
  
  Let's see how some of the things that unfolded meet the criteria of delusion as defined above.
@@ -5061,7 +5061,7 @@
  
  ****
  
- image emerson.jpeg
+ emerson.jpeg
   caption I loved this 1904 quote from Ralph Waldo Emerson, which I saw in a Tweet from Dylan O'Sullivan.
    https://www.theatlantic.com/magazine/archive/1904/11/country-life/376194/ 1904 quote
    https://x.com/DylanoA4/status/1816503516833476691 a Tweet from Dylan O'Sullivan
@@ -5095,7 +5095,7 @@
  
  Minsky had an extremely skeptical view of the fields of psychology and psychiatry. His approach to understand the mind was through attempting to build one. He conducted countless experiments to figure out the details, using crayfish claws, building the very first robots, and pioneering the field of software AI. The theories he developed from his play-like, bottom up, experimental approach I would personally bet will prove far more accurate and useful than all the theories from 20th century psychology and psychiatry combined.
  
- image feynmanBlackboard.jpg
+ feynmanBlackboard.jpg
   caption A well known Richard Feynman quote is "What I cannot create I do not understand." I wonder if Feynman's friend Minsky inspired this quote.
    https://www.youtube.com/watch?v=JKldGw7UXww friend
  
@@ -5175,7 +5175,7 @@
  Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.
   dateline
  
- image enchained.jpeg
+ enchained.jpeg
   caption I wish I could say that copyright is not intellectual slavery, but saying it is not would be a lie.
    link an-unpopular-phrase.html intellectual slavery
  
@@ -5315,7 +5315,7 @@
  
  ## Notes
  ^minsky Minsky: I also believe his theory is as significant as Darwin's. Below is a crude illustration of his theory. Everyone's brain there is a struggle between honest agents (blue) and dishonest ones (red).
- image honestBrain.jpg
+ honestBrain.jpg
  
  ^marriageAdvice Divorce: Getting legally married was a big mistake. In my experience, lawyers and judges in California Family Court are not steered by honest agents and I regret blindly signing up for their corrupt system.
  
@@ -5375,7 +5375,7 @@
  
  mediumColumns 1
  
- image spines.jpg
+ spines.jpg
   openGraph
   width 400
   caption My M1 MacBook screen, paper notebook, notepads, and my 1920 copy of Einstein's Theory of Relativity, all have spines.
@@ -5414,7 +5414,7 @@
  ## Programming languages that use the spine are more successful
  Similarly, in programming languages we are now seeing more than 50% of programmers using languages that use the spine, even though languages of this kind make up fewer than 2% of all languages.
  
- image spineGraph.png
+ spineGraph.png
   caption Data from PLDB.io shows only 57 out of 4,228 computer languages use the spine. Less than 1.5%. Yet in that 1.5% are some of the most popular ones such as Python and YAML. This is probably signal.
    https://pldb.io/docs/csv.html PLDB.io
  
@@ -5423,7 +5423,7 @@
  ## Spreadsheets use the spine
  When one expands one classification of programming languages to include spreadsheet languages, then the evidence is overwhelming: languages that use the spine are dominating. Excel and Google sheets famously have over 1 billion users and makes heavy use of the spine.
  
- image explorer.jpg
+ explorer.jpg
   caption Spreadsheets have used the spine and have over 1 billion users—orders of magnitude more than 1D programming languages.
  
  ***
@@ -5445,7 +5445,7 @@
  
  mediumColumns 1
  
- image oneTextarea.gif
+ oneTextarea.gif
   openGraph
   caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particles or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
    https://github.com/breck7/copypaster demo gif
@@ -5528,7 +5528,7 @@
  I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
   dateline
  
- image rootThinking.svg
+ rootThinking.svg
   caption Sometimes we get something wrong near the root which limits our late stage growth. To reach new heights, we have to backtrack and build up from a different point.
  
  endSnippet
@@ -5648,13 +5648,13 @@
  
  # Appendix 2: My one-man protest against no-reply email addresses
  
- image noNoReplies.png
+ noNoReplies.png
   openGraph
   caption My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
  
  endSnippet
  
- image gmailFilter.png
+ gmailFilter.png
   caption Join the campaign against noreply email addresses!
  
  # My Gmail filter
@@ -5706,7 +5706,7 @@
  mediumColumns 1
  printTitle
  
- image misinformationOrFakeNews.jpg
+ misinformationOrFakeNews.jpg
   openGraph
  
  Today I'm announcing the release of the image above, which is sufficient training data to train a neural network to spot misinformation or fake news with near perfect accuracy.
@@ -5731,7 +5731,7 @@
  In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
   dateline
  
- image seemewin.jpg
+ seemewin.jpg
   openGraph
   width 300
   caption Still makes me laugh.
@@ -5783,7 +5783,7 @@
  
  - Thank you to everyone that helped with this big failure especially: Angel Bigunit Bluth Dti First Harvard Kones Qduke Suitcase Wellesley Wifi Windsock.
  
- image pmarca.png
+ pmarca.png
   caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
  
  import footer.scroll
@@ -5797,7 +5797,7 @@
  printTitle
  mediumColumns 1
  
- image endCancerMiracle1.png
+ endCancerMiracle1.png
   openGraph
   caption Logo stolen from the ugliest (best) logo of all cancer centers in the world: MDAnderson.
  
@@ -5858,7 +5858,7 @@
  There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:
   dateline
  
- image angelData.png
+ angelData.png
   openGraph
   caption Sigh. I am sharing my data as a png. We need a beautiful plain text spreadsheet language.
  
@@ -5920,7 +5920,7 @@
   hoverNote unethical
    If you define ethical so 'copyright is ethical' is true the word 'ethical' becomes meaningless.
  
- image openLibrary.png
+ openLibrary.png
   caption One of the many moves in the struggle for intellectual freedom. Aaron Swartz is a hero whose name and impact will expand for eons.
    https://en.wikipedia.org/wiki/Aaron_Swartz Aaron Swartz
  
@@ -6026,7 +6026,7 @@
  In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
   https://ourworldindata.org/ our
  
- image map-view.png
+ map-view.png
   caption Suddenly these charts were taking a long time to render.
  
  # k-means was the culprit
@@ -6094,7 +6094,7 @@
   Before xxxxxxxxxxxxxxxx 820ms
   After  x 52ms
  
- image the-three-byte-fix.png
+ the-three-byte-fix.png
   caption Interactive Version.
    https://www.datawrapper.de/_/vrQfc/
  
@@ -6152,7 +6152,7 @@
  
  mediumColumns 1
  
- image sortingIdeas.svg
+ sortingIdeas.svg
   caption A rough sketch of a semi-random selection of ideas stacked in order of importance. The biggest ideas, "upstream of everything", are at the bottom. The furthest upstream ideas we can never see. A better artist would have drawn this as an actual stream.
  
  There will always be truths upstream that we will never be able to see, that are far more important than anything we learn downstream. So devoting too much of your brain to rationality has diminishing returns, as at best your most scientific map of the universe will be perpetually vulnerable to irrelevance by a single missive from upstream.
@@ -6236,7 +6236,7 @@
  
  mediumColumns 1
  
- image brainPilots/brainWithPilotsInGold.jpg
+ brainPilots/brainWithPilotsInGold.jpg
   caption What if there is not just one part of your brain that can say "I", but many?
  
  # Introduction
@@ -6273,12 +6273,12 @@
   caveat gets across
    It's also very entertaining.
  
- image brainPilots/insideOut.jpeg
+ brainPilots/insideOut.jpeg
   caption In the 2015 film Inside Out five brain pilots (Anger, Disgust, Joy, Fear, and Sadness) live inside the brain of a girl and can take turns piloting.
  
  Inside Out is primarily a movie and not a scientific model, of course. To make it a better model we need to drop the personification of the agents. Instead of looking like tiny humans and being as capable as humans, in reality Brain Pilots would look like tangles of roots and globs of cells, and would likely have a very different and incomplete set of capabilities and behaviors. It's very important to keep in mind that the agents in your brain are very limited by themselves. It's why in your dream an elephant can start talking to you and your current brain pilot isn't taken aback, because that current might not have access to other agents that would detect the absurdity of the situation.
  
- image brainPilots/insideOut2.jpg
+ brainPilots/insideOut2.jpg
   caption If you picture brain pilots not as personified mini-humans but some type of plant-like neuronal circuits, you get a pretty good model of this Brain Pilots theory.
  
  ? Where are the pilots?
@@ -6325,11 +6325,11 @@
  ? How long do brain pilots live?
  I'd imagine once an agent has evolved to be a pilot, it would probably stick around until death given the safe confines of the skull. It may be harder to get rid of an old pilot than it is to grow a new one (or that may change with age).
  
- image brainPilots/oldTrees.jpeg
+ brainPilots/oldTrees.jpeg
   caption I sometimes visualize pilots as old trees in the brain.
  
  ? Can you trigger a pilot change?
- image brainPilots/handWithPill.jpeg
+ brainPilots/handWithPill.jpeg
   caption How can a pill one millionth the size of the brain cause it to change directions? Perhaps the pill changes the pilot?
  
  As many have experienced, there are certain chemicals that if you ingest just a minuscule amount, millions of times smaller than your brain, your whole consciousness can change within the hour. Perhaps what is happening is a different pilot is taking over? Or perhaps a new one is being formed?
@@ -6605,7 +6605,7 @@
  // In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
   Does it have to be insert only? I guess you could render those as hidden spans(Anything deleted is done with display:none;)?
  
- image aftertext.jpg
+ aftertext.jpg
   caption A screenshot of Aftertext on the left and the rendered HTML on the right.
  
  import footer.scroll
@@ -6627,7 +6627,7 @@
  comment
   Todo: add caption support to image node.
  
- image writeThin.png
+ writeThin.png
   openGraph
  
  I constantly seek ways to improve my writing.
@@ -6716,7 +6716,7 @@
  
  ****
  
- image nytimesDrawing.png
+ nytimesDrawing.png
  
  # Notes
  - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
@@ -6793,11 +6793,11 @@
  ## Benefit: New Interfaces
  By distinguishing my UserMethods, I've now done 80% of the leg work needed to support alternative interfaces—like command palettes, CLIs, keyboard shortcut interfaces, voice interfaces, context menus, et cetera. For example, by adding UserMethods to a component, I can then reflect and auto generate the context menu for that component:
  
- image userMethods/contextMenu.png
+ userMethods/contextMenu.png
  
  I've now also got the bulk of a CLI. I just take the user's first argument and see if there's a UserMethod with that name to call. The help screen in the CLI below is generated by iterating over the UserMethods:
  
- image userMethods/cli.png
+ userMethods/cli.png
  
  For a command palette, you can reflect on your UserMethods and provide the user with auto-complete or a drop down list of available commands.
  
@@ -6809,7 +6809,7 @@
  ## Benefit: Scripted Regression Testing
  Your new UserMethod DSL can be very helpful when writing regression testing on situations a user ran into. A user's entire workflow can now be thought of as a sequence of UserMethod calls. You can log those and get automated repro steps. Or if logs are not available, you can listen to their case report and likely transcribe it into your UserMethod DSL. For example, below is a regression test to verify that a "Did You Mean" message appears after a sequence of user commands.
  
- image userMethods/testing.png
+ userMethods/testing.png
  
  ## Benefit: As a Design Aide
  When ideating, it can be helpful to ask "what UserMethod(s) are we missing"?
@@ -7210,7 +7210,7 @@
  Here is the parser in the commit that added support for Dialogues:
   https://github.com/publicdomaincompany/scroll/commit/f78f8aea15bf4a709cf21b899a151ba1385763af commit
  
- image dialogues.png
+ dialogues.png
  
  ****
  
@@ -7290,7 +7290,7 @@
  
  _The best defense is a good offense_. It's an adage, but there's usually some truth to adages.
  
- image billOfRights.jpg
+ billOfRights.jpg
   caption You can honestly say The Bill of Rights outlaws copyright, but let's pass the IFA just to be clear.
    https://www.archives.gov/milestone-documents/bill-of-rights The Bill of Rights
  
@@ -7483,7 +7483,7 @@
  # Measuring Logeracy
  No country or organization measures logeracy yet^email. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
  
- image literacy.jpg
+ literacy.jpg
   openGraph
  
  Countries have been measuring literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
@@ -7544,7 +7544,7 @@
  ^coinage I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
   link logeracy.png proof
  
- image illogeracy.png
+ illogeracy.png
  
  ^email As far as I can tell. If you know of population measures of logeracy please email me or send a pull request.
  
@@ -7637,7 +7637,7 @@
  
  I used to take it for granted that we could trust the CDC. That made life easier. Health is so important but so, so complex. I would love to trust them again, and would have more confidence if they were using the best tools for trust we have.
  
- image cdc.jpeg
+ cdc.jpeg
   openGraph
  
  # Notes
@@ -7667,7 +7667,7 @@
  I loved the story so much but couldn't find a transcript, so made the one below. Subtitles (and all mistakes) added by me.
  
  # Transcript of _How I Built This_ with James Park
- image jamesPark.jpeg
+ jamesPark.jpeg
  *Guy:* From NPR, It's How I Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. Here we go. I'm Guy Raz, and on the show today, how the Nintendo Wii inspired James Park to build a device and then a company that would have a huge and lasting influence on the health and fitness industry, Fitbit.
  
  endSnippet
@@ -7944,7 +7944,7 @@
  *Guy:* All right. So 2008, you've got the name Fitbit, you go to TechCrunch50 to present, to unveil this product. And what was the product that you were offering? Well, you said, "All right, we've got to think of the Fitbit and it does this." What did you say it did at that point?
   https://youtu.be/RRR26GPpQ4A?t=218 TechCrunch50
  
- image fitbit2008.jpg
+ fitbit2008.jpg
  
  *James:* Our pitch to the crowd at TechCrunch, and ultimately to our consumer was that, it was a product that would track your steps, distance, calories, and how much you slept and would answer some basic questions about your health, "Was I active enough today? Did I get enough sleep? What do I need to do to lose weight," et cetera. And one of the more important aspects was this idea of a community as well. "Join other people who own Fitbits, your friends and family, and you could compete with each other." And it was all wireless. You didn't really have to do anything. All you'd have to do is wear this device, don't even think about it, and all this magic would happen. That was the promise of Fitbit at the time.
  
@@ -8361,7 +8361,7 @@
  
  So when the conference starts the conference page looks like this:
  
- image start2.jpg
+ start2.jpg
  
  endSnippet
  
@@ -8369,11 +8369,11 @@
  
  12 hours later the conference page looks like this:
  
- image halfway2.jpg
+ halfway2.jpg
  
  After 24 hours:
  
- image done2.jpg
+ done2.jpg
  
  That conference is a wrap!
  
@@ -8515,7 +8515,7 @@
  
  By encoding all of science into a universal syntax, in addition to tremendous pedagogical benefits, we could take analogies like this:
  
- image phd.png
+ phd.png
  
  comment
   http://matt.might.net/articles/phd-school-in-pictures
@@ -8676,7 +8676,7 @@
  
  If you were to plot the cumulative medical data storage use for the average American patient, it would look something like the abstract chart below, going up in small increments during each visit to the doctor:
  
- image medicalRecords/providers.png
+ medicalRecords/providers.png
  
  A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of _all_ of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
  
@@ -8684,11 +8684,11 @@
  Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing lab devices will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
   https://nanoporetech.com/products lab devices
  
- image medicalRecords/devices.png
+ medicalRecords/devices.png
  
  When you put the two together you can see the issue:
  
- image medicalRecords/both.png
+ medicalRecords/both.png
  
  *Patients will log _far_ more medical data on their own than they do at their providers'.*
  
@@ -8734,7 +8734,7 @@
  
  This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
  
- image medicalRecords/categories.png
+ medicalRecords/categories.png
  
  I am assuming that sensor development advances _a lot_ in 40 years. I am assuming our patient of the future has:
  
@@ -8749,7 +8749,7 @@
  
  If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a human readable form—i.e. print the text, print the time series data as line charts, print the images, and print various types of output for the various protocols—the printed version would be about *138,000,000 pages* which laid end-to-end would stretch *24,000 miles*. If you printed it double-sided and stacked it like a book it would be *4.2 miles high*.
  
- image medicalRecords/moon.png
+ medicalRecords/moon.png
  
  *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
  
@@ -8804,7 +8804,7 @@
  import header.scroll
  printTitle
  mediumColumns 1
- image keyboard/screenshot.png
+ keyboard/screenshot.png
   link keyboard/index.html
   caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
    link keyboard/index.html Try it yourself
@@ -8818,7 +8818,7 @@
  ***
  
  # The Five Waves of Symbols
- image keyboardChart.png
+ keyboardChart.png
   caption Interactive Version
    https://www.datawrapper.de/_/18PRa/
  
@@ -8949,7 +8949,7 @@
  
  mediumColumns 1
  
- image integrity.jpg
+ integrity.jpg
   caption A poster from the 1850's promoting Folsom's Mercantile College in Ohio. The poster includes a motto (which I boxed in green) that I think is great guidance: _Integrity and Perseverance in Business ensure success_. Image Source.
    https://ohiomemory.org/digital/collection/p267401coll36/id/7636/rec/1 Image Source
  
@@ -9187,7 +9187,7 @@
  
  Here are the results of the script for the small 60 file TreeBase:
  
- image 60files.png
+ 60files.png
  
  # Building the Grammar File
  
@@ -9282,7 +9282,7 @@
  
  Now I have rudimentary syntax highlighting for these new title files:
  
- image sublimeText.png
+ sublimeText.png
  
  Notice the syntax highlighting is a little broken. The Sublime syntax generating still needs some work.
   https://github.com/treenotation/jtree/issues/8 still needs some work
@@ -9503,11 +9503,11 @@
  
  💣 Opening the `600k` folder in Apple's Finder gave me a loading screen for about 3 minutes
  
- image 600k-finder-loading.png
+ 600k-finder-loading.png
  
  At least it eventually came up:
  
- image 600k-finder.png
+ 600k-finder.png
  
  Now, how about Git?
  
@@ -9713,7 +9713,7 @@
  ## Be a broken record: "Dataset needed. Dataset needed. Dataset needed."
  Encourage authors to link to and/or publish their datasets. You can't say _dataset needed_ enough. It is valuable, constructive feedback.
  
- image datasetNeeded.jpg
+ datasetNeeded.jpg
   caption You can't say it enough^enough.
   // chatgpt
  
@@ -10009,7 +10009,7 @@
  # If Data Errors Were Spelling Errors
  You would be skeptical of National Geographic if their homepage looked like this:
  
- image dataChecked_spellCheck.png
+ dataChecked_spellCheck.png
  
  We generally expect zero spelling errors when reading any published material.
  
@@ -10036,7 +10036,7 @@
  
  # Results
  
- image dataErrorPandemic.jpg
+ dataErrorPandemic.jpg
  
  In the screenshots above, you can see that 10/10 of these publications had data errors front and center.
  
@@ -10275,7 +10275,7 @@
    Stephen Wolfram,,50000,2013,1959,https://en.wikipedia.org/wiki/Stephen_Wolfram,
    Lars Bak,larsbak,30000,2013,1965,https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer),https://github.com/larsbak
  
- image 30000.png
+ 30000.png
  
  endSnippet
  
@@ -10334,7 +10334,7 @@
  
  mediumColumns 1
  
- image binary.webp
+ binary.webp
   width 300
  
  Recently some naive fool proposed removing the “2's” from our beloved Trinary Notation.
@@ -10383,7 +10383,7 @@
  
  mediumColumns 1
  
- image mania/3yrsSleepData.webp
+ mania/3yrsSleepData.webp
  
  This is a story about how my FitBit logged a manic episode.
   dateline
@@ -10398,7 +10398,7 @@
  # Sleep Tracking
  In November 2014, I started wearing a fitness band at all times. I now have about 160 consecutive weeks worth of sleep and other data.
  
- image mania/hittingMania.png
+ mania/hittingMania.png
  
  The average FitBit user gets 6 hours and 38 minutes of sleep per night.
  
@@ -10407,13 +10407,13 @@
  # The Beginning
  In May of 2016, I left my job to do some freelancing and work on an entrepreneurial software project. I was staying sane and getting over 7.5 hours of sleep per night.
  
- image mania/avgHours.webp
+ mania/avgHours.webp
  
  But in April 2017, things changed. My sleep average dropped to a little over 6 hours per night. Compared to prior years, this was a 30% drop in sleep. But I wasn't tired. I felt more awake than I had been in years.
  
  On Thursday, May 3, I slept for 4 hours and 56 minutes — for no good reason. The next night I did it again. I was coding faster than ever and loving life to boot. Later that day in my journal I wrote, “Life is good. No. Life is fucking great!”
  
- image mania/taste.webp
+ mania/taste.webp
  
  Mania is like an invisible drug. I had been off it for years. I had been vigilant. But after a long stable period, I had forgotten and now my guard was down. I didn't recognize it as it was happening.
  
@@ -10424,10 +10424,10 @@
  # The Episode
  Eager to get back to “the zone,” I impulsively bought a ticket back home and cut my trip to the East Coast short. I got back to coding and my work, and then, predictable as a clock, my countdown to mania began.
  
- image mania/descent.png
+ mania/descent.png
  The above chart is weekly averages. But the day-to-day variance was extreme — a few nights I slept less than 3 hours — but I felt great!
  
- image mania/2hours.png
+ mania/2hours.png
  My behavior became textbook manic. My ideas and claims became more and more ambitious — topics that had seemed complex to me before suddenly seemed simple, I could learn anything, solve any problem, change industries.
  
  With my software project I started to feel the paranoid need to move fast — I got the delusion Google was also working on the same idea and was about to launch before me, stealing my thunder. Embarrassingly, I started publishing these grand claims, emailing past coworkers and employers, and started telling people I would win the Turing Prize.
@@ -10439,7 +10439,7 @@
  # The Confusing, Mixed Aftermath
  Following this acute episode, I had a couple months of mixed moods.
  
- image mania/whatHappened.webp
+ mania/whatHappened.webp
  July and August were particularly confusing. The problem of having ideas in a manic state is that you believe in them so fervently—ideas come hard and fast in what feels like a spiritual experience — that it becomes very hard to let those ideas and beliefs go. At times I questioned what the hell I was doing, but I had made lots of claims in public and did my best to try and prove them.
  
  In the months that followed, sleep was mixed. I was trying to “get back” to the energy levels and clarity that I had in June — I still hadn't recognized that time as manic — but was finding it hard to do so. I tried sleeping less to kickstart my system.
@@ -10452,18 +10452,18 @@
  Out of curiosity, I downloaded all my sleep data. What I saw confirmed my worst fears. When my sleep went out of control, so did my mania. When sleep decreased, grandiosity increased. Those long days weren't a result of groundbreaking work, but rather the result of a manic mind.
  
  # Tracking is Invaluable but Not a Cure
- image mania/thinkingSleepTrackingCured.png
+ mania/thinkingSleepTrackingCured.png
  
  Wearables gave me great hope for curing my extreme mood issues. At first this was confirmed by my experience — once I started wearing a fitness band and regularly kept an eye on my sleep, I went on to have the longest mania-free period in my life. But now the data shows me that wearables by themselves are not a cure.
  
- image mania/sleepTrackedMania.webp
+ mania/sleepTrackedMania.webp
  
  # Could Alerts Have Prevented It?
  There are a lot of things I could have done differently to prevent this manic episode from happening. After stabilizing, I went off my medication and hadn't visited my doctor for over 18 months. I screwed up.
  
  But I wonder what would have happened back in May if my wearable service had alerted my doctor and a few close friends of my foreboding sleep changes. Perhaps there could have been a minor intervention that prevented the huge swing?
  
- image mania/alertsIdea.webp
+ mania/alertsIdea.webp
  
  Of course, I know it's not as easy as alerts. I realize that if done in the wrong way, an alert service might make things worse — perhaps people might get paranoid and angry, rip the band off, and continue on their manic way.
  
@@ -10610,7 +10610,7 @@
     ai
      tn
  
- image programs.png
+ programs.png
   caption A visualization of the nodes of the two programs above.
  
  Both programs are equivalent in that they both will return the same thing for the same input.
@@ -10623,7 +10623,7 @@
  
  # Atomic Components of Complexity
  
- image atomicUnits.png
+ atomicUnits.png
   caption A visualization of the countable atomic units in PSC.
   float right
  
@@ -10872,7 +10872,7 @@
  
  This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
  
- image 3dprogram.png
+ 3dprogram.png
   caption Programs in this system look sort of like DNA strands. The balls in this program represent words, and the colors represent the types of those words.
  
  ***
@@ -10944,7 +10944,7 @@
  
  ***
  
- image treenotation.png
+ treenotation.png
   caption Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
    link diagram.flow program
  
@@ -11060,7 +11060,7 @@
  
  Future publications might explore the Tree Notation Grammar, TLCC, or machine-written TL programs.
  
- image tree.jpg
+ tree.jpg
   Rearranging these fridge magnets is equivalent to editing a TN program. The fridge magnet set that includes parentheses is a poor seller.
  
  ****
@@ -11157,7 +11157,7 @@
  # The solution
  Which is why we're building a third option. We are building an open source, general purpose IDE for building websites.
  
- image nudgepadYouTube.jpg
+ nudgepadYouTube.jpg
  
  Here's a short video demonstrating how it works:
  
@@ -11165,7 +11165,7 @@
  
  NudgePad is in early beta, but is powering a number of live websites  like these:
  
- image samples.gif
+ samples.gif
  
  Although we have a lot more to do to get to a stable version 2.0, we thought the time was right to start opening up NudgePad to more people and recruiting more help for the project. We also want to get feedback on the core ideas in NudgePad.
  
@@ -11381,7 +11381,7 @@
  
  The answer is simple. Once you've spent 10,000 hours practicing something, no one can crush you like a bug.
  
- image bug.png
+ bug.png
   width 400
   caption The figure on top has 10,000 hours of experience and crushes people with 100 hours or 1,000 hours like a bug. But they cannot crush another person with 10,000 hours.
  
@@ -11495,7 +11495,7 @@
  If your software project is going to have a long life, it may benefit from Boosters. A Booster is something you design with two constraints: 1) it must help in the current environment 2) it must be easy to jettison in the next environment.
   dateline
  
- image booster.jpg
+ booster.jpg
  
  ****
  
@@ -11624,7 +11624,7 @@
  If you are poor, your money could be safer under the mattress than in the bank:
   dateline
  
- image the_great_bank_robbery.png
+ the_great_bank_robbery.png
  
  The Great Bank Robbery dwarfs all normal burglaries by almost 10x. In the Great Bank Robbery, the banks are slowly, silently, automatically taking from the poor.
  
@@ -11742,7 +11742,7 @@
  
  // "roods" is NOT a typo. Or if it is a typo, it was a typo present in the original book as well. It probably should have been "roads".
  
- image waltMason.png
+ waltMason.png
  
  quote
   There's a man in the world who is never turned down, wherever he chances to stray;
@@ -11894,7 +11894,7 @@
  When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
   dateline
  
- image family_circus/0.png
+ family_circus/0.png
  
  endSnippet
  
@@ -11922,35 +11922,35 @@
  
  I'm going to redraw the strip above to show you more of the story. More of what actually happened. Because I suck at drawing, my first step will be to simplify the strip a bit. Here is my simplified Family Circus house:
  
- image family_circus/1.png
+ family_circus/1.png
  
  And here is the path in the actual comic redrawn in my version:
  
- image family_circus/2.png
+ family_circus/2.png
  
  Now, my assumption, based on the hunch that the multiverse theory of the world is correct, is that the universe is constantly branching, and so, somewhere out there, Billy took a direct path to the mailbox:
  
- image family_circus/3.png
+ family_circus/3.png
  
  There's proably also a universe where he took a direct route but also took a minute to watch some TV:
  
- image family_circus/4.png
+ family_circus/4.png
  
  And there's a universe where he took the same winding route as in the original, except without the trip to the dining room:
  
- image family_circus/5.png
+ family_circus/5.png
  
  A universe where he took an even longer route than the original:
  
- image family_circus/6.png
+ family_circus/6.png
  
  And maybe a universe where he snuck out the back door and took a real quick route:
  
- image family_circus/7.png
+ family_circus/7.png
  
  Finally, perhaps there was a universe where he refused his mother's order and didn't go to the mailbox at all:
  
- image family_circus/8.png
+ family_circus/8.png
  
  Now, although this is still just a sliver of what actually happened, it is a lot more realistic picture of what happened than just having the original, which does not tell us what happened, but just what we witnessed.
  
@@ -11960,7 +11960,7 @@
  
  We can combine all of the paths above to get a more realistic look at what happened in the past:
  
- image family_circus/9.png
+ family_circus/9.png
  
  You cannot build much of a narrative out of that. When you look honestly at nature, you cannot create a narrative. As Taleb would say, nature is what it is, it does not need a narrative.
  
@@ -12087,7 +12087,7 @@
  For todo lists, I created a system I call planets and pebbles.
   dateline
  
- image planets_and_pebbles.png
+ planets_and_pebbles.png
  
  I label each task as a planet or a pebble. Planets are super important things. It could be helping a customer complete their project, meeting a new person, finishing an important new feature, closing a new sale, or helping a friend in need. I may have 20 pebbles that I fail to do, but completing one planet makes up for all that and more.
  
@@ -12775,7 +12775,7 @@
  
  ? What's the future shape of the population curve?
  
- image World-Population-1800-2100.png
+ World-Population-1800-2100.png
  
  The growth of human population has followed an exponential curve. How long will it last? Will earth become overpopulated? Will we invent technology to leave earth? Will human population decline? Human population growth is hard to predict over any long term time period.
  
@@ -12925,7 +12925,7 @@
  
  I like to be mysterious and have something to talk about at parties, so I've gone ahead and erased most of the items, but you can get the idea:
  
- image wiwmin.png
+ wiwmin.png
  
  If you don't know what it is you want, try making a mindmap.
  
@@ -13455,7 +13455,7 @@
  
  Here's how it looks if you plot visits by karma score:
  
- image visits_by_karma.png
+ visits_by_karma.png
  
  endSnippet
  
@@ -13505,27 +13505,27 @@
  
  Pretend you are walking down a path:
  
- image path1.png
+ path1.png
  
  Someone asks you whether you've been walking on grass or dirt. You can look down and see what it is:
  
- image path2.png
+ path2.png
  
  Now, they ask you what you will be walking on. You can look ahead see what it is:
  
- image path3.png
+ path3.png
  
  Easy right? But this is not a realistic model of time. Let's add some fog:
  
- image path4.png
+ path4.png
  
  Again, someone asks you whether you've been walking on grass or dirt. Even with the fog, you can look down and see what it is:
  
- image path5.png
+ path5.png
  
  Now, they ask you what you will be walking on. You look ahead, but now with the fog you can't see what it is:
  
- image path6.png
+ path6.png
  
  What do you do? Do you say:
  
@@ -13582,7 +13582,7 @@
  
  The investment in that case is a no brainer.
  
- image bookcost.png
+ bookcost.png
  
  ****
  
@@ -15104,7 +15104,7 @@
  
  Utility and function matter a whole lot more. Why doesn’t design matter a whole lot? What would you rather look at:
  
- image computerScreenVersusView.jpeg
+ computerScreenVersusView.jpeg
   caption Computer Screen versus View. Image source.
    https://readwriteroam.blog/for-roamers/ Image source
    // Note: the original image was different but couldn't find it when importing this post 15 years later.
@@ -15174,7 +15174,7 @@
  quote
   In mathematics, an irrational number is any real number that is not a rational number—that is, it is a number which cannot be expressed as a fraction m/n, where m and n are integers, with n non-zero. Informally, this means numbers that cannot be represented as simple fractions. It can be deduced that they also cannot be represented as terminating or repeating decimals, but the idea is more profound than that. As a consequence of Cantor’s proof that the real numbers are uncountable (and the rationals countable) it follows that almost all real numbers are irrational.[1] Perhaps the best-known irrational numbers are π, e and √2.
  
- image irrationalNumber.png
+ irrationalNumber.png
  
  Here’s what I think now that I didn’t understand back in the day. Say someone showed me the picture of the triangle above and said “write down the exact length of the hypotenuse in decimal form”, I might try and use Pythagorean’s Theorem and say C^2 = A^2+B^2 so c = 2^.5…Then if I tried to write the 2^.5 in decimal form of course I’d go on forever.
  
@@ -15469,7 +15469,7 @@
  
  Compete.com shows goodreads pulling away from the comptetion.
  
- image goodreads.png
+ goodreads.png
   caption shelfari(red), goodreads(blue), librarything(orange)
  
  Google Trends for Websites also shows goodreads in the lead and growing fastest.

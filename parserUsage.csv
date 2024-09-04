@@ -36,7 +36,7 @@ endOfPostDinkusParser,222
 slashCommentParser,217
 htmlLineParser,216
 datelineParser,210
-imageParser,196
+quickImageParser,196
 orderedListAftertextParser,169
 quoteLineParser,168
 h2Parser,167

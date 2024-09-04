@@ -11,7 +11,7 @@ Approximately every eighteen months, I start transitioning from a low energy per
  dateline
  link bipolarDisorder.html eighteen months
 
-image powerSurge.png
+powerSurge.png
  caption Your lifetime odds of getting hit by lightning are 1 in 15,000. Your lifetime odds of getting hit by a manic brain energy surge, like the one I was hit by here in 2022, are ~1 in 100. Like lightning strikes, brain energy surges can differ by orders of magnitude. You might just feel a slight shock, or you might become a very, very high energy person--temporarily. If you get hit by one large surge, you are likely to get hit again.
  // Shown is a draft of a work in progress of a "BrainEnergyScore" metric. In this draft I'm computing it as: BrainEnergyScore_t = e^(AvgWeeklySleepHrs - Sleep_t)
 
@@ -25,7 +25,7 @@ Each transition is different. Sometimes the shift is gradual and mild. Sometimes
  link hrSurge.jpg power surge
   // This is my heart rate the last time I transitioned to a high energy person.
 
-image grabBullByTheHorns.jpg
+grabBullByTheHorns.jpg
  caption Me on top of a bull during a power surge. On a couple hour layover in NYC I left the airport, ran miles to Wall Street, got a picture on the bull, and made it back just in time for my flight.
 
 # My New Reality

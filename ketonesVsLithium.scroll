@@ -7,7 +7,7 @@ printTitle
 printAuthors
 mediumColumns 1
 
-image ketones/ketoMojoFingerPrick.jpeg
+ketones/ketoMojoFingerPrick.jpeg
  caption Pricking my finger then measuring the level of ketones in my blood.
  // Keto-Mojo GK+
  width 300
@@ -116,7 +116,7 @@ And so now I return to the one millimole question.
 // Note: what is termed "ketones" here is termed "ketone bodies" on Wikipedia
 
 # What is a ketone?
-image ketones/bhb.png
+ketones/bhb.png
  openGraph
  caption Ketones are tiny molecules. The ketone BHB (beta-hydroxybutyrate) accounts for around 70-80% of your ketones. Image Source: NIH
   https://3d.nih.gov/entries/4223/2 NIH
@@ -132,7 +132,7 @@ There are 3 kinds of ketones. They have long chemical names. BHB ($C_4H_8O_3$), 
  https://en.wikipedia.org/wiki/Acetoacetic_acid AA
  https://en.wikipedia.org/wiki/Acetone Acetone
 
-image ketones/3types.png
+ketones/3types.png
  caption Source
   https://www.ruled.me/what-is-acetoacetate/ Source
 
@@ -143,7 +143,7 @@ Ketone test strips contain a molecule called β-hydroxybutyrate dehydrogenase. T
  https://en.wikipedia.org/wiki/Amperometry Amperometry
 
 // ? How do ketone tests work?
-image ketones/testAccuracy.png
+ketones/testAccuracy.png
  caption At home finger prick ketone blood tests are highly accurate. Source: Keto Mojo GK+ manual
   https://keto-mojo.com/wp-content/uploads/2020/09/Keto-Mojo-GK-US-Users-Manual-English.pdf Keto Mojo GK+ manual
 
@@ -189,7 +189,7 @@ If I was able to pile up all the ketones in my blood, how much would that amount
 
 The amount of whole blood (blood cells + blood plasma), varies depending on the size of the person. I am 5'10", 170lbs, which means I have roughly around 6 liters of blood in me.
 
-image ketones/soda.jpg
+ketones/soda.jpg
  caption If you took out all my blood, this is roughly what it would look like.
 
 // 6 liters x 1mmol per liter x 104.1 g/mol = X grams of ketones / 1.24 g/mL (density of BB) = Y Volume
@@ -198,7 +198,7 @@ I will leave the math in the comments, but the final answer is 0.5mL worth of ke
 
 This means, if you gathered all the ketones in my blood right now, despite it being an absolutely massive number of ketones, you'd have around a blueberry's worth of ketones.
 
-image ketones/blueberry.jpg
+ketones/blueberry.jpg
  caption If you gathered all the ketones circulating in my blood right it would be about the size of a blueberry.
 
 I told you they were tiny.
@@ -210,7 +210,7 @@ We measure ketones in the blood, because that's the easiest place to measure the
 
 Estimates vary on how many ketones my body would produce in a day while in ketosis, but 100 grams of ketones per day seems to be a decent ballpark, which amounts to around one mole of ketons (1,000 millimoles), which, if we wanted to visualize it, would be about the size of 200 blueberries:
 
-image ketones/blueberries.jpg
+ketones/blueberries.jpg
  caption All the ketones made by a person in a day might be around 200 blueberries of ketones.
 
 Alright, so now we have a better sense of what _a millimole of ketones_ is. Let's turn our attention to lithium.
@@ -218,7 +218,7 @@ Alright, so now we have a better sense of what _a millimole of ketones_ is. Let'
 ***
 
 # What is lithium?
-image ketones/lithiumCarbonate.png
+ketones/lithiumCarbonate.png
  caption Lithium carbonate is also a tiny molecule. Image Source: PubChem
   https://pubchem.ncbi.nlm.nih.gov/compound/11125#section=3D-Conformer PubChem
 
@@ -229,7 +229,7 @@ There are around four lithium salt compounds in use for medicinal purposes. Lith
  https://en.wikipedia.org/wiki/Lithium_aspartate Lithium Aspartate
  https://en.wikipedia.org/wiki/Lithium_chloride Lithium Chloride
 
-image ketones/lithiumBottles.jpeg
+ketones/lithiumBottles.jpeg
  caption Lithium in pill form. Lithium orotate (shown above), is studied much less than Lithium Carbonate, but one advantage it has is that you can buy it cheaply online, with no prescription. Unfortunately lithium at high levels is toxic and there is no at home lithium testing yet.
 
 Because it is the dominant form, for the rest of this post when I say "lithium" I am referring to Lithium Carbonate.
@@ -332,7 +332,7 @@ So, let's narrow our list of chemicals to just the ones commonly found in human 
 An example besides ketones and lithium is glucose. For glucose, the normal blood level range is between 3.9 and 6.1 mmol/L. Levels below 3.9 mmol/L start to be considered hypoglycemic, with levels below 2.8 mmol/L can be dangerous. Levels above 7.8 mmol/L when fasting start to be considered hyperglycemic, or above above 11.1 mmol/L 2 hours after a meal.
 
 // ? What are proteins, fatty acids, and carbs?
-image ketones/glucose.png
+ketones/glucose.png
  caption Glucose, $C_6H_{12}O_6$, is another tiny molecule. A carbohydrate, it is the primary fuel of metabolism. Glucose blood tests can easily be done at home. Image Source: NIH
   https://3d.nih.gov/entries/3dpx-001829 NIH
   https://en.wikipedia.org/wiki/Glucose Glucose
@@ -348,7 +348,7 @@ On day 2, while continuing to build my own blood test dataset for this post, I f
  https://en.wikipedia.org/wiki/Reference_ranges_for_blood_tests a list of the most common blood tests with reference ranges
  https://en.wikipedia.org/wiki/List_of_human_blood_components human blood components
 
-image ketones/referenceRanges.png
+ketones/referenceRanges.png
  caption I spent a couple of hours building my own dataset to make a chart like this, then found out it's already been done on Wikipedia.
 
 I was thrilled to find this information on Wikipedia, but still it seemed like a small number of chemicals. Are none of the other 160,000,000 chemicals relevant? I kept searching and finally found a team who built an amazing website called HMDB that lists 3,126 chemicals that would be relevant to my question. I felt good knowing that I could do this initial analysis using the Wikipedia data, and if it seems worthwhile in the future, the HMDB data can be used to do it again at a 10x scale.
@@ -398,7 +398,7 @@ The biggest flaw in my current research is that I haven't made an extra effort t
 
 I went back and added 8 drugs by hand to my dataset including the common bipolar medications Valproate, Lamictal, Zyprexa, and Abilify. Of the 8, only one has a bit of overlap: Valproate (~.2 - .5). Interestingly enough, the bipolar medication that usually ranks #2 (after lithium), is...Valproate!
 
-image ketones/depakote.png
+ketones/depakote.png
  caption Valproate (aka Depakote) is often ranked 2nd among bipolar medications and also has overlap with the ketone/lithium range. It also crosses the blood brain barrier by passive diffusion. Image Source: NIH
   https://3d.nih.gov/entries/3dpx-008821 NIH
 

@@ -18,4 +18,4 @@ What is nohup? It's another obfuscated Nix low level utility that is an abbrevia
 Wikipedia article on nohup
  https://en.wikipedia.org/wiki/Nohup nohup
 
-Built with Scroll v126.1.0
+Built with Scroll v127.0.0

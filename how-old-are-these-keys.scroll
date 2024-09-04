@@ -5,7 +5,7 @@ title How Old Are These Keys? Five Eras of Human Progress
 import header.scroll
 printTitle
 mediumColumns 1
-image keyboard/screenshot.png
+keyboard/screenshot.png
  link keyboard/index.html
  caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
   link keyboard/index.html Try it yourself
@@ -19,7 +19,7 @@ I realized that the keys on the keyboard in front of me might make a good datase
 ***
 
 # The Five Waves of Symbols
-image keyboardChart.png
+keyboardChart.png
  caption Interactive Version
   https://www.datawrapper.de/_/18PRa/
 

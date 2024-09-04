@@ -14,7 +14,7 @@ thinColumns 2
 comment
  Todo: add caption support to image node.
 
-image writeThin.png
+writeThin.png
  openGraph
 
 I constantly seek ways to improve my writing.
@@ -103,7 +103,7 @@ Jets are great, but beware jet lag when traveling. Big screens are great, but be
 
 ****
 
-image nytimesDrawing.png
+nytimesDrawing.png
 
 # Notes
 - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.

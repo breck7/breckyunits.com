@@ -108,7 +108,7 @@ code
    ai
     tn
 
-image programs.png
+programs.png
  caption A visualization of the nodes of the two programs above.
 
 Both programs are equivalent in that they both will return the same thing for the same input.
@@ -121,7 +121,7 @@ Hence, the programB is less complex by this measure, _given machineA and machine
 
 # Atomic Components of Complexity
 
-image atomicUnits.png
+atomicUnits.png
  caption A visualization of the countable atomic units in PSC.
  float right
 

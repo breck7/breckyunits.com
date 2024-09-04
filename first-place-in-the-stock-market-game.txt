@@ -24,4 +24,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081120154142/http://www.breckyunits.com/economics/2007/09/28/first-place-in-the-stock-market-game/ Original post
 
-Built with Scroll v126.1.0
+Built with Scroll v127.0.0
