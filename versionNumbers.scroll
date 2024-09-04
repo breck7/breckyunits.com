@@ -10,7 +10,7 @@ printTitle
 
 mediumColumns 1
 
-image plVersions/versionNumbers.png
+plVersions/versionNumbers.png
  caption Interactive Version
   https://observablehq.com/@breck/version-numbers
  https://observablehq.com/@breck/version-numbers
@@ -68,7 +68,7 @@ My language, at version 93, is a huge outlier. Maybe I've done something wrong ð
 
 Let's plot version number by rank.
 
-image plVersions/versionRanks.png
+plVersions/versionRanks.png
  openGraph
  link https://datawrapper.dwcdn.net/XLcIn/1/
  caption Interactive Version
@@ -86,7 +86,7 @@ We can also see that ~15 of the top 25 languages are on version 5 or less.
 
 ? What's the relationship between age of the language and the current major version?
 
-image plVersions/ageVsVersion.png
+plVersions/ageVsVersion.png
  link https://datawrapper.dwcdn.net/kcWGg/1/
  caption Interactive Version
   https://datawrapper.dwcdn.net/kcWGg/1/
@@ -95,7 +95,7 @@ image plVersions/ageVsVersion.png
 
 No. As you can see:
 
-image plVersions/releaseRates.png
+plVersions/releaseRates.png
  link https://datawrapper.dwcdn.net/AiGaB/1/
  caption Interactive Version
   https://datawrapper.dwcdn.net/AiGaB/1/

@@ -193,7 +193,7 @@ Finally, I may be overvaluing the clean scopes used by Aftertext provided by the
 // In current implementation what would happen if I added markups that would replace text? For example, replaceWith?
  Does it have to be insert only? I guess you could render those as hidden spans(Anything deleted is done with display:none;)?
 
-image aftertext.jpg
+aftertext.jpg
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
 import footer.scroll

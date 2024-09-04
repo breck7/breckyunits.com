@@ -209,7 +209,7 @@ This script required a few design decisions. For permalink uniqueness, I simply 
 
 Here are the results of the script for the small 60 file TreeBase:
 
-image 60files.png
+60files.png
 
 # Building the Grammar File
 
@@ -304,7 +304,7 @@ Next I coped that file into the `60` folder with `cp /Users/breck/imdb/title.gra
 
 Now I have rudimentary syntax highlighting for these new title files:
 
-image sublimeText.png
+sublimeText.png
 
 Notice the syntax highlighting is a little broken. The Sublime syntax generating still needs some work.
  https://github.com/treenotation/jtree/issues/8 still needs some work
@@ -525,11 +525,11 @@ table
 
 💣 Opening the `600k` folder in Apple's Finder gave me a loading screen for about 3 minutes
 
-image 600k-finder-loading.png
+600k-finder-loading.png
 
 At least it eventually came up:
 
-image 600k-finder.png
+600k-finder.png
 
 Now, how about Git?
 

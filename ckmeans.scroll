@@ -18,7 +18,7 @@ mediumColumns 1
 In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
  https://ourworldindata.org/ our
 
-image map-view.png
+map-view.png
  caption Suddenly these charts were taking a long time to render.
 
 # k-means was the culprit
@@ -94,7 +94,7 @@ code
  Before xxxxxxxxxxxxxxxx 820ms
  After  x 52ms
 
-image the-three-byte-fix.png
+the-three-byte-fix.png
  caption Interactive Version.
   https://www.datawrapper.de/_/vrQfc/
 

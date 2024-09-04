@@ -78,7 +78,7 @@ I explain the situation.
 
 I repeat the experiment and add the new data to my dataset.
 
-image coffeeMugs.jpg
+coffeeMugs.jpg
  caption The lab. I measured how long these 5 coffee mugs kept coffee hot.
 
 ***
@@ -126,11 +126,11 @@ And now I have a dataset to test all future models against.
 I took some narrative liberties above^liberties, but for accuracy and _fun_^fun, I really did this experiment.
 
 ### The Raw Data
-image coffeeRaw.jpg
+coffeeRaw.jpg
  caption This is both a dataset on thermal dissipation and penmanship deficiency.
 
 ### The Data Visualized
-image coffeeChart.png
+coffeeChart.png
  openGraph
  caption Interactive version.
   link https://www.datawrapper.de/_/1hhse/ Interactive version

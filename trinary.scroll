@@ -7,7 +7,7 @@ printTitle
 
 mediumColumns 1
 
-image binary.webp
+binary.webp
  width 300
 
 Recently some naive fool proposed removing the “2's” from our beloved Trinary Notation.

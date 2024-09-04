@@ -18,7 +18,7 @@ We include a Visual Abstract to succinctly display the problem and discovery. Th
 
 ***
 
-image treenotation.png
+treenotation.png
  caption Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
   link diagram.flow program
 
@@ -134,7 +134,7 @@ The GER contains a TN parser, grammar notation, Tree Language compiler-compiler 
 
 Future publications might explore the Tree Notation Grammar, TLCC, or machine-written TL programs.
 
-image tree.jpg
+tree.jpg
  Rearranging these fridge magnets is equivalent to editing a TN program. The fridge magnet set that includes parentheses is a poor seller.
 
 ****

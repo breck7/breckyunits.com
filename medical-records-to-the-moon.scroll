@@ -21,7 +21,7 @@ Americans visit their healthcare providers an average of 4 times per year.
 
 If you were to plot the cumulative medical data storage use for the average American patient, it would look something like the abstract chart below, going up in small increments during each visit to the doctor:
 
-image medicalRecords/providers.png
+medicalRecords/providers.png
 
 A decade ago, this chart would not only show the quantity of a patient's medical data stored at their providers, but also the quantity of _all_ of the patient's medical data. Simply put: people did not generally keep their own medical records. But this has changed.
 
@@ -29,11 +29,11 @@ A decade ago, this chart would not only show the quantity of a patient's medical
 Now people own wearables like FitBits and Apple Watches. People use do-it-yourself services like 23andMe and uBiome. And in the not-too-distant future, the trend of ever-miniaturizing lab devices will enable advanced protocols at home. So now we have an additional line, reflecting the quantity of the patient's medical data from their own devices and services:
  https://nanoporetech.com/products lab devices
 
-image medicalRecords/devices.png
+medicalRecords/devices.png
 
 When you put the two together you can see the issue:
 
-image medicalRecords/both.png
+medicalRecords/both.png
 
 *Patients will log _far_ more medical data on their own than they do at their providers'.*
 
@@ -79,7 +79,7 @@ Let's imagine a 30 year old in 2050. They'd have around 11,200 days worth of dat
 
 This is my back of the envelope math of how many megabytes of data might be in each of those buckets:
 
-image medicalRecords/categories.png
+medicalRecords/categories.png
 
 I am assuming that sensor development advances _a lot_ in 40 years. I am assuming our patient of the future has:
 
@@ -94,7 +94,7 @@ By my estimate this person would log about *100GB of medical data per day, or ab
 
 If you printed this record in a single doc, on 8.5 x 11 sheets of paper, in a human readable form—i.e. print the text, print the time series data as line charts, print the images, and print various types of output for the various protocols—the printed version would be about *138,000,000 pages* which laid end-to-end would stretch *24,000 miles*. If you printed it double-sided and stacked it like a book it would be *4.2 miles high*.
 
-image medicalRecords/moon.png
+medicalRecords/moon.png
 
 *So for a 120 year old in 2140, their printed MRD would not reach the moon.* Though it may make it halfway there.
 

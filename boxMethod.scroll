@@ -7,7 +7,7 @@ printTitle
 
 mediumColumns 1
 
-image boxMethod.jpeg
+boxMethod.jpeg
  openGraph
  width 300
  caption S = side length of box. P = pattern. t = time. V = voxel side length.
@@ -61,7 +61,7 @@ In the beginning of science, there were natural patterns to be tagged everywhere
 
 Untagged natural patterns may have become rarer.
 
-image diminishingReturns.png
+diminishingReturns.png
  caption The box at the element size is well described. Scientists have identified all the natural elements and the only new ones are man-made.
  // Does this hold up to scrutiny? Is the "taxonomy of elements" what creates this sigmoidal pattern? Would we still see it if we counted ions and molecules?
 

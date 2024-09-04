@@ -7,7 +7,7 @@ printTitle
 
 mediumColumns 1
 
-image oneTextarea.gif
+oneTextarea.gif
  openGraph
  caption Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particles or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
   https://github.com/breck7/copypaster demo gif
