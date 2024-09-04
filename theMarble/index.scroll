@@ -9,7 +9,7 @@ title The Marble
 css body {background: rgb(247,249,250); text-align: center;}
 
 placeholderParser
- extends imageParser
+ extends scrollImageParser
  javascript
   filename = "placeholder.png"
   get dimensions() {
@@ -19,7 +19,7 @@ placeholderParser
   }
 
 imageTwoParser
- extends imageParser
+ extends scrollImageParser
  crux image
  javascript
   get dimensions() {
