@@ -2,7 +2,7 @@ date 2020-03-02
 tags All Thinking Society HasDataset Data MedicalRecords
 title Medical Records to the Moon
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -103,4 +103,4 @@ medicalRecords/moon.png
 # Related posts
 printRelated MedicalRecords
 
-import footer.scroll
+footer.scroll

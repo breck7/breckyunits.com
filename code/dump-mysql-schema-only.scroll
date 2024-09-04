@@ -3,7 +3,7 @@ tags index
 permalink dump-mysql-schema-only.html
 title Dump MySQL schema only
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
 
@@ -12,4 +12,4 @@ code
 
 You can then <a href="how-to-load-a-sql-file-into-mysql.html">load the file easily</a>.
 
-import footer.scroll
+footer.scroll

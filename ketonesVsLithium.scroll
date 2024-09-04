@@ -2,7 +2,7 @@ date 4/16/2024
 tags All BipolarEnergy HasDataset Ketones
 title Ketones vs Lithium
 
-import header.scroll
+header.scroll
 printTitle
 printAuthors
 mediumColumns 1
@@ -489,4 +489,4 @@ Thanks to RGM for feedback on this post.
  
  2nd dataset: ```
 
-import footer.scroll
+footer.scroll

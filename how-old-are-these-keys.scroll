@@ -2,7 +2,7 @@ date 2020-02-25
 tags All Thinking Society HasDataset
 title How Old Are These Keys? Five Eras of Human Progress
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 keyboard/screenshot.png
@@ -75,7 +75,7 @@ wideColumns 1
 ---
 
 expander Dataset
-table keys.tsv
+keys.tsv
  printTable
 
-import footer.scroll
+footer.scroll

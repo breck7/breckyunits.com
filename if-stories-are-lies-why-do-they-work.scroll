@@ -2,7 +2,7 @@ date 2020-01-16
 tags All Writing Life Data Narratives
 title If stories are lies why do they work?
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -48,4 +48,4 @@ Despite my problems with narratives and my quest for something better, it seems 
 # Related Posts
 printRelated Narratives
 
-import footer.scroll
+footer.scroll

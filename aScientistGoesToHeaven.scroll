@@ -2,7 +2,7 @@ date 2024-05-05
 tags All IntellectualFreedom Data
 title Three Scientists Go To Heaven
 
-import header.scroll
+header.scroll
 
 thinColumns 1
 
@@ -55,4 +55,4 @@ God asks to see his work.
 
 ****
 
-import footer.scroll
+footer.scroll

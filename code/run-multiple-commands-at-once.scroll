@@ -3,7 +3,7 @@ tags index
 permalink run-multiple-commands-at-once.html
 title Run multiple commands at once
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Want to know how to run two or more linux commands sequentially? It's simple: use the semicolon ;.
 
@@ -23,4 +23,4 @@ This will only run the last command if the cp command executed successfully.
 
 You can swap the && for || to run a command if the previous one fails.
 
-import footer.scroll
+footer.scroll

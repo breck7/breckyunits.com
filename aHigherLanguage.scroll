@@ -5,7 +5,7 @@ openGraphImage tunnelByDallE.png
 tags All Life Thinking Writing
 title A Higher Language
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -73,4 +73,4 @@ I saw the previous end of the tunnel went to nowhere, over a void, and the new e
 
 ****
 
-import footer.scroll
+footer.scroll

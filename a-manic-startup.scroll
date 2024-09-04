@@ -2,7 +2,7 @@ date 6/27/2023
 tags All BipolarEnergy Startups
 title A Manic Startup
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -79,4 +79,4 @@ It is a hard pill to swallow that I was the Bad Guy, after all.
 
 ****
 
-import footer.scroll
+footer.scroll

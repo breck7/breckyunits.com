@@ -3,7 +3,7 @@ tags index
 permalink the-bash-programming-language.html
 title The BASH Programming Language
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I used to use Python, Ruby or even PHP to write backend programs that would automate things like server management tasks, development and editing tasks, deployment tasks, backup tasks, and so forth.
 
@@ -107,4 +107,4 @@ Notice what's going on with parameter passing and scope.
 
 That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
 
-import footer.scroll
+footer.scroll

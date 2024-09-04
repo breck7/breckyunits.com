@@ -1,7 +1,7 @@
 date 12/20/2017
 tags All Scroll ScrollPapers
 
-import header.scroll
+header.scroll
 printTitle
 
 # Yet another method for counting complexity.
@@ -245,4 +245,4 @@ printRelated ScrollPapers
 
 katex
 
-import footer.scroll
+footer.scroll

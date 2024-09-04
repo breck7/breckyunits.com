@@ -2,7 +2,7 @@ date 2021-04-26
 tags All Data Thinking Society Hits Logeracy
 title Logeracy
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -121,4 +121,4 @@ illogeracy.png
 
 ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
 
-import footer.scroll
+footer.scroll

@@ -2,10 +2,10 @@ date 2024-5-14
 tags index
 title Useful Grep Searches with Scroll
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Find all scroll files not matching a pattern:
 
 > grep -rL "endSnippet" *.scroll
 
-import footer.scroll
+footer.scroll

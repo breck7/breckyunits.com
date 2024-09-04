@@ -3,7 +3,7 @@ permalink design-matters-a-lot.html
 tags All Programming Startups Design
 title Design Matters. A lot.
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -61,4 +61,4 @@ printRelated Design
 # Notes
 - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2024-05-27
 tags All Programming Scroll
 title Patch: a micro language to make pretty deep links easy
 
-import header.scroll
+header.scroll
 
 copyButtons
 
@@ -140,4 +140,4 @@ This is an updated fork.
 
 endColumns
 
-import footer.scroll
+footer.scroll

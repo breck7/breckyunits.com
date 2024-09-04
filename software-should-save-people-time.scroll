@@ -2,7 +2,7 @@ date 2013-04-02
 tags All Programming
 title Software Should Save People Time
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -42,4 +42,4 @@ Many years later, my ultimate motivation to save people time has remained consta
 
 ****
 
-import footer.scroll
+footer.scroll

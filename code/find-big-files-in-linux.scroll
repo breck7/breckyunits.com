@@ -3,7 +3,7 @@ tags index
 permalink find-big-files-in-linux.html
 title Find big files in Linux
 
-import pageHeader.scroll
+pageHeader.scroll
 
 * _Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
 
@@ -17,4 +17,4 @@ Disk free space:
 code
  du
 
-import footer.scroll
+footer.scroll

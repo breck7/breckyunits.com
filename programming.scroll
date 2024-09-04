@@ -1,5 +1,5 @@
 replace CAT_TITLE Programming
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Programming
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2024-4-2
 tags All Scroll Programming
 title Final Tree Notation Report
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -73,4 +73,4 @@ printRelated Scroll
 ^ellipsis The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-import footer.scroll
+footer.scroll

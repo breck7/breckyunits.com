@@ -1,5 +1,5 @@
 center
-table posts.csv
+posts.csv
  groupBy year
   impute year
    orderBy year

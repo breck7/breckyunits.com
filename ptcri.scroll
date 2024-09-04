@@ -3,7 +3,7 @@ openGraphImage ptcri.png
 tags All Programming Scroll ScrollPapers
 title PTCRI: An Equation about Syntax Potential
 
-import header.scroll
+header.scroll
 printTitle
 
 HTML | TXT
@@ -91,4 +91,4 @@ You can present them with Particles, and explain how it supports a vast universe
 # Related Posts
 printRelated ScrollPapers
 
-import footer.scroll
+footer.scroll

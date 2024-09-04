@@ -3,7 +3,7 @@ tags index
 permalink case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html
 title Case sensitivity in MySQL table names and lower_case_table_names
 
-import pageHeader.scroll
+pageHeader.scroll
 
 On linux, filenames and directories are case sensitive. <code>file</code> and <code>File</code> are different files.
 
@@ -23,4 +23,4 @@ If you change it to 0 on Windows, you might run into problems. If you change it 
 
 So what's the solution? Try to avoid capital letters in table names (use _ instead of camel case). When you can't do that, write your code for the Linux database (ie "select * from userBookmarks"), and your queries should translate fine on Windows since Windows will convert that to "select * from userbookmarks".
 
-import footer.scroll
+footer.scroll

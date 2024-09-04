@@ -2,7 +2,7 @@ date 4/23/2024
 tags All Programming Data HasDataset Logeracy
 title Big O's Kitchen
 
-import header.scroll
+header.scroll
 printTitle
 
 # Menu Instructions
@@ -91,4 +91,4 @@ table
 # Related Posts
 printRelated Logeracy
 
-import footer.scroll
+footer.scroll

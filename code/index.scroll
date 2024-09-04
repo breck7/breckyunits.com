@@ -1,11 +1,11 @@
 title Breck's Code Blog
 
-import settings.scroll
+settings.scroll
 metaTags
-import ../gazetteTag.scroll
+../gazetteTag.scroll
 homeButton
 leftRightButtons
 viewSourceButton
 printTitle
 printSnippets index
-import footer.scroll
+footer.scroll

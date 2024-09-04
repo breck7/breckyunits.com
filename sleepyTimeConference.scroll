@@ -2,7 +2,7 @@ date 2021-02-11
 tags All Society Startups
 title Sleepy Time Conference
 
-import header.scroll
+header.scroll
 printTitle
 # The conference that comes together while you sleep.
 
@@ -74,4 +74,4 @@ quote
  improve and change
  So that the people can be free.
 
-import footer.scroll
+footer.scroll

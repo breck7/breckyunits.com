@@ -2,7 +2,7 @@ date 2024-05-11
 tags All Data Thinking Life HasDataset
 title Marks
 
-import header.scroll
+header.scroll
 printTitle
 printAuthors
 
@@ -84,7 +84,7 @@ meaning.jpg
 
 ****
 
-import footer.scroll
+footer.scroll
 
 // Answer these questions:
  - How many cell divisions would have taken place in someone's body by the time they were 40 years old?

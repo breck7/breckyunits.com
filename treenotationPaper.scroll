@@ -2,7 +2,7 @@ date 6/21/2017
 tags All Scroll ScrollPapers
 title Tree Notation: an antifragile program notation
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -159,4 +159,4 @@ tree.jpg
 
 katex
 
-import footer.scroll
+footer.scroll

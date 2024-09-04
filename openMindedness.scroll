@@ -2,7 +2,7 @@ date 3/08/2024
 tags All BipolarEnergy Life
 title Open-Mindedness
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -108,4 +108,4 @@ Or it could be simply a waiting strategy, where a mind is shut only to increment
 
 ****
 
-import footer.scroll
+footer.scroll

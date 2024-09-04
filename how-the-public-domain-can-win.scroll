@@ -3,7 +3,7 @@ replace KEYMESSAGE Public domain products are strictly superior to equivalent no
 tags All IntellectualFreedom
 title How the public domain can win
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -102,4 +102,4 @@ Look through the telescope with your own eyes.
 
 ****
 
-import footer.scroll
+footer.scroll

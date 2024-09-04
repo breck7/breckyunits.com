@@ -4,13 +4,13 @@ openGraphImage screenshot.png
 tags categoryPages
 title Breck's Blog - CAT_TITLE Posts
 
-import settings.scroll
+settings.scroll
 metaTags
-import gazetteTag.scroll
+gazetteTag.scroll
 homeButton
 leftRightButtons
 viewSourceButton
 printTitle
-import categoryLinks.scroll
+categoryLinks.scroll
 
 css html {font-size: var(--base-font-size, 8px);}

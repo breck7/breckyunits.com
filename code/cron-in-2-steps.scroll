@@ -3,7 +3,7 @@ tags index
 permalink cron-in-2-steps.html
 title cron in 2 steps
 
-import pageHeader.scroll
+pageHeader.scroll
 
 `cron` lets you schedule linux commands to execute on a regular basis.
 
@@ -42,4 +42,4 @@ code
 
 If there are problems, check the cron.log file in your home directory.
 
-import footer.scroll
+footer.scroll

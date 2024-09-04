@@ -2,7 +2,7 @@ date 8/14/2024
 tags All Ketones
 title The Journey of the Ketones
 
-import standardHeader.scroll
+standardHeader.scroll
 
 ## Naked bodies in Las Vegas
 
@@ -80,4 +80,4 @@ printRelated Ketones
 # Notes
 - I snapped these photos on Sunday.
 
-import footer.scroll
+footer.scroll

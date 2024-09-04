@@ -2,7 +2,7 @@ date 2024-06-18
 tags Startups AngelInvesting
 title My Angel Investments
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -32,7 +32,7 @@ mediumColumns 1
 
 A sample of the companies I've invested in is listed below:
 
-table investments.tsv
+investments.tsv
  printTable
 
 ****
@@ -40,4 +40,4 @@ table investments.tsv
 # Related reading
 printRelated AngelInvesting
 
-import footer.scroll
+footer.scroll

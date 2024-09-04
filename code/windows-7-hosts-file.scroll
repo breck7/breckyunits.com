@@ -3,7 +3,7 @@ tags index
 permalink windows-7-hosts-file.html
 title Windows 7 Hosts File
 
-import pageHeader.scroll
+pageHeader.scroll
 
 The file is located at:
 
@@ -15,4 +15,4 @@ Mac hosts file:
 code
  /private/etc/hosts
 
-import footer.scroll
+footer.scroll

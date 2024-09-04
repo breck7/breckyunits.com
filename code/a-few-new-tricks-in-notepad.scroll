@@ -3,7 +3,7 @@ tags index
 permalink a-few-new-tricks-in-notepad.html
 title A few new Tricks in Notepad++
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I've been on the road for a few months programming on a Windows 7 Samsung netbook. (I didn't want to bring the Macbook with me and risk breaking it or worse).
 
@@ -18,4 +18,4 @@ Here are some things I'm using a lot more now in Notepad++:
 - Column Editor. Pretty handy sometimes.
 - Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code.
 
-import footer.scroll
+footer.scroll

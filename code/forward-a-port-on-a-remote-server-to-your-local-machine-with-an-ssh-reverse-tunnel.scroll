@@ -3,7 +3,7 @@ tags index
 permalink forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html
 title Forward a port on a remote server to your local machine with an SSH Reverse Tunnel
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Say you are running a web server locally and want to show it to someone else remotely.
 
@@ -27,4 +27,4 @@ Notes:
 
 Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.
 
-import footer.scroll
+footer.scroll

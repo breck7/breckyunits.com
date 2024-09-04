@@ -2,7 +2,7 @@ date 2010-01-15
 tags All Programming Life
 title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 
-import header.scroll
+header.scroll
 
 mediumColumns 1
 
@@ -83,4 +83,4 @@ I think these are important questions and so I'll repeat them over and over and 
 # Notes
 - I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
 
-import footer.scroll
+footer.scroll

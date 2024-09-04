@@ -3,7 +3,7 @@ openGraphImage lab.jpg
 tags All Startups
 title Early Source
 
-import header.scroll
+header.scroll
 printTitle
 
 # A New Business Model for Public Domain Software
@@ -37,4 +37,4 @@ What are the downsides? Let me hear it in the comments.
 
 ****
 
-import footer.scroll
+footer.scroll

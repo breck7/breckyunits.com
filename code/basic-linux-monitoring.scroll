@@ -3,7 +3,7 @@ tags index
 permalink basic-linux-monitoring.html
 title Basic Linux Monitoring
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Show memory usage:
 
@@ -28,4 +28,4 @@ Disk free space:
 code
  df
 
-import footer.scroll
+footer.scroll

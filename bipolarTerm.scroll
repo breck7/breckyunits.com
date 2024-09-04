@@ -2,7 +2,7 @@ date 4/10/2024
 tags All BipolarEnergy
 title The Future of the Term "Bipolar Disorder"
 
-import header.scroll
+header.scroll
 printTitle
 printAuthors
 mediumColumns 1
@@ -82,4 +82,4 @@ I expect it will be many years, if not decades, before we have better terms, and
 
 ****
 
-import footer.scroll
+footer.scroll

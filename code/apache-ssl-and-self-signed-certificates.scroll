@@ -3,7 +3,7 @@ tags index
 permalink apache-ssl-and-self-signed-certificates.html
 title Apache, SSL and self signed certificates
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
 
@@ -49,4 +49,4 @@ code
  SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
  SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2009-12-02 1
 tags All Writing Blogging
 title I'm Back
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -29,4 +29,4 @@ Written 11/30/2009
 # Related Posts
 printRelated Blogging
 
-import footer.scroll
+footer.scroll

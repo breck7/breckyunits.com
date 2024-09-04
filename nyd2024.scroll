@@ -2,7 +2,7 @@ date 1/1/2024
 tags All Writing Blogging
 title Writing in 2024
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -27,4 +27,4 @@ Why am I still writing? I think symbols are probably doomed. The utility of bein
 
 ****
 
-import footer.scroll
+footer.scroll

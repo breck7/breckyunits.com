@@ -3,7 +3,7 @@ tags index
 permalink shortcut-for-switching-to-a-windows-directory-in-cygwin.html
 title Shortcut for switching to a Windows directory in Cygwin
 
-import pageHeader.scroll
+pageHeader.scroll
 
 In cygwin it can be a pain to change to a Windows directory like `C:\Users\breck\Documents\My Dropbox`.
 
@@ -35,4 +35,4 @@ code
 Notes
 
 1. wcd <a href="https://gist.github.com/291822">gist</a>.
-import footer.scroll
+footer.scroll

@@ -3,7 +3,7 @@ tags index
 permalink bash-variables.html
 title Bash variables
 
-import pageHeader.scroll
+pageHeader.scroll
 
 code
  $ FIVE=5
@@ -48,4 +48,4 @@ code
 ">tutorial</a> 2. Another <a href="https://www.mcsr.olemiss.edu/unixhelp/environment/env3db.html
 ">tutorial</a> 3. Bash <a href="https://steve-parker.org/sh/variables2.shtml
 ">parameters</a>
-import footer.scroll
+footer.scroll

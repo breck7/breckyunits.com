@@ -1,6 +1,6 @@
 title When Woman is Boss
 
-import header.scroll
+header.scroll
 
 printTitle
 

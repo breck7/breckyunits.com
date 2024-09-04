@@ -1,5 +1,5 @@
 replace CAT_TITLE Thinking
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Thinking
-import footer.scroll
+footer.scroll

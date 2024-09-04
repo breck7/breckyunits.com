@@ -1,5 +1,5 @@
 importOnly
 
-import ../pageFooter.scroll
+../pageFooter.scroll
 buildTxt
 buildHtml

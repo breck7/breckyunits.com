@@ -3,7 +3,7 @@ tags index
 permalink list-only-directories-using-ls.html
 title List only directories using ls
 
-import pageHeader.scroll
+pageHeader.scroll
 
 The `ls` command lists all files and directories. What if you just wanted to list the directories?
 
@@ -19,4 +19,4 @@ Notes
 
 1. Found this <a href="http://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/">tip here</a>.
 
-import footer.scroll
+footer.scroll

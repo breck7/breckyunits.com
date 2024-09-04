@@ -2,7 +2,7 @@ date 2/14/2024
 tags All IntellectualFreedom Society
 title Why do we subsidize lies?
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -54,4 +54,4 @@ But here I shout into the void one more time, why do we think subsidizing lies i
 
 ****
 
-import footer.scroll
+footer.scroll

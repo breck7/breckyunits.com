@@ -2,7 +2,7 @@ date 9/1/2022
 tags All Startups HasDataset AngelInvesting
 title An Angel Investor's Data
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -48,4 +48,4 @@ printRelated AngelInvesting
 - Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
  https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016
 
-import footer.scroll
+footer.scroll

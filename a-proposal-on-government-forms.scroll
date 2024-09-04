@@ -2,7 +2,7 @@ date 6/16/2023
 tags All Scroll Programming Society
 title A Proposal to Solve Government Forms Worldwide, Forever
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -108,4 +108,4 @@ I hope by publishing these ideas others might be encouraged to start developing 
 
 katex
 
-import footer.scroll
+footer.scroll

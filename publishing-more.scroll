@@ -2,7 +2,7 @@ date 2012-11-25
 tags All Writing Blogging
 title Publishing More
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -29,4 +29,4 @@ The bottom line is I want to publish more. It forces me to think hard about my o
 # Related Posts
 printRelated Blogging
 
-import footer.scroll
+footer.scroll

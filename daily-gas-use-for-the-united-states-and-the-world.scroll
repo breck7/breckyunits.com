@@ -2,7 +2,7 @@ date 2008-05-14
 tags All Society Data
 title Daily Gas Use for the United States and the World
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -23,9 +23,9 @@ Americans use a lot of gas. The world uses a lot of gas. But the world is a big 
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120162550/http://www.breckyunits.com/economics/2008/05/14/daily-gas-use-for-the-united-states-and-the-world/
 
-import footer.scroll
+footer.scroll

@@ -3,7 +3,7 @@ openGraphImage abortBars.gif
 tags All Programming Life
 title Abort Bars
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 # A Suggested Improvement to Progress Bars
@@ -41,4 +41,4 @@ It helps your users decide: should I wait or abort?
 
 // it is also interesting to think about abort bars in the context of life.
 
-import footer.scroll
+footer.scroll

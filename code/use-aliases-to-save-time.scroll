@@ -3,7 +3,7 @@ tags index
 permalink use-aliases-to-save-time.html
 title Use aliases to save time
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Using aliases in Linux can save you a lot of time. Here's an example:
 
@@ -32,4 +32,4 @@ Place these aliases in your HOME/.bash_profile file and they will be available e
 
 - 1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
 
-import footer.scroll
+footer.scroll

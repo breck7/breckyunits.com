@@ -3,8 +3,8 @@ tags index
 permalink clear-screen-in-cygwin.html
 title Clear screen in cygwin
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Just hit ctrl+l
 
-import footer.scroll
+footer.scroll

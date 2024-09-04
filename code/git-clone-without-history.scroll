@@ -3,7 +3,7 @@ tags index
 permalink git-clone-without-history.html
 title git clone without history
 
-import pageHeader.scroll
+pageHeader.scroll
 
 If you're using a library from git in another project, you may want to download it without the history. Here's how:
 
@@ -12,4 +12,4 @@ code
 
 http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
 
-import footer.scroll
+footer.scroll

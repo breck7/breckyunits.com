@@ -2,7 +2,7 @@ date 2008-07-28
 tags All Society
 title Bigger Telescopes are needed to Solve Global Warming
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -27,9 +27,9 @@ Likewise, if we can give one astronomer a big enough telescope, he could probabl
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/uncategorized/2009/04/25/bigger-telescopes-are-needed-to-solve-global-warming-2/
 
-import footer.scroll
+footer.scroll

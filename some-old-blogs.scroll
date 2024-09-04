@@ -2,7 +2,7 @@ date 2021-05-07
 tags All Writing
 title Some old blogs
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -42,4 +42,4 @@ css .wayback{vertical-align: baseline;position: relative;top: -0.6em;font-size: 
 
 ****
 
-import footer.scroll
+footer.scroll

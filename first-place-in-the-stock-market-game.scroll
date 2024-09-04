@@ -2,7 +2,7 @@ date 2007-09-28
 tags All Startups
 title First Place in the Stock Market Game
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -24,9 +24,9 @@ If someone had given me $1,000,000 a year ago, I would be writing this from a tr
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120154142/http://www.breckyunits.com/economics/2007/09/28/first-place-in-the-stock-market-game/
 
-import footer.scroll
+footer.scroll

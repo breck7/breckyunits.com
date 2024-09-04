@@ -2,7 +2,7 @@ date 2017-06-21
 tags All Scroll Programming ScrollPapers
 title A New Discovery in Computer Science: 2-Dimensional Programming Languages
 
-import header.scroll
+header.scroll
 
 mediumColumns 1
 
@@ -75,4 +75,4 @@ We renamed Tree Notation Particles. We now call the Grammar language Parsers. Se
 # Related Posts
 printRelated ScrollPapers
 
-import footer.scroll
+footer.scroll

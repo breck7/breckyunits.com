@@ -1,6 +1,6 @@
 title Keyboard Shortcuts for Mecabricks
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -149,4 +149,4 @@ table
 
 As Printable Image
  link mecabricks-keyboard-shortcuts.png As Printable Image
-import footer.scroll
+footer.scroll

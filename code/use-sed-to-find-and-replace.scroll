@@ -3,7 +3,7 @@ tags index
 permalink use-sed-to-find-and-replace.html
 title Use sed to find and replace
 
-import pageHeader.scroll
+pageHeader.scroll
 
 `grep` is to find what `sed` is to replace.
  link use-grep-to-search-multiple-files-at-once.html grep
@@ -29,4 +29,4 @@ That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas
 - sed on <a href="https://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm">about.com</a>
 - Very clear <a href="https://drupal.org/node/128513">examples</a>
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2013-09-24
 tags All Data Programming Thinking
 title Big Data Notation
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 1
 
@@ -26,4 +26,4 @@ I think these terms make Big Data seem mysterious and confusing, when in fact it
 
 ****
 
-import footer.scroll
+footer.scroll

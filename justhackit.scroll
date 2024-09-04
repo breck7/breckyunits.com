@@ -2,7 +2,7 @@ date 2008-08-20
 tags All Startups
 title JustHackIt
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -22,9 +22,9 @@ BTW, the signup rate is pretty good–users are already in the double digits!
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081017081121/http://www.breckyunits.com/web-20/2008/08/20/justhackit/
 
-import footer.scroll
+footer.scroll

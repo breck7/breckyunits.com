@@ -3,7 +3,7 @@ tags index
 permalink use-grep-to-search-multiple-files-at-once.html
 title Use grep to search multiple files at once
 
-import pageHeader.scroll
+pageHeader.scroll
 
 `grep` lets you search through multiple text files at once.
 
@@ -44,4 +44,4 @@ code
 - <a href="https://en.wikipedia.org/wiki/Grep">grep</a> on Wikipedia
 - <a href="https://stackoverflow.com/questions/221921/grep-exclude-include-syntax-do-not-grep-through-certain-files">Stackoverflow</a> grep help
 
-import footer.scroll
+footer.scroll

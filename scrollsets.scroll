@@ -2,7 +2,7 @@ date 2024-05-21
 tags All Scroll Programming Data Life ScrollSets ScrollPapers
 title ScrollSets: A New Way to Store Knowledge
 
-import header.scroll
+header.scroll
 printTitle
 
 HTML | TXT | PDF
@@ -182,4 +182,4 @@ Thank you to everyone who helped me evolve this idea into its simplest form, inc
 # Related Posts
 printRelated ScrollSets
 
-import footer.scroll
+footer.scroll

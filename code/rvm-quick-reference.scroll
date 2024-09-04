@@ -3,7 +3,7 @@ tags index
 permalink rvm-quick-reference.html
 title RVM Quick Reference
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Return to the Mac OS X default Ruby install:
 
@@ -40,4 +40,4 @@ Install a new version of Ruby:
 code
  rvm install 1.9.2
 
-import footer.scroll
+footer.scroll

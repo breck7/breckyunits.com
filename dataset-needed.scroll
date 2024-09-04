@@ -2,7 +2,7 @@ date 2020-01-23
 tags All Data Thinking Society Writing IntellectualFreedom ScrollSets
 title Dataset Needed
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -52,4 +52,4 @@ I remember being a high school student and getting graded on our dataset noteboo
 # Related Posts
 printRelated ScrollSets
 
-import footer.scroll
+footer.scroll

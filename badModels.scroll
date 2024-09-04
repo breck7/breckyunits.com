@@ -2,7 +2,7 @@ date 2024-05-04
 tags All Life Society Data
 title Hypothermia
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -114,4 +114,4 @@ lakeCrew.jpeg
  caption Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.
   https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson Jack Dawson
 
-import footer.scroll
+footer.scroll

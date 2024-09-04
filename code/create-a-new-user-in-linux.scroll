@@ -3,7 +3,7 @@ tags index
 permalink create-a-new-user-in-linux.html
 title Create a new user in Linux
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Creating a new user in Linux is dead simple.
 
@@ -12,4 +12,4 @@ code
  passwd bob
 
 This adds a user "bob" and then prompts you to enter a password.
-import footer.scroll
+footer.scroll

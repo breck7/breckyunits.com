@@ -3,7 +3,7 @@ openGraphImage mamoc.png
 tags All IntellectualFreedom
 title A Mathematical Model of Copyright
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 printAuthors
@@ -257,4 +257,4 @@ A copyright system should also increasingly consolidate power in a small Royal C
 
 // ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
 
-import footer.scroll
+footer.scroll

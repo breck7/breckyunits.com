@@ -2,7 +2,7 @@ date 6/13/2023
 tags All Writing Life Narratives
 title Many Narratives. All true.
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -57,6 +57,6 @@ Our brains are like a ship on a long voyage inhabited by multiple characters (pi
 # Related Posts
 printRelated Narratives
 
-import footer.scroll
+footer.scroll
 
 // todo: add a narratives page.

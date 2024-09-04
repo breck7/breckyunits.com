@@ -2,7 +2,7 @@ date 2013-02-24
 tags All Startups
 title Startups and Planes
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -14,4 +14,4 @@ This is silly. Maybe as the decision makers switch from gambling financeers to e
 
 ****
 
-import footer.scroll
+footer.scroll

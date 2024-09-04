@@ -3,7 +3,7 @@ tags index
 permalink creating-a-bootable-linux-usb-disk-on-mac.html
 title Creating a bootable Linux USB disk on Mac
 
-import pageHeader.scroll
+pageHeader.scroll
 
 - Download the ISO
 - Convert iso to img on terminal:
@@ -24,4 +24,4 @@ Where DISKNUMBER = disk1 or disk2 for example. Add that leading "r".
 Back in Disk Utility, unmount/eject the disk.
 
 Done!
-import footer.scroll
+footer.scroll

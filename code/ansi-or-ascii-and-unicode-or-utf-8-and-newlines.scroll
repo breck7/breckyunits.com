@@ -3,7 +3,7 @@ tags index
 permalink ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html
 title ANSI or ASCII and Unicode or UTF-8 and Newlines
 
-import pageHeader.scroll
+pageHeader.scroll
 
 The key things you need to know:
 
@@ -40,4 +40,4 @@ Now when you're having line problems just use this nifty feature in Notepad++.
 - 2. <A href="http://vlaurie.com/computers2/Articles/characters.htm">Cast of Characters- ASCII, ANSI, UTF-8 and all that</a>
 - 3. <a href="http://www.rapidintellect.com/AEQweb/mansub1.htm">ANSI versus Unicode</a>
 
-import footer.scroll
+footer.scroll

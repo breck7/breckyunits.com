@@ -2,7 +2,7 @@ date 6/2/2013
 tags All Programming Scroll WWS
 title ScrollNet: A successor to the Internet
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 1
 
@@ -83,4 +83,4 @@ printRelated WWS
 _I originally published this on Medium._
  https://medium.com/space-net/spacenet-51aca95d49a2 published this on Medium
 
-import footer.scroll
+footer.scroll

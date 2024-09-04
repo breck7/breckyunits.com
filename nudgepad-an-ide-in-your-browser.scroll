@@ -2,7 +2,7 @@ date 2013-09-23
 tags All Programming Startups Scroll
 title NudgePad: An IDE in Your Browser
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -55,4 +55,4 @@ We truly believe this new way to build websites--an IDE in your browser-- is a f
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2021-02-22
 tags All Scroll Programming Writing
 title Scroll Beta
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -47,4 +47,4 @@ I've had fun building Scroll so far and am excited to start working on it with o
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2/11/2024
 tags All Life
 title Beliefs
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -25,4 +25,4 @@ For a belief to exist means it had to outcompete other potential beliefs for sur
 
 ****
 
-import footer.scroll
+footer.scroll

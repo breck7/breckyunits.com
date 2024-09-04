@@ -3,11 +3,11 @@ tags index
 permalink pwd-while-in-a-symlink-directory.html
 title pwd while in a symlink directory
 
-import pageHeader.scroll
+pageHeader.scroll
 
 To get the actual directory, run:
 
 code
  /bin/pwd
 
-import footer.scroll
+footer.scroll

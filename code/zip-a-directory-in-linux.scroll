@@ -3,7 +3,7 @@ tags index
 permalink zip-a-directory-in-linux.html
 title zip a directory in linux
 
-import pageHeader.scroll
+pageHeader.scroll
 
 code
  zip -r backup mydir/
@@ -11,4 +11,4 @@ code
 code
  zip -r backup .
 
-import footer.scroll
+footer.scroll

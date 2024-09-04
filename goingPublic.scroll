@@ -1,7 +1,7 @@
 date 11/05/2022
 title Well YCombinator, we're going public anyway.
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -48,4 +48,4 @@ grabBullByTheHorns.jpg
  caption I'll be back.
 
 keyboardNav
-import footer.scroll
+footer.scroll

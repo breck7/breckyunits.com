@@ -2,7 +2,7 @@ date 2009-12-15
 tags All Programming Startups
 title SEO Made Easy: LUMPS
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -69,4 +69,4 @@ There you have it, SEO made easy! Just remember LUMPS.
 - SEOBook - one of the best SEO sites out there.
  https://www.seobook.com SEOBook
 
-import footer.scroll
+footer.scroll

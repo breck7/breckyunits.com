@@ -2,7 +2,7 @@ date 10/07/2022
 tags All Startups
 title A scratch ticket with a positive expected value
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -65,4 +65,4 @@ I think it's still a great idea. I unfortunately was 23 and drove that business 
 pmarca.png
  caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
 
-import footer.scroll
+footer.scroll

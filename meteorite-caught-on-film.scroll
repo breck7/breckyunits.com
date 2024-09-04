@@ -2,7 +2,7 @@ date 2008-11-23
 tags All Society
 title Meteorite Caught on Film
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 1
 
@@ -13,9 +13,9 @@ I think with the recent exponential growth in video cameras we’ll all become a
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090206005656/http://www.breckyunits.com/science/2008/11/23/meteorite-caught-on-film/
 
-import footer.scroll
+footer.scroll

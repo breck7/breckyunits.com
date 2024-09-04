@@ -2,7 +2,7 @@ date 2013-03-30
 tags All Life Thinking Data MasterProgramming
 title Why 10,000 hours?
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -72,4 +72,4 @@ printRelated MasterProgramming
 # Notes
 ^goats Perhaps to be one of the _greatest of all time_, you have to both be constantly practicing and have exceptional luck to live a healthy long live.
 
-import footer.scroll
+footer.scroll

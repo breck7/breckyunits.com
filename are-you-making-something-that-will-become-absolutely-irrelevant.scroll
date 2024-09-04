@@ -2,7 +2,7 @@ date 2009-01-05
 tags All Startups
 title Are you Making Something that will become ‘Absolutely Irrelevant’?
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -40,9 +40,9 @@ I think it would be a good excercise for startup founders to try and apply this 
 quote
  Comment from Jeremy: i just finished reading through the book, and thoroughly enjoyed it as well. My second favorite tidbit was when Buffett and Gates were with Gates parents and a group of other biz people, and Gates father asked everyone what was the single biggest factor to each person's success. Bill Gates and Buffett's responses were the same: "Focus"
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090201144117/http://www.breckyunits.com/web-startups/2009/01/05/are-you-making-something-that-will-become-absolutely-irrelevant/
 
-import footer.scroll
+footer.scroll

@@ -3,7 +3,7 @@ permalink integrity-and-perseverance-in-business-ensure-success.html
 tags All Startups
 title Integrity and Perseverance in Business ensure success (1853)
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -32,4 +32,4 @@ Richard Brhel of placepeep shared this quote the other day on StartupSchool. He 
  https://placepeep.com placepeep
  https://startupschool.org StartupSchool
 
-import footer.scroll
+footer.scroll

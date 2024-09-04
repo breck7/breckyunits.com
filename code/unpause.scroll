@@ -2,7 +2,7 @@ date 06/09/2021
 tags index
 title Unpause
 
-import pageHeader.scroll
+pageHeader.scroll
 
 After a decade buried in the digital attic, I recently uncovered this old blog and upgraded the content to use Scroll. It was a fun restoration project and interesting to me personally to see what types of technologies I was using a decade ago. It was fun to read that I was still uncertain if I would switch to a Mac. IIRC that Macbook Air would last me until 2016! It was followed by another Air, and then around the end of 2020 I upgraded to the current crop of machines, typing this on an M1 MacBook Pro.
  link some-old-blogs.html uncovered
@@ -16,4 +16,4 @@ Why not just start a fresh one? That might be a better idea. For now I plan to r
 If I do keep with it, this post is just to acknowledge that that's no bug, there was a 3,444 day gap between posts.
  link git-ignore-global.html posts
 
-import footer.scroll
+footer.scroll

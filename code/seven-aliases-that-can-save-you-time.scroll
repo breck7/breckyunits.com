@@ -3,7 +3,7 @@ tags index
 permalink seven-aliases-that-can-save-you-time.html
 title Seven aliases that can save you time
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Add these to your .bash_profile to speed up common tasks:
 
@@ -16,4 +16,4 @@ code
  alias pconf='vim /etc/php.ini' # edit php.ini
  alias lsd="ls -l | egrep '^d'" # list only directories
 
-import footer.scroll
+footer.scroll

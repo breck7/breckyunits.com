@@ -3,10 +3,10 @@ tags index
 permalink netstat.html
 title netstat
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Every wonder what's listening on what ports?
 
 code
  netstat -lp
-import footer.scroll
+footer.scroll

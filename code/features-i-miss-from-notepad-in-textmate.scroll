@@ -3,7 +3,7 @@ tags index
 permalink features-i-miss-from-notepad-in-textmate.html
 title Features I Miss from Notepad++ in Textmate
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Here are a few things I really miss from Notepad++:
 
@@ -12,4 +12,4 @@ Here are a few things I really miss from Notepad++:
 
 If anyone nows how to replicate these things in Textmate please let me know! Thanks.
 
-import footer.scroll
+footer.scroll

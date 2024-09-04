@@ -2,7 +2,7 @@ date 2008-09-19
 tags All Startups
 title San Francisco
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 1
 
@@ -11,9 +11,9 @@ Got in to San Fran last night. Moved in to the Mission District with college bud
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090209063918/http://www.breckyunits.com/san-francisco/2008/09/19/san-francisco/
 
-import footer.scroll
+footer.scroll

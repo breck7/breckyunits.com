@@ -5,7 +5,7 @@ openGraphImage theFastestByDallE.png
 tags All Life Thinking Data
 title The Fastest in the World
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -128,4 +128,4 @@ She finally moved her throat.
 
 ****
 
-import footer.scroll
+footer.scroll

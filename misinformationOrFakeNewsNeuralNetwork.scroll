@@ -2,7 +2,7 @@ date 10/15/2022
 tags All IntellectualFreedom Society
 title Training a neural network to spot misinformation and fake news from a single image
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -16,4 +16,4 @@ These empirical results match the theory that the whole truth and nothing but th
 
 ****
 
-import footer.scroll
+footer.scroll

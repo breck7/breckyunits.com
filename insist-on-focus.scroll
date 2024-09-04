@@ -4,7 +4,7 @@ permalink insist-on-focus.html
 tags All Startups OtherAuthor
 title Insist on Focus - Keith Rabois describes working at PayPal
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -47,4 +47,4 @@ I absolutely love the math behind this strategy. There are a few other terms to 
 
 ****
 
-import footer.scroll
+footer.scroll

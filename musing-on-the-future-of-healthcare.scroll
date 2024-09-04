@@ -2,7 +2,7 @@ date 2020-03-02
 tags All Thinking Society MedicalRecords
 title Musing on the Future of Healthcare
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -31,4 +31,4 @@ Another benefit to all of this? Healthcare powered by consumer devices seems lik
 # Related posts
 printRelated MedicalRecords
 
-import footer.scroll
+footer.scroll

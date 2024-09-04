@@ -3,7 +3,7 @@ tags index
 permalink quickly-set-up-a-web-proxy-server.html
 title Quickly Set up a Web Proxy Server
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
 
@@ -11,4 +11,4 @@ Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy"
 
 I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
 
-import footer.scroll
+footer.scroll

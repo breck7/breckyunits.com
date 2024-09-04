@@ -2,7 +2,7 @@ date 2021-05-12
 tags All IntellectualFreedom
 title The Intellectual Freedom Amendment
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -71,4 +71,4 @@ billOfRights.jpg
  caption You can honestly say The Bill of Rights outlaws copyright, but let's pass the IFA just to be clear.
   https://www.archives.gov/milestone-documents/bill-of-rights The Bill of Rights
 
-import footer.scroll
+footer.scroll

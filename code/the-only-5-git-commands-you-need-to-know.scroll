@@ -3,7 +3,7 @@ tags index
 permalink the-only-5-git-commands-you-need-to-know.html
 title The only 5 git commands you need to know
 
-import pageHeader.scroll
+pageHeader.scroll
 
 chat
  What's the difference between a great programmer with great social skills and a great programmer who does not use version control?
@@ -89,4 +89,4 @@ code
  git commit -m *"your message about what you changed and why"*
  git push
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2008-07-07
 tags All Writing HasDataset
 title Bloggers Turning Pro
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 1
 
@@ -71,9 +71,9 @@ Though a propensity for gossip typically motivates gossip bloggers, many are lea
 # Related Posts
 printRelated Writing
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081024204528/http://www.breckyunits.com/web-20/2008/07/07/bloggers-who-turned-pro-and-their-famous-last-words/
 
-import footer.scroll
+footer.scroll

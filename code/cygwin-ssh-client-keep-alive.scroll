@@ -3,11 +3,11 @@ tags index
 permalink cygwin-ssh-client-keep-alive.html
 title Cygwin SSH Client Keep Alive
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Add this to your /etc/defaults/etc/ssh_config file to prevent SSH servers from disconnecting you after inactivity:
 
 code
  ServerAliveInterval 60
 
-import footer.scroll
+footer.scroll

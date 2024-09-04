@@ -2,7 +2,7 @@ date 2024-3-30
 tags All Data Thinking
 title The Box Method of Science
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -153,4 +153,4 @@ If we consider an encyclopedia E to contain all the useful concepts C in a box, 
 - This great new post by Stephen Wolfram explores similar ideas.
  https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
 
-import footer.scroll
+footer.scroll

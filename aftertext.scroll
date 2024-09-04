@@ -2,7 +2,7 @@ date 12/15/2021
 tags All Scroll Programming Writing
 title Aftertext
 
-import header.scroll
+header.scroll
 printTitle
 
 # An alternative to inline markup
@@ -196,4 +196,4 @@ Finally, I may be overvaluing the clean scopes used by Aftertext provided by the
 aftertext.jpg
  caption A screenshot of Aftertext on the left and the rendered HTML on the right.
 
-import footer.scroll
+footer.scroll

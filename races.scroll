@@ -2,7 +2,7 @@ date 8/30/2024
 tags All Society Life
 title On Races
 
-import header.scroll
+header.scroll
 thinColumns 1
 printTitle
 
@@ -86,4 +86,4 @@ I pointed again to the first line.
 
 ****
 
-import footer.scroll
+footer.scroll

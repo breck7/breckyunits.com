@@ -1,5 +1,5 @@
 replace CAT_TITLE Intellectual Freedom
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets IntellectualFreedom
-import footer.scroll
+footer.scroll

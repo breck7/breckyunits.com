@@ -3,9 +3,9 @@ tags index
 permalink remove-all-ds_store-files-recursively.html
 title Remove all DS_Store files recursively
 
-import pageHeader.scroll
+pageHeader.scroll
 
 code
  find . -type f -name ".DS_Store" -exec rm {} \;
 
-import footer.scroll
+footer.scroll

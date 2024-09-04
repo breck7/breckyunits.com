@@ -2,7 +2,7 @@ date 2/20/2024
 tags All BipolarEnergy
 title The Brain Pilot Model of Bipolar Disorder
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -85,4 +85,4 @@ I don't think the model explored above is a leading contender for finally explai
 
 ****
 
-import footer.scroll
+footer.scroll

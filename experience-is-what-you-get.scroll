@@ -2,7 +2,7 @@ date 2009-12-02 2
 tags All Life
 title Experience is What You Get
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -24,4 +24,4 @@ When you're fresh out of the gate, it's hard to make those predictions. You just
 
 ****
 
-import footer.scroll
+footer.scroll

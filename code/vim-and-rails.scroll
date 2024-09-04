@@ -3,7 +3,7 @@ tags index
 permalink vim-and-rails.html
 title VIM and Rails
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Check out this guide.
  https://biodegradablegeek.com/2007/12/using-vim-as-a-complete-ruby-on-rails-ide guide
@@ -40,4 +40,4 @@ code
  set ts=2  " Tabs are 2 spaces
  
  set laststatus=2  " Always show status line.
-import footer.scroll
+footer.scroll

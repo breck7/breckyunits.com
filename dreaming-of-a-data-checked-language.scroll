@@ -2,7 +2,7 @@ date 2020-01-3
 tags All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets
 title Dreaming of a Data Checked Language
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -167,4 +167,4 @@ css
 # Related Posts
 printRelated ScrollSets
 
-import footer.scroll
+footer.scroll

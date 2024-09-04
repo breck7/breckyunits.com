@@ -3,7 +3,7 @@ tags index
 permalink ec2-command-line-tools.html
 title EC2 Command Line Tools
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Step 1. Download them. http://aws.amazon.com/developertools/351
 
@@ -23,4 +23,4 @@ code
  export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1
  export PATH=$PATH:$EC2_HOME/bin
 
-import footer.scroll
+footer.scroll

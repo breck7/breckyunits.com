@@ -1,12 +1,12 @@
 title Search Breck's Blog
 
-import header.scroll
+header.scroll
 
 printTitle
-import categoryLinks.scroll
+categoryLinks.scroll
 
 wideColumns 2
 printSearchTable All
 tableSearch
 
-import footer.scroll
+footer.scroll

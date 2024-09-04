@@ -2,7 +2,7 @@ date 2009-12-03
 tags All Thinking
 title What's Linear Algebra?
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -40,4 +40,4 @@ I guess when you write about what you don't know, you write mostly questions.
 
 ****
 
-import footer.scroll
+footer.scroll

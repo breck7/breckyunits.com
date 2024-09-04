@@ -1,5 +1,5 @@
 replace CAT_TITLE Particles
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Scroll
-import footer.scroll
+footer.scroll

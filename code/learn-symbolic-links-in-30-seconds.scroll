@@ -3,7 +3,7 @@ tags index
 permalink learn-symbolic-links-in-30-seconds.html
 title Learn Symbolic Links in 30 seconds
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Symbolic links are simple and can save you time.
 
@@ -32,4 +32,4 @@ You can do all kinds of neat things with symlinks, but the simplest uses are oft
 Aliases are another great time saver.
  link use-aliases-to-save-time.html Aliases
 
-import footer.scroll
+footer.scroll

@@ -1,10 +1,10 @@
 title Chemical Blood Tests Dataset
 buildConcepts chemicalBloodTests.tsv chemicalBloodTests.csv
 
-import ../settings.scroll
+../settings.scroll
 viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/ketones
 metaTags
-import ../gazetteTag.scroll
+../gazetteTag.scroll
 homeButton
  link ../index.html
 viewSourceButton
@@ -1936,4 +1936,4 @@ canTestAtHome false
 
 // endRows
 
-import ../footer.scroll
+../footer.scroll

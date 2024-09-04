@@ -2,7 +2,7 @@ date 4/28/2023
 tags All IntellectualFreedom
 title Enchained Symbols
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -53,4 +53,4 @@ No one who loves ideas would ever enchain them.
 
 ****
 
-import footer.scroll
+footer.scroll

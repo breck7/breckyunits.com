@@ -2,7 +2,7 @@ date 2012-12-23
 tags All Society HasDataset
 title The Great Bank Robbery
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -33,4 +33,4 @@ FBI from here
  link fbi.jpg FBI
  https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary here
 
-import footer.scroll
+footer.scroll

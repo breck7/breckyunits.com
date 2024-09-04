@@ -2,7 +2,7 @@ date 2007-08-24
 tags All Writing Life Blogging
 title I guess the time has come
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -24,9 +24,9 @@ PS, Be the first to email me at my new address: breck@breckyunits.com . See if y
 # Related Posts
 printRelated Blogging
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120161711/http://www.breckyunits.com/blogging/2007/08/24/i-guess-the-time-had-come/
 
-import footer.scroll
+footer.scroll

@@ -3,7 +3,7 @@ description #BringBackNapster
 title Perelman
 viewSourceBaseUrl https://github.com/breck7
 
-import ../header.scroll
+../header.scroll
 printTitle
 
 thinColumns 2
@@ -347,4 +347,4 @@ So here are imaginary property rights that undermines science, burdens the
  capitalist world can find no better way to lift the rate of profit
  than to promote the expansion of imaginary property rights.
 
-import ../footer.scroll
+../footer.scroll

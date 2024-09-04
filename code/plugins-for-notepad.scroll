@@ -3,7 +3,7 @@ tags index
 permalink plugins-for-notepad.html
 title Plugins for Notepad++
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Notepad++ is my go to editor.
 
@@ -17,4 +17,4 @@ To install a plugin:
 The main plugin I've used so far is Explorer. I'll update this in the future with other ones.
 
 That's it!
-import footer.scroll
+footer.scroll

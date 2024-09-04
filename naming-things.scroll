@@ -2,7 +2,7 @@ date 2012-10-20
 tags All Programming Writing
 title Naming Things
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -34,4 +34,4 @@ What I like about the idea of using the names Present and Absent is that it make
 
 ****
 
-import footer.scroll
+footer.scroll

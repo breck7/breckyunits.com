@@ -2,7 +2,7 @@ date 2009-12-09
 tags All Writing
 title Why You Shouldn't Save Blogging for Old Age
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -38,4 +38,4 @@ Blogging. Don't save it for your old age.
 
 ****
 
-import footer.scroll
+footer.scroll

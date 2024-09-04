@@ -3,7 +3,7 @@ tags index
 permalink change-the-file-owner-or-group-in-linux.html
 title Change the file owner or group in Linux
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Change the owner of a file or folder:
 
@@ -14,4 +14,4 @@ Change the group of a file or folder:
 
 code
  chgrp newgroup filenameorfoldername
-import footer.scroll
+footer.scroll

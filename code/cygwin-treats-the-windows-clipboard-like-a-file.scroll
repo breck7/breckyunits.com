@@ -3,7 +3,7 @@ tags index
 permalink cygwin-treats-the-windows-clipboard-like-a-file.html
 title Cygwin treats the Windows Clipboard like a file
 
-import pageHeader.scroll
+pageHeader.scroll
 
 In Linux every thing is a file. This is great because it means the Windows clipboard is a file too!
 
@@ -21,4 +21,4 @@ code
 
 1. <a href="http://williammitchell.blogspot.com/2008/03/fun-with-cygwins-devclipboard.html">Fun with Cygwin's /dev/clipboard</a>.
 
-import footer.scroll
+footer.scroll

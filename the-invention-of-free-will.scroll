@@ -2,7 +2,7 @@ date 2010-03-24
 tags All Life
 title The Invention of Free Will
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -37,4 +37,4 @@ Even the smug boy who says free will doesn't exist, is just one branch of the sm
  https://./the-many-worlds-law.html many
 - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
 
-import footer.scroll
+footer.scroll

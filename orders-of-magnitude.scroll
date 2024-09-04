@@ -2,7 +2,7 @@ date 2009-12-07
 tags All Thinking Logeracy Hits
 title Orders of Magnitude
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -66,4 +66,4 @@ printRelated Logeracy
 - Thanks to Mairi and Andrew Kitchell for providing feedback.
  http://www.30words.com Andrew Kitchell
 
-import footer.scroll
+footer.scroll

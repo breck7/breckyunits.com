@@ -3,7 +3,7 @@ openGraphImage safeFS.png
 tags All IntellectualFreedom
 title SafeFS
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -39,4 +39,4 @@ SafeFS is the first file system proven to cause a slowdown in economic growth. S
 
 ****
 
-import footer.scroll
+footer.scroll

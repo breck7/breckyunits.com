@@ -2,7 +2,7 @@ date 10/04/2022
 tags All Society IntellectualFreedom
 title Cancer and Copyright
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -52,4 +52,4 @@ Finally, a grim reality: though we will save hundreds of lives a day if we aboli
 
 ****
 
-import footer.scroll
+footer.scroll
