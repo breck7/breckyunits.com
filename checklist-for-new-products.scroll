@@ -2,7 +2,7 @@ date 2009-12-28
 tags All Startups
 title Checklist for New Products
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -35,4 +35,4 @@ Here's a 10 question form that you can fill out for each of your products.
 
 ****
 
-import footer.scroll
+footer.scroll

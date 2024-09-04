@@ -2,7 +2,7 @@ date 2021-02-28 1
 tags All IntellectualFreedom Startups Scroll
 title The Public Domain Publishing Company
 
-import header.scroll
+header.scroll
 
 thinColumns 1
 
@@ -20,4 +20,4 @@ The team is coming together. Check out the homepage for a list of open positions
 
 ****
 
-import footer.scroll
+footer.scroll

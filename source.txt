@@ -3,7 +3,7 @@
  tags All Startups Programming Scroll Society ScrollPapers
  title Particle Chain: A New Kind of Blockchain
  
- import header.scroll
+ header.scroll
  printTitle
  
  # Trust, _and understand_.
@@ -75,14 +75,14 @@
  Livestream creation of this post
   https://www.youtube.com/watch?v=s8vQuCGCYPM
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/races.scroll
  date 8/30/2024
  tags All Society Life
  title On Races
  
- import header.scroll
+ header.scroll
  thinColumns 1
  printTitle
  
@@ -166,28 +166,28 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/neo.scroll
  date 8/29/2024
  tags All Society
  title Nature's Eternal Omen: Do not ignore me.
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  neo.jpg
   caption A human builds an elaborate sandcastle, with their back to the ocean...
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/blocking.scroll
  date 8/28/2024
  tags All Society
  title Why Warpcast should not add blocking
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  # Blocking misleads
  
@@ -265,14 +265,14 @@
  This took me one hour to create, and I livestreamed for full transparency because I believe free speech is such an important issue.
   https://www.youtube.com/live/oMb5HQ-RqxE livestreamed
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/southPark.scroll
  date 8/25/2024
  tags All Startups
  title A Review of the South Park Commons Rejection Letter
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  rejected.jpg
   caption If someone tossed me a nickel for every rejection I've gotten I'd be dead, buried under nickels.
@@ -324,14 +324,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/pau.scroll
  date 8/21/2024
  tags All MedicalRecords
  title PAU: Patient Accessible and Understandable health records
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  In 2019 I led some research into building next-gen medical records based on some breakthroughs in computer language design.
   dateline
@@ -365,14 +365,14 @@
  - Fast Healthcare Interoperability Resources
   https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketoneMap.scroll
  date 8/14/2024
  tags All Ketones
  title The Journey of the Ketones
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  ## Naked bodies in Las Vegas
  
@@ -450,7 +450,7 @@
  # Notes
  - I snapped these photos on Sunday.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/assholes.scroll
  date 8/5/2024
@@ -459,7 +459,7 @@
  tags All Life Startups
  title Part Assholes are Awesome
  
- import standardHeader.scroll
+ standardHeader.scroll
  
  # Anyone not part asshole is full of shit
  
@@ -562,7 +562,7 @@
  ^sj I never met SJ nor his family. This is about the SJ as portrayed in the media, and not the actual person, who I am unfamiliar with. I am familiar with the amazing things that he built, and some of the amazing things his wife has done, but sadly never got the chance to meet him.
   https://elementalexcelerator.com/ some of the amazing things
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/davidsLastLetter.scroll
  authors David C Bangert
@@ -570,7 +570,7 @@
  tags All Life Society
  title David's Last Letter
  
- import header.scroll
+ header.scroll
  
  printTitle
  
@@ -631,7 +631,7 @@
  
  RIP David.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/litigation.scroll
  date 7/23/2024
@@ -640,7 +640,7 @@
  
  // todo: find a scan of the original letter
  
- import header.scroll
+ header.scroll
  printTitle
  printDate
  
@@ -676,7 +676,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/eta.scroll
  date 7/18/2024
@@ -684,7 +684,7 @@
  tags All IntellectualFreedom Programming Scroll Society ScrollPapers
  title ETA!: A Measure of Evolution
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  printDate
@@ -764,7 +764,7 @@
   https://warpcast.com/liucobe/0x5e0c3936 pointing out
  - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/earlySource.scroll
  date 7/13/2024
@@ -772,7 +772,7 @@
  tags All Startups
  title Early Source
  
- import header.scroll
+ header.scroll
  printTitle
  
  # A New Business Model for Public Domain Software
@@ -806,14 +806,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/vestEarlyVestOften.scroll
  date 7/4/2024
  tags All Startups
  title Vest Early. Vest Often.
  
- import header.scroll
+ header.scroll
  printTitle
  
  # Silicon Valley Should Eliminate the 1 Year Cliff
@@ -824,7 +824,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/intelligence.scroll
  date 6/6/2024
@@ -832,7 +832,7 @@
  tags All Programming Scroll ScrollPapers
  title ICS: A Measure of Intelligence
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  printDate
@@ -876,7 +876,7 @@
  # Related Posts
  printRelated ScrollPapers
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ptcri.scroll
  date 5/31/2024
@@ -884,7 +884,7 @@
  tags All Programming Scroll ScrollPapers
  title PTCRI: An Equation about Syntax Potential
  
- import header.scroll
+ header.scroll
  printTitle
  
  HTML | TXT
@@ -972,7 +972,7 @@
  # Related Posts
  printRelated ScrollPapers
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/lab.scroll
  date 5/27/2024
@@ -981,7 +981,7 @@
  tags All Science Startups Programming Writing
  title Breck's Lab
  
- import header.scroll
+ header.scroll
  printTitle
  
  # See where technology is going before your competitors
@@ -996,7 +996,7 @@
  
  endSnippet
  
- import stripeButton.scroll
+ stripeButton.scroll
  
  # Introducing Breck's Lab
  
@@ -1014,7 +1014,7 @@
  
  You can wait for the published versions, or you can join *brecks.lab* today.
  
- import stripeButton.scroll
+ stripeButton.scroll
  
  # Why sell lab access?
  
@@ -1032,7 +1032,7 @@
  
  Labs is designed to help fix science. The public gets far better information and investors get information on what new technologies are coming next.
  
- import stripeButton.scroll
+ stripeButton.scroll
  
  # The Fine Print
  - *Access*: A purchase entitles you to one year of access to the *brecks.lab* git repo and issues board, for one email address and one person.
@@ -1046,7 +1046,7 @@
  - *Payment Methods*: You can also join by sending PRICE to breck7.near, via PayPal (breck7@gmail.com), Cash App ($byunits), Venmo (@Breck-Yunits), or handing me PRICE cash.
   https://nearblocks.io/address/breck7.near breck7.near
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/meaning.scroll
  date 5/27/2024
@@ -1054,7 +1054,7 @@
  tags All Thinking Data Hits
  title The Choice
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  
@@ -1192,14 +1192,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/patch.scroll
  date 2024-05-27
  tags All Programming Scroll
  title Patch: a micro language to make pretty deep links easy
  
- import header.scroll
+ header.scroll
  
  copyButtons
  
@@ -1337,14 +1337,14 @@
  
  endColumns
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/radioShack.scroll
  date 2024-05-26
  tags All Society HasDataset Data Programming
  title Bring back RadioShack?
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -1445,14 +1445,14 @@
  RadioShacks	2023
  RadioShacks	2024	412
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/versionNumbers.scroll
  date 2024-05-25
  tags All Programming Data Scroll
  title What can we learn from programming language version numbers?
  
- import header.scroll
+ header.scroll
  printTitle
  
  # Analyzing the version numbers of 621 programming languages
@@ -1532,7 +1532,7 @@
    rows.sortBy appeared
     tables.basic
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/abortBar.scroll
  date 5/24/2024
@@ -1540,7 +1540,7 @@
  tags All Programming Life
  title Abort Bars
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  # A Suggested Improvement to Progress Bars
@@ -1578,14 +1578,14 @@
  
  // it is also interesting to think about abort bars in the context of life.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/omniRestaurant.scroll
  date 2024-05-23
  tags All IntellectualFreedom Society
  title The Omni Restaurant
  
- import header.scroll
+ header.scroll
  thinColumns 1
  printTitle
  printAuthors
@@ -1825,14 +1825,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollsets.scroll
  date 2024-05-21
  tags All Scroll Programming Data Life ScrollSets ScrollPapers
  title ScrollSets: A New Way to Store Knowledge
  
- import header.scroll
+ header.scroll
  printTitle
  
  HTML | TXT | PDF
@@ -2012,14 +2012,14 @@
  # Related Posts
  printRelated ScrollSets
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/hits.scroll
  date 2024-05-20
  tags All Thinking Life Startups Hits
  title High Impact Thoughts
  
- import header.scroll
+ header.scroll
  printTitle
  printDate
  
@@ -2128,7 +2128,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/pmfMirage.scroll
  date 2024-05-15
@@ -2137,7 +2137,7 @@
  tags All Startups
  title PMF Mirages
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -2329,14 +2329,14 @@
  # Notes
  ^insight In 2016 I once misconfigured Google Analytics and thought users were using our data visualization tool for far longer than they actually were. Luckily in that case, it only took a few weeks to realize my error, not months.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/digitalCopyright.scroll
  date 5/14/2024
  tags All IntellectualFreedom Society
  title Digital Copyright and AIs
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -2415,14 +2415,14 @@
  
  ^billion Well, there is no legal way for YOU to do it. A billionaire could theoretically afford to buy the "rights" and build their own library as good as a big corporation. But no billionaire is reading this post. Nevertheless, to be precise, only ~756 out of ~333,333,000 Americans ~have a legal way to train on the same materials as AIs.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/corporateEmail.scroll
  date 5/12/2024
  tags All Startups Society Programming NoNoReply
  title Corporate Email
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -2466,14 +2466,14 @@
  
  // The Four Seasons is one of my favorite businesses and I recommend reading the autobiography of Isadore Sharp!
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/marks.scroll
  date 2024-05-11
  tags All Data Thinking Life HasDataset
  title Marks
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  
@@ -2555,7 +2555,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
  // Answer these questions:
   - How many cell divisions would have taken place in someone's body by the time they were 40 years old?
@@ -2578,7 +2578,7 @@
  title The Tallest Tree
   // thanks to Lees Yunits for the better title
  
- import header.scroll
+ header.scroll
  printTitle
  // what are the black swans of black swans?
  
@@ -2701,14 +2701,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aScientistGoesToHeaven.scroll
  date 2024-05-05
  tags All IntellectualFreedom Data
  title Three Scientists Go To Heaven
  
- import header.scroll
+ header.scroll
  
  thinColumns 1
  
@@ -2761,14 +2761,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/badModels.scroll
  date 2024-05-04
  tags All Life Society Data
  title Hypothermia
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -2880,14 +2880,14 @@
   caption Tom, second from left, slowed down to make sure I didn't go down like Jack Dawson.
    https://jamescameronstitanic.fandom.com/wiki/Jack_Dawson Jack Dawson
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/theEnergyClock.scroll
  date 2024-05-02
  tags All BipolarEnergy Ketones
  title Energy Clocks
  
- import header.scroll
+ header.scroll
  printTitle
  
  ## Kathmandu and ATP
@@ -3082,7 +3082,7 @@
  # Related Posts
  printRelated BipolarEnergy
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aHigherLanguage.scroll
  date 2024-04-27
@@ -3092,7 +3092,7 @@
  tags All Life Thinking Writing
  title A Higher Language
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -3160,14 +3160,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/datasets.scroll
  date 4/23/2024 5:00
  tags All Data Thinking Programming HasDataset ScrollSets
  title Hot Coffee
  
- import header.scroll
+ header.scroll
  printTitle
  // aka Dataset Thinking
  
@@ -3386,14 +3386,14 @@
  # Related Posts
  printRelated ScrollSets
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigOsKitchen.scroll
  date 4/23/2024
  tags All Programming Data HasDataset Logeracy
  title Big O's Kitchen
  
- import header.scroll
+ header.scroll
  printTitle
  
  # Menu Instructions
@@ -3482,7 +3482,7 @@
  # Related Posts
  printRelated Logeracy
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fastest.scroll
  date 2024-04-22
@@ -3492,7 +3492,7 @@
  tags All Life Thinking Data
  title The Fastest in the World
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -3615,14 +3615,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ketonesVsLithium.scroll
  date 4/16/2024
  tags All BipolarEnergy HasDataset Ketones
  title Ketones vs Lithium
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  mediumColumns 1
@@ -3818,14 +3818,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/doHumanBrainsMolt.scroll
  date 4/3/2024
  tags All BipolarEnergy
  title Do Human Brains Molt?
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -3856,14 +3856,14 @@
  While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
   https://theoccasionalinterrobang.wordpress.com/2019/07/03/a-loser-lobsters-brain-differs-from-a-winner-lobsters-and-so-does-yours/ this interesting post
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/treeNotationFinalReport.scroll
  date 2024-4-2
  tags All Scroll Programming
  title Final Tree Notation Report
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -3934,14 +3934,14 @@
  ^ellipsis The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
   http://longbets.org/793/ the bet
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/boxMethod.scroll
  date 2024-3-30
  tags All Data Thinking
  title The Box Method of Science
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4092,14 +4092,14 @@
  - This great new post by Stephen Wolfram explores similar ideas.
   https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/openMindedness.scroll
  date 3/08/2024
  tags All BipolarEnergy Life
  title Open-Mindedness
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -4205,14 +4205,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/mindmap.scroll
  date 2/24/2024
  tags All BipolarEnergy Programming Life Minsky
  title A Different Kind of Mindmap
  
- import header.scroll
+ header.scroll
  printTitle
  printAuthors
  mediumColumns 1
@@ -4242,14 +4242,14 @@
  # Related Posts
  printRelated Minsky
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/synthesizingKnowledge.scroll
  date 2/21/2024
  tags All Data Thinking Programming
  title Synthesizing Knowledge
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4288,14 +4288,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/brainPilotModelOfBipolarDisorder.scroll
  date 2/20/2024
  tags All BipolarEnergy
  title The Brain Pilot Model of Bipolar Disorder
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -4378,14 +4378,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whyDoWeSubsidizeLies.scroll
  date 2/14/2024
  tags All IntellectualFreedom Society
  title Why do we subsidize lies?
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -4437,14 +4437,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/beliefs.scroll
  date 2/11/2024
  tags All Life
  title Beliefs
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4467,14 +4467,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bipolarsInSociety.scroll
  date 2/9/2024
  tags All BipolarEnergy
  title What is the role of the bipolar in society?
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4610,14 +4610,14 @@
  # Limitations of this essay
  A productive exercise would be to get a large dataset on objective rates of bipolar disorder in different regions. Then these, and other models, could be applied, and we could learn what fits best. A major obstacle however is that no good large objective dataset on bipolar disorder is readily available for even one country yet, never mind multiple. That should change soon, as I will explore in future posts.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/stableMoodDisorder.scroll
  date 2/4/2024
  tags All BipolarEnergy
  title Stable Mood Disorder
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4676,14 +4676,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/powerSurges.scroll
  date 2/3/2024
  tags All BipolarEnergy
  title Becoming a High Energy Person
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4755,14 +4755,14 @@
  # Related Posts
  printRelated BipolarEnergy
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggingAsTherapy.scroll
  date 1/30/2024
  tags All BipolarEnergy Writing
  title Blogging as Therapy
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -4795,14 +4795,14 @@
  # Related Posts
  printRelated Writing
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/delusions.scroll
  date 1/29/2024
  tags All BipolarEnergy
  title Delusions
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -5004,14 +5004,14 @@
  
  // ^registryEffects A side-effect of the first incarnation of copyright in the United States was that it provided the new government with a central intelligence agency at zero cost, as to get a copyright one had to send a copy of the work to the Library of Congress.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/walking-as-a-tool-of-thought.scroll
  date 5/19/2023
  tags All Writing Hits
  title Walking and other invisible tools of thought
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -5072,14 +5072,14 @@
  
  ^superdimensional Probably something super-dimensional such as "you just need a ladder".
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/marvin-minsky.scroll
  date 5/09/2023
  tags All BipolarEnergy Life Minsky
  title The Magnificent Multi-Agent Mind of Marvin Minsky
  
- import header.scroll
+ header.scroll
  mediumColumns 1
  printTitle
  
@@ -5161,14 +5161,14 @@
  ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
   https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/enchained-symbols.scroll
  date 4/28/2023
  tags All IntellectualFreedom
  title Enchained Symbols
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -5219,14 +5219,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/a-public-domain-human.scroll
  date 3/6/2023
  tags All IntellectualFreedom
  title A Public Domain Human
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -5319,7 +5319,7 @@
  
  ^marriageAdvice Divorce: Getting legally married was a big mistake. In my experience, lawyers and judges in California Family Court are not steered by honest agents and I regret blindly signing up for their corrupt system.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/safeFs.scroll
  date 1/27/2023
@@ -5327,7 +5327,7 @@
  tags All IntellectualFreedom
  title SafeFS
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -5363,14 +5363,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/useTheSpine.scroll
  date 1/3/2023
  tags All Scroll Programming
  title Use the Spine
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -5433,14 +5433,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/oneTextarea.scroll
  date 12/30/2022
  tags All Scroll Programming
  title One Textarea
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -5513,7 +5513,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/root-thinking.scroll
  date 11/16/2022
@@ -5521,7 +5521,7 @@
  tags All Programming Thinking Scroll
  title Root Thinking
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -5552,14 +5552,14 @@
  
  On second thought, I think this idea is bad. The representation of your principles-axioms-agents-types-etc rounds to irrelevant. Infinitely better to spend time making sure you have the correct collection of first principles than worrying about representing them as a "tree" so you can have a visual. It's knowing what the principles are and how they interact that matters most, not some striving for the ideal representation syntax. This post presents a bad idea, but I'll leave it up as a reminder that sometimes I'm dead wrong.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/replies-always-welcome.scroll
  date 11/14/2022
  tags All Programming NoNoReply
  title Replies always welcome
  
- import header.scroll
+ header.scroll
  printTitle
  printDate
  
@@ -5695,14 +5695,14 @@
       
   
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/misinformationOrFakeNewsNeuralNetwork.scroll
  date 10/15/2022
  tags All IntellectualFreedom Society
  title Training a neural network to spot misinformation and fake news from a single image
  
- import header.scroll
+ header.scroll
  mediumColumns 1
  printTitle
  
@@ -5716,14 +5716,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scratch-ticket.scroll
  date 10/07/2022
  tags All Startups
  title A scratch ticket with a positive expected value
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -5786,14 +5786,14 @@
  pmarca.png
   caption Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/cancer-and-copyright.scroll
  date 10/04/2022
  tags All Society IntellectualFreedom
  title Cancer and Copyright
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -5843,14 +5843,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-angel-investors-data.scroll
  date 9/1/2022
  tags All Startups HasDataset AngelInvesting
  title An Angel Investor's Data
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -5896,7 +5896,7 @@
  - Real-Life Angel Investing Returns 2012–2016 by Yun-Fang Juan
   https://medium.com/@yunfangjuan/real-life-angel-investing-returns-2012-2016-b33425fcb816 Real-Life Angel Investing Returns 2012–2016
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-the-public-domain-can-win.scroll
  date 08-30-2022
@@ -5904,7 +5904,7 @@
  tags All IntellectualFreedom
  title How the public domain can win
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -6003,14 +6003,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ckmeans.scroll
  date 6/09/2022
  tags All Programming Data HasDataset Logeracy
  title The Three Byte Fix
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -6140,14 +6140,14 @@
  - Wolfram Alpha fit of the quadratic runtime data
   https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/upstream-of-everything.scroll
  date 2/28/2022
  tags All Life Thinking
  title Upstream of Everything
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -6222,14 +6222,14 @@
  - I realize now that this idea is thousands of years old.
   https://en.wikipedia.org/wiki/I_know_that_I_know_nothing idea
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/brain-pilots.scroll
  date 2/18/2022
  tags All BipolarEnergy Life Minsky
  title Brain Pilots
  
- import header.scroll
+ header.scroll
  printTitle
  
  // Note: I am publishing this about 2 years after writing it. I found it marked almost ready in a drafts folder on 1/22/2024. Reading it over I liked it, so gonna publish it now, almost entirely unedited, with a few typos fixed. Since it is unchanged I'm using the early written date. I'm guessing I took my time publishing it because I still wanted to work on it more back then, but other things came up and I forgot about it.
@@ -6407,14 +6407,14 @@
   https://www.pinterest.com/pin/58335757660803584/ Palm Study
  - Perhaps consciousness is the logging agent and there is only one consciousness. Perhaps the brain pilots drive the show, and the consciousness records the log, but the consciousness is not able to see which pilot is driving.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aftertext.scroll
  date 12/15/2021
  tags All Scroll Programming Writing
  title Aftertext
  
- import header.scroll
+ header.scroll
  printTitle
  
  # An alternative to inline markup
@@ -6608,7 +6608,7 @@
  aftertext.jpg
   caption A screenshot of Aftertext on the left and the rendered HTML on the right.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/write-thin-to-write-fast.scroll
  date 2021-10-15
@@ -6617,7 +6617,7 @@
  
  // the dataset is the NYTimes
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -6732,14 +6732,14 @@
   - Has the frequency of this advice appearing gone up as screens got wider?
   - Consider vertical languages like Japanese
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/user-methods.scroll
  date 8/11/2021
  tags All Programming
  title User Methods
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -6841,7 +6841,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/elbakian-interview.scroll
  authors Others
@@ -6849,7 +6849,7 @@
  tags All OtherAuthor
  title Goblin Interviews Alexandra Elbakian
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -7180,7 +7180,7 @@
   A: Thank you.
   D: That is all for today.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dialogues.scroll
  date 2021-05-14
@@ -7188,7 +7188,7 @@
  tags All Scroll
  title Scrolldown now has Dialogues
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -7218,14 +7218,14 @@
  - Try Scroll: https://scroll.pub
  - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ifa.scroll
  date 2021-05-12
  tags All IntellectualFreedom
  title The Intellectual Freedom Amendment
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -7294,14 +7294,14 @@
   caption You can honestly say The Bill of Rights outlaws copyright, but let's pass the IFA just to be clear.
    https://www.archives.gov/milestone-documents/bill-of-rights The Bill of Rights
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/some-old-blogs.scroll
  date 2021-05-07
  tags All Writing
  title Some old blogs
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -7341,7 +7341,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
  date 2021-05-06
@@ -7349,7 +7349,7 @@
  tags All Data Writing Life
  title Wisdom: a Tiny Language for Great Advice
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -7430,14 +7430,14 @@
  
  css .rightQuote{text-align: right; display: block; margin-top: 5px;}
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/logeracy.scroll
  date 2021-04-26
  tags All Data Thinking Society Hits Logeracy
  title Logeracy
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -7556,14 +7556,14 @@
  
  ^numeracy In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-fix-the-cdc.scroll
  date 2021-03-30
  tags All Society
  title How to fix the CDC
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -7643,7 +7643,7 @@
  # Notes
  - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-james-park-built-fitbit.scroll
  authors Others
@@ -7651,7 +7651,7 @@
  tags All OtherAuthor
  title How James Park built FitBit
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -8205,7 +8205,7 @@
   https://twitter.com/guyraz @guyraz
   https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/insist-on-focus.scroll
  authors Others
@@ -8214,7 +8214,7 @@
  tags All Startups OtherAuthor
  title Insist on Focus - Keith Rabois describes working at PayPal
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -8257,14 +8257,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-public-domain-publishing-company.scroll
  date 2021-02-28 1
  tags All IntellectualFreedom Startups Scroll
  title The Public Domain Publishing Company
  
- import header.scroll
+ header.scroll
  
  thinColumns 1
  
@@ -8282,14 +8282,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scroll-beta.scroll
  date 2021-02-22
  tags All Scroll Programming Writing
  title Scroll Beta
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -8334,14 +8334,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/sleepyTimeConference.scroll
  date 2021-02-11
  tags All Society Startups
  title Sleepy Time Conference
  
- import header.scroll
+ header.scroll
  printTitle
  # The conference that comes together while you sleep.
  
@@ -8413,14 +8413,14 @@
   improve and change
   So that the people can be free.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/tree-notation-annual-report-2019.scroll
  date 2020-12-09
  tags All Scroll Programming
  title 2019 Tree Notation Annual Report
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -8650,14 +8650,14 @@
  ^note-risk Note that this means I am between 90-99% confident that Tree Notation is _not_ a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
  ^note-euclid When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/medical-records-to-the-moon.scroll
  date 2020-03-02
  tags All Thinking Society HasDataset Data MedicalRecords
  title Medical Records to the Moon
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -8758,14 +8758,14 @@
  # Related posts
  printRelated MedicalRecords
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/musing-on-the-future-of-healthcare.scroll
  date 2020-03-02
  tags All Thinking Society MedicalRecords
  title Musing on the Future of Healthcare
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -8794,14 +8794,14 @@
  # Related posts
  printRelated MedicalRecords
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-old-are-these-keys.scroll
  date 2020-02-25
  tags All Thinking Society HasDataset
  title How Old Are These Keys? Five Eras of Human Progress
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  keyboard/screenshot.png
@@ -8874,17 +8874,17 @@
  ---
  
  expander Dataset
- table keys.tsv
+ keys.tsv
   printTable
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/an-unpopular-phrase.scroll
  date 2020-02-21
  tags All IntellectualFreedom
  title An Unpopular Phrase
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -8936,7 +8936,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/integrity-and-perseverance-in-business-ensure-success.scroll
  date 2020-02-09
@@ -8944,7 +8944,7 @@
  tags All Startups
  title Integrity and Perseverance in Business ensure success (1853)
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -8973,7 +8973,7 @@
   https://placepeep.com placepeep
   https://startupschool.org StartupSchool
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/building-a-treebase-with-6-point-5-million-files.scroll
  date 2020-01-29
@@ -8981,7 +8981,7 @@
  tags All Scroll Programming HasDataset
  title Building a TreeBase with 6.5 million files
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -9689,14 +9689,14 @@
  
  I would love to hear your thoughts.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dataset-needed.scroll
  date 2020-01-23
  tags All Data Thinking Society Writing IntellectualFreedom ScrollSets
  title Dataset Needed
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -9746,14 +9746,14 @@
  # Related Posts
  printRelated ScrollSets
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/type-the-world.scroll
  date 2020-01-20
  tags All Programming Thinking Scroll
  title Type the World
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -9930,14 +9930,14 @@
  
  While I didn't dive into the benefits of what Type the World will bring, and instead merely pointed out some trends that I think indicate it is happening, I do indeed believe it will be a fantastic thing. Maybe I'll give my take on why Type the World is a great thing in a future post.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-stories-are-lies-why-do-they-work.scroll
  date 2020-01-16
  tags All Writing Life Data Narratives
  title If stories are lies why do they work?
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -9983,14 +9983,14 @@
  # Related Posts
  printRelated Narratives
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dreaming-of-a-data-checked-language.scroll
  date 2020-01-3
  tags All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets
  title Dreaming of a Data Checked Language
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -10155,14 +10155,14 @@
  # Related Posts
  printRelated ScrollSets
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/english-cannot-encode-real-news.scroll
  date 2019-08-19
  tags All Writing Society Data Narratives
  title English cannot encode Real News
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -10236,14 +10236,14 @@
  # Related Posts
  printRelated Narratives
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/30000hours.scroll
  date 7/18/2019
  tags All Programming Life HasDataset MasterProgramming
  title 30,000 Hours
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -10322,14 +10322,14 @@
  
  // Originally posted here: https://github.com/breck7/30000hours
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/trinary.scroll
  date 7/14/2019
  tags All Scroll Programming
  title Removing the 2’s from Trinary Notation is a Terrible Idea.
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -10371,14 +10371,14 @@
  Originally posted on Medium.
   https://breckyunits.medium.com/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665 posted
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/going-manic-with-a-fitbit.scroll
  date 1/13/2018
  tags All BipolarEnergy HasDataset
  title Going Manic with a FitBit
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -10497,13 +10497,13 @@
  _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
   https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/countingComplexity.scroll
  date 12/20/2017
  tags All Scroll ScrollPapers
  
- import header.scroll
+ header.scroll
  printTitle
  
  # Yet another method for counting complexity.
@@ -10747,14 +10747,14 @@
  
  katex
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/aGrammarNotationForTreeLanguages.scroll
  date 9/10/2017
  tags All Scroll ScrollPapers
  title Parsers: a language for making languages
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -10819,14 +10819,14 @@
  # Related Posts
  printRelated ScrollPapers
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ohayo.scroll
  date 2017-06-23
  tags All Data Programming Startups Scroll
  title Ohayo
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -10841,14 +10841,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/show-hn-programming-is-now-two-dimensional.scroll
  date 2017-06-21
  tags All Scroll Programming ScrollPapers
  title A New Discovery in Computer Science: 2-Dimensional Programming Languages
  
- import header.scroll
+ header.scroll
  
  mediumColumns 1
  
@@ -10921,14 +10921,14 @@
  # Related Posts
  printRelated ScrollPapers
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/treenotationPaper.scroll
  date 6/21/2017
  tags All Scroll ScrollPapers
  title Tree Notation: an antifragile program notation
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -11085,14 +11085,14 @@
  
  katex
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/big-data-notation.scroll
  date 2013-09-24
  tags All Data Programming Thinking
  title Big Data Notation
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -11116,14 +11116,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/nudgepad-an-ide-in-your-browser.scroll
  date 2013-09-23
  tags All Programming Startups Scroll
  title NudgePad: An IDE in Your Browser
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -11176,14 +11176,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/scrollnet.scroll
  date 6/2/2013
  tags All Programming Scroll WWS
  title ScrollNet: A successor to the Internet
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -11264,14 +11264,14 @@
  _I originally published this on Medium._
   https://medium.com/space-net/spacenet-51aca95d49a2 published this on Medium
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/software-should-save-people-time.scroll
  date 2013-04-02
  tags All Programming
  title Software Should Save People Time
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11311,14 +11311,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/time.scroll
  date 2013-04-01
  tags All Life
  title Time
  
- import header.scroll
+ header.scroll
  printTitle
  
  printAuthors
@@ -11339,14 +11339,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/money-is-meant-to-circulate.scroll
  date 2013-03-30
  tags All Life Society
  title Money is Meant to Circulate
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11364,14 +11364,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-10000-hours.scroll
  date 2013-03-30
  tags All Life Thinking Data MasterProgramming
  title Why 10,000 hours?
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -11441,14 +11441,14 @@
  # Notes
  ^goats Perhaps to be one of the _greatest of all time_, you have to both be constantly practicing and have exceptional luck to live a healthy long live.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/minor-epiphanies.scroll
  date 2013-03-16
  tags All Programming
  title Minor Epiphanies
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -11480,14 +11480,14 @@
  # Notes
  - I stumbled upon the term in John Calcote's book "Autotools".
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-booster-design-pattern.scroll
  date 2013-03-08
  tags All Startups
  title The Booster Design Pattern
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11499,14 +11499,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/startups-and-planes.scroll
  date 2013-02-24
  tags All Startups
  title Startups and Planes
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11518,14 +11518,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/save-your-money-for-great-values.scroll
  date 2013-02-16
  tags All Life Thinking Hits
  title Save Your Money for Great Values
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -11549,14 +11549,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/infinite-futures.scroll
  date 2013-02-12
  tags All Life Thinking
  title Infinite Futures
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11574,14 +11574,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/prove-it.scroll
  date 2012-12-29
  tags All Life Motivation
  title Prove It
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11609,14 +11609,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-great-bank-robbery.scroll
  date 2012-12-23
  tags All Society HasDataset
  title The Great Bank Robbery
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -11647,14 +11647,14 @@
   link fbi.jpg FBI
   https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary here
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/responsibility.scroll
  date 2012-12-22
  tags All Life
  title Responsibility
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -11682,14 +11682,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/black-swans-and-technology.scroll
  date 2012-12-19
  tags All Thinking Startups
  title Black Swans and Technology
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -11728,14 +11728,14 @@
  # Notes
  _All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/deliver.scroll
  date 2012-12-19
  tags All Life
  title Deliver
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -11782,7 +11782,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/cant-lose-could-win-big.scroll
  date 2012-12-18
@@ -11790,7 +11790,7 @@
  tags All Life Startups
  title Can't Lose. Could Win Big.
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -11823,14 +11823,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/probability-makes-planes-fly.scroll
  date 2012-12-18
  tags All Thinking Life
  title Probability Makes Planes Fly
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -11879,14 +11879,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/narratives-misrepresent-complex-systems.scroll
  date 2012-12-16
  tags All Thinking Writing Life Narratives
  title Narratives Misrepresent Complex Systems
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -11975,7 +11975,7 @@
  
  
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-is.scroll
  date 2012-12-16
@@ -11983,7 +11983,7 @@
  tags All Life Thinking
  title Simple is...
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -12008,14 +12008,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/introducing-note.scroll
  date 2012-12-14
  tags All Scroll Programming
  title Introducing Note
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12073,14 +12073,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/planets-and-pebbles.scroll
  date 2012-11-26
  tags All Thinking Logeracy Hits
  title Planets and Pebbles
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -12100,14 +12100,14 @@
  # Related Posts
  printRelated Logeracy
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/publishing-more.scroll
  date 2012-11-25
  tags All Writing Blogging
  title Publishing More
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -12134,14 +12134,14 @@
  # Related Posts
  printRelated Blogging
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/setplicity.scroll
  date 2012-11-20
  tags All Programming Thinking
  title Setplicity
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12176,14 +12176,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/naming-things.scroll
  date 2012-10-20
  tags All Programming Writing
  title Naming Things
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12215,14 +12215,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.scroll
  date 2011-03-30
  tags All Programming Life MasterProgramming
  title What can a Programmer learn from Rock Climbing?
  
- import header.scroll
+ header.scroll
  
  mediumColumns 1
  
@@ -12276,14 +12276,14 @@
  # Related Posts
  printRelated MasterProgramming
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/look-for-a-line.scroll
  date 2011-03-05
  tags All Startups Thinking
  title Look for a Line
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12305,14 +12305,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/backpack-the-world-with-zero-planning.scroll
  date 2011-03-04
  tags All Life
  title Backpack the World with Zero Planning
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12368,14 +12368,14 @@
  - check flight prices for the next few legs of your trip.
  - find the local groupon clones and check them often for great excursion and meal deals.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-economy-explained.scroll
  date 2010-09-18
  tags All Society
  title The Economy Explained
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12430,14 +12430,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/circle-of-competence.scroll
  date 2010-08-25
  tags All Life
  title Circle of Competence
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12456,14 +12456,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/critical-thinking.scroll
  date 2010-08-25
  tags All Life
  title Critical Thinking
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12477,14 +12477,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-is-intelligence-distributed.scroll
  date 2010-08-25
  tags All Thinking Society
  title How is Intelligence Distributed?
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12500,14 +12500,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/kids-are-neat.scroll
  date 2010-08-25
  tags All Life Society
  title Kids are Neat
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12521,14 +12521,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/nature-verse-nurture.scroll
  date 2010-08-25
  tags All Life Society
  title Nature Verse Nurture
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12548,14 +12548,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/recommendations-are-far-from-good.scroll
  date 2010-08-25
  tags All Thinking Society
  title Recommendations Are Far From Good
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12578,14 +12578,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/ruby.scroll
  date 2010-08-25
  tags All Programming
  title Ruby
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12597,14 +12597,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/you-cant-predict-the-future.scroll
  date 2010-08-25
  tags All Thinking Life
  title You Can't Predict the Future
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12638,14 +12638,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-recency-effect.scroll
  date 2010-08-23
  tags All Thinking Society
  title The Recency Effect
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -12673,14 +12673,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-percentage-of-the-brain-does-what.scroll
  date 2010-08-23
  tags All Thinking
  title What Percentage of the Brain Does What?
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -12710,14 +12710,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-ovarian-lottery-and-other-side-projects.scroll
  date 2010-08-11
  tags All Thinking Data Society
  title The Ovarian Lottery and Other Side Projects
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -12801,14 +12801,14 @@
  comment
   Relevant photo (and thread): https://twitter.com/SlowwCo/status/1458263107885617153/photo/2
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/happiness-is-in-mediocristan.scroll
  date 2010-08-06
  tags All Thinking Life
  title Happiness is in Mediocristan
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12848,14 +12848,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orbits.scroll
  date 2010-08-06
  tags All Thinking Life
  title Orbits
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -12880,14 +12880,14 @@
  3. I think the orbit around the sun has more impact on our world than we even realize. In other words, seasonality's affects are underestimated. Perhaps when you give something a name it seems less threatening. We call the change from August to December "fall", and thus we underestimate the volatility and massive change that occurs all around us.
  4. We should also call days "revs". Okay I'm done.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-i-want.scroll
  date 2010-08-06
  tags All Life
  title What I Want
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12931,14 +12931,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.scroll
  date 2010-08-03
  tags All Society
  title The Do You Know Game and Why We Need Celebrities
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -12997,7 +12997,7 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/design-matters-a-lot.scroll
  date 2010-07-02
@@ -13005,7 +13005,7 @@
  tags All Programming Startups Design
  title Design Matters. A lot.
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13063,14 +13063,14 @@
  # Notes
  - 1. Are Google, craigslist, and eBay exceptions to the rule that you need a great design to succeed? Yes. If you're the first mover in a market, you can get by with an ugly design. At least in the case of Google, they continually refine it.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/competition-and-specialization.scroll
  date 2010-06-28
  tags All Startups Society
  title Competition and Specialization
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13095,14 +13095,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/simple-but-not-easy.scroll
  date 2010-06-17
  tags All Startups Life
  title Simple, but not easy
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13136,14 +13136,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/flip-flopping.scroll
  date 2010-06-16
  tags All Life
  title Flip Flopping
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13181,14 +13181,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-churn-rate-of-data.scroll
  date 2010-06-15
  tags All Data Thinking Programming
  title The Churn Rate of Data
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 1
@@ -13210,14 +13210,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/culture-and-complexity.scroll
  date 2010-06-14
  tags All Society Life
  title Culture and Complexity
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13253,14 +13253,14 @@
  # Notes
  1. Interesting factet: there are apparently 38 colonies of Emperor Penguins in Antarctica.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-invention-of-free-will.scroll
  date 2010-03-24
  tags All Life
  title The Invention of Free Will
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13295,14 +13295,14 @@
   https://./the-many-worlds-law.html many
  - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.scroll
  date 2010-03-22
  tags All Startups
  title Why is it best to do one thing really, really well?
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13354,14 +13354,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-hidden-benefits-of-automation.scroll
  date 2010-03-17
  tags All Programming
  title The Hidden Benefits of Automation
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13393,14 +13393,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/metrics-for-programmers.scroll
  date 2010-03-16
  tags All Programming HasDataset
  title Metrics for Programmers
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -13433,14 +13433,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.scroll
  date 2010-03-08
  tags All Programming Startups HasDataset
  title HackerNews Data: Visits as a Function of Karma
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -13478,14 +13478,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.scroll
  date 2010-02-19
  tags All Life Motivation
  title Don't talk about what you will do, talk about what you have done
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13549,14 +13549,14 @@
  # Notes
  1. In other words, don't over-promise and under-deliver.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-its-worth-it-to-buy-the-book.scroll
  date 2010-02-17
  tags All Life Thinking Hits
  title Why it's worth it to buy the book
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13593,14 +13593,14 @@
  1. Even if a book is more expensive, say $50, the numbers don't change too much.
  2. Pardon my scribbling. Got a new toy.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-least-you-can-do.scroll
  date 2010-02-02
  tags All Life
  title The Least You Can Do
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13647,14 +13647,14 @@
  - Another relevant computer science topics is the The longest common subsequence problem.
   http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/four-tips-to-improve-communication.scroll
  date 2010-01-29
  tags All Life
  title Four Tips to Improve Communication
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13678,14 +13678,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/network-effects.scroll
  date 2010-01-22
  tags All Startups Society
  title Network Effects
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13713,14 +13713,14 @@
  # Notes
  1. This is probably easier said than done.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.scroll
  date 2010-01-18
  tags All Writing
  title If you can explain something logically, you can explain it simply
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13761,14 +13761,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.scroll
  date 2010-01-15
  tags All Programming Life
  title With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
  
- import header.scroll
+ header.scroll
  
  mediumColumns 1
  
@@ -13849,14 +13849,14 @@
  # Notes
  - I've yet to be part of founding a big Internet company, so you don't have to agree with me that repeating yourself is critical to success.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/when-forced-to-wait-wait.scroll
  date 2010-01-14
  tags All Life
  title When forced to wait, wait!
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13903,14 +13903,14 @@
   http://paulgraham.com/head.html Holding a Program in One's Head
  2. Of course, if you're given a very long idle time, then feel free to switch tasks. Don't spend 4 hours staring at your screen waiting for a coworker to get back to you.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-buy-low-sell-high.scroll
  date 2010-01-12
  tags All Life
  title How to Buy Low, Sell High
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -13952,14 +13952,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/flee-the-bubble.scroll
  date 2010-01-05
  tags All Startups
  title Flee the Bubble
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -14013,14 +14013,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/checklist-for-new-products.scroll
  date 2009-12-28
  tags All Startups
  title Checklist for New Products
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14053,14 +14053,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/diversification-in-startups.scroll
  date 2009-12-24
  tags All Startups
  title Diversification in Startups
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -14141,14 +14141,14 @@
  2. Thanks to Ben for helping me form my ideas on this issue.
   http://www.benzulauf.com Ben
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/thoughts-on-setting-goals.scroll
  date 2009-12-23
  tags All Life
  title Thoughts on Setting Goals
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -14199,14 +14199,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/problems-worth-solving.scroll
  date 2009-12-20
  tags All Programming Startups
  title Problems Worth Solving
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14238,14 +14238,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/make-something-40-of-your-customers-must-have.scroll
  date 2009-12-16
  tags All Startups
  title Make Something 40% of Your Customers Must Have
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14342,14 +14342,14 @@
  - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
   http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/seo-made-easy-lumps.scroll
  date 2009-12-15
  tags All Programming Startups
  title SEO Made Easy: LUMPS
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14416,14 +14416,14 @@
  - SEOBook - one of the best SEO sites out there.
   https://www.seobook.com SEOBook
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/dont-flip-the-bozo-bit.scroll
  date 2009-12-13
  tags All Programming Life
  title Don't Flip the Bit
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -14466,14 +14466,14 @@
  - Origin of the term?
   https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/unfeatures.scroll
  date 2009-12-11
  tags All Programming Startups
  title (un)features
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14517,14 +14517,14 @@
  * Edit: 01/05/2010. Features are a great way to make money.
   https://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 great way to make money
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.scroll
  date 2009-12-10
  tags All Life
  title Get Stuff Done By Setting Arbitrary Constraints
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14566,14 +14566,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.scroll
  date 2009-12-09
  tags All Writing
  title Why You Shouldn't Save Blogging for Old Age
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14609,14 +14609,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/6-specific-ways-to-find-programming-mentors.scroll
  date 2009-12-08
  tags All Programming MasterProgramming
  title 6 Specific Ways to Find Programming Mentors
  
- import header.scroll
+ header.scroll
  
  mediumColumns 1
  printTitle
@@ -14665,14 +14665,14 @@
  # Related Posts
  printRelated MasterProgramming
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/orders-of-magnitude.scroll
  date 2009-12-07
  tags All Thinking Logeracy Hits
  title Orders of Magnitude
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -14736,14 +14736,14 @@
  - Thanks to Mairi and Andrew Kitchell for providing feedback.
   http://www.30words.com Andrew Kitchell
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-many-worlds-law.scroll
  date 2009-12-06
  tags All Life Thinking
  title The Many Worlds Law
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14779,14 +14779,14 @@
  4. I called it the many worlds "law" because I don't want to use the word theory or hypothesis. Theory and hypothesis are too linked in people's minds with uncertainty, and some ideas, like evolution and many worlds, have way too much supporting evidence to leave any room for uncertainty, in as much as we can be uncertain about something.
  5. One of the most important laws in most worlds, anyway.
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/twelve-tips-to-master-programming-faster.scroll
  date 2009-12-04
  tags All Programming MasterProgramming
  title Twelve Tips to Master Programming Faster
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -14873,14 +14873,14 @@
  # Related Posts
  printRelated MasterProgramming
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/whats-linear-algebra.scroll
  date 2009-12-03
  tags All Thinking
  title What's Linear Algebra?
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14918,14 +14918,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/fiction-or-nonfiction.scroll
  date 2009-12-02 3
  tags All Writing
  title Fiction or Nonfiction?
  
- import header.scroll
+ header.scroll
  printTitle
  
  thinColumns 2
@@ -14973,14 +14973,14 @@
  3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
   http://news.ycombinator.com/item?id=917566 comment
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/experience-is-what-you-get.scroll
  date 2009-12-02 2
  tags All Life
  title Experience is What You Get
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -15002,14 +15002,14 @@
  
  ****
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/im-back.scroll
  date 2009-12-02 1
  tags All Writing Blogging
  title I'm Back
  
- import header.scroll
+ header.scroll
  printTitle
  
  mediumColumns 1
@@ -15036,14 +15036,14 @@
  # Related Posts
  printRelated Blogging
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/what-you-focus-on-increases.scroll
  date 2009-05-06
  tags All Startups Thinking Life
  title What you focus on, increases
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -15081,19 +15081,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/iphone/2009/05/06/what-you-focus-on-increases/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/the-truth-about-web-design.scroll
  date 2009-04-14
  tags All Startups Programming Design
  title The Truth about Web Design
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15116,19 +15116,19 @@
  # Related Posts
  printRelated Design
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-startups/2009/04/14/the-truth-about-web-design/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/twitter-search-wins-again.scroll
  date 2009-04-06
  tags All Startups
  title Twitter Search Wins Again
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15149,19 +15149,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-20/2009/04/06/twitter-search-wins-again/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/irrational-numbers.scroll
  date 2009-03-31
  tags All Thinking
  title Irrational Numbers
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15188,19 +15188,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/statistics/2009/03/31/irrational-numbers/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.scroll
  date 2009-01-05
  tags All Startups
  title Are you Making Something that will become ‘Absolutely Irrelevant’?
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15238,19 +15238,19 @@
  quote
   Comment from Jeremy: i just finished reading through the book, and thoroughly enjoyed it as well. My second favorite tidbit was when Buffett and Gates were with Gates parents and a group of other biz people, and Gates father asked everyone what was the single biggest factor to each person's success. Bill Gates and Buffett's responses were the same: "Focus"
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090201144117/http://www.breckyunits.com/web-startups/2009/01/05/are-you-making-something-that-will-become-absolutely-irrelevant/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/meteorite-caught-on-film.scroll
  date 2008-11-23
  tags All Society
  title Meteorite Caught on Film
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15261,19 +15261,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090206005656/http://www.breckyunits.com/science/2008/11/23/meteorite-caught-on-film/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.scroll
  date 2008-10-12
  tags All Startups
  title When the Market Says No, Listen
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15312,19 +15312,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081016050749/http://www.breckyunits.com/web-20/2008/10/12/my-best-startup-advice-numbers-numbers-numbers/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/san-francisco.scroll
  date 2008-09-19
  tags All Startups
  title San Francisco
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15333,19 +15333,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090209063918/http://www.breckyunits.com/san-francisco/2008/09/19/san-francisco/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/justhackit.scroll
  date 2008-08-20
  tags All Startups
  title JustHackIt
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15365,19 +15365,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081017081121/http://www.breckyunits.com/web-20/2008/08/20/justhackit/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.scroll
  date 2008-07-28
  tags All Society
  title Bigger Telescopes are needed to Solve Global Warming
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15402,19 +15402,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20090713043922/http://www.breckyunits.com/uncategorized/2009/04/25/bigger-telescopes-are-needed-to-solve-global-warming-2/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/how-to-cure-the-hiccups.scroll
  date 2008-07-28
  tags All Life
  title How to Cure the Hiccups
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15436,19 +15436,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/28/how-to-cure-the-hiccups/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/trying-shelfari-goodreads-and-librarything.scroll
  date 2008-07-27
  tags All Thinking Life
  title Trying Shelfari, GoodReads, and LibraryThing
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15476,19 +15476,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/over-half-of-the-world-is-older-than-me.scroll
  date 2008-07-09
  tags All Life
  title Over Half of the World is Older Than Me
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15512,19 +15512,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120163150/http://www.breckyunits.com/statistics/2008/07/09/over-half-of-the-world-is-older-than-me/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/bloggers-who-turned-pro-and-their-famous-last-words.scroll
  date 2008-07-07
  tags All Writing HasDataset
  title Bloggers Turning Pro
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 1
  
@@ -15593,19 +15593,19 @@
  # Related Posts
  printRelated Writing
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081024204528/http://www.breckyunits.com/web-20/2008/07/07/bloggers-who-turned-pro-and-their-famous-last-words/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.scroll
  date 2008-05-14
  tags All Society Data
  title Daily Gas Use for the United States and the World
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15626,19 +15626,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120162550/http://www.breckyunits.com/economics/2008/05/14/daily-gas-use-for-the-united-states-and-the-world/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.scroll
  date 2008-05-08
  tags All Startups HasDataset
  title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
  
- import header.scroll
+ header.scroll
  printTitle
  thinColumns 2
  
@@ -15759,18 +15759,18 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  Original post
   https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/first-place-in-the-stock-market-game.scroll
  date 2007-09-28
  tags All Startups
  title First Place in the Stock Market Game
  
- import header.scroll
+ header.scroll
  mediumColumns 1
  printTitle
  
@@ -15792,19 +15792,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120154142/http://www.breckyunits.com/economics/2007/09/28/first-place-in-the-stock-market-game/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.scroll
  date 2007-09-13
  tags All Startups
  title Why a Team is Worth a lot more than an Idea
  
- import header.scroll
+ header.scroll
  mediumColumns 1
  printTitle
  
@@ -15833,19 +15833,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120154142/http://www.breckyunits.com/ideas/2007/09/13/why-a-team-is-worth-a-lot-more-than-an-idea/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/learning-how-to-program-part-i.scroll
  date 2007-08-28
  tags All Programming
  title Learning How to Program Part I
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -15872,19 +15872,19 @@
  
  ****
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120161711/http://www.breckyunits.com/programming/2007/08/28/learning-how-to-program-part-i/
  
- import footer.scroll
+ footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/i-guess-the-time-had-come.scroll
  date 2007-08-24
  tags All Writing Life Blogging
  title I guess the time has come
  
- import header.scroll
+ header.scroll
  printTitle
  mediumColumns 1
  
@@ -15906,9 +15906,9 @@
  # Related Posts
  printRelated Blogging
  
- import importedNote.scroll
+ importedNote.scroll
  
  Original post
   https://web.archive.org/web/20081120161711/http://www.breckyunits.com/blogging/2007/08/24/i-guess-the-time-had-come/
  
- import footer.scroll
+ footer.scroll

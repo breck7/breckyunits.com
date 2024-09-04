@@ -2,7 +2,7 @@ date 4/5/2024
 tags All BipolarEnergy Writing HasDataset
 title Blog Posts, Sorted by Sleep
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -71,4 +71,4 @@ I started wearing a Microsoft Band when it first came out in November 2014. Then
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2009-12-16
 tags All Startups
 title Make Something 40% of Your Customers Must Have
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -99,4 +99,4 @@ But you laugh it off and keep chugging along.
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
  http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
 
-import footer.scroll
+footer.scroll

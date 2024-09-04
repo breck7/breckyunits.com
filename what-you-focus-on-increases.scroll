@@ -2,7 +2,7 @@ date 2009-05-06
 tags All Startups Thinking Life
 title What you focus on, increases
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -40,9 +40,9 @@ quote
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/iphone/2009/05/06/what-you-focus-on-increases/
 
-import footer.scroll
+footer.scroll

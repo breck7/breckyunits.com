@@ -2,7 +2,7 @@ date 11/14/2022
 tags All Programming NoNoReply
 title Replies always welcome
 
-import header.scroll
+header.scroll
 printTitle
 printDate
 
@@ -138,4 +138,4 @@ xmlCode
      </entry>
  </feed>
 
-import footer.scroll
+footer.scroll

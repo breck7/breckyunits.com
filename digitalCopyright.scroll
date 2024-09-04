@@ -2,7 +2,7 @@ date 5/14/2024
 tags All IntellectualFreedom Society
 title Digital Copyright and AIs
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -81,4 +81,4 @@ While the laws are still set by humans.
 
 ^billion Well, there is no legal way for YOU to do it. A billionaire could theoretically afford to buy the "rights" and build their own library as good as a big corporation. But no billionaire is reading this post. Nevertheless, to be precise, only ~756 out of ~333,333,000 Americans ~have a legal way to train on the same materials as AIs.
 
-import footer.scroll
+footer.scroll

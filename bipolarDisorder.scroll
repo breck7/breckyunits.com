@@ -2,7 +2,7 @@ date 1/24/2024
 tags All BipolarEnergy
 title Focusing on Bipolar Disorder
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -174,4 +174,4 @@ table
   2003 August 2 MD ❌ No No
   2002 October 1 AP ❌ No No
 
-import footer.scroll
+footer.scroll

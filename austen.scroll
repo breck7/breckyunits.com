@@ -1,7 +1,7 @@
 date 10/18/2022
 title Austen Heinz
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -41,4 +41,4 @@ Eventually I did move out to San Francisco. Timing is a funny thing though. Aust
 
 I will never ever believe Austen killed himself. Austen was never crazy. Austen was intelligent, tough, gentle, brave, bold, hard working, loving, funny, kind. It's society who has been crazy. Maybe it's time more people took Heinz 101.
 
-import footer.scroll
+footer.scroll

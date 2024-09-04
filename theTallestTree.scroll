@@ -3,7 +3,7 @@ tags All Life Thinking Hits
 title The Tallest Tree
  // thanks to Lees Yunits for the better title
 
-import header.scroll
+header.scroll
 printTitle
 // what are the black swans of black swans?
 
@@ -126,4 +126,4 @@ Then he heard a child's voice.
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -3,9 +3,9 @@ tags index
 permalink wget-dont-save-file.html
 title wget don't save file
 
-import pageHeader.scroll
+pageHeader.scroll
 
 code
  wget -O /dev/null http://address.com
 
-import footer.scroll
+footer.scroll

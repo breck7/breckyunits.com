@@ -2,7 +2,7 @@ date 2009-12-20
 tags All Programming Startups
 title Problems Worth Solving
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -34,4 +34,4 @@ If you don't have the skills yet to solve important problems, reach out to those
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2024-05-25
 tags All Programming Data Scroll
 title What can we learn from programming language version numbers?
 
-import header.scroll
+header.scroll
 printTitle
 
 # Analyzing the version numbers of 621 programming languages
@@ -137,4 +137,4 @@ I learned a few things today. Hope you did too!
   rows.sortBy appeared
    tables.basic
 
-import footer.scroll
+footer.scroll

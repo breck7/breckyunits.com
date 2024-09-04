@@ -3,7 +3,7 @@ tags index
 permalink fix-permission-problems-using-chmod.html
 title Fix permission problems using chmod
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Permission problems driving you crazy? Here's a common command to fix them:
 
@@ -12,4 +12,4 @@ code
 
 Change the file permissions of all directories and files in directoryname to 755.
 
-import footer.scroll
+footer.scroll

@@ -54,9 +54,9 @@ quoteParser,60
 printRelatedParser,49
 h3Parser,42
 codeParser,34
-scrollTableParser,34
 printTableParser,31
 scrollTableDataParser,30
+scrollTableParser,30
 openGraphParser,29
 quickParagraphParser,27
 scrollTableDelimiterParser,27
@@ -84,6 +84,7 @@ italicsParser,5
 feedbackParser,5
 wideColumnsParser,5
 plainTextOnlyParser,4
+quickTableParser,4
 boldParser,3
 aboveAsCodeParser,2
 expanderParser,2

@@ -2,7 +2,7 @@ date 2009-12-04
 tags All Programming MasterProgramming
 title Twelve Tips to Master Programming Faster
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -89,4 +89,4 @@ That means I've spent between 2,000-5,000 hours developing my skills. Hopefully,
 # Related Posts
 printRelated MasterProgramming
 
-import footer.scroll
+footer.scroll

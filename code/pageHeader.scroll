@@ -1,6 +1,6 @@
 importOnly
 
-import header.scroll
+header.scroll
 keyboardNav
 mediumColumns 1
 printTitle

@@ -2,7 +2,7 @@ date 2012-12-22
 tags All Life
 title Responsibility
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -30,4 +30,4 @@ Smart entrepreneurship is all about choosing problems you can and want to own. Y
 
 ****
 
-import footer.scroll
+footer.scroll

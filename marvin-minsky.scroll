@@ -2,7 +2,7 @@ date 5/09/2023
 tags All BipolarEnergy Life Minsky
 title The Magnificent Multi-Agent Mind of Marvin Minsky
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -84,4 +84,4 @@ printRelated Minsky
 ^hawkins A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
-import footer.scroll
+footer.scroll

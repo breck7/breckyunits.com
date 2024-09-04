@@ -3,11 +3,11 @@ tags index
 permalink notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
 title Notepad++ HAML Syntax Highlighting and other custom extension mapping
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I want my HAML files to have PHP(or Ruby) syntax highlighting.
 
 Settings > Style Configurator
 
 Then click php and under "user ext" (in the bottom left) add haml
-import footer.scroll
+footer.scroll

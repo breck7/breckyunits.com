@@ -3,7 +3,7 @@ tags index
 permalink adjusting-to-a-mac.html
 title Adjusting to a Mac
 
-import pageHeader.scroll
+pageHeader.scroll
 
 For the third time in my life I've gotten a Macbook. The previous two times I returned them. I'm hoping the third time is a charm.
 
@@ -27,4 +27,4 @@ All in all, I'm really enjoying the speed, instant on, the light weight of the c
 
 I'd say the odds at this point are 60-40 in favor of me sticking with it this time.
 
-import footer.scroll
+footer.scroll

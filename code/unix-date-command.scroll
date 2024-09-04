@@ -3,7 +3,7 @@ tags index
 permalink unix-date-command.html
 title Unix date command
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Display the current unix timestamp:
 
@@ -12,4 +12,4 @@ code
 
 Handy way to view it from the command line.
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 1/30/2024
 tags All BipolarEnergy Writing
 title Blogging as Therapy
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -35,4 +35,4 @@ Anyway. I'm going to publish this one now and try and get a double post out toda
 # Related Posts
 printRelated Writing
 
-import footer.scroll
+footer.scroll

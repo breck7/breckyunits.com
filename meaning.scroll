@@ -3,7 +3,7 @@ openGraphImage meaning.webp
 tags All Thinking Data Hits
 title The Choice
 
-import header.scroll
+header.scroll
 printTitle
 printAuthors
 
@@ -141,4 +141,4 @@ It was blank.
 
 ****
 
-import footer.scroll
+footer.scroll

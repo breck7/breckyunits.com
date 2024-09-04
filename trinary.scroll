@@ -2,7 +2,7 @@ date 7/14/2019
 tags All Scroll Programming
 title Removing the 2’s from Trinary Notation is a Terrible Idea.
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -44,4 +44,4 @@ Fifth, and my final point, if the idiot creator of Binary Notation struggles wit
 Originally posted on Medium.
  https://breckyunits.medium.com/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665 posted
 
-import footer.scroll
+footer.scroll

@@ -3,7 +3,7 @@ tags index
 permalink new-tricks-in-vim.html
 title New tricks in Vim
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I learned some new tricks with vim today.
 
@@ -20,4 +20,4 @@ code
 Notes
 
 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
-import footer.scroll
+footer.scroll

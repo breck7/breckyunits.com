@@ -1,5 +1,5 @@
 replace CAT_TITLE Data
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Data
-import footer.scroll
+footer.scroll

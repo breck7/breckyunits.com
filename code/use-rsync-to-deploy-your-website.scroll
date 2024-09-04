@@ -3,7 +3,7 @@ tags index
 permalink use-rsync-to-deploy-your-website.html
 title Use rsync to deploy your website
 
-import pageHeader.scroll
+pageHeader.scroll
 
 `rsync` is a nifty little tool that can deploy a website to a testing or production server.
 
@@ -39,4 +39,4 @@ This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
 
-import footer.scroll
+footer.scroll

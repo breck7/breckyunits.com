@@ -2,7 +2,7 @@ date 2024-05-02
 tags All BipolarEnergy Ketones
 title Energy Clocks
 
-import header.scroll
+header.scroll
 printTitle
 
 ## Kathmandu and ATP
@@ -197,4 +197,4 @@ Maybe workers can fix the bipolar energy clock too.
 # Related Posts
 printRelated BipolarEnergy
 
-import footer.scroll
+footer.scroll

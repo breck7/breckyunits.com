@@ -3,7 +3,7 @@ tags index
 permalink augmented-gitignore.html
 title Augmented Gitignore
 
-import pageHeader.scroll
+pageHeader.scroll
 
 code
  .bundle
@@ -21,4 +21,4 @@ code
 - Source
  http://railstutorial.org/chapters/beginning#sec:adding_and_committing
 
-import footer.scroll
+footer.scroll

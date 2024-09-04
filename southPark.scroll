@@ -2,7 +2,7 @@ date 8/25/2024
 tags All Startups
 title A Review of the South Park Commons Rejection Letter
 
-import standardHeader.scroll
+standardHeader.scroll
 
 rejected.jpg
  caption If someone tossed me a nickel for every rejection I've gotten I'd be dead, buried under nickels.
@@ -54,4 +54,4 @@ $ Have you considered signing with your human names?
 
 ****
 
-import footer.scroll
+footer.scroll

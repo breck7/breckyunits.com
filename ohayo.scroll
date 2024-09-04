@@ -2,7 +2,7 @@ date 2017-06-23
 tags All Data Programming Startups Scroll
 title Ohayo
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -17,4 +17,4 @@ I wanted to try and make a fast, visual app for doing data science. I can't quit
 
 ****
 
-import footer.scroll
+footer.scroll

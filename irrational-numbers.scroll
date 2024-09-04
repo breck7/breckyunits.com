@@ -2,7 +2,7 @@ date 2009-03-31
 tags All Thinking
 title Irrational Numbers
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -29,9 +29,9 @@ P.S. I know this is probably a naivve look at complex math topics, but I’m 1% 
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/statistics/2009/03/31/irrational-numbers/
 
-import footer.scroll
+footer.scroll

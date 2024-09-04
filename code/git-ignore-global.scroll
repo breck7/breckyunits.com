@@ -3,7 +3,7 @@ tags index
 permalink git-ignore-global.html
 title Git Ignore Global
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Create a global .gitignore file to ignore common pains:
 
@@ -17,4 +17,4 @@ code
  git config --global core.excludesfile ~/.gitignore_global
 
 Thanks to <a href="https://web.archive.org/web/20120614225952/http://help.github.com/ignore-files/">github</a>
-import footer.scroll
+footer.scroll

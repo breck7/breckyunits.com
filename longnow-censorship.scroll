@@ -1,7 +1,7 @@
 date 10/20/2022
 title My LongBets.org prediction on cancer
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -40,4 +40,4 @@ Hundreds of cures are just a few tweaks away from saving many, many lives. Cance
 longNowCancer.png
  openGraph
 
-import footer.scroll
+footer.scroll

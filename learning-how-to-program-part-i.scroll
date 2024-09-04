@@ -2,7 +2,7 @@ date 2007-08-28
 tags All Programming
 title Learning How to Program Part I
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -29,9 +29,9 @@ So after brashly deciding C++ was outdated, I opted instead to fiddle with Ruby.
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120161711/http://www.breckyunits.com/programming/2007/08/28/learning-how-to-program-part-i/
 
-import footer.scroll
+footer.scroll

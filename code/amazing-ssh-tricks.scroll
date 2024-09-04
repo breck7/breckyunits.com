@@ -3,9 +3,9 @@ tags index
 permalink amazing-ssh-tricks.html
 title Amazing SSH Tricks
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Just read an article that contains some <a href="http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html">amazing SSH tricks.</a>
  
 
-import footer.scroll
+footer.scroll

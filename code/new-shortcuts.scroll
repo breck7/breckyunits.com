@@ -3,7 +3,7 @@ tags index
 permalink new-shortcuts.html
 title New shortcuts
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Gmail:
 
@@ -18,4 +18,4 @@ Mac:
 code
  ctrl+a - home/start of line
  ctrl+e - end
-import footer.scroll
+footer.scroll

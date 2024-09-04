@@ -2,7 +2,7 @@ date 7/18/2019
 tags All Programming Life HasDataset MasterProgramming
 title 30,000 Hours
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -81,4 +81,4 @@ printRelated MasterProgramming
 
 // Originally posted here: https://github.com/breck7/30000hours
 
-import footer.scroll
+footer.scroll

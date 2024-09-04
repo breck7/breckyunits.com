@@ -2,7 +2,7 @@ date 2024-06-25
 tags All Startups Society Scroll
 title CheckBox: An Online + Offline Voting System
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -123,4 +123,4 @@ We plan to incorporate as a for-benefit corporation in the State of California w
 # Deal
 We’re looking to raise up to $200,000 via convertible notes with an $800,000 cap to achieve our 2013 milestones.
 
-import footer.scroll
+footer.scroll

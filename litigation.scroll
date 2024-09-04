@@ -4,7 +4,7 @@ title Abraham Lincoln: "Discourage Litigation."
 
 // todo: find a scan of the original letter
 
-import header.scroll
+header.scroll
 printTitle
 printDate
 
@@ -40,4 +40,4 @@ notesForALawLecture.gif
 
 ****
 
-import footer.scroll
+footer.scroll

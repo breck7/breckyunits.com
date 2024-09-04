@@ -3,7 +3,7 @@ permalink wisdom-a-tiny-language-for-great-advice.html
 tags All Data Writing Life
 title Wisdom: a Tiny Language for Great Advice
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -84,4 +84,4 @@ If you have great experience, I urge you to not put it out there in the form of 
 
 css .rightQuote{text-align: right; display: block; margin-top: 5px;}
 
-import footer.scroll
+footer.scroll

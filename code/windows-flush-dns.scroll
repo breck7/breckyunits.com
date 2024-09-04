@@ -3,11 +3,11 @@ tags index
 permalink windows-flush-dns.html
 title Windows Flush DNS
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Open cmd.exe. Run:
 
 code
  ipconfig /flushdns
 
-import footer.scroll
+footer.scroll

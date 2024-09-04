@@ -2,7 +2,7 @@ date 2009-12-11
 tags All Programming Startups
 title (un)features
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -46,4 +46,4 @@ This blog is powered by software with an (un)features list.
 * Edit: 01/05/2010. Features are a great way to make money.
  https://evhead.com/search?updated-max=2006-12-15T14:47:00-08:00&max-results=7 great way to make money
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2010-01-29
 tags All Life
 title Four Tips to Improve Communication
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -26,4 +26,4 @@ That's it. Good luck!
 
 ****
 
-import footer.scroll
+footer.scroll

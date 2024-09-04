@@ -2,7 +2,7 @@ date 12/28/2023
 tags All Scroll Programming Startups
 title I thought we could build AI experts by hand
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -232,4 +232,4 @@ A characteristica universalis might be possible someday as a novelty. But not so
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2024-05-23
 tags All IntellectualFreedom Society
 title The Omni Restaurant
 
-import header.scroll
+header.scroll
 thinColumns 1
 printTitle
 printAuthors
@@ -242,4 +242,4 @@ In front of him, eating a bowl of cereal, is a man in a Vicuna suit.
 
 ****
 
-import footer.scroll
+footer.scroll

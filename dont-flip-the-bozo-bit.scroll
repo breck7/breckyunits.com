@@ -2,7 +2,7 @@ date 2009-12-13
 tags All Programming Life
 title Don't Flip the Bit
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -45,4 +45,4 @@ But this is a bad solution. The two presented above are better.
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
 
-import footer.scroll
+footer.scroll

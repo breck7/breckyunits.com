@@ -2,7 +2,7 @@ date 2009-12-10
 tags All Life
 title Get Stuff Done By Setting Arbitrary Constraints
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -44,4 +44,4 @@ But the important thing is just having constraints in the first place.
 
 ****
 
-import footer.scroll
+footer.scroll

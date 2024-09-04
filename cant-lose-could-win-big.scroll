@@ -3,7 +3,7 @@ permalink cant-lose-could-win-big.html
 tags All Life Startups
 title Can't Lose. Could Win Big.
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -36,4 +36,4 @@ Then, if you want to make yourself open to positive black swans, you can put 10%
 
 ****
 
-import footer.scroll
+footer.scroll

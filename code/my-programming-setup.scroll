@@ -3,7 +3,7 @@ tags index
 permalink my-programming-setup.html
 title My Programming Setup
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Here's my setup. This is kind of for my reference but you can also check it out if you're interested.
 
@@ -23,4 +23,4 @@ Here's my setup. This is kind of for my reference but you can also check it out 
 - I bump up the font size on a lot of things like terminal etc.
 - I go to "Keyboard" on the Mac and enable function keys. That way F1 works like you'd expect and you have to hit Fn+F1 to adjust the screen brightness.
 
-import footer.scroll
+footer.scroll

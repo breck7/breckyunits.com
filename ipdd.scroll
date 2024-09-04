@@ -2,7 +2,7 @@ date 2024-06-29
 tags All IntellectualFreedom Society
 title IPDD
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -89,4 +89,4 @@ Instead, his face lit up, he pulled out his phone and told me he had to text his
 
 ****
 
-import footer.scroll
+footer.scroll

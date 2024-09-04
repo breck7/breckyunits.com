@@ -3,7 +3,7 @@ tags index
 permalink ngrep-for-packet-monitoring.html
 title ngrep for packet monitoring
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I just came across a neat command line tool, ngrep, via this <a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">site</a>.
 
@@ -11,4 +11,4 @@ Sample usage:
 
 code
  ngrep -q -W byline "^(GET|POST) .*"
-import footer.scroll
+footer.scroll

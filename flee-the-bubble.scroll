@@ -2,7 +2,7 @@ date 2010-01-05
 tags All Startups
 title Flee the Bubble
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -57,4 +57,4 @@ That's all I've got. But don't take it from me, read the writings of web entrepr
 
 ****
 
-import footer.scroll
+footer.scroll

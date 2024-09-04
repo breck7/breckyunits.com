@@ -2,7 +2,7 @@ date 2013-03-30
 tags All Life Society
 title Money is Meant to Circulate
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -20,4 +20,4 @@ P.S. This quote also applies well to most man made things. Cars,  houses, bikes,
 
 ****
 
-import footer.scroll
+footer.scroll

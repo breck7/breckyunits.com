@@ -2,7 +2,7 @@ date 2007-09-13
 tags All Startups
 title Why a Team is Worth a lot more than an Idea
 
-import header.scroll
+header.scroll
 mediumColumns 1
 printTitle
 
@@ -31,9 +31,9 @@ I think the best entrepreneurs are the ones who can build and lead a team to ens
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120154142/http://www.breckyunits.com/ideas/2007/09/13/why-a-team-is-worth-a-lot-more-than-an-idea/
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2013-02-12
 tags All Life Thinking
 title Infinite Futures
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -20,4 +20,4 @@ There are infinite futures. Prepare for them all!
 
 ****
 
-import footer.scroll
+footer.scroll

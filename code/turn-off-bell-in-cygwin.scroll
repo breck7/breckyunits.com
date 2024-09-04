@@ -3,7 +3,7 @@ tags index
 permalink turn-off-bell-in-cygwin.html
 title Turn off bell in cygwin
 
-import pageHeader.scroll
+pageHeader.scroll
 
 The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
 
@@ -15,4 +15,4 @@ code
  set bell-style none
 
 Save and restart your shell.
-import footer.scroll
+footer.scroll

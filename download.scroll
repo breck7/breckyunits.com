@@ -2,7 +2,7 @@ date 6/11/2024
 tags All Scroll Writing Programming
 title Download this Blog
 
-import header.scroll
+header.scroll
 printTitle
 
 # Websites don't need web servers.
@@ -36,4 +36,4 @@ Wouldn't it be great if more of *The Web* were like this?
 
 ****
 
-import footer.scroll
+footer.scroll

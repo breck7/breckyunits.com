@@ -3,7 +3,7 @@ tags index
 permalink recursive-sed.html
 title Recursive Sed
 
-import pageHeader.scroll
+pageHeader.scroll
 
 As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
 
@@ -23,4 +23,4 @@ Now I can use it like so:
 code
  rsed old new
 
-import footer.scroll
+footer.scroll

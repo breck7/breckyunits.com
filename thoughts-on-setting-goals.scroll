@@ -2,7 +2,7 @@ date 2009-12-23
 tags All Life
 title Thoughts on Setting Goals
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -53,4 +53,4 @@ If you exceed your low bar, you can be happy. If you exceed your high bar, you c
 
 ****
 
-import footer.scroll
+footer.scroll

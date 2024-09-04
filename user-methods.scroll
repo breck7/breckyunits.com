@@ -2,7 +2,7 @@ date 8/11/2021
 tags All Programming
 title User Methods
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -104,4 +104,4 @@ Yes. But they are a special category of PublicMethod and it's a distinction wort
 
 ****
 
-import footer.scroll
+footer.scroll

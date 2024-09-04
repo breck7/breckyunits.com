@@ -2,7 +2,7 @@ date 8/21/2024
 tags All MedicalRecords
 title PAU: Patient Accessible and Understandable health records
 
-import standardHeader.scroll
+standardHeader.scroll
 
 In 2019 I led some research into building next-gen medical records based on some breakthroughs in computer language design.
  dateline
@@ -36,4 +36,4 @@ If you know of links that should be here, please let me know. Or better yet, sen
 - Fast Healthcare Interoperability Resources
  https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources
 
-import footer.scroll
+footer.scroll

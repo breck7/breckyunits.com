@@ -3,7 +3,7 @@ tags index
 permalink how-to-fix-an-overwhelmed-gmail-accout.html
 title How to fix an overwhelmed Gmail Accout
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I have used the same Gmail address as my main email for over 5 years. Since then:
 
@@ -38,4 +38,4 @@ As it turns out, the solution was simple.
 # Notes
 1. Thanks to this site for telling me how to <a href="http://www.supriyadisw.net/2008/04/how-to-archive-all-your-gmail-messages">archive all my gmail messages</a>.
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2009-12-24
 tags All Startups
 title Diversification in Startups
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -83,4 +83,4 @@ And check back here, I'll hopefully be sharing how this approached worked for us
 2. Thanks to Ben for helping me form my ideas on this issue.
  http://www.benzulauf.com Ben
 
-import footer.scroll
+footer.scroll

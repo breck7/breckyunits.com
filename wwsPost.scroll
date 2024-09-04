@@ -3,7 +3,7 @@ permalink wws.html
 tags All Scroll Programming Society
 title The World Wide Scroll
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -42,4 +42,4 @@ Mahalo!
 
 endColumns
 
-import footer.scroll
+footer.scroll

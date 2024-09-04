@@ -3,7 +3,7 @@ tags index
 permalink how-i-organize-my-dropbox.html
 title How I organize my Dropbox
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Gmail encourages users to "search not sort". I do that. Email works great for search. For files though, sorting is often better.
 
@@ -39,4 +39,4 @@ This a hybrid of search and sort.
 
 - 1. All of my coding work is done in my cygwin home directory and then pushed to github. These are the only files that I don't store in Dropbox, but I push them frequently so don't worry much about losing them.
 
-import footer.scroll
+footer.scroll

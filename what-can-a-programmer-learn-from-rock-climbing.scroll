@@ -2,7 +2,7 @@ date 2011-03-30
 tags All Programming Life MasterProgramming
 title What can a Programmer learn from Rock Climbing?
 
-import header.scroll
+header.scroll
 
 mediumColumns 1
 
@@ -56,4 +56,4 @@ Here's what I've come up with.
 # Related Posts
 printRelated MasterProgramming
 
-import footer.scroll
+footer.scroll

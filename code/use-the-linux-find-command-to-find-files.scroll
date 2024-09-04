@@ -3,7 +3,7 @@ tags index
 permalink use-the-linux-find-command-to-find-files.html
 title Use the linux find command to find files
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Say you're looking for all files starting with the word "breck". Using the linux "find" command, it's simple:
 
@@ -12,4 +12,4 @@ code
 
 Will search the current directory <i>and all subdirectories</i> for files starting with the word "breck".
 
-import footer.scroll
+footer.scroll

@@ -1,5 +1,5 @@
 replace CAT_TITLE Life
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Life
-import footer.scroll
+footer.scroll

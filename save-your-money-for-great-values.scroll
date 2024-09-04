@@ -2,7 +2,7 @@ date 2013-02-16
 tags All Life Thinking Hits
 title Save Your Money for Great Values
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -26,4 +26,4 @@ It's best to say "no" to a lot of deals. Say "yes" to the types of deals that yo
 
 ****
 
-import footer.scroll
+footer.scroll

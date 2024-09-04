@@ -2,7 +2,7 @@ date 2013-03-08
 tags All Startups
 title The Booster Design Pattern
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 1
@@ -14,4 +14,4 @@ booster.jpg
 
 ****
 
-import footer.scroll
+footer.scroll

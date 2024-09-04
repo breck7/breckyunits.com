@@ -3,7 +3,7 @@ tags index
 permalink use-scp-to-download-a-file-from-a-server.html
 title Use scp to download a file from a server
 
-import pageHeader.scroll
+pageHeader.scroll
 
 You can easily grab a file off a server from the command line using secure copy:
 
@@ -12,4 +12,4 @@ code
 
 This will download the file from your server to your local computer.
 
-import footer.scroll
+footer.scroll

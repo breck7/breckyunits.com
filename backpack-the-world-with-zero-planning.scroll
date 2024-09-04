@@ -2,7 +2,7 @@ date 2011-03-04
 tags All Life
 title Backpack the World with Zero Planning
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -58,4 +58,4 @@ That's it. enjoy your trip!
 - check flight prices for the next few legs of your trip.
 - find the local groupon clones and check them often for great excursion and meal deals.
 
-import footer.scroll
+footer.scroll

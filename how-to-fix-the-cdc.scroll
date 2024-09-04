@@ -2,7 +2,7 @@ date 2021-03-30
 tags All Society
 title How to fix the CDC
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -82,4 +82,4 @@ cdc.jpeg
 # Notes
 - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
-import footer.scroll
+footer.scroll

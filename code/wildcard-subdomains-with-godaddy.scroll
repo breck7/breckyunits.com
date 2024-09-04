@@ -3,8 +3,8 @@ tags index
 permalink wildcard-subdomains-with-godaddy.html
 title Wildcard Subdomains with GoDaddy
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Just create a new A Record with * as the host and your IP in the points to field.
 
-import footer.scroll
+footer.scroll

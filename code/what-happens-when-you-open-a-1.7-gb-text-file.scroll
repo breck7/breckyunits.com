@@ -3,7 +3,7 @@ tags index
 permalink what-happens-when-you-open-a-1.7-gb-text-file.html
 title What Happens When you Open a 1.7 GB text file?
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I downloaded the Verisign Master .com TLD zone file which weighs in at a hefty 1.7 GB. What happens when I open it with different programs on my Windows 7 Samsung netbook?
 
@@ -17,4 +17,4 @@ VIM in Cygwin: It appears frozen.
 
 I will continue this post at a later date.
 
-import footer.scroll
+footer.scroll

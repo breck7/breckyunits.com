@@ -3,7 +3,7 @@ tags index
 permalink nohup-and-disown.html
 title nohup and disown
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Just read a good guide on how to keep commands running when you exit ssh:
 
@@ -22,4 +22,4 @@ What is nohup? It's another obfuscated Nix low level utility that is an abbrevia
 Wikipedia article on nohup
  https://en.wikipedia.org/wiki/Nohup nohup
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2010-03-17
 tags All Programming
 title The Hidden Benefits of Automation
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -34,4 +34,4 @@ Try to automate as much as possible. The great thing about automation is that on
 
 ****
 
-import footer.scroll
+footer.scroll

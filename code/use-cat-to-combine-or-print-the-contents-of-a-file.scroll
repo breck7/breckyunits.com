@@ -3,7 +3,7 @@ tags index
 permalink use-cat-to-combine-or-print-the-contents-of-a-file.html
 title Use cat to combine or print the contents of a file
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Print the contents of a file:
 
@@ -33,4 +33,4 @@ Combine two files into a third file:
 code
  cat file1 file2 > file3
 
-import footer.scroll
+footer.scroll

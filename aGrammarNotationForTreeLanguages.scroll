@@ -2,7 +2,7 @@ date 9/10/2017
 tags All Scroll ScrollPapers
 title Parsers: a language for making languages
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -67,4 +67,4 @@ Future publications and/or open source releases will delve into the additional f
 # Related Posts
 printRelated ScrollPapers
 
-import footer.scroll
+footer.scroll

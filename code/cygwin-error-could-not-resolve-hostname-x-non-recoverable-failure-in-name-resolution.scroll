@@ -3,7 +3,7 @@ tags index
 permalink cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html
 title Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I've been getting this error a lot in Cygwin on Windows 7:
 
@@ -25,4 +25,4 @@ code
 
 That's narrowed it down a bit but still no solution. Sadly because it only happens once or twice out of 10-20 times I run the "ssh" command, it's taking longer to pin down.
 
-import footer.scroll
+footer.scroll

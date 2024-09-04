@@ -1,11 +1,11 @@
 replace CAT_TITLE All
 
-import categoryPage.scroll
+categoryPage.scroll
 
 printSnippets All
 
-import heatmap.scroll
+heatmap.scroll
 
-import webRing.scroll
+webRing.scroll
 
-import footer.scroll
+footer.scroll

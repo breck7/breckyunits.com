@@ -1,9 +1,9 @@
 importOnly
 
-import settings.scroll
+settings.scroll
 metaTags
 
-import gazetteTag.scroll
+gazetteTag.scroll
 
 homeButton
 leftRightButtons

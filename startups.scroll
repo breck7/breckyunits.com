@@ -1,5 +1,5 @@
 replace CAT_TITLE Startups
 
-import categoryPage.scroll
+categoryPage.scroll
 printSnippets Startups
-import footer.scroll
+footer.scroll

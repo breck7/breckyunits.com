@@ -2,7 +2,7 @@ date 2013-03-16
 tags All Programming
 title Minor Epiphanies
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -34,4 +34,4 @@ As someone who loves to learn, my favorite thing about them is the rush you get 
 # Notes
 - I stumbled upon the term in John Calcote's book "Autotools".
 
-import footer.scroll
+footer.scroll

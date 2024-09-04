@@ -2,7 +2,7 @@ date 2008-07-27
 tags All Thinking Life
 title Trying Shelfari, GoodReads, and LibraryThing
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -30,9 +30,9 @@ Google Trends for Websites also shows goodreads in the lead and growing fastest.
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/
 
-import footer.scroll
+footer.scroll

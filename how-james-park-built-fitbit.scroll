@@ -3,7 +3,7 @@ date 2021-03-11
 tags All OtherAuthor
 title How James Park built FitBit
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -557,4 +557,4 @@ fitbit2008.jpg
  https://twitter.com/guyraz @guyraz
  https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2022-6-21
 tags index
 title My Sublime Settings
 
-import pageHeader.scroll
+pageHeader.scroll
 
 I'm going to start sticking my Sublime Text settings and plugins here.
 
@@ -13,4 +13,4 @@ This setting is new *devBuilds* in ST4 (Build 4130 released on March 23, 2022). 
  https://www.sublimetext.com/dev devBuilds
  https://stackoverflow.com/questions/18482976/tell-sublime-text-to-ignore-everything-in-gitignore StackOverflow
 
-import footer.scroll
+footer.scroll

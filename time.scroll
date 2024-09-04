@@ -2,7 +2,7 @@ date 2013-04-01
 tags All Life
 title Time
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -23,4 +23,4 @@ Their journeys can be very different.
 
 ****
 
-import footer.scroll
+footer.scroll

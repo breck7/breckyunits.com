@@ -2,7 +2,7 @@ date 1/3/2023
 tags All Scroll Programming
 title Use the Spine
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -65,4 +65,4 @@ I firmly believe that this simple trick—using the spine—will unleash a wave 
 
 ****
 
-import footer.scroll
+footer.scroll

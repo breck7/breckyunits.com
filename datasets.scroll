@@ -2,7 +2,7 @@ date 4/23/2024 5:00
 tags All Data Thinking Programming HasDataset ScrollSets
 title Hot Coffee
 
-import header.scroll
+header.scroll
 printTitle
 // aka Dataset Thinking
 
@@ -221,4 +221,4 @@ br 2
 # Related Posts
 printRelated ScrollSets
 
-import footer.scroll
+footer.scroll

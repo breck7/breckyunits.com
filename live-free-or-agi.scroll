@@ -2,7 +2,7 @@ date 6/9/2023
 tags All Society
 title Live Free or AGI
 
-import header.scroll
+header.scroll
 printTitle
 mediumColumns 1
 
@@ -36,4 +36,4 @@ My oldest daughter used to admonish me "No phone dadda" and over a year ago, aft
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2011-03-05
 tags All Startups Thinking
 title Look for a Line
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -24,4 +24,4 @@ If you are the CEO of a company, your job is simply to create lines. You want cu
 
 ****
 
-import footer.scroll
+footer.scroll

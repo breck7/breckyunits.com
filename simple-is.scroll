@@ -3,7 +3,7 @@ permalink simple-is.html
 tags All Life Thinking
 title Simple is...
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -28,4 +28,4 @@ endSnippet
 
 ****
 
-import footer.scroll
+footer.scroll

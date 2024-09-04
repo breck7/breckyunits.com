@@ -2,7 +2,7 @@ date 2012-12-14
 tags All Scroll Programming
 title Introducing Note
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -60,4 +60,4 @@ Please feel free to email me with any questions or feedback you may have, as wel
 
 ****
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2020-02-21
 tags All IntellectualFreedom
 title An Unpopular Phrase
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -54,4 +54,4 @@ I know, having now used this term with a hundred different people, that this is 
 
 ****
 
-import footer.scroll
+footer.scroll

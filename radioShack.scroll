@@ -2,7 +2,7 @@ date 2024-05-26
 tags All Society HasDataset Data Programming
 title Bring back RadioShack?
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -103,4 +103,4 @@ RadioShacks	2022
 RadioShacks	2023
 RadioShacks	2024	412
 
-import footer.scroll
+footer.scroll

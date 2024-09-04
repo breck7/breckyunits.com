@@ -3,7 +3,7 @@ tags index
 permalink what-non-web-software-do-you-use-the-most.html
 title What non-web software do you use the most?
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Here are the programs I use everyday, every week, and every month.
 
@@ -51,4 +51,4 @@ The following is a list of the programs I use on my development machines.
 
 - <b>Visual Studio</b>. When I get an urge to write a new desktop program.
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2024-05-20
 tags All Thinking Life Startups Hits
 title High Impact Thoughts
 
-import header.scroll
+header.scroll
 printTitle
 printDate
 
@@ -111,4 +111,4 @@ printRelated Hits
 
 ****
 
-import footer.scroll
+footer.scroll

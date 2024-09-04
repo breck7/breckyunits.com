@@ -3,7 +3,7 @@ permalink building-a-treebase-with-6.5-million-files.html
 tags All Scroll Programming HasDataset
 title Building a TreeBase with 6.5 million files
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -711,4 +711,4 @@ So I think this could be pretty cool. As dumb as it is.
 
 I would love to hear your thoughts.
 
-import footer.scroll
+footer.scroll

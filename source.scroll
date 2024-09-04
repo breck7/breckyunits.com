@@ -1,6 +1,6 @@
 buildTxt source.txt
 
-import settings.scroll
+settings.scroll
 // Dump the source code for the blog to a single plain text file to make some random ad hoc tasks like LLM prompts easier.
 
 printSource All

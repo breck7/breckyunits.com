@@ -2,7 +2,7 @@ date 2009-12-02 3
 tags All Writing
 title Fiction or Nonfiction?
 
-import header.scroll
+header.scroll
 printTitle
 
 thinColumns 2
@@ -50,4 +50,4 @@ Share your results here.
 3. This essay is in response to a comment I read a while back on HackerNews that got me thinking about the subject.
  http://news.ycombinator.com/item?id=917566 comment
 
-import footer.scroll
+footer.scroll

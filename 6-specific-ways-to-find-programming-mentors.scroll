@@ -2,7 +2,7 @@ date 2009-12-08
 tags All Programming MasterProgramming
 title 6 Specific Ways to Find Programming Mentors
 
-import header.scroll
+header.scroll
 
 mediumColumns 1
 printTitle
@@ -51,4 +51,4 @@ Hopefully you'll find some of these tips useful. Feel free to email me if you ne
 # Related Posts
 printRelated MasterProgramming
 
-import footer.scroll
+footer.scroll

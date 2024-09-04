@@ -4,7 +4,7 @@ title Write Thin to Write Fast
 
 // the dataset is the NYTimes
 
-import header.scroll
+header.scroll
 printTitle
 
 printAuthors
@@ -119,4 +119,4 @@ nytimesDrawing.png
  - Has the frequency of this advice appearing gone up as screens got wider?
  - Consider vertical languages like Japanese
 
-import footer.scroll
+footer.scroll

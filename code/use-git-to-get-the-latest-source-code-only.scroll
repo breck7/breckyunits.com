@@ -3,11 +3,11 @@ tags index
 permalink use-git-to-get-the-latest-source-code-only.html
 title Use git to get the latest source code only
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Say you want to get just the source code of a git repository without all the history(without the ".git" directory). Use this:
 
 code
  git clone --depth 1 git://github.com/breck7/brecksblog.git
 
-import footer.scroll
+footer.scroll

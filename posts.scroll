@@ -1,4 +1,4 @@
 buildCsv
 
-import settings.scroll
+settings.scroll
 printCsv All

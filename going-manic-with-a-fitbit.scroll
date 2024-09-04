@@ -2,7 +2,7 @@ date 1/13/2018
 tags All BipolarEnergy HasDataset
 title Going Manic with a FitBit
 
-import header.scroll
+header.scroll
 printTitle
 
 mediumColumns 1
@@ -121,4 +121,4 @@ Next time I start acting on a grand idea, I hope my band and I will do the healt
 _Note: I originally published this anonymously on Medium. I was too scared to reveal my name. I am less scared now. I feel we are close to an accurate model of this condition. I have a more sophisticated understanding now but will leave the post as is to reflect my understanding at the time. Thank you to CP and DR, who provided me feedback at the time on this post. - 6/13/2023 _
  https://medium.com/@bipolarguy321/going-manic-with-a-fitbit-6e7209d4bb54 Medium
 
-import footer.scroll
+footer.scroll

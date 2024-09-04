@@ -3,11 +3,11 @@ tags index
 permalink execute-commands-on-remote-server-via-ssh.html
 title Execute commands on remote server via ssh
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Ever want to non interactively execute commands on a remote server?
 
 code
  ssh breckyunits.com 'df -h'
 
-import footer.scroll
+footer.scroll

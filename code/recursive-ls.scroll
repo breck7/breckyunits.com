@@ -3,8 +3,8 @@ tags index
 permalink recursive-ls.html
 title Recursive ls
 
-import pageHeader.scroll
+pageHeader.scroll
 
 Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
 
-import footer.scroll
+footer.scroll

@@ -2,7 +2,7 @@ date 2008-10-12
 tags All Startups
 title When the Market Says No, Listen
 
-import header.scroll
+header.scroll
 printTitle
 thinColumns 2
 
@@ -41,9 +41,9 @@ That’s my advice for the day.
 
 ****
 
-import importedNote.scroll
+importedNote.scroll
 
 Original post
  https://web.archive.org/web/20081016050749/http://www.breckyunits.com/web-20/2008/10/12/my-best-startup-advice-numbers-numbers-numbers/
 
-import footer.scroll
+footer.scroll
