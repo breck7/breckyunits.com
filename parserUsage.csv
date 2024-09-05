@@ -1,13 +1,13 @@
 parserId,uses
-blankLineParser,10334
-catchAllParagraphParser,4409
+blankLineParser,10323
+catchAllParagraphParser,4401
 importOnlyParser,1076
 stumpContentParser,1036
-quickLinkParser,979
-h1Parser,687
+quickLinkParser,980
+h1Parser,685
 viewSourceButtonParser,513
 listAftertextParser,509
-scrollDinkusParser,429
+scrollDinkusParser,427
 lineOfCodeParser,426
 chatLineParser,408
 BlobParser,314
@@ -40,7 +40,7 @@ quickImageParser,196
 orderedListAftertextParser,169
 quoteLineParser,168
 h2Parser,167
-linkParser,148
+linkParser,147
 endSnippetParser,146
 thinColumnsParser,135
 htmlInlineParser,117
@@ -63,7 +63,7 @@ scrollTableDelimiterParser,27
 openGraphImageParser,27
 classMarkupParser,25
 printAuthorsParser,25
-quickQuoteParser,21
+quickQuoteParser,22
 openGraphDescriptionParser,16
 chatParser,14
 h4Parser,14
@@ -85,10 +85,9 @@ feedbackParser,5
 wideColumnsParser,5
 plainTextOnlyParser,4
 quickTableParser,4
-boldParser,3
 aboveAsCodeParser,2
 expanderParser,2
-youTubeParser,2
+boldParser,2
 heatrixParser,2
 scrollTransposeParser,2
 scrollOrderByParser,2
@@ -100,6 +99,7 @@ buildCsvParser,2
 tableSearchParser,2
 redirectToParser,2
 tufteCssParser,1
+youTubeParser,1
 emailLinkParser,1
 inlineMarkupsOnParser,1
 underlineParser,1

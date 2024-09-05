@@ -2,8 +2,12 @@ One Textarea
 ============
 
 [Image Omitted]
- Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particles or a similar 2D notation. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+ Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particle Syntax. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
   https://github.com/breck7/copypaster demo gif
+  https://particles.scroll.pub/ Particle Syntax
+
+> 9/5/2024: This is now live in Scroll! You can start using it now!
+ https://scroll.pub/tests/form.html You can start using it now
 
 December 30, 2022
 
@@ -17,34 +21,6 @@ Current form technology will become "classic forms" and can still be used as a f
 
 *
 
-The Web Form Gravy Train
-========================
-Being in the web form business is great.
-
-Users have a simple problem which is easy to solve so you never get lost about the ultimate task to done.
-
-But along the way, you are instructed by your employer and by "best practices" to add loads of unnecessary complexity that you get to work on while drinking lattes and working remote.
-
-Dozens of fields. Complex logic. Multiple pages. Client side and server side validation. Server side session storage. Helper routes.
-
-So much can go wrong! So much to bill for!
-
-In my career I've been paid over a half million dollars to write web forms for Microsoft, Google, Mozilla, Visa, PayPal, and many more. I've traveled the world off my web form earnings. It's crazy—the worse the user experience, the more they pay me.
-
-I try to argue for what users want: simple, fast, transparent, trustworthy, but no one listens. They are afraid to think different. No one understands language oriented programming. No one understands you don't ever need parentheses. No one wants to stray from the herd and be first.
- https://school.racket-lang.org/2019/plan/mon-mor-lecture.html language oriented programming
- https://breckyunits.com/ptcri.html you don't ever need parentheses
-
-*
-
-Even Stripe sucks
-=================
-
-Stripe is the poster child for web form "experts". And Stripe sucks compared to the demo I released 8 years ago. I still can't do copy/paste with Stripe forms or instant eReceipts or work on forms offline.
- https://www.youtube.com/watch?v=DV4Nv23bBwQ the demo
-
-*
-
 How it works
 ============
 
@@ -52,11 +28,12 @@ This is the early days, think web forms in 1990's. So it's a little bit of work 
 
 But it basically boils down to 3 steps:
 
-1. *Arrange*. Define your form as a "microlang" in Parsers.
+1. *Arrange*. Define your forms fields using Parsers. Here's an example
  https://scroll.pub/parserLeetsheet.html Parsers
-2. *Accept*. Put a textarea on your web page and use the ScrollSDK and your Parsers microlang to turn it into a rich-text editor.
- https://github.com/breck7/scrollsdk ScrollSDK
-3. *Analyze*. Save form submissions as files on your server and use Scroll to compile them to TSV or whatever you need.
+ https://github.com/breck7/scroll/blob/main/tests/form.scroll example
+2. *Accept*. Use the keyword `scrollForm` in your Scroll file to print a textarea with autocomplete and highlighting.
+ https://scroll.pub/ Scroll
+3. *Analyze*. Receive form submissions via email or save to disk on your server and use Scroll to compile them to TSV or whatever you need.
  https://scroll.pub/ Scroll
 
 *
@@ -67,4 +44,4 @@ If you're smart, honest and ambitious and you know the web stack boy oh boy is t
 
 ⁂
 
-Built with Scroll v129.0.0
+Built with Scroll v130.1.1
