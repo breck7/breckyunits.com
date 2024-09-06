@@ -1,7 +1,7 @@
 /home/runner/work/breckyunits.com/breckyunits.com/letter.scroll
  date 9/06/2024
  tags All Startups
- title Advice to the current batch of YCombinator companies
+ title Advice to the current batch of YCombinator companies: demand carry
  
  standardHeader.scroll
  
