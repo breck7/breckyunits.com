@@ -38,7 +38,7 @@ But all things considered, StrongAdvice is 100x better.
 Defining StrongAdvice
 =====================
 
-> StrongAdvice is advice that is concise, derived from data, and easy to falsify advice.
+> StrongAdvice is advice that is concise, derived from data, and easy to falsify.
 
 *
 
