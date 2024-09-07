@@ -7595,6 +7595,8 @@
  
  css .rightQuote{text-align: right; display: block; margin-top: 5px;}
  
+ openGraphImage advice.png
+ 
  footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/logeracy.scroll
