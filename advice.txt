@@ -48,7 +48,7 @@ Defining StrongAdvice
 
 *
 
-Unlike WeakAdvice, StrongAdvice need to be backed by a large dataset.
+Unlike WeakAdvice, StrongAdvice needs to be backed by a large dataset.
 
 Example
 =======
