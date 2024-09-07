@@ -7447,10 +7447,10 @@
  
  footer.scroll
  
-/home/runner/work/breckyunits.com/breckyunits.com/wisdom.scroll
+/home/runner/work/breckyunits.com/breckyunits.com/advice.scroll
  date 2021-05-06
  tags All Data Writing Life
- title Cartographs: a Tiny Language for Great Advice
+ title Strong Advice
  
  header.scroll
  printTitle
@@ -7460,67 +7460,72 @@
  I split advice into two categories:
   dateline
  
- 1. FortuneCookies
- 2. Cartographs.
+ 1. ⚽️ WeakAdvice
+ 2. 🌎 StrongAdvice.
  
  ## Examples
  
- FortuneCookies:
+ WeakAdvice:
  
- > 🥠 Reading is to the mind what exercise is to the body.
+ > ⚽️ Reading is to the mind what exercise is to the body.
  
- > 🥠 Talking to users is the most important thing a startup can do.
+ > ⚽️ Talking to users is the most important thing a startup can do.
  
- Cartographs:
+ StrongAdvice:
  
  quote
-  🗺️ In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
+  🌎 In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
   Charlie Munger
  
  quote
-  🗺️ I don't know of a single case of a startup that felt they spent too much time talking to users.
+  🌎 I don't know of a single case of a startup that felt they spent too much time talking to users.
   Jessica Livingston
  
  ***
  
- If you only look at certain dimensions, you may conclude the FortuneCookies are better.
+ If you only look at certain dimensions, you may conclude the WeakAdvice is better.
  
- They are shorter and not having an author's name seems to make them more general.
+ WeakAdvice is shorter and does not have an author's name.
  
- But all things considered, Cartographs are 100x better.
- 
- ***
- 
- # Defining Cartographs
- 
- > Cartographs are easy to falsify advice derived from data.
+ But all things considered, StrongAdvice is 100x better.
  
  ***
  
+ # Defining StrongAdvice
  
- Unlike FortuneCookies, Cartographs need to be backed by a large dataset.
+ > StrongAdvice is advice that is concise, derived from data, and easy to falsify advice.
+ 
+ ***
+ 
+ 1. Concise
+ 2. Derived from data
+ 3. Easy to falsify
+ 
+ ***
+ 
+ Unlike WeakAdvice, StrongAdvice need to be backed by a large dataset.
  
  ## Example
  
  In 2009 I wrote:
   link twelve-tips-to-master-programming-faster.html I wrote
  
- > 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
+ > ⚽️ to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
  
  Ten years later, I now have the data to write:
   https://github.com/breck7/30000hours gathering data
  
- > 🗺️ The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
+ > 🌎 Every programmer I respect the most has practiced more than 30,000 hours^hours.
  
  Even though the message is the same, the latter introduces a dataset to the problem and is instantly testable.
  
  ***
  
- Cartographs can't just be the inclusion of a dataset. They need testability.
+ StrongAdvice can't just be the inclusion of a dataset. It needs to be phrased in a way that allows testability.
  
  Without the testability Munger's quote would be a FortuneCookie:
  
- > 🥠 I've met hundreds of wise people who read all the time
+ > ⚽️ I've met hundreds of wise people who read all the time
  
  That's not the clearest advice.
  
@@ -7530,57 +7535,57 @@
  
  ***
  
- Sometimes you see FortuneCookies evolve into Cartographs, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
+ Sometimes you see WeakAdvice evolve into StrongAdvice, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
  
  quote
-  🗺️ If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
+  🏗️🌎 If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
   Marc Andreessen
  
  ***
  
- Coming up with great Cartographs is hard.
+ Coming up with StrongAdvice requires time.
  
- Like a good Proof of Work algorithm, Cartographs are hard to generate but easy to test.
+ Like a good Proof of Work algorithm, StrongAdvice is hard to generate but easy to test.
  
- I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't.
+ I know Charlie Munger has met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't.
  
- I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't.
- 
- ***
- 
- If you have great experience, I urge you to not put it out there as FortuneCookies, but chew on it until you can form it into a Cartograph.
- 
- These are the most valuable contributions to our common blockchain.
+ I know Jessica Livingston knows thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't.
  
  ***
  
- My back of the envelope guess is that 99.9% of advice is written in FortuneCookies.
+ If you have a lot of experience, I urge you to chew on your WeakAdvice until you can form it into StrongAdvice.
  
- FortuneCookies are valuable for changing your perspective.
- 
- FortuneCookies are good for ideating.
- 
- Nothing wrong with FortuneCookies.
- 
- Just worth a lot less than Cartographs.
+ StrongAdvice is perhaps the most valuable contribution to our common blockchain.
  
  ***
  
- Mistakes happen when people treat FortuneCookies like Cartographs.
+ My back of the envelope guess is that 99.9% of advice is written in WeakAdvice.
  
- Bad advice is a mistake on the reader's part, not the writers.
+ WeakAdvice is valuable for changing your perspective.
+ 
+ WeakAdvice is good for ideating.
+ 
+ Nothing wrong with WeakAdvice.
+ 
+ But it's worth a lot less than StrongAdvice.
+ 
+ ***
+ 
+ Mistakes happen when people treat WeakAdvice like StrongAdvice.
+ 
+ Bad advice is a mistake on the reader's part, not the writer's.
  
  Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice.
  
- Mostly they'll give out FortuneCookies, since new Cartographs take time to create.
+ Mostly they'll give out WeakAdvice, since new StrongAdvice take time to create.
  
  ***
  
- When you can quickly identify the difference between FortuneCookies and Cartographs, you're less likely to make the mistake of blindly betting on FortuneCookies.
+ When you can quickly identify the difference between WeakAdvice and StrongAdvice, you're less likely to make the mistake of blindly betting on WeakAdvice.
  
- It's safe to use FortuneCookies for ideating but not for decision making.
+ It's safe to use WeakAdvice for ideating but not for decision making.
  
- Cartographs you can bet on.
+ StrongAdvice you can bet on.
  
  ****
  
