@@ -1,5 +1,5 @@
 parserId,uses
-blankLineParser,10399
+blankLineParser,10400
 catchAllParagraphParser,4427
 importOnlyParser,1085
 stumpContentParser,1044
@@ -58,9 +58,9 @@ printTableParser,31
 scrollTableDataParser,30
 scrollTableParser,30
 openGraphParser,29
+openGraphImageParser,28
 quickParagraphParser,27
 scrollTableDelimiterParser,27
-openGraphImageParser,27
 classMarkupParser,25
 printAuthorsParser,25
 quickQuoteParser,22

@@ -38,6 +38,8 @@
  
  ****
  
+ openGraphImage galtonBoard.jpg
+ 
  footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/letter.scroll
