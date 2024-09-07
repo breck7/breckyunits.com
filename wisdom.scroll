@@ -1,86 +1,142 @@
 date 2021-05-06
-permalink wisdom-a-tiny-language-for-great-advice.html
 tags All Data Writing Life
-title Wisdom: a Tiny Language for Great Advice
+title Cartographs: a Tiny Language for Great Advice
 
 header.scroll
 printTitle
 
-thinColumns 2
+thinColumns 1
 
-I am aware of two dialects for advice. I will call them FortuneCookie and Wisdom. Below are two examples of advice written in FortuneCookie.
+I split advice into two categories:
  dateline
 
-quote
- 🥠 Reading is to the mind what exercise is to the body.
+1. FortuneCookies
+2. Cartographs.
+
+## Examples
+
+FortuneCookies:
+
+> 🥠 Reading is to the mind what exercise is to the body.
+
+> 🥠 Talking to users is the most important thing a startup can do.
+
+Cartographs:
 
 quote
- 🥠 Talking to users is the most important thing a startup can do.
-
-Here are two similar pieces of advice written in Wisdom:
-
-quote
- 🔬 In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
+ 🗺️ In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero.
  <a class="rightQuote" href="https://fs.blog/2014/06/charlie-munger-recommended-books/">Charlie Munger</a>
 
 quote
- 🔬 I don't know of a single case of a startup that felt they spent too much time talking to users.
+ 🗺️ I don't know of a single case of a startup that felt they spent too much time talking to users.
  <a class="rightQuote" href="https://www.ycombinator.com/library/5l-how-not-to-fail">Jessica Livingston</a>
 
-endSnippet
+***
 
-If you only looked at certain dimensions, you could conclude the FortuneCookie versions are better. They are shorter. They are not attached to an author's name which seems to make them simpler.
+If you only look at certain dimensions, you may conclude the FortuneCookies are better.
 
-But all things considered, the FortuneCookie versions are worthless compared to the Wisdom versions.
+They are shorter and not having an author's name seems to make them more general.
 
-quote
- ✒️ Wisdom is a short piece of advice that is backed by a large dataset, is clear and easily testable.
+But all things considered, Cartographs are 100x better.
 
-Like FortuneCookie, Wisdom is some advice that can change your perspective or guide your decision making. No difference there.
+***
 
-Unlike FortuneCookie, Wisdom needs to be backed by a large dataset. For example, in 2009 I wrote:
+# Defining Cartographs
+
+> Cartographs are easy to falsify advice derived from data.
+
+***
+
+
+Unlike FortuneCookies, Cartographs need to be backed by a large dataset.
+
+## Example
+
+In 2009 I wrote:
  link twelve-tips-to-master-programming-faster.html I wrote
 
-quote
- 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
+> 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
 
-Ten years later, after gathering data I can now write:
+Ten years later, I now have the data to write:
  https://github.com/breck7/30000hours gathering data
 
+> 🗺️ The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
+
+Even though the message is the same, the latter introduces a dataset to the problem and is instantly testable.
+
+***
+
+Cartographs can't just be the inclusion of a dataset. They need testability.
+
+Without the testability Munger's quote would be a FortuneCookie:
+
+> 🥠 I've met hundreds of wise people who read all the time
+
+That's not the clearest advice.
+
+It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing.
+
+It's ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
+
+***
+
+Sometimes you see FortuneCookies evolve into Cartographs, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
+
 quote
- 🔬 The programmers I respect the most, without exception, all practiced more than 30,000 hours^hours.
-
-Even though the message is the same, the latter introduces a dataset to the problem. More importantly, it is instantly testable.
-
-Wisdom can't just be the inclusion of a dataset. Without the testability, Munger's quote would be FortuneCookie:
-
-quote
- 🥠 I've met hundreds of wise people who read all the time
-
-That's not the clearest advice. It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing. The quote above leaves it ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
-
-Sometimes you see a FortuneCookie idea evolving into Wisdom, where an advisor hasn't quite made it instantly testable yet but is proposing a way for the reader to test:
-
-quote
- 🔬 If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
+ 🗺️ If you look at a broad cross-section of startups -- say, 30 or 40 or more; which of team, product, or market is most important?...market is the most important factor in a startup's success or failure.
  <a class="rightQuote" href="https://pmarchive.com/guide_to_startups_part4.html">Marc Andreessen</a>
 
-Coming up with great pieces of Wisdom is hard. Like a good Proof of Work algorithm, Wisdom is hard to generate and easy to test. I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't come up with any. I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't think of any.
+***
 
-If you have great experience, I urge you to not put it out there in the form of FortuneCookie, but chew on it until you can form it into Wisdom. These are very valuable contributions to our common blockchain.
+Coming up with great Cartographs is hard.
 
- My back of the envelope guess is that 99.9% of advice is written in FortuneCookie. FortuneCookie is valuable for changing your perspective. FortuneCookie is good for ideating. Nothing wrong with FortuneCookie.
+Like a good Proof of Work algorithm, Cartographs are hard to generate but easy to test.
 
- Mistakes happen when people treat FortuneCookie like Wisdom. Bad advice is a mistake on the reader's part, not the writers. Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice. Mostly they'll give out FortuneCookies, since new Wisdom takes time to compute.
+I know who Charlie Munger is, so I know he's probably met thousands of "wise people". All it would take would be for me to find just a single one that didn't read all the time to invalidate his advice. But I can't.
 
- When you can quickly identify the difference between FortuneCookie and Wisdom, you're less likely to make the mistake of blindly betting on FortuneCookie. It's safe to use FortuneCookie for ideating but not for decision making. Wisdom you can bet on.
+I know who Jessica Livingston is and I know she's familiar with thousands of startups and I just need to find one who regrets spending so much time talking to users. But I can't.
+
+***
+
+If you have great experience, I urge you to not put it out there as FortuneCookies, but chew on it until you can form it into a Cartograph.
+
+These are the most valuable contributions to our common blockchain.
+
+***
+
+My back of the envelope guess is that 99.9% of advice is written in FortuneCookies.
+
+FortuneCookies are valuable for changing your perspective.
+
+FortuneCookies are good for ideating.
+
+Nothing wrong with FortuneCookies.
+
+Just worth a lot less than Cartographs.
+
+***
+
+Mistakes happen when people treat FortuneCookies like Cartographs.
+
+Bad advice is a mistake on the reader's part, not the writers.
+
+Most "bad advice" has a famous person on one end, simply because they are constantly hounded for advice.
+
+Mostly they'll give out FortuneCookies, since new Cartographs take time to create.
+
+***
+
+When you can quickly identify the difference between FortuneCookies and Cartographs, you're less likely to make the mistake of blindly betting on FortuneCookies.
+
+It's safe to use FortuneCookies for ideating but not for decision making.
+
+Cartographs you can bet on.
 
 ****
 
 # Notes
 
 ^hours There are a lot of programmers who have 10,000 hours of experience that I respect a lot and enjoy working with, but the ones I study the most are the ones who stuck with it (and also just lucky enough to live long lives).
- style font-size: 80%;
 
 css .rightQuote{text-align: right; display: block; margin-top: 5px;}
 
