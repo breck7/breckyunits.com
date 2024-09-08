@@ -22,7 +22,7 @@
  
  ## Since you loaded this page you could have performed
  counter 1 coin tosses
- counter 16800 galton tosses
+ counter 16800 galton bounces
  
  ***
  
