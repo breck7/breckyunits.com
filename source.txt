@@ -9,27 +9,32 @@
  
  thinColumns 1
  
+ printDate
+ 
+ ***
+ 
+ center
  I finally built a product I love.
   https://scroll.pub a product I love
-  dateline
- 
  It took me 15 years.
  
  ***
  
- "Make something people want" is weak advice.
+ center
+ _Make something people want_ is weak advice.
   link advice.html weak advice
+ _Make something people want_ is easy.
  
- Make something people want is easy.
+ ***
  
+ center
  You want with _reservation_.
- 
  Love?
- 
  You love with _everything_.
  
  ***
  
+ center
  I have never met someone who made something they love who was not fulfilled and successful.
  
  endColumns 1
@@ -88,13 +93,16 @@
  
  ***
  
+ center
  It's going to take a while.
- 
  But it's so worth it.
  
  ***
  
  Make something you love.
+  center
+ 
+ ****
  
  footer.scroll
  

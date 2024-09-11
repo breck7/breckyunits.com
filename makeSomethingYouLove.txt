@@ -3,22 +3,22 @@ Make Something You Love
 
 September 11, 2024
 
+*
+
 I finally built a product I love.
  https://scroll.pub a product I love
-
 It took me 15 years.
 
 *
 
-"Make something people want" is weak advice.
+_Make something people want_ is weak advice.
  https://breckyunits.com/advice.html weak advice
+_Make something people want_ is easy.
 
-Make something people want is easy.
+*
 
 You want with _reservation_.
-
 Love?
-
 You love with _everything_.
 
 *
@@ -82,11 +82,12 @@ You've got to love it yourself.
 *
 
 It's going to take a while.
-
 But it's so worth it.
 
 *
 
 Make something you love.
+
+⁂
 
 Built with Scroll v130.3.4
