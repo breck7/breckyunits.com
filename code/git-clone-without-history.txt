@@ -8,4 +8,4 @@ git clone --depth 1 your_repo_url
 
 http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
 
-Built with Scroll v130.3.5
+Built with Scroll v130.3.6

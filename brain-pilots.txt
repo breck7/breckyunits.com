@@ -188,4 +188,4 @@ Notes
  https://www.pinterest.com/pin/58335757660803584/ Palm Study
 - Perhaps consciousness is the logging agent and there is only one consciousness. Perhaps the brain pilots drive the show, and the consciousness records the log, but the consciousness is not able to see which pilot is driving.
 
-Built with Scroll v130.3.5
+Built with Scroll v130.3.6

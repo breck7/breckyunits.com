@@ -89,4 +89,4 @@ Footnotes
 ^hawkins: A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
-Built with Scroll v130.3.5
+Built with Scroll v130.3.6
