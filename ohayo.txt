@@ -12,4 +12,4 @@ I wanted to try and make a fast, visual app for doing data science. I can't quit
 
 ⁂
 
-Built with Scroll v130.3.4
+Built with Scroll v130.3.5
