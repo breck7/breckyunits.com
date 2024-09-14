@@ -37,7 +37,7 @@
  center
  I have never met someone who made something they love who was not fulfilled and successful.
  
- endColumns 1
+ endColumns
  mediumColumns 1
  
  ***
@@ -7675,7 +7675,7 @@
  > ⚽️ to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
  
  Ten years later, I now have the data to write:
-  https://github.com/breck7/30000hours gathering data
+  https://github.com/breck7/30000hours data
  
  > 🌎 Every programmer I respect the most has practiced more than 30,000 hours^hours.
  

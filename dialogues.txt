@@ -25,4 +25,4 @@ Links
 - Try Scroll: https://scroll.pub
 - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
 
-Built with Scroll v130.3.6
+Built with Scroll v130.5.0
