@@ -29,4 +29,4 @@ Then, if you want to make yourself open to positive black swans, you can put 10%
 
 ⁂
 
-Built with Scroll v131.0.0
+Built with Scroll v132.0.0
