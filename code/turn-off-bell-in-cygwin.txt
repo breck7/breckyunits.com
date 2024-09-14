@@ -12,4 +12,4 @@ set bell-style none
 
 Save and restart your shell.
 
-Built with Scroll v130.5.0
+Built with Scroll v131.0.0

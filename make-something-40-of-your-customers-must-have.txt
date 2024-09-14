@@ -96,4 +96,4 @@ Notes
 - Another piece of startup advice that didn't "click" until recently: Roelof Botha's 7 deadly sins advice.
  http://www.techcrunch.com/2009/11/18/good-question-the-eight-best-questions-we-got-while-raising-venture-capital/ Roelof Botha's 7 deadly sins advice
 
-Built with Scroll v130.5.0
+Built with Scroll v131.0.0

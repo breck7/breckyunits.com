@@ -1522,7 +1522,7 @@
  Becomes `countries=Canada=France&selection=France` (and vice versa).
  
  # How to use
- 
+ patch/patch.js
  1. Include patch.js or just copy/paste the code:
   link patch.js copy/paste the code
  
@@ -1852,7 +1852,8 @@
  
  
  
- 
+ d3.v6.min.js
+ abortBar.js
  
  Every time someone starts a long task, measure the duration and end result. Then you have the data to render a progress bar like the one above.
  
