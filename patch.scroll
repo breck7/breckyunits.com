@@ -35,7 +35,7 @@ code
 Becomes `countries=Canada=France&selection=France` (and vice versa).
 
 # How to use
-<script src="patch/patch.js"></script>
+patch/patch.js
 1. Include patch.js or just copy/paste the code:
  link patch.js copy/paste the code
 

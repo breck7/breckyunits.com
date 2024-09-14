@@ -24,8 +24,9 @@ Yesterday my FitBit app showed an animated progress bar for hours. It turned out
 But it made me remember my progress bar idea!
 
 <div id="chart"></div>
-<script src="d3.v6.min.js"></script>
-<script defer src="abortBar.js"></script>
+
+d3.v6.min.js
+abortBar.js
 
 Every time someone starts a long task, measure the duration and end result. Then you have the data to render a progress bar like the one above.
 
