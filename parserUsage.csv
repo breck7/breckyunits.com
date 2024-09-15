@@ -33,7 +33,7 @@ keyboardNavParser,258
 scrollTagsParser,245
 dateParser,240
 endOfPostDinkusParser,227
-slashCommentParser,219
+slashCommentParser,220
 htmlLineParser,219
 datelineParser,211
 quickImageParser,196

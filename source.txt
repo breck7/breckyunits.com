@@ -14454,6 +14454,7 @@
  5. What is the predicted customer acquisition cost? $
  6. What is the predicted average lifetime value per customer? $
  7. Which of the 7 deadly sins does the product appeal to?  Lust  Greed  Sloth  Gluttony  Pride  Envy  Wrath
+  // yikes? why do we have this in here? there's gotta be a different way to phrase this. this seems misguided.
  8. What's the go to market strategy in one sentence? 
  9. What resources do you need to do this? 
  10. What's the total addressable market size?  people $
