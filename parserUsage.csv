@@ -42,8 +42,8 @@ orderedListAftertextParser,174
 quoteLineParser,161
 linkParser,149
 endSnippetParser,138
-thinColumnsParser,132
-mediumColumnsParser,120
+thinColumnsParser,131
+mediumColumnsParser,121
 cssLineParser,118
 captionAftertextParser,105
 htmlInlineParser,98
