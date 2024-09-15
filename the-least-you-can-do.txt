@@ -5,21 +5,31 @@ February 2, 2010
 
 My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about.
 
+*
+
 I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
 
-Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
+*
+
+A friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
 
 So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
 
 Ever since, my room has been at least 5x cleaner on average.
 
-Almost always, there is one simple change you can make that will have drastic effects. This change is called the least you can do.
+> Almost always, there is one simple change you can make that will have _drastic_ effects. This change is called *the least you can do*.
+
+*
 
 I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
 
-These are trivial examples, but the technique works on real problems as well.
+*
+
+That's a trivial example, but the technique works on real problems as well.
 
 The key is to figure out what the "least you can do" is.
+
+*
 
 You can discover it by working harder or smarter:
 
@@ -42,4 +52,4 @@ Notes
 - Another relevant computer science topics is the The longest common subsequence problem.
  http://en.wikipedia.org/wiki/Longest_common_subsequence_problem The longest common subsequence problem
 
-Built with Scroll v132.0.0
+Built with Scroll v132.0.1

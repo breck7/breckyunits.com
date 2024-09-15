@@ -18,4 +18,4 @@ For a belief to exist means it had to outcompete other potential beliefs for sur
 
 ⁂
 
-Built with Scroll v132.0.0
+Built with Scroll v132.0.1

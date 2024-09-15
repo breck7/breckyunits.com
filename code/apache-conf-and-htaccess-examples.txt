@@ -6,4 +6,4 @@ Configuring Apache can be a pain. I'm going to try and collect links to great re
 
 - http://www.evolt.org/ultimate_htaccess_examples
 
-Built with Scroll v132.0.0
+Built with Scroll v132.0.1

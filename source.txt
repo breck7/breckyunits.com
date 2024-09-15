@@ -13816,20 +13816,31 @@
  title Don't talk about what you will do, talk about what you have done
  
  header.scroll
+ 
+ mediumColumns 1
  printTitle
  
- thinColumns 2
  
  All the time I overhear people saying things like "I will start exercising everyday" or "We will ship this software by the end of the month" or "I will read that book" or "I will win this race." I'm guilty of talking like this too.
   dateline
  
  The problem is that often, you say you will do something and you don't end up doing it. Saying "I will do", might even be a synonym for "I won't do".
  
- endSnippet
+ ***
  
  Why does this happen? I don't think it's because people are lazy. I think it's because we overestimate our ability to predict the future. We like to make specific predictions as opposed to predicting ranges.
  
- I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that. You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10". Or, even easier: stop talking about things you _will do_ entirely, and only talk about things you _have done_. So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+ I'll explain why we are bad at making predictions in a minute, but first, if you find yourself making predictions about what you will do that turn out to be wrong, you should fix that.
+ 
+ ***
+ 
+ You can either tone down your predictions, giving ranges instead. For instance, instead of saying "I think I will win the race", say "I think I will finish the race in the top 10".
+ 
+ Or, even easier: stop talking about things you _will do_ entirely, and only talk about things you _have done_.
+ 
+ So, in the race example, you might say something like "I ran 3 miles today to train for the race." (If you do win the race, don't talk about it a lot. No one likes a braggert).
+ 
+ ***
  
  # Why we are bad at making predictions.
  
@@ -13889,24 +13900,54 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  If a book is worth reading, it's worth buying too.
   dateline
  
  If you're reading a book primarily to gain value from it(as opposed to reading it for pleasure) you should always buy it unless it's a bad book.
  
- endSnippet
+ ***
  
- The amount of value you can get from a book varies wildly. Most books are worthless. Some can change your life. For simplicity, let's say the value you can derive from any one book varies from 1 cent to $100,000(there are many, many more worthless books than there are of the really valuable kind).
+ The amount of value you can get from a book varies wildly.
+ 
+ Most books are worthless.
+ 
+ Some can change your life.
+ 
+ ***
+ 
+ For simplicity, let's say the value you can derive from any one book varies from 1 cent to $100,000(there are many, many more worthless books than there are of the really valuable kind).
  
  The _cost_ however, does not vary as much. Books rarely cost more than $100, and generally average to about $15.
  
+ ***
+ 
  You shouldn't read a book that you think will offer you less than $100 in value. Time could be better spent reading more important books.
  
- So let's assume you never read a book that gives you less than $100 in value. Thus, the cost of a physical copy of the book is at most 15% (using the $15 average price) of the value gained.
+ So let's assume you never read a book that gives you less than $100 in value. Thus, the cost of a physical copy of the book ***is at most 15% (using the $15 average price) of the value gained***.
  
- Would owning that book help you extract 15% more from it? It nearly always will. When you own a book, you can take it anywhere. You can mark it up. You can flip quickly through the pages. You can bookmark it. You can easily share it with a friend and then dicuss it. If these things don't help you get 15% more out of that book, I'd be very surprised.
+ ***
+ 
+ Would owning the book help you extract 15% more from it?
+ 
+ It nearly always will.
+ 
+ ***
+ 
+ When you own a book, you can take it anywhere.
+ 
+ You can mark it up.
+ 
+ You can flip quickly through the pages.
+ 
+ You can bookmark it.
+ 
+ You can easily share it with a friend and then dicuss it.
+ 
+ If these things don't help you get 15% more out of that book, I'd be very surprised.
+ 
+ ***
  
  Where it gets even more certain, is when you read a really valuable book--say a book offering $1,000 of value. Now you'd only need to get 1.5% more out of that book.
  
@@ -13933,29 +13974,36 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  My room was always messy. Usually because clothes were strewn everywhere On the floor, on the couch, anywhere there was a surface there was a pile of clothes. Dirty, clean, or mostly-clean scattered about.
   dateline
  
- endSnippet
+ ***
  
  I tried a dresser. I tried making a system where I had spaces for each type of clothing: shirts, pants, etc. Nothing worked.
  
- Then a friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
+ ***
+ 
+ A friend saw my room and quipped, "Duh. You have too many clothes. Let's get rid of most of them."
  
  So we did. About 75% of my clothes were packed up in garbage bags and sent off to the Salvation Army that day.
  
  Ever since, my room has been at least 5x cleaner on average.
  
- quote
-  Almost always, there is one simple change you can make that will have drastic effects. This change is called the least you can do.
+ > Almost always, there is one simple change you can make that will have _drastic_ effects. This change is called *the least you can do*.
+ 
+ ***
  
  I had a website that was struggling to earn money even with a lot of visitors. I added AdSense and almost nothing happened. Then I moved the AdSense to a different part of the page and it suddenly made 5x more money. A week later I changed the colors of the ad and it suddenly made 2x as much money. Now the site makes 10x as much money and I barely did anything.
  
- These are trivial examples, but the technique works on real problems as well.
+ ***
+ 
+ That's a trivial example, but the technique works on real problems as well.
  
  The key is to figure out what the "least you can do" is.
+ 
+ ***
  
  You can discover it by working harder or smarter:
  
