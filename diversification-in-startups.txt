@@ -9,7 +9,7 @@ Over the past 6 months, our startup has taken two approaches to diversification.
 
 In brief, my advice is:
 
-Diversify heavily early. Then focus.
+> Diversify heavily early. Then focus.
 
 In the early stages of your startup, put no more than 33% of your resources into any one idea. When you've hit upon an idea that you're excited about and that has product/market fit, then switch and put 80% or more of your resources into that idea.
 
@@ -34,7 +34,7 @@ When to Focus
 
 If diversifying has so many benefits, should you ever stop? Yes, you should.
 
-Focus when you are ready to make money.
+> Focus when you are ready to make money.
 
 Coming up with new ideas and building new, simple products is the easy part of startups. Unfortunately, developing new solutions is _not_ what creates a lot of value for other people. Bringing your solution to other people is when most value is created--and exchanged.
 

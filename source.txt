@@ -14470,7 +14470,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  _2021 Update: I think the model and advice presented here is weak and that this post is not worth reading. I keep it up for the log, and not for the advice and analysis provided._
   // 2024 Update Update. I wish I explained why I thought it was weak in the above 2021 update. I agree it could have been better written, but I think a lot of this is directionally correct.
@@ -14480,8 +14480,7 @@
  
  In brief, my advice is:
  
- quote
-  Diversify heavily early. Then focus.
+ > Diversify heavily early. Then focus.
  
  endSnippet
  
@@ -14505,8 +14504,7 @@
  
  If diversifying has so many benefits, should you ever stop? Yes, you should.
  
- quote
-  Focus when you are ready to make money.
+ > Focus when you are ready to make money.
  
  Coming up with new ideas and building new, simple products is the easy part of startups. Unfortunately, developing new solutions is _not_ what creates a lot of value for other people. Bringing your solution to other people is when most value is created--and exchanged.
  
@@ -14617,7 +14615,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
   dateline
@@ -14656,14 +14654,13 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
   dateline
   http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
  
- quote
-  Make something 40% of your users must have
+ > Make something 40% of your users must have
  
  endSnippet
  
@@ -14760,7 +14757,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  The best Search Engine Optimization(SEO) system I've come across comes from Dennis Goedegebuure, SEO manager at eBay. Dennis' system is called LUMPS. It makes SEO dead simple.
   dateline
@@ -14884,7 +14881,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
   dateline
@@ -14935,7 +14932,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints".
   dateline
@@ -14984,7 +14981,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  A lot of people have the idea that maybe one day they'll become rich and famous and then write a book about it. That's probably because it seems like the first thing people do after becoming rich and famous is write a book about it.
   dateline
@@ -15154,7 +15151,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Imagine you are eating dinner with 9 friends and you all agree to play Credit Card Roulette. Credit Card Roulette is a game where everyone puts their credit card in a pile and the server randomly chooses one and charges the whole meal to it.
   dateline
@@ -15291,7 +15288,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  What would happen if instead of writing about subjects you understood, you wrote about subjects you didn't understand? Let's find out!
   dateline
@@ -15336,7 +15333,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  What books have changed your life? Seriously, pause for a few minutes and think about the question. I'll share my list in a moment, but first come up with yours.
   dateline
@@ -15610,7 +15607,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  I’m reading a fascinating biography of Warren Buffett right now(Snowball).
   dateline
@@ -15683,14 +15680,14 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  I just want to share the most valuable piece of Internet startup advice I possess.
   dateline
  
  The startup advice out there is filled with pyschology mumbo jumbo, but ALL THAT REALLY MATTERS IS THE NUMBERS.
  
- endSnippet
+ ***
  
  - How many pageviews/users/sales/conversions do you have?
  - Are you growing, shrinking, or stagnate?
@@ -15698,9 +15695,13 @@
  
  From day one, you should be following the numbers. This means you have to put up a website in week one. Without a product out in the marketplace, you can’t get numbers. All that matters is the numbers. Without them, you’ve got nothing.
  
+ ***
+ 
  You _absolutely cannot force_ an Internet startup to success. The market dictates your success plain and simple. You have a great idea and great team but the numbers haven’t picked up yet? Sorry, the market said no. Time to move on.
  
  You have to listen to the market, and the market speaks with numbers, not words(ignore praise from family and friends and early users, numbers are the only praise that matter in the startup world). That’s really the only thing you should pay attention to.
+ 
+ ***
  
  A month into my startup last year, SeeMeWin, one of the co-founders said to me and the other partner:
  
@@ -15713,6 +15714,8 @@
  Me: (Proceed to ignore the importance of this simple statement and pursue the idea for 5 more months, believing that because we had a good team and we thought the idea was good we could succeed, which was too bad because from month 1 the market was giving us PRICELESS advice–we should have been working on a different idea)
  
  Every other mistake was irrelevant because the only thing that matters is the numbers.
+ 
+ ***
  
  From month one, you have to be tracking the numbers.  Do not pour effort into anything unless the numbers have shown it to be worthwhile. If you’re not tracking the numbers yet, then you’re not really trying. If you are tracking the numbers and they don’t look good, don’t put a whole lot of effort into it until you get permission from the market–improved numbers.
  
@@ -15755,7 +15758,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  This evening JustHackIt.com launched. Before you co-found a company, you need to find good co-founders. The best way to do that is to just work on projects with people. The idea for JustHackIt is to connect hackers in one place and encourage them to just start projects together, without even knowing the person. Hopefully you’ll find some people who are smart, talented, and will make a great co-founder in the future.
   dateline
@@ -15787,7 +15790,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  On August 31, 1854, a Londoner living on Broad Street fell ill with cholera and died. In three days, 127 other Londoners would also contract and die of cholera. By September 10th, over 500 people had died and panic was setting in on the London streets. Doctors studied the dead but could not solve the epidemic.
   dateline
@@ -15824,7 +15827,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  The hiccups have been cured. Want to know what the secret is?
   dateline
@@ -15858,7 +15861,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  Decided to try out one of these book social networks to see if I can find some important books I should be reading. The idea is you enter the books you’ve read and rate them, as well as the books you want to read. Then the site will show you people who like similar books and you can hopefully stumble upon some books that they’ve read that you will like.
   dateline
@@ -16015,7 +16018,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ mediumColumns 1
  
  The other day I wrote a post on How much Gas Americans use per day. The answer is 400 Million Gallons. A reader wanted to know how much gas the whole world consumes in a day. The answer is about 83 millon bbl’s. One bbl = 42 gallons, so the world consumes about 3.5 billion gallons of gas per day. That means the United States consumes 11% of the total gas consumed per day.
   dateline
@@ -16047,8 +16050,9 @@
  title Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
  
  header.scroll
+ mediumColumns 1
  printTitle
- thinColumns 2
+ 
  
  xirium posted a tarball of all the individual profile pages for HackerNews readers(minus lurkers and those who joined after 05/07/2008). I was curious what insights, if any, could be gleamed from analyzing the data. My findings are below. I could have figured out more interesting things if I also included posts in my data, but I was looking for something simple to work on. BTW, to get the data into a table I wrote a simple python script to parse the html files. The source code is at the bottom. Or you can download the resulting dataset as an excel file.
   dateline

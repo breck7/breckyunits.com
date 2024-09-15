@@ -5,14 +5,13 @@ title Make Something 40% of Your Customers Must Have
 header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
  dateline
  http://venturehacks.com/articles/sean-ellis-interview product-market fit advice
 
-quote
- Make something 40% of your users must have
+> Make something 40% of your users must have
 
 endSnippet
 
