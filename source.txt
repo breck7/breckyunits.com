@@ -14035,14 +14035,20 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Good communication is overcommunication. Very few people overcommmunicate. Undercommunication is much more common. Undercommunication is also the cause of countless problems in business.
   dateline
  
- Instead of striving for some subjective "good communication", simply strive to overcommunicate. It's very unlikely you'll hit a point where people say "he communicates too much". It's much more likely you'll come up a bit short, in which case you'll be left with good communication.
+ ***
  
- endSnippet
+ Instead of striving for some subjective "good communication", simply strive to overcommunicate.
+ 
+ It's very unlikely you'll hit a point where people say "he communicates too much".
+ 
+ It's much more likely you'll come up a bit short, in which case you'll be left with good communication.
+ 
+ ***
  
  Here are 4 tips that will bring you closer to overcommunicating:
  
@@ -14066,19 +14072,21 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ mediumColumns 1
  
  Network effects are to entrepreneurs what compounding effects are to investors: a key to getting rich.
   dateline
  
  Sometimes a product becomes more valuable simply as more people use it. This means the product has a "network effect".
  
- endSnippet
+ ***
  
  You're probably familiar with two famous examples of network effects:
  
  - Windows. People started using Microsoft Windows. Therefore, developers started building more software for Windows. This made Windows more valuable, and more people started to use it.
  - Facebook. People joined Facebook and invited their friends. Their friends joined which made the site more valuable to everyone. People invited more friends.
+ 
+ ***
  
  All businesses have network effects to some degree. Every time you buy a slice of pizza, you are giving that business some feedback and some revenue which they can use to improve their business.
  
