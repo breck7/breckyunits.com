@@ -5,7 +5,7 @@ title Problems Worth Solving
 header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 Programming, ultimately, is about solving problems. Often I make the mistake of judging a programmer's work by the elegance of the code. Although the solution is important, what's even more important is the problem being solved.
  dateline

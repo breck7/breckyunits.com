@@ -5,7 +5,7 @@ title (un)features
 header.scroll
 printTitle
 
-thinColumns 2
+mediumColumns 1
 
 Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
  dateline
