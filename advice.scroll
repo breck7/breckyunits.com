@@ -71,17 +71,15 @@ Even though the message is the same, the latter introduces a dataset to the prob
 
 ***
 
-StrongAdvice can't just be the inclusion of a dataset. It needs to be phrased in a way that allows testability.
+StrongAdvice can't just be the inclusion of a dataset. It should be constructed to provide _instant_ testability.
 
-Without the testability Munger's quote would be a FortuneCookie:
+Without the testability Munger's quote would be WeakAdvice:
 
 > ⚽️ I've met hundreds of wise people who read all the time
 
-That's not the clearest advice.
+A testable version is a 1,000x stronger signal. If Munger, who likely met more wise people than nearly anyone, never came across an instance of someone wise who didn't read all the time, it's a pretty strong signal that reading is a _requirement_ for being wise.
 
-It certainly says that reading all the time won't rule out success, but it provides no guidance as to whether it is a necessary thing.
-
-It's ambiguous if he also knows of wise people who don't read all the time (we know from the real quote that he doesn't).
+Versus the FortuneCookie version, which would also be true if it was just a slight correlation.
 
 ***
 
