@@ -1,12 +1,12 @@
 date 2024-08-08
 metaTags
-gazetteTag.scroll
+../gazette.css
 buildTxt
 buildHtml
 slideshow
 title The Marble
 
-css body {background: rgb(247,249,250); text-align: center;}
+css html,body {background: rgb(247,249,250); text-align: center;}
 
 placeholderParser
  extends scrollImageParser
