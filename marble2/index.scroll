@@ -1,0 +1,208 @@
+date 2024-08-08
+metaTags
+../gazette.css
+buildTxt
+buildHtml
+slideshow
+title The Marble
+
+css html,body {background: rgb(247,249,250); text-align: center;}
+
+placeholderParser
+ extends scrollImageParser
+ javascript
+  filename = "placeholder.webp"
+  get dimensions() {
+    const d = super.dimensions
+    d.width = 200
+    return d
+  }
+
+imageTwoParser
+ extends scrollImageParser
+ crux image
+ javascript
+  get dimensions() {
+    const d = super.dimensions
+    const size = 400
+    d.height = size
+    d.width = size
+    return d
+  }
+
+
+// https://www.tldraw.com/r/5XO_zTIX6wp4gM-5cbJPG?v=-3713,3983,4077,5144&p=page
+
+***
+
+cover.webp
+
+***
+
+hug.webp
+
+Once upon a time there was a dad and his two daughters.
+
+"I have to go on a trip girls"
+
+***
+
+clasp.webp
+
+"But I have a gift for you."
+
+***
+
+marble.webp
+
+"It's a glass marble, made from melted sand."
+
+***
+
+beach.webp
+
+The girls loved to play with the marble.
+
+One time they brought it to the beach.
+
+***
+
+dirty.webp
+
+"Uh oh. The marble is all sandy."
+
+***
+
+sink.webp
+
+"I'll wash it", said Sage.
+
+***
+
+drop.webp
+
+"Oh no!"
+
+***
+
+crying.webp
+
+"What happened?", asked Mazie.
+
+***
+
+drain.webp
+
+"I dropped the marble down the drain!"
+
+***
+
+comfort.webp
+
+"Don't worry Sage. We will find it together"
+
+***
+
+uncle.webp
+
+Mazie called their uncle.
+
+"Uncle, where does the water go after it goes down the drain?"
+
+***
+
+plant.webp
+
+"The water goes through pipes to the treatment plant. Maybe your marble went there."
+
+So the girls walked to the treatment plant.
+
+***
+
+plantWorker.webp
+
+"Did you see a marble?"
+
+"No, but our filter catches things like marbles, and a truck takes that to the landfill"
+
+***
+
+truck.webp
+
+So the girls walked to the landfill.
+
+***
+
+dumpWorker.webp
+
+"Did you see a marble?"
+
+"No, but someone might have found it. Try posting a message to the Internet."
+
+***
+
+messages.webp
+
+They got many messages.
+
+But no one found their marble.
+
+***
+
+sad.webp
+
+The girls were sad.
+
+"Daddy gets homes tomorrow and is gonna be sad we lost the marble."
+
+But then...
+
+***
+
+idea.webp
+
+"I have an idea!" shouted Mazie.
+
+***
+
+make.webp
+
+The girls went back to the beach with their uncle.
+
+He helped them make something.
+
+The next day...
+
+***
+
+happy.webp
+
+"DADDY! DADDY!"
+
+Their dad was home.
+
+They gave him a big hug.
+
+"We lost the marble, but made a new one!"
+
+And they showed it to him.
+
+***
+
+marble2.webp
+
+"Girls! I am so proud of you."
+
+"This is the most magnificent marble I have ever seen."
+
+"We love you daddy."
+
+"I love you too girls".
+
+***
+
+theend.webp
+
+# THE END
+
+****
