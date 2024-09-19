@@ -1,3 +1,59 @@
+/home/runner/work/breckyunits.com/breckyunits.com/liver.scroll
+ date 9/19/2024
+ tags All Life
+ title The Liver Turns On and Off
+ 
+ header.scroll
+ printTitle
+ thinColumns 1
+ 
+ 
+ printDate
+ 
+ Is your liver on right now? You can find out with a drop of blood.
+ 
+ ketones/ketoMojoFingerPrick.jpeg
+  caption This is me pricking my finger to test my ketone levels. I got 1.3 mmol. My liver is on!
+ 
+ If your ketone levels are around 0.1, your liver is off.
+ 
+ If they are around 1,0, your liver is on.
+ 
+ It's easy to tell, once you've measured.
+ 
+ ***
+ 
+ I was at a gathering of liver surgeons last night and none of them had realized this before: that the liver turns on and off.
+ 
+ Perhaps it's because my background is in computers that I immediately recognized when something goes up 10x, that indicates something has gone from "off" to "on".
+ 
+ ***
+ 
+ ? Is it bad for my liver to be off most of the time?
+ 
+ It's generally not healthy to keep your major organs in the off state. If you never open your eyes, you go blind.
+ 
+ ketoneMap/liverCanals.jpg
+  caption The liver is the largest organ in your body. It's probably extremely important to keep this thing on.
+ 
+ ***
+ 
+ ? I tested my blood and my liver is off. How do I turn it back on?
+ 
+ There's a lot of good places to start learning, but in two words: avoid carbs.
+  https://www.reddit.com/r/keto/ good
+  https://www.metabolicmind.org/ places
+ 
+ ***
+ 
+ # Notes
+ 
+ - Yes, I know the liver does many things in addition to making ketones. But if you are sitting in your parked car listening to the radio and haven't yet started the engine, we would say the car is _off_. Making ketones is the main thing.
+ 
+ ****
+ 
+ footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/makeSomethingYouLove.scroll
  date 9/11/2024 11:21
  tags All Startups
