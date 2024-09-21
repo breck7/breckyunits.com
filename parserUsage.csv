@@ -121,7 +121,6 @@ printFeedParser,1
 buildRssParser,1
 printFullSnippetsParser,1
 buildCssParser,1
-,1
 printCsvParser,1
 printSearchTableParser,1
 printSiteMapParser,1
