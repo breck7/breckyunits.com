@@ -21,9 +21,10 @@ Microprograms start out small and seemingly trivial, but evolve to be far faster
 
 Microprogramming works _incredibly well_ with LLMs. It is easy to mix and match microprograms written by humans with microprograms written by LLMs.
 
-These are just some initial observations I have so far since our discovery of microprogramming. This document you are reading is written as a collection of microprograms in a language called Scroll, a language which is a collection of microprograms in a language called Parsers, which is a collection of microprograms written in itself (but also with a last mile conversion to machine code via TypeScript).
+These are just some initial observations I have had so far since our invention of a breakthrough microprogramming language stack. This document you are reading is written as a collection of microprograms in a language called Scroll, a language which is a collection of microprograms in a language called Parsers, which is a collection of microprograms written in itself (but also with a last mile conversion to machine code via TypeScript).
  https://scroll.pub/ Scroll
  https://scroll.pub/parserLeetsheet.html Parsers
+ https://scroll.pub/blog/teddyTalk.html breakthrough microprogramming language stack
 
 If the microprogramming trend becomes as big, if not bigger, than microservices, I would not be surprised.
  https://en.wikipedia.org/wiki/Microservices microservices
