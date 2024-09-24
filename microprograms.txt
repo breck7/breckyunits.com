@@ -60,4 +60,64 @@ Scroll is built on Parses and made of ~1,000 microprograms.
 PLDB.io is built on Scroll and made of ~10,000 microprograms.
  https://github.com/breck7/pldb ~10,000 microprograms
 
+Psychoscattman asks "But what is micro programming? This blog is just a collection on observations but doesnt explain at all what microprogramming is or how it works."
+ https://www.reddit.com/r/programming/comments/1foeaef/comment/lopaodm/ Psychoscattman asks
+===================================================================================================================================================================================================================================================================
+
+Great question!
+
+Microprogramming is using languages where every single line is capable of being a microprogram.
+
+Below is an example of microprogramming. This is the code that generates the homepage for BuilderNews https://news.pub . I annotated everyline to explain it in the terminology of microprogramming.
+
+// A 1 line microprogram that sets some top matter information for html meta
+title BuilderNews
+// A 1 line microprogram that sets some top matter information for html meta tags
+viewSourceUrl https://github.com/breck7/news.pub
+// A 1 line microprogram that sets some top matter information for html meta tags
+description News for builders.
+// A 1 line microprogram that includes more scroll code
+header.scroll
+
+// A 1 line microprogram that outputs a div tag
+
+// A 1 line microprogram that outputs a h1 tag
+# BuilderNews
+// A 1 line microprogram that outputs a h3 tag
+### Watch people try your web creations for the first time.
+
+// A 12 line microprogram that reads a csv file, runs a dataflow pipeline and outputs html
+table tries.csv
+ rename url creationLink
+  select rank creation creationLink user date
+   rename user tries
+    orderBy rank
+     groupBy rank
+      reduce date first date
+      reduce creationLink first creationLink
+      reduce creation first creation
+      reduce tries concat tries
+      select rank creation creationLink date tries
+       printTable
+
+// A 2 line microprogram that adds links to a piece of text and outputs html
+Build something new to try? Email a title and link to one of our users.
+ link users.html users
+
+// A 3 line microprogram that adds links to a piece of text and outputs html
+Download this data as JSON.
+ link tries.json JSON
+ https://github.com/breck7/news.pub/blob/main/tries.scroll this data
+
+// A 1 line microprogram that includes the content of this html file:
+modal.html
+
+// A 1 line microprogram that runs "import":
+footer.scroll
+
+// A 1 line microprogram that outputs an html div tag
+
+// A 1 line microprogram that outputs a javascript tag
+tableSearch
+
 Built with Scroll v133.3.0
