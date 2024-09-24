@@ -145,4 +145,4 @@ Notes
 - This great new post by Stephen Wolfram explores similar ideas.
  https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
 
-Built with Scroll v133.2.0
+Built with Scroll v133.3.0

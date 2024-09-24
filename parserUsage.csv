@@ -1,9 +1,9 @@
 parserId,uses
-blankLineParser,10681
-catchAllParagraphParser,4544
+blankLineParser,10687
+catchAllParagraphParser,4548
 importOnlyParser,1102
 stumpContentParser,1060
-quickLinkParser,1000
+quickLinkParser,1004
 h1Parser,693
 viewSourceButtonParser,525
 listAftertextParser,516
@@ -47,8 +47,8 @@ cssLineParser,118
 thinColumnsParser,114
 captionAftertextParser,107
 htmlInlineParser,98
+scrollQuestionParser,78
 footnoteDefinitionParser,77
-scrollQuestionParser,77
 katexParser,68
 quoteParser,50
 printRelatedParser,49

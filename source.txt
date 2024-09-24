@@ -55,6 +55,21 @@
   
   comment Microprograms are 1 or more lines that are as easy to move around and concatenate as legos. It is accurate to model them as functions that take zero or more parameters. Each line/block is a function definition or application.
  
+ ? hugogrant points out that's a lot to claim without any data.
+  https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop94xu/ hugogrant points out
+ 
+ Great point! I should mention some data.
+ 
+ Parsers is made of ~100 microprograms.
+  https://sdk.scroll.pub/designer/index.html#standard%20parsers ~100 microprograms
+ 
+ Scroll is built on Parses and made of ~1,000 microprograms.
+  https://scroll.pub/cloc.html ~1,000 microprograms.
+ 
+ PLDB.io is built on Scroll and made of ~10,000 microprograms.
+  https://github.com/breck7/pldb ~10,000 microprograms
+ 
+ 
  footer.scroll
  
 /home/runner/work/breckyunits.com/breckyunits.com/liver.scroll
