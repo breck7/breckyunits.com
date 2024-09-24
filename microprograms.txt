@@ -46,6 +46,8 @@ commentParser
 
 comment Microprograms are 1 or more lines that are as easy to move around and concatenate as legos. It is accurate to model them as functions that take zero or more parameters. Each line/block is a function definition or application.
 
+*
+
 hugogrant points out "That's a lot to claim without any data."
  https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop94xu/ hugogrant points out
 ====================================================================================================================================================================
@@ -60,6 +62,8 @@ Scroll is built on Parses and made of ~1,000 microprograms.
 
 PLDB.io is built on Scroll and made of ~10,000 microprograms.
  https://github.com/breck7/pldb ~10,000 microprograms
+
+*
 
 Psychoscattman asks "But what is micro programming? This blog is just a collection on observations but doesnt explain at all what microprogramming is or how it works."
  https://www.reddit.com/r/programming/comments/1foeaef/comment/lopaodm/ Psychoscattman asks
@@ -123,5 +127,13 @@ footer.scroll
 
 // A 1 line microprogram that outputs a javascript tag
 tableSearch
+
+*
+
+loblawslawcah says "The post didn't really show or explain it all that well."
+ https://www.reddit.com/r/computerscience/comments/1foi2wr/comment/loqwx8v/ loblawslawcah says
+============================================================================================================================================================================
+
+Perhaps a video explanation would be better:
 
 Built with Scroll v133.3.0
