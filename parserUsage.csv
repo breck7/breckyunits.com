@@ -1,9 +1,9 @@
 parserId,uses
-blankLineParser,10693
-catchAllParagraphParser,4551
+blankLineParser,10694
+catchAllParagraphParser,4552
 importOnlyParser,1102
 stumpContentParser,1060
-quickLinkParser,1005
+quickLinkParser,1006
 h1Parser,693
 viewSourceButtonParser,525
 listAftertextParser,516
