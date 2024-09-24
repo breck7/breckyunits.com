@@ -16,6 +16,8 @@ endSnippet
 
 Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.
 
+In traditional programming, a 1,000 line file would be 1 program. In microprogramming, that file would usually be around 250 - 300 microprograms, where each microprogram is between 1 and 10 lines.
+
 Microprogramming requires new languages. A language must make it completely painless to concatenate, copy/paste, extend and mix/match different collections of microprograms. Languages must be robust against stray characters and support parallel parsing and compilation. Languages must be context sensitive. Languages must be homoiconic. Automated integration tests of frequently paired microprograms are essential.
 
 Microprograms start out small and seemingly trivial, but evolve to be far faster, more intelligent, more agile, more efficient, and easier to scale than traditional programs.
@@ -30,5 +32,19 @@ If the microprogramming trend becomes as big, if not bigger, than microservices,
  https://en.wikipedia.org/wiki/Microservices microservices
 
 ****
+
+# Q & A
+
+? yuri-kilochek asks what is a microprogram? How is if different from a procedure?
+ https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop81qt/ yuri-kilochek asks
+
+code
+ comment Good question! This line is a microprogram.
+ 
+ commentParser
+  comment This block is also a microprogram
+  pattern comment string*
+ 
+ comment Microprograms are 1 or more lines that are as easy to move around and concatenate as legos. It is accurate to model them as functions that take zero or more parameters. Each line/block is a function definition or application.
 
 footer.scroll
