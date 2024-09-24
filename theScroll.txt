@@ -34,6 +34,8 @@ This thing is called
 
 THE SCROLL
 
+A successor to the web that works offline.
+
 *
 
 It's a language
@@ -72,7 +74,7 @@ wws.scroll.pub
  https://wws.scroll.pub wws.scroll.pub
 =====================================================
 
-Buy your spot today.
+Reserve your name today.
 
 *
 

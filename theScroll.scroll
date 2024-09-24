@@ -2,7 +2,7 @@ metaTags
 buildTxt
 buildHtml
 slideshow
-title The Scroll
+title The Scroll - a successor to the web that works offline
 
 katex
 css
@@ -52,9 +52,11 @@ THE WEB
 This thing is called
 
 THE SCROLL
- style font-size:300%;margin-top:0;
+ style font-size:200%;margin:0;
 
 // aka the World Wide Scroll
+
+A successor to the web that works offline.
 
 ***
 
@@ -114,7 +116,7 @@ Make something you love.
  https://wws.scroll.pub
  class highlight
 
-Buy your spot today.
+Reserve your name today.
 
 ***
 
