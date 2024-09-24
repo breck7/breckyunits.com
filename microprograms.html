@@ -30,12 +30,50 @@
 <div style="text-align: center;" class="scrollDateline">September 24, 2024</div>
 <p class="scrollParagraph">All jobs done by large monolithic software programs can be done better by a collection of small microprograms working together.</p>
 <p class="scrollParagraph">Building these microprograms, aka <em>microprogramming</em>, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.</p>
+<p class="scrollParagraph">In a microprogram every line of code can be its own program.</p>
+<table id="table22" class="scrollTable">
+ <thead><tr><th>Type</th>
+
+<th>Files</th>
+
+<th>Lines Of Code</th>
+
+<th>Programs</th>
+</tr></thead>
+ <tbody><tr><td>Programming</td>
+<td>1</td>
+<td>1000</td>
+<td>1</td>
+</tr>
+<tr><td>Microprogramming</td>
+<td>1</td>
+<td>1000</td>
+<td>200-300</td>
+</tr></tbody>
+ </table>
+ <script>
+ document.querySelector('#table22').addEventListener('click', e => {
+  if (window.getSelection().toString() || e.target.closest('a') || !e.target.closest('tbody')) return;
+  e.currentTarget.classList.toggle('expandedTable');
+ });
+ </script>
 <p class="scrollParagraph">Microprogramming requires new languages. A language must make it completely painless to concatenate, copy/paste, extend and mix/match different collections of microprograms. Languages must be robust against stray characters and support parallel parsing and compilation. Languages must be context sensitive. Languages must be homoiconic. Automated integration tests of frequently paired microprograms are essential.</p>
 <p class="scrollParagraph">Microprograms start out small and seemingly trivial, but evolve to be far faster, more intelligent, more agile, more efficient, and easier to scale than traditional programs.</p>
 <p class="scrollParagraph">Microprogramming works <em>incredibly well</em> with LLMs. It is easy to mix and match microprograms written by humans with microprograms written by LLMs.</p>
 <p class="scrollParagraph">These are just some initial observations I have so far since our discovery of microprogramming. This document you are reading is written as a collection of microprograms in a language called <a href="https://scroll.pub/">Scroll</a>, a language which is a collection of microprograms in a language called <a href="https://scroll.pub/parserLeetsheet.html">Parsers</a>, which is a collection of microprograms written in itself (but also with a last mile conversion to machine code via TypeScript).</p>
 <p class="scrollParagraph">If the microprogramming trend becomes as big, if not bigger, than <a href="https://en.wikipedia.org/wiki/Microservices">microservices</a>, I would not be surprised.</p>
 <div class="dinkus"><span>⁂</span></div>
+<div class="scrollSection"><h1 class="scrollParagraph">Q & A</h1>
+</div>
+<div class="scrollSection"><h4 class="scrollQuestion"><a href="https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop81qt/">yuri-kilochek asks</a> what is a microprogram? How is if different from a procedure?</h4>
+</div>
+<code class="scrollCodeBlock">comment Good question! This line is a microprogram.
+
+commentParser
+ comment This block is also a microprogram
+ pattern comment string*
+
+comment Microprograms are 1 or more lines that are as easy to move around and concatenate as legos. It is accurate to model them as functions that take zero or more parameters. Each line/block is a function definition or application.</code>
 <div class="scrollKeyboardNav" style="display:none;"><a href="i-guess-the-time-had-come.html">i-guess-the-time-had-come.html</a> · microprograms.html · <a href="liver.html">liver.html</a><script>document.addEventListener('keydown', function(event) {
   if (document.activeElement !== document.body) return
   if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return // dont interfere with keyboard back button shortcut
