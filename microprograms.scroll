@@ -16,7 +16,14 @@ endSnippet
 
 Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.
 
-In traditional programming, a 1,000 line file would be 1 program. In microprogramming, that file would usually be around 250 - 300 microprograms, where each microprogram is between 1 and 10 lines.
+In a microprogram every line of code can be its own program.
+
+table
+ printTable
+ data
+  Type,Files,Lines Of Code,Programs
+  Programming,1,1000,1
+  Microprogramming,1,1000,200-300
 
 Microprogramming requires new languages. A language must make it completely painless to concatenate, copy/paste, extend and mix/match different collections of microprograms. Languages must be robust against stray characters and support parallel parsing and compilation. Languages must be context sensitive. Languages must be homoiconic. Automated integration tests of frequently paired microprograms are essential.
 
