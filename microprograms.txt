@@ -33,9 +33,9 @@ If the microprogramming trend becomes as big, if not bigger, than microservices,
 Q & A
 =====
 
-yuri-kilochek asks what is a microprogram? How is if different from a procedure?
+yuri-kilochek asks "what is a microprogram? How is if different from a procedure?"
  https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop81qt/ yuri-kilochek asks
-====================================================================================================================================================================================
+======================================================================================================================================================================================
 
 comment Good question! This line is a microprogram.
 
@@ -45,9 +45,9 @@ commentParser
 
 comment Microprograms are 1 or more lines that are as easy to move around and concatenate as legos. It is accurate to model them as functions that take zero or more parameters. Each line/block is a function definition or application.
 
-hugogrant points out that's a lot to claim without any data.
+hugogrant points out "That's a lot to claim without any data."
  https://www.reddit.com/r/ProgrammingLanguages/comments/1foe9f5/comment/lop94xu/ hugogrant points out
-==================================================================================================================================================================
+====================================================================================================================================================================
 
 Great point! I should mention some data.
 
