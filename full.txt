@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+Microprogramming: A New Way to Program
+======================================
+09/24/2024
+https://breckyunits.com/microprograms.html
+
 The Liver Turns On and Off
 ==========================
 09/19/2024
@@ -1156,4 +1161,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v133.0.0
+Built with Scroll v133.2.0
