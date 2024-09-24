@@ -1,6 +1,7 @@
 date 9/24/2024
 tags All Programming Scroll
 title Microprogramming: A New Way to Program
+openGraphImage microprogramming.png
 
 header.scroll
 printTitle
@@ -10,6 +11,8 @@ printAuthors
 printDate
 
 All jobs done by large monolithic software programs can be done better by a collection of small microprograms working together.
+
+endSnippet
 
 Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.
 
