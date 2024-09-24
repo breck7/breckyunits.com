@@ -11,7 +11,7 @@
  printAuthors
  printDate
  
- All jobs done by large monolithic software programs can be done better by a collection of small, mostly single line, microprograms working together.
+ All jobs done by large monolithic software programs can be done better by a collection of small microprograms (mostly 1 line long) working together.
  
  endSnippet
  

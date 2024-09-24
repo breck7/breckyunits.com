@@ -5,7 +5,7 @@ by Breck Yunits
  https://breckyunits.com Breck Yunits
 September 24, 2024
 
-All jobs done by large monolithic software programs can be done better by a collection of small, mostly single line, microprograms working together.
+All jobs done by large monolithic software programs can be done better by a collection of small microprograms (mostly 1 line long) working together.
 
 Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.
 
