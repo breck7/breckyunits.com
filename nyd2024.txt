@@ -22,4 +22,4 @@ Why am I still writing? I think symbols are probably doomed. The utility of bein
 
 ⁂
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0

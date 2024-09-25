@@ -7,7 +7,11 @@ September 24, 2024
 
 All jobs done by large monolithic software programs can be done better by a collection of small microprograms (mostly 1 line long) working together.
 
-Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning.
+*
+
+Building these microprograms, aka _microprogramming_, is different than traditional programming. Microprogramming is more like gardening: one is constantly introducing new microprograms and removing microprograms that aren't thriving. Microprogramming is like organic city growth, whereas programming is like top-down centralized city planning. Microprogramming is putting the necessary microprograms in a petri dish, applying natural selection over time until they can beautifully and most simply solve your problem.
+
+*
 
 In a microprogram every line of code can be its own program.
 
@@ -15,19 +19,44 @@ Type,Files,Lines Of Code,Programs
 Programming,1,1000,1
 Microprogramming,1,1000,200-300
 
+*
+
 Microprogramming requires new languages. A language must make it completely painless to concatenate, copy/paste, extend and mix/match different collections of microprograms. Languages must be robust against stray characters and support parallel parsing and compilation. Languages must be context sensitive. Languages must be homoiconic. Automated integration tests of frequently paired microprograms are essential.
+
+*
 
 Microprograms start out small and seemingly trivial, but evolve to be far faster, more intelligent, more agile, more efficient, and easier to scale than traditional programs.
 
+*
+
 Microprogramming works _incredibly well_ with LLMs. It is easy to mix and match microprograms written by humans with microprograms written by LLMs.
+
+*
 
 These are just some initial observations I have had so far since our invention of a breakthrough microprogramming language stack. This document you are reading is written as a collection of microprograms in a language called Scroll, a language which is a collection of microprograms in a language called Parsers, which is a collection of microprograms written in itself (but also with a last mile conversion to machine code via TypeScript).
  https://scroll.pub/ Scroll
  https://scroll.pub/parserLeetsheet.html Parsers
  https://scroll.pub/blog/teddyTalk.html breakthrough microprogramming language stack
 
+*
+
 If the microprogramming trend becomes as big, if not bigger, than microservices, I would not be surprised.
  https://en.wikipedia.org/wiki/Microservices microservices
+
+*
+
+Microprogramming is inspired by microbiology.
+
+You may know me as the creator of PLDB (a Programming Language DataBase), earth's largest database on Programming Languages, and find it relevant that I have personally studied and reviewed information on over 5,000 programming languages - nearly 100% of all publicly used languages.
+ https://pldb.io/ PLDB
+
+What you might not know is that I also have a peer-reviewed track record in genomics and multiomics, and that Parsers, the language we invented that enabled Microprogramming, is built not on the patterns I found in programming languages, but instead built on the patterns nature evolved that I studied in microbiology.
+
+The biological design is why this stack is unlike any language you have used before. You will be able to build any advanced program you could build using a traditional language, but the path to that solution may be very different. Once you've mastered this stack, I expect you will be astonished at how much you can do with so little.
+
+The payoff from this biological approach will become increasingly apparent over time, as we continue to do things with this stack with radically less code than traditional approaches.
+
+This is the dawn of a new paradigm shift in programming, and my job is to provide you with the truest, clearest, most concise information I have gathered over the past two decades so you can take this technology and build a better future for us all.
 
 ⁂
 
@@ -136,4 +165,4 @@ loblawslawcah says "The post didn't really show or explain it all that well."
 
 Perhaps a video explanation would be better:
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0

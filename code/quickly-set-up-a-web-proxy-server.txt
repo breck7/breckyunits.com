@@ -8,4 +8,4 @@ Here's a great article that shows how.
 
 I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0

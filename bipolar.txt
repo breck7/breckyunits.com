@@ -96,4 +96,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0
