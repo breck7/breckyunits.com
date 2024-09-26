@@ -49,10 +49,6 @@ Then the power went out.
 
 *
 
-[Image Omitted]
- In the movie Hunger Games: Catching Fire, an outdoor arena has 12 slices. Each slice gets power for one hour, then it rotates to the next slice. A rotating energy clock.
-  https://www.imdb.com/title/tt1951264/ Hunger Games: Catching Fire
-
 *
 
 Kathmandu had a rotating energy clock.
@@ -279,4 +275,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

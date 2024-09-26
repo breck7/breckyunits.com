@@ -8,6 +8,4 @@ On November 1st CancerDB.com will launch and immediately start saving lives. The
  https://cancerdb.com/ CancerDB.com
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan Alexandra Elbakyan
 
-[Image Omitted]
-
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

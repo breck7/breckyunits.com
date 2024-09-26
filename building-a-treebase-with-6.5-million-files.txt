@@ -200,8 +200,6 @@ This script required a few design decisions. For permalink uniqueness, I simply 
 
 Here are the results of the script for the small 60 file TreeBase:
 
-[Image Omitted]
-
 Building the Grammar File
 =========================
 
@@ -293,8 +291,6 @@ genresNode
 Next I coped that file into the `60` folder with `cp /Users/breck/imdb/title.grammar 60/`. I have the `jtree` package installed on my local machine so I registered this new language with that with the command `jtree register /Users/breck/imdb/title.grammar`. Finally, I generated a Sublime syntax file for these title files with `jtree sublime title #pathToMySublimePluginDir`.
 
 Now I have rudimentary syntax highlighting for these new title files:
-
-[Image Omitted]
 
 Notice the syntax highlighting is a little broken. The Sublime syntax generating still needs some work.
  https://github.com/treenotation/jtree/issues/8 still needs some work
@@ -503,11 +499,7 @@ treebase,how long will it take to scan the base for errors.,~5 seconds
 
 💣 Opening the `600k` folder in Apple's Finder gave me a loading screen for about 3 minutes
 
-[Image Omitted]
-
 At least it eventually came up:
-
-[Image Omitted]
 
 Now, how about Git?
 
@@ -690,4 +682,4 @@ So I think this could be pretty cool. As dumb as it is.
 
 I would love to hear your thoughts.
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

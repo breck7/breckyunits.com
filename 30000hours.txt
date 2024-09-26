@@ -24,8 +24,6 @@ Peter Norvig,norvig,30000,2013,1956,https://en.wikipedia.org/wiki/Peter_Norvig,h
 Stephen Wolfram,,50000,2013,1959,https://en.wikipedia.org/wiki/Stephen_Wolfram,
 Lars Bak,larsbak,30000,2013,1965,https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer),https://github.com/larsbak
 
-[Image Omitted]
-
 My Conclusion
 =============
 No evidence has been found that the 10,000 hour strategy is flawed. :)
@@ -88,4 +86,4 @@ Twelve Tips to Master Programming Faster
 12/04/2009
 https://breckyunits.com/twelve-tips-to-master-programming-faster.html
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

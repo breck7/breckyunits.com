@@ -21,17 +21,11 @@ A *1 hour* conference takes place over *24 hours*. But instead of using live syn
 
 So when the conference starts the conference page looks like this:
 
-[Image Omitted]
-
 As the world turns, speakers click the record button for their slot and add their respective segments.
 
 12 hours later the conference page looks like this:
 
-[Image Omitted]
-
 After 24 hours:
-
-[Image Omitted]
 
 That conference is a wrap!
 
@@ -76,4 +70,4 @@ Where ideas can mingle
 improve and change
 So that the people can be free.
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

@@ -4,8 +4,6 @@ Write Thin to Write Fast
 by Breck Yunits
  https://breckyunits.com Breck Yunits
 
-[Image Omitted]
-
 October 15, 2021
 
 I constantly seek ways to improve my writing.
@@ -95,8 +93,6 @@ Jets are great, but beware jet lag when traveling. Big screens are great, but be
 
 ⁂
 
-[Image Omitted]
-
 Notes
 =====
 - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.
@@ -104,4 +100,4 @@ Notes
 - The physical dimensions of my writing area on screen are about 2.5 out of 11 inches. I've skimmed some studies that suggest 4 inches is the optimum for most people.
 - Some writing boxes never wrap, like Gmail. So to keep my columns thin I would manually insert line breaks. Manual line breaks were fragile for two reasons. First, when I revised the text I'd also have to revise the line breaks. Second, I coded the line breaks at _write time_ with certain font and column settings. At _read time_ those settings might differ. Multiple friends commented that I now wrote in haikus. I did consider for a moment that a reputation as someone who wrote only in haikus might be advantageous, but I ruled that out and stopped manual line breaks. Now I often write in Sublime Text and copy/paste into the target app.
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

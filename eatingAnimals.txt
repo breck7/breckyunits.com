@@ -8,9 +8,6 @@ I went to a plastination exhibit for the first time last week. I got so much out
  https://en.wikipedia.org/wiki/Gunther_von_Hagens Gunther von Hagens
  https://bodyworlds.com/ checking one out
 
-[Image Omitted]
- A picture from a human plastination exhibit. That's not animal meat!
-
 The Morality of Meat Eating
 ===========================
 Part of me strives to be a moral person. Other parts of me think that is bull. Maybe the main case against my "morality" is that I am not a vegetarian. I probably eat as much chicken, beef, pork, lamb, etc, as the average American, which means I am responsible for eating dozens of animals per year. I know millions of animals are slaughtered out of sight everyday in this country and I do nothing about it. Imagine if restaurants were required to have onsite butchers--picture the endless stream of live chickens and cows you would see heading into your nearest McDonald's! How can one claim to be "moral" and not stand against the slaughtering of billions of animals a year?!
@@ -19,10 +16,6 @@ Part of me strives to be a moral person. Other parts of me think that is bull. M
 The Cruelty Line
 ================
 If I were to force myself to put in words my policy then, I might say that on my map of the tree of life there is a _cruelty line_ dividing the branches of life into ones I think should be treated with fairness and ones where cruelty is permissible. Now I'm not saying I encourage cruelty to animals—on the contrary I do hope that cruelty can be minimized and I do try and direct my purchasing votes to those businesses who make that a priority—but I would be lying if I claimed I thought there was not an inherent cruelty in the meat supply chain. So my root principle is perhaps to act according to "survival of the fittest"—allowing the killing of loads of animals—and then, for a fraction of the tree of life, argue for policies of fairness.
-
-[Image Omitted]
- The turkey problem. Even if there is no cruelty in the first 1,000 days let's not sugar coat day 1,001.
-  https://medium.com/@kmccordic/1001-days-how-to-beat-the-turkey-problem-and-how-it-applies-to-bitcoin-a907842d4d7f The turkey problem
 
 A year as a vegetarian
 ======================
@@ -40,4 +33,4 @@ In walking around that plastination exhibit, I was looking at humans that once f
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

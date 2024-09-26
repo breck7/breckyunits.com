@@ -19,9 +19,6 @@ if true
 
 This language has no parentheses, quotation marks, colons, and so forth. Types, primitives, control flow--all of that stuff can be determined by words and contexts instead of introducing additional syntax rules. If you are a Lisper, think of this "novel" idea as just "lisp without parentheses."
 
-[Image Omitted]
- Programs in this system look sort of like DNA strands. The balls in this program represent words, and the colors represent the types of those words.
-
 *
 
 There are hundreds of very active programming languages, and they all have different syntax as well as different semantics.
@@ -109,4 +106,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

@@ -60,8 +60,6 @@ Depending on the estimate, between 4-20% of all humans that have ever lived are 
 What's the future shape of the population curve?
 ================================================
 
-[Image Omitted]
-
 The growth of human population has followed an exponential curve. How long will it last? Will earth become overpopulated? Will we invent technology to leave earth? Will human population decline? Human population growth is hard to predict over any long term time period.
 
 Complete Uselessness of This Model
@@ -85,4 +83,4 @@ Helpful Links for Population Statistics(beyond wikipedia):
 - NationMaster.com
  https://nationmaster.com NationMaster.com
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

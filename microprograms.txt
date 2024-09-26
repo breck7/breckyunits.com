@@ -89,8 +89,7 @@ Parsers is made of ~100 microprograms.
 Scroll is built on Parses and made of ~1,000 microprograms.
  https://scroll.pub/cloc.html ~1,000 microprograms.
 
-PLDB.io is built on Scroll and made of ~10,000 microprograms.
- https://github.com/breck7/pldb ~10,000 microprograms
+is built on Scroll and made of ~10,000 microprograms.
 
 *
 
@@ -159,10 +158,28 @@ tableSearch
 
 *
 
+redneckhatr asks "How does this work underhood? Is a microprogram an actual binary or something you load into a VM?"
+ https://www.reddit.com/r/programming/comments/1foeaef/comment/loyirs4/ redneckhatr asks
+=============================================================================================================================================================================================================
+
+Great question!
+
+That's up to the implementation. This is a design pattern that can be implemented in many ways. Even without a computer!
+
+Requirements to implement this:
+
+1. An environment
+2. Microprogram parsers
+3. Microprograms
+
+Here's a video explanation:
+
+*
+
 loblawslawcah says "The post didn't really show or explain it all that well."
  https://www.reddit.com/r/computerscience/comments/1foi2wr/comment/loqwx8v/ loblawslawcah says
 ============================================================================================================================================================================
 
 Perhaps a video explanation would be better:
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

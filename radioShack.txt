@@ -5,8 +5,6 @@ May 26, 2024
 
 You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
 
-[Image Omitted]
-
 Notes
 =====
 - All of the data is in the source code for this blog post. Click "View Source" at the bottom of this page to see it.
@@ -98,4 +96,4 @@ RadioShacks	2022
 RadioShacks	2023
 RadioShacks	2024	412
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

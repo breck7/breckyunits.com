@@ -5,8 +5,6 @@ December 23, 2012
 
 If you are poor, your money could be safer under the mattress than in the bank:
 
-[Image Omitted]
-
 The Great Bank Robbery dwarfs all normal burglaries by almost 10x. In the Great Bank Robbery, the banks are slowly, silently, automatically taking from the poor.
 
 One simple law could change this:
@@ -29,4 +27,4 @@ FBI from here
  https://breckyunits.com/fbi.jpg FBI
  https://ucr.fbi.gov/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/property-crime/burglary here
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

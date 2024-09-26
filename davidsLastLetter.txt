@@ -1,9 +1,6 @@
 David's Last Letter
 ===================
 
-[Image Omitted]
- David and Sandy
-
 *
 
 July 25, 2024
@@ -55,4 +52,4 @@ David
 
 RIP David.
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

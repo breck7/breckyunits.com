@@ -1,8 +1,6 @@
 The World Wide Scroll
 =====================
 
-[Image Omitted]
-
 June 12, 2024
 
 After years of development, I'm looking for beta testers for The World Wide Scroll (WWS).
@@ -34,4 +32,4 @@ Mahalo!
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

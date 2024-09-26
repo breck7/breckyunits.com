@@ -13,10 +13,6 @@ We include a Visual Abstract to succinctly display the problem and discovery. Th
 
 *
 
-[Image Omitted]
- Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
-  https://breckyunits.com/diagram.flow program
-
 The Problem
 ===========
 
@@ -134,9 +130,6 @@ The GER contains a TN parser, grammar notation, Tree Language compiler-compiler 
 
 Future publications might explore the Tree Notation Grammar, TLCC, or machine-written TL programs.
 
-[Image Omitted]
- Rearranging these fridge magnets is equivalent to editing a TN program. The fridge magnet set that includes parentheses is a poor seller.
-
 ⁂
 
 References
@@ -158,4 +151,4 @@ References
 
 ^Ender: Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

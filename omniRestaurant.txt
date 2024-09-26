@@ -48,8 +48,6 @@ The platter hovers over her table then gently floats down.
 
 On it is a perfectly grilled Portobello mushroom.
 
-[Image Omitted]
-
 *
 
 The former celebrity smiles, grabs the fork and knife, and takes her first bite.
@@ -236,4 +234,4 @@ In front of him, eating a bowl of cereal, is a man in a Vicuna suit.
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

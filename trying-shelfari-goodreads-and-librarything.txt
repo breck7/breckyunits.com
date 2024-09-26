@@ -16,10 +16,7 @@ They are all pretty good. I will update this post later with more detailed revie
 The traffic stats:
 ==================
 
-Compete.com shows goodreads pulling away from the comptetion.
-
-[Image Omitted]
- shelfari(red), goodreads(blue), librarything(orange)
+shows goodreads pulling away from the comptetion.
 
 Google Trends for Websites also shows goodreads in the lead and growing fastest.
 
@@ -31,4 +28,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/ Original post
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

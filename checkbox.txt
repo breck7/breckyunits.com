@@ -1,9 +1,6 @@
 CheckBox: An Online + Offline Voting System
 ===========================================
 
-[Image Omitted]
- Our beta from 2013.
-
 June 25, 2024
 
 In 2013 my friends and I won the Liberty Hackathon in San Francisco.
@@ -126,4 +123,4 @@ Deal
 ====
 We’re looking to raise up to $200,000 via convertible notes with an $800,000 cap to achieve our 2013 milestones.
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

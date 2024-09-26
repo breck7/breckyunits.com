@@ -16,9 +16,6 @@ I realized that the keys on the keyboard in front of me might make a good datase
 
 The Five Waves of Symbols
 =========================
-[Image Omitted]
- Interactive Version
-  https://www.datawrapper.de/_/18PRa/ Interactive Version
 
 Painting with broad strokes, there were approximately five big waves of inventions that have left their mark on the keyboard:
 - 1. The first wave was the invention of the phonetic alphabet letters.
@@ -176,4 +173,4 @@ aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
 aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
 asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

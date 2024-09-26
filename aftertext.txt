@@ -173,7 +173,4 @@ Notes
 - Thanks to justinpombrio for pointing out how semantic embedded markup is different than augmenting markup.
 - Another downside of the current implementation, pointed out by David Chisnall, is the lack of a mechanism for global markup directives. I'd expect Aftertext to evolve in that direction if it proves its worth in the local scope.
 
-[Image Omitted]
- A screenshot of Aftertext on the left and the rendered HTML on the right.
-
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

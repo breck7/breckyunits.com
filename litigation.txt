@@ -28,8 +28,6 @@ A worse man can scarcely be found than one who does this.
 Matthew Pinsker at Dickinson posted an image of the original:
  https://housedivided.dickinson.edu/sites/lincoln/notes-for-a-law-lecture-july-1-1850/notes-for-a-law-lecture/ an image of the original
 
-[Image Omitted]
-
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

@@ -30,4 +30,4 @@ Install a new version of Ruby:
 
 rvm install 1.9.2
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

@@ -6,8 +6,6 @@ June 9, 2023
 When I was a kid we would drive up to New Hampshire and all the cars had license plates that said "Live Free or Die". As a kid this was scary. As an adult this is beautiful. In four words it communicates a vision for humanity that can last forever.
  https://en.wikipedia.org/wiki/Live_Free_or_Die Live Free or Die
 
-[Image Omitted]
-
 The tech industry right now is in a mad dash for AGI. It seems the motto is _AGI or Die_. I guess this is the end vision of many leaders in tech.
  https://en.wikipedia.org/wiki/Artificial_general_intelligence AGI
 
@@ -31,4 +29,4 @@ My oldest daughter used to admonish me "No phone dadda" and over a year ago, aft
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

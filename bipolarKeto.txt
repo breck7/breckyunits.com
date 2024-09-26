@@ -23,8 +23,6 @@ So I had not heard of a ketogenic diet as a possible treatment for bipolar disor
 
 The Data Visualized:
 ====================
-[Image Omitted]
- Red = Bipolar book not mentioning keto; Green = Bipolar book mentioning keto; Blue = Epilepsy book mentioning keto.
 
 Here is the raw data in a Google Sheet.
  https://docs.google.com/spreadsheets/d/1D8eacK7ASysiAVGttgajkQCOqBU-cBOG4Polceqkiiw/edit?usp=sharing Google Sheet
@@ -35,4 +33,4 @@ I still have a ton to learn but I wanted to share this simple book scan in case 
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

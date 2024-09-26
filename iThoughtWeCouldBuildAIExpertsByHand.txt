@@ -23,9 +23,6 @@ This is an idea I became obsessed with. I came across it by chance, when I was s
  https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html Eureka
  https://breckyunits.com/tree-notation-annual-report-2019.html lots of problems
 
-[Image Omitted]
- If your syntax can distinguish symbols and define scopes you can represent anything.
-
 The Book
 ========
 
@@ -98,9 +95,6 @@ The Prototype
 =============
 In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language DataBase. This site was an encyclopedia about programming languages. It was the biggest collection of data on programming languages, which was gathered over years by open source contributors and myself and reviewed by hand.
 
-[Image Omitted]
- Part of the "Python" entry in PLDB. The focus is on computable data rather than narratives.
-
 As a programming enthusiast I enjoyed the content itself. But to me the more exciting view of PLDB was as a stepping stone to the bigger goal of creating The Book and breakthrough AI experts for any domain.
 
 It wasn't a coincidence that to find a symbolic language for encoding a universal encyclopedia I started with an encyclopedia on symbolic languages. I thought if we built something to first help the symbolic language experts they would join us in inventing the universal symbolic language to help everyone else.
@@ -154,9 +148,6 @@ The probability of success wasn't guaranteed but the value if it worked was so h
 
 Execution and Failure
 =====================
-
-[Image Omitted]
- A slide from my pitch deck mentioning how these AI experts would be transparent and trustworthy to users and provide researchers with a birds-eye view of all the knowledge in a domain.
 
 Unfortunately, my execution was abysmal. I was operating with little sleep and my brain was firing on all cylinders as I tried to figure this out. People thought I was crazy and tried to stop me. This drove me to push harder. I decided to lean into the "crazy" image. Some said this idea was too naive and simple to work and anyone who thought it would work was not rational. So I was willing to present myself as irrational to pull off something no rational person would attempt.
 
@@ -234,4 +225,4 @@ A characteristica universalis might be possible someday as a novelty. But not so
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

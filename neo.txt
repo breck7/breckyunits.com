@@ -1,9 +1,6 @@
 Nature's Eternal Omen: Do not ignore me.
 ========================================
 
-[Image Omitted]
- A human builds an elaborate sandcastle, with their back to the ocean...
-
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

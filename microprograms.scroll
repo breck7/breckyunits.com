@@ -166,11 +166,29 @@ codeWithHeader https://github.com/breck7/news.pub/blob/main/index.scroll
 
 ***
 
+? redneckhatr asks "How does this work underhood? Is a microprogram an actual binary or something you load into a VM?"
+ https://www.reddit.com/r/programming/comments/1foeaef/comment/loyirs4/ redneckhatr asks
+
+Great question!
+
+That's up to the implementation. This is a design pattern that can be implemented in many ways. Even without a computer!
+
+Requirements to implement this:
+
+1. An environment
+2. Microprogram parsers
+3. Microprograms
+
+Here's a video explanation:
+
+youtube https://www.youtube.com/watch?v=e4mJh7TgICE
+
+***
+
 ? loblawslawcah says "The post didn't really show or explain it all that well."
  https://www.reddit.com/r/computerscience/comments/1foi2wr/comment/loqwx8v/ loblawslawcah says
 
 Perhaps a video explanation would be better:
 youtube https://www.youtube.com/watch?v=hCE_zcpNpnY
-
 
 footer.scroll

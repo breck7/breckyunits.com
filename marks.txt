@@ -3,8 +3,6 @@ Marks
 by Breck Yunits
  https://breckyunits.com Breck Yunits
 
-[Image Omitted]
-
 May 11, 2024
 
 That charts work at all is amazing.
@@ -73,8 +71,6 @@ Binary delivers precision:
 
 But for meaning, it takes marks.
 
-[Image Omitted]
-
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

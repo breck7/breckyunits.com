@@ -61,10 +61,6 @@ So if today's ingredient pack contains 3 ingredients (bacon, lettuce, and tomato
 
 ⁂
 
-[Image Omitted]
- Interactive Version
-  https://www.datawrapper.de/_/O5Pmu/ Interactive Version
-
 Plates needed
 =============
 
@@ -99,4 +95,4 @@ Orders of Magnitude
 12/07/2009
 https://breckyunits.com/orders-of-magnitude.html
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

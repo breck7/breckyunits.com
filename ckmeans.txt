@@ -15,9 +15,6 @@ June 9, 2022
 In the fall of 2020 users started reporting that our map charts were now slow. A lot of people used our maps, so this was a problem we wanted to fix.
  https://ourworldindata.org/ our
 
-[Image Omitted]
- Suddenly these charts were taking a long time to render.
-
 k-means was the culprit
 =======================
 To color our maps an engineer on our team utilized a very effective technique called k-means clustering, which would identify optimal clusters and assign a color to each. But recently our charts were using record amounts of data and k-means was getting slow.
@@ -67,10 +64,6 @@ The typo fix made the Javascript version run in the claimed n·log(n) to match t
 
 Before xxxxxxxxxxxxxxxx 820ms
 After  x 52ms
-
-[Image Omitted]
- Interactive Version.
-  https://www.datawrapper.de/_/vrQfc/ Interactive Version.
 
 You can easily see the difference when you look at time needed per additional row as the number of rows increases:
 
@@ -128,4 +121,4 @@ Notes
 - Wolfram Alpha fit of the quadratic runtime data
  https://www.wolframalpha.com/input?i=fit+%7B1000%2C+36%7D%2C%7B2000%2C+53%7D%2C%7B10000%2C+258%7D%2C%7B20000%2C+1236%7D%2C%7B100000%2C23122%7D%2C%7B200000%2C113886%7D Wolfram Alpha fit of the quadratic runtime data
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

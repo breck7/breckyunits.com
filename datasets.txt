@@ -73,9 +73,6 @@ I explain the situation.
 
 I repeat the experiment and add the new data to my dataset.
 
-[Image Omitted]
- The lab. I measured how long these 5 coffee mugs kept coffee hot.
-
 *
 
 The coffee in my cousin's covered metal mugs stays hot.
@@ -123,14 +120,9 @@ I took some narrative liberties above^liberties, but for accuracy and _fun_^fun,
 
 The Raw Data
 ============
-[Image Omitted]
- This is both a dataset on thermal dissipation and penmanship deficiency.
 
 The Data Visualized
 ===================
-[Image Omitted]
- Interactive version.
-  https://www.datawrapper.de/_/1hhse/ Interactive version
 
 The Typed Data
 ==============
@@ -170,4 +162,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

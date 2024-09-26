@@ -5,9 +5,6 @@ February 21, 2024
 
 Everyone wants Optimal Answers to their Questions. What is an _Optimal_ Answer? An Optimal Answer is an Answer that uses all relevant Cells in a Knowledge Base. Once you have the relevant Cells there are reductions, transformations, and visualizations to do, but the difficulty in generating Optimal Answers is dominated by the challenge of assembling data into a Knowledge Base and making relevant Cells easily findable.
 
-[Image Omitted]
- Activated Cells in a Knowledge Base.
-
 A Question has infinite possible Answers. Answers can be ranked as a function of the relevant Cells used and the relevant Cells missed. Let's say when a Cell is used by an Answer it is _Activated_.
 
 So to approach the Optimal Answer to a Question you want to maximize the number of relevant Cells Activated.
@@ -35,4 +32,4 @@ Today that process still requires agency and embodiment and is done by human sci
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

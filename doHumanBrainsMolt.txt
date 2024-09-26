@@ -1,10 +1,6 @@
 Do Human Brains Molt?
 =====================
 
-[Image Omitted]
- In lobsters, a steroid hormone called ecdysteroid spikes during the pre-molt phase and declines sharply after molting. Source: J. Sook Chung
-  https://www.researchgate.net/figure/Ecdysteroid-profiles-in-hemolymphs-during-last-three-molt-cycles-of-the-life-history-of_fig4_26322112 J. Sook Chung
-
 April 3, 2024
 
 I just saw Dune 2 at the theater, but far more noteworthy is this YouTube of a lobster molting. I can confidently claim that before that video I had never spent a minute of my life thinking about lobsters molting. To be honest, if you had asked me last year if lobsters molt I probably would have said "No". But, I mean, watch the video (variable speed is fine). What a fascinating slash beautiful slash disgusting slash painful slash magical slash moving thing to watch. Can you imagine going through something like that over and over again in your life? I guess humans should be thankful for our endoskeletons.
@@ -31,4 +27,4 @@ Notes
 While researching lobsters (for the first time), I also came upon this interesting post on a different topic releated to lobsters and brains.
  https://theoccasionalinterrobang.wordpress.com/2019/07/03/a-loser-lobsters-brain-differs-from-a-winner-lobsters-and-so-does-yours/ this interesting post
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

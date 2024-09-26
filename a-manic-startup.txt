@@ -9,9 +9,6 @@ Last August my brain lit up like fireworks. It felt like a cosmic river of energ
 
 My FitBit data shows a seismic event:
 
-[Image Omitted]
- In two weeks my heart rate rose 33% and my sleep fell to 2 hours per night.
-
 My symptoms were the typical assortment of manic activity.
 
 I had a grand idea about a public domain computable encyclopedia to accelerate scientific research.
@@ -68,4 +65,4 @@ It is a hard pill to swallow that I was the Bad Guy, after all.
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0

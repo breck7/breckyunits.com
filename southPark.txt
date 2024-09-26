@@ -1,9 +1,6 @@
 A Review of the South Park Commons Rejection Letter
 ===================================================
 
-[Image Omitted]
- If someone tossed me a nickel for every rejection I've gotten I'd be dead, buried under nickels.
-
 August 25, 2024
 
 Two weeks ago I applied for the South Park Commons Founder Fellowship.
@@ -45,4 +42,4 @@ Have you considered signing with your human names?
 
 ⁂
 
-Built with Scroll v133.6.0
+Built with Scroll v134.0.0
