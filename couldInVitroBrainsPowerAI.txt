@@ -57,4 +57,4 @@ I have no conclusions yet. If I tried to reach conclusions on these ideas before
 ^after: After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
  https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
 
-Built with Scroll v134.1.0
+Built with Scroll v135.0.0

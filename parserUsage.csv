@@ -1,8 +1,8 @@
 parserId,uses
-blankLineParser,10719
-catchAllParagraphParser,4675
+blankLineParser,10717
+catchAllParagraphParser,4674
 importOnlyParser,1102
-stumpContentParser,1060
+stumpContentParser,1056
 quickLinkParser,1009
 h1Parser,693
 viewSourceButtonParser,525
@@ -20,11 +20,11 @@ viewSourceBaseUrlParser,269
 rssFeedUrlParser,269
 buildHtmlParser,267
 metaTagsParser,266
-stumpNoSnippetParser,265
 pageTitleParser,265
 buildTxtParser,264
 printTitleParser,264
 homeButtonParser,264
+stumpNoSnippetParser,264
 scrollLeftRightButtonsParser,263
 scrollVersionLinkParser,261
 downloadButtonParser,261
@@ -87,6 +87,7 @@ wideColumnsParser,5
 plainTextOnlyParser,4
 quickTableParser,4
 openGraphParser,3
+scrollThemeParser,3
 redirectToParser,3
 aboveAsCodeParser,2
 expanderParser,2
@@ -98,11 +99,10 @@ scrollTransposeParser,2
 scrollOrderByParser,2
 scrollImputeParser,2
 scrollGroupByParser,2
-gazetteCssParser,2
 printUsageStatsParser,2
 buildCsvParser,2
 tableSearchParser,2
-tufteCssParser,1
+viewSourceLinkParser,1
 youTubeParser,1
 emailLinkParser,1
 inlineMarkupsOnParser,1
@@ -122,7 +122,6 @@ quickCssParser,1
 printFeedParser,1
 buildRssParser,1
 printFullSnippetsParser,1
-buildCssParser,1
 printCsvParser,1
 printSearchTableParser,1
 printSiteMapParser,1
