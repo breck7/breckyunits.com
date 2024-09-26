@@ -140,4 +140,4 @@ Notes
 
 ^numeracy: In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
 
-Built with Scroll v134.0.0
+Built with Scroll v134.1.0

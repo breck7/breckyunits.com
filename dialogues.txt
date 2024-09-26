@@ -23,4 +23,4 @@ Links
 - Try Scroll: https://scroll.pub
 - Chat CSS style inspiration: https://codepen.io/karolsw3/pen/KZmvGG
 
-Built with Scroll v134.0.0
+Built with Scroll v134.1.0
