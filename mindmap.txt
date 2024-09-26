@@ -7,6 +7,9 @@ February 24, 2024
 
 In the near future AI will be able to generate an _extensive_ list and rating of all of the skills in someone's brain.
 
+[Image Omitted]
+ The ugly prototype I made at a hackathon in 2023 to explore this idea.
+
 I'm a big fan of Minsky's conceptual model of the mind as a society of agents. A collection of neurons wire together in a certain way to form low level and higher level "agents". You have "agents" for everything you've learned: walking, crawling, standing, hugging, riding a bike, driving, slicing vegetables, chopping wood, reciting the capitals of countries, computing derivatives, et cetera. (You have lower level agents as well, but I'll leave those out in this post). A human brain might contain millions of "agents". Technology is a long way away from being able to scan a brain and map out where every agent is located. However, I wondered if technology was close to being able to at least list all the agents in someone's brain? How close are we to being able to make a map of someone's mind, identifying the "agents" in their mind along with the "strength" of those agents?
  https://breckyunits.com/marvin-minsky.html Minsky's conceptual model of the mind
 
@@ -33,4 +36,4 @@ Brain Pilots
 02/18/2022
 https://breckyunits.com/brain-pilots.html
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

@@ -13,6 +13,7 @@ I loved the story so much but couldn't find a transcript, so made the one below.
 
 Transcript of _How I Built This_ with James Park
 ================================================
+[Image Omitted]
 *Guy:* From NPR, It's How I Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements. Here we go. I'm Guy Raz, and on the show today, how the Nintendo Wii inspired James Park to build a device and then a company that would have a huge and lasting influence on the health and fitness industry, Fitbit.
 
 It's taken me a few weeks to get motivated about exercise. This whole pandemic thing just had me in a state of anxiety and it messed with my routine, but I was inspired to jump back into it about two weeks ago, after watching my 11-year-old proudly announce his daily step count recorded on his Fitbit. Now, fitness isn't all that important to him. He's 11. But the gamification of fitness, the idea that it could be fun to hit 5,000 or 10,000 steps a day, that's what matters.
@@ -304,6 +305,8 @@ Doing a consumer hardware startup before KickStarter
 *Guy:* All right. So 2008, you've got the name Fitbit, you go to TechCrunch50 to present, to unveil this product. And what was the product that you were offering? Well, you said, "All right, we've got to think of the Fitbit and it does this." What did you say it did at that point?
  https://youtu.be/RRR26GPpQ4A?t=218 TechCrunch50
 
+[Image Omitted]
+
 *James:* Our pitch to the crowd at TechCrunch, and ultimately to our consumer was that, it was a product that would track your steps, distance, calories, and how much you slept and would answer some basic questions about your health, "Was I active enough today? Did I get enough sleep? What do I need to do to lose weight," et cetera. And one of the more important aspects was this idea of a community as well. "Join other people who own Fitbits, your friends and family, and you could compete with each other." And it was all wireless. You didn't really have to do anything. All you'd have to do is wear this device, don't even think about it, and all this magic would happen. That was the promise of Fitbit at the time.
 
 *Guy:* There was a lot of excitement there, but I'm wondering, were you nervous to do these presentations? Did you have to prepare like crazy, or did you just find your ability to be this person you had to be on stage when you got up there?
@@ -581,4 +584,4 @@ Closing thoughts
  https://twitter.com/guyraz @guyraz
  https://www.npr.org/podcasts/510313/how-i-built-this How I Built This
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

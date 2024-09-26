@@ -7,6 +7,9 @@ For over 30 days I've waited patiently for LongNow Foundation, operator of LongB
  https://longnow.org/ LongNow Foundation
  https://longbets.org/ LongBets.org
 
+[Image Omitted]
+ After I tried to publish it via the website and had a problem, the LongNow foundation was extremely quick to "DM" me on Twitter, then went dark.
+
 I'm not sure why they won't publish this one. I have been a LongNow member for many years. I even have one of those stupid metal membership cards.
 
 I have paid for and made 2 public predictions. My first is a prediction about programming languages. My second is about an upcoming medical disaster in the United States.
@@ -22,7 +25,7 @@ The cancer fatality rate in the United States will fall by 50% in 5 years.
 
 Why?
 ====
-is a public domain CSV about every cancer cure.
+CancerDB.com is a public domain CSV about every cancer cure.
 It is simple a large spreadsheet, perhaps 100,000 rows long, by ~1,000 columns (so 100,000,000 cells).
 Every cancer researcher on earth will be able to instantly download it and contribute to it
 All cancer patients and their families will be able to instantly download it.
@@ -30,4 +33,6 @@ It will update in real time as research is done throughout the world.
 It uses the same underlying source code as PLDB.io, which is having a similar effect on programming languages.
 Hundreds of cures are just a few tweaks away from saving many, many lives. CancerDB will accelerate the work of cancer researchers.
 
-Built with Scroll v135.0.0
+[Image Omitted]
+
+Built with Scroll v136.0.0

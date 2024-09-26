@@ -43,6 +43,8 @@ Measuring Logeracy
 ==================
 No country or organization measures logeracy yet^email. I don't know which countries are the most logerate, but for now I would guess there will be a strong correlation between the engineering prowess of a country and it's level of logeracy.
 
+[Image Omitted]
+
 Countries have been measuring literacy for hundreds of years now. As the chart above shows, the world has made great progress in reducing illiteracy. 200 years ago, ~90% of the world was illiterate. Now that's down to ~10%. If you break it down further by country, you'll see that in countries like Japan and the United States literacy is over 99%.
  https://ourworldindata.org/literacy literacy
 
@@ -130,6 +132,8 @@ Notes
 ^coinage: I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
  https://breckyunits.com/logeracy.png proof
 
+[Image Omitted]
+
 ^email: As far as I can tell. If you know of population measures of logeracy please email me or send a pull request.
 
 ^bigO: Even if you are familiar with Big O Notation, the orders of common functions table is a handy thing to periodically refresh on.
@@ -140,4 +144,4 @@ Notes
 
 ^numeracy: In my recollection Innumeracy is too broad a book. This critique applies to 99% of books I read, Hamming's book being one of the exceptions
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

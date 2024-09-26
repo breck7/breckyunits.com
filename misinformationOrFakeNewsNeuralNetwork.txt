@@ -1,6 +1,8 @@
 Training a neural network to spot misinformation and fake news from a single image
 ==================================================================================
 
+[Image Omitted]
+
 October 15, 2022
 
 Today I'm announcing the release of the image above, which is sufficient training data to train a neural network to spot misinformation or fake news with near perfect accuracy.
@@ -9,4 +11,4 @@ These empirical results match the theory that the whole truth and nothing but th
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

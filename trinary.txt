@@ -1,6 +1,9 @@
 Removing the 2’s from Trinary Notation is a Terrible Idea.
 ==========================================================
 
+[Image Omitted]
+ width 300
+
 Recently some naive fool proposed removing the “2's” from our beloved Trinary Notation.
  https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz naive fool
 
@@ -35,4 +38,4 @@ Fifth, and my final point, if the idiot creator of Binary Notation struggles wit
 Originally posted on Medium.
  https://breckyunits.medium.com/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665 posted
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

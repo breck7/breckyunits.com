@@ -1,6 +1,10 @@
 The Box Method of Science
 =========================
 
+[Image Omitted]
+ width 300
+ S = side length of box. P = pattern. t = time. V = voxel side length.
+
 March 30, 2024
 
 Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
@@ -48,6 +52,9 @@ For natural patterns, however, nature developed an astronomically large number o
 In the beginning of science, there were natural patterns to be tagged everywhere--a lot of low hanging fruit.
 
 Untagged natural patterns may have become rarer.
+
+[Image Omitted]
+ The box at the element size is well described. Scientists have identified all the natural elements and the only new ones are man-made.
 
 *
 
@@ -138,4 +145,4 @@ Notes
 - This great new post by Stephen Wolfram explores similar ideas.
  https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

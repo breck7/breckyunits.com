@@ -7,6 +7,10 @@ Why does it take 10,000 hours to become a master of something, and not 1,000 hou
 
 The answer is simple. Once you've spent 10,000 hours practicing something, no one can crush you like a bug.
 
+[Image Omitted]
+ width 400
+ The figure on top has 10,000 hours of experience and crushes people with 100 hours or 1,000 hours like a bug. But they cannot crush another person with 10,000 hours.
+
 *
 
 Nature loves inequality
@@ -87,4 +91,4 @@ Notes
 =====
 ^goats: Perhaps to be one of the _greatest of all time_, you have to both be constantly practicing and have exceptional luck to live a healthy long live.
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

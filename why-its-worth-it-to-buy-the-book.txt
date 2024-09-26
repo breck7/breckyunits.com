@@ -53,6 +53,8 @@ Where it gets even more certain, is when you read a really valuable book--say a 
 
 The investment in that case is a no brainer.
 
+[Image Omitted]
+
 ⁂
 
 Related Posts
@@ -102,4 +104,4 @@ Notes
 1. Even if a book is more expensive, say $50, the numbers don't change too much.
 2. Pardon my scribbling. Got a new toy.
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

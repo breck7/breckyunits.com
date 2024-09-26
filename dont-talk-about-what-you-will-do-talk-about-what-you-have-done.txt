@@ -28,15 +28,27 @@ Why we are bad at making predictions.
 
 Pretend you are walking down a path:
 
+[Image Omitted]
+
 Someone asks you whether you've been walking on grass or dirt. You can look down and see what it is:
+
+[Image Omitted]
 
 Now, they ask you what you will be walking on. You can look ahead see what it is:
 
+[Image Omitted]
+
 Easy right? But this is not a realistic model of time. Let's add some fog:
+
+[Image Omitted]
 
 Again, someone asks you whether you've been walking on grass or dirt. Even with the fog, you can look down and see what it is:
 
+[Image Omitted]
+
 Now, they ask you what you will be walking on. You look ahead, but now with the fog you can't see what it is:
+
+[Image Omitted]
 
 What do you do? Do you say:
 
@@ -66,4 +78,4 @@ Notes
 =====
 1. In other words, don't over-promise and under-deliver.
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

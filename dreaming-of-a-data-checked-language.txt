@@ -15,6 +15,8 @@ If Data Errors Were Spelling Errors
 ===================================
 You would be skeptical of National Geographic if their homepage looked like this:
 
+[Image Omitted]
+
 We generally expect zero spelling errors when reading any published material.
 
 Spell checking is now an effortless technology and everyone uses it. Published books, periodicals, websites, tweets, advertisements, product labels: we are accustomed to reading content at least 99% free of spelling and grammar errors. But there's no equivalent to a spell checker for data errors and when you look for them you see them everywhere.
@@ -42,6 +44,8 @@ For each source, I went to their website and took a single screenshot of their h
 
 Results
 =======
+
+[Image Omitted]
 
 In the screenshots above, you can see that 10/10 of these publications had data errors front and center.
 
@@ -160,4 +164,4 @@ Dataset Needed
 01/23/2020
 https://breckyunits.com/dataset-needed.html
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

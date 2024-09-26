@@ -11,6 +11,12 @@ Short of an extraterrestrial projectile hitting earth, Artificial Neural Network
 
 ANNs are made up of a vast number of assembled processors. These processors are not able to self replicate using readily available molecules in nature. Instead they are built in a limited number of fabs.
 
+[Image Omitted]
+ height 100
+ width 300
+ float right
+ I don't think autonomous AI becomes dangerous until this happens.
+
 Fabs are very complex and expensive factories with a building cost in the billions. They are not something you can easily hide. If given the order in the morning, the U. S. Military could probably knock out every fab in the world by evening. I would not be surprised if there is a team somewhere monitoring all the world's fabs and developing exactly that kind of option. Maybe China has a team like that too.
 
 So there is a very simple kill switch to prevent some emergent rogue superintelligent ANN. It is physically very easy for the powers that be to pause or reverse the growth of these things. And if turning growth off isn't enough they can also even knock out the data centers where the AIs run. Data centers also are easy for a superpower nation state to keep track of.
@@ -57,4 +63,4 @@ I have no conclusions yet. If I tried to reach conclusions on these ideas before
 ^after: After publishing I did a little googling and learned of the terms brainoid and brain-on-chip. Hard to say whether those will ever be useful to power AGI, but for personalized medicine it seems genius.
  https://www.mdpi.com/2079-6374/13/5/551 brainoid and brain-on-chip
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

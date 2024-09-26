@@ -24,6 +24,9 @@ In the present the race seems closer but if you project trends it is game over. 
 
 These weight models will contain submodels to communicate with us in words, at least for a time. But humans will not be able to keep up and understand what is going on. Our word models will seem as feeble to the AIs as a pet dog's model of the world seems to its owner.
 
+[Image Omitted]
+ Literacy has historically had a great ROI but its value in the future is questionable as artificial agents with weight brains will perform so much better than agents operating with word brains.
+
 Things we value today, like knowing the periodic table, or the names of capital cities, or biological pathways--word models to understand our world--will be irrelevant. The digital weight models will handle things with their own understanding of the world which will leave ours further and further in the dust. We are now in the early days where these models are still learning their weights from our words, but it won't be long before these agents "take it from here" and begin to learn everything on their own from scratch, and come up with arrangements of weights that far outperform our word based world models. Sure, the hybrid era where weight models work alongside humans with their word models will last for a time, but at some point the latter will become inconsequential agents in this world.
 
 Weights run the world
@@ -67,4 +70,4 @@ Related Reading
 - What Just Happened? (2018)
  https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/ What Just Happened? (2018)
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

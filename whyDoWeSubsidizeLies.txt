@@ -1,6 +1,8 @@
 Why do we subsidize lies?
 =========================
 
+[Image Omitted]
+
 February 14, 2024
 
 The color of the cup on my desk is black.
@@ -42,4 +44,4 @@ But here I shout into the void one more time, why do we think subsidizing lies i
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

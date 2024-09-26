@@ -8,7 +8,7 @@ The other day I wrote a post on How much Gas Americans use per day. The answer i
 
 400 million gallons is equal to:
 
-million cubic meters. 2.56 billion 20oz bottled waters. 400 million gallons of milk.
+1.5 million cubic meters. 2.56 billion 20oz bottled waters. 400 million gallons of milk.
 
 There are 1.3 quadrillion gallons of water in Lake Michigan. One quadrillion  equals 1,300 trillion. Or 1,300,000,000,000,000. If America had an oil supply of 1.3 quadrillion gallons, and consumed 400 million gallons per day, it would take 8,904 years for us to run out. If the world had an oil supply as big as lake Michigan it would last for 890 years.
 
@@ -23,4 +23,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081120162550/http://www.breckyunits.com/economics/2008/05/14/daily-gas-use-for-the-united-states-and-the-world/ Original post
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

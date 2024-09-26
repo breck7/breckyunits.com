@@ -98,6 +98,12 @@ Replies could be `replyWithYourReview@thewordbooks.com`.
 Appendix 2: My one-man protest against no-reply email addresses
 ===============================================================
 
+[Image Omitted]
+ My automated campaign against no reply email addresses. Anytime a company sends a message from a noreply address they get this as a response. I am aware of the irony.
+
+[Image Omitted]
+ Join the campaign against noreply email addresses!
+
 My Gmail filter
 ===============
 Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings > Filters > Import filters. Join the campaign to make email more human human again!
@@ -133,4 +139,4 @@ Learn more: https://breckyunits.com/replies-always-welcome.html
 
     
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

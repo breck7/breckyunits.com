@@ -1,6 +1,9 @@
 Manic Researchers Announce They Are Hours Away From Cure For Depression
 =======================================================================
 
+[Image Omitted]
+ The manic researchers confirmed that “absolutely nothing could stop [them]” from finding an immediate cure for depression.
+
 February 14, 2014
 
 BLOOMINGTON, IN - The Onion - Speaking loudly and quickly without any notable pauses, a team of manic researchers at Indiana University announced at a press conference Wednesday that they are mere hours away from a permanent cure for depression.
@@ -34,4 +37,4 @@ Gesturing toward a chalkboard full of illegible calculations and sketches, the t
 
 As of press time, however, each of the scientists had reportedly slumped to the ground in tears, saying all the research they had ever done was “completely worthless” and admitting that clinical depression is likely impossible to cure.
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

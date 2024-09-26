@@ -106,6 +106,9 @@ programB
   ai
    tn
 
+[Image Omitted]
+ A visualization of the nodes of the two programs above.
+
 Both programs are equivalent in that they both will return the same thing for the same input.
 
 ProgramA requires fifteen nodes while programB requires three nodes.
@@ -116,6 +119,10 @@ Hence, the programB is less complex by this measure, _given machineA and machine
 
 Atomic Components of Complexity
 ===============================
+
+[Image Omitted]
+ A visualization of the countable atomic units in PSC.
+ float right
 
 PSC has more atomic units to count beyond nodes.
 
@@ -276,4 +283,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

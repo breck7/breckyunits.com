@@ -6,12 +6,18 @@ February 3, 2024
 Approximately every eighteen months, I start transitioning from a low energy person to a high energy person. No substances or triggering events are at fault. It is a natural cycle, as inevitable as the tides.
  https://breckyunits.com/bipolarDisorder.html eighteen months
 
+[Image Omitted]
+ Your lifetime odds of getting hit by lightning are 1 in 15,000. Your lifetime odds of getting hit by a manic brain energy surge, like the one I was hit by here in 2022, are ~1 in 100. Like lightning strikes, brain energy surges can differ by orders of magnitude. You might just feel a slight shock, or you might become a very, very high energy person--temporarily. If you get hit by one large surge, you are likely to get hit again.
+
 Life is much easier as a high energy person. I leap out of bed in the morning and can easily handle the morning chores. Work is exciting, I excel at my job, and raise the level of energy among my coworkers. Exercise, healthy eating, and parenting are all easier.
 
 Life is much more fun as a high energy person. I have time and energy for family and friends, and make loads of new ones. Moments feel more joyous.
 
 Each transition is different. Sometimes the shift is gradual and mild. Sometimes it is more sudden and severe, like a power surge. The latter are hard to handle. It is like I wakeup to find myself on top of a bucking bull, and struggle to get this powerful force under control.
  https://breckyunits.com/hrSurge.jpg power surge
+
+[Image Omitted]
+ Me on top of a bull during a power surge. On a couple hour layover in NYC I left the airport, ran miles to Wall Street, got a picture on the bull, and made it back just in time for my flight.
 
 My New Reality
 ==============
@@ -155,4 +161,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

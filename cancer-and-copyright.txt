@@ -1,6 +1,9 @@
 Cancer and Copyright
 ====================
 
+[Image Omitted]
+ Logo stolen from the ugliest (best) logo of all cancer centers in the world: MDAnderson.
+
 October 4, 2022
 
 Every second your body makes 2.83 million new cells. If you studied _just one_ of those cells from a single human—sequencing all the DNA, RNA, and proteins, you would generate more data than can fit in Google, Microsoft, and Amazon's datacenters combined. *Cancer is an information problem*.
@@ -38,4 +41,4 @@ Finally, a grim reality: though we will save hundreds of lives a day if we aboli
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

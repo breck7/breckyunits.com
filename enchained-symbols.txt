@@ -5,6 +5,10 @@ April 28, 2023
 
 Enchained symbols are strictly worse than free symbols. Enchained symbols serve their owner first, not the reader.
 
+[Image Omitted]
+ I wish I could say that copyright is not intellectual slavery, but saying it is not would be a lie.
+  https://breckyunits.com/an-unpopular-phrase.html intellectual slavery
+
 *
 
 Be suspicious of those who enchain symbols. They want the symbols to serve them, not you.
@@ -45,4 +49,4 @@ No one who loves ideas would ever enchain them.
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

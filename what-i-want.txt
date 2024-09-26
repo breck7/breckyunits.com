@@ -39,8 +39,10 @@ Almost 2 years ago I made a dead simple mindmap of what I wanted. I think a mind
 
 I like to be mysterious and have something to talk about at parties, so I've gone ahead and erased most of the items, but you can get the idea:
 
+[Image Omitted]
+
 If you don't know what it is you want, try making a mindmap.
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

@@ -10,4 +10,4 @@ To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to th
 - Line 19 - comment out 'require 'jcode''
 - Line 233 - remove the colon
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

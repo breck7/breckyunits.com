@@ -1,6 +1,10 @@
 Integrity and Perseverance in Business ensure success (1853)
 ============================================================
 
+[Image Omitted]
+ A poster from the 1850's promoting Folsom's Mercantile College in Ohio. The poster includes a motto (which I boxed in green) that I think is great guidance: _Integrity and Perseverance in Business ensure success_. Image Source.
+  https://ohiomemory.org/digital/collection/p267401coll36/id/7636/rec/1 Image Source
+
 February 9, 2020
 
 In 1851 Ezekiel G. Folsom incorporated Folsom's Mercantile College in Ohio.
@@ -23,4 +27,4 @@ Richard Brhel of placepeep shared this quote the other day on StartupSchool. He 
  https://placepeep.com placepeep
  https://startupschool.org StartupSchool
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

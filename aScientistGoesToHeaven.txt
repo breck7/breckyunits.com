@@ -4,6 +4,8 @@ Three Scientists Go To Heaven
 by Breck Yunits
  https://breckyunits.com Breck Yunits
 
+[Image Omitted]
+
 Newton, Darwin, and a modern Scientist go to heaven.
 
 *
@@ -44,4 +46,4 @@ God asks to see his work.
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

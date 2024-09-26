@@ -5,6 +5,11 @@ October 7, 2022
 
 In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
 
+[Image Omitted]
+ width 300
+ Still makes me laugh.
+  https://www.youtube.com/watch?v=SgG63QYZaE0 Still makes me laugh.
+
 *
 
 Backstory
@@ -55,4 +60,7 @@ Notes
 
 - Thank you to everyone that helped with this big failure especially: Angel Bigunit Bluth Dti First Harvard Kones Qduke Suitcase Wellesley Wifi Windsock.
 
-Built with Scroll v135.0.0
+[Image Omitted]
+ Unfortunately this "angel round" was only $15K and I failed to raise any more money and the company went out of business. But I will say we did have the best business cards ever.
+
+Built with Scroll v136.0.0

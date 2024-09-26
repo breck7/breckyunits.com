@@ -20,6 +20,9 @@ In February 2020 I was living in Hawai'i with my family and witnessed society th
 I had been following the early stories about Covid with some concern, but after the first big data dump was published on February 17th, 2020, it seemed clear to me that Covid would not be a huge danger. Most importantly, the first data dump indicated strongly Covid was not a significant danger to children. Every additional large data dump from then on only reinforced the more mild view of Covid. Covid was not deadly for nearly everyone (awful flu like experience aside), except those who were also at risk of dying from the flu. Thus, it shocked me as society locked down increasingly harshly over the next two years. The precautionary principle is a fine argument that would have justified a strong response measured in weeks, but the duration of the response put this in the delusional category.
  https://twitter.com/breckyunits/status/1228117546974371840 first big data dump
 
+[Image Omitted]
+ It was easy to ballpark from the data what the disease would do. It was much harder to predict what society would do.
+
 Let's see how some of the things that unfolded meet the criteria of delusion as defined above.
 
 Years after this dataset came out, at least in Hawai'i, my 3 year old daughter was still being required to wear a mask outdoors due to the perceived threat of Covid to kids. This was a societal delusion. The theory was that Covid was a high, avoidable danger to kids (given the data, this was <1% true). Society (or at least, "leadership"), perceived this probability to be ~50x-100x higher than it actually was. Society took years to update their perceived probability. And society took actions (requiring masks, even outdoors; closing beaches, parks, and playgrounds; "vaccination" requirements; severe limits on social gatherings) based on this delusion.
@@ -88,4 +91,4 @@ Maybe the trick is to have some sympathy for the delusional agent. Probabilities
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

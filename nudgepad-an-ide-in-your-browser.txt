@@ -31,9 +31,13 @@ The solution
 ============
 Which is why we're building a third option. We are building an open source, general purpose IDE for building websites.
 
+[Image Omitted]
+
 Here's a short video demonstrating how it works:
 
 NudgePad is in early beta, but is powering a number of live websites  like these:
+
+[Image Omitted]
 
 Although we have a lot more to do to get to a stable version 2.0, we thought the time was right to start opening up NudgePad to more people and recruiting more help for the project. We also want to get feedback on the core ideas in NudgePad.
 
@@ -44,4 +48,4 @@ We truly believe this new way to build websites--an IDE in your browser-- is a f
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

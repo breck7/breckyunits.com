@@ -73,6 +73,8 @@ The system works with both computers or pen & paper.
 
 This system does require a user friendly Specification Language $L$ to define the semantics available to the Specification writer, which could be created and iterated on as an open standard.
 
+[Image Omitted]
+
 *
 
 The Golden Age of Forms
@@ -107,4 +109,4 @@ I hope by publishing these ideas others might be encouraged to start developing 
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

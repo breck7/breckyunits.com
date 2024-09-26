@@ -1,6 +1,8 @@
 Final Tree Notation Report
 ==========================
 
+[Image Omitted]
+
 April 2, 2024
 
 It has been over 3 years since I published the 2019 Tree Notation "Annual" Report. An update is long overdue. This is the second and _last_ report as I am officially concluding the Tree Notation project.
@@ -251,4 +253,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

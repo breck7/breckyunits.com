@@ -1,6 +1,11 @@
 One Textarea
 ============
 
+[Image Omitted]
+ Every single web form on earth can (and will) be represented in a single textarea as plain text with no visible syntax using Particle Syntax. Traditional forms can still be used as a secondary view. In this demo gif we see someone switching between one textarea and a traditional form to fill out an application to YCombinator. As this pattern catches on, the network effects will take over and conducting business on the web will become far faster and more user friendly (web 4.0?).
+  https://github.com/breck7/copypaster demo gif
+  https://particles.scroll.pub/ Particle Syntax
+
 > 9/5/2024: This is now live in Scroll! You can start using it now!
  https://scroll.pub/tests/form.html You can start using it now
 
@@ -39,4 +44,4 @@ If you're smart, honest and ambitious and you know the web stack boy oh boy is t
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

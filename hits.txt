@@ -2,6 +2,8 @@ High Impact Thoughts
 ====================
 May 20, 2024
 
+[Image Omitted]
+
 Leibniz thought of Binary Notation; Lovelace of Computers; Darwin of Evolution; Marconi of the Wireless Telegraph; Einstein of Relativity; Watson & Crick of the Double Helix; Tim Berners-Lee of the Web; Linus of Git.
 
 Even more importantly _to you_ and _to me_, at some point our mothers and fathers thought to have us.
@@ -143,4 +145,4 @@ https://breckyunits.com/orders-of-magnitude.html
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

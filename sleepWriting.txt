@@ -11,6 +11,10 @@ I now have a pretty big dataset to identify my secret trick to write more cringe
 
 For this post I combined 2,500 nights of sleep data with 58 blog posts. A 7 year experiment to see how sleep affects my writing.
 
+[Image Omitted]
+ Interactive version.
+  https://www.datawrapper.de/_/YsKWU/ Interactive version.
+
 ~7 Hours is the Cutoff
 ======================
 Most posts above 7 hours of sleep do not need a sleep disclaimer. Most posts below 7 hours do. Not to say there is no value in the posts made with under 7 hours of sleep, it's just less rigorous writing (and thinking). On the plus side, writing with little sleep can be more concise at times. It might exaggerate the key ideas, but nevertheless identify them fearlessly and concisely.
@@ -19,6 +23,8 @@ Interactive Table
 =================
 Static image of table above.
  https://breckyunits.com/seven-years-of-blog-posts-sorted-by-sleep.png Static image
+
+[Image Omitted]
 
 More Posts. Similar Word Counts. Higher Scatteredness. Similar IQ. Higher Confidence.
 =====================================================================================
@@ -62,4 +68,4 @@ I started wearing a Microsoft Band when it first came out in November 2014. Then
 
 ⁂
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0

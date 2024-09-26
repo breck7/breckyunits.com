@@ -13,6 +13,10 @@ The Only Way to Understand the Mind is to Build One
 
 Minsky had an extremely skeptical view of the fields of psychology and psychiatry. His approach to understand the mind was through attempting to build one. He conducted countless experiments to figure out the details, using crayfish claws, building the very first robots, and pioneering the field of software AI. The theories he developed from his play-like, bottom up, experimental approach I would personally bet will prove far more accurate and useful than all the theories from 20th century psychology and psychiatry combined.
 
+[Image Omitted]
+ A well known Richard Feynman quote is "What I cannot create I do not understand." I wonder if Feynman's friend Minsky inspired this quote.
+  https://www.youtube.com/watch?v=JKldGw7UXww friend
+
 Minsky mocked psychiatrists and the pharmaceutical industry with their chemical view of the brain. Imagine thinking you could fix a computer if you just adjusted the ratio of Copper-63 vs Copper-65 in the CPU. These people have no idea what they are doing or talking about, and Minsky called them on it. The thinking processes matter most, not the materials.
 
 The Basic Idea
@@ -85,4 +89,4 @@ Footnotes
 ^hawkins: A Thousand Brains by Jeff Hawkins is a recent interesting effort in this direction.
  https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/ A Thousand Brains
 
-Built with Scroll v135.0.0
+Built with Scroll v136.0.0
