@@ -3,6 +3,7 @@ buildHtml
 buildTxt
 date 04/01/2000
 title Why the Future Doesn't Need Us
+theme tufte
 
 metaTags
 printTitle
@@ -389,5 +390,5 @@ _Bill Joy, cofounder and Chief Scientist of Sun Microsystems, was cochair of the
 
 </div>
 
-printViewSource
-tufteCss
+viewSourceLink
+
