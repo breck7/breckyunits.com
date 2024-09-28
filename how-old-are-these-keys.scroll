@@ -6,7 +6,7 @@ header.scroll
 printTitle
 mediumColumns 1
 keyboard/screenshot.png
- link keyboard/index.html
+ keyboard/index.html
  caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
   link keyboard/index.html Try it yourself
 
@@ -14,7 +14,7 @@ One of the questions I often come back to is this: how much of our collective we
  dateline
 
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
- link keyboard/index.html interactive experiment
+ keyboard/index.html interactive experiment
 
 ***
 

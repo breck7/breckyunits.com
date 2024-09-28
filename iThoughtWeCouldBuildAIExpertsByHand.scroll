@@ -27,8 +27,8 @@ Computers ultimately operate on instructions of ones and zeroes, but those that 
 Over time, a common pattern emerged. In addition to everything being ones and zeroes at some point, at some point everything would also be digital "trees" (simple structures with nodes and branches). Binary Notation can minimally represent every concept in ones and zeroes, was there some minimal notation for the tree forms of concepts? And if there were, would that notation be mildly interesting, or somehow really powerful like Binary Notation?
 
 This is an idea I became obsessed with. I came across it by chance, when I was still a beginner programmer. I was trying to make a programming language as simple as possible and realized all I needed was enough syntax to represent trees. If you had that, you could represent anything. Eureka! I then spent years trying to figure out whether this minimal notation was mildly interesting or really useful. I tried to apply it to lots of problems to see if it solved anything.
- link show-hn-programming-is-now-two-dimensional.html Eureka
- link tree-notation-annual-report-2019.html lots of problems
+ show-hn-programming-is-now-two-dimensional.html Eureka
+ tree-notation-annual-report-2019.html lots of problems
 
 appleCell.png
  caption If your syntax can distinguish symbols and define scopes you can represent anything.
@@ -99,7 +99,7 @@ There was also no reason that The Book had to built as a monolith. Books could b
 With these insights I made a prototype called "TreeBase". I described it like so: "Unlike books or weakly typed content like Wikipedia, TreeBases are computable. They are like specialized little brains that you can build smart things out of."
 
 At first, because of the naive file based approach, it was slow and didn't scale. But lucky for me, a few years later Apple came out with much faster computers. Suddenly my prototype seemed like it might work.
- link building-a-treebase-with-6.5-million-files.html slow and didn't scale
+ building-a-treebase-with-6.5-million-files.html slow and didn't scale
 
 # The Prototype
 In the summer of 2022, I used TreeBase to to make "PLDB", a Programming Language DataBase. This site was an encyclopedia about programming languages. It was the biggest collection of data on programming languages, which was gathered over years by open source contributors and myself and reviewed by hand.

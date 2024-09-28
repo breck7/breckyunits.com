@@ -151,7 +151,7 @@ Footnotes²
 ^liberties: There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
 ^fun: Everyone^datasetNeeded agrees making datasets at home is extremely fun.
 ^datasetNeeded: Dataset needed.
- https://breckyunits.com/dataset-needed.html Dataset needed
+ dataset-needed.html Dataset needed
 
 Related Posts
 =============
@@ -170,4 +170,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v136.3.0
+Built with Scroll v136.4.0

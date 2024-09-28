@@ -5,7 +5,7 @@ title Narratives Misrepresent Complex Systems
 header.scroll
 printTitle
 
-thinColumns 2
+container 600px
 
 When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
  dateline

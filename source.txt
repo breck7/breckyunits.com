@@ -274,7 +274,7 @@
  
  center
  _Make something people want_ is weak advice.
-  link advice.html weak advice
+  advice.html weak advice
  _Make something people want_ is easy.
  
  ***
@@ -320,7 +320,7 @@
  I don't know of anyone who has left a mark on the world who had thin skin.
  
  Develop thick skin by constantly subjecting yourself to feedback and be grateful for it, even when it is delivered poorly. Harsh criticism is the crucible that forges strong ideas.
-  link assholes.html delivered poorly.
+  assholes.html delivered poorly.
  
  If you truly love your ideas you would publish them freely and never encumber them with patents or (c)opyrights. That would be like chaining up your children in the basement.
  
@@ -552,7 +552,7 @@
  HTML | TXT
   class scrollDateline
   style text-align: center;
-  link particleChain.html HTML
+  particleChain.html HTML
   link particleChain.txt TXT
  
  mediumColumns 1
@@ -1047,16 +1047,15 @@
  No one likes to be the asshole. I _hate_ it. It sucks. But an ounce of prevention is worth a pound of cure, and if you don't nip bad behavior in the bud, it grows.
  
  I do not advocate flipping the bit on people. I believe all people are mostly good, and all can learn to improve their behavior, but they require honest feedback to do that. It's also important to remember due to natural information assymetry, we are naturally biased to judge ourselves by our intentions but others by their actions. Often I give someone blunt feedback and they respond bluntly back correcting me because I was wrong! This is a great outcome that we would not have reached had I flipped the bit on them and not risked being an asshole.
-  link dont-flip-the-bozo-bit.html flipping the bit
+  dont-flip-the-bozo-bit.html flipping the bit
  
  ***
  
  # What am I trying to optimize for?
  
- 
+ center
  katex
   \min_{B, C}
- 
  
  We want to minimize bad behavior B while also minimizing time spent correcting bad behavior C. If that requires delivering a blunt hyperbolic zinger that risks getting you tagged with the label "asshole", I say go for it.
  
@@ -1234,7 +1233,7 @@
  HTML | TXT
   class scrollDateline
   style text-align: center;
-  link eta.html HTML
+  eta.html HTML
   link eta.txt TXT
  
  mediumColumns 1
@@ -1242,13 +1241,10 @@
  Are some intellectual environments better than others? Yes.
  
  br 2
- 
- 
+ center
  katex
   \text{E} = \text{T} / \text{A}!
- 
  plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
- 
  br 2
  
  ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
@@ -1282,12 +1278,11 @@
  - After feedback from Szymon Łukaszyk it became clear to me the more precise formula is:
   https://x.com/breckyunits/status/1814323549416652860 After feedback from Szymon Łukaszyk
  
- 
- 
+ br
+ center
  katex
   \sum_{A=0}^{A} A^A
- 
- 
+ br
  
  Luckily $A^A$ is still in the factorial class so the memorable acronym still applies.
   https://x.com/breckyunits/status/1814324339543789651 is still in the factorial class
@@ -1382,7 +1377,7 @@
  HTML | TXT
   class scrollDateline
   style text-align: center;
-  link intelligence.html HTML
+  intelligence.html HTML
   link intelligence.txt TXT
  
  mediumColumns 1
@@ -1391,12 +1386,11 @@
  
  br 2
  
- 
+ center
  katex
   {Intelligence}(P) = \frac{\text{Coverage}(P)}{\text{Size}(P)}
  
  plainTextOnly Intelligence(P) = Coverage(P) / Size(P)
- 
  br 2
  
  Program P is a bit vector that can make a bit vector (Predictions) that attempts to predict a bit vector of actual measurements (Nature).
@@ -1432,7 +1426,7 @@
  HTML | TXT
   class scrollDateline
   style text-align: center;
-  link ptcri.html HTML
+  ptcri.html HTML
   link ptcri.txt TXT
  
  printAuthors
@@ -1442,12 +1436,11 @@
  Yesterday, on a plane, I found an equation I sought for a decade.
   dateline
  
- 
- 
+ br
+ center
  katex
   P = {T^{C^R}}^I
- 
- 
+ br
  
  endSnippet
  
@@ -1470,7 +1463,7 @@
  ***
  
  59 days ago I announced the decade long Particles research endeavor over with a negative result.
-  link treeNotationFinalReport.html announced
+  treeNotationFinalReport.html announced
  
  It looks like I was wrong again. There was something special about Particles, and PTCRI explains what that is.
  
@@ -1479,7 +1472,7 @@
  _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Particles doesn't even have parentheses!_
  
  And yet, the experimental evidence kept piling up.
-  link scrollsets.html experimental evidence
+  scrollsets.html experimental evidence
  
  The evidence hinted at some important natural formula, and now we have a name for it: PTCRI.
  
@@ -1867,7 +1860,7 @@
  
  # Live examples of Patch
  - This blog
-  link search.html#q=patch
+  search.html#q=patch
  - PLDB
   https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog
  
@@ -2025,7 +2018,7 @@
  Pushing so many major versions was no big deal because Scroll was a toy.
  
  But Scroll now has a novel feature that makes it very useful.
-  link scrollsets.html novel feature
+  scrollsets.html novel feature
  
  I need to decide if I should ship fewer major versions with higher quality.
  
@@ -2381,7 +2374,7 @@
  HTML | TXT | PDF
   class scrollDateline
   style text-align: center;
-  link scrollsets.html HTML
+  scrollsets.html HTML
   link scrollsets.txt TXT
   link scrollsets.pdf PDF
  
@@ -2580,7 +2573,7 @@
  And since we were born, many people throughout our lives have had thoughts that had high positive impact on us.
  
  If you believe we live in a Power Law World, then it follows that there is nothing with higher expected value; nothing with more leverage; nothing with higher ROI; nothing with higher impact; than High Impact Thoughts (HITs).
-  link planets-and-pebbles.html Power Law World
+  planets-and-pebbles.html Power Law World
  
  HITs dominate both our professional and personal lives. Let's take a closer look.
  
@@ -2599,7 +2592,7 @@
  I have found it very hard to predict in advance what the impact of a HIT is going to be. I have to act on the HIT first.
  
  I am often off by many orders of magnitude. Sometimes I predict a thought is a surefire HIT but then after I act on it the predicted high impact is nowhere to be found. Instead the real impact is like that of a falling leaf.
-  link orders-of-magnitude.html orders of magnitude
+  orders-of-magnitude.html orders of magnitude
  
  Other times I see what seems like a small, mildly interesting idea, I act on it in minutes, and it impacts my life for decades.
  
@@ -2651,8 +2644,8 @@
  The most important thing is probably to setup your life so you can spend a substantial amount of time HIT Seeking. I like to aim for 2 - 4 hours per day.
  
  What does HIT Seeking look like? Walks in the woods, meals with friends, yoga, naps, long hot showers, quiet sitting, conversations with LLMs, drawing, playing in the sand with your kids, doing at home experiments. That sort of thing. The highest impact work often doesn't look like work.
-  link walking-as-a-tool-of-thought.html Walks
-  link datasets.html at home experiments
+  walking-as-a-tool-of-thought.html Walks
+  datasets.html at home experiments
  
  Ask a lot of questions. Really drill down into the details. Don't worry much about words. Mental models—being able to picture things in your head, and rotate them—that is what matters.
  
@@ -2705,7 +2698,7 @@
  # Startup Growth Rates
  
  You can categorize all startups into a handful of classes.
-  link bigOsKitchen.html handful of classes
+  bigOsKitchen.html handful of classes
  
  If you start a business washing clothes and your only equipment is a bathtub, you have a Log Business.
  
@@ -2838,7 +2831,7 @@
  Make sure you have a really strong mental model of the world and how your product fits into that.
  
  Your mental models should be your primary source of truth. Metrics should merely be automated tests that your models predict reality.
-  link datasets.html automated tests
+  datasets.html automated tests
  
  Don't think just because you've worked on something for a long time that at some point it has to hit PMF. Nature does not owe you PMF.
  
@@ -2851,7 +2844,7 @@
  Remember, things in the Quad and Expo classes *only* become Quad and Expo *over time*. So slow down, spend more time thinking about your models and less time looking at your metrics.
  
  Finally, always make sure you are getting enough sleep.
-  link sleepWriting.html getting enough sleep
+  sleepWriting.html getting enough sleep
  
  ***
  
@@ -2991,7 +2984,7 @@
  ***
  
  If you are implementing email for a company please know that there is _never_ a reason to use a no-reply email address--there is always a more user-friendly, more human way. 100% of the time.
-  link replies-always-welcome.html 100% of the time
+  replies-always-welcome.html 100% of the time
  
  Let's infuse the Internet with the intelligent design and warm hospitality of Izzy Sharpe's (real life) hotels.
   https://en.wikipedia.org/wiki/Isadore_Sharp Izzy Sharpe
@@ -3529,7 +3522,7 @@
   https://en.wikipedia.org/wiki/Ketosis ketosis
  
  The theory is that you can eat a keto diet to manage bipolar disorder.
-  link bipolarKeto.html keto diet to manage bipolar disorder
+  bipolarKeto.html keto diet to manage bipolar disorder
  
  ***
  
@@ -3544,7 +3537,7 @@
  I am six months into keto.
  
  A few times a week, I prick my finger to measure the ketones in my blood.
-  link ketonesVsLithium.html ketones in my blood
+  ketonesVsLithium.html ketones in my blood
  
  By my calculations, it will take 3 years before I know for sure if keto can control my energy.
  
@@ -3817,7 +3810,7 @@
   https://en.wikipedia.org/wiki/Test-driven_development Test Driven Development
  - You can only hold so many concepts in your head at once, so automated testing from datasets helps more the more complex the system.
  - Beware stories lacking datasets!
-  link dataset-needed.html
+  dataset-needed.html
  - Also beware stories that start with true datasets but then discreetly (but swiftly) switch to false ones.
  - Love data sharers, beware data misers.
  - An ounce of good data is worth a pound of bad models.
@@ -3878,7 +3871,7 @@
  ^liberties There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
  ^fun Everyone^datasetNeeded agrees making datasets at home is extremely fun.
  ^datasetNeeded Dataset needed.
-  link dataset-needed.html Dataset needed
+  dataset-needed.html Dataset needed
  
  // what is heat?
  // how does heat leave?
@@ -4414,8 +4407,8 @@
  treeNotationTimeline.png
  
  It has been over 3 years since I published the 2019 Tree Notation "Annual" Report. An update is long overdue. This is the second and _last_ report as I am officially concluding the Tree Notation project.
-  link tree-notation-annual-report-2019.html 2019 Tree Notation "Annual" Report
-  link treeNotation.html Tree Notation project
+  tree-notation-annual-report-2019.html 2019 Tree Notation "Annual" Report
+  treeNotation.html Tree Notation project
   dateline
  
  I am _deeply_ grateful to everyone who explored this idea with me. I believe it was worth exploring. Sometimes you think you may have discovered a new continent but it turns out to be just a small, mildly interesting island.
@@ -4452,11 +4445,11 @@
  
  # The Other Reason I liked Tree Notation
  LLMs have eliminated the primary pragmatic reason for working on Tree Notation research--they solved the program synthesis and cross domain collaboration problems. But I also enjoyed working on Tree Notation because it gave me an attack vector to try and crack knowledge in general. Now, however, I see a far better way to work on that latter problem.
-  link iThoughtWeCouldBuildAIExpertsByHand.html crack knowledge in general
+  iThoughtWeCouldBuildAIExpertsByHand.html crack knowledge in general
  
  # Future Explorations: 4D languages
  Looking back, I recognize I had a strong bias for words over weights. The mental resources I used to spend exploring Tree Notation I now use to explore 4D languages (with lots of 1D binary vectors for computation). Words are merely a tool for communicating thoughts. Thoughts compile to words and words decompile back to thoughts. I am now exploring the low level language of thought itself. Intelligence without words. The 4D language approach seems to be an orders of magnitude more direct route than Tree Notation to finding the answers I am looking for. I feel silly for taking so long to see a truth that an average ancient Greek citizen would probably know. But to err is human, I hear.
-  link wordsAreWorseThanWeights.html words over weights.
+  wordsAreWorseThanWeights.html words over weights.
  
  # Conclusion
  I called the first status update an "Annual Report", which was optimistic thinking. It took me years to get another one out. And it turns out this will be the last one.
@@ -4593,7 +4586,7 @@
  ***
  
  It does seem like the process of finding the right formula is not so hard, once the right data has been collected.
-  link datasets.html right data has been collected
+  datasets.html right data has been collected
  
  ***
  
@@ -4656,7 +4649,7 @@
  
  # A Brief Formal Discussion
  First I state the obvious, that open-mindedness, $OM$, is a measure of a mind, $M$. I will assume $M$ can be modeled as a society of agents, $A$, each occupying some neural space $N$. The formation of new $A$ in space $N$ is done by learning process $L$. Some $A$ can act as learning control agents and can act, with discretion, to block the $M$ from learning new agents.
-  link marvin-minsky.html a society of agents
+  marvin-minsky.html a society of agents
   // If that assumption is false, this essay is not likely to be true.
  
  The rest of this essay I'll spell out the full terms but stick to the list of concepts above.
@@ -4699,7 +4692,7 @@
  
  # Survival of the Stubborn Gene
  A stubborn strategy could often payoff. Imagine a mind has a 33% chance of surviving a choice. A closed mind will act fast and make a mistake 67% of the time. An open mind might spend significant time and resources and make the incorrect choice only 10% of the time. However, the open-minded survivor might be wrongly smug, as they wouldn't observe that 80% of the time they failed to make a choice at all, and if they could have observed the global multiverse they would have realized their open-minded strategy actually only survived 10% of the time, versus the closed-minded's 33%.
-  link the-many-worlds-law.html multiverse
+  the-many-worlds-law.html multiverse
  
  # Honesty
  It is easier for a mind to be open-minded to opposing ideas in a domain where there are few existing neural agents. It is harder to be open-minded in a domain with strongly established neural agents. Honesty requires being open to developing neural agents in opposition to existing agents in order to make a genuine judgement about which is better. Honesty can be hard because it sometimes involves not just superficially steel-manning an opposing idea, but being genuinely open-minded to letting that opposing idea take over a domain from existing agents, if it turns out to be a better idea after all.
@@ -4769,7 +4762,7 @@
  endSnippet
  
  I'm a big fan of Minsky's conceptual model of the mind as a society of agents. A collection of neurons wire together in a certain way to form low level and higher level "agents". You have "agents" for everything you've learned: walking, crawling, standing, hugging, riding a bike, driving, slicing vegetables, chopping wood, reciting the capitals of countries, computing derivatives, et cetera. (You have lower level agents as well, but I'll leave those out in this post). A human brain might contain millions of "agents". Technology is a long way away from being able to scan a brain and map out where every agent is located. However, I wondered if technology was close to being able to at least list all the agents in someone's brain? How close are we to being able to make a map of someone's mind, identifying the "agents" in their mind along with the "strength" of those agents?
-  link marvin-minsky.html Minsky's conceptual model of the mind
+  marvin-minsky.html Minsky's conceptual model of the mind
  
  Last year I was at a hackathon and had about 10 hours to make something utilizing AI, so that's what I tried to do.
  
@@ -4821,8 +4814,8 @@
  # My (failed) attempt
  My attempt to solve the problem of Synthesizing Knowledge was TrueBase, where large amounts of Cells with large numbers of Connections could be put into place under human expert review. But ChatGPT, launched in November 2022, demonstrated that huge neural networks, through training matrices of weights, are an incredibly powerful way to Synthesize Knowledge. My approach was worse. Words are worse than weights.
   https://github.com/breck7/truebase TrueBase
-  link iThoughtWeCouldBuildAIExpertsByHand.html My approach was worse
-  link wordsAreWorseThanWeights.html Words are worse than weights.
+  iThoughtWeCouldBuildAIExpertsByHand.html My approach was worse
+  wordsAreWorseThanWeights.html Words are worse than weights.
  
  # Expanding Knowledge
  There are many Questions where the best Answers, even after synthesizing all human knowledge, are still far from Optimal. Identifying the best data to gather next to get closer to Optimal Answers to those Questions is the next problem after synthesizing knowledge.
@@ -4844,11 +4837,11 @@
  
  A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
   https://www.metabolicmind.org research effort
-  link bipolarKeto.html writing about it
+  bipolarKeto.html writing about it
   dateline
  
  Today I want to explore a model of bipolar disorder that I've wondered about for a few years, after reading about Marvin Minsky's "Society of Mind" model of the brain. In the model I explore today, mania and depression are not the result of a chemical imbalance, nor the result of a metabolic disorder, but instead are two neural circuits that are learned over time and persist in the brain, whether active or not, like learned skills. This post explores the brain pilot model of bipolar disorder.
-  link marvin-minsky.html Marvin Minsky's "Society of Mind" model of the brain
+  marvin-minsky.html Marvin Minsky's "Society of Mind" model of the brain
  
  endSnippet
  
@@ -4862,7 +4855,7 @@
  
  ## Brain Pilots
  The circuits at the highest level, the ones that you might say experience consciousness, I call brain pilots. Brain pilots are neural circuits that compete against each other for root level control of a brain. You might say the brain pilot in control is the one that experiences consciousness. To a brain pilot, the well being of their host is not the primary measure of success. Instead, the primary measure of success is how long that brain pilot is in control.
-  link brain-pilots.html brain pilots
+  brain-pilots.html brain pilots
  
  # Learning how to mania
  Children learn to crawl without knowing what they are doing. In learning to crawl, a circuit in the child's brain experiments with various combinations of contractions and relaxations of legs and arms. So it may be with learning to go manic.
@@ -4960,7 +4953,7 @@
  ***
  
  As far as I can tell, this is exactly what copyright does.
-  link a-mathematical-model-of-copyright.html what copyright does
+  a-mathematical-model-of-copyright.html what copyright does
  
  The further from fact a work goes, the more its artificial subsidy.
  
@@ -5000,7 +4993,7 @@
  This means that the person's brain has a neural weight wiring that not only can generate the phrase _X_ and synonyms of _X_, but the wiring is strong enough to guide their actions. Those actions might include not only motor actions, but internal trainings of other neural wirings.
  
  However, just because a person is said to believe _X_, does not mean their actions will always adhere to the policy of _X_. That is because of brain pilot switching. The probability that any neural wiring will always be active and in control is always less than 1.
-  link brain-pilots.html brain pilot switching
+  brain-pilots.html brain pilot switching
  
  The strength of a belief is how often that neural wiring is active and guiding behavior and also a function of the number of other possible brain pilots in the population.
  
@@ -5023,7 +5016,7 @@
  mediumColumns 1
  
  It is estimated 2% of the population is bipolar. Sunday I explored: what if that was 98%? And today I explore, why isn't it 0%?
-  link stableMoodDisorder.html what if that was 98%
+  stableMoodDisorder.html what if that was 98%
   dateline
  // Big subject for future posts: is it really 2%? Toward an objective automatic measurement of BP.
  
@@ -5173,7 +5166,7 @@
  
  # A 98% Bipolar, 2% Stable World
  In this alternate universe, nearly everyone experiences order of magnitude cyclical energy shifts. Society evolved very differently.
-  link orders-of-magnitude.html order of magnitude
+  orders-of-magnitude.html order of magnitude
  
  ## Work
  There are no long term companies--all work is project based.
@@ -5208,7 +5201,7 @@
  Risk taking is celebrated. Life expectancy is be shorter, but people experience more by an earlier age.
  
  Age is talked about not by how many orbits you had made it around the sun, but how many energy cycles you went through. For some people this is the same number; some are on their 50th energy cycle by age 30; others are only on energy cycle 20 at age 30. You don't talk about your "10th grade experience", but instead talk about your "10th energy cycle".
-  link orbits.html orbits
+  orbits.html orbits
  
  # Stable Mood Disorder
  This world operates differently, but smoothly. However, in a world that values the highs and lows of big energy cycles, around 2% of the population struggles to fit in. They are diagnosed with "Stable Mood Disorder". All jobs are designed for people who are in a high energy state. People with Stable Mood Disorder struggle to match the intensity of their coworkers. To them, work projects don't seem so urgent, and they wish they could have less extreme lifestyle options.
@@ -5233,7 +5226,7 @@
  
  Approximately every eighteen months, I start transitioning from a low energy person to a high energy person. No substances or triggering events are at fault. It is a natural cycle, as inevitable as the tides.
   dateline
-  link bipolarDisorder.html eighteen months
+  bipolarDisorder.html eighteen months
  
  powerSurge.png
   caption Your lifetime odds of getting hit by lightning are 1 in 15,000. Your lifetime odds of getting hit by a manic brain energy surge, like the one I was hit by here in 2022, are ~1 in 100. Like lightning strikes, brain energy surges can differ by orders of magnitude. You might just feel a slight shock, or you might become a very, very high energy person--temporarily. If you get hit by one large surge, you are likely to get hit again.
@@ -5373,66 +5366,7 @@
  
  Let's see how some of the things that unfolded meet the criteria of delusion as defined above.
  
- Years after this dataset came out, at least in Hawai'i, my 3 year old daughter was still being required to wear a mask outdoors due to the perceived threat of Covid to kids. This was a societal delusion. The theory was that Covid was a high, avoidable danger to kids (given the data, this was 
- 
- # Part 1: The world
- 
- ### The world
- katex W
- The world $W$ contains observers who can make point-in-time observations $O_t$^terms of $W$.
- 
- ### Ideas
- katex I: f(O_{t_1}, t_\Delta) → O_{{t_1}+{t_\Delta}}
- An idea $I$ is a function that given input observations at time $t_1$ can generate expected observations at time ${t_1}+{t_\Delta}$.
- 
- ### Thinkers
- katex T
- A thinker^communicators $T$ can store ideas $I$ in $T$.
- 
- ### Skillsets
- katex S
- A skillset $S$ is the set of $\set{I_i, \mathellipsis, I_n}$ embedded in $T$.
- 
- ### Idea Creation
- katex \alpha: f(S, O, t) → I_{new}
- A thinker can generate a new idea $I_{new}$ from its current skillset $S$ and new observations $O$ in time $t$.
- 
- ### Value
- katex V: f(I, O_{predictions}, O_{actual}) → \sum{(O_{actual} - O_{prediction})}^2
- An idea $I$ can be valued by a function $V$ which measures the accuracy of all of the predictions produced by the idea $O_{{t_1}+{t_2}}$ against the actual observations of the world $W$ at time ${}_{{t_1}+{t_2}}$. Idea $I_i$ is more valuable than idea $I_j$ if it produces more accurate observations holding the size of $|I|$ constant.
- 
- ### Fictions
- katex F
- A fiction^artists $F$ is an $I$ that does not accurately model $W$.
- 
- ### Messages
- katex M
- Thinkers can communicate $I$ to other thinkers by encoding $I$ into messages $M_I$.
- 
- ### Signal
- katex \Omega: \frac{\sum{V(I)}}{|M|}
- The Signal $\Omega$ of a message is the value of its ideas divided by the size of the message.
- 
- ### Fashions
- katex Z
- A fashion $Z_{M_I}$ is a different encoding of the same idea $I$.
- 
- ### Teachers
- katex \tau
- A teacher is a $T$ who communicates messages $M$ to other $T$. A thinker $T$ has access to a supply of teachers $\tau$ within geographic radius $r$ so that $\tau = \set{T|T 
- 
- # Part 2: Adding copyright to the model
- 
- ### Masters
- katex \Psi
- A master $\Psi$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{\Psi}$.
- 
- ### Royalties
- katex R
- A royalty $R$ is a payment from $T$ to $\Psi$ for a permission on $A^\Psi$.
- 
- ### Permission Function
- katex P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t -1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
+ Years after this dataset came out, at least in Hawai'i, my 3 year old daughter was still being required to wear a mask outdoors due to the perceived threat of Covid to kids. This was a societal delusion. The theory was that Covid was a high, avoidable danger to kids (given the data, this was -1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
  
  ### Classes
  katex
@@ -5449,8 +5383,6 @@
  ### Advertising
  katex \varLambda: f(A_i, A_j^\Psi) → A_{ij}
  Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
- 
- 
  
  # Part 3: Predicted effects of copyright
  
@@ -5527,7 +5459,7 @@
  katex \Downarrow T_{R-}
  We should expect the Non-Royal Class $T_{R-}$ to pay an increasing amount of $R$, deal with an increasing amount of noise from ${Z + F + K}$, and have increasingly lower skillsets $\overline{S}$.
  
- 
+ br
  
  # Conclusions
  
@@ -5572,7 +5504,7 @@
  
  # Why is walking so effective?
  My bet is it has something to do with neural agents.
-  link marvin-minsky.html neural agents
+  marvin-minsky.html neural agents
  
  ### Fatigue Theory
  Perhaps it's a muscle fatigue phenomena. When you are working on an idea a few _active agents_ in your brain have control. Those agents consist largely of neurons. Perhaps thousands of cells, perhaps many millions. Cells consume energy and create waste products. Perhaps like a muscle, the active agents become fatigued. Going for a walk hands control to other neural agents which allows the previously active agents to recuperate. After they are rested, they have a much better shot at solving the next piece of the puzzle.
@@ -5594,7 +5526,7 @@
  
  # On Mentors Inside Your Head
  Marvin Minsky mentions how he has "copies" of some of his friends inside his head, like the great Dick Feynman. Sometimes he would write an idea out and then "hear" Feynman say "What experiment would you do to test this?".
-  link marvin-minsky.html Marvin Minsky
+  marvin-minsky.html Marvin Minsky
   https://en.wikipedia.org/wiki/Richard_Feynman Dick Feynman
  
  When I stop to think, I realize I have some friends whose voices I can hear in my head. Friends who have a great habit of asking the probing questions, finding and speaking the best challenge, helping me do my best work.
@@ -6338,21 +6270,21 @@
  ***
  
  Copyright laws are intellectual slavery, and slow down our cancer researchers and healthcare workers to crawling speed. *Because of our expanding copyright laws, our information tools are far too slow and as a result our cancer survival rates haven't budged in a century*.
-  link an-unpopular-phrase.html intellectual slavery
+  an-unpopular-phrase.html intellectual slavery
  
  Bad ideas survive *far* too long before evolving into good ideas in an information environment with copyright.
-  link eta.html evolving into good ideas
+  eta.html evolving into good ideas
  
  ***
  
  We can either cure cancer or have copyright laws. We cannot do both. Mitosis is too fast and *we need our information tools to be much, much faster*. We need them to be orders of magnitude faster.
-  link how-the-public-domain-can-win.html faster
-  link orders-of-magnitude.html orders of magnitude
+  how-the-public-domain-can-win.html faster
+  orders-of-magnitude.html orders of magnitude
  
  ***
  
  I can confidently make a prediction: *if we pass an amendment ending copyright laws, we will see cancer fatality rates in the United States plummet by 50% within 2 years*. I am willing to bet my entire net worth on this.
-  link ifa.html amendment
+  ifa.html amendment
   hoverNote entire net worth
    I am a bad bettor because I'm often wrong on timing—so let me be clear by "my entire net worth" I only refer to 50% of our family's assets—if I were to lose the bet I hope my wife will be my sugarmama.
  
@@ -6970,7 +6902,7 @@
   italics a lot
   bold with
   underline aftertext
-  link https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
+  https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
  aboveAsCode
  
  The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
@@ -7753,7 +7685,7 @@
   dateline
  
  (If you are new to this issues, you might be more interested in my other posts on Intellectual Freedom)
-  link freedom.html Intellectual Freedom
+  freedom.html Intellectual Freedom
  
  ***
  
@@ -7792,7 +7724,7 @@
  It would be intellectually dishonest of me to say that.
  
  But I am highly confident it would be a huge improvement based on empirical evidence and theoretical math.
-  link eta.html theoretical math
+  eta.html theoretical math
   https://cds.cern.ch/record/1164399/ empirical evidence
  
  It would take a lot of thought to do it right, but I know we could pull the transition off without as much disruption as people fear.
@@ -7923,7 +7855,7 @@
  ## Example
  
  In 2009 I wrote:
-  link twelve-tips-to-master-programming-faster.html I wrote
+  twelve-tips-to-master-programming-faster.html I wrote
  
  > 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
  
@@ -9009,7 +8941,7 @@
   dateline
  
  In 2017 I wrote a post about a half-baked idea I named Particles.
-  link show-hn-programming-is-now-two-dimensional.html post
+  show-hn-programming-is-now-two-dimensional.html post
   https://treenotation.org Particles
  
  Since then, thanks to the help of a lot of people who have provided feedback, criticism and guidance, a lot of progress has been made flushing out the idea. I thought it might be helpful to provide an annual report on the status of the research until, as I stated in my earlier post, I "have data definitively showing that Tree Notation is useful, or alternatively, to explain why it is sub-optimal and why we need more complex syntax."
@@ -9385,7 +9317,7 @@
  printTitle
  mediumColumns 1
  keyboard/screenshot.png
-  link keyboard/index.html
+  keyboard/index.html
   caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
    link keyboard/index.html Try it yourself
  
@@ -9393,7 +9325,7 @@
   dateline
  
  I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
-  link keyboard/index.html interactive experiment
+  keyboard/index.html interactive experiment
  
  ***
  
@@ -10321,7 +10253,7 @@
  # Notes
  ^enough Dataset Needed.
  - Thanks to Denny for helping me refine my thinking from this earlier post.
-  link dreaming-of-a-data-checked-language.html earlier post
+  dreaming-of-a-data-checked-language.html earlier post
  
  # Related Posts
  printRelated ScrollSets
@@ -10520,13 +10452,17 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 600px
  
- I often rail against narratives. I think stories always oversimplify things, have hindsight bias, and often mislead. I spend a lot of time trying to invent tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain). And yet, as much as I rail on stories, I have to admit stories work.
-  https://breckyunits.com/narratives-misrepresent-complex-systems.html rail
-  https://breckyunits.com/english-cannot-encode-real-news.html against
-  https://breckyunits.com/dreaming-of-a-data-checked-language.html narratives
+ I often rail against narratives. Stories always oversimplify things, have hindsight bias, and often mislead.
+  narratives-misrepresent-complex-systems.html rail
+  english-cannot-encode-real-news.html against
+  dreaming-of-a-data-checked-language.html narratives
   dateline
+ 
+ I spend a lot of time inventing tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain).
+ 
+ And yet, as much as I rail on stories, I have to admit: *stories work*.
  
  I read an article that put it more succinctly:
  
@@ -10534,13 +10470,23 @@
   Why storytelling?
   Simple: nothing else works.
  
- endSnippet
+ ***
  
- I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. Stories make people feel something. They get people going.
+ I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. 
  
- What is the math here? On a population level, it seems people who follow stories have a survival advantage. On a local level, it seems people who can weave stories have an even greater survival advantage.
+ Stories make people feel something. They get people going.
+ 
+ ***
+ 
+ What is the math here?
+ 
+ On a population level, it seems people who follow stories have a survival advantage.
+ 
+ On a local level, it seems people who can weave stories have an even greater survival advantage.
  
  Why?
+ 
+ ***
  
  Perhaps it's due to risk taking. Perhaps the people who follow stories take more risks, on average, than people who don't, and even though many of those don't pan out some of those risks do pay off and the average is worth it.
  
@@ -10573,7 +10519,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 600px
  
  * Speling errors and errors grammar are nearly extinct in published content. *Data errors*, however, are prolific.
   dateline
@@ -10744,7 +10690,8 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ 
+ container 600px
  
  # The Attempt to Capture Truth
  
@@ -11112,7 +11059,7 @@
  One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
  
  In this paper I add to the pile, and propose using Particles as a tool for counting complexity.
-  link treenotationPaper.html Particles
+  treenotationPaper.html Particles
  
  ***
  
@@ -11121,7 +11068,7 @@
  
  1. It is assumed that all ideas are graphs that can be sliced into tree structures.
  2. Given the assumption that all structures can be represented as trees, we can then use Particles, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
-  link aGrammarNotationForTreeLanguages.html grammar
+  aGrammarNotationForTreeLanguages.html grammar
  3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
  4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
  5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
@@ -11482,7 +11429,7 @@
  ***
  
  I always wanted to try my hand at writing an academic paper. So I put the announcement in a 2-page paper on GitHub and arxiv. The paper is titled Tree Notation: an antifragile program notation. I've since been informed that I should stick to writing blog posts and code and not academic papers, which is probably good advice :).
-  link treenotationPaper.html Tree Notation: an antifragile program notation
+  treenotationPaper.html Tree Notation: an antifragile program notation
  
  ****
  
@@ -12469,7 +12416,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 600px
  
  When I was a kid I loved reading the Family Circus. My favorite strips were the "dotted lines" ones, which showed Billy's movements over time:
   dateline
@@ -13265,7 +13212,7 @@
  thinColumns 1
  
  * _Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintest understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
-  link whats-linear-algebra.html Linear Algebra
+  whats-linear-algebra.html Linear Algebra
   dateline
  
  My question is: *how are the brain's resources allocated for its different tasks?*
@@ -13374,7 +13321,7 @@
  - US Census Bureau Historical Stats
   https://census.gov/ipc/www/worldhis.html
  - Human population by year rough approximation
-  link population.html
+  population.html
  - NationMaster.com
   https://nationmaster.com
  
@@ -13592,7 +13539,7 @@
  
  A year ago I wrote a post titled The Truth about Web Design where I briefly argued that "design doesn't matter a whole lot."
   dateline
-  link the-truth-about-web-design.html The Truth about Web Design
+  the-truth-about-web-design.html The Truth about Web Design
  
  My argument was: "you go to a website for the utility of it. Design is far secondary. There are plenty of prettier things to look at in the real world."
  
@@ -14304,7 +14251,7 @@
  
  1. *Say the hard things*. Often the hardest things to talk about are the most important things to talk about. If something is stressing you out, _just say it_. Getting it out there, even if not in the most eloquent way, is much better than not talking about it at all. A good strategy when approaching a hard subject is to bounce your approach off a neutral 3rd party to see if your angle is smart. Many times it's the other person who has something they're stressed about but isn't talking about. It's your job to be perceptive and ask them questions to get it out on the table.
  2. *Repeat yourself*. People have bad memories and even worse attention spans. Repeat yourself. If something is very important, repeat yourself multiple times. If someone hasn't gotten the message, it's more likely your fault for not repeating yourself enough than it is their fault for not getting it.
-  link with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html Repeat yourself
+  with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html Repeat yourself
  3. *Use tools*. Email, Facebook, Google Wave, Basecamp, Skype, Gchat, Dropbox, Github, Sifter...these are just a sample of the modern tools you can use to communicate. Embrace them. Try different ones. Try pen and paper and whiteboards. Ideally you'll find two or three tools that cover all the bases, but don't be afraid to use multiple tools even if you have to repeat yourself across them a bit.
  4. *Set a regular schedule*. Set aside a recurring time for communication. It could be once a week or once a day. Even if there's nothing new to talk about, it will help to just go over the important topics again as you can rarely repeat yourself too much.
  
@@ -14745,7 +14692,7 @@
  There are 4 main benefits to diversify:
  
  1. *Better odds*. Creating multiple products increases the odds of finding a great idea in a great market. The Internet provides very fast feedback about whether you've found one. After building your team, the next big thing to decide is what product to focus on. You should not choose one until you're built a product you're excited about and found product/market fit. You've found product/market fit when about 40% of your customers think your product is a must have.
-  link /make-something-40-of-your-customers-must-have.html product/market fit
+  /make-something-40-of-your-customers-must-have.html product/market fit
  2. *Builds individual skills*. Entrepreneurs need broad skillsets. Trying multiple products forces you to learn new skills. You may build a consumer video site and improve your technical scaling skills while at the same time be trying a B2B site and improving your sales skills.
  3. *Builds team skills*. Doing multiple products gives you plenty of opportunities to interact with your team in varied situations. You'll learn faster what your teammates' strengths and weaknesses are. You'll also be forced to improve your team communication, coordination, delegation and product management skills.
  4. *It's fun*. Let's be honest, the early stages of working on a new problem or idea are oftentimes the most stimulating and exciting. Instead of focusing on one product day in and day out that might or might not work, trying multiple ideas keeps your brain going and your enthusiasm high.
@@ -15032,7 +14979,7 @@
  External links--links from domains other than your own--are most important. For external links, focus on 3 things, again listed in order of importance:
  
  1. Quality. A link from CNN.com is worth order(s) of magnitude more than a link from my blog. A link from a related source, like from ESPN.com to a sports blog, would likely be better than from an unrelated source.
-  link orders-of-magnitude.html order(s) of magnitude
+  orders-of-magnitude.html order(s) of magnitude
  
  2. Quantity. Even though quality is most important, a lot of inbound links help.
  

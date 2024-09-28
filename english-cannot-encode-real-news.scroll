@@ -4,7 +4,8 @@ title English cannot encode Real News
 
 header.scroll
 printTitle
-thinColumns 2
+
+container 600px
 
 # The Attempt to Capture Truth
 

@@ -356,7 +356,7 @@ I was thrilled to find this information on Wikipedia, but still it seemed like a
  https://hmdb.ca/about team
 
 Finally I had enough raw material to start building my first structured, clean, tabular dataset to answer my question. It was a bit of data cleaning grunt work, and v1 is pretty ugly and I'm sure is packed with loads of errors, but finally I had a dataset of the reference levels for around 240 chemicals found in human blood.
- link ketones/chemicalBloodTests.html dataset of the reference levels for around 240 chemicals found in human blood
+ ketones/chemicalBloodTests.html dataset of the reference levels for around 240 chemicals found in human blood
 
 // CAUTION!!!! This dataset could be SEVERELY WRONG! I need to spend more time with it, and ideally run it by some smart people in this domain who can spot check/sanity check it.
 

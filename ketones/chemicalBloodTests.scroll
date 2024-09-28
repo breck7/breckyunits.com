@@ -6,7 +6,7 @@ viewSourceBaseUrl https://github.com/breck7/breckyunits.com/blob/main/ketones
 metaTags
 ../gazetteTag.scroll
 homeButton
- link ../index.html
+ ../index.html
 viewSourceButton
 
 wideColumns 1
@@ -18,7 +18,7 @@ printViewSource
 This file generates a TSV dataset of blood chemistry tests. I created it for the blog post "Ketones vs Lithium".
  link chemicalBloodTests.tsv TSV
  link chemicalBloodTests.scroll This file
- link ../ketonesVsLithium.html Ketones vs Lithium
+ ../ketonesVsLithium.html Ketones vs Lithium
 
 It is specific to blood chemistry tests. So there are no urine tests. And it is not about blood cell tests. And it does not gain blood gas tests. Generally it is a collection of information on levels of chemicals in blood plasma.
 

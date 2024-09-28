@@ -5,7 +5,7 @@ settings.scroll
 metaTags
 theme gazette
 homeButton
- link /index.html
+ /index.html
 viewSourceButton
 
 printTitle

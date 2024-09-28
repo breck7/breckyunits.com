@@ -11,7 +11,6 @@ HTML | TXT
 Are some intellectual environments better than others? Yes.
 
 \text{E} = \text{T} / \text{A}!
-
 EvolutionTime(I) = Time(I') / AssemblyPool!
 
 ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
@@ -60,4 +59,4 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
  https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
 
-Built with Scroll v136.3.0
+Built with Scroll v136.4.0

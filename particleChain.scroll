@@ -13,7 +13,7 @@ printDate
 HTML | TXT
  class scrollDateline
  style text-align: center;
- link particleChain.html HTML
+ particleChain.html HTML
  link particleChain.txt TXT
 
 mediumColumns 1

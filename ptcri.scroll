@@ -9,7 +9,7 @@ printTitle
 HTML | TXT
  class scrollDateline
  style text-align: center;
- link ptcri.html HTML
+ ptcri.html HTML
  link ptcri.txt TXT
 
 printAuthors
@@ -19,12 +19,11 @@ mediumColumns 1
 Yesterday, on a plane, I found an equation I sought for a decade.
  dateline
 
-<br>
-<center>
+br
+center
 katex
  P = {T^{C^R}}^I
-</center>
-<br>
+br
 
 endSnippet
 
@@ -47,7 +46,7 @@ PTCRI also explains why _nearly_ flat structures work so well: a little nesting 
 ***
 
 59 days ago I announced the decade long Particles research endeavor over with a negative result.
- link treeNotationFinalReport.html announced
+ treeNotationFinalReport.html announced
 
 It looks like I was wrong again. There was something special about Particles, and PTCRI explains what that is.
 
@@ -56,7 +55,7 @@ It looks like I was wrong again. There was something special about Particles, an
 _It shouldn't be possible to represent all programs in all programming language with such a minimal set of rules! Particles doesn't even have parentheses!_
 
 And yet, the experimental evidence kept piling up.
- link scrollsets.html experimental evidence
+ scrollsets.html experimental evidence
 
 The evidence hinted at some important natural formula, and now we have a name for it: PTCRI.
 

@@ -5,13 +5,17 @@ title If stories are lies why do they work?
 header.scroll
 printTitle
 
-thinColumns 2
+container 600px
 
-I often rail against narratives. I think stories always oversimplify things, have hindsight bias, and often mislead. I spend a lot of time trying to invent tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain). And yet, as much as I rail on stories, I have to admit stories work.
- https://breckyunits.com/narratives-misrepresent-complex-systems.html rail
- https://breckyunits.com/english-cannot-encode-real-news.html against
- https://breckyunits.com/dreaming-of-a-data-checked-language.html narratives
+I often rail against narratives. Stories always oversimplify things, have hindsight bias, and often mislead.
+ narratives-misrepresent-complex-systems.html rail
+ english-cannot-encode-real-news.html against
+ dreaming-of-a-data-checked-language.html narratives
  dateline
+
+I spend a lot of time inventing tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain).
+
+And yet, as much as I rail on stories, I have to admit: *stories work*.
 
 I read an article that put it more succinctly:
 
@@ -19,13 +23,23 @@ quote
  Why storytelling?
  Simple: nothing else works.
 
-endSnippet
+***
 
-I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. Stories make people feel something. They get people going.
+I would agree with that. Despite the fact that 90% of stories are lies, they motivate people better than anything else. 
 
-What is the math here? On a population level, it seems people who follow stories have a survival advantage. On a local level, it seems people who can weave stories have an even greater survival advantage.
+Stories make people feel something. They get people going.
+
+***
+
+What is the math here?
+
+On a population level, it seems people who follow stories have a survival advantage.
+
+On a local level, it seems people who can weave stories have an even greater survival advantage.
 
 Why?
+
+***
 
 Perhaps it's due to risk taking. Perhaps the people who follow stories take more risks, on average, than people who don't, and even though many of those don't pan out some of those risks do pay off and the average is worth it.
 
