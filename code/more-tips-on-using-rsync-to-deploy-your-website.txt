@@ -29,4 +29,4 @@ The options that I've found come in real handy are:
 - 1. The i option, which shows you why a file is being copied (all pluses means rsync thinks it doesn't exist in the destination; t means the times differ; s means the contents differ (?)).
 - 2. The --modify-window=1 option. This lets you ignore differences in modified timestamps. You can set 1 to a high number to ignore large differences.
 
-Built with Scroll v136.0.0
+Built with Scroll v136.3.0
