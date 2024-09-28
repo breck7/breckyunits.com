@@ -6,7 +6,7 @@ title Use sed to find and replace
 pageHeader.scroll
 
 `grep` is to find what `sed` is to replace.
- link use-grep-to-search-multiple-files-at-once.html grep
+ use-grep-to-search-multiple-files-at-once.html grep
 
 Say you noticed a few typos in a file. Say you typed imposible instead of impossible a few times in a file named "stuff.txt".
 

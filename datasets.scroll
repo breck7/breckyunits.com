@@ -109,7 +109,7 @@ And now I have a dataset to test all future models against.
  https://en.wikipedia.org/wiki/Test-driven_development Test Driven Development
 - You can only hold so many concepts in your head at once, so automated testing from datasets helps more the more complex the system.
 - Beware stories lacking datasets!
- link dataset-needed.html
+ dataset-needed.html
 - Also beware stories that start with true datasets but then discreetly (but swiftly) switch to false ones.
 - Love data sharers, beware data misers.
 - An ounce of good data is worth a pound of bad models.
@@ -170,7 +170,7 @@ br 2
 ^liberties There was no cousin, nor work conference, nor trips to HomeGoods, I used water and not coffee, and I exaggerated my ignorance and false models. The data and analysis is real.
 ^fun Everyone^datasetNeeded agrees making datasets at home is extremely fun.
 ^datasetNeeded Dataset needed.
- link dataset-needed.html Dataset needed
+ dataset-needed.html Dataset needed
 
 // what is heat?
 // how does heat leave?

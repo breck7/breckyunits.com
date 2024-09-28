@@ -11,7 +11,7 @@ printDate
 HTML | TXT
  class scrollDateline
  style text-align: center;
- link eta.html HTML
+ eta.html HTML
  link eta.txt TXT
 
 mediumColumns 1
@@ -19,13 +19,10 @@ mediumColumns 1
 Are some intellectual environments better than others? Yes.
 
 br 2
-<center>
-
+center
 katex
  \text{E} = \text{T} / \text{A}!
-
 plainTextOnly EvolutionTime(I) = Time(I') / AssemblyPool!
-</center>
 br 2
 
 ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
@@ -59,12 +56,11 @@ This equation explains the triumph of open source and public domain software.
 - After feedback from Szymon Łukaszyk it became clear to me the more precise formula is:
  https://x.com/breckyunits/status/1814323549416652860 After feedback from Szymon Łukaszyk
 
-<br>
-<center>
+br
+center
 katex
  \sum_{A=0}^{A} A^A
-</center>
-<br>
+br
 
 Luckily $A^A$ is still in the factorial class so the memorable acronym still applies.
  https://x.com/breckyunits/status/1814324339543789651 is still in the factorial class

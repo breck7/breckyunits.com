@@ -16,7 +16,7 @@ mindmap.png
 endSnippet
 
 I'm a big fan of Minsky's conceptual model of the mind as a society of agents. A collection of neurons wire together in a certain way to form low level and higher level "agents". You have "agents" for everything you've learned: walking, crawling, standing, hugging, riding a bike, driving, slicing vegetables, chopping wood, reciting the capitals of countries, computing derivatives, et cetera. (You have lower level agents as well, but I'll leave those out in this post). A human brain might contain millions of "agents". Technology is a long way away from being able to scan a brain and map out where every agent is located. However, I wondered if technology was close to being able to at least list all the agents in someone's brain? How close are we to being able to make a map of someone's mind, identifying the "agents" in their mind along with the "strength" of those agents?
- link marvin-minsky.html Minsky's conceptual model of the mind
+ marvin-minsky.html Minsky's conceptual model of the mind
 
 Last year I was at a hackathon and had about 10 hours to make something utilizing AI, so that's what I tried to do.
 

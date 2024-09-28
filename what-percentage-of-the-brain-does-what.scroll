@@ -7,7 +7,7 @@ printTitle
 thinColumns 1
 
 * _Note: Sometimes I'll write a post about something I don't understand at all. I am not a neuroscientist and have only the faintest understanding of the brain so this is one of those times. Reading this post could make you dumber. But occasionally writing from ignorance leads to good things--like the time I wrote about Linear Algebra and got a number of helpful emails better explaining the subject to me._
- link whats-linear-algebra.html Linear Algebra
+ whats-linear-algebra.html Linear Algebra
  dateline
 
 My question is: *how are the brain's resources allocated for its different tasks?*

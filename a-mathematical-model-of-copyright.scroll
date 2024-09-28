@@ -20,7 +20,7 @@ endSnippet
 katex
 css .scrollKatex {text-align: center;}
 
-<br>
+br
 
 # Part 1: The world
 
@@ -124,8 +124,6 @@ A publisher is a set of $T$ specializing in production of $A$.
 katex U: U(D)
 A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed.
 
-<br>
-
 # Part 2: Adding copyright to the model
 
 ### Masters
@@ -155,8 +153,6 @@ A public domain artifact $A^0$ is an artifact claimed to have no $\Psi$ or an ex
 ### Advertising
 katex \varLambda: f(A_i, A_j^\Psi) → A_{ij}
 Advertising is a function $\varLambda$ that takes an $A$ and combines it with an orthogonal artifact $A_j^\Psi$ that serves $B_\Psi$.
-
-<br>
 
 # Part 3: Predicted effects of copyright
 
@@ -237,7 +233,7 @@ We should expect the number of $A$ promoting © to increase to train $T$ to supp
 katex \Downarrow T_{R-}
 We should expect the Non-Royal Class $T_{R-}$ to pay an increasing amount of $R$, deal with an increasing amount of noise from ${Z + F + K}$, and have increasingly lower skillsets $\overline{S}$.
 
-<br>
+br
 
 # Conclusions
 
