@@ -32,4 +32,4 @@ Notes
 - Linux Phrasebook
 - pipe to vim
 
-Built with Scroll v136.4.0
+Built with Scroll v136.6.0

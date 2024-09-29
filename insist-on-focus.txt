@@ -30,4 +30,4 @@ I absolutely love the math behind this strategy. There are a few other terms to 
 
 ⁂
 
-Built with Scroll v136.4.0
+Built with Scroll v136.6.0

@@ -176,4 +176,4 @@ Notes
 [Image Omitted]
  A screenshot of Aftertext on the left and the rendered HTML on the right.
 
-Built with Scroll v136.4.0
+Built with Scroll v136.6.0

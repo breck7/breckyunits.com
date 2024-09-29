@@ -5,11 +5,15 @@ December 29, 2012
 
 I love that phrase.
 
+*
+
 I want to learn how to program. Prove it.
 
 I value honesty. Prove it.
 
 I want to start my own company. Prove it.
+
+*
 
 It works with "we" too.
 
@@ -19,10 +23,21 @@ We love open source. Prove it.
 
 We're going to improve the transportation industry. Prove it.
 
+*
+
 Words don't prove anything about you. How you spend your time proves everything.
 
-The only way to accurately describe yourself or your group is to look at how you've spent your time in the past. Anytime someone says something about what they will do or be like in the future, your response should be simple: prove it.
+The only way to accurately describe yourself or your group is to look at how you've spent your time in the past.
+
+Anytime someone says something about what they will do or be like in the future, your response should be simple: *prove it*.
 
 ⁂
 
-Built with Scroll v136.4.0
+Related Posts
+=============
+Don't talk about what you will do, talk about what you have done
+================================================================
+02/19/2010
+https://breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.html
+
+Built with Scroll v136.6.0
