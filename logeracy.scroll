@@ -5,7 +5,7 @@ title Logeracy
 header.scroll
 printTitle
 
-thinColumns 2
+container 50ch
 
 I invented a new word: *_Logeracy_*^coinage. I define it as the ability to think in logarithms. It mirrors the word literacy.
  https://en.wikipedia.org/wiki/Logarithm logarithms

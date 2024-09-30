@@ -5,7 +5,8 @@ title Scrolldown now has Dialogues
 
 header.scroll
 printTitle
-thinColumns 2
+
+container 40ch
 
 chat
  hey. I just added Dialogues to Scrolldown.
