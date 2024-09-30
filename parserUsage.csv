@@ -1,5 +1,5 @@
 parserId,uses
-blankLineParser,10726
+blankLineParser,10727
 catchAllParagraphParser,4571
 importOnlyParser,1102
 stumpContentParser,1056
@@ -36,7 +36,7 @@ endOfPostDinkusParser,229
 slashCommentParser,220
 htmlLineParser,217
 datelineParser,211
-quickImageParser,198
+quickImageParser,199
 orderedListAftertextParser,177
 h2Parser,175
 quoteLineParser,158
