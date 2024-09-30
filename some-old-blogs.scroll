@@ -4,7 +4,9 @@ title Some old blogs
 
 header.scroll
 printTitle
-thinColumns 2
+
+
+container 60ch
 
 I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
  dateline

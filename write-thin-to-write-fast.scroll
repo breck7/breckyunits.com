@@ -9,13 +9,11 @@ printTitle
 
 printAuthors
 
-thinColumns 2
-
-comment
- Todo: add caption support to image node.
+container 40ch
 
 writeThin.png
  openGraph
+ caption Writing this post with narrow columns in "Distraction Free Mode" on Sublime Text on my desktop in Honolulu.
 
 I constantly seek ways to improve my writing.
  dateline

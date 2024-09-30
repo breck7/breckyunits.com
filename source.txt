@@ -7076,13 +7076,11 @@
  
  printAuthors
  
- thinColumns 2
- 
- comment
-  Todo: add caption support to image node.
+ container 40ch
  
  writeThin.png
   openGraph
+  caption Writing this post with narrow columns in "Distraction Free Mode" on Sublime Text on my desktop in Honolulu.
  
  I constantly seek ways to improve my writing.
   dateline
@@ -7196,7 +7194,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 50ch
  
  In this essay I'm going to talk about a design pattern in writing applications that requires effectively no extra work and more than triples the power of your code. It's one of the biggest wins I've found in programming and I don't think this pattern is emphasized enough. The tldr; is this:
   dateline
@@ -7305,7 +7303,8 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ 
+ thinColumns 4
  
  In this video Dmitry Puchkov interviews Alexandra Elbakian. I do not speak Russian but had it translated. This is a first draft, the translation needs a lot of work, but perhaps it can be skimmed for interesting quotes. If you have a link to a better transcript, or can improve this one, pull requests are welcome (My whole site is public domain, and the source is on GitHub).
   link https://youtube.com/watch?v=RyTRyRwsTp4 video
@@ -7644,7 +7643,8 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ 
+ container 40ch
  
  chat
   hey. I just added Dialogues to Scrolldown.
@@ -7682,7 +7682,7 @@
  header.scroll
  printTitle
  
- mediumColumns 1
+ container 50ch
  
  Are you anti-copyright and anti-patent? Then this post is for you.
   dateline
@@ -7757,7 +7757,9 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ 
+ 
+ container 60ch
  
  I found it mildly interesting to dig up my earlier blogs and put them in this git. This folder contains some old blogs started in 2007 and 2009. This would not have been possible without the Internet Archive's Machine heart ❤️.
   dateline
@@ -7955,7 +7957,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 50ch
  
  I invented a new word: *_Logeracy_*^coinage. I define it as the ability to think in logarithms. It mirrors the word literacy.
   https://en.wikipedia.org/wiki/Logarithm logarithms
@@ -8081,7 +8083,7 @@
  header.scroll
  printTitle
  
- thinColumns 2
+ container 50ch
  
  *The CDC needs to move to Git*. The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
   https://www.cdc.gov/ CDC
@@ -8168,7 +8170,7 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ thinColumns 4
  
  comment
   todo: add custom grammar.
@@ -8731,42 +8733,35 @@
  
  header.scroll
  printTitle
- thinColumns 2
+ 
+ container 50ch
  
  I read an interesting Twitter thread on focus strategy. That led me to the 3-minute YouTube video Insist on Focus by Keith Rabois. I created the transcript below.
   dateline
+  italics
   https://twitter.com/markkofman/status/1366030683118833665 focus strategy
   https://www.youtube.com/watch?v=fcohHIJr6Ns Insist on Focus
   https://en.wikipedia.org/wiki/Keith_Rabois Keith Rabois
  
- quote
-  One of the fundamental lessons I learned from Peter Thiel at PayPal was the value of focus. Peter had this somewhat absurd, but classically Peter way of insisting on focus, which is that he would only allow every employee to work on one thing and every executive to speak about one thing at a time, and he distributed this focus throughout the entire organization. So everybody was assigned exactly one thing, and that was the only thing you were allowed to work on, the only thing you were allowed to report back to him about.
+ ***
  
- endSnippet
+ One of the fundamental lessons I learned from Peter Thiel at PayPal was the value of focus. Peter had this somewhat absurd, but classically Peter way of insisting on focus, which is that he would only allow every employee to work on one thing and every executive to speak about one thing at a time, and he distributed this focus throughout the entire organization. So everybody was assigned exactly one thing, and that was the only thing you were allowed to work on, the only thing you were allowed to report back to him about.
  
- quote
-  My top initiatives shifted around over the years, but I'll give you a few. One was initially Visa, MasterCard really hated us. We were operating at the edge of their rules at the time. My number one problem was to stop MasterCard particularly, but Visa a bit from killing us. So until I had that risk taken off the table, Peter didn't want to hear about any of my other ideas.
+ My top initiatives shifted around over the years, but I'll give you a few. One was initially Visa, MasterCard really hated us. We were operating at the edge of their rules at the time. My number one problem was to stop MasterCard particularly, but Visa a bit from killing us. So until I had that risk taken off the table, Peter didn't want to hear about any of my other ideas.
  
- quote
-  Once we put Visa, MasterCard into a pretty stable place than eBay also wanted to kill us. Wasn't very happy with us processing 70% of the payments on their platform, so that was my next problem.
+ Once we put Visa, MasterCard into a pretty stable place than eBay also wanted to kill us. Wasn't very happy with us processing 70% of the payments on their platform, so that was my next problem.
  
- quote
-  Then 9/11 happened and the US Treasury Department promulgated regulations, which would require us among other things to collect Social Security numbers from all of our buyers, which would have suppressed our payment volumes substantially. So then my number one initiative became convincing the treasury department to not propagate these regulations, right post 9/11.
+ Then 9/11 happened and the US Treasury Department promulgated regulations, which would require us among other things to collect Social Security numbers from all of our buyers, which would have suppressed our payment volumes substantially. So then my number one initiative became convincing the treasury department to not propagate these regulations, right post 9/11.
  
- quote
-  At some point, we also needed to diversify our revenue off of eBay. So that became another initiative for me. That one I did not solve that well, which in some way led to us eventually agreeing to be acquired.
+ At some point, we also needed to diversify our revenue off of eBay. So that became another initiative for me. That one I did not solve that well, which in some way led to us eventually agreeing to be acquired.
  
- quote
-  I had another number one problem, which was this publication called the Red Herring, had published this set of unflattering articles about us and how to fix that and rebuild the communications team.
+ I had another number one problem, which was this publication called the Red Herring, had published this set of unflattering articles about us and how to fix that and rebuild the communications team.
  
- quote
-  Peter would constantly just assign me new things. He didn't like the terms of our financial services relationship with the vendors that we were using, so I took on that team and fixed the economics of those relationships, et cetera, et cetera, but they were not done in parallel. They're basically sequential. The reason why this was such a successful strategy is that most people, perhaps all people tend to substitute from A-plus problems that are very difficult to solve, to be a plus problems, which you know a solution to, or you understand the path to solve.
+ Peter would constantly just assign me new things. He didn't like the terms of our financial services relationship with the vendors that we were using, so I took on that team and fixed the economics of those relationships, et cetera, et cetera, but they were not done in parallel. They're basically sequential. The reason why this was such a successful strategy is that most people, perhaps all people tend to substitute from A-plus problems that are very difficult to solve, to be a plus problems, which you know a solution to, or you understand the path to solve.
  
- quote
-  You have a checklist every morning. Imagine waking up, and a lot of people write checklists and things to accomplish. Most people have an A-plus problem, but they don't know the solution so they procrastinate on that solution? And then they go down the checklist to the second or third initiative where they know the answer and they'll go solve those problems and cross them off. The problem is if your entire organization is always solving the second, third or fourth most important thing, you never solve the first.
+ You have a checklist every morning. Imagine waking up, and a lot of people write checklists and things to accomplish. Most people have an A-plus problem, but they don't know the solution so they procrastinate on that solution? And then they go down the checklist to the second or third initiative where they know the answer and they'll go solve those problems and cross them off. The problem is if your entire organization is always solving the second, third or fourth most important thing, you never solve the first.
  
- quote
-  So Peter's technique of forcing people to only work on one thing meant everybody had to work on the A-plus problems. And if every part of the organization once in a while can solve a problem that the rest of the world thinks is impossible, you wind up with an iconic company that the world's never seen before.
+ So Peter's technique of forcing people to only work on one thing meant everybody had to work on the A-plus problems. And if every part of the organization once in a while can solve a problem that the rest of the world thinks is impossible, you wind up with an iconic company that the world's never seen before.
  
  I absolutely love the math behind this strategy. There are a few other terms to get right, but there's a fantastic idea here.
  
