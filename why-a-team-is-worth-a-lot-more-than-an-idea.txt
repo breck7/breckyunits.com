@@ -31,4 +31,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081120154142/http://www.breckyunits.com/ideas/2007/09/13/why-a-team-is-worth-a-lot-more-than-an-idea/ Original post
 
-Built with Scroll v136.8.0
+Built with Scroll v136.9.0

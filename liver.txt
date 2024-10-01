@@ -5,14 +5,16 @@ September 19, 2024
 
 Is your liver on right now? You can find out with a drop of blood.
 
-[Image Omitted]
- This is me pricking my finger to test my ketone levels. I got 1.3 mmol. My liver is on!
-
 If your ketone levels are around 0.1, your liver is off.
 
 If they are around 1,0, your liver is on.
 
 It's easy to tell, once you've measured.
+
+*
+
+[Image Omitted]
+ This is me pricking my finger to test my ketone levels. I got 1.3 mmol. My liver is on!
 
 *
 
@@ -48,4 +50,4 @@ Notes
 
 ⁂
 
-Built with Scroll v136.8.0
+Built with Scroll v136.9.0
