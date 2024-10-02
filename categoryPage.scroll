@@ -5,11 +5,7 @@ tags categoryPages
 title Breck's Blog - CAT_TITLE Posts
 
 settings.scroll
-metaTags
-gazetteTag.scroll
-homeButton
-leftRightButtons
-viewSourceButton
+topLinks.scroll
 printTitle
 categoryLinks.scroll
 
