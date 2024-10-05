@@ -9,7 +9,7 @@ printTitle
 printAuthors
 printDate
 
-mediumColumns 1
+container 600px
 
 ***
 
@@ -35,7 +35,7 @@ In this paper I add to the pile, and propose using Particles as a tool for count
 ***
 
 # Overview
-The method introduced here, named Particles Complexity (PSC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Particles Description Complexity (PDC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
 2. Given the assumption that all structures can be represented as trees, we can then use Particles, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
@@ -72,7 +72,7 @@ code
 
 Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".
 
-Hence, by this simple PSC measure we can say that a digit is more complex than a boolean.
+Hence, by this simple PDC measure we can say that a digit is more complex than a boolean.
 
 ***
 
@@ -122,12 +122,12 @@ Hence, the programB is less complex by this measure, _given machineA and machine
 # Atomic Components of Complexity
 
 atomicUnits.png
- caption A visualization of the countable atomic units in PSC.
+ caption A visualization of the countable atomic units in PDC.
  float right
 
-PSC has more atomic units to count beyond nodes.
+PDC has more atomic units to count beyond nodes.
 
-In PSC countable atomic units of complexity include:
+In PDC countable atomic units of complexity include:
 
 - trees (files/2D planes/documents)
 - nodes (messages/lines in a file)
@@ -136,8 +136,6 @@ In PSC countable atomic units of complexity include:
 - and word edges (words that are pointers to other nodes/words)
 
 Other derived measures could be devised as well, but in this paper we look at only the atomic units fully necessary to describe an entity.
-
-<div style="clear:both;"></div>
 
 ***
 
@@ -157,7 +155,7 @@ But the Total Complexity of the Python program might be greater than that of the
 
 # Why Particles?
 
-PSC is one of many systems that measure the "difficulty of description"^Lloyd. This means PSC doesn't measure complexity directly, rather the description of the entity is measured.
+PDC is one of many systems that measure the "difficulty of description"^Lloyd. This means PDC doesn't measure complexity directly, rather the description of the entity is measured.
 
 Particles is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
 
@@ -179,7 +177,7 @@ Other descriptions become noisier or repetitive over time, whereas Particles is 
 
 Particles is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
 
-PSC thus could enable cross-domain complexity comparisons.
+PDC thus could enable cross-domain complexity comparisons.
 
 In a sense, Particles can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
 
@@ -187,7 +185,7 @@ In a sense, Particles can be thought of as a notation for building a strongly-ty
 
 Furthermore, items encoded in Particles can be thought of and visualized as existing in 3-Dimensions.
 
-This is far-off speculation, but perhaps there exists a correlation between the PSC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
+This is far-off speculation, but perhaps there exists a correlation between the PDC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
 
 ***
 
@@ -223,7 +221,7 @@ Relative Complexity measurements of concepts ebbs and flows in sinusoidal waves,
 
 # Conclusion and Future Work
 
-To an evergrowing number of systems for measuring I add one more: Particles Complexity.
+To an evergrowing number of systems for measuring I add one more: Particles Description Complexity.
 
 The benefit of this system is that it is simple, practical, universal, and scale free.
 
