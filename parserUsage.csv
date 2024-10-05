@@ -1,13 +1,13 @@
 parserId,uses
-blankLineParser,10763
+blankLineParser,10764
 catchAllParagraphParser,4580
 importOnlyParser,1122
 stumpContentParser,1064
-quickLinkParser,1009
+quickLinkParser,1010
 h1Parser,694
-scrollDinkusParser,532
+scrollDinkusParser,531
 viewSourceButtonParser,528
-listAftertextParser,517
+listAftertextParser,516
 lineOfCodeParser,483
 chatLineParser,408
 BlobParser,316
@@ -20,9 +20,9 @@ viewSourceBaseUrlParser,270
 rssFeedUrlParser,270
 buildHtmlParser,268
 metaTagsParser,268
+pageTitleParser,267
 homeButtonParser,266
 stumpNoSnippetParser,266
-pageTitleParser,266
 buildTxtParser,265
 printTitleParser,265
 scrollLeftRightButtonsParser,265
@@ -40,7 +40,7 @@ quickImageParser,199
 orderedListAftertextParser,177
 h2Parser,175
 quoteLineParser,149
-mediumColumnsParser,139
+mediumColumnsParser,137
 endSnippetParser,135
 cssLineParser,124
 quickRelativeLinkParser,111
@@ -49,7 +49,7 @@ thinColumnsParser,103
 scrollQuestionParser,81
 footnoteDefinitionParser,77
 katexParser,68
-htmlInlineParser,59
+htmlInlineParser,58
 printRelatedParser,50
 h3Parser,42
 scrollBrParser,42
@@ -57,7 +57,7 @@ quoteParser,41
 linkParser,38
 classMarkupParser,37
 codeParser,35
-quickQuoteParser,32
+quickQuoteParser,33
 printTableParser,32
 scrollTableDataParser,31
 scrollTableParser,31
@@ -68,9 +68,9 @@ scrollTableDelimiterParser,27
 printAuthorsParser,26
 printDateParser,17
 openGraphDescriptionParser,16
+scrollContainerParser,14
 chatParser,14
 h4Parser,14
-scrollContainerParser,12
 printSnippetsParser,12
 codeWithLanguageParser,11
 aftertextStyleParser,10

@@ -5,7 +5,8 @@ by Breck Yunits
  https://breckyunits.com Breck Yunits
 June 21, 2017
 
-*
+> Note: I renamed Tree Notation to Particles. For the latest on this, start with Scroll.
+ https://scroll.pub/ Scroll
 
 This paper presents Tree Notation, a new simple, universal syntax. Language designers can invent new programming languages, called Tree Languages, on top of Tree Notation. Tree Languages have a number of advantages over traditional programming languages.
 
@@ -158,4 +159,4 @@ References
 
 ^Ender: Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
-Built with Scroll v136.11.0
+Built with Scroll v137.0.0

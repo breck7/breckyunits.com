@@ -34,4 +34,4 @@ Notes
  https://./the-many-worlds-law.html many
 - Perhaps it is the case that many worlds and free will coexist, in that although we have no absolute control of the future, we can somehow affect the distribution of different paths?
 
-Built with Scroll v136.11.0
+Built with Scroll v137.0.0

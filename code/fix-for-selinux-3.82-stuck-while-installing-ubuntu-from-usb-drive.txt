@@ -4,4 +4,4 @@ June 27, 2011
 
 If you are installing Ubuntu from USB and are getting stuck at the "SELINUX 3.82" screen, you'll need to edit the selinux/selinux.cnf file on the USB stick and comment out the "vesamenu.c32" line, and remove the "ui" from the last line.
 
-Built with Scroll v136.11.0
+Built with Scroll v137.0.0
