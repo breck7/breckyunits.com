@@ -27,8 +27,8 @@ buildTxtParser,265
 printTitleParser,265
 scrollLeftRightButtonsParser,265
 scrollVersionLinkParser,262
-downloadButtonParser,262
 emailButtonParser,262
+theScrollButtonParser,262
 keyboardNavParser,261
 scrollTagsParser,247
 dateParser,242

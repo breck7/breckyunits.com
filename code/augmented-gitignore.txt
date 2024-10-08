@@ -17,4 +17,4 @@ doc/app
 - Source
  http://railstutorial.org/chapters/beginning#sec:adding_and_committing Source
 
-Built with Scroll v138.0.0
+Built with Scroll v138.2.0
