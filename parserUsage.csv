@@ -10,7 +10,7 @@ viewSourceButtonParser,528
 listAftertextParser,516
 lineOfCodeParser,483
 chatLineParser,408
-BlobParser,316
+BlobParser,315
 cssParser,290
 scrollCenterParser,282
 endColumnsParser,275

@@ -25,9 +25,8 @@ I was sad by South Park's rejection yesterday but I'm excited to use this as a t
 css .feedback {color: green;}
 feedbackParser
  extends paragraphParser
- crux $
- javascript
-  className = "feedback"
+ cue $
+ string className feedback
 
 > Hi there,
 > Thank you for applying to the SPC Founder Fellowship.

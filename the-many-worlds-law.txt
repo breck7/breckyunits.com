@@ -32,4 +32,4 @@ Notes
 4. I called it the many worlds "law" because I don't want to use the word theory or hypothesis. Theory and hypothesis are too linked in people's minds with uncertainty, and some ideas, like evolution and many worlds, have way too much supporting evidence to leave any room for uncertainty, in as much as we can be uncertain about something.
 5. One of the most important laws in most worlds, anyway.
 
-Built with Scroll v138.2.0
+Built with Scroll v140.0.0
