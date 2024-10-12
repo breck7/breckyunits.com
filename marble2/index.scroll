@@ -20,7 +20,7 @@ placeholderParser
 
 imageTwoParser
  extends scrollImageParser
- crux image
+ cue image
  javascript
   get dimensions() {
     const d = super.dimensions
