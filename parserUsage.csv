@@ -20,7 +20,7 @@ viewSourceBaseUrlParser,270
 rssFeedUrlParser,270
 buildHtmlParser,268
 metaTagsParser,268
-pageTitleParser,267
+scrollTitleParser,267
 homeButtonParser,266
 stumpNoSnippetParser,266
 buildTxtParser,265

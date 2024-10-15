@@ -23,4 +23,4 @@ Notes:
 
 Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.
 
-Built with Scroll v140.0.0
+Built with Scroll v142.0.1
