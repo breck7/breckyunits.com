@@ -1,10 +1,10 @@
 parserId,uses
-blankLineParser,10763
+blankLineParser,10765
 catchAllParagraphParser,4579
 importOnlyParser,1122
 stumpContentParser,1064
-quickLinkParser,1010
-h1Parser,694
+quickLinkParser,1011
+h1Parser,695
 scrollDinkusParser,531
 viewSourceButtonParser,528
 listAftertextParser,516
@@ -36,7 +36,7 @@ htmlLineParser,230
 endOfPostDinkusParser,229
 slashCommentParser,220
 datelineParser,211
-quickImageParser,199
+quickImageParser,200
 orderedListAftertextParser,177
 h2Parser,175
 quoteLineParser,149
