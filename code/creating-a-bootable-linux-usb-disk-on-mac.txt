@@ -20,4 +20,4 @@ Back in Disk Utility, unmount/eject the disk.
 
 Done!
 
-Built with Scroll v142.0.1
+Built with Scroll v142.2.0

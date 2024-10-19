@@ -1,3 +1,50 @@
+/home/runner/work/breckyunits.com/breckyunits.com/sf.scroll
+ date 2024-10-19
+ tags All Programming
+ title sf: instant scratch folders
+ 
+ header.scroll
+ printTitle
+ # a bash one-liner
+ printAuthors
+ printDate
+ 
+ thinColumns 1
+ 
+ I make many scratch folders and often hit this:
+ code
+  $ cd ~
+  $ ~ mkdir tmp
+  mkdir: tmp: File exists
+  $ ~ mkdir tmp2
+  mkdir: tmp2: File exists
+  $ ~ mkdir tmp22
+  mkdir: tmp22: File exists
+ 
+ ***
+ 
+ Now I just type `sf`
+ 
+ code
+  $ sf
+  $ 2024-10-19 pwd
+  /Users/breck/sf/2024-10-19
+ 
+ ***
+ 
+ The line I added to `~/.zprofile`:
+ 
+ endColumns
+ 
+ container 720px
+ 
+ code
+  alias sf='date_dir=$(date +%Y-%m-%d) && mkdir -p ~/sf/$date_dir && cd ~/sf/$date_dir'
+ 
+ ****
+ 
+ footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/microprograms.scroll
  date 9/24/2024
  tags All Programming Scroll
@@ -7007,7 +7054,7 @@
  # Related Work
  
  Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related work. I am certain there are similar efforts I have missed and am grateful for anyone who points those out to me via comments or email.
-  link http://akkartik.name/ Kartik
+  http://akkartik.name/ Kartik
   https://shalabh.com/ Shalabh
   https://twitter.com/warianoguerra Mariano
   https://trellick.work Joe
@@ -8736,9 +8783,9 @@
  title Insist on Focus - Keith Rabois describes working at PayPal
  
  header.scroll
- printTitle
  
- container 50ch
+ container 40ch
+ printTitle
  
  I read an interesting Twitter thread on focus strategy. That led me to the 3-minute YouTube video Insist on Focus by Keith Rabois. I created the transcript below.
   dateline

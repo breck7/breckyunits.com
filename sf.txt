@@ -1,0 +1,34 @@
+sf: instant scratch folders
+===========================
+a bash one-liner
+================
+by Breck Yunits
+ https://breckyunits.com Breck Yunits
+October 19, 2024
+
+I make many scratch folders and often hit this:
+$ cd ~
+$ ~ mkdir tmp
+mkdir: tmp: File exists
+$ ~ mkdir tmp2
+mkdir: tmp2: File exists
+$ ~ mkdir tmp22
+mkdir: tmp22: File exists
+
+*
+
+Now I just type `sf`
+
+$ sf
+$ 2024-10-19 pwd
+/Users/breck/sf/2024-10-19
+
+*
+
+The line I added to `~/.zprofile`:
+
+alias sf='date_dir=$(date +%Y-%m-%d) && mkdir -p ~/sf/$date_dir && cd ~/sf/$date_dir'
+
+⁂
+
+Built with Scroll v142.2.0
