@@ -6,7 +6,7 @@ stumpContentParser,1068
 quickLinkParser,1013
 h1Parser,696
 scrollDinkusParser,533
-viewSourceButtonParser,530
+editButtonParser,530
 listAftertextParser,516
 lineOfCodeParser,494
 chatLineParser,408
@@ -16,7 +16,7 @@ scrollCenterParser,283
 endColumnsParser,277
 authorsParser,276
 baseUrlParser,272
-viewSourceBaseUrlParser,271
+editBaseUrlParser,271
 rssFeedUrlParser,271
 buildHtmlParser,269
 metaTagsParser,269
@@ -103,7 +103,7 @@ scrollGroupByParser,2
 printUsageStatsParser,2
 buildCsvParser,2
 tableSearchParser,2
-viewSourceLinkParser,1
+editLinkParser,1
 youTubeParser,1
 emailLinkParser,1
 inlineMarkupsOnParser,1

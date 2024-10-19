@@ -8,4 +8,4 @@ chmod -R 755 directoryname
 
 Change the file permissions of all directories and files in directoryname to 755.
 
-Built with Scroll v142.2.0
+Built with Scroll v143.0.0

@@ -38,4 +38,4 @@ Fifth, and my final point, if the idiot creator of Binary Notation struggles wit
 Originally posted on Medium.
  https://breckyunits.medium.com/removing-the-2s-from-trinary-notation-is-a-terrible-idea-848c2d7c6665 posted
 
-Built with Scroll v142.2.0
+Built with Scroll v143.0.0
