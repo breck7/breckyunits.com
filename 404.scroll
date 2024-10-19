@@ -6,7 +6,7 @@ metaTags
 theme gazette
 homeButton
  /index.html
-viewSourceButton
+editButton
 
 printTitle
 thinColumns 1

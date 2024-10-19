@@ -5,7 +5,7 @@ metaTags
 ../gazetteTag.scroll
 homeButton
 leftRightButtons
-viewSourceButton
+editButton
 printTitle
 printSnippets index
 footer.scroll
