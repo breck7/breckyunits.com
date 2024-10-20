@@ -1,3 +1,32 @@
+/home/runner/work/breckyunits.com/breckyunits.com/essentials.scroll
+ date 2024-10-20
+ tags All Life
+ title What do you need to make our universe?
+ 
+ header.scroll
+ printTitle
+ 
+ center
+ Bit
+ Persistence
+ Direction
+ Boundaries
+ Cloning
+ Randomness
+ Assembly
+ Decay
+ 
+ ***
+ 
+ center
+ What else?
+ 
+ ****
+ 
+ printDate
+ 
+ footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/sf.scroll
  date 2024-10-19
  tags All Programming
