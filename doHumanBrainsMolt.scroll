@@ -6,6 +6,7 @@ header.scroll
 printTitle
 mediumColumns 1
 
+// note: i dont think this chart is about lobsters. find a more relevant datasets.
 lobsterMoltingChart.png
  caption In lobsters, a steroid hormone called ecdysteroid spikes during the pre-molt phase and declines sharply after molting. Source: J. Sook Chung
   https://www.researchgate.net/figure/Ecdysteroid-profiles-in-hemolymphs-during-last-three-molt-cycles-of-the-life-history-of_fig4_26322112 J. Sook Chung
