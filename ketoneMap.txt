@@ -75,6 +75,11 @@ But now I have more confidence in my understanding of ketones at the macro level
 
 My journey to understand the human body continues! Thanks for coming along.
 
+The Liver Turns On and Off
+==========================
+09/19/2024
+https://breckyunits.com/liver.html
+
 Energy Clocks
 =============
 05/02/2024
@@ -91,4 +96,4 @@ Notes
 =====
 - I snapped these photos on Sunday.
 
-Built with Scroll v143.0.0
+Built with Scroll v145.5.1

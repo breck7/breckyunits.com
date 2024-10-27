@@ -4,482 +4,482 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Mon, 21 Oct 2024 02:46:50 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 27 Oct 2024 15:30:28 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
-  <title>Useful Grep Searches with Scroll</title>
-  <link>https://breckyunits.com/code/grep.html</link>
-  <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>My Sublime Settings</title>
-  <link>https://breckyunits.com/code/my-sublime-setttings.html</link>
-  <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Git Clone over SSH</title>
-  <link>https://breckyunits.com/code/git-clone-over-ssh.html</link>
-  <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Unpause</title>
-  <link>https://breckyunits.com/code/unpause.html</link>
-  <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Git Ignore Global</title>
-  <link>https://breckyunits.com/code/git-ignore-global.html</link>
-  <pubDate>Wed, 04 Jan 2012 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Execute commands on remote server via ssh</title>
-  <link>https://breckyunits.com/code/execute-commands-on-remote-server-via-ssh.html</link>
-  <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Cool Way to Duplicate a Finder Window in the Current Directory</title>
-  <link>https://breckyunits.com/code/cool-way-to-duplicate-a-finder-window-in-the-current-directory.html</link>
-  <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Great Overview of Linux Command Line</title>
-  <link>https://breckyunits.com/code/great-overview-of-linux-command-line.html</link>
-  <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Find big files in Linux</title>
-  <link>https://breckyunits.com/code/find-big-files-in-linux.html</link>
-  <pubDate>Thu, 06 Oct 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>ack and ackmate</title>
-  <link>https://breckyunits.com/code/ack-and-ackmate.html</link>
-  <pubDate>Fri, 26 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>nohup and disown</title>
-  <link>https://breckyunits.com/code/nohup-and-disown.html</link>
-  <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Apache, SSL and self signed certificates</title>
-  <link>https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html</link>
-  <pubDate>Sun, 14 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>New shortcuts</title>
-  <link>https://breckyunits.com/code/new-shortcuts.html</link>
-  <pubDate>Sun, 14 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>EC2 Command Line Tools</title>
-  <link>https://breckyunits.com/code/ec2-command-line-tools.html</link>
-  <pubDate>Sat, 13 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>zip a directory in linux</title>
-  <link>https://breckyunits.com/code/zip-a-directory-in-linux.html</link>
-  <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Recursive Sed</title>
-  <link>https://breckyunits.com/code/recursive-sed.html</link>
-  <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>netstat</title>
-  <link>https://breckyunits.com/code/netstat.html</link>
-  <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Bash History</title>
-  <link>https://breckyunits.com/code/bash-history.html</link>
-  <pubDate>Sun, 17 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Amazing SSH Tricks</title>
-  <link>https://breckyunits.com/code/amazing-ssh-tricks.html</link>
-  <pubDate>Sat, 16 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>ngrep for packet monitoring</title>
-  <link>https://breckyunits.com/code/ngrep-for-packet-monitoring.html</link>
-  <pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Basic Linux Monitoring</title>
-  <link>https://breckyunits.com/code/basic-linux-monitoring.html</link>
-  <pubDate>Sat, 09 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Creating a bootable Linux USB disk on Mac</title>
-  <link>https://breckyunits.com/code/creating-a-bootable-linux-usb-disk-on-mac.html</link>
-  <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Mac Terminal Cursor Trick</title>
-  <link>https://breckyunits.com/code/mac-terminal-cursor-trick.html</link>
-  <pubDate>Sun, 03 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Notepad++ HAML Syntax Highlighting and other custom extension mapping</title>
-  <link>https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html</link>
-  <pubDate>Sun, 03 Jul 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Apache Conf and Htaccess Examples</title>
-  <link>https://breckyunits.com/code/apache-conf-and-htaccess-examples.html</link>
-  <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive</title>
-  <link>https://breckyunits.com/code/fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.html</link>
-  <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>My Programming Setup</title>
-  <link>https://breckyunits.com/code/my-programming-setup.html</link>
-  <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>What Happens When you Open a 1.7 GB text file?</title>
-  <link>https://breckyunits.com/code/what-happens-when-you-open-a-1.7-gb-text-file.html</link>
-  <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Wildcard Subdomains with GoDaddy</title>
-  <link>https://breckyunits.com/code/wildcard-subdomains-with-godaddy.html</link>
-  <pubDate>Sun, 24 Apr 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Quickly Set up a Web Proxy Server</title>
-  <link>https://breckyunits.com/code/quickly-set-up-a-web-proxy-server.html</link>
-  <pubDate>Sun, 13 Mar 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>A few new Tricks in Notepad++</title>
-  <link>https://breckyunits.com/code/a-few-new-tricks-in-notepad.html</link>
-  <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>RVM Quick Reference</title>
-  <link>https://breckyunits.com/code/rvm-quick-reference.html</link>
-  <pubDate>Sun, 12 Dec 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Forward a port on a remote server to your local machine with an SSH Reverse Tunnel</title>
-  <link>https://breckyunits.com/code/forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html</link>
-  <pubDate>Sat, 04 Dec 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Features I Miss from Notepad++ in Textmate</title>
-  <link>https://breckyunits.com/code/features-i-miss-from-notepad-in-textmate.html</link>
-  <pubDate>Sat, 16 Oct 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Git ignore a file that's in the repo</title>
-  <link>https://breckyunits.com/code/git-ignore-a-file-thats-in-the-repo.html</link>
-  <pubDate>Sun, 03 Oct 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Adjusting to a Mac</title>
-  <link>https://breckyunits.com/code/adjusting-to-a-mac.html</link>
-  <pubDate>Sat, 02 Oct 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Remove all DS_Store files recursively</title>
-  <link>https://breckyunits.com/code/remove-all-ds_store-files-recursively.html</link>
-  <pubDate>Wed, 29 Sep 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Rubyful Soup</title>
-  <link>https://breckyunits.com/code/rubyful-soup.html</link>
-  <pubDate>Sat, 14 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Windows 7 Hosts File</title>
-  <link>https://breckyunits.com/code/windows-7-hosts-file.html</link>
-  <pubDate>Sat, 14 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>VIM and Rails</title>
-  <link>https://breckyunits.com/code/vim-and-rails.html</link>
-  <pubDate>Fri, 13 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>PHPUnit Filter Option</title>
-  <link>https://breckyunits.com/code/phpunit-filter-option.html</link>
-  <pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Kill a Detached Rails Webrick Server</title>
-  <link>https://breckyunits.com/code/kill-a-detached-rails-webrick-server.html</link>
-  <pubDate>Mon, 09 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Cygwin SSH Client Keep Alive</title>
-  <link>https://breckyunits.com/code/cygwin-ssh-client-keep-alive.html</link>
-  <pubDate>Fri, 06 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Augmented Gitignore</title>
-  <link>https://breckyunits.com/code/augmented-gitignore.html</link>
-  <pubDate>Wed, 04 Aug 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Windows Flush DNS</title>
-  <link>https://breckyunits.com/code/windows-flush-dns.html</link>
-  <pubDate>Wed, 30 Jun 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Insert a line of text to the top of a file</title>
-  <link>https://breckyunits.com/code/insert-a-line-of-text-to-the-top-of-a-file.html</link>
-  <pubDate>Sat, 29 May 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>wget don't save file</title>
-  <link>https://breckyunits.com/code/wget-dont-save-file.html</link>
-  <pubDate>Sat, 27 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Dump MySQL schema only</title>
-  <link>https://breckyunits.com/code/dump-mysql-schema-only.html</link>
-  <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>gca alias for faster git</title>
-  <link>https://breckyunits.com/code/gca-alias-for-faster-git.html</link>
-  <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>ls color scheme</title>
-  <link>https://breckyunits.com/code/ls-color-scheme.html</link>
-  <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Recursive ls</title>
-  <link>https://breckyunits.com/code/recursive-ls.html</link>
-  <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>vim macros</title>
-  <link>https://breckyunits.com/code/vim-macros.html</link>
-  <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>pwd while in a symlink directory</title>
-  <link>https://breckyunits.com/code/pwd-while-in-a-symlink-directory.html</link>
-  <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Case sensitivity in MySQL table names and lower_case_table_names</title>
-  <link>https://breckyunits.com/code/case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html</link>
-  <pubDate>Sat, 27 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>ANSI or ASCII and Unicode or UTF-8 and Newlines</title>
-  <link>https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html</link>
-  <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>The BASH Programming Language</title>
-  <link>https://breckyunits.com/code/the-bash-programming-language.html</link>
-  <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution</title>
-  <link>https://breckyunits.com/code/cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html</link>
-  <pubDate>Sun, 21 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Plugins for Notepad++</title>
-  <link>https://breckyunits.com/code/plugins-for-notepad.html</link>
-  <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>More tips on using rsync to deploy your website</title>
-  <link>https://breckyunits.com/code/more-tips-on-using-rsync-to-deploy-your-website.html</link>
-  <pubDate>Wed, 03 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Linux Go Back to Previous Directory</title>
-  <link>https://breckyunits.com/code/linux-go-back-to-previous-directory.html</link>
-  <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Should your source code be in one folder or should it be nested?</title>
-  <link>https://breckyunits.com/code/should-your-source-code-be-in-one-folder-or-should-it-be-nested.html</link>
-  <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Unix date command</title>
-  <link>https://breckyunits.com/code/unix-date-command.html</link>
-  <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Bug Workaround for JS Charts Error: Not enough data to display chart</title>
-  <link>https://breckyunits.com/code/bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html</link>
-  <pubDate>Sat, 16 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Change the file owner or group in Linux</title>
-  <link>https://breckyunits.com/code/change-the-file-owner-or-group-in-linux.html</link>
-  <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>How to load a sql file into MySql</title>
-  <link>https://breckyunits.com/code/how-to-load-a-sql-file-into-mysql.html</link>
-  <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Shortcut for switching to a Windows directory in Cygwin</title>
-  <link>https://breckyunits.com/code/shortcut-for-switching-to-a-windows-directory-in-cygwin.html</link>
-  <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Cygwin treats the Windows Clipboard like a file</title>
-  <link>https://breckyunits.com/code/cygwin-treats-the-windows-clipboard-like-a-file.html</link>
-  <pubDate>Wed, 30 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>New tricks in Vim</title>
-  <link>https://breckyunits.com/code/new-tricks-in-vim.html</link>
-  <pubDate>Tue, 29 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Pipes, standard output and standard input</title>
-  <link>https://breckyunits.com/code/pipes-standard-output-and-standard-input.html</link>
-  <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Run multiple commands at once</title>
-  <link>https://breckyunits.com/code/run-multiple-commands-at-once.html</link>
-  <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use cat to combine or print the contents of a file</title>
-  <link>https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html</link>
-  <pubDate>Sat, 26 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>The only 5 git commands you need to know</title>
-  <link>https://breckyunits.com/code/the-only-5-git-commands-you-need-to-know.html</link>
-  <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use scp to download a file from a server</title>
-  <link>https://breckyunits.com/code/use-scp-to-download-a-file-from-a-server.html</link>
-  <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Clear screen in cygwin</title>
-  <link>https://breckyunits.com/code/clear-screen-in-cygwin.html</link>
-  <pubDate>Sun, 20 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use sed to find and replace</title>
-  <link>https://breckyunits.com/code/use-sed-to-find-and-replace.html</link>
-  <pubDate>Sun, 20 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Bash variables</title>
-  <link>https://breckyunits.com/code/bash-variables.html</link>
-  <pubDate>Fri, 18 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>How to fix an overwhelmed Gmail Accout</title>
-  <link>https://breckyunits.com/code/how-to-fix-an-overwhelmed-gmail-accout.html</link>
-  <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>List only directories using ls</title>
-  <link>https://breckyunits.com/code/list-only-directories-using-ls.html</link>
-  <pubDate>Sun, 13 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Seven aliases that can save you time</title>
-  <link>https://breckyunits.com/code/seven-aliases-that-can-save-you-time.html</link>
-  <pubDate>Sun, 13 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>git clone without history</title>
-  <link>https://breckyunits.com/code/git-clone-without-history.html</link>
-  <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Turn off bell in cygwin</title>
-  <link>https://breckyunits.com/code/turn-off-bell-in-cygwin.html</link>
-  <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Create a new user in Linux</title>
-  <link>https://breckyunits.com/code/create-a-new-user-in-linux.html</link>
-  <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Learn Symbolic Links in 30 seconds</title>
-  <link>https://breckyunits.com/code/learn-symbolic-links-in-30-seconds.html</link>
-  <pubDate>Sat, 05 Dec 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use aliases to save time</title>
-  <link>https://breckyunits.com/code/use-aliases-to-save-time.html</link>
-  <pubDate>Sat, 28 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>How I organize my Dropbox</title>
-  <link>https://breckyunits.com/code/how-i-organize-my-dropbox.html</link>
-  <pubDate>Fri, 27 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use git to get the latest source code only</title>
-  <link>https://breckyunits.com/code/use-git-to-get-the-latest-source-code-only.html</link>
-  <pubDate>Fri, 27 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>What non-web software do you use the most?</title>
-  <link>https://breckyunits.com/code/what-non-web-software-do-you-use-the-most.html</link>
-  <pubDate>Thu, 26 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>cron in 2 steps</title>
-  <link>https://breckyunits.com/code/cron-in-2-steps.html</link>
-  <pubDate>Wed, 25 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Fix permission problems using chmod</title>
-  <link>https://breckyunits.com/code/fix-permission-problems-using-chmod.html</link>
-  <pubDate>Wed, 25 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use the linux find command to find files</title>
-  <link>https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html</link>
-  <pubDate>Wed, 25 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use grep to search multiple files at once</title>
-  <link>https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html</link>
-  <pubDate>Sun, 22 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Use rsync to deploy your website</title>
-  <link>https://breckyunits.com/code/use-rsync-to-deploy-your-website.html</link>
-  <pubDate>Sat, 21 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>Get VIM Working in Cygwin</title>
-  <link>https://breckyunits.com/code/get-vim-working-in-cygwin.html</link>
-  <pubDate>Fri, 20 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>SSH into your server without a password</title>
-  <link>https://breckyunits.com/code/ssh-into-your-server-without-a-password.html</link>
-  <pubDate>Fri, 20 Nov 2009 00:00:00 +0000</pubDate>
- </item>
- <item>
-  <title>About this Blog</title>
-  <link>https://breckyunits.com/code/about-this-blog.html</link>
-  <pubDate>Wed, 18 Nov 2009 00:00:00 +0000</pubDate>
- </item>
+<title>Useful Grep Searches with Scroll</title>
+<link>https://breckyunits.com/code/grep.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>My Sublime Settings</title>
+<link>https://breckyunits.com/code/my-sublime-setttings.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Git Clone over SSH</title>
+<link>https://breckyunits.com/code/git-clone-over-ssh.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Unpause</title>
+<link>https://breckyunits.com/code/unpause.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Git Ignore Global</title>
+<link>https://breckyunits.com/code/git-ignore-global.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Execute commands on remote server via ssh</title>
+<link>https://breckyunits.com/code/execute-commands-on-remote-server-via-ssh.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Cool Way to Duplicate a Finder Window in the Current Directory</title>
+<link>https://breckyunits.com/code/cool-way-to-duplicate-a-finder-window-in-the-current-directory.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Great Overview of Linux Command Line</title>
+<link>https://breckyunits.com/code/great-overview-of-linux-command-line.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Find big files in Linux</title>
+<link>https://breckyunits.com/code/find-big-files-in-linux.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ack and ackmate</title>
+<link>https://breckyunits.com/code/ack-and-ackmate.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>nohup and disown</title>
+<link>https://breckyunits.com/code/nohup-and-disown.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Apache, SSL and self signed certificates</title>
+<link>https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>New shortcuts</title>
+<link>https://breckyunits.com/code/new-shortcuts.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>EC2 Command Line Tools</title>
+<link>https://breckyunits.com/code/ec2-command-line-tools.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>zip a directory in linux</title>
+<link>https://breckyunits.com/code/zip-a-directory-in-linux.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Recursive Sed</title>
+<link>https://breckyunits.com/code/recursive-sed.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>netstat</title>
+<link>https://breckyunits.com/code/netstat.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bash History</title>
+<link>https://breckyunits.com/code/bash-history.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Amazing SSH Tricks</title>
+<link>https://breckyunits.com/code/amazing-ssh-tricks.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ngrep for packet monitoring</title>
+<link>https://breckyunits.com/code/ngrep-for-packet-monitoring.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Basic Linux Monitoring</title>
+<link>https://breckyunits.com/code/basic-linux-monitoring.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Creating a bootable Linux USB disk on Mac</title>
+<link>https://breckyunits.com/code/creating-a-bootable-linux-usb-disk-on-mac.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Mac Terminal Cursor Trick</title>
+<link>https://breckyunits.com/code/mac-terminal-cursor-trick.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Notepad++ HAML Syntax Highlighting and other custom extension mapping</title>
+<link>https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Apache Conf and Htaccess Examples</title>
+<link>https://breckyunits.com/code/apache-conf-and-htaccess-examples.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Fix for "selinux 3.82" stuck while installing Ubuntu from USB Drive</title>
+<link>https://breckyunits.com/code/fix-for-selinux-3.82-stuck-while-installing-ubuntu-from-usb-drive.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>My Programming Setup</title>
+<link>https://breckyunits.com/code/my-programming-setup.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What Happens When you Open a 1.7 GB text file?</title>
+<link>https://breckyunits.com/code/what-happens-when-you-open-a-1.7-gb-text-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Wildcard Subdomains with GoDaddy</title>
+<link>https://breckyunits.com/code/wildcard-subdomains-with-godaddy.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Quickly Set up a Web Proxy Server</title>
+<link>https://breckyunits.com/code/quickly-set-up-a-web-proxy-server.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A few new Tricks in Notepad++</title>
+<link>https://breckyunits.com/code/a-few-new-tricks-in-notepad.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>RVM Quick Reference</title>
+<link>https://breckyunits.com/code/rvm-quick-reference.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Forward a port on a remote server to your local machine with an SSH Reverse Tunnel</title>
+<link>https://breckyunits.com/code/forward-a-port-on-a-remote-server-to-your-local-machine-with-an-ssh-reverse-tunnel.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Features I Miss from Notepad++ in Textmate</title>
+<link>https://breckyunits.com/code/features-i-miss-from-notepad-in-textmate.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Git ignore a file that's in the repo</title>
+<link>https://breckyunits.com/code/git-ignore-a-file-thats-in-the-repo.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Adjusting to a Mac</title>
+<link>https://breckyunits.com/code/adjusting-to-a-mac.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Remove all DS_Store files recursively</title>
+<link>https://breckyunits.com/code/remove-all-ds_store-files-recursively.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Rubyful Soup</title>
+<link>https://breckyunits.com/code/rubyful-soup.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Windows 7 Hosts File</title>
+<link>https://breckyunits.com/code/windows-7-hosts-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>VIM and Rails</title>
+<link>https://breckyunits.com/code/vim-and-rails.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>PHPUnit Filter Option</title>
+<link>https://breckyunits.com/code/phpunit-filter-option.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Kill a Detached Rails Webrick Server</title>
+<link>https://breckyunits.com/code/kill-a-detached-rails-webrick-server.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Cygwin SSH Client Keep Alive</title>
+<link>https://breckyunits.com/code/cygwin-ssh-client-keep-alive.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Augmented Gitignore</title>
+<link>https://breckyunits.com/code/augmented-gitignore.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Windows Flush DNS</title>
+<link>https://breckyunits.com/code/windows-flush-dns.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Insert a line of text to the top of a file</title>
+<link>https://breckyunits.com/code/insert-a-line-of-text-to-the-top-of-a-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>wget don't save file</title>
+<link>https://breckyunits.com/code/wget-dont-save-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Dump MySQL schema only</title>
+<link>https://breckyunits.com/code/dump-mysql-schema-only.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>gca alias for faster git</title>
+<link>https://breckyunits.com/code/gca-alias-for-faster-git.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ls color scheme</title>
+<link>https://breckyunits.com/code/ls-color-scheme.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Recursive ls</title>
+<link>https://breckyunits.com/code/recursive-ls.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>vim macros</title>
+<link>https://breckyunits.com/code/vim-macros.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>pwd while in a symlink directory</title>
+<link>https://breckyunits.com/code/pwd-while-in-a-symlink-directory.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Case sensitivity in MySQL table names and lower_case_table_names</title>
+<link>https://breckyunits.com/code/case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ANSI or ASCII and Unicode or UTF-8 and Newlines</title>
+<link>https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The BASH Programming Language</title>
+<link>https://breckyunits.com/code/the-bash-programming-language.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution</title>
+<link>https://breckyunits.com/code/cygwin-error-could-not-resolve-hostname-x-non-recoverable-failure-in-name-resolution.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Plugins for Notepad++</title>
+<link>https://breckyunits.com/code/plugins-for-notepad.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>More tips on using rsync to deploy your website</title>
+<link>https://breckyunits.com/code/more-tips-on-using-rsync-to-deploy-your-website.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Linux Go Back to Previous Directory</title>
+<link>https://breckyunits.com/code/linux-go-back-to-previous-directory.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Should your source code be in one folder or should it be nested?</title>
+<link>https://breckyunits.com/code/should-your-source-code-be-in-one-folder-or-should-it-be-nested.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Unix date command</title>
+<link>https://breckyunits.com/code/unix-date-command.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bug Workaround for JS Charts Error: Not enough data to display chart</title>
+<link>https://breckyunits.com/code/bug-workaround-for-js-charts-error-not-enough-data-to-display-chart-.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Change the file owner or group in Linux</title>
+<link>https://breckyunits.com/code/change-the-file-owner-or-group-in-linux.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How to load a sql file into MySql</title>
+<link>https://breckyunits.com/code/how-to-load-a-sql-file-into-mysql.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Shortcut for switching to a Windows directory in Cygwin</title>
+<link>https://breckyunits.com/code/shortcut-for-switching-to-a-windows-directory-in-cygwin.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Cygwin treats the Windows Clipboard like a file</title>
+<link>https://breckyunits.com/code/cygwin-treats-the-windows-clipboard-like-a-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>New tricks in Vim</title>
+<link>https://breckyunits.com/code/new-tricks-in-vim.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Pipes, standard output and standard input</title>
+<link>https://breckyunits.com/code/pipes-standard-output-and-standard-input.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Run multiple commands at once</title>
+<link>https://breckyunits.com/code/run-multiple-commands-at-once.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use cat to combine or print the contents of a file</title>
+<link>https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The only 5 git commands you need to know</title>
+<link>https://breckyunits.com/code/the-only-5-git-commands-you-need-to-know.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use scp to download a file from a server</title>
+<link>https://breckyunits.com/code/use-scp-to-download-a-file-from-a-server.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Clear screen in cygwin</title>
+<link>https://breckyunits.com/code/clear-screen-in-cygwin.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use sed to find and replace</title>
+<link>https://breckyunits.com/code/use-sed-to-find-and-replace.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bash variables</title>
+<link>https://breckyunits.com/code/bash-variables.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How to fix an overwhelmed Gmail Accout</title>
+<link>https://breckyunits.com/code/how-to-fix-an-overwhelmed-gmail-accout.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>List only directories using ls</title>
+<link>https://breckyunits.com/code/list-only-directories-using-ls.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Seven aliases that can save you time</title>
+<link>https://breckyunits.com/code/seven-aliases-that-can-save-you-time.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>git clone without history</title>
+<link>https://breckyunits.com/code/git-clone-without-history.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Turn off bell in cygwin</title>
+<link>https://breckyunits.com/code/turn-off-bell-in-cygwin.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Create a new user in Linux</title>
+<link>https://breckyunits.com/code/create-a-new-user-in-linux.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Learn Symbolic Links in 30 seconds</title>
+<link>https://breckyunits.com/code/learn-symbolic-links-in-30-seconds.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use aliases to save time</title>
+<link>https://breckyunits.com/code/use-aliases-to-save-time.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How I organize my Dropbox</title>
+<link>https://breckyunits.com/code/how-i-organize-my-dropbox.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use git to get the latest source code only</title>
+<link>https://breckyunits.com/code/use-git-to-get-the-latest-source-code-only.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What non-web software do you use the most?</title>
+<link>https://breckyunits.com/code/what-non-web-software-do-you-use-the-most.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>cron in 2 steps</title>
+<link>https://breckyunits.com/code/cron-in-2-steps.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Fix permission problems using chmod</title>
+<link>https://breckyunits.com/code/fix-permission-problems-using-chmod.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use the linux find command to find files</title>
+<link>https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use grep to search multiple files at once</title>
+<link>https://breckyunits.com/code/use-grep-to-search-multiple-files-at-once.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use rsync to deploy your website</title>
+<link>https://breckyunits.com/code/use-rsync-to-deploy-your-website.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Get VIM Working in Cygwin</title>
+<link>https://breckyunits.com/code/get-vim-working-in-cygwin.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>SSH into your server without a password</title>
+<link>https://breckyunits.com/code/ssh-into-your-server-without-a-password.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>About this Blog</title>
+<link>https://breckyunits.com/code/about-this-blog.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
 </channel>
 </rss>

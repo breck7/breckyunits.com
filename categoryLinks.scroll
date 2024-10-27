@@ -1,25 +1,29 @@
 importOnly
 
-<div class="categoryLinks">
- <a href="index.html">All</a>
- <a href="search.html">Search</a>
- <a href="treeNotation.html">Scroll</a>
- <a href="programming.html">Programming</a>
- <a href="writing.html">Writing</a>
- <a href="thinking.html">Thinking</a>
- <a href="data.html">Data</a>
- <a href="life.html">Life</a>
- <a href="society.html">Society</a>
- <a href="startups.html">Startups</a>
- <a href="bipolar.html">Bipolar Energy</a>
- <a href="freedom.html">Intellectual Freedom</a>
- </div>
+%nav.catLinks
+- All
+ index.html
+- Search
+ search.html
+- Scroll
+ treeNotation.html
+- Programming
+ programming.html
+- Writing
+ writing.html
+- Thinking
+ thinking.html
+- Data
+ data.html
+- Life
+ life.html
+- Society
+ society.html
+- Startups
+ startups.html
+- Bipolar Energy
+ bipolar.html
+- Intellectual Freedom
+ freedom.html
 
-<style>.categoryLinks { text-align: center; font-size: 14px; margin: 5px; } .categoryLinks a {padding: 0 10px 0 10px;} </style>
-css
- .labButton {
- 	background-color: rgb(0, 116, 212);
- 	border-radius: 5px;
- 	color: white;
- 	font-family: "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Ubuntu, sans-serif;
- }
+css .catLinks {font-size: 14px; margin: 3px;}
