@@ -1,20 +1,58 @@
+title Breck Yunits - Portfolio
+
 buildHtml
 
+
+theme gazette
+printTitle
+
+css
+ body {font-family: arial; text-align: center;}
+ :root {
+  --scale: 0.5; /* Change this single value to adjust the scale */
+ }
+ iframe {
+   width: 800px;
+   height: 600px;
+   border-radius: 15px;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+   padding: 20px;
+   display: inline-block;
+   border: 0;
+   transform: scale(var(--scale));
+   transform-origin: 0 0;
+ }
+ .iframeHolder {
+  width: calc(800px * var(--scale));
+  height: calc(600px * var(--scale));
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  margin: 3px;
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+ }
+
+
+
 table
- orderBy year
-  compose tag <div class="iframeHolder"><iframe sandbox="allow-scripts allow-same-origin allow-forms" allow="camera 'none'; microphone 'none'; geolocation 'none'; payment 'none'; battery 'none'; accelerometer 'none'; gyroscope 'none'" src="{url}" frameborder="0"></iframe></div>
-   printColumn tag
- delimiter
+ where year > 2000
+  limit 0 100
+   orderBy -year
+    compose tag <div class="iframeHolder"><div><a href="{url}">{name} - {year}</a></div><iframe sandbox="allow-scripts allow-same-origin allow-forms" allow="camera 'none'; microphone 'none'; geolocation 'none'; payment 'none'; battery 'none'; accelerometer 'none'; gyroscope 'none'" src="{url}" frameborder="0"></iframe></div>
+     printColumn tag
  data
-  year url
-  2007 https://breckyunits.com
-  2021 https://scroll.pub
-  2017 https://pldb.io
-  2024 https://news.pub
-  2024 https://wifinder.wiki
-  2023 https://longbeach.pub
-  2023 https://hawaii.publicdomaincompany.com
-  2022 https://cancerdb.com
-  2022 https://braindb.com
-  2017 https://ohayo.computer.com
-  2021 https://simoji.breckyunits.com
+  year,url,name
+  2007,https://breckyunits.com,My blog
+  2021,https://scroll.pub,Scroll
+  2024,https://hub.scroll.pub,ScrollHub
+  2024,https://wws.scroll.pub,The Scroll
+  2017,https://pldb.io,PLDB
+  2024,https://news.pub,BuilderNews
+  2024,https://wifinder.wiki,WiFinder
+  2023,https://longbeach.pub,Long Beach Pub
+  2023,https://hawaii.togger.com,Hawai'i Pub
+  2022,https://cancerdb.com,CancerDB
+  2022,https://braindb.com,BrainDB
+  2017,https://ohayo.breckyunits.com,Ohayo
+  2021,https://simoji.treenotation.org,Simoji
