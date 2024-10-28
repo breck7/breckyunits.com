@@ -6,6 +6,6 @@ printSnippets All
 
 heatmap.scroll
 
-// webRing.scroll
+webRing.scroll
 
 footer.scroll
