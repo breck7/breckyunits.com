@@ -3,6 +3,7 @@ description Posts on this blog categorized in CAT_TITLE.
 openGraphImage screenshot.png
 tags categoryPages
 title Breck's Blog - CAT_TITLE Posts
+linkTitle CAT_TITLE
 
 settings.scroll
 topLinks.scroll

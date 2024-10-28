@@ -1,29 +1,6 @@
 importOnly
 
-%nav.catLinks
-- All
- index.html
-- Search
- search.html
-- Scroll
- treeNotation.html
-- Programming
- programming.html
-- Writing
- writing.html
-- Thinking
- thinking.html
-- Data
- data.html
-- Life
- life.html
-- Society
- society.html
-- Startups
- startups.html
-- Bipolar Energy
- bipolar.html
-- Intellectual Freedom
- freedom.html
-
-css .catLinks {font-size: 14px; margin: 3px;}
+nav categoryPages
+css
+ .scrollNavParser {text-align: center; font-size: 14px; margin: 8px;}
+ nav a { margin: 0 5px;}
