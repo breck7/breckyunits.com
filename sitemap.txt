@@ -16,6 +16,7 @@ https://breckyunits.com/short.html
 https://breckyunits.com/search.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/posts.html
+https://breckyunits.com/portfolio.html
 https://breckyunits.com/pcri.html
 https://breckyunits.com/parserUsage.html
 https://breckyunits.com/parserStats.html
