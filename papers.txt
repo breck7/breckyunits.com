@@ -1,30 +1,65 @@
 Breck's Blog - Papers Posts
 ===========================
 
-- All
- https://breckyunits.com/index.html All
-- Search
- https://breckyunits.com/search.html Search
-- Scroll
- https://breckyunits.com/treeNotation.html Scroll
-- Programming
- https://breckyunits.com/programming.html Programming
-- Writing
- https://breckyunits.com/writing.html Writing
-- Thinking
- https://breckyunits.com/thinking.html Thinking
-- Data
- https://breckyunits.com/data.html Data
-- Life
- https://breckyunits.com/life.html Life
-- Society
- https://breckyunits.com/society.html Society
-- Startups
- https://breckyunits.com/startups.html Startups
-- Bipolar Energy
- https://breckyunits.com/bipolar.html Bipolar Energy
-- Intellectual Freedom
- https://breckyunits.com/freedom.html Intellectual Freedom
+Breck's Blog - Bipolar Energy Posts
+===================================
+10/29/2024
+https://breckyunits.com/bipolar.html
+
+Breck's Blog - Data Posts
+=========================
+10/29/2024
+https://breckyunits.com/data.html
+
+Breck's Blog - Intellectual Freedom Posts
+=========================================
+10/29/2024
+https://breckyunits.com/freedom.html
+
+Breck's Blog - All Posts
+========================
+10/29/2024
+https://breckyunits.com/index.html
+
+Breck's Blog - Life Posts
+=========================
+10/29/2024
+https://breckyunits.com/life.html
+
+Breck's Blog - Programming Posts
+================================
+10/29/2024
+https://breckyunits.com/programming.html
+
+Search Breck's Blog
+===================
+10/29/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Society Posts
+============================
+10/29/2024
+https://breckyunits.com/society.html
+
+Breck's Blog - Startups Posts
+=============================
+10/29/2024
+https://breckyunits.com/startups.html
+
+Breck's Blog - Thinking Posts
+=============================
+10/29/2024
+https://breckyunits.com/thinking.html
+
+Breck's Blog - Scroll Posts
+===========================
+10/29/2024
+https://breckyunits.com/treeNotation.html
+
+Breck's Blog - Writing Posts
+============================
+10/29/2024
+https://breckyunits.com/writing.html
 
 Particle Chain: A New Kind of Blockchain
 ========================================
@@ -71,4 +106,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v145.5.1
+Built with Scroll v145.8.0

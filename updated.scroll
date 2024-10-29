@@ -1,6 +1,6 @@
-replace CAT_TITLE All
+replace CAT_TITLE Updated
 
-categoryPage.scroll
+// categoryPage.scroll
 
 // printSnippets All
  sortBy commitTime

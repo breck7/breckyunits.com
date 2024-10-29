@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+Copyright is a mind virus
+=========================
+10/29/2024
+https://breckyunits.com/copyrightIsAMindVirus.html
+
 Patents are Poison
 ==================
 10/27/2024
@@ -1181,4 +1186,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v145.5.1
+Built with Scroll v145.8.0
