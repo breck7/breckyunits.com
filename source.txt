@@ -1,3 +1,267 @@
+/home/runner/work/breckyunits.com/breckyunits.com/writeable.scroll
+ date 2024-11-02
+ tags All IntellectualFreedom
+ title Writeable
+ 
+ header.scroll
+ printTitle
+ printAuthors
+ printDate
+ 
+ container 400px
+ 
+ If you could see everything across space and time, we would not need to read and write.
+ 
+ ***
+ 
+ You would not need words to tell someone how blue the Pacific can be because they could just see it.
+ 
+ You would not need words to learn when your grandfather decided your grandmother was the one because you could just see everything he saw.
+ 
+ ***
+ 
+ But we can't see everything.
+ 
+ We can only see what's in front of us at this moment.
+ 
+ ***
+ 
+ This is not optimal for our health.
+ 
+ Our Universe is mostly mystery, but at least we know there are patterns.
+ 
+ And if you can learn these patterns, you can have a better time.
+ 
+ ***
+ 
+ To learn a pattern you first must see it.
+ 
+ Our ancestors could only see with their eyes.
+ 
+ Some lucky descendants evolved the ability to imagine things that weren't there.
+ 
+ Language requires imagination.
+ 
+ ***
+ 
+ Once we could imagine, symbols could evolve.
+ 
+ A discoloring on a surface.
+ 
+ A mark to communicate a pattern.
+ 
+ What was the first mark?
+ 
+ What was the first symbol?
+ 
+ Let's imagine.
+ 
+ ***
+ 
+ A man sees a cave.
+ 
+ It is cold and getting dark.
+ 
+ He approaches, but then lurches back.
+ 
+ He sees a bear!
+ 
+ He holds his spear and prepares for battle.
+ 
+ But the bear does not move.
+ 
+ He looks closely.
+ 
+ It is not a bear, but simply charcoal discoloring the wall.
+ 
+ He remembers the shadows his companions make around the campfire to communicate they saw a bear.
+ 
+ He thinks perhaps one of them rubbed charcoal to make a permanent shadow.
+ 
+ He finds a different cave.
+ 
+ In the future, when he sees bears, he grabs some charcoal and repeats the symbol.
+ 
+ ***
+ 
+ Perhaps it was something like this that kickstarted writing.
+ 
+ Pictures at first, then pictographs and eventually phonetic alphabets where infinite patterns could be composed and communicated.
+ 
+ ***
+ 
+ Tens of thousands of years later, here we are with huge numbers of people who spend their days drawing charcoal bears.
+ 
+ ***
+ 
+ Our tribe now uses writing (or at least, pretends to use writing) to set the rules.
+ 
+ These include rules about writing.
+ 
+ What should the rules on writing be?
+ 
+ What is writing good for?
+ 
+ ***
+ 
+ Is it the author of the symbols that is most important, the symbols that are most important, or is it the user of the symbols that is most important?
+ 
+ ***
+ 
+ Authors have clear incentive to create symbols since that very first symbol: symbols save lives.
+ 
+ Even if it's not your own life, or your child's life, even if it's a complete stranger's life, we have learned that a civilization of strangers cooperating peacefully create a better world for all.
+ 
+ ***
+ 
+ The symbols themselves, without humans, are literally meaningless. So it can't be that.
+ 
+ ***
+ 
+ It is clear the most important thing is that the rules around symbols should benefit the users of symbols.
+ 
+ What can we do to equip users with the best symbols possible?
+ 
+ ***
+ 
+ What if bears learned to write?
+ 
+ We might not be here.
+ 
+ Our ancestors might have seen an idyllic image of a cozy cave and walked right into a bear's mouth.
+ 
+ Lies kill.
+ 
+ ***
+ 
+ Can we protect ourselves from writing bears, from lies?
+ 
+ How do we make the most from symbols?
+ 
+ The trick is to make symbols as honest as possible.
+ 
+ And how do we do that?
+ 
+ ***
+ 
+ Bears want nothing more than to outlaw writeability.
+ 
+ Bears do not want you to spread the truth about their cave.
+ 
+ They don't want you to know what's really inside.
+ 
+ And so to do that, not only do they lie about what's inside, but they make their wall unwriteable.
+ 
+ They do not allow edits. They do not allow transformations.
+ 
+ Bears make symbols to serve themselves, and themselves alone.
+ 
+ And by doing that, they lead people to slaughter.
+ 
+ ***
+ 
+ All symbols should be writeable.
+ 
+ Do not trust anyone who wants to restrict your rights to write.
+ 
+ ****
+ 
+ footer.scroll
+ 
+/home/runner/work/breckyunits.com/breckyunits.com/whyScroll.scroll
+ date 2024-11-01
+ tags All Scroll
+ title Why Scroll?
+ 
+ header.scroll
+ printTitle
+ printAuthors
+ printDate
+ 
+ container 300px
+ 
+ Everything I own is in the overhead bin.
+ 
+ This is cool if you are 20.
+ 
+ But I am 40. I have two kids.
+ 
+ At 40 this is a bit extreme.
+ 
+ ***
+ 
+ The kid next to me is 20.
+ 
+ She is a computer science major.
+ 
+ We talk about languages.
+ 
+ I play dumb and mostly listen.
+ 
+ ***
+ 
+ She is wondering which language to use.
+ 
+ Her ML class uses Python.
+ 
+ Her OS class, C++.
+ 
+ For fun, she uses Javascript.
+ 
+ ***
+ 
+ I suggest she enjoy them all.
+ 
+ It's like traveling.
+ 
+ Learn the place in front of you.
+ 
+ You will visit many.
+ 
+ ***
+ 
+ The topic comes to my work.
+ 
+ I used to be shy about it.
+ 
+ Terrified of misleading.
+ 
+ Not anymore. I demo.
+ 
+ ***
+ 
+ Scroll is very practical.
+ 
+ We make useful things fast.
+ 
+ Right there on the plane.
+ 
+ With no internet.
+ 
+ ***
+ 
+ I explain Scroll is like a game.
+ 
+ To play you put a subject into symbols.
+ 
+ To win you cover it all with no extra parts.
+ 
+ The prize is you've figured it out.
+ 
+ ***
+ 
+ To pack so light I've filtered objects.
+ 
+ Kept only the most useful ones.
+ 
+ To write Scroll is to filter symbols.
+ 
+ To keep only the most useful ones.
+ 
+ ****
+ 
+ footer.scroll
+ 
 /home/runner/work/breckyunits.com/breckyunits.com/copyrightIsAMindVirus.scroll
  date 2024-10-29
  tags All IntellectualFreedom
@@ -7487,6 +7751,9 @@
  
  If fatter columns were more readable we would have known by now.
  
+ nytimesDrawing.png
+  caption The New York Times has thin columns. They were even thinner a century ago. In the 1800's, people had time on their hands. I'm sure the smartest writers and editors experimented with many column widths and determined thin was better.
+ 
  Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
  
  ? How does column width affect writing quality?
@@ -7518,8 +7785,6 @@
  Jets are great, but beware jet lag when traveling. Big screens are great, but beware eye lag when writing. Try thin columns.
  
  ****
- 
- nytimesDrawing.png
  
  # Notes
  - I wonder if sometimes over the years when I felt "in the zone" while writing, it may have been partly a result of coincidentally using a narrow column width.

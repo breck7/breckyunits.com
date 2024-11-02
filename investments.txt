@@ -25,29 +25,29 @@ My Angel Investments
 
 A sample of the companies I've invested in is listed below:
 
-Name	NameLink
-Alba Orbital	https://www.albaorbital.com/
-Alltruists	https://www.instagram.com/alltruists/
-AngelList	https://www.angellist.com/
-Avion	https://www.avionschool.com/
-DreamWorld	https://www.playdreamworld.com/
-Elpha	https://elpha.com/
-Float	https://floatpay.com/
-Gerald	https://joingerald.com/
-H3X	https://www.h3x.tech/
-Jelly	https://jellypbc.com/
-Kilobaser	https://kilobaser.com/
-Levels	https://www.levelshealth.com/
-Localyze	https://www.localyze.com/
-Mercury	https://mercury.com/
-NearAI	http://near.ai/
-Numina	https://numina.co/
-Numind	https://www.numind.ai/
-Pear Suite	https://www.pearsuite.com/
-Serinus	https://www.serinus.bio/
-Span	https://www.span.io/
-Version Story	https://versionstory.com/
-Wefunder	https://wefunder.com/
+Name,Stage,NameLink
+Alba Orbital,Seed,https://www.albaorbital.com/
+Alltruists,Seed,https://www.instagram.com/alltruists/
+AngelList,Late,https://www.angellist.com/
+Avion,Seed,https://www.avionschool.com/
+DreamWorld,Seed,https://www.playdreamworld.com/
+Elpha,Seed,https://elpha.com/
+Float,Seed,https://floatpay.com/
+Gerald,Seed,https://joingerald.com/
+H3X,Seed,https://www.h3x.tech/
+Jelly,Seed,https://jellypbc.com/
+Kilobaser,Seed,https://kilobaser.com/
+Levels,Late,https://www.levelshealth.com/
+Localyze,Seed,https://www.localyze.com/
+Mercury,Late,https://mercury.com/
+NearAI,Seed,http://near.ai/
+Numina,Seed,https://numina.co/
+Numind,Seed,https://www.numind.ai/
+Pear Suite,Seed,https://www.pearsuite.com/
+Serinus,Seed,https://www.serinus.bio/
+Span,Late,https://www.span.io/
+Version Story,Seed,https://versionstory.com/
+Wefunder,Late,https://wefunder.com/
 
 ⁂
 
@@ -58,4 +58,4 @@ An Angel Investor's Data
 09/01/2022
 https://breckyunits.com/an-angel-investors-data.html
 
-Built with Scroll v145.8.0
+Built with Scroll v145.11.1

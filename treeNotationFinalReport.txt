@@ -66,6 +66,11 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 
 Related Posts
 =============
+Why Scroll?
+===========
+11/01/2024
+https://breckyunits.com/whyScroll.html
+
 Microprogramming: A New Way to Program
 ======================================
 09/24/2024
@@ -253,4 +258,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v145.8.0
+Built with Scroll v145.11.1

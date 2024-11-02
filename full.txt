@@ -1,6 +1,16 @@
 Breck's Blog
 ============
 
+Writeable
+=========
+11/02/2024
+https://breckyunits.com/writeable.html
+
+Why Scroll?
+===========
+11/01/2024
+https://breckyunits.com/whyScroll.html
+
 Copyright is a mind virus
 =========================
 10/29/2024
@@ -1186,4 +1196,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v145.8.0
+Built with Scroll v145.11.1
