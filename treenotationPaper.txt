@@ -2,7 +2,7 @@ Tree Notation: an antifragile program notation
 ==============================================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 June 21, 2017
 
 > Note: I renamed Tree Notation to Particles. For the latest on this, start with Scroll.
@@ -159,4 +159,4 @@ References
 
 ^Ender: Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

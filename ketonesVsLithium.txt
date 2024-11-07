@@ -1,7 +1,7 @@
 Ketones vs Lithium
 ==================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 [Image Omitted]
  Pricking my finger then measuring the level of ketones in my blood.
@@ -294,6 +294,9 @@ To know the odds that any two random blood tests would have an overlapping targe
 
 Just how many chemicals are there? According to the WHO, humans have now labeled over 160,000,000 chemicals! If you measured your blood levels for each one of these chemicals with one drop of blood per test, doing one test a second, you would be dead by tomorrow night and only have done 00.00075% of the tests.
  https://www.who.int/tools/compendium-on-health-and-environment/chemicals over 160,000,000
+ // 20drops in 1mL times 6 liters = 120,000 drops of blood
+ // 120000 seconds to hours = 33
+ // 120k/160M = 0.00075
 
 So, let's narrow our list of chemicals to just the ones commonly found in human blood.
 
@@ -403,4 +406,4 @@ Notes
 
 Thanks to RGM for feedback on this post.
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

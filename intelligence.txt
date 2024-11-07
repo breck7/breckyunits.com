@@ -1,7 +1,7 @@
 ICS: A Measure of Intelligence
 ==============================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 June 6, 2024
 
 HTML | TXT
@@ -70,4 +70,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

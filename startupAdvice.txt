@@ -7,7 +7,7 @@ A collection of strong advice for those doing startups.
 
 October 20, 2024
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 *Publish early and often:* I don't know of a single polished world changing product that did not start as a shitty product launched, iterated, and relaunched to increasingly larger groups of people. Even the iPhone went through this process.
 
@@ -30,4 +30,4 @@ Strong Startup Advice from others:
 
 > *Read:* in my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero. - Charlie Munger
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

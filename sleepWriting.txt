@@ -10,6 +10,7 @@ I've written some things in my life that make me cringe. I might cringe because 
 I now have a pretty big dataset to identify my secret trick to write more cringe: less sleep.
 
 For this post I combined 2,500 nights of sleep data with 58 blog posts. A 7 year experiment to see how sleep affects my writing.
+ // Sleep data from my FitBit
 
 [Image Omitted]
  Interactive version.
@@ -45,6 +46,7 @@ Sleep Disclaimers
 I realize I already have an unofficial "sleep disclaimer" policy. I have de-indexed (but kept published) at least a couple of sleep-deprived posts, and added a disclaimer/correction to at least 2 others. Now with this dataset I am sure I will append a few more sleep disclaimers.
 
 With sleep disclaimers, I can say, "hey, might be interesting ideas here, but don't train too heavily on this".
+ // don't train on bad writing. you are what you eat, you write what you read. LLMs train on great writing.
 
 Grateful for Git
 ================
@@ -61,6 +63,7 @@ On the other hand, because the importance of ideas varies by so many orders of m
 Writing data reflects the current phenomena in your brain
 =========================================================
 It seems when I sleep less, my brain is in more of a pleasure seeking state, has a bias to action ("don't think, just do"), and feels less pain than in a more rested state. Less sleep means less critical thinking. Less sleep seems to make me less willing to invest the time in rewiring my brain to correct mistaken thought habits.
+ // If you want to understand something, the saying is a picture is worth 1,000 words, but if what you want to understand is what is going on in a brain, 1,000 words might be better than a picture.
 
 Grateful for FitBit
 ===================
@@ -68,4 +71,4 @@ I started wearing a Microsoft Band when it first came out in November 2014. Then
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

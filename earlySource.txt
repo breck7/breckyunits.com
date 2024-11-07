@@ -33,4 +33,16 @@ What are the downsides? Let me hear it in the comments.
 
 ⁂
 
-Built with Scroll v145.11.1
+Update 11/4/2024
+================
+
+So far, I would have to say early source is a pain in the ass.
+
+Keeping 2 repos going, one private and one public, is just a lot of cognitive overhead. *Far* more than I thought.
+
+Instead of trying to connect revenue to digital access, I think I'll publish the ebook free, and sell a paper version, as well as additional stuff around this, like a course with real human interaction.
+ https://masters.scroll.pub/ a course
+
+*
+
+Built with Scroll v146.1.0

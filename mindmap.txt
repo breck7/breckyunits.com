@@ -1,7 +1,7 @@
 A Different Kind of Mindmap
 ===========================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 February 24, 2024
 
@@ -36,4 +36,4 @@ Brain Pilots
 02/18/2022
 https://breckyunits.com/brain-pilots.html
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

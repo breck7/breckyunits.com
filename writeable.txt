@@ -1,7 +1,7 @@
 Writeable
 =========
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 November 2, 2024
 
 If you could see everything across space and time, we would not need to read and write.
@@ -160,4 +160,4 @@ Do not trust anyone who wants to restrict your rights to write.
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

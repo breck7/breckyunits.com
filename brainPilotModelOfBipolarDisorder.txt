@@ -15,6 +15,7 @@ Brain Circuits
 The gist of Minsky's theory is that you are not a single "I", but instead a large collection of separable neural circuits working together. Your brain starts as a raw collection of neural resources and groups of neurons wire and fire in different ways to form circuits (aka "agents" or "resources").
 
 Circuits that prove useful become stronger and survive. Some of these circuits are very low level, like a circuit for blinking. Some circuits are higher level and learn to control lower level circuits to achieve their goals. For example, you can think of learning how to ride a bike as developing a "bike riding circuit" that is capable of coordinating your legs, arms, center of gravity, et cetera, to successfully steer and propel the bike.
+ // Minsky estimates thousands of agents
 
 To learn how to ride a bike, your body experiments with a lot of different circuits. The circuit that does the best job is active for a longer period of time, out-competing other possible bike riding circuits, receiving more resources, strengthening and persisting over time.
 
@@ -86,4 +87,4 @@ Unanswered Questions
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

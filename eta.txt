@@ -1,7 +1,7 @@
 ETA!: A Measure of Evolution
 ============================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 July 18, 2024
 
 HTML | TXT
@@ -14,6 +14,9 @@ Are some intellectual environments better than others? Yes.
 EvolutionTime(I) = Time(I') / AssemblyPool!
 
 ETA! states that $E$, the evolution time of ideas, is the time $T$ needed to test alterations of ideas, divided by the factorial of the number of ideas in the Assembly Pool $A!$.
+ // fitness of alterations
+ // average time
+ // more evolution time === slower, longer duration of ideas staying in worse states
 
 Longer evolution times means worse ideas last longer before evolving into better ideas.
 
@@ -28,6 +31,7 @@ You can lengthen the lifespan of bad ideas by increasing the time to test altera
 You can evolve good ideas faster by decreasing the time to test alterations and increasing the size of the Assembly Pool.
 
 The number of test threads is proportional to the size of the Assembly Pool.
+ // open question: is it A!? or something like logA?
 
 *
 
@@ -60,4 +64,4 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
  https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

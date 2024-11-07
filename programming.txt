@@ -3,62 +3,62 @@ Breck's Blog - Programming Posts
 
 Breck's Blog - Bipolar Energy Posts
 ===================================
-11/02/2024
+11/07/2024
 https://breckyunits.com/bipolar.html
 
 Breck's Blog - Data Posts
 =========================
-11/02/2024
+11/07/2024
 https://breckyunits.com/data.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/02/2024
+11/07/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/02/2024
+11/07/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/02/2024
+11/07/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/02/2024
+11/07/2024
 https://breckyunits.com/papers.html
 
 Search Breck's Blog
 ===================
-11/02/2024
+11/07/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/02/2024
+11/07/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/02/2024
+11/07/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/02/2024
+11/07/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/02/2024
+11/07/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/02/2024
+11/07/2024
 https://breckyunits.com/writing.html
 
 sf: instant scratch folders
@@ -386,4 +386,4 @@ Learning How to Program Part I
 08/28/2007
 https://breckyunits.com/learning-how-to-program-part-i.html
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

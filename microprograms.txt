@@ -2,7 +2,7 @@ Microprogramming: A New Way to Program
 ======================================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 September 24, 2024
 
 All jobs done by large monolithic software programs can be done better by a collection of small microprograms (mostly 1 line long) working together.
@@ -189,4 +189,4 @@ loblawslawcah says "The post didn't really show or explain it all that well."
 
 Perhaps a video explanation would be better:
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

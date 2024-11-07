@@ -12,6 +12,7 @@ My Angel Investments
 - I usually invest in seed rounds, but sometimes later like a Series A.
 - I usually invest as an individual, but sometimes through a shell company.
 - I love being the first check.
+ // never the lead because my work focus is research
 - My research commitments mean I don't have time to be the lead investor.
 - I like to invest in companies in accelerators. Accelerators streamline logistics. I'm happy to trade a worse valuation for time savings.
 - I invest mostly in "hard tech" startups, but sometimes invest in other things.
@@ -58,4 +59,4 @@ An Angel Investor's Data
 09/01/2022
 https://breckyunits.com/an-angel-investors-data.html
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

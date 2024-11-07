@@ -1,7 +1,7 @@
 The Omni Restaurant
 ===================
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 May 23, 2024
 
 A famous celebrity passes away and wakes up on a beach.
@@ -236,4 +236,4 @@ In front of him, eating a bowl of cereal, is a man in a Vicuna suit.
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

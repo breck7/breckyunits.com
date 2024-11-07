@@ -5,7 +5,7 @@ Datasets are automated tests for world models
 =============================================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 April 23, 2024
 
@@ -170,4 +170,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

@@ -2,7 +2,7 @@ A Higher Language
 =================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 I was walking in the woods and saw a path on my right. I had never seen this path before.
 
@@ -64,4 +64,4 @@ I saw the previous end of the tunnel went to nowhere, over a void, and the new e
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

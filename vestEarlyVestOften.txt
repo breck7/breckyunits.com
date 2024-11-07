@@ -7,8 +7,10 @@ Silicon Valley Should Eliminate the 1 Year Cliff
 July 4, 2024
 
 I lived in San Francisco and Seattle in the 2000's and 2010's, and if I told you the names of every startup I almost joined as employee <5, you'd probably think I was lying.
+ // I call this move the "Quiet Name Drop"
 
 But I declined them all for the same reason: the 1 year vesting cliff.
+ // though I couldn't articulate this at the time. it was only years after that I realized it was always the cliff that I disliked.
 
 *
 
@@ -69,4 +71,4 @@ But if your startups wants to hire me and pay me in options, I am available. (Fo
 
 [Image Omitted]
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

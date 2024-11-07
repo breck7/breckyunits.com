@@ -2,7 +2,7 @@ Three Scientists Go To Heaven
 =============================
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 [Image Omitted]
 
@@ -46,4 +46,4 @@ God asks to see his work.
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0

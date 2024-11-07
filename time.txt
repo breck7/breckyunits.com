@@ -2,7 +2,7 @@ Time
 ====
 
 by Breck Yunits
- https://breckyunits.com Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
 
 Two people in the same forest,
 have the same amount of water and food,
@@ -18,4 +18,4 @@ Their journeys can be very different.
 
 ⁂
 
-Built with Scroll v145.11.1
+Built with Scroll v146.1.0
