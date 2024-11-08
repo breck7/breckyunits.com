@@ -27,8 +27,6 @@ PTCRI explains the simplicity and power of Particles^treeNotationNameChange. Fou
  https://scroll.pub Particles
 
 PTCRI also explains why _nearly_ flat structures work so well: a little nesting goes a long way. If you set T and C and R to 3, changing I from 1 to 2 increases the amount of possible programs from 7,625,597,484,987 to 58,149,737,003,040,060,000,000,000.
- // Math.pow(Math.pow(3, Math.pow(3, 3)), 1) vs:
- // Math.pow(Math.pow(3, Math.pow(3, 3)), 2)
 
 *
 
@@ -117,4 +115,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

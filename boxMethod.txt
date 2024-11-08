@@ -8,7 +8,6 @@ The Box Method of Science
 March 30, 2024
 
 Given a box with side _S_, over a certain timespan _t_, with minimum voxel resolution _V_, how many unique concepts _C_ are needed to describe all the patterns (repeated phenomena) _P_ that occur in the box?
- // box === cube
 
 *
 
@@ -19,7 +18,6 @@ As your voxel size--the smallest unit of measurement--decreases, the number of c
 As your time horizon increases, the number of concepts needed increases, as patterns combine to produce novel patterns in combinatorial ways, and some patterns only unfold over a certain period of time. Although, past a certain amount of time, maybe everything just repeats again.
 
 In fact, it seems likely that the number of concepts _C_ would grow sigmoidally with each of these factors.
- // (does this hold under close examination?)
 
 *
 
@@ -147,4 +145,4 @@ Notes
 - This great new post by Stephen Wolfram explores similar ideas.
  https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/ great new post
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

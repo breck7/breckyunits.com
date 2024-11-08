@@ -9,7 +9,6 @@ A Brief Formal Discussion
 =========================
 First I state the obvious, that open-mindedness, $OM$, is a measure of a mind, $M$. I will assume $M$ can be modeled as a society of agents, $A$, each occupying some neural space $N$. The formation of new $A$ in space $N$ is done by learning process $L$. Some $A$ can act as learning control agents and can act, with discretion, to block the $M$ from learning new agents.
  https://breckyunits.com/marvin-minsky.html a society of agents
- // If that assumption is false, this essay is not likely to be true.
 
 The rest of this essay I'll spell out the full terms but stick to the list of concepts above.
 
@@ -115,4 +114,4 @@ Or it could be simply a waiting strategy, where a mind is shut only to increment
 
 ⁂
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

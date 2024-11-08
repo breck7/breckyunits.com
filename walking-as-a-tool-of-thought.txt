@@ -21,12 +21,10 @@ My bet is it has something to do with neural agents.
 Fatigue Theory
 ==============
 Perhaps it's a muscle fatigue phenomena. When you are working on an idea a few _active agents_ in your brain have control. Those agents consist largely of neurons. Perhaps thousands of cells, perhaps many millions. Cells consume energy and create waste products. Perhaps like a muscle, the active agents become fatigued. Going for a walk hands control to other neural agents which allows the previously active agents to recuperate. After they are rested, they have a much better shot at solving the next piece of the puzzle.
- // How would you test this?
 
 Change in Perspective Theory
 ============================
 Or perhaps it's a change in perspective phenomena. It's not that the active agents are fatigued, it's that they are indeed stuck in a maze with no feasible way out. The act of walking gives control to other agents, who may not have such a deep understanding of the problem at hand but have a different vantage point and can see an easy-to-verify but hard-to-mine path^superdimensional. Alternatively you could call this the "Alan Kay quote theory" after the quote which claims that a change in perspective can be worth as many as _eighty_ IQ points.
- // How would you test this?
 
 Connecting the Dots Theory
 ==========================
@@ -65,4 +63,4 @@ Notes
 
 ^superdimensional: Probably something super-dimensional such as "you just need a ladder".
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

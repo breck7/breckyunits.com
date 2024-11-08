@@ -13,7 +13,6 @@ A Question has infinite possible Answers. Answers can be ranked as a function of
 So to approach the Optimal Answer to a Question you want to maximize the number of relevant Cells Activated.
 
 You also want your Knowledge Base to deliver Optimal Answers fast and free. You don't want Answers where relevant Cells are missed but you want your Knowledge Base to find and Activate all the relevant Cells in seconds, not days or weeks. (You also don't want Biased Answers where some relevant Cells are ignored to promote an Answer that benefits some third party.) You want to be able to ask your Question and have all the relevant Cells Activated and the Optimal Answer returned immediately.
- // Question can also be prompt
 
 To quickly identify all the relevant Cells, your Knowledge Base needs them Connected along many different Axes. Cells that would be relevant to a Question but have few Connections are more likely to be missed.
 
@@ -36,4 +35,4 @@ Today that process still requires agency and embodiment and is done by human sci
 
 ⁂
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

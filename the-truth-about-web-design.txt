@@ -10,7 +10,6 @@ Utility and function matter a whole lot more. Why doesn’t design matter a whol
 [Image Omitted]
  Computer Screen versus View. Image source.
   https://readwriteroam.blog/for-roamers/ Image source
-  // Note: the original image was different but couldn't find it when importing this post 15 years later.
 
 Imagine trying to compete with nature. My premise is that you go to a website for the utility of it. Design is far secondary. There are plenty of prettier things to look at in the real world. Of course, you can make a website that is pretty to look at, that people will love spending time on. The way to do that is to make it look like the real world: Facebook photos, YouTube videos, etc. People will spend a lot of time on those sites because pictures and videos look pretty. But if you make a website with a whole lot of utility, design is secondary.  (And if your goal is to make a website that sells something instead of providing a service–then sometimes ugly designs win–in that case the trick is to try a lot of variation to see what works).
 
@@ -29,4 +28,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20090713043922/http://www.breckyunits.com/web-startups/2009/04/14/the-truth-about-web-design/ Original post
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

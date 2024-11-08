@@ -35,7 +35,6 @@ I was 24 years old and riding in a van driven by Brian Chesky. Joe Gebbia was sh
 We were driving back from another Tuesday night dinner in Mountainview, where another entrepreneurial dynamo, Paul Graham, had spent time with us, in between darting to a backroom to iterate on his own young creation, a product called HackerNews.
 
 The enthusiasm of all of these guys for their products beamed through like a rising sun. At the time, my projects were making more cash and had more traffic than AirBedAndBreakfast and HackerNews combined, but I knew the truth: my stuff was dogshit and I was doing it wrong. Whatever these guys were doing, that's what I wanted to do.
- // IIRC
 
 But how?
 
@@ -93,4 +92,4 @@ Make something you love.
 
 ⁂
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

@@ -2,8 +2,7 @@ What can we learn from programming language version numbers?
 ============================================================
 
 Analyzing the version numbers of 621 programming languages
- // *including some other things that are closely related to PLs.
-============================================================================================================================
+==========================================================
 
 [Image Omitted]
  Interactive Version
@@ -70,4 +69,4 @@ Notes
 =====
 - Thank you to redditors Greenbeen86, subgeniuskitty, and chibuku_chauya for pointing out the bug with the C and C++ rows.
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

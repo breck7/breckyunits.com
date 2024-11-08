@@ -11,7 +11,6 @@ by Breck Yunits
 May 21, 2024
 
 All tabular knowledge can be stored in a single long plain text file.
- // Anything that traditionally has been stored in tables, spreadsheets, etc.
 
 The only syntax characters needed are spaces and newlines.
 
@@ -111,7 +110,6 @@ ScrollSets are used to power the open source website PLDB.io. PLDB currently has
  https://pldb.io PLDB.io
 
 If printed on a single scroll, the PLDB ScrollSet would be over one kilometer long.
- // ~162,000 lines. 50 lines per page. 1 foot per page. ~3248 feet. ~1km.
 
 *
 
@@ -163,7 +161,6 @@ Citations
 ^antlr: ANTLR: Terence Parr et al
  https://www.antlr.org/ ANTLR
 ^racket: Racket: Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Shriram Krishnamurthi, et al.
- // As well as other lisps
  https://racket-lang.org/ Racket
 ^prettier: Prettier: James Long et al
  https://archive.jlongster.com/ Prettier
@@ -192,4 +189,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

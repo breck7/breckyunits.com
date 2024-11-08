@@ -28,7 +28,6 @@ Let's see how some of the things that unfolded meet the criteria of delusion as 
 Years after this dataset came out, at least in Hawai'i, my 3 year old daughter was still being required to wear a mask outdoors due to the perceived threat of Covid to kids. This was a societal delusion. The theory was that Covid was a high, avoidable danger to kids (given the data, this was <1% true). Society (or at least, "leadership"), perceived this probability to be ~50x-100x higher than it actually was. Society took years to update their perceived probability. And society took actions (requiring masks, even outdoors; closing beaches, parks, and playgrounds; "vaccination" requirements; severe limits on social gatherings) based on this delusion.
 
 Another delusion was that recovering from Covid somehow did not provide protection as well as the "vaccine" would. Given all we know about the immune system, this was a very low probability hypothesis, treated like a high probability theory, updated extremely slowly, and acted upon.
- // I put vaccine in quotes as I believe the understanding of the term used to be a medicine that prevented transmission.
 
 There were a lot of other related delusions going on at that time. Eventually however, society did update their perceived probabilities and the Covid delusions faded.
 
@@ -92,4 +91,4 @@ Maybe the trick is to have some sympathy for the delusional agent. Probabilities
 
 ⁂
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

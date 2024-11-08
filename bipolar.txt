@@ -3,62 +3,62 @@ Breck's Blog - Bipolar Energy Posts
 
 Breck's Blog - Data Posts
 =========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/data.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/07/2024
+11/08/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/07/2024
+11/08/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/07/2024
+11/08/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/writing.html
 
 A New Scientific Model of Mania and Depression, with Testable Predictions
@@ -171,4 +171,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

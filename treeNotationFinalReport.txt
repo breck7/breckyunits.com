@@ -18,7 +18,6 @@ Tree Notation was my failed decade long research project to find the _simplest_ 
 Results
 =======
 The breakthrough gains of LLMs in the past eighteen months have clearly demonstrated that I was wrong. LLMs have shown AIs can read, write, and comprehend all languages across all domains at elite levels. A universal syntax was not what we needed for the next generation of symbolic tools, but instead what we needed was attention layers, smarter chips, huge training efforts, et cetera. The difference between the time of the last report and now is that the upside potential of Tree Notation is no longer there. Back in 2019, program synthesis was still bad. No one had solved it. Tree Notation was my attempt to solve it from a different angle.
- // on elite levels: Of course, long way to go to beat all humans, but there trajectory appears unstoppable
 
 Reflection
 ==========
@@ -259,4 +258,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

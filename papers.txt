@@ -1,65 +1,65 @@
 Breck's Blog - Papers Posts
 ===========================
 
-Breck's Blog - Bipolar Energy Posts
-===================================
-11/07/2024
-https://breckyunits.com/bipolar.html
-
 Breck's Blog - Data Posts
 =========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/data.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/07/2024
+11/08/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Programming Posts
 ================================
-11/07/2024
+11/08/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/07/2024
+11/08/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/07/2024
+11/08/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/07/2024
+11/08/2024
 https://breckyunits.com/writing.html
+
+Breck's Blog - Bipolar Energy Posts
+===================================
+11/08/2024
+https://breckyunits.com/bipolar.html
 
 Particle Chain: A New Kind of Blockchain
 ========================================
@@ -106,4 +106,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

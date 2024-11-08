@@ -19,7 +19,7 @@ Mitolevel varies by cell type.
 
 The mitolevels in certain cell types will be strong predictors of current system wide mood state.
 
-Severe depression is extremely low mitolevels; mania is extremely high mitolevels.
+Mania is elevated mitolevels and depression is depressed mitolevels.
 
 *
 
@@ -56,4 +56,4 @@ If this model proves correct, all credit is due to the breakthrough work of Dr. 
 
 Having observed this field for a long time, even if this model proves inadequate, I feel an accurate model is in sight and it is now a race between Dr. Campbell and his team versus everyone else.
 
-Built with Scroll v146.1.0
+Built with Scroll v146.3.0

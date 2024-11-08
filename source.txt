@@ -25,7 +25,7 @@
  
  The mitolevels in certain cell types will be strong predictors of current system wide mood state.
  
- Severe depression is extremely low mitolevels; mania is extremely high mitolevels.
+ Mania is elevated mitolevels and depression is depressed mitolevels.
  
  ***
  
@@ -72,6 +72,13 @@
  printTitle
  
  container 600px
+ 
+ center 11/8/2024
+ 
+ # Cannibals
+ comics/cannibals.png
+ 
+ ***
  
  center 11/6/2024
  
