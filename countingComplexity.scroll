@@ -1,6 +1,6 @@
 date 12/20/2017
 tags All Scroll ScrollPapers
-title PAC: Particle-Atom Complexity
+title PAC: Particle Atom Complexity
 
 header.scroll
 printTitle
@@ -36,7 +36,7 @@ In this paper I add to the pile, and propose using Particle Syntax as a tool for
 ***
 
 # Overview
-The method introduced here, named Particle Atomic Complexity (PAC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Particle Atom Complexity (PAC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
 2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
