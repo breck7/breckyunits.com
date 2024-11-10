@@ -5,4 +5,4 @@ October 14, 2011
 Sometimes I want to rearrange a directory. An easy way to do it is to use Cinch and have 2 windows side by side. It's a pain to open 2 windows to the same directory though, until I found this little script
  https://web.archive.org/web/20120614225800/http://www.fosk.it/how-to-open-a-new-finder-window-from-current-location.html script
 
-Built with Scroll v146.3.0
+Built with Scroll v147.0.0

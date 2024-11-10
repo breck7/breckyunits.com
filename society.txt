@@ -1,65 +1,65 @@
 Breck's Blog - Society Posts
 ============================
 
-Breck's Blog - Data Posts
-=========================
-11/08/2024
-https://breckyunits.com/data.html
-
-Breck's Blog - Intellectual Freedom Posts
-=========================================
-11/08/2024
-https://breckyunits.com/freedom.html
-
-Breck's Blog - All Posts
-========================
-11/08/2024
-https://breckyunits.com/index.html
-
-Breck's Blog - Life Posts
-=========================
-11/08/2024
-https://breckyunits.com/life.html
-
 Breck's Blog - Papers Posts
 ===========================
-11/08/2024
+11/10/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/08/2024
+11/10/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/08/2024
+11/10/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Startups Posts
 =============================
-11/08/2024
+11/10/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/08/2024
+11/10/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/08/2024
+11/10/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/08/2024
+11/10/2024
 https://breckyunits.com/writing.html
 
 Breck's Blog - Bipolar Energy Posts
 ===================================
-11/08/2024
+11/10/2024
 https://breckyunits.com/bipolar.html
+
+Breck's Blog - Data Posts
+=========================
+11/10/2024
+https://breckyunits.com/data.html
+
+Breck's Blog - Intellectual Freedom Posts
+=========================================
+11/10/2024
+https://breckyunits.com/freedom.html
+
+Breck's Blog - All Posts
+========================
+11/10/2024
+https://breckyunits.com/index.html
+
+Breck's Blog - Life Posts
+=========================
+11/10/2024
+https://breckyunits.com/life.html
 
 Flaws in Heaven
 ===============
@@ -296,4 +296,4 @@ Daily Gas Use for the United States and the World
 05/14/2008
 https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html
 
-Built with Scroll v146.3.0
+Built with Scroll v147.0.0

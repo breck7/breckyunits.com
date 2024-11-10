@@ -75,6 +75,11 @@
  
  center 11/8/2024
  
+ # These 0.00000000001% atoms rule the world
+ comics/brains.png
+ 
+ ***
+ 
  # Cannibals
  comics/cannibals.png
  
@@ -212,23 +217,27 @@
  
  ***
  
- Is it the author of the symbols that is most important, the symbols that are most important, or is it the user of the symbols that is most important?
+ Is it the writer that is most important, the symbols, or the reader?
  
  ***
  
- Authors have clear incentive to create symbols since that very first symbol: symbols save lives.
+ Writers have clear incentive to create symbols since that very first symbol: symbols save lives.
  
  Even if it's not your own life, or your child's life, even if it's a complete stranger's life, we have learned that a civilization of strangers cooperating peacefully create a better world for all.
  
+ But writing goes out of date, and if the writer doesn't update their symbols, they can mislead as easily as they can lead.
+ 
+ It can't be the writer that is most important.
+ 
  ***
  
- The symbols themselves, without humans, are literally meaningless. So it can't be that.
+ The symbols themselves, without humans, are literally meaningless. So it can't be the symbols that are most important.
  
  ***
  
- It is clear the most important thing is that the rules around symbols should benefit the users of symbols.
+ Thus it is clear the most important thing is that the rules around symbols should benefit the readers.
  
- What can we do to equip users with the best symbols possible?
+ What can we do to equip readers with the best symbols possible?
  
  ***
  
@@ -267,6 +276,8 @@
  And by doing that, they lead people to slaughter.
  
  ***
+ 
+ To make symbols the best for readers, symbols must always be writeable.
  
  All symbols should be writeable.
  
