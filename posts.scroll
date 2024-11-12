@@ -1,4 +1,6 @@
 buildCsv
-
+buildJson
+buildTsv
 settings.scroll
-printCsv All
+postsMeta All
+ printTable

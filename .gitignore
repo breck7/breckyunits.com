@@ -5,6 +5,8 @@
 *.csv
 *.txt
 *.js
+*.json
+*.tsv
 *.css
 node_modules
 package-lock.json
