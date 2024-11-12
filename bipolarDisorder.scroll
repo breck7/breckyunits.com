@@ -150,7 +150,7 @@ table
  printTable
  data
   Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
-  2024    ✅ No No
+  2024 11  Scroll ✅ No No
   2023    ✅ No No
   2022 August 4 PL ✅ Partial No
   2021    ✅ Partial No
