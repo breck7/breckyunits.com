@@ -42,6 +42,7 @@ These busy coders answered my cold emails with not just a number but many encour
 
 One of my favorite responses was from Peter Norvig, who sent me a Python program computing his estimate:
 
+```
 # sum(years *  (hours/week)) * (weeks/year)
 
 (4 * 10 # college
@@ -51,6 +52,7 @@ One of my favorite responses was from Peter Norvig, who sent me a Python program
 + 6 * 25 # programming jobs
 + 15 * 10 # management jobs
 ) * 48
+```
 
 Thank you everyone!
 
@@ -88,4 +90,4 @@ Twelve Tips to Master Programming Faster
 12/04/2009
 https://breckyunits.com/twelve-tips-to-master-programming-faster.html
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

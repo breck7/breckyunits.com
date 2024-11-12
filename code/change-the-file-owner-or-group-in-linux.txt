@@ -4,10 +4,14 @@ January 8, 2010
 
 Change the owner of a file or folder:
 
+```
 chown newowner filename
+```
 
 Change the group of a file or folder:
 
+```
 chgrp newgroup filenameorfoldername
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -15,7 +15,9 @@ One option if you have a publicly facing server already is to create a reverse S
 
 For instance, on my Mac OS X machine I open terminal and type this command:
 
+```
 ssh -nNT -R 3333:localhost:3333 username@yourdomain.com
+```
 
 This will connect to my server (yourdomain.com), and forward traffic from port 3333 on that server to my local machine. Now I can tell someone to go to yourdomain.com:3333 and that would be the equivalent of them going to localhost:3333.
 
@@ -23,4 +25,4 @@ Notes:
 
 Make sure to add a rule to your IPTables config to allow inbound traffic to port 3333.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

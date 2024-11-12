@@ -8,9 +8,13 @@ December 15, 2021
 
 Both HTML and Markdown mix content with markup:
 
+```HTML
 A link in HTML looks like &lt;a href="hi.html">this&lt;/a>
+```
 
+```Markdown
 A link in Markdown looks like [this](hi.html).
+```
 
 *
 
@@ -18,8 +22,10 @@ I needed an alternative where _content is separate from markup_.
 
 I made an experimental microlang I'm calling *Aftertext*.
 
+```Aftertext
 A link in Aftertext looks like this.
  https://scroll.pub this
+```
 
 *
 
@@ -176,4 +182,4 @@ Notes
 [Image Omitted]
  A screenshot of Aftertext on the left and the rendered HTML on the right.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

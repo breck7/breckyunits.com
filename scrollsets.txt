@@ -34,7 +34,9 @@ The only required information for a measure is an id, such as `temperature`.
 
 An example measure:
 
+```
 temperatureParser
+```
 
 Concepts and Measurements
 =========================
@@ -48,8 +50,10 @@ Multiple sequential lines of measurements form a concept.
 
 An example concept:
 
+```
 id Earth
 temperature 14
+```
 
 Comments
 ========
@@ -57,16 +61,19 @@ Unlimited comments can be attached under any measurement using the indentation t
 
 An example comment:
 
+```
 temperature 14
  > The global mean surface air temperature for that period was 14°C (57°F), with an uncertainty of several tenths of a degree.
   - NASA
    https://earthobservatory.nasa.gov/world-of-change/global-temperatures
+```
 
 *
 
 The Complete Example
 ====================
 Putting this all together, all tabular knowledge can be stored in a single plain text file using this pattern:
+```
 idParser
 temperatureParser
 
@@ -75,6 +82,7 @@ temperature 14
  > The global mean surface air temperature for that period was 14°C (57°F), with an uncertainty of several tenths of a degree.
   - NASA
    https://earthobservatory.nasa.gov/world-of-change/global-temperatures
+```
 *
 
 Once your knowledge is stored in this format, it is ready to be read—_and written_—by humans, traditional software, and artificial neural networks, to power understanding and decision making.
@@ -189,4 +197,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

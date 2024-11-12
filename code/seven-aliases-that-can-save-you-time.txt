@@ -4,6 +4,7 @@ December 13, 2009
 
 Add these to your .bash_profile to speed up common tasks:
 
+```
 alias apr='sudo ./usr/sbin/apachectl restart' # restart apache
 alias www='cd /var/www/html/' # enter your root web directory
 alias hconf='vim /etc/httpd/conf/httpd.conf' # edit your apache config file
@@ -11,5 +12,6 @@ alias eprof='vim ~/.bash_profile' # edit this file
 alias rprof='source ~/.bash_profile' # reload this file (after making edits)
 alias pconf='vim /etc/php.ini' # edit php.ini
 alias lsd="ls -l | egrep '^d'" # list only directories
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

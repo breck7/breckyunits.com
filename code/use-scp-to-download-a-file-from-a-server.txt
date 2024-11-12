@@ -4,8 +4,10 @@ December 21, 2009
 
 You can easily grab a file off a server from the command line using secure copy:
 
+```
 scp user@domain.com:/home/user/fileyouwant.txt fileyouwant.txt
+```
 
 This will download the file from your server to your local computer.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

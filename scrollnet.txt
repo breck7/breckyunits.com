@@ -26,11 +26,13 @@ A user could experiment with creating languages on top of Scroll that could make
 
 An example electronic message on ScrollNet might look like this:
 
+```
 to vint@cerf.com bob@bob.com
 from breck7@gmail.com
 subject ScrollNet: Good idea or bad idea?
 message Would love to hear your thoughts.
 
+```
 *
 
 This is simpler than how that message currently looks on the current Internet:
@@ -41,6 +43,7 @@ This is simpler than how that message currently looks on the current Internet:
 
 To transmit that message, the computer would add a transport encoding to the message, which on the Internet contains a fixed size header containing unprintable characters but on ScrollNet might look something like this:
 
+```
 header
 source 1.1.1.1
 destination 1.1.1.1
@@ -54,6 +57,7 @@ to vint@cerf.com bob@bob.com
 from breck7@gmail.com
 subject ScrollNet: Good idea or bad idea?
 message Would love to hear your thoughts.
+```
 
 Scroll can serve both as the high level encoding at the application layer and the low level encoding at the transport layer.
 
@@ -77,4 +81,4 @@ Related Posts
 _I originally published this on Medium._
  https://medium.com/space-net/spacenet-51aca95d49a2 published this on Medium
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

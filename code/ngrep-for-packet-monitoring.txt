@@ -6,6 +6,8 @@ I just came across a neat command line tool, ngrep, via this site.
 
 Sample usage:
 
+```
 ngrep -q -W byline "^(GET|POST) .*"
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

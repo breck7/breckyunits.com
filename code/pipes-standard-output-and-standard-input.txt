@@ -10,19 +10,25 @@ You can change this around so that standard input comes from another source(say,
 
 For example, say we wanted to email someone a file containing the contents of our home directory. We could do this:
 
+```
 ls ~ | vim -
+```
 
 This will pipe the output from the ls command to vim. You can then edit and save this file normally as you would in vim.
 
 There's another type of pipe you could use for this example: greater than.
 
+```
 ls ~ > contents.txt
+```
 
 This will redirect the output to the contents.txt file.
 
 You can also append output by using two greater than signs:
 
+```
 ls ~ >> some_file.txt
+```
 
 As you would expect, the less than sign can be used to direct a file as standard in.
 
@@ -32,4 +38,4 @@ Notes
 - Linux Phrasebook
 - pipe to vim
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -11,7 +11,9 @@ Step 1: Write the cron command
 
 Here is the cron command you would need:
 
+```
 0  *  *  *  *  wget http://yourdomain.com/backup.zip
+```
 
 You can either memorize the crontab syntax, or just this simple Javascript crontab gui will easily generate the code for you.
 
@@ -22,7 +24,9 @@ There are 2 crontab files that get executed every minute. 1 of them is found in 
 
 To add your command to crontab type:
 
+```
 crontab -e
+```
 
 This will open vim, and you can then paste and save your crontab file.
 
@@ -33,10 +37,12 @@ Notes
 
 1. If you are using cron in cygwin, follow these steps after installing the cron package with the cygwin installer to install cron as a service:
 
+```
 cygrunsrv -I cron -p /usr/sbin/cron -a D
 
 net start cron
+```
 
 If there are problems, check the cron.log file in your home directory.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

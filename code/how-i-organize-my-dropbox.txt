@@ -17,6 +17,7 @@ End Result
 
 Here's what the end result may look like:
 
+```
 -My Dropbox
 --Music
 --Photos
@@ -24,6 +25,7 @@ Here's what the end result may look like:
 --eBooks
 --Company Docs
 --Search
+```
 
 The first directories are the ones you access a lot and are well sorted and maintained. The last directory is a mess of random files and folders that you've collected. You can browse through it, but it's easier to just run a search on it when you need something.
 
@@ -34,4 +36,4 @@ This a hybrid of search and sort.
 
 - 1. All of my coding work is done in my cygwin home directory and then pushed to github. These are the only files that I don't store in Dropbox, but I push them frequently so don't worry much about losing them.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

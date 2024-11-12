@@ -2,8 +2,12 @@ zip a directory in linux
 ========================
 August 9, 2011
 
+```
 zip -r backup mydir/
+```
 
+```
 zip -r backup .
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

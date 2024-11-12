@@ -4,11 +4,15 @@ December 26, 2009
 
 Print the contents of a file:
 
+```
 cat filename.txt
+```
 
 Pipe the contents of the file to less, so you can view it one page at a time:
 
+```
 cat filename | less
+```
 
 In less, the 3 key commands are:
 
@@ -20,10 +24,14 @@ You can also do regular expression searches like in vim: /regex (n to go to next
 
 Append file1 to the end of file 2:
 
+```
 cat file1 >> file2
+```
 
 Combine two files into a third file:
 
+```
 cat file1 file2 > file3
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

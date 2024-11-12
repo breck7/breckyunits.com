@@ -4,14 +4,18 @@ August 14, 2011
 
 Gmail:
 
+```
 gi - go to inbox
 c - compose
 j/k - go up and down, enter go to a page.
 gt - go to sent
+```
 
 Mac:
 
+```
 ctrl+a - home/start of line
 ctrl+e - end
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

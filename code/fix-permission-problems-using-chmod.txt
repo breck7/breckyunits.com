@@ -4,8 +4,10 @@ November 25, 2009
 
 Permission problems driving you crazy? Here's a common command to fix them:
 
+```
 chmod -R 755 directoryname
+```
 
 Change the file permissions of all directories and files in directoryname to 755.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -11,11 +11,13 @@ If you are new to version control, there are only 5 commands you need to memoriz
 
 So memorize these 5 words and you'll be practically an expert at version control:
 
+```
 init
 add
 status
 commit
 push
+```
 
 If you just start playing around with these 5 and only these 5 commands, you'll become a git master in no time.
 
@@ -26,42 +28,56 @@ What is git?
 
 Git is a simple command line program like "wget" or "vim" that you install and use by typing commands. If you don't have git installed, try one of these commands:
 
+```
 yum install git-core
 apt-get install git-core
 sudo port install git-core
+```
 
 Let's say you're creating a new website for your mom and want to use version control to do it.
 
+```
 mkdir moms_website
 cd moms_website
 git init
+```
 
 This creates a git repository. Now type:
 
+```
 ls -a
+```
 
 Do you see the new ".git" directory? That's the git repository. It's basically a folder that stores the whole history of your project. Now, when you type a git command, it will do something with the files in that folder. That's all that's really going on. You never need to go into that folder manually, I was just explaining what git is doing.
 
 Now, let's create a file and add it to your repository.
 
+```
 vim index.php
 Hello World
 :wq
 git status
+```
 
 This will show the presence of an untracked file, "index.php". Let's add this file.
 
+```
 git add index.php
+```
 
 You've now added the file to git, let's *commit* our changes.
 
+```
 git commit -m "first commit"
+```
 
 Now you've made your first commit.
 
 The last command you'll need is *push*. It works like this:
 
+```
 git push
+```
 
 That will upload your repository to an online host like github so that other people can collaborate.
 
@@ -72,10 +88,12 @@ That's it! Those are the 5 commands you'll use over and over again. Master those
 Recap
 =====
 
+```
 git init
 git status
 git add *filename*
 git commit -m *"your message about what you changed and why"*
 git push
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

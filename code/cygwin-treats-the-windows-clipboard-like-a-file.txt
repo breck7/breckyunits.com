@@ -6,15 +6,19 @@ In Linux every thing is a file. This is great because it means the Windows clipb
 
 Want to copy the current cygwin directory into your clipboard?
 
+```
 pwd > /dev/clipboard
+```
 
 Want to print the contents of the clipboard?
 
+```
 cat /dev/clipboard
+```
 
 Notes
 =====
 
 1. Fun with Cygwin's /dev/clipboard.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

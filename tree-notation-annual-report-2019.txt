@@ -67,6 +67,8 @@ I think to represent the jumps from binary to symbols to systems, there is a bes
 
 To get a little more concrete, let me show a rough approximation of how using Tree Notation you could imagine a document that starts with just the concept of a bit (here denoted on line 2 as ".") and work your way up to defining digits and characters and words and entities. There is a lot of hand-waving going on here, which is why Tree Notation is still, at best, a half-baked idea.
 
+```
+
 .
 ...
 0
@@ -79,6 +81,7 @@ To get a little more concrete, let me show a rough approximation of how using Tr
 book
  title Elements
 ...
+```
 
 Why would a SUNSA be advantageous?
 ==================================
@@ -378,7 +381,7 @@ Removing the 2’s from Trinary Notation is a Terrible Idea.
 07/14/2019
 https://breckyunits.com/trinary.html
 
-PAC: Particles Are Complexity
+PAC: Particle Atom Complexity
 =============================
 12/20/2017
 https://breckyunits.com/countingComplexity.html
@@ -426,4 +429,4 @@ Notes
 ^note-risk: Note that this means I am between 90-99% confident that Tree Notation is _not_ a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
 ^note-euclid: When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -4,6 +4,8 @@ November 7, 2011
 
 Ever want to non interactively execute commands on a remote server?
 
+```
 ssh breckyunits.com 'df -h'
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

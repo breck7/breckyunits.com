@@ -1,7 +1,5 @@
 title Breck Yunits - Portfolio
-
 buildHtml
-
 
 theme gazette
 printTitle
@@ -32,8 +30,6 @@ css
   position: relative;
   overflow: hidden;
  }
-
-
 
 table
  where year > 2000

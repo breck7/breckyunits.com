@@ -32,6 +32,7 @@ Example
 
 A Parsers file for an imagined microlang called Tally, with 2 Parsers `{+, -}` might look like this:
 
+```
 TallyParser
  catchAllParser errorParser
  parsers
@@ -40,11 +41,14 @@ TallyParser
    words int+
   +Parser extends expressionParser
   -Parser extends expressionParser
+```
 
 A valid program in the Tally microlang defined by the file above:
 
+```
 + 4 5
  - 1 1
+```
 
 *
 
@@ -87,7 +91,7 @@ ScrollSets: A New Way to Store Knowledge
 05/21/2024
 https://breckyunits.com/scrollsets.html
 
-PAC: Particles Are Complexity
+PAC: Particle Atom Complexity
 =============================
 12/20/2017
 https://breckyunits.com/countingComplexity.html
@@ -102,4 +106,4 @@ Tree Notation: an antifragile program notation
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

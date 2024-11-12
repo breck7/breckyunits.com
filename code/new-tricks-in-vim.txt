@@ -4,6 +4,7 @@ December 29, 2009
 
 I learned some new tricks with vim today.
 
+```
 4G - Move to line #4
 mb - Mark the current spot as point b 'b - Go back to point b
 vim file1 file2 - open 2 files at once
@@ -12,9 +13,10 @@ vim file1 file2 - open 2 files at once
 ctrl+w j/k - move down/up a window
 :hide - hide the current window
 :ls - show current buffers
+```
 
 Notes
 
 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

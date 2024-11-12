@@ -20,12 +20,14 @@ An Example
 ==========
 Let's say I am writing a GUI email client application. I probably have an EmailClient class that can send an email, and then a "Send" Button. Using the UserMethod pattern I might have a private method perform the actual email sending work, and then I'd have a small UserMethod that the click on the button would call:
 
+```
 private _sendEmail():
   // ...
 
 user sendEmailCommand(...):
   // ...
   this._sendEmail()
+```
 
 That's it. In my pseudo code I used a "user" keyword to flag the UserMethod, but since most languages don't have such a keyword you can use either decorators or have an identifier convention that you reflect on.
 
@@ -109,4 +111,4 @@ Yes. But they are a special category of PublicMethod and it's a distinction wort
 
 ⁂
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

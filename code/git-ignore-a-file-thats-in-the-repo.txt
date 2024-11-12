@@ -4,12 +4,16 @@ October 3, 2010
 
 Let's say you've got a file that's checked in like environment.rb that you want to edit for your local machine only and don't want to push the changes to your repository. It's easy, just do:
 
+```
 git update-index --assume-unchanged filepath
+```
 
 And to reverse:
 
+```
 git update-index --no-assume-unchanged filepath
+```
 
 Learn more here.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

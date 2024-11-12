@@ -85,6 +85,7 @@ What did I learn? Honestly I did this mainly to refamiliarize myself with JMP. I
 
 Python Script to parse xirium’s original tarball into a CSV file:
 
+```
 import os
 files = os.listdir(os.getcwd())
 csv = open(”csv2.csv”,’w')
@@ -114,6 +115,7 @@ about = about.replace(”;”,”")
 csv.write(user + sep + created + sep + karma + sep + about + term)
 f.close()
 csv.close()
+```
 
 Updates:
 ========
@@ -130,4 +132,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/ Original post
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

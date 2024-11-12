@@ -6,17 +6,23 @@ Symbolic links are simple and can save you time.
 
 Here's all you need to know:
 
+```
 ln -s actual_file_or_directory new_symbolic_link_name
+```
 
 Let's do a real example from your home directory:
 
+```
 ln -s /var/www/html/yourwebsiteroot/yourblog blog
+```
 
 Now when you login to your server you can just type "cd blog" to access the "/var/www/html/yourwebsiteroot/yourblog" folder.
 
 Here's one more example from your home directory:
 
+```
 ln -s /etc/httpd/conf/httpd.conf httpd.conf
+```
 
 Now you can just type "vim httpd.conf" and edit your httpd.conf file quicker.
 
@@ -27,4 +33,4 @@ Notes
 Aliases are another great time saver.
  https://breckyunits.com/code/use-aliases-to-save-time.html Aliases
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -9,7 +9,9 @@ Disown, nohup : Bash Commands.
 
 Basically:
 
+```
 nohup ./mycommand &
+```
 
 Adding the ampersand to the end of a command in Nix executes the command in the background and gives you back your shell. However, if you quit your terminal the process will be killed. The nohup command takes care of that.
 
@@ -18,4 +20,4 @@ What is nohup? It's another obfuscated Nix low level utility that is an abbrevia
 Wikipedia article on nohup
  https://en.wikipedia.org/wiki/Nohup nohup
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

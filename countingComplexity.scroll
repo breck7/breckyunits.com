@@ -1,10 +1,9 @@
 date 12/20/2017
 tags All Scroll ScrollPapers
+title PAC: Particle Atom Complexity
 
 header.scroll
 printTitle
-
-title PAC: Particles Are Complexity
 
 # Yet another method for counting complexity.
 
@@ -31,16 +30,16 @@ How do you count complexity?
 
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
-In this paper I add to the pile, and propose using Particles as a tool for counting complexity.
- treenotationPaper.html Particles
+In this paper I add to the pile, and propose using Particle Syntax as a tool for counting complexity.
+ treenotationPaper.html Particle Syntax
 
 ***
 
 # Overview
-The method introduced here, named Particles Are Complexity (PAC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Particle Atom Complexity (PAC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
-2. Given the assumption that all structures can be represented as trees, we can then use Particles, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
+2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
  aGrammarNotationForTreeLanguages.html grammar
 3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).

@@ -4,17 +4,23 @@ August 5, 2011
 
 As far as I can tell, sed doesn't have a recursive mode. Here's a little script that uses perl to simulate a recursive sed:
 
+```
 #!/bin/bash
 perl -e "s/$1/$2/g;" -pi $(find . -type f)
+```
 
 I put this in a file named ~/rsed
 
 Then in my .bash_profile:
 
+```
 alias rsed="~/rsed"
+```
 
 Now I can use it like so:
 
+```
 rsed old new
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -4,20 +4,30 @@ July 9, 2011
 
 Show memory usage:
 
+```
 free -m
+```
 
 Add this to your bash_profile:
 
+```
 alias free="free -m"
+```
 
+```
 top
+```
 
 Show all processes
 
+```
 ps -a
+```
 
 Disk free space:
 
+```
 df
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

@@ -35,16 +35,20 @@ TN defines two special characters, Y Increment (YI) and X Increment (XI). YI is 
 
 A comparison quickly illustrates nearly the entirety of the notation:
 
+```JSON
 {
  "title" : "Web Stats",
  "visitors": {
   "mozilla": 802
  }
 }
+```
 
+```Tree Notation
 title Web Stats
 visitors
  mozilla 802
+```
 
 Useful Properties
 =================
@@ -73,18 +77,22 @@ Easy composition
 
 Base notations such as XML^Bray, JSON^Crockford, and Racket^Racket can encode multi-lingual programs by complecting language blocks. For example, the JSON program below requires extra nodes to encode Python:
 
+```
 {
  "source": [
   "import hn.np as lz\n",
   "print(\"aaronsw pdm ah as mo gb 28-3\")"
   ]
 }
+```
 
 With TN, the Python code requires no complecting:
 
+```
 source
  import hn.np as lz
  print("aaronsw pdm ah as mo gb 28-3")
+```
 
 Drawbacks
 =========
@@ -104,16 +112,20 @@ Predictions
 
 For example, a map could serialize to MapTL:
 
+```
 dsl Domain Specific Language
 sf San Francisco
+```
 
 Therefore, maps are a type of tree. TTC stands.
 
 *Prediction 2: TLs will be found for every popular 1DL.* Below is some code in a simple TL, JsonTL:
 
+```
 o
  s dsl yrt
  n ma 902
+```
 
 TLs will be found for great 1DLs including C, RISC-V, ES6, and Arc. Some TLs have already been found^Roughan, but their common TN DNA has gone unseen. The immediate benefit of creating a TL for an 1DL is that programs can then be written in a TL editor and compiled to that 1DL.
 
@@ -159,4 +171,4 @@ References
 
 ^Ender: Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

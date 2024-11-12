@@ -108,6 +108,8 @@ My Gmail filter
 ===============
 Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings > Filters > Import filters. Join the campaign to make email more human human again!
 
+```
+
     Mail Filters
     tag:mail.google.com,2008:filters:z0000001687903548068*6834178925122906716
     2023-06-27T22:06:11Z
@@ -139,4 +141,6 @@ Learn more: https://breckyunits.com/replies-always-welcome.html
 
     
 
-Built with Scroll v147.0.0
+```
+
+Built with Scroll v148.2.0

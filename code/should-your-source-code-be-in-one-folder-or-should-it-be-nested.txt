@@ -6,13 +6,16 @@ There are two ways to organize source code files for a project: flat or nested.
 
 Here's a simple example of a flat structure(1 directory, 4 files):
 
+```
 📁myproject
  index.php
  theme.css
  helper_functions.php
  logo.png
+```
 
 Here's an example of a nested structure(4 directories, 4 files):
+```
 📁myproject
  index.php
  📁styles
@@ -21,6 +24,7 @@ Here's an example of a nested structure(4 directories, 4 files):
   logo.png
  📁 helpers
   helper_functions.php
+```
 
 Both of these structures can accomplish the same thing. Which is better?
 
@@ -51,9 +55,11 @@ Benefit #4 - Avoid overwriting issues
 
 Occasionally you'll have a structure like this:
 
+```
 index.php
 📁admin
  index.php
+```
 
 You might accidentally overwrite one index with the other, or edit one index when you think you're editing the other. Doesn't happen too often, but occasionally it can be annoying. By sticking everything in one directory, you don't run into that problem as much.
 
@@ -87,6 +93,7 @@ If you walk into a messy room, it can be hard to create a mental model of the co
 Bad
 ===
 
+```
 📁myproject
  a_image.png
  base_functions.php
@@ -98,6 +105,7 @@ Bad
  test.php
  xmlfunctions.php
  zlib.js
+```
 
 It's a mess.
 
@@ -106,6 +114,7 @@ If you walk into a room where everything is put away(clothes in the dresser, boo
 Ok
 ==
 
+```
 📁myproject
  index.php
  📁images
@@ -121,6 +130,7 @@ Ok
   zlib.js
  📁data
   names.csv
+```
 
 But now you've introduced the problem that to access nearly anything, you have to "open a drawer". You also can't see everything all at once.
 
@@ -135,6 +145,7 @@ The optimal solution is to not put your stuff into drawers, but to:
 
 If you apply this algorithm to a sample project, you might get something like a project I just made with PHPUno
 
+```
 📁dropdate
  📁data
   1
@@ -149,6 +160,7 @@ If you apply this algorithm to a sample project, you might get something like a 
  uno_app.php
  uno_models.php
  uno_helpers.php
+```
 
 Search, don't sort
 ==================
@@ -165,10 +177,12 @@ Here's a simple rule of thumb to help you organize your folder structure better:
 
 In other words, the directory "icon" should never have a subdirectory in it.
 
+```
 📁myproject
  📁images
   📁icons
+```
 
 This means that any project should have at most 9 subdirectories.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

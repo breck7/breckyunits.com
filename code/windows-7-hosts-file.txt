@@ -4,10 +4,14 @@ August 14, 2010
 
 The file is located at:
 
+```
 windows/system32/drivers/etc/host
+```
 
 Mac hosts file:
 
+```
 /private/etc/hosts
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

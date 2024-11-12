@@ -6,10 +6,14 @@ _Edit: found a better way, use ncdu https://dev.yorhel.nl/ncdu_
 
 How to find files larger than a certain size:
 
+```
 find /etc -size +100k
+```
 
 Disk free space:
 
+```
 du
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

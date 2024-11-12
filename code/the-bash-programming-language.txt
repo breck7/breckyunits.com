@@ -16,12 +16,16 @@ A BASH script should have the .sh extension, just as a Python script has the .py
 Start your scripts with #!/bin/bash
 ===================================
 
+```
 #!/bin/bash
+```
 
 Here's your first bash script (name it hello.sh):
 
+```
 #!/bin/bash
 echo "Hello World"
+```
 
 The *echo* command prints a string and also a new line at the end.
 
@@ -30,39 +34,53 @@ Running your script
 
 Your script must be **executable**. To make it executable, you need to change the file permissions. This would make your hello.sh script executable:
 
+```
 chmod 777 hello.sh
+```
 
 To run your script, from the directory where your script is located, type this:
 
+```
 ./hello.sh
+```
 
 The "./" substitutes the current directory. In other words, typing
 
+```
 ./hello.sh
+```
 
 Is equivalent to typing the full path to the file such as this:
 
+```
 /home/breck/hello.sh
+```
 
 Command line Paramters
 ======================
 
 Command line parameters are accessed with $1, $2, etc. Create a new script called hello2.sh. Put this in it:
 
+```
 #!/bin/bash
 echo "Hello World"
 echo $1
 echo $2
+```
 
 Now run your script like this:
 
+```
 ./hello2.sh hi breck
+```
 
 It should print this:
 
+```
 Hello World
 hi
 breck
+```
 
 The hi got stored in $1, and the breck got stored in $2.
 
@@ -71,6 +89,7 @@ Functions
 
 Functions are pretty simple and straightforward:
 
+```
 #!/bin/bash
 echo "Hello World"
 echo $1
@@ -80,21 +99,26 @@ echo "hi"
 echo $1
 }
 hi_name $3
+```
 
 Notice you don't need parenthesis and other junk. Name this file hello3.sh and run it with this:
 
+```
 ./hello2.sh hi breck conor
+```
 
 It should print this:
 
+```
 Hello World
 hi
 breck
 hi
 conor
+```
 
 Notice what's going on with parameter passing and scope.
 
 That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

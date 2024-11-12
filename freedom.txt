@@ -1,65 +1,65 @@
 Breck's Blog - Intellectual Freedom Posts
 =========================================
 
-Breck's Blog - Papers Posts
-===========================
-11/10/2024
-https://breckyunits.com/papers.html
-
-Breck's Blog - Programming Posts
-================================
-11/10/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/10/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Society Posts
-============================
-11/10/2024
-https://breckyunits.com/society.html
-
-Breck's Blog - Startups Posts
-=============================
-11/10/2024
-https://breckyunits.com/startups.html
-
-Breck's Blog - Thinking Posts
-=============================
-11/10/2024
-https://breckyunits.com/thinking.html
-
-Breck's Blog - Scroll Posts
-===========================
-11/10/2024
-https://breckyunits.com/treeNotation.html
-
-Breck's Blog - Writing Posts
-============================
-11/10/2024
-https://breckyunits.com/writing.html
-
-Breck's Blog - Bipolar Energy Posts
-===================================
-11/10/2024
-https://breckyunits.com/bipolar.html
-
 Breck's Blog - Data Posts
 =========================
-11/10/2024
+11/12/2024
 https://breckyunits.com/data.html
 
 Breck's Blog - All Posts
 ========================
-11/10/2024
+11/12/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/10/2024
+11/12/2024
 https://breckyunits.com/life.html
+
+Breck's Blog - Papers Posts
+===========================
+11/12/2024
+https://breckyunits.com/papers.html
+
+Breck's Blog - Programming Posts
+================================
+11/12/2024
+https://breckyunits.com/programming.html
+
+Search Breck's Blog
+===================
+11/12/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Society Posts
+============================
+11/12/2024
+https://breckyunits.com/society.html
+
+Breck's Blog - Startups Posts
+=============================
+11/12/2024
+https://breckyunits.com/startups.html
+
+Breck's Blog - Thinking Posts
+=============================
+11/12/2024
+https://breckyunits.com/thinking.html
+
+Breck's Blog - Scroll Posts
+===========================
+11/12/2024
+https://breckyunits.com/treeNotation.html
+
+Breck's Blog - Writing Posts
+============================
+11/12/2024
+https://breckyunits.com/writing.html
+
+Breck's Blog - Bipolar Energy Posts
+===================================
+11/12/2024
+https://breckyunits.com/bipolar.html
 
 Writeable
 =========
@@ -166,4 +166,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

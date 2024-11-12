@@ -37,4 +37,4 @@ Gesturing toward a chalkboard full of illegible calculations and sketches, the t
 
 As of press time, however, each of the scientists had reportedly slumped to the ground in tears, saying all the research they had ever done was “completely worthless” and admitting that clinical depression is likely impossible to cure.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

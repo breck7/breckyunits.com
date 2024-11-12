@@ -20,7 +20,9 @@ Open Notepad++ and start a new document.
 
 Type in:
 
+```
 helloworld
+```
 
 Click "Edit", "EOL Completion" and click "Windows Format" (if it's gray, that means it's already on Windows format). Now cut and paste the text into Notepad. You'll see that it comes out on 2 lines. All good right?
 
@@ -37,4 +39,4 @@ Notes
 - 2. Cast of Characters- ASCII, ANSI, UTF-8 and all that
 - 3. ANSI versus Unicode
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

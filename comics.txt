@@ -1,6 +1,14 @@
 Comics
 ======
 
+11/10/2024
+
+Constants
+=========
+[Image Omitted]
+
+*
+
 11/8/2024
 
 These 0.00000000001% atoms rule the world
@@ -42,4 +50,4 @@ Made with: tldraw; Apple Pencil, iPad Pro, and MacBook Pro; feedback from ChatGP
 
 ⁂
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

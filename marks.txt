@@ -65,9 +65,13 @@ Even binary depends on marks.
 
 Binary delivers precision:
 
+```
 00000100
+```
 
+```
 00001011
+```
 
 *
 
@@ -77,4 +81,4 @@ But for meaning, it takes marks.
 
 ⁂
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

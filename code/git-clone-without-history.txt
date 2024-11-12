@@ -4,8 +4,10 @@ December 11, 2009
 
 If you're using a library from git in another project, you may want to download it without the history. Here's how:
 
+```
 git clone --depth 1 your_repo_url
+```
 
 http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

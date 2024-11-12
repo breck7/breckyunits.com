@@ -4,8 +4,10 @@ January 19, 2010
 
 Display the current unix timestamp:
 
+```
 date +%s
+```
 
 Handy way to view it from the command line.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

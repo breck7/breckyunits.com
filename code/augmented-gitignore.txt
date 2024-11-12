@@ -2,6 +2,7 @@ Augmented Gitignore
 ===================
 August 4, 2010
 
+```
 .bundle
 db/*.sqlite3*
 log/*.log
@@ -13,8 +14,9 @@ doc/app
 *.swp
 *~
 .DS_Store
+```
 
 - Source
  http://railstutorial.org/chapters/beginning#sec:adding_and_committing Source
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

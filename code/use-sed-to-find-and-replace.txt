@@ -9,11 +9,15 @@ Say you noticed a few typos in a file. Say you typed imposible instead of imposs
 
 You can fix all occurrences using this one-liner:
 
+```
 sed 's/imposible/impossible/g' stuff.txt
+```
 
 Often it's more helpful to sed across multiple files.
 
+```
 sed -i 's/1.0.1/"1.0.1"/g' *.php
+```
 
 That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas, it's not recursive.
 
@@ -25,4 +29,4 @@ Notes
 - sed on about.com
 - Very clear examples
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

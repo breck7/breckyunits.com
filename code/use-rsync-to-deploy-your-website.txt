@@ -6,20 +6,26 @@ November 21, 2009
 
 Here's a one line command to deploy brecksblog:
 
+```
 rsync -arvuz /home/user/brecksblog breck32@breckyunits.com:/var/www/html/ --exclude '.git' --exclude 'deploy' --exclude 'README' --exclude 'posts.php'
+```
 
 This one line will do a fast, incremental file transfer from my local directory to the web server.
 
 I saved this file as "deploy", and then run it by typing:
 
+```
 ./deploy
+```
 
 The exclude option will exclude a file or directory from being synced.
 
 Here's an explanation about the options I use. I use rsync with these options:
  https://ubuntuforums.org/showthread.php?t=251516 explanation
 
+```
 rsync -arvuz /src/foo/ /dest/foo
+```
 
 This will copy the contents of /src/foo/ into /dest/foo. Options explained:
 
@@ -34,4 +40,4 @@ Notes
 
 1. If you are using a different port for SSH, say 333 do this: --rsh="ssh -p333"
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

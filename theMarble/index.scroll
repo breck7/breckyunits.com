@@ -1,10 +1,10 @@
 date 2024-08-08
-metaTags
-../gazette.css
 buildTxt
 buildHtml
-slideshow
 title The Marble
+metaTags
+../gazette.css
+slideshow
 
 css html,body {background: rgb(247,249,250); text-align: center;}
 
@@ -29,7 +29,6 @@ imageTwoParser
     d.width = size
     return d
   }
-
 
 // https://www.tldraw.com/r/5XO_zTIX6wp4gM-5cbJPG?v=-3713,3983,4077,5144&p=page
 

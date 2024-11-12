@@ -6,6 +6,7 @@ Just read an excellent guide about how to create self-signed certificates.
 
 Here's what it boils down to:
 
+```
 # The cool thing about SSL is it's just 2 text files. A public key and a private key.
 # They have a "pem" and a "crt" extension, but they are just plain text. Neat.
 
@@ -43,5 +44,6 @@ yum install mod_ssl
 SSLEngine on
 SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
 SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

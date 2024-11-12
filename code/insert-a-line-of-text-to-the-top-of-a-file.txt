@@ -4,6 +4,8 @@ May 29, 2010
 
 If you have a massive text file you want to add a line to without opening the file, here's a quick solution:
 
+```
 sed -e '1i\text_to_insert' -i file.txt
+```
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

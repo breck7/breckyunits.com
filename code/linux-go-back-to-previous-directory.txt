@@ -2,8 +2,10 @@ Linux Go Back to Previous Directory
 ===================================
 February 1, 2010
 
+```
 cd -
+```
 
 To go back to the last directory you were in. Basically an "undo" for the cd command.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

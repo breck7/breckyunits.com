@@ -4,12 +4,14 @@ December 11, 2009
 
 The beep on tab completion in cygwin can be annoying. Here's how to turn it off:
 
+```
 vim ~/.inputrc
 
 (Then add or uncomment this line)
 
 set bell-style none
+```
 
 Save and restart your shell.
 
-Built with Scroll v147.0.0
+Built with Scroll v148.2.0

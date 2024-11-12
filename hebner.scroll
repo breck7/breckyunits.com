@@ -1,6 +1,7 @@
 date 9/07/2024
 tags All Math Data
 title The Galton Board
+openGraphImage galtonBoard.jpg
 
 header.scroll
 printTitle
@@ -36,7 +37,5 @@ galtonBoard.mp4
 - Fascinating to watch pileups and other phenomena that impact distributions.
 
 ****
-
-openGraphImage galtonBoard.jpg
 
 footer.scroll
