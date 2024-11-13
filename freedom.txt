@@ -1,11 +1,6 @@
 Breck's Blog - Intellectual Freedom Posts
 =========================================
 
-Breck's Blog - Startups Posts
-=============================
-11/13/2024
-https://breckyunits.com/startups.html
-
 Breck's Blog - Thinking Posts
 =============================
 11/13/2024
@@ -60,6 +55,11 @@ Breck's Blog - Society Posts
 ============================
 11/13/2024
 https://breckyunits.com/society.html
+
+Breck's Blog - Startups Posts
+=============================
+11/13/2024
+https://breckyunits.com/startups.html
 
 Writeable
 =========
@@ -166,4 +166,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v148.3.1
+Built with Scroll v151.0.0

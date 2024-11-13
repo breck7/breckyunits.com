@@ -30,4 +30,4 @@ Strong Startup Advice from others:
 
 > *Read:* in my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero. - Charlie Munger
 
-Built with Scroll v148.3.1
+Built with Scroll v151.0.0

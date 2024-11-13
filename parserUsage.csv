@@ -1,7 +1,7 @@
 parserId,uses
 blankLineParser,11225
 catchAllParagraphParser,4798
-BlobParser,1754
+BlobParser,1751
 scrollImportedParser,1424
 importOnlyParser,1158
 stumpContentParser,1100
@@ -116,7 +116,10 @@ aftertextStrikeParser,1
 scrollDashboardParser,1
 copyButtonsParser,1
 inlineMarkupsParser,1
-scrollParserDefinitionParser,1
+stringParser,1
+cueParser,1
+extendsParserParser,1
+parserDefinitionParser,1
 customDinkusParser,1
 scrollAutoplayParser,1
 scrollMediaLoopParser,1
