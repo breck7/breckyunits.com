@@ -1,21 +1,6 @@
 Breck's Blog
 ============
 
-Breck's Blog - Programming Posts
-================================
-11/13/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/13/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Society Posts
-============================
-11/13/2024
-https://breckyunits.com/society.html
-
 Breck's Blog - Startups Posts
 =============================
 11/13/2024
@@ -65,6 +50,21 @@ Breck's Blog - Papers Posts
 ===========================
 11/13/2024
 https://breckyunits.com/papers.html
+
+Breck's Blog - Programming Posts
+================================
+11/13/2024
+https://breckyunits.com/programming.html
+
+Search Breck's Blog
+===================
+11/13/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Society Posts
+============================
+11/13/2024
+https://breckyunits.com/society.html
 
 On Focus
 ========
