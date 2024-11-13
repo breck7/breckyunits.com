@@ -1,9 +1,20 @@
 [
   {
+    "date": "11/12/2024",
+    "year": 2024,
+    "title": "On Focus",
+    "permalink": "focus.html",
+    "authors": "Breck Yunits",
+    "tags": "All Startups Life",
+    "wordCount": 269,
+    "minutes": 1.3
+  },
+  {
     "date": "11/07/2024",
     "year": 2024,
     "title": "A New Scientific Model of Mania and Depression, with Testable Predictions",
     "permalink": "bipolarModel.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 459,
     "minutes": 2.3
@@ -13,8 +24,9 @@
     "year": 2024,
     "title": "Comics",
     "permalink": "comics.html",
+    "authors": "Breck Yunits",
     "tags": "All Comics",
-    "wordCount": 72,
+    "wordCount": 78,
     "minutes": 0.4
   },
   {
@@ -22,6 +34,7 @@
     "year": 2024,
     "title": "Writeable",
     "permalink": "writeable.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 697,
     "minutes": 3.5
@@ -31,6 +44,7 @@
     "year": 2024,
     "title": "Why Scroll?",
     "permalink": "whyScroll.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll",
     "wordCount": 213,
     "minutes": 1.1
@@ -40,6 +54,7 @@
     "year": 2024,
     "title": "Copyright is a mind virus",
     "permalink": "copyrightIsAMindVirus.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 638,
     "minutes": 3.2
@@ -49,6 +64,7 @@
     "year": 2024,
     "title": "Patents are Poison",
     "permalink": "patentsArePoison.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 970,
     "minutes": 4.8
@@ -58,6 +74,7 @@
     "year": 2024,
     "title": "What do you need to make our universe?",
     "permalink": "essentials.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 27,
     "minutes": 0.1
@@ -67,6 +84,7 @@
     "year": 2024,
     "title": "Strong Startup Advice",
     "permalink": "startupAdvice.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 301,
     "minutes": 1.5
@@ -76,6 +94,7 @@
     "year": 2024,
     "title": "sf: instant scratch folders",
     "permalink": "sf.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 90,
     "minutes": 0.5
@@ -85,6 +104,7 @@
     "year": 2024,
     "title": "Microprogramming: A New Way to Program",
     "permalink": "microprograms.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Scroll",
     "wordCount": 1771,
     "minutes": 8.9
@@ -94,6 +114,7 @@
     "year": 2024,
     "title": "The Liver Turns On and Off",
     "permalink": "liver.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Ketones BipolarEnergy",
     "wordCount": 283,
     "minutes": 1.4
@@ -103,6 +124,7 @@
     "year": 2024,
     "title": "Make Something You Love",
     "permalink": "makeSomethingYouLove.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 620,
     "minutes": 3.1
@@ -112,6 +134,7 @@
     "year": 2024,
     "title": "Flaws in Heaven",
     "permalink": "flawsInHeaven.html",
+    "authors": "Breck Yunits",
     "tags": "All Jokes Society",
     "wordCount": 82,
     "minutes": 0.4
@@ -121,6 +144,7 @@
     "year": 2024,
     "title": "The Galton Board",
     "permalink": "hebner.html",
+    "authors": "Breck Yunits",
     "tags": "All Math Data",
     "wordCount": 128,
     "minutes": 0.6
@@ -130,6 +154,7 @@
     "year": 2024,
     "title": "Advice to the current batch of YCombinator companies: demand carry",
     "permalink": "letter.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 488,
     "minutes": 2.4
@@ -139,6 +164,7 @@
     "year": 2024,
     "title": "Particle Chain: A New Kind of Blockchain",
     "permalink": "particleChain.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Programming Scroll Society ScrollPapers",
     "wordCount": 319,
     "minutes": 1.6
@@ -148,6 +174,7 @@
     "year": 2024,
     "title": "Humans",
     "permalink": "humans.html",
+    "authors": "Breck Yunits",
     "tags": "All Society Life",
     "wordCount": 323,
     "minutes": 1.6
@@ -157,6 +184,7 @@
     "year": 2024,
     "title": "Nature's Eternal Omen: Do not ignore me.",
     "permalink": "neo.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 28,
     "minutes": 0.1
@@ -166,6 +194,7 @@
     "year": 2024,
     "title": "Why Warpcast should not add blocking",
     "permalink": "blocking.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 696,
     "minutes": 3.5
@@ -175,6 +204,7 @@
     "year": 2024,
     "title": "A Review of the South Park Commons Rejection Letter",
     "permalink": "southPark.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 438,
     "minutes": 2.2
@@ -184,6 +214,7 @@
     "year": 2024,
     "title": "PAU: Patient Accessible and Understandable health records",
     "permalink": "pau.html",
+    "authors": "Breck Yunits",
     "tags": "All MedicalRecords",
     "wordCount": 184,
     "minutes": 0.9
@@ -193,6 +224,7 @@
     "year": 2024,
     "title": "The Journey of the Ketones",
     "permalink": "ketoneMap.html",
+    "authors": "Breck Yunits",
     "tags": "All Ketones BipolarEnergy",
     "wordCount": 460,
     "minutes": 2.3
@@ -202,6 +234,7 @@
     "year": 2024,
     "title": "Part Assholes are Awesome",
     "permalink": "assholes.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Startups",
     "wordCount": 1038,
     "minutes": 5.2
@@ -211,6 +244,7 @@
     "year": 2024,
     "title": "David's Last Letter",
     "permalink": "davidsLastLetter.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Society",
     "wordCount": 1535,
     "minutes": 7.7
@@ -220,6 +254,7 @@
     "year": 2024,
     "title": "Abraham Lincoln: \"Discourage Litigation.\"",
     "permalink": "litigation.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 140,
     "minutes": 0.7
@@ -229,6 +264,7 @@
     "year": 2024,
     "title": "ETA!: A Measure of Evolution",
     "permalink": "eta.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Programming Scroll Society ScrollPapers",
     "wordCount": 404,
     "minutes": 2
@@ -238,6 +274,7 @@
     "year": 2024,
     "title": "Early Source",
     "permalink": "earlySource.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 351,
     "minutes": 1.8
@@ -247,6 +284,7 @@
     "year": 2024,
     "title": "Vest Early. Vest Often.",
     "permalink": "vestEarlyVestOften.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 547,
     "minutes": 2.7
@@ -256,6 +294,7 @@
     "year": 2024,
     "title": "IPDD",
     "permalink": "ipdd.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
     "wordCount": 467,
     "minutes": 2.3
@@ -265,6 +304,7 @@
     "year": 2024,
     "title": "CheckBox: An Online + Offline Voting System",
     "permalink": "checkbox.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Society Scroll",
     "wordCount": 824,
     "minutes": 4.1
@@ -274,6 +314,7 @@
     "year": 2024,
     "title": "The World Wide Scroll",
     "permalink": "wws.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Society",
     "wordCount": 171,
     "minutes": 0.9
@@ -283,6 +324,7 @@
     "year": 2024,
     "title": "Download this Blog",
     "permalink": "download.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Writing Programming",
     "wordCount": 128,
     "minutes": 0.6
@@ -292,6 +334,7 @@
     "year": 2024,
     "title": "ICS: A Measure of Intelligence",
     "permalink": "intelligence.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Scroll ScrollPapers",
     "wordCount": 260,
     "minutes": 1.3
@@ -301,6 +344,7 @@
     "year": 2024,
     "title": "PTCRI: An Equation about Syntax Potential",
     "permalink": "ptcri.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Scroll ScrollPapers",
     "wordCount": 662,
     "minutes": 3.3
@@ -310,6 +354,7 @@
     "year": 2024,
     "title": "Breck's Lab",
     "permalink": "lab.html",
+    "authors": "Breck Yunits",
     "tags": "All Science Startups Programming Writing",
     "wordCount": 464,
     "minutes": 2.3
@@ -319,6 +364,7 @@
     "year": 2024,
     "title": "The Choice",
     "permalink": "meaning.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Data Hits",
     "wordCount": 358,
     "minutes": 1.8
@@ -328,6 +374,7 @@
     "year": 2024,
     "title": "Patch: a micro language to make pretty deep links easy",
     "permalink": "patch.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Scroll",
     "wordCount": 469,
     "minutes": 2.3
@@ -337,6 +384,7 @@
     "year": 2024,
     "title": "Bring back RadioShack?",
     "permalink": "radioShack.html",
+    "authors": "Breck Yunits",
     "tags": "All Society HasDataset Data Programming",
     "wordCount": 414,
     "minutes": 2.1
@@ -346,6 +394,7 @@
     "year": 2024,
     "title": "What can we learn from programming language version numbers?",
     "permalink": "versionNumbers.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Data Scroll",
     "wordCount": 479,
     "minutes": 2.4
@@ -355,6 +404,7 @@
     "year": 2024,
     "title": "Abort Bars",
     "permalink": "abortBar.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Life",
     "wordCount": 172,
     "minutes": 0.9
@@ -364,6 +414,7 @@
     "year": 2024,
     "title": "The Omni Restaurant",
     "permalink": "omniRestaurant.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
     "wordCount": 732,
     "minutes": 3.7
@@ -373,6 +424,7 @@
     "year": 2024,
     "title": "ScrollSets: A New Way to Store Knowledge",
     "permalink": "scrollsets.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers",
     "wordCount": 1279,
     "minutes": 6.4
@@ -382,6 +434,7 @@
     "year": 2024,
     "title": "High Impact Thoughts",
     "permalink": "hits.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life Startups Hits",
     "wordCount": 1270,
     "minutes": 6.3
@@ -391,6 +444,7 @@
     "year": 2024,
     "title": "PMF Mirages",
     "permalink": "pmfMirage.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 1236,
     "minutes": 6.2
@@ -400,6 +454,7 @@
     "year": 2024,
     "title": "The law favors ChatGPT over humans",
     "permalink": "digitalCopyright.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
     "wordCount": 368,
     "minutes": 1.8
@@ -409,6 +464,7 @@
     "year": 2024,
     "title": "Corporate Email",
     "permalink": "corporateEmail.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Society Programming NoNoReply",
     "wordCount": 176,
     "minutes": 0.9
@@ -418,6 +474,7 @@
     "year": 2024,
     "title": "Marks",
     "permalink": "marks.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Life HasDataset",
     "wordCount": 234,
     "minutes": 1.2
@@ -427,6 +484,7 @@
     "year": 2024,
     "title": "The Tallest Tree",
     "permalink": "theTallestTree.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Hits",
     "wordCount": 443,
     "minutes": 2.2
@@ -436,6 +494,7 @@
     "year": 2024,
     "title": "Three Scientists Go To Heaven",
     "permalink": "aScientistGoesToHeaven.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Data",
     "wordCount": 109,
     "minutes": 0.5
@@ -445,6 +504,7 @@
     "year": 2024,
     "title": "Hypothermia",
     "permalink": "badModels.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Society Data",
     "wordCount": 380,
     "minutes": 1.9
@@ -454,6 +514,7 @@
     "year": 2024,
     "title": "Energy Clocks",
     "permalink": "theEnergyClock.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Ketones",
     "wordCount": 1146,
     "minutes": 5.7
@@ -463,6 +524,7 @@
     "year": 2024,
     "title": "A Higher Language",
     "permalink": "aHigherLanguage.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Writing",
     "wordCount": 407,
     "minutes": 2
@@ -472,6 +534,7 @@
     "year": 2024,
     "title": "Hot Coffee",
     "permalink": "datasets.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Programming HasDataset ScrollSets",
     "wordCount": 868,
     "minutes": 4.3
@@ -481,6 +544,7 @@
     "year": 2024,
     "title": "Big O's Kitchen",
     "permalink": "bigOsKitchen.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Data HasDataset Logeracy",
     "wordCount": 392,
     "minutes": 2
@@ -490,6 +554,7 @@
     "year": 2024,
     "title": "The Fastest in the World",
     "permalink": "fastest.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Data",
     "wordCount": 331,
     "minutes": 1.7
@@ -499,6 +564,7 @@
     "year": 2024,
     "title": "Ketones vs Lithium",
     "permalink": "ketonesVsLithium.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy HasDataset Ketones",
     "wordCount": 5132,
     "minutes": 25.7
@@ -508,6 +574,7 @@
     "year": 2024,
     "title": "The Future of the Term \"Bipolar Disorder\"",
     "permalink": "bipolarTerm.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 887,
     "minutes": 4.4
@@ -517,6 +584,7 @@
     "year": 2024,
     "title": "Blog Posts, Sorted by Sleep",
     "permalink": "sleepWriting.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Writing HasDataset",
     "wordCount": 842,
     "minutes": 4.2
@@ -526,6 +594,7 @@
     "year": 2024,
     "title": "Do Human Brains Molt?",
     "permalink": "doHumanBrainsMolt.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 596,
     "minutes": 3
@@ -535,6 +604,7 @@
     "year": 2024,
     "title": "Final Tree Notation Report",
     "permalink": "treeNotationFinalReport.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 1906,
     "minutes": 9.5
@@ -544,6 +614,7 @@
     "year": 2024,
     "title": "The Box Method of Science",
     "permalink": "boxMethod.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking",
     "wordCount": 1163,
     "minutes": 5.8
@@ -553,6 +624,7 @@
     "year": 2024,
     "title": "Open-Mindedness",
     "permalink": "openMindedness.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Life",
     "wordCount": 1427,
     "minutes": 7.1
@@ -562,6 +634,7 @@
     "year": 2024,
     "title": "A Different Kind of Mindmap",
     "permalink": "mindmap.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Programming Life Minsky",
     "wordCount": 487,
     "minutes": 2.4
@@ -571,6 +644,7 @@
     "year": 2024,
     "title": "Synthesizing Knowledge",
     "permalink": "synthesizingKnowledge.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Programming",
     "wordCount": 516,
     "minutes": 2.6
@@ -580,6 +654,7 @@
     "year": 2024,
     "title": "The Brain Pilot Model of Bipolar Disorder",
     "permalink": "brainPilotModelOfBipolarDisorder.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 1523,
     "minutes": 7.6
@@ -589,6 +664,7 @@
     "year": 2024,
     "title": "Why do we subsidize lies?",
     "permalink": "whyDoWeSubsidizeLies.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
     "wordCount": 285,
     "minutes": 1.4
@@ -598,6 +674,7 @@
     "year": 2024,
     "title": "Beliefs",
     "permalink": "beliefs.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 311,
     "minutes": 1.6
@@ -607,6 +684,7 @@
     "year": 2024,
     "title": "What is the role of the bipolar in society?",
     "permalink": "bipolarsInSociety.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 2734,
     "minutes": 13.7
@@ -616,6 +694,7 @@
     "year": 2024,
     "title": "Stable Mood Disorder",
     "permalink": "stableMoodDisorder.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 729,
     "minutes": 3.6
@@ -625,6 +704,7 @@
     "year": 2024,
     "title": "Becoming a High Energy Person",
     "permalink": "powerSurges.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 1421,
     "minutes": 7.1
@@ -634,6 +714,7 @@
     "year": 2024,
     "title": "Blogging as Therapy",
     "permalink": "bloggingAsTherapy.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Writing",
     "wordCount": 877,
     "minutes": 4.4
@@ -643,6 +724,7 @@
     "year": 2024,
     "title": "Delusions",
     "permalink": "delusions.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 1732,
     "minutes": 8.7
@@ -652,6 +734,7 @@
     "year": 2024,
     "title": "On Eating Animals",
     "permalink": "eatingAnimals.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 851,
     "minutes": 4.3
@@ -661,6 +744,7 @@
     "year": 2024,
     "title": "Focusing on Bipolar Disorder",
     "permalink": "bipolarDisorder.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy",
     "wordCount": 2789,
     "minutes": 13.9
@@ -670,6 +754,7 @@
     "year": 2024,
     "title": "Keto for bipolar was not talked about until very recently",
     "permalink": "bipolarKeto.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy HasDataset",
     "wordCount": 420,
     "minutes": 2.1
@@ -679,6 +764,7 @@
     "year": 2024,
     "title": "Words are Worse than Weights",
     "permalink": "wordsAreWorseThanWeights.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Writing Scroll Life",
     "wordCount": 1887,
     "minutes": 9.4
@@ -688,6 +774,7 @@
     "year": 2024,
     "title": "If nature is doing it...",
     "permalink": "ifNatureIsDoingIt.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life Startups Data",
     "wordCount": 299,
     "minutes": 1.5
@@ -697,6 +784,7 @@
     "year": 2024,
     "title": "Could in vitro brains power AI?",
     "permalink": "couldInVitroBrainsPowerAI.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Society",
     "wordCount": 1132,
     "minutes": 5.7
@@ -706,6 +794,7 @@
     "year": 2024,
     "title": "Writing in 2024",
     "permalink": "nyd2024.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
     "wordCount": 275,
     "minutes": 1.4
@@ -715,6 +804,7 @@
     "year": 2023,
     "title": "I thought we could build AI experts by hand",
     "permalink": "iThoughtWeCouldBuildAIExpertsByHand.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Startups",
     "wordCount": 5715,
     "minutes": 28.6
@@ -724,6 +814,7 @@
     "year": 2023,
     "title": "A Manic Startup",
     "permalink": "a-manic-startup.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Startups",
     "wordCount": 1036,
     "minutes": 5.2
@@ -733,6 +824,7 @@
     "year": 2023,
     "title": "A Proposal to Solve Government Forms Worldwide, Forever",
     "permalink": "a-proposal-on-government-forms.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Society",
     "wordCount": 1096,
     "minutes": 5.5
@@ -742,6 +834,7 @@
     "year": 2023,
     "title": "Many Narratives. All true.",
     "permalink": "many-narratives-all-true.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Life Narratives",
     "wordCount": 722,
     "minutes": 3.6
@@ -751,6 +844,7 @@
     "year": 2023,
     "title": "Live Free or AGI",
     "permalink": "live-free-or-agi.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 567,
     "minutes": 2.8
@@ -760,6 +854,7 @@
     "year": 2023,
     "title": "A Mathematical Model of Copyright",
     "permalink": "a-mathematical-model-of-copyright.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 1328,
     "minutes": 6.6
@@ -769,6 +864,7 @@
     "year": 2023,
     "title": "Walking and other invisible tools of thought",
     "permalink": "walking-as-a-tool-of-thought.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Hits",
     "wordCount": 845,
     "minutes": 4.2
@@ -778,6 +874,7 @@
     "year": 2023,
     "title": "The Magnificent Multi-Agent Mind of Marvin Minsky",
     "permalink": "marvin-minsky.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Life Minsky",
     "wordCount": 1170,
     "minutes": 5.8
@@ -787,6 +884,7 @@
     "year": 2023,
     "title": "Enchained Symbols",
     "permalink": "enchained-symbols.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 316,
     "minutes": 1.6
@@ -796,6 +894,7 @@
     "year": 2023,
     "title": "A Public Domain Human",
     "permalink": "a-public-domain-human.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 1086,
     "minutes": 5.4
@@ -805,6 +904,7 @@
     "year": 2023,
     "title": "SafeFS",
     "permalink": "safeFs.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 394,
     "minutes": 2
@@ -814,6 +914,7 @@
     "year": 2023,
     "title": "Use the Spine",
     "permalink": "useTheSpine.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 540,
     "minutes": 2.7
@@ -823,6 +924,7 @@
     "year": 2022,
     "title": "One Textarea",
     "permalink": "oneTextarea.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 386,
     "minutes": 1.9
@@ -832,6 +934,7 @@
     "year": 2022,
     "title": "Root Thinking",
     "permalink": "root-thinking.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Thinking Scroll",
     "wordCount": 354,
     "minutes": 1.8
@@ -841,6 +944,7 @@
     "year": 2022,
     "title": "Replies always welcome",
     "permalink": "replies-always-welcome.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming NoNoReply",
     "wordCount": 585,
     "minutes": 2.9
@@ -850,6 +954,7 @@
     "year": 2022,
     "title": "Training a neural network to spot misinformation and fake news from a single image",
     "permalink": "misinformationOrFakeNewsNeuralNetwork.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
     "wordCount": 75,
     "minutes": 0.4
@@ -859,6 +964,7 @@
     "year": 2022,
     "title": "A scratch ticket with a positive expected value",
     "permalink": "scratch-ticket.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 463,
     "minutes": 2.3
@@ -868,6 +974,7 @@
     "year": 2022,
     "title": "Cancer and Copyright",
     "permalink": "cancer-and-copyright.html",
+    "authors": "Breck Yunits",
     "tags": "All Society IntellectualFreedom",
     "wordCount": 419,
     "minutes": 2.1
@@ -877,6 +984,7 @@
     "year": 2022,
     "title": "An Angel Investor's Data",
     "permalink": "an-angel-investors-data.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups HasDataset AngelInvesting",
     "wordCount": 541,
     "minutes": 2.7
@@ -886,6 +994,7 @@
     "year": 2022,
     "title": "How the public domain can win",
     "permalink": "how-the-public-domain-can-win.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 799,
     "minutes": 4
@@ -895,6 +1004,7 @@
     "year": 2022,
     "title": "The Three Byte Fix",
     "permalink": "ckmeans.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Data HasDataset Logeracy",
     "wordCount": 1005,
     "minutes": 5
@@ -904,6 +1014,7 @@
     "year": 2022,
     "title": "Upstream of Everything",
     "permalink": "upstream-of-everything.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking",
     "wordCount": 1246,
     "minutes": 6.2
@@ -913,6 +1024,7 @@
     "year": 2022,
     "title": "Brain Pilots",
     "permalink": "brain-pilots.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy Life Minsky",
     "wordCount": 2726,
     "minutes": 13.6
@@ -922,6 +1034,7 @@
     "year": 2021,
     "title": "Aftertext",
     "permalink": "aftertext.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Writing",
     "wordCount": 2041,
     "minutes": 10.2
@@ -931,6 +1044,7 @@
     "year": 2021,
     "title": "Write Thin to Write Fast",
     "permalink": "write-thin-to-write-fast.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing HasDataset",
     "wordCount": 1148,
     "minutes": 5.7
@@ -940,6 +1054,7 @@
     "year": 2021,
     "title": "User Methods",
     "permalink": "user-methods.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 1466,
     "minutes": 7.3
@@ -949,6 +1064,7 @@
     "year": 2021,
     "title": "Goblin Interviews Alexandra Elbakian",
     "permalink": "elbakian-interview.html",
+    "authors": "Breck Yunits",
     "tags": "All OtherAuthor",
     "wordCount": 17154,
     "minutes": 85.8
@@ -958,6 +1074,7 @@
     "year": 2021,
     "title": "Scrolldown now has Dialogues",
     "permalink": "dialogues.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll",
     "wordCount": 143,
     "minutes": 0.7
@@ -967,6 +1084,7 @@
     "year": 2021,
     "title": "The Intellectual Freedom Amendment",
     "permalink": "ifa.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 509,
     "minutes": 2.5
@@ -976,6 +1094,7 @@
     "year": 2021,
     "title": "Some old blogs",
     "permalink": "some-old-blogs.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing",
     "wordCount": 271,
     "minutes": 1.4
@@ -985,6 +1104,7 @@
     "year": 2021,
     "title": "Strong Advice",
     "permalink": "advice.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Writing Life",
     "wordCount": 727,
     "minutes": 3.6
@@ -994,6 +1114,7 @@
     "year": 2021,
     "title": "Logeracy",
     "permalink": "logeracy.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Society Hits Logeracy",
     "wordCount": 1596,
     "minutes": 8
@@ -1003,6 +1124,7 @@
     "year": 2021,
     "title": "How to fix the CDC",
     "permalink": "how-to-fix-the-cdc.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 1052,
     "minutes": 5.3
@@ -1012,6 +1134,7 @@
     "year": 2021,
     "title": "How James Park built FitBit",
     "permalink": "how-james-park-built-fitbit.html",
+    "authors": "Breck Yunits",
     "tags": "All OtherAuthor",
     "wordCount": 11709,
     "minutes": 58.5
@@ -1021,6 +1144,7 @@
     "year": 2021,
     "title": "Insist on Focus - Keith Rabois describes working at PayPal",
     "permalink": "insist-on-focus.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups OtherAuthor",
     "wordCount": 685,
     "minutes": 3.4
@@ -1030,6 +1154,7 @@
     "year": 2021,
     "title": "The Public Domain Publishing Company",
     "permalink": "the-public-domain-publishing-company.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Startups Scroll",
     "wordCount": 103,
     "minutes": 0.5
@@ -1039,6 +1164,7 @@
     "year": 2021,
     "title": "Scroll Beta",
     "permalink": "scroll-beta.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming Writing",
     "wordCount": 244,
     "minutes": 1.2
@@ -1048,6 +1174,7 @@
     "year": 2021,
     "title": "Sleepy Time Conference",
     "permalink": "sleepyTimeConference.html",
+    "authors": "Breck Yunits",
     "tags": "All Society Startups",
     "wordCount": 305,
     "minutes": 1.5
@@ -1057,6 +1184,7 @@
     "year": 2020,
     "title": "2019 Tree Notation Annual Report",
     "permalink": "tree-notation-annual-report-2019.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 3933,
     "minutes": 19.7
@@ -1066,6 +1194,7 @@
     "year": 2020,
     "title": "Medical Records to the Moon",
     "permalink": "medical-records-to-the-moon.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society HasDataset Data MedicalRecords",
     "wordCount": 1200,
     "minutes": 6
@@ -1075,6 +1204,7 @@
     "year": 2020,
     "title": "Musing on the Future of Healthcare",
     "permalink": "musing-on-the-future-of-healthcare.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society MedicalRecords",
     "wordCount": 416,
     "minutes": 2.1
@@ -1084,6 +1214,7 @@
     "year": 2020,
     "title": "How Old Are These Keys? Five Eras of Human Progress",
     "permalink": "how-old-are-these-keys.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society HasDataset",
     "wordCount": 1530,
     "minutes": 7.7
@@ -1093,6 +1224,7 @@
     "year": 2020,
     "title": "An Unpopular Phrase",
     "permalink": "an-unpopular-phrase.html",
+    "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
     "wordCount": 690,
     "minutes": 3.5
@@ -1102,6 +1234,7 @@
     "year": 2020,
     "title": "Integrity and Perseverance in Business ensure success (1853)",
     "permalink": "integrity-and-perseverance-in-business-ensure-success.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 183,
     "minutes": 0.9
@@ -1111,6 +1244,7 @@
     "year": 2020,
     "title": "Building a TreeBase with 6.5 million files",
     "permalink": "building-a-treebase-with-6.5-million-files.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming HasDataset",
     "wordCount": 7086,
     "minutes": 35.4
@@ -1120,6 +1254,7 @@
     "year": 2020,
     "title": "Dataset Needed",
     "permalink": "dataset-needed.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Society Writing IntellectualFreedom ScrollSets",
     "wordCount": 490,
     "minutes": 2.5
@@ -1129,6 +1264,7 @@
     "year": 2020,
     "title": "Type the World",
     "permalink": "type-the-world.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Thinking Scroll",
     "wordCount": 2413,
     "minutes": 12.1
@@ -1138,6 +1274,7 @@
     "year": 2020,
     "title": "If stories are lies why do they work?",
     "permalink": "if-stories-are-lies-why-do-they-work.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Life Data Narratives",
     "wordCount": 645,
     "minutes": 3.2
@@ -1147,6 +1284,7 @@
     "year": 2020,
     "title": "Dreaming of a Data Checked Language",
     "permalink": "dreaming-of-a-data-checked-language.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets",
     "wordCount": 2607,
     "minutes": 13
@@ -1156,6 +1294,7 @@
     "year": 2019,
     "title": "English cannot encode Real News",
     "permalink": "english-cannot-encode-real-news.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Society Data Narratives",
     "wordCount": 811,
     "minutes": 4.1
@@ -1165,6 +1304,7 @@
     "year": 2019,
     "title": "30,000 Hours",
     "permalink": "30000hours.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Life HasDataset MasterProgramming",
     "wordCount": 491,
     "minutes": 2.5
@@ -1174,6 +1314,7 @@
     "year": 2019,
     "title": "Removing the 2’s from Trinary Notation is a Terrible Idea.",
     "permalink": "trinary.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 535,
     "minutes": 2.7
@@ -1183,6 +1324,7 @@
     "year": 2018,
     "title": "Going Manic with a FitBit",
     "permalink": "going-manic-with-a-fitbit.html",
+    "authors": "Breck Yunits",
     "tags": "All BipolarEnergy HasDataset",
     "wordCount": 2032,
     "minutes": 10.2
@@ -1192,6 +1334,7 @@
     "year": 2017,
     "title": "PAC: Particle Atom Complexity",
     "permalink": "countingComplexity.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
     "wordCount": 1521,
     "minutes": 7.6
@@ -1201,6 +1344,7 @@
     "year": 2017,
     "title": "Parsers: a language for making languages",
     "permalink": "aGrammarNotationForTreeLanguages.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
     "wordCount": 401,
     "minutes": 2
@@ -1210,6 +1354,7 @@
     "year": 2017,
     "title": "Ohayo",
     "permalink": "ohayo.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Programming Startups Scroll",
     "wordCount": 76,
     "minutes": 0.4
@@ -1219,6 +1364,7 @@
     "year": 2017,
     "title": "A New Discovery in Computer Science: 2-Dimensional Programming Languages",
     "permalink": "show-hn-programming-is-now-two-dimensional.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming ScrollPapers",
     "wordCount": 787,
     "minutes": 3.9
@@ -1228,6 +1374,7 @@
     "year": 2017,
     "title": "Tree Notation: an antifragile program notation",
     "permalink": "treenotationPaper.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
     "wordCount": 1285,
     "minutes": 6.4
@@ -1237,6 +1384,7 @@
     "year": 2013,
     "title": "Big Data Notation",
     "permalink": "big-data-notation.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Programming Thinking",
     "wordCount": 242,
     "minutes": 1.2
@@ -1246,6 +1394,7 @@
     "year": 2013,
     "title": "NudgePad: An IDE in Your Browser",
     "permalink": "nudgepad-an-ide-in-your-browser.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups Scroll",
     "wordCount": 407,
     "minutes": 2
@@ -1255,6 +1404,7 @@
     "year": 2013,
     "title": "ScrollNet: A successor to the Internet",
     "permalink": "scrollnet.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
     "wordCount": 624,
     "minutes": 3.1
@@ -1264,6 +1414,7 @@
     "year": 2013,
     "title": "Software Should Save People Time",
     "permalink": "software-should-save-people-time.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 251,
     "minutes": 1.3
@@ -1273,6 +1424,7 @@
     "year": 2013,
     "title": "Time",
     "permalink": "time.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 87,
     "minutes": 0.4
@@ -1282,6 +1434,7 @@
     "year": 2013,
     "title": "Money is Meant to Circulate",
     "permalink": "money-is-meant-to-circulate.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Society",
     "wordCount": 164,
     "minutes": 0.8
@@ -1291,6 +1444,7 @@
     "year": 2013,
     "title": "Why 10,000 hours?",
     "permalink": "why-10000-hours.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Data MasterProgramming",
     "wordCount": 449,
     "minutes": 2.2
@@ -1300,6 +1454,7 @@
     "year": 2013,
     "title": "Minor Epiphanies",
     "permalink": "minor-epiphanies.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 324,
     "minutes": 1.6
@@ -1309,6 +1464,7 @@
     "year": 2013,
     "title": "The Booster Design Pattern",
     "permalink": "the-booster-design-pattern.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 59,
     "minutes": 0.3
@@ -1318,6 +1474,7 @@
     "year": 2013,
     "title": "Startups and Planes",
     "permalink": "startups-and-planes.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 78,
     "minutes": 0.4
@@ -1327,6 +1484,7 @@
     "year": 2013,
     "title": "Save Your Money for Great Values",
     "permalink": "save-your-money-for-great-values.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Hits",
     "wordCount": 261,
     "minutes": 1.3
@@ -1336,6 +1494,7 @@
     "year": 2013,
     "title": "Infinite Futures",
     "permalink": "infinite-futures.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking",
     "wordCount": 148,
     "minutes": 0.7
@@ -1345,6 +1504,7 @@
     "year": 2012,
     "title": "Prove It",
     "permalink": "prove-it.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Motivation",
     "wordCount": 164,
     "minutes": 0.8
@@ -1354,6 +1514,7 @@
     "year": 2012,
     "title": "The Great Bank Robbery",
     "permalink": "the-great-bank-robbery.html",
+    "authors": "Breck Yunits",
     "tags": "All Society HasDataset",
     "wordCount": 188,
     "minutes": 0.9
@@ -1363,6 +1524,7 @@
     "year": 2012,
     "title": "Responsibility",
     "permalink": "responsibility.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 424,
     "minutes": 2.1
@@ -1372,6 +1534,7 @@
     "year": 2012,
     "title": "Black Swans and Technology",
     "permalink": "black-swans-and-technology.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Startups",
     "wordCount": 463,
     "minutes": 2.3
@@ -1381,6 +1544,7 @@
     "year": 2012,
     "title": "Deliver",
     "permalink": "deliver.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 417,
     "minutes": 2.1
@@ -1390,6 +1554,7 @@
     "year": 2012,
     "title": "Can't Lose. Could Win Big.",
     "permalink": "cant-lose-could-win-big.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Startups",
     "wordCount": 468,
     "minutes": 2.3
@@ -1399,6 +1564,7 @@
     "year": 2012,
     "title": "Probability Makes Planes Fly",
     "permalink": "probability-makes-planes-fly.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life",
     "wordCount": 386,
     "minutes": 1.9
@@ -1408,6 +1574,7 @@
     "year": 2012,
     "title": "Narratives Misrepresent Complex Systems",
     "permalink": "narratives-misrepresent-complex-systems.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Writing Life Narratives",
     "wordCount": 844,
     "minutes": 4.2
@@ -1417,6 +1584,7 @@
     "year": 2012,
     "title": "Simple is...",
     "permalink": "simple-is.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking",
     "wordCount": 176,
     "minutes": 0.9
@@ -1426,6 +1594,7 @@
     "year": 2012,
     "title": "Introducing Note",
     "permalink": "introducing-note.html",
+    "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
     "wordCount": 717,
     "minutes": 3.6
@@ -1435,6 +1604,7 @@
     "year": 2012,
     "title": "Planets and Pebbles",
     "permalink": "planets-and-pebbles.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Logeracy Hits",
     "wordCount": 221,
     "minutes": 1.1
@@ -1444,6 +1614,7 @@
     "year": 2012,
     "title": "Publishing More",
     "permalink": "publishing-more.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
     "wordCount": 262,
     "minutes": 1.3
@@ -1453,6 +1624,7 @@
     "year": 2012,
     "title": "Setplicity",
     "permalink": "setplicity.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Thinking",
     "wordCount": 788,
     "minutes": 3.9
@@ -1462,6 +1634,7 @@
     "year": 2012,
     "title": "Naming Things",
     "permalink": "naming-things.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Writing",
     "wordCount": 902,
     "minutes": 4.5
@@ -1471,6 +1644,7 @@
     "year": 2011,
     "title": "What can a Programmer learn from Rock Climbing?",
     "permalink": "what-can-a-programmer-learn-from-rock-climbing.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Life MasterProgramming",
     "wordCount": 1390,
     "minutes": 7
@@ -1480,6 +1654,7 @@
     "year": 2011,
     "title": "Look for a Line",
     "permalink": "look-for-a-line.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Thinking",
     "wordCount": 335,
     "minutes": 1.7
@@ -1489,6 +1664,7 @@
     "year": 2011,
     "title": "Backpack the World with Zero Planning",
     "permalink": "backpack-the-world-with-zero-planning.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 1182,
     "minutes": 5.9
@@ -1498,6 +1674,7 @@
     "year": 2010,
     "title": "The Economy Explained",
     "permalink": "the-economy-explained.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 1041,
     "minutes": 5.2
@@ -1507,6 +1684,7 @@
     "year": 2010,
     "title": "Circle of Competence",
     "permalink": "circle-of-competence.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 181,
     "minutes": 0.9
@@ -1516,6 +1694,7 @@
     "year": 2010,
     "title": "Critical Thinking",
     "permalink": "critical-thinking.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 111,
     "minutes": 0.6
@@ -1525,6 +1704,7 @@
     "year": 2010,
     "title": "How is Intelligence Distributed?",
     "permalink": "how-is-intelligence-distributed.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society",
     "wordCount": 122,
     "minutes": 0.6
@@ -1534,6 +1714,7 @@
     "year": 2010,
     "title": "Kids are Neat",
     "permalink": "kids-are-neat.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Society",
     "wordCount": 205,
     "minutes": 1
@@ -1543,6 +1724,7 @@
     "year": 2010,
     "title": "Nature Verse Nurture",
     "permalink": "nature-verse-nurture.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Society",
     "wordCount": 241,
     "minutes": 1.2
@@ -1552,6 +1734,7 @@
     "year": 2010,
     "title": "Recommendations Are Far From Good",
     "permalink": "recommendations-are-far-from-good.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society",
     "wordCount": 216,
     "minutes": 1.1
@@ -1561,6 +1744,7 @@
     "year": 2010,
     "title": "Ruby",
     "permalink": "ruby.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 76,
     "minutes": 0.4
@@ -1570,6 +1754,7 @@
     "year": 2010,
     "title": "You Can't Predict the Future",
     "permalink": "you-cant-predict-the-future.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life",
     "wordCount": 762,
     "minutes": 3.8
@@ -1579,6 +1764,7 @@
     "year": 2010,
     "title": "The Recency Effect",
     "permalink": "the-recency-effect.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Society",
     "wordCount": 359,
     "minutes": 1.8
@@ -1588,6 +1774,7 @@
     "year": 2010,
     "title": "What Percentage of the Brain Does What?",
     "permalink": "what-percentage-of-the-brain-does-what.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking",
     "wordCount": 311,
     "minutes": 1.6
@@ -1597,6 +1784,7 @@
     "year": 2010,
     "title": "The Ovarian Lottery and Other Side Projects",
     "permalink": "the-ovarian-lottery-and-other-side-projects.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Data Society",
     "wordCount": 1034,
     "minutes": 5.2
@@ -1606,6 +1794,7 @@
     "year": 2010,
     "title": "Happiness is in Mediocristan",
     "permalink": "happiness-is-in-mediocristan.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life",
     "wordCount": 589,
     "minutes": 2.9
@@ -1615,6 +1804,7 @@
     "year": 2010,
     "title": "Orbits",
     "permalink": "orbits.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life",
     "wordCount": 276,
     "minutes": 1.4
@@ -1624,6 +1814,7 @@
     "year": 2010,
     "title": "What I Want",
     "permalink": "what-i-want.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 761,
     "minutes": 3.8
@@ -1633,6 +1824,7 @@
     "year": 2010,
     "title": "The Do You Know Game and Why We Need Celebrities",
     "permalink": "the-do-you-know-game-and-why-we-need-celebrities.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 773,
     "minutes": 3.9
@@ -1642,6 +1834,7 @@
     "year": 2010,
     "title": "Design Matters. A lot.",
     "permalink": "design-matters-a-lot.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups Design",
     "wordCount": 834,
     "minutes": 4.2
@@ -1651,6 +1844,7 @@
     "year": 2010,
     "title": "Competition and Specialization",
     "permalink": "competition-and-specialization.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Society",
     "wordCount": 244,
     "minutes": 1.2
@@ -1660,6 +1854,7 @@
     "year": 2010,
     "title": "Simple, but not easy",
     "permalink": "simple-but-not-easy.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Life",
     "wordCount": 656,
     "minutes": 3.3
@@ -1669,6 +1864,7 @@
     "year": 2010,
     "title": "Flip Flopping",
     "permalink": "flip-flopping.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 613,
     "minutes": 3.1
@@ -1678,6 +1874,7 @@
     "year": 2010,
     "title": "The Churn Rate of Data",
     "permalink": "the-churn-rate-of-data.html",
+    "authors": "Breck Yunits",
     "tags": "All Data Thinking Programming",
     "wordCount": 182,
     "minutes": 0.9
@@ -1687,6 +1884,7 @@
     "year": 2010,
     "title": "Culture and Complexity",
     "permalink": "culture-and-complexity.html",
+    "authors": "Breck Yunits",
     "tags": "All Society Life",
     "wordCount": 391,
     "minutes": 2
@@ -1696,6 +1894,7 @@
     "year": 2010,
     "title": "The Invention of Free Will",
     "permalink": "the-invention-of-free-will.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 328,
     "minutes": 1.6
@@ -1705,6 +1904,7 @@
     "year": 2010,
     "title": "Why is it best to do one thing really, really well?",
     "permalink": "why-is-it-best-to-do-one-thing-really-really-well.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 882,
     "minutes": 4.4
@@ -1714,6 +1914,7 @@
     "year": 2010,
     "title": "The Hidden Benefits of Automation",
     "permalink": "the-hidden-benefits-of-automation.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 399,
     "minutes": 2
@@ -1723,6 +1924,7 @@
     "year": 2010,
     "title": "Metrics for Programmers",
     "permalink": "metrics-for-programmers.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming HasDataset",
     "wordCount": 225,
     "minutes": 1.1
@@ -1732,6 +1934,7 @@
     "year": 2010,
     "title": "HackerNews Data: Visits as a Function of Karma",
     "permalink": "hackernews-data-visits-as-a-function-of-karma.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups HasDataset",
     "wordCount": 136,
     "minutes": 0.7
@@ -1741,6 +1944,7 @@
     "year": 2010,
     "title": "Don't talk about what you will do, talk about what you have done",
     "permalink": "dont-talk-about-what-you-will-do-talk-about-what-you-have-done.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Motivation",
     "wordCount": 528,
     "minutes": 2.6
@@ -1750,6 +1954,7 @@
     "year": 2010,
     "title": "Why it's worth it to buy the book",
     "permalink": "why-its-worth-it-to-buy-the-book.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking Hits",
     "wordCount": 455,
     "minutes": 2.3
@@ -1759,6 +1964,7 @@
     "year": 2010,
     "title": "The Least You Can Do",
     "permalink": "the-least-you-can-do.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 477,
     "minutes": 2.4
@@ -1768,6 +1974,7 @@
     "year": 2010,
     "title": "Four Tips to Improve Communication",
     "permalink": "four-tips-to-improve-communication.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 403,
     "minutes": 2
@@ -1777,6 +1984,7 @@
     "year": 2010,
     "title": "Network Effects",
     "permalink": "network-effects.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Society",
     "wordCount": 276,
     "minutes": 1.4
@@ -1786,6 +1994,7 @@
     "year": 2010,
     "title": "If you can explain something logically, you can explain it simply",
     "permalink": "if-you-can-explain-something-logically-you-can-explain-it-simply.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing",
     "wordCount": 424,
     "minutes": 2.1
@@ -1795,6 +2004,7 @@
     "year": 2010,
     "title": "With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself",
     "permalink": "with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Life",
     "wordCount": 959,
     "minutes": 4.8
@@ -1804,6 +2014,7 @@
     "year": 2010,
     "title": "When forced to wait, wait!",
     "permalink": "when-forced-to-wait-wait.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 521,
     "minutes": 2.6
@@ -1813,6 +2024,7 @@
     "year": 2010,
     "title": "How to Buy Low, Sell High",
     "permalink": "how-to-buy-low-sell-high.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 773,
     "minutes": 3.9
@@ -1822,6 +2034,7 @@
     "year": 2010,
     "title": "Flee the Bubble",
     "permalink": "flee-the-bubble.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 622,
     "minutes": 3.1
@@ -1831,6 +2044,7 @@
     "year": 2009,
     "title": "Checklist for New Products",
     "permalink": "checklist-for-new-products.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 191,
     "minutes": 1
@@ -1840,6 +2054,7 @@
     "year": 2009,
     "title": "Diversification in Startups",
     "permalink": "diversification-in-startups.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 1237,
     "minutes": 6.2
@@ -1849,6 +2064,7 @@
     "year": 2009,
     "title": "Thoughts on Setting Goals",
     "permalink": "thoughts-on-setting-goals.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 352,
     "minutes": 1.8
@@ -1858,6 +2074,7 @@
     "year": 2009,
     "title": "Problems Worth Solving",
     "permalink": "problems-worth-solving.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups",
     "wordCount": 490,
     "minutes": 2.5
@@ -1867,6 +2084,7 @@
     "year": 2009,
     "title": "Make Something 40% of Your Customers Must Have",
     "permalink": "make-something-40-of-your-customers-must-have.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 627,
     "minutes": 3.1
@@ -1876,6 +2094,7 @@
     "year": 2009,
     "title": "SEO Made Easy: LUMPS",
     "permalink": "seo-made-easy-lumps.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups",
     "wordCount": 700,
     "minutes": 3.5
@@ -1885,6 +2104,7 @@
     "year": 2009,
     "title": "Don't Flip the Bit",
     "permalink": "dont-flip-the-bozo-bit.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Life",
     "wordCount": 393,
     "minutes": 2
@@ -1894,6 +2114,7 @@
     "year": 2009,
     "title": "(un)features",
     "permalink": "unfeatures.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming Startups",
     "wordCount": 479,
     "minutes": 2.4
@@ -1903,6 +2124,7 @@
     "year": 2009,
     "title": "Get Stuff Done By Setting Arbitrary Constraints",
     "permalink": "get-stuff-done-by-setting-arbitrary-constraints.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 501,
     "minutes": 2.5
@@ -1912,6 +2134,7 @@
     "year": 2009,
     "title": "Why You Shouldn't Save Blogging for Old Age",
     "permalink": "why-you-shouldnt-save-blogging-for-old-age.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing",
     "wordCount": 304,
     "minutes": 1.5
@@ -1921,6 +2144,7 @@
     "year": 2009,
     "title": "6 Specific Ways to Find Programming Mentors",
     "permalink": "6-specific-ways-to-find-programming-mentors.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming MasterProgramming",
     "wordCount": 908,
     "minutes": 4.5
@@ -1930,6 +2154,7 @@
     "year": 2009,
     "title": "Orders of Magnitude",
     "permalink": "orders-of-magnitude.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Logeracy Hits",
     "wordCount": 912,
     "minutes": 4.6
@@ -1939,6 +2164,7 @@
     "year": 2009,
     "title": "The Many Worlds Law",
     "permalink": "the-many-worlds-law.html",
+    "authors": "Breck Yunits",
     "tags": "All Life Thinking",
     "wordCount": 363,
     "minutes": 1.8
@@ -1948,6 +2174,7 @@
     "year": 2009,
     "title": "Twelve Tips to Master Programming Faster",
     "permalink": "twelve-tips-to-master-programming-faster.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming MasterProgramming",
     "wordCount": 1915,
     "minutes": 9.6
@@ -1957,6 +2184,7 @@
     "year": 2009,
     "title": "What's Linear Algebra?",
     "permalink": "whats-linear-algebra.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking",
     "wordCount": 343,
     "minutes": 1.7
@@ -1966,6 +2194,7 @@
     "year": 2009,
     "title": "Fiction or Nonfiction?",
     "permalink": "fiction-or-nonfiction.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing",
     "wordCount": 345,
     "minutes": 1.7
@@ -1975,6 +2204,7 @@
     "year": 2009,
     "title": "Experience is What You Get",
     "permalink": "experience-is-what-you-get.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 313,
     "minutes": 1.6
@@ -1984,6 +2214,7 @@
     "year": 2009,
     "title": "I'm Back",
     "permalink": "im-back.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
     "wordCount": 264,
     "minutes": 1.3
@@ -1993,6 +2224,7 @@
     "year": 2009,
     "title": "What you focus on, increases",
     "permalink": "what-you-focus-on-increases.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Thinking Life",
     "wordCount": 398,
     "minutes": 2
@@ -2002,6 +2234,7 @@
     "year": 2009,
     "title": "The Truth about Web Design",
     "permalink": "the-truth-about-web-design.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups Programming Design",
     "wordCount": 300,
     "minutes": 1.5
@@ -2011,6 +2244,7 @@
     "year": 2009,
     "title": "Twitter Search Wins Again",
     "permalink": "twitter-search-wins-again.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 248,
     "minutes": 1.2
@@ -2020,6 +2254,7 @@
     "year": 2009,
     "title": "Irrational Numbers",
     "permalink": "irrational-numbers.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking",
     "wordCount": 616,
     "minutes": 3.1
@@ -2029,6 +2264,7 @@
     "year": 2009,
     "title": "Are you Making Something that will become ‘Absolutely Irrelevant’?",
     "permalink": "are-you-making-something-that-will-become-absolutely-irrelevant.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 542,
     "minutes": 2.7
@@ -2038,6 +2274,7 @@
     "year": 2008,
     "title": "Meteorite Caught on Film",
     "permalink": "meteorite-caught-on-film.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 90,
     "minutes": 0.5
@@ -2047,6 +2284,7 @@
     "year": 2008,
     "title": "When the Market Says No, Listen",
     "permalink": "my-best-startup-advice-numbers-numbers-numbers.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 442,
     "minutes": 2.2
@@ -2056,6 +2294,7 @@
     "year": 2008,
     "title": "San Francisco",
     "permalink": "san-francisco.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 78,
     "minutes": 0.4
@@ -2065,6 +2304,7 @@
     "year": 2008,
     "title": "JustHackIt",
     "permalink": "justhackit.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 338,
     "minutes": 1.7
@@ -2074,6 +2314,7 @@
     "year": 2008,
     "title": "Bigger Telescopes are needed to Solve Global Warming",
     "permalink": "bigger-telescopes-are-needed-to-solve-global-warming.html",
+    "authors": "Breck Yunits",
     "tags": "All Society",
     "wordCount": 566,
     "minutes": 2.8
@@ -2083,6 +2324,7 @@
     "year": 2008,
     "title": "How to Cure the Hiccups",
     "permalink": "how-to-cure-the-hiccups.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 286,
     "minutes": 1.4
@@ -2092,6 +2334,7 @@
     "year": 2008,
     "title": "Trying Shelfari, GoodReads, and LibraryThing",
     "permalink": "trying-shelfari-goodreads-and-librarything.html",
+    "authors": "Breck Yunits",
     "tags": "All Thinking Life",
     "wordCount": 443,
     "minutes": 2.2
@@ -2101,6 +2344,7 @@
     "year": 2008,
     "title": "Over Half of the World is Older Than Me",
     "permalink": "over-half-of-the-world-is-older-than-me.html",
+    "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 163,
     "minutes": 0.8
@@ -2110,6 +2354,7 @@
     "year": 2008,
     "title": "Bloggers Turning Pro",
     "permalink": "bloggers-who-turned-pro-and-their-famous-last-words.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing HasDataset",
     "wordCount": 1064,
     "minutes": 5.3
@@ -2119,6 +2364,7 @@
     "year": 2008,
     "title": "Daily Gas Use for the United States and the World",
     "permalink": "daily-gas-use-for-the-united-states-and-the-world.html",
+    "authors": "Breck Yunits",
     "tags": "All Society Data",
     "wordCount": 295,
     "minutes": 1.5
@@ -2128,6 +2374,7 @@
     "year": 2008,
     "title": "Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles",
     "permalink": "analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups HasDataset",
     "wordCount": 1075,
     "minutes": 5.4
@@ -2137,6 +2384,7 @@
     "year": 2007,
     "title": "First Place in the Stock Market Game",
     "permalink": "first-place-in-the-stock-market-game.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 493,
     "minutes": 2.5
@@ -2146,6 +2394,7 @@
     "year": 2007,
     "title": "Why a Team is Worth a lot more than an Idea",
     "permalink": "why-a-team-is-worth-a-lot-more-than-an-idea.html",
+    "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 654,
     "minutes": 3.3
@@ -2155,6 +2404,7 @@
     "year": 2007,
     "title": "Learning How to Program Part I",
     "permalink": "learning-how-to-program-part-i.html",
+    "authors": "Breck Yunits",
     "tags": "All Programming",
     "wordCount": 580,
     "minutes": 2.9
@@ -2164,6 +2414,7 @@
     "year": 2007,
     "title": "I guess the time has come",
     "permalink": "i-guess-the-time-had-come.html",
+    "authors": "Breck Yunits",
     "tags": "All Writing Life Blogging",
     "wordCount": 351,
     "minutes": 1.8

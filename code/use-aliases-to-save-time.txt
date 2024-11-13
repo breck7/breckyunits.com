@@ -34,4 +34,4 @@ Notes
 
 - 1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
 
-Built with Scroll v148.2.0
+Built with Scroll v148.3.1

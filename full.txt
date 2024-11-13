@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+On Focus
+========
+11/12/2024
+https://breckyunits.com/focus.html
+
 A New Scientific Model of Mania and Depression, with Testable Predictions
 =========================================================================
 11/07/2024
@@ -1206,4 +1211,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v148.2.0
+Built with Scroll v148.3.1
