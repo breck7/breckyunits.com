@@ -2,8 +2,6 @@ replace CAT_TITLE All
 
 categoryPage.scroll
 
-# Hello, but why can I edit this ?
-
 printSnippets All
 
 heatmap.scroll
