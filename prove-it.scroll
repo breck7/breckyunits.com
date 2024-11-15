@@ -4,6 +4,7 @@ title Prove It
 
 header.scroll
 printTitle
+printAuthors
 
 thinColumns 1
 
