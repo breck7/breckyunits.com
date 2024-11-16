@@ -164,7 +164,7 @@ Citations
 - Recutils and our system have debatable syntactic differences, but our system solves a few clear problems described in the Recutils docs:
  - "difficult to manage hierarchies". Hierarchies are painless in our system through nested parsers, parser inheritance, parser mixins, and nested measurements.
  - "tedious to manually encode...several lines". No encoding is needed in our system thanks to the indentation trick.
- - In Recutils comments are "completely ignored by processing tools and can only be seen by looking at the recfile itself". Our system supports first class comments which are bound to measurements using the indentation trick.
+ - In Recutils comments are "completely ignored by processing tools and can only be seen by looking at the recfile itself". Our system supports first class comments which are bound to measurements using the indentation trick, or by setting a binding in the parser.
  - "It is difficult to manually maintain the integrity of data stored in the data base." In our system advances parsers provides unlimited capabilities for maintaining data integrity.
 ^antlr: ANTLR: Terence Parr et al
  https://www.antlr.org/ ANTLR
@@ -197,4 +197,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v151.0.0
+Built with Scroll v154.2.0

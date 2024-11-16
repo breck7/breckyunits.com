@@ -1,13 +1,8 @@
 date 2024-11-12
 tags All Startups Life
 title On Focus
-
-header.scroll
-printTitle
-printAuthors
-printDate
-
-container 600px
+standardPost.scroll
+container 300px
 
 Every accomplished person I've studied has a quip about focus.
 
@@ -69,4 +64,3 @@ Focusing is the thing to practice.
 
 comics/focus.png
 
-footer.scroll

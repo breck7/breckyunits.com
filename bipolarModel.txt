@@ -47,13 +47,11 @@ Predictions
 References
 ==========
 
-Because of the importance of this model I am publishing the first draft to hopefully disprove/evolve it quickly and so I am publishing before adding a complete list of references.
-
-As one can assume, hundreds of works directly contributed to the model above.
+As one can assume, hundreds of works directly contributed to the model above. I will add references over time.
 
 If this model proves correct, all credit is due to the breakthrough work of Dr. Iain Campbell at University of Edinburgh.
  https://www.ed.ac.uk/profile/dr-iain-campbell Dr. Iain Campbell
 
-Having observed this field for a long time, even if this model proves inadequate, I feel an accurate model is in sight and it is now a race between Dr. Campbell and his team versus everyone else.
+Having observed this field for a long time, even if this model proves inadequate, I feel an accurate model is in sight and it is now a race between Dr. Campbell and his team versus everyone else. ;)
 
-Built with Scroll v151.0.0
+Built with Scroll v154.2.0

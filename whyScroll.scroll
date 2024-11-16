@@ -1,12 +1,7 @@
 date 2024-11-01
 tags All Scroll
 title Why Scroll?
-
-header.scroll
-printTitle
-printAuthors
-printDate
-
+standardPost.scroll
 container 300px
 
 Everything I own is in the overhead bin.
@@ -88,5 +83,3 @@ To write Scroll is to filter symbols.
 To keep only the most useful ones.
 
 ****
-
-footer.scroll
