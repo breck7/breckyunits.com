@@ -1,0 +1,9 @@
+importOnly
+
+header.scroll
+printTitle
+printAuthors
+printDate
+
+footer.scroll
+ footer

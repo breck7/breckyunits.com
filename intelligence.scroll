@@ -2,11 +2,7 @@ date 6/6/2024
 openGraphImage intelligence.png
 tags All Programming Scroll ScrollPapers
 title ICS: A Measure of Intelligence
-
-header.scroll
-printTitle
-printAuthors
-printDate
+standardPost.scroll
 
 HTML | TXT
  class scrollDateline
@@ -45,5 +41,3 @@ If they have the same coverage, the smaller program is more intelligent.
 
 # Related Posts
 printRelated ScrollPapers
-
-footer.scroll

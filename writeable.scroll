@@ -1,12 +1,7 @@
 date 2024-11-02
 tags All IntellectualFreedom
 title Writeable
-
-header.scroll
-printTitle
-printAuthors
-printDate
-
+standardPost.scroll
 container 400px
 
 If you could see everything across space and time, we would not need to read and write.
@@ -170,5 +165,3 @@ All symbols should be writeable.
 Do not trust anyone who wants to restrict your rights to write.
 
 ****
-
-footer.scroll

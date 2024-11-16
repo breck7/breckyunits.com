@@ -2,11 +2,7 @@ date 7/18/2024
 openGraphImage eta.png
 tags All IntellectualFreedom Programming Scroll Society ScrollPapers
 title ETA!: A Measure of Evolution
-
-header.scroll
-printTitle
-printAuthors
-printDate
+standardPost.scroll
 
 HTML | TXT
  class scrollDateline
@@ -79,5 +75,3 @@ Luckily $A^A$ is still in the factorial class so the memorable acronym still app
  https://warpcast.com/liucobe Cobe Liu
  https://warpcast.com/liucobe/0x5e0c3936 pointing out
 - Thank you to my coauthor John. Without your help I never would have arrived at this equation.
-
-footer.scroll
