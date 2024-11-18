@@ -6,11 +6,6 @@ On Focus
 11/12/2024
 https://breckyunits.com/focus.html
 
-A New Scientific Model of Mania and Depression, with Testable Predictions
-=========================================================================
-11/07/2024
-https://breckyunits.com/bipolarModel.html
-
 Comics
 ======
 11/06/2024
@@ -256,11 +251,6 @@ Hypothermia
 05/04/2024
 https://breckyunits.com/badModels.html
 
-Energy Clocks
-=============
-05/02/2024
-https://breckyunits.com/theEnergyClock.html
-
 A Higher Language
 =================
 04/27/2024
@@ -281,26 +271,6 @@ The Fastest in the World
 04/22/2024
 https://breckyunits.com/fastest.html
 
-Ketones vs Lithium
-==================
-04/16/2024
-https://breckyunits.com/ketonesVsLithium.html
-
-The Future of the Term "Bipolar Disorder"
-=========================================
-04/10/2024
-https://breckyunits.com/bipolarTerm.html
-
-Blog Posts, Sorted by Sleep
-===========================
-04/05/2024
-https://breckyunits.com/sleepWriting.html
-
-Do Human Brains Molt?
-=====================
-04/03/2024
-https://breckyunits.com/doHumanBrainsMolt.html
-
 Final Tree Notation Report
 ==========================
 04/02/2024
@@ -311,25 +281,10 @@ The Box Method of Science
 03/30/2024
 https://breckyunits.com/boxMethod.html
 
-Open-Mindedness
-===============
-03/08/2024
-https://breckyunits.com/openMindedness.html
-
-A Different Kind of Mindmap
-===========================
-02/24/2024
-https://breckyunits.com/mindmap.html
-
 Synthesizing Knowledge
 ======================
 02/21/2024
 https://breckyunits.com/synthesizingKnowledge.html
-
-The Brain Pilot Model of Bipolar Disorder
-=========================================
-02/20/2024
-https://breckyunits.com/brainPilotModelOfBipolarDisorder.html
 
 Why do we subsidize lies?
 =========================
@@ -341,45 +296,10 @@ Beliefs
 02/11/2024
 https://breckyunits.com/beliefs.html
 
-What is the role of the bipolar in society?
-===========================================
-02/09/2024
-https://breckyunits.com/bipolarsInSociety.html
-
-Stable Mood Disorder
-====================
-02/04/2024
-https://breckyunits.com/stableMoodDisorder.html
-
-Becoming a High Energy Person
-=============================
-02/03/2024
-https://breckyunits.com/powerSurges.html
-
-Blogging as Therapy
-===================
-01/30/2024
-https://breckyunits.com/bloggingAsTherapy.html
-
-Delusions
-=========
-01/29/2024
-https://breckyunits.com/delusions.html
-
 On Eating Animals
 =================
 01/26/2024
 https://breckyunits.com/eatingAnimals.html
-
-Focusing on Bipolar Disorder
-============================
-01/24/2024
-https://breckyunits.com/bipolarDisorder.html
-
-Keto for bipolar was not talked about until very recently
-=========================================================
-01/23/2024
-https://breckyunits.com/bipolarKeto.html
 
 Words are Worse than Weights
 ============================
@@ -406,11 +326,6 @@ I thought we could build AI experts by hand
 12/28/2023
 https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
 
-A Manic Startup
-===============
-06/27/2023
-https://breckyunits.com/a-manic-startup.html
-
 A Proposal to Solve Government Forms Worldwide, Forever
 =======================================================
 06/16/2023
@@ -435,11 +350,6 @@ Walking and other invisible tools of thought
 ============================================
 05/19/2023
 https://breckyunits.com/walking-as-a-tool-of-thought.html
-
-The Magnificent Multi-Agent Mind of Marvin Minsky
-=================================================
-05/09/2023
-https://breckyunits.com/marvin-minsky.html
 
 Enchained Symbols
 =================
@@ -510,11 +420,6 @@ Upstream of Everything
 ======================
 02/28/2022
 https://breckyunits.com/upstream-of-everything.html
-
-Brain Pilots
-============
-02/18/2022
-https://breckyunits.com/brain-pilots.html
 
 Aftertext
 =========
@@ -660,11 +565,6 @@ Removing the 2’s from Trinary Notation is a Terrible Idea.
 ==========================================================
 07/14/2019
 https://breckyunits.com/trinary.html
-
-Going Manic with a FitBit
-=========================
-01/13/2018
-https://breckyunits.com/going-manic-with-a-fitbit.html
 
 PAC: Particle Atom Complexity
 =============================

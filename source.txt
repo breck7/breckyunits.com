@@ -1,16 +1,11 @@
 Source
  https://breckyunits.com/
  
- Sat, 16 Nov 2024 17:27:54 +0000
+ Mon, 18 Nov 2024 01:28:30 +0000
  en-us
  
 On Focus
 https://breckyunits.com/focus.html
-Invalid Date
-
- 
-A New Scientific Model of Mania and Depression, with Testable Predictions
-https://breckyunits.com/bipolarModel.html
 Invalid Date
 
  
@@ -259,11 +254,6 @@ https://breckyunits.com/badModels.html
 Invalid Date
 
  
-Energy Clocks
-https://breckyunits.com/theEnergyClock.html
-Invalid Date
-
- 
 A Higher Language
 https://breckyunits.com/aHigherLanguage.html
 Invalid Date
@@ -284,26 +274,6 @@ https://breckyunits.com/fastest.html
 Invalid Date
 
  
-Ketones vs Lithium
-https://breckyunits.com/ketonesVsLithium.html
-Invalid Date
-
- 
-The Future of the Term "Bipolar Disorder"
-https://breckyunits.com/bipolarTerm.html
-Invalid Date
-
- 
-Blog Posts, Sorted by Sleep
-https://breckyunits.com/sleepWriting.html
-Invalid Date
-
- 
-Do Human Brains Molt?
-https://breckyunits.com/doHumanBrainsMolt.html
-Invalid Date
-
- 
 Final Tree Notation Report
 https://breckyunits.com/treeNotationFinalReport.html
 Invalid Date
@@ -314,23 +284,8 @@ https://breckyunits.com/boxMethod.html
 Invalid Date
 
  
-Open-Mindedness
-https://breckyunits.com/openMindedness.html
-Invalid Date
-
- 
-A Different Kind of Mindmap
-https://breckyunits.com/mindmap.html
-Invalid Date
-
- 
 Synthesizing Knowledge
 https://breckyunits.com/synthesizingKnowledge.html
-Invalid Date
-
- 
-The Brain Pilot Model of Bipolar Disorder
-https://breckyunits.com/brainPilotModelOfBipolarDisorder.html
 Invalid Date
 
  
@@ -344,43 +299,8 @@ https://breckyunits.com/beliefs.html
 Invalid Date
 
  
-What is the role of the bipolar in society?
-https://breckyunits.com/bipolarsInSociety.html
-Invalid Date
-
- 
-Stable Mood Disorder
-https://breckyunits.com/stableMoodDisorder.html
-Invalid Date
-
- 
-Becoming a High Energy Person
-https://breckyunits.com/powerSurges.html
-Invalid Date
-
- 
-Blogging as Therapy
-https://breckyunits.com/bloggingAsTherapy.html
-Invalid Date
-
- 
-Delusions
-https://breckyunits.com/delusions.html
-Invalid Date
-
- 
 On Eating Animals
 https://breckyunits.com/eatingAnimals.html
-Invalid Date
-
- 
-Focusing on Bipolar Disorder
-https://breckyunits.com/bipolarDisorder.html
-Invalid Date
-
- 
-Keto for bipolar was not talked about until very recently
-https://breckyunits.com/bipolarKeto.html
 Invalid Date
 
  
@@ -409,11 +329,6 @@ https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
 Invalid Date
 
  
-A Manic Startup
-https://breckyunits.com/a-manic-startup.html
-Invalid Date
-
- 
 A Proposal to Solve Government Forms Worldwide, Forever
 https://breckyunits.com/a-proposal-on-government-forms.html
 Invalid Date
@@ -436,11 +351,6 @@ Invalid Date
  
 Walking and other invisible tools of thought
 https://breckyunits.com/walking-as-a-tool-of-thought.html
-Invalid Date
-
- 
-The Magnificent Multi-Agent Mind of Marvin Minsky
-https://breckyunits.com/marvin-minsky.html
 Invalid Date
 
  
@@ -511,11 +421,6 @@ Invalid Date
  
 Upstream of Everything
 https://breckyunits.com/upstream-of-everything.html
-Invalid Date
-
- 
-Brain Pilots
-https://breckyunits.com/brain-pilots.html
 Invalid Date
 
  
@@ -661,11 +566,6 @@ Invalid Date
  
 Removing the 2’s from Trinary Notation is a Terrible Idea.
 https://breckyunits.com/trinary.html
-Invalid Date
-
- 
-Going Manic with a FitBit
-https://breckyunits.com/going-manic-with-a-fitbit.html
 Invalid Date
 
  

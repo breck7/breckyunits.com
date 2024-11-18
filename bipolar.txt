@@ -1,66 +1,3 @@
-Breck's Blog - Bipolar Energy Posts
-===================================
-
-Breck's Blog - Intellectual Freedom Posts
-=========================================
-11/16/2024
-https://breckyunits.com/freedom.html
-
-Breck's Blog - All Posts
-========================
-11/16/2024
-https://breckyunits.com/index.html
-
-Breck's Blog - Life Posts
-=========================
-11/16/2024
-https://breckyunits.com/life.html
-
-Breck's Blog - Papers Posts
-===========================
-11/16/2024
-https://breckyunits.com/papers.html
-
-Breck's Blog - Programming Posts
-================================
-11/16/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/16/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Society Posts
-============================
-11/16/2024
-https://breckyunits.com/society.html
-
-Breck's Blog - Startups Posts
-=============================
-11/16/2024
-https://breckyunits.com/startups.html
-
-Breck's Blog - Thinking Posts
-=============================
-11/16/2024
-https://breckyunits.com/thinking.html
-
-Breck's Blog - Scroll Posts
-===========================
-11/16/2024
-https://breckyunits.com/treeNotation.html
-
-Breck's Blog - Writing Posts
-============================
-11/16/2024
-https://breckyunits.com/writing.html
-
-Breck's Blog - Data Posts
-=========================
-11/16/2024
-https://breckyunits.com/data.html
-
 A New Scientific Model of Mania and Depression, with Testable Predictions
 =========================================================================
 11/07/2024
@@ -131,11 +68,6 @@ Becoming a High Energy Person
 02/03/2024
 https://breckyunits.com/powerSurges.html
 
-Blogging as Therapy
-===================
-01/30/2024
-https://breckyunits.com/bloggingAsTherapy.html
-
 Delusions
 =========
 01/29/2024
@@ -160,11 +92,6 @@ The Magnificent Multi-Agent Mind of Marvin Minsky
 =================================================
 05/09/2023
 https://breckyunits.com/marvin-minsky.html
-
-Brain Pilots
-============
-02/18/2022
-https://breckyunits.com/brain-pilots.html
 
 Going Manic with a FitBit
 =========================

@@ -3,63 +3,58 @@ Breck's Blog - Data Posts
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/16/2024
+11/18/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/16/2024
+11/18/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/16/2024
+11/18/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/writing.html
-
-Breck's Blog - Bipolar Energy Posts
-===================================
-11/16/2024
-https://breckyunits.com/bipolar.html
 
 The Galton Board
 ================
@@ -116,11 +111,6 @@ The Fastest in the World
 04/22/2024
 https://breckyunits.com/fastest.html
 
-Ketones vs Lithium
-==================
-04/16/2024
-https://breckyunits.com/ketonesVsLithium.html
-
 Blog Posts, Sorted by Sleep
 ===========================
 04/05/2024
@@ -135,11 +125,6 @@ Synthesizing Knowledge
 ======================
 02/21/2024
 https://breckyunits.com/synthesizingKnowledge.html
-
-Keto for bipolar was not talked about until very recently
-=========================================================
-01/23/2024
-https://breckyunits.com/bipolarKeto.html
 
 If nature is doing it...
 ========================
@@ -210,11 +195,6 @@ https://breckyunits.com/english-cannot-encode-real-news.html
 ============
 07/18/2019
 https://breckyunits.com/30000hours.html
-
-Going Manic with a FitBit
-=========================
-01/13/2018
-https://breckyunits.com/going-manic-with-a-fitbit.html
 
 Ohayo
 =====

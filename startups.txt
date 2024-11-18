@@ -1,65 +1,60 @@
 Breck's Blog - Startups Posts
 =============================
 
+Breck's Blog - Data Posts
+=========================
+11/18/2024
+https://breckyunits.com/data.html
+
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/16/2024
+11/18/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/16/2024
+11/18/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/16/2024
+11/18/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/16/2024
+11/18/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/16/2024
+11/18/2024
 https://breckyunits.com/writing.html
-
-Breck's Blog - Bipolar Energy Posts
-===================================
-11/16/2024
-https://breckyunits.com/bipolar.html
-
-Breck's Blog - Data Posts
-=========================
-11/16/2024
-https://breckyunits.com/data.html
 
 On Focus
 ========
@@ -145,11 +140,6 @@ I thought we could build AI experts by hand
 ===========================================
 12/28/2023
 https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
-
-A Manic Startup
-===============
-06/27/2023
-https://breckyunits.com/a-manic-startup.html
 
 A scratch ticket with a positive expected value
 ===============================================
