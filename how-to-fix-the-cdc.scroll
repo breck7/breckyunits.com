@@ -7,7 +7,7 @@ printTitle
 
 container 50ch
 
-*The CDC, NIH, etc, need to move to Git*. For the rest of this post, I'll just say CDC, but I mean all public health research agencies. The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
+*The CDC, NIH, etc, need to move to Git*. (For the rest of this post, I'll just say CDC, but this applies to all public health research agencies). The CDC needs to move pretty much _everything to Git_. And they should do it *with urgency*. They should make it a priority to never again publish anything without a link to a Git repo. Not just papers, but also datasets and press releases. It doesn't matter under what account or on what service the repos are republished to; what matters is that _every CDC publication needs a link to a backing Git repo_.
  https://www.cdc.gov/ CDC
  dateline
 
