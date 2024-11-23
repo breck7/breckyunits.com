@@ -1,60 +1,60 @@
 Breck's Blog - All Posts
 ========================
 
-Breck's Blog - Data Posts
-=========================
-11/18/2024
-https://breckyunits.com/data.html
-
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - Life Posts
 =========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/18/2024
+11/23/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/writing.html
+
+Breck's Blog - Data Posts
+=========================
+11/23/2024
+https://breckyunits.com/data.html
 
 On Focus
 ========
@@ -476,6 +476,11 @@ Upstream of Everything
 02/28/2022
 https://breckyunits.com/upstream-of-everything.html
 
+Brain Pilots
+============
+02/18/2022
+https://breckyunits.com/brain-pilots.html
+
 Aftertext
 =========
 12/15/2021
@@ -521,8 +526,8 @@ Logeracy
 04/26/2021
 https://breckyunits.com/logeracy.html
 
-How to fix the CDC
-==================
+How to fix the CDC, NIH, etc
+============================
 03/30/2021
 https://breckyunits.com/how-to-fix-the-cdc.html
 
@@ -1166,4 +1171,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v154.2.0
+Built with Scroll v155.3.0

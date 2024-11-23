@@ -1,7 +1,7 @@
 Source
  https://breckyunits.com/
  
- Mon, 18 Nov 2024 01:28:30 +0000
+ Sat, 23 Nov 2024 18:17:57 +0000
  en-us
  
 On Focus
@@ -424,6 +424,11 @@ https://breckyunits.com/upstream-of-everything.html
 Invalid Date
 
  
+Brain Pilots
+https://breckyunits.com/brain-pilots.html
+Invalid Date
+
+ 
 Aftertext
 https://breckyunits.com/aftertext.html
 Invalid Date
@@ -469,7 +474,7 @@ https://breckyunits.com/logeracy.html
 Invalid Date
 
  
-How to fix the CDC
+How to fix the CDC, NIH, etc
 https://breckyunits.com/how-to-fix-the-cdc.html
 Invalid Date
 

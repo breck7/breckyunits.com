@@ -3,57 +3,57 @@ Breck's Blog - Data Posts
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/18/2024
+11/23/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Startups Posts
 =============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/startups.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/writing.html
 
 The Galton Board
@@ -251,4 +251,4 @@ Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
 05/08/2008
 https://breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html
 
-Built with Scroll v154.2.0
+Built with Scroll v155.3.0

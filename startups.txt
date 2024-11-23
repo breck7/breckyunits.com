@@ -1,60 +1,60 @@
 Breck's Blog - Startups Posts
 =============================
 
-Breck's Blog - Data Posts
-=========================
-11/18/2024
-https://breckyunits.com/data.html
-
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/freedom.html
 
 Breck's Blog - All Posts
 ========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/index.html
 
 Breck's Blog - Life Posts
 =========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/life.html
 
 Breck's Blog - Papers Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/papers.html
 
 Breck's Blog - Programming Posts
 ================================
-11/18/2024
+11/23/2024
 https://breckyunits.com/programming.html
 
 Search Breck's Blog
 ===================
-11/18/2024
+11/23/2024
 https://breckyunits.com/search.html
 
 Breck's Blog - Society Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/society.html
 
 Breck's Blog - Thinking Posts
 =============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/18/2024
+11/23/2024
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Writing Posts
 ============================
-11/18/2024
+11/23/2024
 https://breckyunits.com/writing.html
+
+Breck's Blog - Data Posts
+=========================
+11/23/2024
+https://breckyunits.com/data.html
 
 On Focus
 ========
@@ -321,4 +321,4 @@ Why a Team is Worth a lot more than an Idea
 09/13/2007
 https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html
 
-Built with Scroll v154.2.0
+Built with Scroll v155.3.0

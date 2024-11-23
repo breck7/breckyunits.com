@@ -45,7 +45,7 @@ h2Parser,176
 quoteLineParser,149
 endSnippetParser,137
 mediumColumnsParser,137
-quickRelativeLinkParser,114
+quickRelativeLinkParser,115
 captionAftertextParser,111
 thinColumnsParser,104
 scrollQuestionParser,81
