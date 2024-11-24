@@ -66,6 +66,11 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 
 Related Posts
 =============
+Particle Thinking
+=================
+11/24/2024
+https://breckyunits.com/particleThinking.html
+
 Why Scroll?
 ===========
 11/01/2024
@@ -258,4 +263,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v155.3.0
+Built with Scroll v155.4.0

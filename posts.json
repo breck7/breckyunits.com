@@ -1,5 +1,15 @@
 [
   {
+    "date": "11/24/2024",
+    "year": 2024,
+    "title": "Particle Thinking",
+    "permalink": "particleThinking.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll",
+    "wordCount": 470,
+    "minutes": 2.4
+  },
+  {
     "date": "11/12/2024",
     "year": 2024,
     "title": "On Focus",
@@ -546,8 +556,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1906,
-    "minutes": 9.5
+    "wordCount": 1916,
+    "minutes": 9.6
   },
   {
     "date": "03/30/2024",
@@ -1006,7 +1016,7 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 3933,
+    "wordCount": 3943,
     "minutes": 19.7
   },
   {
