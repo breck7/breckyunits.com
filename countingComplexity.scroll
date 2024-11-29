@@ -39,11 +39,11 @@ In this paper I add to the pile, and propose using Particle Syntax as a tool for
 The method introduced here, named Particle Complexity (PC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
-2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
- aGrammarNotationForTreeLanguages.html grammar
-3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
+2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, parseable by a set of Parsers, `P0`.
+ aGrammarNotationForTreeLanguages.html Parsers
+3. We can then describe that set `P0` in a recursive series (`P1`, `P2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
-5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
+5. We can use simple arithmetic to count the atomic components of our program and parsers and get complexity measurements for a system.
 
 ***
 
@@ -163,7 +163,7 @@ Basic primitives like the bit, the concept of a word, or an AND gate have a Part
 
 Macro objects, like the Linux Kernel, could also be described using just Particles.
 
-Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
+Both the description and the parsers the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
 
 ***
 
