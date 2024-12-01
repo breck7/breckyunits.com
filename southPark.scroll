@@ -24,7 +24,7 @@ I was sad by South Park's rejection yesterday but I'm excited to use this as a t
 
 css .feedback {color: green;}
 feedbackParser
- extends paragraphParser
+ extends scrollParagraphParser
  cue $
  string className feedback
 
