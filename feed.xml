@@ -4,8 +4,18 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Sun, 24 Nov 2024 12:30:37 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 03 Dec 2024 21:53:13 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Mitocycles</title>
+<link>https://breckyunits.com/mitocycle.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Breckchain</title>
+<link>https://breckyunits.com/breckchain.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>Particle Thinking</title>
 <link>https://breckyunits.com/particleThinking.html</link>
@@ -42,13 +52,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>What do you need to make our universe?</title>
-<link>https://breckyunits.com/essentials.html</link>
+<title>Strong Startup Advice</title>
+<link>https://breckyunits.com/startupAdvice.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Strong Startup Advice</title>
-<link>https://breckyunits.com/startupAdvice.html</link>
+<title>What do you need to make our universe?</title>
+<link>https://breckyunits.com/essentials.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -182,8 +192,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Breck's Lab</title>
-<link>https://breckyunits.com/lab.html</link>
+<title>Patch: a micro language to make pretty deep links easy</title>
+<link>https://breckyunits.com/patch.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -192,8 +202,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Patch: a micro language to make pretty deep links easy</title>
-<link>https://breckyunits.com/patch.html</link>
+<title>Breck's Lab</title>
+<link>https://breckyunits.com/lab.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -322,13 +332,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Could in vitro brains power AI?</title>
-<link>https://breckyunits.com/couldInVitroBrainsPowerAI.html</link>
+<title>Writing in 2024</title>
+<link>https://breckyunits.com/nyd2024.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Writing in 2024</title>
-<link>https://breckyunits.com/nyd2024.html</link>
+<title>Could in vitro brains power AI?</title>
+<link>https://breckyunits.com/couldInVitroBrainsPowerAI.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -517,13 +527,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Medical Records to the Moon</title>
-<link>https://breckyunits.com/medical-records-to-the-moon.html</link>
+<title>Musing on the Future of Healthcare</title>
+<link>https://breckyunits.com/musing-on-the-future-of-healthcare.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Musing on the Future of Healthcare</title>
-<link>https://breckyunits.com/musing-on-the-future-of-healthcare.html</link>
+<title>Medical Records to the Moon</title>
+<link>https://breckyunits.com/medical-records-to-the-moon.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -582,7 +592,7 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>PAC: Particle Atom Complexity</title>
+<title>PC: Particle Complexity</title>
 <link>https://breckyunits.com/countingComplexity.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
@@ -597,13 +607,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>A New Discovery in Computer Science: 2-Dimensional Programming Languages</title>
-<link>https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html</link>
+<title>Tree Notation: an antifragile program notation</title>
+<link>https://breckyunits.com/treenotationPaper.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Tree Notation: an antifragile program notation</title>
-<link>https://breckyunits.com/treenotationPaper.html</link>
+<title>A New Discovery in Computer Science: 2-Dimensional Programming Languages</title>
+<link>https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -632,13 +642,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Money is Meant to Circulate</title>
-<link>https://breckyunits.com/money-is-meant-to-circulate.html</link>
+<title>Why 10,000 hours?</title>
+<link>https://breckyunits.com/why-10000-hours.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Why 10,000 hours?</title>
-<link>https://breckyunits.com/why-10000-hours.html</link>
+<title>Money is Meant to Circulate</title>
+<link>https://breckyunits.com/money-is-meant-to-circulate.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -682,18 +692,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Black Swans and Technology</title>
-<link>https://breckyunits.com/black-swans-and-technology.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
 <title>Deliver</title>
 <link>https://breckyunits.com/deliver.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Can't Lose. Could Win Big.</title>
-<link>https://breckyunits.com/cant-lose-could-win-big.html</link>
+<title>Black Swans and Technology</title>
+<link>https://breckyunits.com/black-swans-and-technology.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -702,13 +707,18 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Narratives Misrepresent Complex Systems</title>
-<link>https://breckyunits.com/narratives-misrepresent-complex-systems.html</link>
+<title>Can't Lose. Could Win Big.</title>
+<link>https://breckyunits.com/cant-lose-could-win-big.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
 <title>Simple is...</title>
 <link>https://breckyunits.com/simple-is.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Narratives Misrepresent Complex Systems</title>
+<link>https://breckyunits.com/narratives-misrepresent-complex-systems.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -757,33 +767,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Circle of Competence</title>
-<link>https://breckyunits.com/circle-of-competence.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>Critical Thinking</title>
-<link>https://breckyunits.com/critical-thinking.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>How is Intelligence Distributed?</title>
-<link>https://breckyunits.com/how-is-intelligence-distributed.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>Kids are Neat</title>
-<link>https://breckyunits.com/kids-are-neat.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>Nature Verse Nurture</title>
-<link>https://breckyunits.com/nature-verse-nurture.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>Recommendations Are Far From Good</title>
-<link>https://breckyunits.com/recommendations-are-far-from-good.html</link>
+<title>You Can't Predict the Future</title>
+<link>https://breckyunits.com/you-cant-predict-the-future.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -792,13 +777,33 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>You Can't Predict the Future</title>
-<link>https://breckyunits.com/you-cant-predict-the-future.html</link>
+<title>Recommendations Are Far From Good</title>
+<link>https://breckyunits.com/recommendations-are-far-from-good.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>The Recency Effect</title>
-<link>https://breckyunits.com/the-recency-effect.html</link>
+<title>Nature Verse Nurture</title>
+<link>https://breckyunits.com/nature-verse-nurture.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Kids are Neat</title>
+<link>https://breckyunits.com/kids-are-neat.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How is Intelligence Distributed?</title>
+<link>https://breckyunits.com/how-is-intelligence-distributed.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Critical Thinking</title>
+<link>https://breckyunits.com/critical-thinking.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Circle of Competence</title>
+<link>https://breckyunits.com/circle-of-competence.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -807,13 +812,18 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
+<title>The Recency Effect</title>
+<link>https://breckyunits.com/the-recency-effect.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
 <title>The Ovarian Lottery and Other Side Projects</title>
 <link>https://breckyunits.com/the-ovarian-lottery-and-other-side-projects.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Happiness is in Mediocristan</title>
-<link>https://breckyunits.com/happiness-is-in-mediocristan.html</link>
+<title>What I Want</title>
+<link>https://breckyunits.com/what-i-want.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -822,8 +832,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>What I Want</title>
-<link>https://breckyunits.com/what-i-want.html</link>
+<title>Happiness is in Mediocristan</title>
+<link>https://breckyunits.com/happiness-is-in-mediocristan.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -1072,13 +1082,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Bigger Telescopes are needed to Solve Global Warming</title>
-<link>https://breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.html</link>
+<title>How to Cure the Hiccups</title>
+<link>https://breckyunits.com/how-to-cure-the-hiccups.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>How to Cure the Hiccups</title>
-<link>https://breckyunits.com/how-to-cure-the-hiccups.html</link>
+<title>Bigger Telescopes are needed to Solve Global Warming</title>
+<link>https://breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>

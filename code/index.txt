@@ -55,15 +55,15 @@ nohup and disown
 08/22/2011
 https://breckyunits.com/code/nohup-and-disown.html
 
-Apache, SSL and self signed certificates
-========================================
-08/14/2011
-https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html
-
 New shortcuts
 =============
 08/14/2011
 https://breckyunits.com/code/new-shortcuts.html
+
+Apache, SSL and self signed certificates
+========================================
+08/14/2011
+https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html
 
 EC2 Command Line Tools
 ======================
@@ -110,15 +110,15 @@ Creating a bootable Linux USB disk on Mac
 07/08/2011
 https://breckyunits.com/code/creating-a-bootable-linux-usb-disk-on-mac.html
 
-Mac Terminal Cursor Trick
-=========================
-07/03/2011
-https://breckyunits.com/code/mac-terminal-cursor-trick.html
-
 Notepad++ HAML Syntax Highlighting and other custom extension mapping
 =====================================================================
 07/03/2011
 https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html
+
+Mac Terminal Cursor Trick
+=========================
+07/03/2011
+https://breckyunits.com/code/mac-terminal-cursor-trick.html
 
 Apache Conf and Htaccess Examples
 =================================
@@ -185,15 +185,15 @@ Remove all DS_Store files recursively
 09/29/2010
 https://breckyunits.com/code/remove-all-ds_store-files-recursively.html
 
-Rubyful Soup
-============
-08/14/2010
-https://breckyunits.com/code/rubyful-soup.html
-
 Windows 7 Hosts File
 ====================
 08/14/2010
 https://breckyunits.com/code/windows-7-hosts-file.html
+
+Rubyful Soup
+============
+08/14/2010
+https://breckyunits.com/code/rubyful-soup.html
 
 VIM and Rails
 =============
@@ -235,25 +235,25 @@ wget don't save file
 03/27/2010
 https://breckyunits.com/code/wget-dont-save-file.html
 
-Dump MySQL schema only
-======================
+Recursive ls
+============
 03/10/2010
-https://breckyunits.com/code/dump-mysql-schema-only.html
-
-gca alias for faster git
-========================
-03/10/2010
-https://breckyunits.com/code/gca-alias-for-faster-git.html
+https://breckyunits.com/code/recursive-ls.html
 
 ls color scheme
 ===============
 03/10/2010
 https://breckyunits.com/code/ls-color-scheme.html
 
-Recursive ls
-============
+gca alias for faster git
+========================
 03/10/2010
-https://breckyunits.com/code/recursive-ls.html
+https://breckyunits.com/code/gca-alias-for-faster-git.html
+
+Dump MySQL schema only
+======================
+03/10/2010
+https://breckyunits.com/code/dump-mysql-schema-only.html
 
 vim macros
 ==========
@@ -270,15 +270,15 @@ Case sensitivity in MySQL table names and lower_case_table_names
 02/27/2010
 https://breckyunits.com/code/case-sensitivity-in-mysql-table-names-and-lower_case_table_names.html
 
-ANSI or ASCII and Unicode or UTF-8 and Newlines
-===============================================
-02/25/2010
-https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html
-
 The BASH Programming Language
 =============================
 02/25/2010
 https://breckyunits.com/code/the-bash-programming-language.html
+
+ANSI or ASCII and Unicode or UTF-8 and Newlines
+===============================================
+02/25/2010
+https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html
 
 Cygwin Error: Could not resolve hostname X: Non-recoverable failure in name resolution
 ======================================================================================
@@ -340,20 +340,20 @@ New tricks in Vim
 12/29/2009
 https://breckyunits.com/code/new-tricks-in-vim.html
 
-Pipes, standard output and standard input
-=========================================
+Use cat to combine or print the contents of a file
+==================================================
 12/26/2009
-https://breckyunits.com/code/pipes-standard-output-and-standard-input.html
+https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html
 
 Run multiple commands at once
 =============================
 12/26/2009
 https://breckyunits.com/code/run-multiple-commands-at-once.html
 
-Use cat to combine or print the contents of a file
-==================================================
+Pipes, standard output and standard input
+=========================================
 12/26/2009
-https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html
+https://breckyunits.com/code/pipes-standard-output-and-standard-input.html
 
 The only 5 git commands you need to know
 ========================================
@@ -365,15 +365,15 @@ Use scp to download a file from a server
 12/21/2009
 https://breckyunits.com/code/use-scp-to-download-a-file-from-a-server.html
 
-Clear screen in cygwin
-======================
-12/20/2009
-https://breckyunits.com/code/clear-screen-in-cygwin.html
-
 Use sed to find and replace
 ===========================
 12/20/2009
 https://breckyunits.com/code/use-sed-to-find-and-replace.html
+
+Clear screen in cygwin
+======================
+12/20/2009
+https://breckyunits.com/code/clear-screen-in-cygwin.html
 
 Bash variables
 ==============
@@ -385,70 +385,70 @@ How to fix an overwhelmed Gmail Accout
 12/17/2009
 https://breckyunits.com/code/how-to-fix-an-overwhelmed-gmail-accout.html
 
-List only directories using ls
-==============================
-12/13/2009
-https://breckyunits.com/code/list-only-directories-using-ls.html
-
 Seven aliases that can save you time
 ====================================
 12/13/2009
 https://breckyunits.com/code/seven-aliases-that-can-save-you-time.html
 
-git clone without history
-=========================
-12/11/2009
-https://breckyunits.com/code/git-clone-without-history.html
+List only directories using ls
+==============================
+12/13/2009
+https://breckyunits.com/code/list-only-directories-using-ls.html
 
 Turn off bell in cygwin
 =======================
 12/11/2009
 https://breckyunits.com/code/turn-off-bell-in-cygwin.html
 
-Create a new user in Linux
-==========================
-12/05/2009
-https://breckyunits.com/code/create-a-new-user-in-linux.html
+git clone without history
+=========================
+12/11/2009
+https://breckyunits.com/code/git-clone-without-history.html
 
 Learn Symbolic Links in 30 seconds
 ==================================
 12/05/2009
 https://breckyunits.com/code/learn-symbolic-links-in-30-seconds.html
 
+Create a new user in Linux
+==========================
+12/05/2009
+https://breckyunits.com/code/create-a-new-user-in-linux.html
+
 Use aliases to save time
 ========================
 11/28/2009
 https://breckyunits.com/code/use-aliases-to-save-time.html
-
-How I organize my Dropbox
-=========================
-11/27/2009
-https://breckyunits.com/code/how-i-organize-my-dropbox.html
 
 Use git to get the latest source code only
 ==========================================
 11/27/2009
 https://breckyunits.com/code/use-git-to-get-the-latest-source-code-only.html
 
+How I organize my Dropbox
+=========================
+11/27/2009
+https://breckyunits.com/code/how-i-organize-my-dropbox.html
+
 What non-web software do you use the most?
 ==========================================
 11/26/2009
 https://breckyunits.com/code/what-non-web-software-do-you-use-the-most.html
 
-cron in 2 steps
-===============
+Use the linux find command to find files
+========================================
 11/25/2009
-https://breckyunits.com/code/cron-in-2-steps.html
+https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html
 
 Fix permission problems using chmod
 ===================================
 11/25/2009
 https://breckyunits.com/code/fix-permission-problems-using-chmod.html
 
-Use the linux find command to find files
-========================================
+cron in 2 steps
+===============
 11/25/2009
-https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html
+https://breckyunits.com/code/cron-in-2-steps.html
 
 Use grep to search multiple files at once
 =========================================
@@ -460,19 +460,19 @@ Use rsync to deploy your website
 11/21/2009
 https://breckyunits.com/code/use-rsync-to-deploy-your-website.html
 
-Get VIM Working in Cygwin
-=========================
-11/20/2009
-https://breckyunits.com/code/get-vim-working-in-cygwin.html
-
 SSH into your server without a password
 =======================================
 11/20/2009
 https://breckyunits.com/code/ssh-into-your-server-without-a-password.html
+
+Get VIM Working in Cygwin
+=========================
+11/20/2009
+https://breckyunits.com/code/get-vim-working-in-cygwin.html
 
 About this Blog
 ===============
 11/18/2009
 https://breckyunits.com/code/about-this-blog.html
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

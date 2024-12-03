@@ -1,60 +1,60 @@
 Breck's Blog - Thinking Posts
 =============================
 
-Breck's Blog - Data Posts
-=========================
-11/24/2024
-https://breckyunits.com/data.html
-
-Breck's Blog - Intellectual Freedom Posts
-=========================================
-11/24/2024
-https://breckyunits.com/freedom.html
-
-Breck's Blog - All Posts
-========================
-11/24/2024
-https://breckyunits.com/index.html
-
-Breck's Blog - Life Posts
-=========================
-11/24/2024
-https://breckyunits.com/life.html
-
-Breck's Blog - Papers Posts
-===========================
-11/24/2024
-https://breckyunits.com/papers.html
-
-Breck's Blog - Programming Posts
-================================
-11/24/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/24/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Society Posts
+Breck's Blog - Writing Posts
 ============================
-11/24/2024
-https://breckyunits.com/society.html
-
-Breck's Blog - Startups Posts
-=============================
-11/24/2024
-https://breckyunits.com/startups.html
+12/03/2024
+https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/24/2024
+12/03/2024
 https://breckyunits.com/treeNotation.html
 
-Breck's Blog - Writing Posts
+Breck's Blog - Startups Posts
+=============================
+12/03/2024
+https://breckyunits.com/startups.html
+
+Breck's Blog - Society Posts
 ============================
-11/24/2024
-https://breckyunits.com/writing.html
+12/03/2024
+https://breckyunits.com/society.html
+
+Search Breck's Blog
+===================
+12/03/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Programming Posts
+================================
+12/03/2024
+https://breckyunits.com/programming.html
+
+Breck's Blog - Papers Posts
+===========================
+12/03/2024
+https://breckyunits.com/papers.html
+
+Breck's Blog - Life Posts
+=========================
+12/03/2024
+https://breckyunits.com/life.html
+
+Breck's Blog - All Posts
+========================
+12/03/2024
+https://breckyunits.com/index.html
+
+Breck's Blog - Intellectual Freedom Posts
+=========================================
+12/03/2024
+https://breckyunits.com/freedom.html
+
+Breck's Blog - Data Posts
+=========================
+12/03/2024
+https://breckyunits.com/data.html
 
 The Choice
 ==========
@@ -121,15 +121,15 @@ Logeracy
 04/26/2021
 https://breckyunits.com/logeracy.html
 
-Medical Records to the Moon
-===========================
-03/02/2020
-https://breckyunits.com/medical-records-to-the-moon.html
-
 Musing on the Future of Healthcare
 ==================================
 03/02/2020
 https://breckyunits.com/musing-on-the-future-of-healthcare.html
+
+Medical Records to the Moon
+===========================
+03/02/2020
+https://breckyunits.com/medical-records-to-the-moon.html
 
 How Old Are These Keys? Five Eras of Human Progress
 ===================================================
@@ -181,15 +181,15 @@ Probability Makes Planes Fly
 12/18/2012
 https://breckyunits.com/probability-makes-planes-fly.html
 
-Narratives Misrepresent Complex Systems
-=======================================
-12/16/2012
-https://breckyunits.com/narratives-misrepresent-complex-systems.html
-
 Simple is...
 ============
 12/16/2012
 https://breckyunits.com/simple-is.html
+
+Narratives Misrepresent Complex Systems
+=======================================
+12/16/2012
+https://breckyunits.com/narratives-misrepresent-complex-systems.html
 
 Planets and Pebbles
 ===================
@@ -206,45 +206,45 @@ Look for a Line
 03/05/2011
 https://breckyunits.com/look-for-a-line.html
 
-How is Intelligence Distributed?
-================================
+You Can't Predict the Future
+============================
 08/25/2010
-https://breckyunits.com/how-is-intelligence-distributed.html
+https://breckyunits.com/you-cant-predict-the-future.html
 
 Recommendations Are Far From Good
 =================================
 08/25/2010
 https://breckyunits.com/recommendations-are-far-from-good.html
 
-You Can't Predict the Future
-============================
+How is Intelligence Distributed?
+================================
 08/25/2010
-https://breckyunits.com/you-cant-predict-the-future.html
-
-The Recency Effect
-==================
-08/23/2010
-https://breckyunits.com/the-recency-effect.html
+https://breckyunits.com/how-is-intelligence-distributed.html
 
 What Percentage of the Brain Does What?
 =======================================
 08/23/2010
 https://breckyunits.com/what-percentage-of-the-brain-does-what.html
 
+The Recency Effect
+==================
+08/23/2010
+https://breckyunits.com/the-recency-effect.html
+
 The Ovarian Lottery and Other Side Projects
 ===========================================
 08/11/2010
 https://breckyunits.com/the-ovarian-lottery-and-other-side-projects.html
 
-Happiness is in Mediocristan
-============================
-08/06/2010
-https://breckyunits.com/happiness-is-in-mediocristan.html
-
 Orbits
 ======
 08/06/2010
 https://breckyunits.com/orbits.html
+
+Happiness is in Mediocristan
+============================
+08/06/2010
+https://breckyunits.com/happiness-is-in-mediocristan.html
 
 The Churn Rate of Data
 ======================
@@ -286,4 +286,4 @@ Trying Shelfari, GoodReads, and LibraryThing
 07/27/2008
 https://breckyunits.com/trying-shelfari-goodreads-and-librarything.html
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

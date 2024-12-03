@@ -1,60 +1,60 @@
 Breck's Blog - Life Posts
 =========================
 
-Breck's Blog - Data Posts
-=========================
-11/24/2024
-https://breckyunits.com/data.html
-
-Breck's Blog - Intellectual Freedom Posts
-=========================================
-11/24/2024
-https://breckyunits.com/freedom.html
-
-Breck's Blog - All Posts
-========================
-11/24/2024
-https://breckyunits.com/index.html
-
-Breck's Blog - Papers Posts
-===========================
-11/24/2024
-https://breckyunits.com/papers.html
-
-Breck's Blog - Programming Posts
-================================
-11/24/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/24/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Society Posts
+Breck's Blog - Writing Posts
 ============================
-11/24/2024
-https://breckyunits.com/society.html
-
-Breck's Blog - Startups Posts
-=============================
-11/24/2024
-https://breckyunits.com/startups.html
-
-Breck's Blog - Thinking Posts
-=============================
-11/24/2024
-https://breckyunits.com/thinking.html
+12/03/2024
+https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/24/2024
+12/03/2024
 https://breckyunits.com/treeNotation.html
 
-Breck's Blog - Writing Posts
+Breck's Blog - Thinking Posts
+=============================
+12/03/2024
+https://breckyunits.com/thinking.html
+
+Breck's Blog - Startups Posts
+=============================
+12/03/2024
+https://breckyunits.com/startups.html
+
+Breck's Blog - Society Posts
 ============================
-11/24/2024
-https://breckyunits.com/writing.html
+12/03/2024
+https://breckyunits.com/society.html
+
+Search Breck's Blog
+===================
+12/03/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Programming Posts
+================================
+12/03/2024
+https://breckyunits.com/programming.html
+
+Breck's Blog - Papers Posts
+===========================
+12/03/2024
+https://breckyunits.com/papers.html
+
+Breck's Blog - All Posts
+========================
+12/03/2024
+https://breckyunits.com/index.html
+
+Breck's Blog - Intellectual Freedom Posts
+=========================================
+12/03/2024
+https://breckyunits.com/freedom.html
+
+Breck's Blog - Data Posts
+=========================
+12/03/2024
+https://breckyunits.com/data.html
 
 On Focus
 ========
@@ -191,15 +191,15 @@ Time
 04/01/2013
 https://breckyunits.com/time.html
 
-Money is Meant to Circulate
-===========================
-03/30/2013
-https://breckyunits.com/money-is-meant-to-circulate.html
-
 Why 10,000 hours?
 =================
 03/30/2013
 https://breckyunits.com/why-10000-hours.html
+
+Money is Meant to Circulate
+===========================
+03/30/2013
+https://breckyunits.com/money-is-meant-to-circulate.html
 
 Save Your Money for Great Values
 ================================
@@ -226,25 +226,25 @@ Deliver
 12/19/2012
 https://breckyunits.com/deliver.html
 
-Can't Lose. Could Win Big.
-==========================
-12/18/2012
-https://breckyunits.com/cant-lose-could-win-big.html
-
 Probability Makes Planes Fly
 ============================
 12/18/2012
 https://breckyunits.com/probability-makes-planes-fly.html
 
-Narratives Misrepresent Complex Systems
-=======================================
-12/16/2012
-https://breckyunits.com/narratives-misrepresent-complex-systems.html
+Can't Lose. Could Win Big.
+==========================
+12/18/2012
+https://breckyunits.com/cant-lose-could-win-big.html
 
 Simple is...
 ============
 12/16/2012
 https://breckyunits.com/simple-is.html
+
+Narratives Misrepresent Complex Systems
+=======================================
+12/16/2012
+https://breckyunits.com/narratives-misrepresent-complex-systems.html
 
 What can a Programmer learn from Rock Climbing?
 ===============================================
@@ -256,45 +256,45 @@ Backpack the World with Zero Planning
 03/04/2011
 https://breckyunits.com/backpack-the-world-with-zero-planning.html
 
-Circle of Competence
-====================
+You Can't Predict the Future
+============================
 08/25/2010
-https://breckyunits.com/circle-of-competence.html
-
-Critical Thinking
-=================
-08/25/2010
-https://breckyunits.com/critical-thinking.html
-
-Kids are Neat
-=============
-08/25/2010
-https://breckyunits.com/kids-are-neat.html
+https://breckyunits.com/you-cant-predict-the-future.html
 
 Nature Verse Nurture
 ====================
 08/25/2010
 https://breckyunits.com/nature-verse-nurture.html
 
-You Can't Predict the Future
-============================
+Kids are Neat
+=============
 08/25/2010
-https://breckyunits.com/you-cant-predict-the-future.html
+https://breckyunits.com/kids-are-neat.html
 
-Happiness is in Mediocristan
-============================
+Critical Thinking
+=================
+08/25/2010
+https://breckyunits.com/critical-thinking.html
+
+Circle of Competence
+====================
+08/25/2010
+https://breckyunits.com/circle-of-competence.html
+
+What I Want
+===========
 08/06/2010
-https://breckyunits.com/happiness-is-in-mediocristan.html
+https://breckyunits.com/what-i-want.html
 
 Orbits
 ======
 08/06/2010
 https://breckyunits.com/orbits.html
 
-What I Want
-===========
+Happiness is in Mediocristan
+============================
 08/06/2010
-https://breckyunits.com/what-i-want.html
+https://breckyunits.com/happiness-is-in-mediocristan.html
 
 Simple, but not easy
 ====================
@@ -401,4 +401,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

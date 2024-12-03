@@ -66,6 +66,11 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 
 Related Posts
 =============
+Breckchain
+==========
+12/02/2024
+https://breckyunits.com/breckchain.html
+
 Particle Thinking
 =================
 11/24/2024
@@ -216,8 +221,8 @@ Removing the 2’s from Trinary Notation is a Terrible Idea.
 07/14/2019
 https://breckyunits.com/trinary.html
 
-PAC: Particle Atom Complexity
-=============================
+PC: Particle Complexity
+=======================
 12/20/2017
 https://breckyunits.com/countingComplexity.html
 
@@ -231,15 +236,15 @@ Ohayo
 06/23/2017
 https://breckyunits.com/ohayo.html
 
-A New Discovery in Computer Science: 2-Dimensional Programming Languages
-========================================================================
-06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
-
 Tree Notation: an antifragile program notation
 ==============================================
 06/21/2017
 https://breckyunits.com/treenotationPaper.html
+
+A New Discovery in Computer Science: 2-Dimensional Programming Languages
+========================================================================
+06/21/2017
+https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 NudgePad: An IDE in Your Browser
 ================================
@@ -263,4 +268,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

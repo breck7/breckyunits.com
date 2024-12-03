@@ -1,12 +1,32 @@
 [
   {
+    "date": "12/03/2024",
+    "year": 2024,
+    "title": "Mitocycles",
+    "permalink": "mitocycle.html",
+    "authors": "Breck Yunits",
+    "tags": "All",
+    "wordCount": 212,
+    "minutes": 1.1
+  },
+  {
+    "date": "12/02/2024",
+    "year": 2024,
+    "title": "Breckchain",
+    "permalink": "breckchain.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll",
+    "wordCount": 52,
+    "minutes": 0.3
+  },
+  {
     "date": "11/24/2024",
     "year": 2024,
     "title": "Particle Thinking",
     "permalink": "particleThinking.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll",
-    "wordCount": 470,
+    "wordCount": 486,
     "minutes": 2.4
   },
   {
@@ -26,7 +46,7 @@
     "permalink": "comics.html",
     "authors": "Breck Yunits",
     "tags": "All Comics",
-    "wordCount": 78,
+    "wordCount": 84,
     "minutes": 0.4
   },
   {
@@ -72,22 +92,22 @@
   {
     "date": "10/20/2024",
     "year": 2024,
-    "title": "What do you need to make our universe?",
-    "permalink": "essentials.html",
-    "authors": "Breck Yunits",
-    "tags": "All Life",
-    "wordCount": 27,
-    "minutes": 0.1
-  },
-  {
-    "date": "10/20/2024",
-    "year": 2024,
     "title": "Strong Startup Advice",
     "permalink": "startupAdvice.html",
     "authors": "Breck Yunits",
     "tags": "All Startups",
     "wordCount": 301,
     "minutes": 1.5
+  },
+  {
+    "date": "10/20/2024",
+    "year": 2024,
+    "title": "What do you need to make our universe?",
+    "permalink": "essentials.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life",
+    "wordCount": 27,
+    "minutes": 0.1
   },
   {
     "date": "10/19/2024",
@@ -336,7 +356,7 @@
     "permalink": "intelligence.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll ScrollPapers",
-    "wordCount": 260,
+    "wordCount": 259,
     "minutes": 1.3
   },
   {
@@ -346,17 +366,17 @@
     "permalink": "ptcri.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll ScrollPapers",
-    "wordCount": 662,
+    "wordCount": 661,
     "minutes": 3.3
   },
   {
     "date": "05/27/2024",
     "year": 2024,
-    "title": "Breck's Lab",
-    "permalink": "lab.html",
+    "title": "Patch: a micro language to make pretty deep links easy",
+    "permalink": "patch.html",
     "authors": "Breck Yunits",
-    "tags": "All Science Startups Programming Writing",
-    "wordCount": 464,
+    "tags": "All Programming Scroll",
+    "wordCount": 469,
     "minutes": 2.3
   },
   {
@@ -372,11 +392,11 @@
   {
     "date": "05/27/2024",
     "year": 2024,
-    "title": "Patch: a micro language to make pretty deep links easy",
-    "permalink": "patch.html",
+    "title": "Breck's Lab",
+    "permalink": "lab.html",
     "authors": "Breck Yunits",
-    "tags": "All Programming Scroll",
-    "wordCount": 469,
+    "tags": "All Science Startups Programming Writing",
+    "wordCount": 464,
     "minutes": 2.3
   },
   {
@@ -556,7 +576,7 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1916,
+    "wordCount": 1924,
     "minutes": 9.6
   },
   {
@@ -632,22 +652,22 @@
   {
     "date": "01/01/2024",
     "year": 2024,
-    "title": "Could in vitro brains power AI?",
-    "permalink": "couldInVitroBrainsPowerAI.html",
-    "authors": "Breck Yunits",
-    "tags": "All Programming Society",
-    "wordCount": 1132,
-    "minutes": 5.7
-  },
-  {
-    "date": "01/01/2024",
-    "year": 2024,
     "title": "Writing in 2024",
     "permalink": "nyd2024.html",
     "authors": "Breck Yunits",
     "tags": "All Writing Blogging",
     "wordCount": 275,
     "minutes": 1.4
+  },
+  {
+    "date": "01/01/2024",
+    "year": 2024,
+    "title": "Could in vitro brains power AI?",
+    "permalink": "couldInVitroBrainsPowerAI.html",
+    "authors": "Breck Yunits",
+    "tags": "All Programming Society",
+    "wordCount": 1132,
+    "minutes": 5.7
   },
   {
     "date": "12/28/2023",
@@ -1016,18 +1036,8 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 3943,
-    "minutes": 19.7
-  },
-  {
-    "date": "03/02/2020",
-    "year": 2020,
-    "title": "Medical Records to the Moon",
-    "permalink": "medical-records-to-the-moon.html",
-    "authors": "Breck Yunits",
-    "tags": "All Thinking Society HasDataset Data MedicalRecords",
-    "wordCount": 1200,
-    "minutes": 6
+    "wordCount": 3951,
+    "minutes": 19.8
   },
   {
     "date": "03/02/2020",
@@ -1038,6 +1048,16 @@
     "tags": "All Thinking Society MedicalRecords",
     "wordCount": 416,
     "minutes": 2.1
+  },
+  {
+    "date": "03/02/2020",
+    "year": 2020,
+    "title": "Medical Records to the Moon",
+    "permalink": "medical-records-to-the-moon.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Society HasDataset Data MedicalRecords",
+    "wordCount": 1200,
+    "minutes": 6
   },
   {
     "date": "02/25/2020",
@@ -1152,12 +1172,12 @@
   {
     "date": "12/20/2017",
     "year": 2017,
-    "title": "PAC: Particle Atom Complexity",
+    "title": "PC: Particle Complexity",
     "permalink": "countingComplexity.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
-    "wordCount": 1521,
-    "minutes": 7.6
+    "wordCount": 1509,
+    "minutes": 7.5
   },
   {
     "date": "09/10/2017",
@@ -1166,7 +1186,7 @@
     "permalink": "aGrammarNotationForTreeLanguages.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
-    "wordCount": 401,
+    "wordCount": 400,
     "minutes": 2
   },
   {
@@ -1182,22 +1202,22 @@
   {
     "date": "06/21/2017",
     "year": 2017,
-    "title": "A New Discovery in Computer Science: 2-Dimensional Programming Languages",
-    "permalink": "show-hn-programming-is-now-two-dimensional.html",
-    "authors": "Breck Yunits",
-    "tags": "All Scroll Programming ScrollPapers",
-    "wordCount": 787,
-    "minutes": 3.9
-  },
-  {
-    "date": "06/21/2017",
-    "year": 2017,
     "title": "Tree Notation: an antifragile program notation",
     "permalink": "treenotationPaper.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers",
     "wordCount": 1285,
     "minutes": 6.4
+  },
+  {
+    "date": "06/21/2017",
+    "year": 2017,
+    "title": "A New Discovery in Computer Science: 2-Dimensional Programming Languages",
+    "permalink": "show-hn-programming-is-now-two-dimensional.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll Programming ScrollPapers",
+    "wordCount": 786,
+    "minutes": 3.9
   },
   {
     "date": "09/24/2013",
@@ -1252,22 +1272,22 @@
   {
     "date": "03/30/2013",
     "year": 2013,
-    "title": "Money is Meant to Circulate",
-    "permalink": "money-is-meant-to-circulate.html",
-    "authors": "Breck Yunits",
-    "tags": "All Life Society",
-    "wordCount": 164,
-    "minutes": 0.8
-  },
-  {
-    "date": "03/30/2013",
-    "year": 2013,
     "title": "Why 10,000 hours?",
     "permalink": "why-10000-hours.html",
     "authors": "Breck Yunits",
     "tags": "All Life Thinking Data MasterProgramming",
     "wordCount": 449,
     "minutes": 2.2
+  },
+  {
+    "date": "03/30/2013",
+    "year": 2013,
+    "title": "Money is Meant to Circulate",
+    "permalink": "money-is-meant-to-circulate.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life Society",
+    "wordCount": 164,
+    "minutes": 0.8
   },
   {
     "date": "03/16/2013",
@@ -1352,16 +1372,6 @@
   {
     "date": "12/19/2012",
     "year": 2012,
-    "title": "Black Swans and Technology",
-    "permalink": "black-swans-and-technology.html",
-    "authors": "Breck Yunits",
-    "tags": "All Thinking Startups",
-    "wordCount": 463,
-    "minutes": 2.3
-  },
-  {
-    "date": "12/19/2012",
-    "year": 2012,
     "title": "Deliver",
     "permalink": "deliver.html",
     "authors": "Breck Yunits",
@@ -1370,13 +1380,13 @@
     "minutes": 2.1
   },
   {
-    "date": "12/18/2012",
+    "date": "12/19/2012",
     "year": 2012,
-    "title": "Can't Lose. Could Win Big.",
-    "permalink": "cant-lose-could-win-big.html",
+    "title": "Black Swans and Technology",
+    "permalink": "black-swans-and-technology.html",
     "authors": "Breck Yunits",
-    "tags": "All Life Startups",
-    "wordCount": 468,
+    "tags": "All Thinking Startups",
+    "wordCount": 463,
     "minutes": 2.3
   },
   {
@@ -1390,14 +1400,14 @@
     "minutes": 1.9
   },
   {
-    "date": "12/16/2012",
+    "date": "12/18/2012",
     "year": 2012,
-    "title": "Narratives Misrepresent Complex Systems",
-    "permalink": "narratives-misrepresent-complex-systems.html",
+    "title": "Can't Lose. Could Win Big.",
+    "permalink": "cant-lose-could-win-big.html",
     "authors": "Breck Yunits",
-    "tags": "All Thinking Writing Life Narratives",
-    "wordCount": 844,
-    "minutes": 4.2
+    "tags": "All Life Startups",
+    "wordCount": 468,
+    "minutes": 2.3
   },
   {
     "date": "12/16/2012",
@@ -1408,6 +1418,16 @@
     "tags": "All Life Thinking",
     "wordCount": 176,
     "minutes": 0.9
+  },
+  {
+    "date": "12/16/2012",
+    "year": 2012,
+    "title": "Narratives Misrepresent Complex Systems",
+    "permalink": "narratives-misrepresent-complex-systems.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Writing Life Narratives",
+    "wordCount": 844,
+    "minutes": 4.2
   },
   {
     "date": "12/14/2012",
@@ -1502,62 +1522,12 @@
   {
     "date": "08/25/2010",
     "year": 2010,
-    "title": "Circle of Competence",
-    "permalink": "circle-of-competence.html",
+    "title": "You Can't Predict the Future",
+    "permalink": "you-cant-predict-the-future.html",
     "authors": "Breck Yunits",
-    "tags": "All Life",
-    "wordCount": 181,
-    "minutes": 0.9
-  },
-  {
-    "date": "08/25/2010",
-    "year": 2010,
-    "title": "Critical Thinking",
-    "permalink": "critical-thinking.html",
-    "authors": "Breck Yunits",
-    "tags": "All Life",
-    "wordCount": 111,
-    "minutes": 0.6
-  },
-  {
-    "date": "08/25/2010",
-    "year": 2010,
-    "title": "How is Intelligence Distributed?",
-    "permalink": "how-is-intelligence-distributed.html",
-    "authors": "Breck Yunits",
-    "tags": "All Thinking Society",
-    "wordCount": 122,
-    "minutes": 0.6
-  },
-  {
-    "date": "08/25/2010",
-    "year": 2010,
-    "title": "Kids are Neat",
-    "permalink": "kids-are-neat.html",
-    "authors": "Breck Yunits",
-    "tags": "All Life Society",
-    "wordCount": 205,
-    "minutes": 1
-  },
-  {
-    "date": "08/25/2010",
-    "year": 2010,
-    "title": "Nature Verse Nurture",
-    "permalink": "nature-verse-nurture.html",
-    "authors": "Breck Yunits",
-    "tags": "All Life Society",
-    "wordCount": 241,
-    "minutes": 1.2
-  },
-  {
-    "date": "08/25/2010",
-    "year": 2010,
-    "title": "Recommendations Are Far From Good",
-    "permalink": "recommendations-are-far-from-good.html",
-    "authors": "Breck Yunits",
-    "tags": "All Thinking Society",
-    "wordCount": 216,
-    "minutes": 1.1
+    "tags": "All Thinking Life",
+    "wordCount": 762,
+    "minutes": 3.8
   },
   {
     "date": "08/25/2010",
@@ -1572,22 +1542,62 @@
   {
     "date": "08/25/2010",
     "year": 2010,
-    "title": "You Can't Predict the Future",
-    "permalink": "you-cant-predict-the-future.html",
-    "authors": "Breck Yunits",
-    "tags": "All Thinking Life",
-    "wordCount": 762,
-    "minutes": 3.8
-  },
-  {
-    "date": "08/23/2010",
-    "year": 2010,
-    "title": "The Recency Effect",
-    "permalink": "the-recency-effect.html",
+    "title": "Recommendations Are Far From Good",
+    "permalink": "recommendations-are-far-from-good.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Society",
-    "wordCount": 359,
-    "minutes": 1.8
+    "wordCount": 216,
+    "minutes": 1.1
+  },
+  {
+    "date": "08/25/2010",
+    "year": 2010,
+    "title": "Nature Verse Nurture",
+    "permalink": "nature-verse-nurture.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life Society",
+    "wordCount": 241,
+    "minutes": 1.2
+  },
+  {
+    "date": "08/25/2010",
+    "year": 2010,
+    "title": "Kids are Neat",
+    "permalink": "kids-are-neat.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life Society",
+    "wordCount": 205,
+    "minutes": 1
+  },
+  {
+    "date": "08/25/2010",
+    "year": 2010,
+    "title": "How is Intelligence Distributed?",
+    "permalink": "how-is-intelligence-distributed.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Society",
+    "wordCount": 122,
+    "minutes": 0.6
+  },
+  {
+    "date": "08/25/2010",
+    "year": 2010,
+    "title": "Critical Thinking",
+    "permalink": "critical-thinking.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life",
+    "wordCount": 111,
+    "minutes": 0.6
+  },
+  {
+    "date": "08/25/2010",
+    "year": 2010,
+    "title": "Circle of Competence",
+    "permalink": "circle-of-competence.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life",
+    "wordCount": 181,
+    "minutes": 0.9
   },
   {
     "date": "08/23/2010",
@@ -1598,6 +1608,16 @@
     "tags": "All Thinking",
     "wordCount": 311,
     "minutes": 1.6
+  },
+  {
+    "date": "08/23/2010",
+    "year": 2010,
+    "title": "The Recency Effect",
+    "permalink": "the-recency-effect.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Society",
+    "wordCount": 359,
+    "minutes": 1.8
   },
   {
     "date": "08/11/2010",
@@ -1612,12 +1632,12 @@
   {
     "date": "08/06/2010",
     "year": 2010,
-    "title": "Happiness is in Mediocristan",
-    "permalink": "happiness-is-in-mediocristan.html",
+    "title": "What I Want",
+    "permalink": "what-i-want.html",
     "authors": "Breck Yunits",
-    "tags": "All Thinking Life",
-    "wordCount": 589,
-    "minutes": 2.9
+    "tags": "All Life",
+    "wordCount": 761,
+    "minutes": 3.8
   },
   {
     "date": "08/06/2010",
@@ -1632,12 +1652,12 @@
   {
     "date": "08/06/2010",
     "year": 2010,
-    "title": "What I Want",
-    "permalink": "what-i-want.html",
+    "title": "Happiness is in Mediocristan",
+    "permalink": "happiness-is-in-mediocristan.html",
     "authors": "Breck Yunits",
-    "tags": "All Life",
-    "wordCount": 761,
-    "minutes": 3.8
+    "tags": "All Thinking Life",
+    "wordCount": 589,
+    "minutes": 2.9
   },
   {
     "date": "08/03/2010",
@@ -2132,22 +2152,22 @@
   {
     "date": "07/28/2008",
     "year": 2008,
-    "title": "Bigger Telescopes are needed to Solve Global Warming",
-    "permalink": "bigger-telescopes-are-needed-to-solve-global-warming.html",
-    "authors": "Breck Yunits",
-    "tags": "All Society",
-    "wordCount": 566,
-    "minutes": 2.8
-  },
-  {
-    "date": "07/28/2008",
-    "year": 2008,
     "title": "How to Cure the Hiccups",
     "permalink": "how-to-cure-the-hiccups.html",
     "authors": "Breck Yunits",
     "tags": "All Life",
     "wordCount": 286,
     "minutes": 1.4
+  },
+  {
+    "date": "07/28/2008",
+    "year": 2008,
+    "title": "Bigger Telescopes are needed to Solve Global Warming",
+    "permalink": "bigger-telescopes-are-needed-to-solve-global-warming.html",
+    "authors": "Breck Yunits",
+    "tags": "All Society",
+    "wordCount": 566,
+    "minutes": 2.8
   },
   {
     "date": "07/27/2008",

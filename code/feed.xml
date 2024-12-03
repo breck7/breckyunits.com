@@ -4,7 +4,7 @@
  <title>Feed</title>
  <link>/</link>
  <description></description>
- <lastBuildDate>Sun, 24 Nov 2024 12:30:38 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 03 Dec 2024 21:53:15 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
 <title>Useful Grep Searches with Scroll</title>
@@ -62,13 +62,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Apache, SSL and self signed certificates</title>
-<link>https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html</link>
+<title>New shortcuts</title>
+<link>https://breckyunits.com/code/new-shortcuts.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>New shortcuts</title>
-<link>https://breckyunits.com/code/new-shortcuts.html</link>
+<title>Apache, SSL and self signed certificates</title>
+<link>https://breckyunits.com/code/apache-ssl-and-self-signed-certificates.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -117,13 +117,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Mac Terminal Cursor Trick</title>
-<link>https://breckyunits.com/code/mac-terminal-cursor-trick.html</link>
+<title>Notepad++ HAML Syntax Highlighting and other custom extension mapping</title>
+<link>https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Notepad++ HAML Syntax Highlighting and other custom extension mapping</title>
-<link>https://breckyunits.com/code/notepad-haml-syntax-highlighting-and-other-custom-extension-mapping.html</link>
+<title>Mac Terminal Cursor Trick</title>
+<link>https://breckyunits.com/code/mac-terminal-cursor-trick.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -192,13 +192,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Rubyful Soup</title>
-<link>https://breckyunits.com/code/rubyful-soup.html</link>
+<title>Windows 7 Hosts File</title>
+<link>https://breckyunits.com/code/windows-7-hosts-file.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Windows 7 Hosts File</title>
-<link>https://breckyunits.com/code/windows-7-hosts-file.html</link>
+<title>Rubyful Soup</title>
+<link>https://breckyunits.com/code/rubyful-soup.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -242,13 +242,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Dump MySQL schema only</title>
-<link>https://breckyunits.com/code/dump-mysql-schema-only.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
-<title>gca alias for faster git</title>
-<link>https://breckyunits.com/code/gca-alias-for-faster-git.html</link>
+<title>Recursive ls</title>
+<link>https://breckyunits.com/code/recursive-ls.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -257,8 +252,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Recursive ls</title>
-<link>https://breckyunits.com/code/recursive-ls.html</link>
+<title>gca alias for faster git</title>
+<link>https://breckyunits.com/code/gca-alias-for-faster-git.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Dump MySQL schema only</title>
+<link>https://breckyunits.com/code/dump-mysql-schema-only.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -277,13 +277,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>ANSI or ASCII and Unicode or UTF-8 and Newlines</title>
-<link>https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html</link>
+<title>The BASH Programming Language</title>
+<link>https://breckyunits.com/code/the-bash-programming-language.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>The BASH Programming Language</title>
-<link>https://breckyunits.com/code/the-bash-programming-language.html</link>
+<title>ANSI or ASCII and Unicode or UTF-8 and Newlines</title>
+<link>https://breckyunits.com/code/ansi-or-ascii-and-unicode-or-utf-8-and-newlines.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -347,8 +347,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Pipes, standard output and standard input</title>
-<link>https://breckyunits.com/code/pipes-standard-output-and-standard-input.html</link>
+<title>Use cat to combine or print the contents of a file</title>
+<link>https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -357,8 +357,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Use cat to combine or print the contents of a file</title>
-<link>https://breckyunits.com/code/use-cat-to-combine-or-print-the-contents-of-a-file.html</link>
+<title>Pipes, standard output and standard input</title>
+<link>https://breckyunits.com/code/pipes-standard-output-and-standard-input.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -372,13 +372,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Clear screen in cygwin</title>
-<link>https://breckyunits.com/code/clear-screen-in-cygwin.html</link>
+<title>Use sed to find and replace</title>
+<link>https://breckyunits.com/code/use-sed-to-find-and-replace.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Use sed to find and replace</title>
-<link>https://breckyunits.com/code/use-sed-to-find-and-replace.html</link>
+<title>Clear screen in cygwin</title>
+<link>https://breckyunits.com/code/clear-screen-in-cygwin.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -392,18 +392,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>List only directories using ls</title>
-<link>https://breckyunits.com/code/list-only-directories-using-ls.html</link>
-<pubDate>Invalid Date</pubDate>
-</item>
- <item>
 <title>Seven aliases that can save you time</title>
 <link>https://breckyunits.com/code/seven-aliases-that-can-save-you-time.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>git clone without history</title>
-<link>https://breckyunits.com/code/git-clone-without-history.html</link>
+<title>List only directories using ls</title>
+<link>https://breckyunits.com/code/list-only-directories-using-ls.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -412,8 +407,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Create a new user in Linux</title>
-<link>https://breckyunits.com/code/create-a-new-user-in-linux.html</link>
+<title>git clone without history</title>
+<link>https://breckyunits.com/code/git-clone-without-history.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -422,13 +417,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Use aliases to save time</title>
-<link>https://breckyunits.com/code/use-aliases-to-save-time.html</link>
+<title>Create a new user in Linux</title>
+<link>https://breckyunits.com/code/create-a-new-user-in-linux.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>How I organize my Dropbox</title>
-<link>https://breckyunits.com/code/how-i-organize-my-dropbox.html</link>
+<title>Use aliases to save time</title>
+<link>https://breckyunits.com/code/use-aliases-to-save-time.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -437,13 +432,18 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
+<title>How I organize my Dropbox</title>
+<link>https://breckyunits.com/code/how-i-organize-my-dropbox.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
 <title>What non-web software do you use the most?</title>
 <link>https://breckyunits.com/code/what-non-web-software-do-you-use-the-most.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>cron in 2 steps</title>
-<link>https://breckyunits.com/code/cron-in-2-steps.html</link>
+<title>Use the linux find command to find files</title>
+<link>https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -452,8 +452,8 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Use the linux find command to find files</title>
-<link>https://breckyunits.com/code/use-the-linux-find-command-to-find-files.html</link>
+<title>cron in 2 steps</title>
+<link>https://breckyunits.com/code/cron-in-2-steps.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
@@ -467,13 +467,13 @@
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>Get VIM Working in Cygwin</title>
-<link>https://breckyunits.com/code/get-vim-working-in-cygwin.html</link>
+<title>SSH into your server without a password</title>
+<link>https://breckyunits.com/code/ssh-into-your-server-without-a-password.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>
-<title>SSH into your server without a password</title>
-<link>https://breckyunits.com/code/ssh-into-your-server-without-a-password.html</link>
+<title>Get VIM Working in Cygwin</title>
+<link>https://breckyunits.com/code/get-vim-working-in-cygwin.html</link>
 <pubDate>Invalid Date</pubDate>
 </item>
  <item>

@@ -1,6 +1,6 @@
 date 12/20/2017
 tags All Scroll ScrollPapers
-title PAC: Particle Atom Complexity
+title PC: Particle Complexity
 
 header.scroll
 printTitle
@@ -36,14 +36,14 @@ In this paper I add to the pile, and propose using Particle Syntax as a tool for
 ***
 
 # Overview
-The method introduced here, named Particle Atom Complexity (PAC), can be used to measure the complexity of an entity X. It operates as follows.
+The method introduced here, named Particle Complexity (PC), can be used to measure the complexity of an entity X. It operates as follows.
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
-2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, which is written in a high level symbolic Particles language defined by a grammar, `G0`.
- aGrammarNotationForTreeLanguages.html grammar
-3. We can then describe that language `G0` in a recursive series of grammars (`G1`, `G2`, ...).
+2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, parseable by a set of Parsers, `P0`.
+ aGrammarNotationForTreeLanguages.html Parsers
+3. We can then describe that set `P0` in a recursive series (`P1`, `P2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
-5. We can use simple arithmetic to count the atomic components of our program and grammars and get complexity measurements for a system.
+5. We can use simple arithmetic to count the atomic components of our program and parsers and get complexity measurements for a system.
 
 ***
 
@@ -73,7 +73,7 @@ code
 
 Comparing the count of nodes, we get two nodes for the "boolean" and ten nodes for the "digit".
 
-Hence, by this simple PAC measure we can say that a digit is more complex than a boolean.
+Hence, by this simple PC measure we can say that a digit is more complex than a boolean.
 
 ***
 
@@ -123,12 +123,12 @@ Hence, the programB is less complex by this measure, _given machineA and machine
 # Atomic Components of Complexity
 
 atomicUnits.png
- caption A visualization of the countable atomic units in PAC.
+ caption A visualization of the countable atomic units in PC.
  float right
 
-PAC has more atomic units to count beyond nodes.
+PC has more atomic units to count beyond nodes.
 
-In PAC countable atomic units of complexity include:
+In PC countable atomic units of complexity include:
 
 - Particles (files/2D planes/documents)
 - Atoms (words)
@@ -155,7 +155,7 @@ But the Total Complexity of the Python program might be greater than that of the
 
 # Why Particles?
 
-PAC is one of many systems that measure the "difficulty of description"^Lloyd. This means PAC doesn't measure complexity directly, rather the description of the entity is measured.
+PC is one of many systems that measure the "difficulty of description"^Lloyd. This means PC doesn't measure complexity directly, rather the description of the entity is measured.
 
 Particles is used because it can easily describe micro and macro concepts, and a user can zoom between macro and micro scales as easily as moving within scales.
 
@@ -163,7 +163,7 @@ Basic primitives like the bit, the concept of a word, or an AND gate have a Part
 
 Macro objects, like the Linux Kernel, could also be described using just Particles.
 
-Both the description and the grammars the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
+Both the description and the parsers the description uses are represented by the same basic minimal structures allowing the whole system to be counted and analyzed.
 
 ***
 
@@ -177,7 +177,7 @@ Other descriptions become noisier or repetitive over time, whereas Particles is 
 
 Particles is a universal notation that can describe items in any domain, from computer science and mathematics to medicine and the law.
 
-PAC thus could enable cross-domain complexity comparisons.
+PC thus could enable cross-domain complexity comparisons.
 
 In a sense, Particles can be thought of as a notation for building a strongly-typed noiseless encyclopedia, and then the complexity of items in that encylopedia can then be measured and compared.
 
@@ -185,7 +185,7 @@ In a sense, Particles can be thought of as a notation for building a strongly-ty
 
 Furthermore, items encoded in Particles can be thought of and visualized as existing in 3-Dimensions.
 
-This is far-off speculation, but perhaps there exists a correlation between the PAC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
+This is far-off speculation, but perhaps there exists a correlation between the PC measurements of a topic, and the number of neurons and synapses dedicated to that topic in the brain of a topic expert, out of the total supply of their $10e11$ neurons and $10e15$ synapses.
 
 ***
 

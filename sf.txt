@@ -37,4 +37,4 @@ alias sf='date_dir=$(date +%Y-%m-%d) && mkdir -p ~/sf/$date_dir && cd ~/sf/$date
 
 ⁂
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

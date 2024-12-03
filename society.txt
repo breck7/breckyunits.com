@@ -1,60 +1,60 @@
 Breck's Blog - Society Posts
 ============================
 
-Breck's Blog - Data Posts
-=========================
-11/24/2024
-https://breckyunits.com/data.html
-
-Breck's Blog - Intellectual Freedom Posts
-=========================================
-11/24/2024
-https://breckyunits.com/freedom.html
-
-Breck's Blog - All Posts
-========================
-11/24/2024
-https://breckyunits.com/index.html
-
-Breck's Blog - Life Posts
-=========================
-11/24/2024
-https://breckyunits.com/life.html
-
-Breck's Blog - Papers Posts
-===========================
-11/24/2024
-https://breckyunits.com/papers.html
-
-Breck's Blog - Programming Posts
-================================
-11/24/2024
-https://breckyunits.com/programming.html
-
-Search Breck's Blog
-===================
-11/24/2024
-https://breckyunits.com/search.html
-
-Breck's Blog - Startups Posts
-=============================
-11/24/2024
-https://breckyunits.com/startups.html
-
-Breck's Blog - Thinking Posts
-=============================
-11/24/2024
-https://breckyunits.com/thinking.html
+Breck's Blog - Writing Posts
+============================
+12/03/2024
+https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-11/24/2024
+12/03/2024
 https://breckyunits.com/treeNotation.html
 
-Breck's Blog - Writing Posts
-============================
-11/24/2024
-https://breckyunits.com/writing.html
+Breck's Blog - Thinking Posts
+=============================
+12/03/2024
+https://breckyunits.com/thinking.html
+
+Breck's Blog - Startups Posts
+=============================
+12/03/2024
+https://breckyunits.com/startups.html
+
+Search Breck's Blog
+===================
+12/03/2024
+https://breckyunits.com/search.html
+
+Breck's Blog - Programming Posts
+================================
+12/03/2024
+https://breckyunits.com/programming.html
+
+Breck's Blog - Papers Posts
+===========================
+12/03/2024
+https://breckyunits.com/papers.html
+
+Breck's Blog - Life Posts
+=========================
+12/03/2024
+https://breckyunits.com/life.html
+
+Breck's Blog - All Posts
+========================
+12/03/2024
+https://breckyunits.com/index.html
+
+Breck's Blog - Intellectual Freedom Posts
+=========================================
+12/03/2024
+https://breckyunits.com/freedom.html
+
+Breck's Blog - Data Posts
+=========================
+12/03/2024
+https://breckyunits.com/data.html
 
 Flaws in Heaven
 ===============
@@ -186,15 +186,15 @@ Sleepy Time Conference
 02/11/2021
 https://breckyunits.com/sleepyTimeConference.html
 
-Medical Records to the Moon
-===========================
-03/02/2020
-https://breckyunits.com/medical-records-to-the-moon.html
-
 Musing on the Future of Healthcare
 ==================================
 03/02/2020
 https://breckyunits.com/musing-on-the-future-of-healthcare.html
+
+Medical Records to the Moon
+===========================
+03/02/2020
+https://breckyunits.com/medical-records-to-the-moon.html
 
 How Old Are These Keys? Five Eras of Human Progress
 ===================================================
@@ -226,25 +226,25 @@ The Economy Explained
 09/18/2010
 https://breckyunits.com/the-economy-explained.html
 
-How is Intelligence Distributed?
-================================
+Recommendations Are Far From Good
+=================================
 08/25/2010
-https://breckyunits.com/how-is-intelligence-distributed.html
-
-Kids are Neat
-=============
-08/25/2010
-https://breckyunits.com/kids-are-neat.html
+https://breckyunits.com/recommendations-are-far-from-good.html
 
 Nature Verse Nurture
 ====================
 08/25/2010
 https://breckyunits.com/nature-verse-nurture.html
 
-Recommendations Are Far From Good
-=================================
+Kids are Neat
+=============
 08/25/2010
-https://breckyunits.com/recommendations-are-far-from-good.html
+https://breckyunits.com/kids-are-neat.html
+
+How is Intelligence Distributed?
+================================
+08/25/2010
+https://breckyunits.com/how-is-intelligence-distributed.html
 
 The Recency Effect
 ==================
@@ -291,4 +291,4 @@ Daily Gas Use for the United States and the World
 05/14/2008
 https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

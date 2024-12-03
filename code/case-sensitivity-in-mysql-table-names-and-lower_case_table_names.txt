@@ -20,4 +20,4 @@ If you change it to 0 on Windows, you might run into problems. If you change it 
 
 So what's the solution? Try to avoid capital letters in table names (use _ instead of camel case). When you can't do that, write your code for the Linux database (ie "select * from userBookmarks"), and your queries should translate fine on Windows since Windows will convert that to "select * from userbookmarks".
 
-Built with Scroll v155.4.0
+Built with Scroll v161.0.4

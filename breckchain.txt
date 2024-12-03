@@ -1,0 +1,23 @@
+Breckchain
+==========
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+December 2, 2024
+
+We're building a new blockchain (L1).
+
+This chain will leapfrog all others on trust and speed.
+
+We will be misunderstood, ignored, and mocked.
+
+And then, our math will win.
+
+-Breck
+
+*
+
+[Image Omitted]
+
+⁂
+
+Built with Scroll v161.0.4
