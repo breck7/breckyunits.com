@@ -16,7 +16,7 @@ What did I discover? That there might be useful general purpose programming lang
 ***
 
 I call the whitespace-based notation Tree Notation and languages built on top of it Tree Languages.
- https://treenotation.org Tree Notation
+ https://particles.scroll.pub/ Tree Notation
 
 Using a few simple atomic ingredients---words, spaces, newlines, and indentation--you can construct grammars for new programming languages that can do anything existing programming languages can do. A simple example:
 
