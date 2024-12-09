@@ -1,7 +1,7 @@
 Source
  https://breckyunits.com/
  
- Tue, 03 Dec 2024 21:53:13 +0000
+ Mon, 09 Dec 2024 15:44:40 +0000
  en-us
  
 Mitocycles
@@ -21,6 +21,11 @@ Invalid Date
  
 On Focus
 https://breckyunits.com/focus.html
+Invalid Date
+
+ 
+A New Scientific Model of Mania and Depression, with Testable Predictions
+https://breckyunits.com/bipolarModel.html
 Invalid Date
 
  

@@ -20,22 +20,22 @@ Perfect sunsets.
 
 But the Redditor is able to find a few negative things to focus on.
 
-He writes a letter to the big guy "Flaws in Heaven".
+He writes an email to God with subject "Flaws in Heaven".
 
 *
 
-He gets a letter back.
+He gets an immediate response.
 
-"Sorry,
+```
+MESSAGE NOT DELIVERED
 
-Heaven doesn't want to hear your bullshit.
+Heaven doesn't want to hear
+your  bullshit, that's why
+they sent you here.
 
-That's why you were sent here.
-
-Sincerely,
-
-Hell"
+- Hell Outlook Server
+```
 
 ⁂
 
-Built with Scroll v161.0.4
+Built with Scroll v162.1.0

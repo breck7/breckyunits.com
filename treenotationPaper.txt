@@ -171,4 +171,7 @@ References
 
 ^Ender: Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
-Built with Scroll v161.0.4
+> Original published on arXiv
+ https://arxiv.org/abs/1703.01192 Original published on arXiv
+
+Built with Scroll v162.1.0

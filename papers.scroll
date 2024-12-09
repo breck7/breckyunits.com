@@ -1,5 +1,5 @@
+categoryHeader.scroll
 replace CAT_TITLE Papers
 
-categoryPage.scroll
-printSnippets ScrollPapers
+printSnippets AllPapers
 footer.scroll

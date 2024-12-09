@@ -3,7 +3,7 @@ buildTxt
 buildHtml
 title The Marble
 metaTags
-../gazette.css
+../.gazette.css
 slideshow
 
 css html,body {background: rgb(247,249,250); text-align: center;}

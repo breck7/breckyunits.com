@@ -1,5 +1,5 @@
 date 6/21/2017
-tags All Scroll ScrollPapers
+tags All Scroll ScrollPapers AllPapers
 title Tree Notation: an antifragile program notation
 
 header.scroll
@@ -159,5 +159,8 @@ tree.jpg
 ^Ender Ender, Martin. "A two-dimensional, hexagonal programming language." https://github.com/m-ender/hexagony (visited in 2017).
 
 katex
+
+> Original published on arXiv
+ https://arxiv.org/abs/1703.01192
 
 footer.scroll
