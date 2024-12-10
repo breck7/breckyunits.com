@@ -80,14 +80,19 @@ It is in this competitive milieu that we are defining our new language stack: PP
 
 Back to the original question, why are we defining a new language?
 
-Well, we stumbled upon a simpler set of restrictions that we think make our languages far more powerful and trustworthy than the competition.
+Well, we stumbled upon a simpler set of restrictions that we think make our languages far more efficient, powerful and trustworthy than the competition.
 
-The languages that are dominant today have a lot of unnecessary restrictions, and miss out on a few simple very useful restrictions.
+The languages that are dominant today have a lot of unnecessary restrictions, and miss out on a few simple very useful restrictions. These make them unnecessarily complex, inefficient, and not so trustworthy.
 
-The end result of these languages is unnecessarily complex, messy messages (code).
+When all your messages contain unnecessary pieces, you have zero chance of ever arriving at the perfect message. You're doomed to make suboptimal models from the start.
 
-Our set of restrictions greatly simplifies things, and keeps code clean.
+Our language stack gives humans a chance to build as close to perfect a model of the world as you can get.
+
+Unnatural additions and inefficiencies stick out like a sore thumb. This makes it a compelling choice for governments, engineers, scientists, and so on.
 
 The new set of restrictions in the PPS stack allow us to do the same things in more natural, simpler, more efficient ways.
+
+Explore more here.
+ https://scroll.pub/
 
 ****
