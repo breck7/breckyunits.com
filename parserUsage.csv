@@ -5,7 +5,7 @@ BlobParser,1821
 scrollImportedParser,1484
 importOnlyParser,1213
 stumpContentParser,1128
-quickLinkParser,1043
+quickLinkParser,1044
 h1Parser,726
 scrollDinkusParser,603
 scrollBrParser,599
@@ -94,8 +94,8 @@ commentParser,4
 plainTextOnlyParser,4
 scrollThemeParser,4
 quickVideoParser,3
-scrollOrderByParser,3
 scrollPostsMetaParser,3
+scrollOrderByParser,3
 redirectToParser,3
 aboveAsCodeParser,2
 expanderParser,2
@@ -133,14 +133,14 @@ quickCssParser,1
 printFeedParser,1
 buildRssParser,1
 printFullSnippetsParser,1
+buildTsvParser,1
+buildJsonParser,1
 printColumnParser,1
 scrollComposeParser,1
 scrollLimitParser,1
 scrollWhereParser,1
-buildTsvParser,1
-buildJsonParser,1
 scrollPostsParser,1
-printShortSnippetsParser,1
 printSiteMapParser,1
+printShortSnippetsParser,1
 printSourceParser,1
 slideshowParser,1
