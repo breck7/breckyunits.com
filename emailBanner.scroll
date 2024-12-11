@@ -1,0 +1,25 @@
+<div id="emailBanner" class="banner hide">
+  <form onsubmit="handleSubmit(event)">
+    Like my site? Join my email list:
+    <button type="submit">Join</button> <a onclick="hideEmailList()">❌</a>
+  </form>
+ </div>
+css
+ .banner {
+   background: #f0f0f0;
+   padding: 10px;
+   text-align: center;
+ }
+ .hide { display: none; }
+script
+ if (localStorage.getItem('subscribed') !== 'true')
+  document.getElementById('emailBanner').classList.remove('hide');
+ function hideEmailList() {
+   localStorage.setItem('subscribed', 'true');
+  document.getElementById('emailBanner').classList.add('hide');
+ }
+ function handleSubmit(e) {
+  e.preventDefault();
+  window.location.href = `mailto:breck7@gmail.com?subject=Join email list&body=Please add me to the BreckYunits.com email list`;
+   hideEmailList()
+ }
