@@ -8,15 +8,14 @@ homeButton
  /index.html
 editButton
 
-container 600px
+container 800px
 printTitle
 
 /.gazette.css
 
+center
 Sorry, the url you requested was not found.
-
 helpfulNotFound /sitemap.txt /code/sitemap.txt
-
 If you think there's a bug on my site, please email breck7@gmail.com to let me know. Thank you!
 
 pageFooter.scroll
