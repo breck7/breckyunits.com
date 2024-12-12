@@ -8,8 +8,8 @@ homeButton
  /index.html
 editButton
 
+container 600px
 printTitle
-thinColumns 1
 
 /.gazette.css
 
