@@ -12,6 +12,7 @@ container 800px
 printTitle
 
 /.gazette.css
+/.scroll.css
 br 2
 center
 Sorry, the url you requested was not found.
