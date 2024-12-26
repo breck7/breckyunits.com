@@ -29,78 +29,84 @@ endSnippet
 > I can have a far wider selection of electronic components delivered overnight for cheaper from Amazon, Mouser or Digikey. The need for a brick and mortar electronics store is long over. Time marches on. - rriggsco
  https://www.reddit.com/r/electronics/comments/1d0zfcf/comment/l5rhzcz/ rriggsco
 
-Year	ElectronicsManufacturing	RadioShacks
-1990	1902	4300
-1991	1809	4711.111111
-1992	1707	5122.222222
-1993	1656	5533.333333
-1994	1651	5944.444444
-1995	1689	6355.555556
-1996	1747	6766.666667
-1997	1803	7177.777778
-1998	1831	7588.888889
-1999	1781	8000
-2000	1820	7735.5
-2001	1749	7471
-2002	1507	7206.5
-2003	1355	6942
-2004	1323	6677.5
-2005	1316	6413
-2006	1308	6148.5
-2007	1272	5884
-2008	1244	5619.5
-2009	1137	5355
-2010	1094	5090.5
-2011	1103	4826
-2012	1089	4561.5
-2013	1066	4297
-2014	1049	3547.75
-2015	1053	2798.5
-2016	1048	2049.25
-2017	1039	1300
-2018	1054	500
-2019	1075	485.3333333
-2020	1063	470.6666667
-2021	1060	456
-2022	1090	441.3333333
-2023	1108	426.6666667
-2024	1105	412
+table
+ printTable
+ data
+  Year	ElectronicsManufacturing	RadioShacks
+  1990	1902	4300
+  1991	1809	4711.111111
+  1992	1707	5122.222222
+  1993	1656	5533.333333
+  1994	1651	5944.444444
+  1995	1689	6355.555556
+  1996	1747	6766.666667
+  1997	1803	7177.777778
+  1998	1831	7588.888889
+  1999	1781	8000
+  2000	1820	7735.5
+  2001	1749	7471
+  2002	1507	7206.5
+  2003	1355	6942
+  2004	1323	6677.5
+  2005	1316	6413
+  2006	1308	6148.5
+  2007	1272	5884
+  2008	1244	5619.5
+  2009	1137	5355
+  2010	1094	5090.5
+  2011	1103	4826
+  2012	1089	4561.5
+  2013	1066	4297
+  2014	1049	3547.75
+  2015	1053	2798.5
+  2016	1048	2049.25
+  2017	1039	1300
+  2018	1054	500
+  2019	1075	485.3333333
+  2020	1063	470.6666667
+  2021	1060	456
+  2022	1090	441.3333333
+  2023	1108	426.6666667
+  2024	1105	412
 
-Name	Year	Stores
-RadioShacks	1990	4300
-RadioShacks	1991
-RadioShacks	1992
-RadioShacks	1993
-RadioShacks	1994
-RadioShacks	1995
-RadioShacks	1996
-RadioShacks	1997
-RadioShacks	1998
-RadioShacks	1999	8000
-RadioShacks	2000
-RadioShacks	2001
-RadioShacks	2002
-RadioShacks	2003
-RadioShacks	2004
-RadioShacks	2005
-RadioShacks	2006
-RadioShacks	2007
-RadioShacks	2008
-RadioShacks	2009
-RadioShacks	2010
-RadioShacks	2011
-RadioShacks	2012
-RadioShacks	2013	4297
-RadioShacks	2014
-RadioShacks	2015
-RadioShacks	2016
-RadioShacks	2017	1300
-RadioShacks	2018	500
-RadioShacks	2019
-RadioShacks	2020
-RadioShacks	2021
-RadioShacks	2022
-RadioShacks	2023
-RadioShacks	2024	412
+table
+ printTable
+ data
+  Name	Year	Stores
+  RadioShacks	1990	4300
+  RadioShacks	1991
+  RadioShacks	1992
+  RadioShacks	1993
+  RadioShacks	1994
+  RadioShacks	1995
+  RadioShacks	1996
+  RadioShacks	1997
+  RadioShacks	1998
+  RadioShacks	1999	8000
+  RadioShacks	2000
+  RadioShacks	2001
+  RadioShacks	2002
+  RadioShacks	2003
+  RadioShacks	2004
+  RadioShacks	2005
+  RadioShacks	2006
+  RadioShacks	2007
+  RadioShacks	2008
+  RadioShacks	2009
+  RadioShacks	2010
+  RadioShacks	2011
+  RadioShacks	2012
+  RadioShacks	2013	4297
+  RadioShacks	2014
+  RadioShacks	2015
+  RadioShacks	2016
+  RadioShacks	2017	1300
+  RadioShacks	2018	500
+  RadioShacks	2019
+  RadioShacks	2020
+  RadioShacks	2021
+  RadioShacks	2022
+  RadioShacks	2023
+  RadioShacks	2024	412
 
 footer.scroll
