@@ -7,9 +7,7 @@ printTitle
 
 thinColumns 2
 
-comment
- Just want to note that it took nearly a decade but this article is now
- written in a derivative of Note! 😀 5/11/2021
+// Just want to note that it took nearly a decade but this article is now written in a derivative of Note! 😀 5/11/2021
 
 Note is a structured, human readable, concise language for encoding data.
  dateline
