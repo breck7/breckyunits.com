@@ -2,10 +2,7 @@ date 2010-08-25
 tags All Programming
 title Ruby
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 Ruby is an awesome language. I've come to the conclusion that I enjoy it more than Python for the simple reason that whitespace doesn't matter.
  dateline

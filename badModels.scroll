@@ -2,10 +2,7 @@ date 2024-05-04
 tags All Life Society Data
 title Hypothermia
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 # Bad models of the world can be dangerous.
 

@@ -3,10 +3,7 @@ tags All Data Writing Life
 title Strong Advice
 openGraphImage advice.png
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 I split advice into two categories:
  dateline

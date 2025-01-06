@@ -2,10 +2,7 @@ date 2009-12-16
 tags All Startups
 title Make Something 40% of Your Customers Must Have
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 If you combine Paul Graham's "make something people want" advice with Sean Ellis' product-market fit advice (you have product-market fit when you survey your users and at least 40% of them would be disappointed if your product disappeared tomorrow), you end up with a possibly even simpler, more specific piece of advice:
  dateline

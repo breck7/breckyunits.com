@@ -2,10 +2,7 @@ date 2010-01-14
 tags All Life
 title When forced to wait, wait!
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 When a problem you are working on forces you to wait, do you wait or switch tasks?
  dateline

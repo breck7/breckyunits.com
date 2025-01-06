@@ -6,11 +6,10 @@ tags All Life Thinking Data Fiction
 title The Fastest in the World
 
 header.scroll
+
+container 400px
 printTitle
-
 printAuthors
-
-thinColumns 1
 
 The girl lost the race.
 

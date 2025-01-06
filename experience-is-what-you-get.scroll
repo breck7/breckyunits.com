@@ -2,9 +2,7 @@ date 2009-12-02 2
 tags All Life
 title Experience is What You Get
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 quote
  Experience is what you get when you don't get what you want.

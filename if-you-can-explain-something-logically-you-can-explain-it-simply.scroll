@@ -2,10 +2,7 @@ date 2010-01-18
 tags All Writing
 title If you can explain something logically, you can explain it simply
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 chat
  Is there any subject which cannot be explained simply?

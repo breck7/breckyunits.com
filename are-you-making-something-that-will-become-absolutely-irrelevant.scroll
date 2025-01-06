@@ -2,9 +2,7 @@ date 2009-01-05
 tags All Startups
 title Are you Making Something that will become ‘Absolutely Irrelevant’?
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 I’m reading a fascinating biography of Warren Buffett right now(Snowball).
  dateline

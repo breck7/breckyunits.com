@@ -3,9 +3,7 @@ openGraphImage abortBars.gif
 tags All Programming Life
 title Abort Bars
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 # A Suggested Improvement to Progress Bars
 
 When I was a programmer at Microsoft I participated in a lot of internal betas.

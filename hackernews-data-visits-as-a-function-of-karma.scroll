@@ -2,10 +2,7 @@ date 2010-03-08
 tags All Programming Startups HasDataset
 title HackerNews Data: Visits as a Function of Karma
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 If a post on HackerNews gets more points, it gets more visits.
  dateline

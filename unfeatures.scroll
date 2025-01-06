@@ -2,10 +2,7 @@ date 2009-12-11
 tags All Programming Startups
 title (un)features
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 Jason Fried from 37signals gave a great talk at startup school last month. At one point he said "software has no edges." He took a normal, everyday bottle of water and pointed out 3 features:
  dateline

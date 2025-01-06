@@ -2,10 +2,7 @@ date 7/18/2019
 tags All Programming Life HasDataset MasterProgramming
 title 30,000 Hours
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 In 2013 I sent a brief email to 25 programmers whose programs I admired.
  dateline

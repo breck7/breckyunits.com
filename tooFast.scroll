@@ -1,9 +1,7 @@
 date 2024-06-05
 title "You're posting too fast."
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 # The Conflicting Advice of YCombinator
 

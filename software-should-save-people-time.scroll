@@ -2,10 +2,7 @@ date 2013-04-02
 tags All Programming
 title Software Should Save People Time
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 For me, the primary motivation for creating software is to save myself and other people time.
  dateline

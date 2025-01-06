@@ -1,0 +1,6 @@
+importOnly
+header.scroll
+
+container 500px
+printTitle
+printAuthors

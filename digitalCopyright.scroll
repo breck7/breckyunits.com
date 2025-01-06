@@ -2,10 +2,7 @@ date 5/14/2024
 tags All IntellectualFreedom Society
 title The law favors ChatGPT over humans
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 aiUni.jpeg
  openGraph

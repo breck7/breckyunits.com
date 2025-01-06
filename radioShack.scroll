@@ -2,10 +2,7 @@ date 2024-05-26
 tags All Society HasDataset Data Programming
 title Bring back RadioShack?
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 You once could buy transistors, capacitors, and other components at your local neighborhood store. The decline in US computer and electronics manufacturing correlates with the decline in RadioShacks. To catch up to other nations, maybe it is time for a next-gen RadioShack.
  dateline

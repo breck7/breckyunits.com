@@ -2,9 +2,7 @@ date 2013-09-24
 tags All Data Programming Thinking
 title Big Data Notation
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 # A Suggestion for a Simple Notation
 

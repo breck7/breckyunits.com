@@ -2,10 +2,7 @@ date 2010-06-15
 tags All Data Thinking Programming
 title The Churn Rate of Data
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 I think it's interesting to ponder the value of information over it's lifetime.
  dateline

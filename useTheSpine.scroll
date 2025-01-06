@@ -2,10 +2,7 @@ date 1/3/2023
 tags All Scroll Programming
 title Use the Spine
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 spines.jpg
  openGraph

@@ -2,9 +2,7 @@ date 2008-07-07
 tags All Writing HasDataset
 title Bloggers Turning Pro
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 After months of deliberation, I’ve decided to quit my day job and work on my blog full time.
  dateline

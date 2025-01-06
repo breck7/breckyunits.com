@@ -2,10 +2,7 @@ date 2009-12-10
 tags All Life
 title Get Stuff Done By Setting Arbitrary Constraints
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 Employees and students receive deadlines, due dates, goals, guidelines, instructions and milestones from their bosses and teachers. I call these "arbitrary constraints".
  dateline

@@ -1,12 +1,9 @@
 date 4/23/2024 5:00
 tags All Data Thinking Programming HasDataset ScrollSets
 title Hot Coffee
-
-header.scroll
-printTitle
 // aka Dataset Thinking
 
-thinColumns 1
+singleHeader.scroll
 # Datasets are automated tests for world models
 
 printAuthors

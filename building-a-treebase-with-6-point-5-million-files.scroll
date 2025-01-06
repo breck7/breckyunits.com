@@ -3,10 +3,7 @@ permalink building-a-treebase-with-6.5-million-files.html
 tags All Scroll Programming HasDataset
 title Building a TreeBase with 6.5 million files
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 In this long post I'm going to do a stupid thing and see what happens. Specifically I'm going to create 6.5 million files in a single folder and try to use Git and Sublime and other tools with that folder. All to explore this new thing I'm working on.
  dateline

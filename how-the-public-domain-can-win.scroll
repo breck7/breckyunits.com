@@ -3,10 +3,7 @@ replace KEYMESSAGE Public domain products are strictly superior to equivalent no
 tags All IntellectualFreedom
 title How the public domain can win
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 KEYMESSAGE If enough capable people start building public domain products we can change the world.
  dateline

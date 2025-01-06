@@ -2,10 +2,7 @@ date 2010-08-25
 tags All Thinking Society
 title How is Intelligence Distributed?
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 I've been working on a fun side project of categorizing things into Mediocristan or Extremistan(inspired by NNT's book The Black Swan).
  dateline

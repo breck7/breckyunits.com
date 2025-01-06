@@ -2,10 +2,7 @@ date 2010-01-05
 tags All Startups
 title Flee the Bubble
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
  dateline
