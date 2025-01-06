@@ -1,12 +1,4 @@
-stumpNoSnippet
- link
-  rel stylesheet
-  type text/css
-  href .gazette.css
-stumpNoSnippet
- link
-  rel stylesheet
-  type text/css
-  href .scroll.css
+.gazette.css
+.scroll.css
 
 font Helvetica Neue
