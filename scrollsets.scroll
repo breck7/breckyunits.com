@@ -111,8 +111,8 @@ GNU Recutils^recutils deserves credit as the closest precursor to our system. If
 ***
 
 # Initial Implementation and Experimental Evidence
-ScrollSets is the name of the first implementation of the system above. It is open source and dedicated to the public domain.
- https://scroll.pub/ ScrollSet
+ScrollSets is the name of the first implementation of the system above. It is open source and public domain.
+ https://scroll.pub/ ScrollSets
 
 ScrollSets are used to power the open source website PLDB.io. PLDB currently has over 300 measures, over 4,000 concepts and over 150,000 measurements, contributed by over 100 people, dozens of software crawlers, and a couple of artificial neural networks.
  https://pldb.io PLDB.io
