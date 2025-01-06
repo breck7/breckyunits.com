@@ -2,10 +2,7 @@ date 2012-12-14
 tags All Scroll Programming
 title Introducing Note
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 // Just want to note that it took nearly a decade but this article is now written in a derivative of Note! 😀 5/11/2021
 

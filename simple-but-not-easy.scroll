@@ -2,10 +2,7 @@ date 2010-06-17
 tags All Startups Life
 title Simple, but not easy
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 Doing a startup is surprisingly simple. You have to start by creating a product that people must have, then you scale it from there.
  dateline

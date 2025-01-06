@@ -2,10 +2,7 @@ date 2020-01-20
 tags All Programming Thinking Scroll
 title Type the World
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 In this post I briefly describe eleven threads in languages and programming. Then I try to connect them together to make some predictions about the future of knowledge encoding.
  dateline

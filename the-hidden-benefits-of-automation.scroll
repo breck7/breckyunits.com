@@ -2,10 +2,7 @@ date 2010-03-17
 tags All Programming
 title The Hidden Benefits of Automation
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 If you automate a process which you repeat _Y_ times, that takes _X_ minutes, what would your payoff be?
  dateline

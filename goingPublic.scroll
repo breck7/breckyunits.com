@@ -1,10 +1,7 @@
 date 11/05/2022
 title Well YCombinator, we're going public anyway.
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 secCodes.png
  openGraph

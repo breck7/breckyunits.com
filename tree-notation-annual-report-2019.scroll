@@ -2,10 +2,7 @@ date 2020-12-09
 tags All Scroll Programming
 title 2019 Tree Notation Annual Report
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 * _Note: I wrote this early draft in February 2020, but COVID-19 happened and somehow 11 months went by before I found this draft again. I am publishing it now as it was then, without adding the visuals I had planned but never got to, or making any major edits. This way it will be very easy to have next year's report be the best one yet, which will also include exciting developments in things like non-linear parsing and "forests"._
  dateline
