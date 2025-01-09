@@ -2,10 +2,7 @@ date 2010-03-16
 tags All Programming HasDataset
 title Metrics for Programmers
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 I wrote a simple php program called phpcodestat that computes some simple statistics for any given directory.
  dateline

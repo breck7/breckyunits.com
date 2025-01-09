@@ -2,10 +2,7 @@ date 2009-12-13
 tags All Programming Life
 title Don't Flip the Bit
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 Do you "flip the bit" on people?
  dateline

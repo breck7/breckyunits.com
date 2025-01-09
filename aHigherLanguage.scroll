@@ -5,12 +5,7 @@ openGraphImage tunnelByDallE.png
 tags All Life Thinking Writing Fiction
 title A Higher Language
 
-header.scroll
-printTitle
-
-printAuthors
-
-thinColumns 1
+singleAuthor.scroll
 
 I was walking in the woods and saw a path on my right. I had never seen this path before.
 endSnippet

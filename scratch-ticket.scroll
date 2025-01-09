@@ -2,10 +2,7 @@ date 10/07/2022
 tags All Startups
 title A scratch ticket with a positive expected value
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 In 2007 we came up with an idea for a scratch ticket that would give everyday Americans a positive expected value.
  dateline

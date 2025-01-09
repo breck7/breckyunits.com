@@ -2,9 +2,7 @@ date 6/09/2022
 tags All Programming Data HasDataset Logeracy
 title The Three Byte Fix
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 # A Small Open Source Success Story
 

@@ -2,10 +2,7 @@ date 2010-03-22
 tags All Startups
 title Why is it best to do one thing really, really well?
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 Google has a list of 10 principles that guide its actions. Number 2 on this list is:
  dateline

@@ -3,9 +3,7 @@ tags All Programming Scroll
 title Microprogramming: A New Way to Program
 openGraphImage microprogramming.png
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 printAuthors
 printDate

@@ -2,10 +2,7 @@ date 2010-08-25
 tags All Thinking Life
 title You Can't Predict the Future
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 I've been very surprised to discover how unpredictable the future is. As you try to predict farther out, your error margins grow exponentially bigger until you're "predicting" nothing specific at all.
  dateline

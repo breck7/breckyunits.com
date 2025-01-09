@@ -2,9 +2,7 @@ date 2020-02-25
 tags All Thinking Society HasDataset
 title How Old Are These Keys? Five Eras of Human Progress
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 keyboard/screenshot.png
  keyboard/index.html
  caption My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.

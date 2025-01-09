@@ -3,10 +3,7 @@ permalink design-matters-a-lot.html
 tags All Programming Startups Design
 title Design Matters. A lot.
 
-header.scroll
-printTitle
-
-thinColumns 2
+singleHeader.scroll
 
 A year ago I wrote a post titled The Truth about Web Design where I briefly argued that "design doesn't matter a whole lot."
  dateline

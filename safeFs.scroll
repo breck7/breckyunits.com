@@ -3,9 +3,7 @@ openGraphImage safeFS.png
 tags All IntellectualFreedom
 title SafeFS
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 ## _Or: If lawyers invented a filesystem_
 

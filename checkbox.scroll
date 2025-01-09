@@ -2,10 +2,7 @@ date 2024-06-25
 tags All Startups Society Scroll
 title CheckBox: An Online + Offline Voting System
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 checkbox.gif
  caption Our beta from 2013.

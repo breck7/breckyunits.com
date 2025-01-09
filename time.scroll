@@ -2,12 +2,7 @@ date 2013-04-01
 tags All Life
 title Time
 
-header.scroll
-printTitle
-
-printAuthors
-
-thinColumns 1
+singleAuthor.scroll
 
 Two people in the same forest,
 have the same amount of water and food,

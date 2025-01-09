@@ -2,10 +2,7 @@ date 12/30/2022
 tags All Scroll Programming
 title One Textarea
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 oneTextarea.gif
  openGraph

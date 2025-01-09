@@ -1,7 +1,4 @@
-stumpNoSnippet
- link
-  rel stylesheet
-  type text/css
-  href .gazette.css
+.gazette.css
+.scroll.css
 
 font Helvetica Neue

@@ -2,9 +2,7 @@ date 2021-02-22
 tags All Scroll Programming Writing
 title Scroll Beta
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 Today I'm launching the beta of something new called Scroll.
  https://github.com/publicdomaincompany/scroll Scroll

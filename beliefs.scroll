@@ -2,10 +2,7 @@ date 2/11/2024
 tags All Life
 title Beliefs
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 What does it mean to say a person believes _X_, where _X_ is a series of words?
  dateline

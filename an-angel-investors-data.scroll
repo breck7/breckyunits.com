@@ -2,10 +2,7 @@ date 9/1/2022
 tags All Startups HasDataset AngelInvesting
 title An Angel Investor's Data
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 There's a trend where people are publishing _real data first_, and then insights. Here is my data from angel investing:
  dateline

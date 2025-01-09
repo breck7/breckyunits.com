@@ -1,0 +1,98 @@
+date 2024-12-10
+tags All Scroll
+title Why Define a New Language?
+container 400px
+standardPost.scroll
+
+What does it mean to _define a language_?
+
+It means to write down a set of restrictions.
+
+Languages let you do things by defining what you can't do.
+
+Languages narrow your choices. You can still take your reader to a land far far away; you just need to take them in practical steps.
+
+Communication requires constraints.
+
+Too few restrictions and someone can write anything, yet communicate nothing.
+
+***
+
+Even plain text files, which may seem at first to have no rules, have many. 
+
+The file you are reading now is a plain text file.
+
+But there's little "plain" about it. It actually is a UTF-8 file. UTF-8 is a language that restricts you to writing sequences of characters, each character represented by a sequence of zeros and ones.
+
+You cannot draw pictures or make sounds or make images or make colors with this language.
+
+Compared to all the messages you could write on a 2D surface, the number of messages that the UTF-8 language allows you to write is tiny.
+
+***
+
+We should probably distinguish between languages which are defined via definitions and languages that have just evolved undefined alongside us for thousands of years.
+
+Let's use the terms *undefined languages* and *defined languages*.
+
+Most of your day is spent using undefined languages.
+
+Undefined languages are the original languages. The languages spoken by the cavemen, the nomads, our earliest ancestors; these are undefined languages. The language a baby speaks to its parents, the language a rooster crows to the hens, the smiles of two soulmates reuniting at an airport, these are undefined languages.
+
+While many publishers create books claiming to Define the English Language, the truth is that English is an undefined language, and that unlike computer languages, the restrictions of English are all fuzzy.
+
+***
+
+Defined languages are a modern invention, but far older than computers.
+
+Perhaps a legal, or maybe an accounting language, were the first defined language.
+
+Before those, all written languages were defined only by the physical limits of the materials used. You could write any marks, as many as you had the materials for, as big or as little, as distinguished or indistinguished as you'd like.
+
+But it turns out such total freedom had a disadvantage when it comes to communication.
+
+If you want to communicate something specific to your reader, you need to understand what parsers they are going to parser you writing with.
+
+Think of a parser as a memory.
+
+You can't see something you've never seen before. At the very least, it has to be at least composed of things you've seen before.
+
+Likewise, you can't read something not composed of things you've never read before. So your brain is composed of a large number of parsers, of memories, that are like the restrictions of a defined language.
+
+If your language has no restrictions, than there are no parsers for your readers to memorize, and messages in your language don't trigger anything specific at all. Every reading would trigger a random effect in the reader.
+
+For art, this might be desirable, but for conducting construction, science, medicine, commerce, government; not so much.
+
+So some people started to create defined languages. Perhaps the set of restrictions were communicated orally at first. But then these rules were marked onto a surface.
+
+And then over the centuries many thousands of defined languages were created for math, accounting, law, and so forth.
+
+***
+
+Then, the invention of electronic computing machines in the 1940's and 1950's led to the creation of thousands of new defined languages over the past 70 years.
+
+Each language defined its own set of restrictions (and thus, freedoms).
+
+It's been a survival of the fittest as to which set of restrictions works best in practice.
+
+It is in this competitive milieu that we are defining our new language stack: PPS.
+
+***
+
+Back to the original question, why are we defining a new language?
+
+Well, we stumbled upon a simpler set of restrictions that we think make our languages far more efficient, powerful and trustworthy than the competition.
+
+The languages that are dominant today have a lot of unnecessary restrictions, and miss out on a few simple very useful restrictions. These make them unnecessarily complex, inefficient, and not so trustworthy.
+
+When all your messages contain unnecessary pieces, you have zero chance of ever arriving at the perfect message. You're doomed to make suboptimal models from the start.
+
+Our language stack gives humans a chance to build as close to perfect a model of the world as you can get.
+
+Unnatural additions and inefficiencies stick out like a sore thumb. This makes it a compelling choice for governments, engineers, scientists, and so on.
+
+The new set of restrictions in the PPS stack allow us to do the same things in more natural, simpler, more efficient ways.
+
+Explore more here.
+ https://scroll.pub/
+
+****

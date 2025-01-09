@@ -4,10 +4,7 @@ openGraphImage pmfMirage.jpg
 tags All Startups
 title PMF Mirages
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 I typed `tail -f pageViews.log` into my console.
  dateline

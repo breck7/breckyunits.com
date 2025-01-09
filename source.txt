@@ -1,8 +1,18 @@
 Source
  https://breckyunits.com/
  
- Tue, 10 Dec 2024 22:31:36 +0000
+ Thu, 09 Jan 2025 17:26:55 +0000
  en-us
+ 
+The Permission Function
+https://breckyunits.com/thePermissionFunction.html
+Invalid Date
+
+ 
+Why Define a New Language?
+https://breckyunits.com/whyDefineANewLanguage.html
+Invalid Date
+
  
 Mitocycles
 https://breckyunits.com/mitocycle.html
@@ -371,6 +381,11 @@ Invalid Date
  
 Walking and other invisible tools of thought
 https://breckyunits.com/walking-as-a-tool-of-thought.html
+Invalid Date
+
+ 
+The Magnificent Multi-Agent Mind of Marvin Minsky
+https://breckyunits.com/marvin-minsky.html
 Invalid Date
 
  

@@ -2,9 +2,7 @@ date 6/2/2013
 tags All Programming Scroll WWS
 title ScrollNet: A successor to the Internet
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 I have an idea for a simpler Internet, where a human could hold in their head, how it all works, all at once.
  dateline
@@ -76,7 +74,7 @@ The complexity of current Internet protocols could be holding us back from an ev
 ****
 
 # Related Posts
-printRelated WWS
+printRelated Scroll
 
 ***
 

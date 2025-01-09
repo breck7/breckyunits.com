@@ -2,10 +2,7 @@ date 2024-4-2
 tags All Scroll Programming
 title Final Tree Notation Report
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 treeNotationTimeline.png
 

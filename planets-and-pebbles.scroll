@@ -2,9 +2,7 @@ date 2012-11-26
 tags All Thinking Logeracy Hits
 title Planets and Pebbles
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 For todo lists, I created a system I call planets and pebbles.
  dateline

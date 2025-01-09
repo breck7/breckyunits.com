@@ -1,11 +1,31 @@
 [
   {
+    "date": "12/15/2024",
+    "year": 2024,
+    "title": "The Permission Function",
+    "permalink": "thePermissionFunction.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom Society",
+    "wordCount": 289,
+    "minutes": 1.4
+  },
+  {
+    "date": "12/10/2024",
+    "year": 2024,
+    "title": "Why Define a New Language?",
+    "permalink": "whyDefineANewLanguage.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll",
+    "wordCount": 845,
+    "minutes": 4.2
+  },
+  {
     "date": "12/03/2024",
     "year": 2024,
     "title": "Mitocycles",
     "permalink": "mitocycle.html",
     "authors": "Breck Yunits",
-    "tags": "All",
+    "tags": "All Mitochondria BipolarEnergy",
     "wordCount": 212,
     "minutes": 1.1
   },
@@ -16,7 +36,7 @@
     "permalink": "breckchain.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll",
-    "wordCount": 52,
+    "wordCount": 59,
     "minutes": 0.3
   },
   {
@@ -45,7 +65,7 @@
     "title": "A New Scientific Model of Mania and Depression, with Testable Predictions",
     "permalink": "bipolarModel.html",
     "authors": "Breck Yunits",
-    "tags": "BipolarEnergy AllPapers All",
+    "tags": "BipolarEnergy AllPapers All Ketones Mitochondria",
     "wordCount": 441,
     "minutes": 2.2
   },
@@ -145,7 +165,7 @@
     "title": "The Liver Turns On and Off",
     "permalink": "liver.html",
     "authors": "Breck Yunits",
-    "tags": "All Life Ketones BipolarEnergy",
+    "tags": "All Life Ketones BipolarEnergy Mitochondria",
     "wordCount": 283,
     "minutes": 1.4
   },
@@ -255,9 +275,9 @@
     "title": "The Journey of the Ketones",
     "permalink": "ketoneMap.html",
     "authors": "Breck Yunits",
-    "tags": "All Ketones BipolarEnergy",
-    "wordCount": 460,
-    "minutes": 2.3
+    "tags": "All Ketones BipolarEnergy Mitochondria",
+    "wordCount": 479,
+    "minutes": 2.4
   },
   {
     "date": "08/05/2024",
@@ -586,8 +606,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1924,
-    "minutes": 9.6
+    "wordCount": 1937,
+    "minutes": 9.7
   },
   {
     "date": "03/30/2024",
@@ -738,6 +758,16 @@
     "tags": "All Writing Hits",
     "wordCount": 845,
     "minutes": 4.2
+  },
+  {
+    "date": "05/09/2023",
+    "year": 2023,
+    "title": "The Magnificent Multi-Agent Mind of Marvin Minsky",
+    "permalink": "marvin-minsky.html",
+    "authors": "Breck Yunits",
+    "tags": "All BipolarEnergy Life Minsky",
+    "wordCount": 1170,
+    "minutes": 5.8
   },
   {
     "date": "04/28/2023",
@@ -1046,7 +1076,7 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 3951,
+    "wordCount": 3964,
     "minutes": 19.8
   },
   {
@@ -1256,8 +1286,8 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 624,
-    "minutes": 3.1
+    "wordCount": 1179,
+    "minutes": 5.9
   },
   {
     "date": "04/02/2013",

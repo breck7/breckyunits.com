@@ -1,6 +1,16 @@
 Breck's Blog
 ============
 
+The Permission Function
+=======================
+12/15/2024
+https://breckyunits.com/thePermissionFunction.html
+
+Why Define a New Language?
+==========================
+12/10/2024
+https://breckyunits.com/whyDefineANewLanguage.html
+
 Mitocycles
 ==========
 12/03/2024
@@ -370,6 +380,11 @@ Walking and other invisible tools of thought
 ============================================
 05/19/2023
 https://breckyunits.com/walking-as-a-tool-of-thought.html
+
+The Magnificent Multi-Agent Mind of Marvin Minsky
+=================================================
+05/09/2023
+https://breckyunits.com/marvin-minsky.html
 
 Enchained Symbols
 =================
@@ -1136,4 +1151,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v162.1.0
+Built with Scroll v165.4.0

@@ -2,9 +2,7 @@ date 3/6/2023
 tags All IntellectualFreedom
 title A Public Domain Human
 
-header.scroll
-printTitle
-mediumColumns 1
+singleHeader.scroll
 
 # Open sourcing more of my life for honesty
 

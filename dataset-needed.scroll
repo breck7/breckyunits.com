@@ -2,10 +2,7 @@ date 2020-01-23
 tags All Data Thinking Society Writing IntellectualFreedom ScrollSets
 title Dataset Needed
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 People make biased claims all the time. A decent response used to be "citation needed". But we should demand more. Anytime someone makes a claim that seems biased, call them out with: *_Dataset needed_*.
  dateline

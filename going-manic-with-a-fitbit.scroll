@@ -2,10 +2,7 @@ date 1/13/2018
 tags BipolarEnergy
 title Going Manic with a FitBit
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 mania/3yrsSleepData.webp
 

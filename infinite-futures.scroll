@@ -2,10 +2,7 @@ date 2013-02-12
 tags All Life Thinking
 title Infinite Futures
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 You shouldn't plan for _the_ future. You should plan for *one of many* futures.
  dateline

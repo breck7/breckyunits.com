@@ -2,10 +2,7 @@ date 2017-06-23
 tags All Data Programming Startups Scroll
 title Ohayo
 
-header.scroll
-printTitle
-
-thinColumns 1
+singleHeader.scroll
 
 I just pushed a project I've been working on called Ohayo.
  https://ohayo.breckyunits.com Ohayo

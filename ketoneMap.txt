@@ -75,6 +75,11 @@ But now I have more confidence in my understanding of ketones at the macro level
 
 My journey to understand the human body continues! Thanks for coming along.
 
+A New Scientific Model of Mania and Depression, with Testable Predictions
+=========================================================================
+11/07/2024
+https://breckyunits.com/bipolarModel.html
+
 The Liver Turns On and Off
 ==========================
 09/19/2024
@@ -96,4 +101,4 @@ Notes
 =====
 - I snapped these photos on Sunday.
 
-Built with Scroll v162.1.0
+Built with Scroll v165.4.0

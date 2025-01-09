@@ -3,9 +3,7 @@ openGraphImage rootThinking.png
 tags All Programming Thinking Scroll
 title Root Thinking
 
-header.scroll
-printTitle
-thinColumns 1
+singleHeader.scroll
 
 I dislike the term _first principles thinking_. It's vaguer than it needs to be. I present an alternate term: *root thinking*. It is shorter, more accurate, and contains a visual:
  dateline

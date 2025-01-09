@@ -2,10 +2,7 @@ date 7/14/2019
 tags All Scroll Programming
 title Removing the 2’s from Trinary Notation is a Terrible Idea.
 
-header.scroll
-printTitle
-
-mediumColumns 1
+singleHeader.scroll
 
 binary.webp
  width 300
