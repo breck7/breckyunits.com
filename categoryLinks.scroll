@@ -1,6 +1,6 @@
 importOnly
 
-nav categoryPages
+fileNav categoryPages
 css
  .scrollNavParser {text-align: center; font-size: 14px; margin: 8px;}
  nav a { margin: 0 5px;}
