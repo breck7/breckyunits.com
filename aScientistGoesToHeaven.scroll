@@ -4,7 +4,7 @@ title Three Scientists Go To Heaven
 
 header.scroll
 
-thinColumns 1
+container 400px
 
 printTitle
 
