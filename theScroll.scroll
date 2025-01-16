@@ -61,19 +61,19 @@ A non-toxic, intelligent, trustworthy successor to the web that works offline.
 ***
 
 It's a language
- class highlight language
+ addClass highlight language
 
 It's a library
- class highlight library
+ addClass highlight library
 
 It's a liberation
- class highlight liberation
+ addClass highlight liberation
 
 ***
 
 Scroll is a language
- class highlight language
- class highlight Scroll
+ addClass highlight language
+ addClass highlight Scroll
 
 <pre style="white-space: pre; text-align: left; display:block; padding-left: 200px;">
  <span style="color:purple;">print</span>
@@ -89,8 +89,8 @@ PPS: Particles. Parsers. Scroll.
 ***
 
 Scroll is a library
- class highlight library
- class highlight Scroll
+ addClass highlight library
+ addClass highlight Scroll
 
 <code style="margin-bottom: 40px;">wws register</code>
 <code style="margin-bottom: 40px;">wws push</code>
@@ -101,8 +101,8 @@ Scroll is a library
 ***
 
 Scroll is a liberation
- class highlight Scroll
- class highlight liberation
+ addClass highlight Scroll
+ addClass highlight liberation
 
 #buildPublicDomain
 
