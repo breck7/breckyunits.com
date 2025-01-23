@@ -20,7 +20,7 @@ endSnippet
 
 The Pearson Correlation is high: 0.894. Here's the raw data:
 
-table
+datatable
  printTable
  delimiter ,
  data

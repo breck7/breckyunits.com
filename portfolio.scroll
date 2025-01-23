@@ -31,7 +31,7 @@ css
   overflow: hidden;
  }
 
-table
+datatable
  where year > 2000
   limit 0 100
    orderBy -year

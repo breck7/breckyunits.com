@@ -143,7 +143,7 @@ It gives me hope that there are so many smart, caring, hard working people tryin
 ****
 
 # Appendix: Table of start of elevated energy episodes
-table
+datatable
  printTable
  data
   Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?

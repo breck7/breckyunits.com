@@ -37,7 +37,7 @@ Setting smaller goals is better because:
 # Setting Ranges
 Another way to set goals is to use ranges. Set a low bar and a high bar. For example, your weekly goals might be:
 
-table
+datatable
  printTable
  delimiter ,
  data

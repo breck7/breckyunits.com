@@ -7,7 +7,7 @@ singleHeader.scroll
 Possibly the biggest mistake a web startup can make is to develop in a bubble. This is based on my own experience launching 13 different websites over the past 4 years. The raw numbers:
  dateline
 
-table
+datatable
  printTable
  data
   Type Count Successes TimeToLaunch CumulativeGrossRevenues %ofTotalTraffic CumulativeProfits EmotionalToll

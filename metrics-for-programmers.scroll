@@ -18,7 +18,7 @@ I thought it would be neat to compute some stats for popular open source PHP app
 
 My results are below. I don't have any particular profound insights at the moment, but I thought I'd share my work as I'm doing it in the hopes that maybe someone else would find it useful.
 
-table
+datatable
  printTable
  delimiter |
  data
