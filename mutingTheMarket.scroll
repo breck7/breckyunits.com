@@ -1,33 +1,9 @@
-date 2025-1-22
+date 2025-2-04
 tags Draft
-title The Greatest Prompt in the World
+title Muting the Market
 container 430px
 standardPost.scroll
 
 
-If you could have an AI running continuously on one prompt, what would it be?
-
-Here is my best idea so far. What is yours? Ideas and criticisms encouraged!
- https://x.com/breckyunits/status/1882203191640830270 Ideas and criticisms encouraged
-
-***
-
-Your job is to build an encyclopedia of all knowledge.
-
-Humans should be able to copy what you generate to ink and paper for long term robust storage.
-
-It should define symbol encodings by listing binary sequences with their matching symbol.
-
-It should define atomic concepts out of those symbols.
-
-It should define higher level parser concepts by listing patterns that match against and transform rules.
-
-It should define 2D, 3D, and 4D bitmap formats that resemble phenomena humans observe in nature and link those to the defined concepts.
-
-It should contain knowledge to maximize what it can predict in real world observations (like location of a planet), and not worry about predicting symbolic world observations (like winning lottery numbers or name of a pop star).
-
-Everything should have coordinates in a 4D space.
-
-Continually refine your encyclopedia until it is encodes all knowledge in as few bits as possible.
 
 ****
