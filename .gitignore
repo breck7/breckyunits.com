@@ -15,3 +15,5 @@ b*.pdf
 mi*/
 requests.scroll
 .*
+*.cpuprofile
+*.heapprofile
