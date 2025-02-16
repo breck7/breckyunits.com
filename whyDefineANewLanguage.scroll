@@ -54,7 +54,7 @@ If you want to communicate something specific to your reader, you need to unders
 
 Think of a parser as a memory.
 
-You can't see something you've never seen before. At the very least, it has to be at least composed of things you've seen before.
+You can't parse something you've never seen before. At the very least, it has to be at least composed of things you've seen before.
 
 Likewise, you can't read something not composed of things you've never read before. So your brain is composed of a large number of parsers, of memories, that are like the restrictions of a defined language.
 
