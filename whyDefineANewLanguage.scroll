@@ -50,7 +50,7 @@ Before those, all written languages were defined only by the physical limits of 
 
 But it turns out such total freedom had a disadvantage when it comes to communication.
 
-If you want to communicate something specific to your reader, you need to understand what parsers they are going to parser you writing with.
+If you want to communicate something specific to your reader, you need to understand what parsers they are going to parse your writing with.
 
 Think of a parser as a memory.
 
