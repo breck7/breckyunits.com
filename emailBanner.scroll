@@ -1,4 +1,5 @@
-div
+//
+ div
  id emailBanner
  class banner hide
  form
@@ -10,7 +11,7 @@ div
    onclick hideEmailList()
    class closeBannerButton 
 
-css
+// css
  .banner {
    background: #f0f0f0;
    padding: 10px;
@@ -18,7 +19,7 @@ css
  }
  .closeBannerButton {cursor:pointer;display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border-radius: 50%; background: rgba(0, 0, 0, 0.1); color: #666; text-decoration: none; font-family: arial; font-size: 14px; line-height: 1; transition: all 0.2s ease; position: relative; top: -1px;}
  .hide { display: none; }
-script
+// script
  if (localStorage.getItem('subscribed') !== 'true')
   document.getElementById('emailBanner').classList.remove('hide');
  function hideEmailList() {
