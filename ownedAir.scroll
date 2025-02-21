@@ -1,6 +1,7 @@
 date 2025-2-17
 tags All IntellectualFreedom Fiction
 title Owned Air
+// other name ideas: Tagged Air. Toxygen
 header.scroll
 
 container 600px
@@ -46,7 +47,11 @@ css .printTitleParser,.printDateParser,.printAuthorsParser {text-align: left !im
 
 "Well we've finally built it."
 
-"What's your go to market plan?"
+"And tagged air is safe?"
+
+"Scientifically proven. We conducted a rigorous 3 month controlled experiment and observed no harmful effects. Actually, our results are about to be published in Nature."
+
+"Brilliant. What's your go to market plan?"
 
 "Move fast. Create a frenzy. 'Right now 99.99% of oxygen is unowned. Tag your share, before someone else does.' We let people know there hasn't been a land grab like this since the Great Western Expansion."
 
