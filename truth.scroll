@@ -49,6 +49,8 @@ If you were to plant a temperature sensor on the moon or add images from a high 
 
 The idea is you want to not just make many measurements from many angles, but you also want to look at things from _wildly_ different angles. These different perspectives can often be critical for preventing cherry-picked datasets that present overly simplified or misleading models.
 
+The key thing to keep in mind that mining information has costs-it is much cheaper to add more information that looks at things from similar perspectives of existing information-and so to arrive at truth you must make an extra effort to add orthoganal perspectives.
+
 ***
 
 You can use this method to build a model to understand anything, no matter how complex.
