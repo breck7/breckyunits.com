@@ -54,6 +54,9 @@ In addition, we put out a lot of other stuff that is also promising:
 ## ScrollHub
  https://hub.scroll.pub/
 A very powerful web server and editing environment being built especially to accelerate the building of ScrollSets.
+## Particles, Parsers, and Scroll
+ https://scroll.pub/
+The Scroll language itself and the layers it is built on (Particles and Parsers) improved a great deal throughout the year. We started the year on version 72, and ended on version 162!
 # E=T/A! and The Permission Function
  eta.html E=T/A!
  thePermissionFunction.html The Permission Function
