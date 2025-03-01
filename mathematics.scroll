@@ -54,8 +54,8 @@ mathematics/particles.png
 Holes are Particles that contain an identification atom and a list of atoms that fit that hole.
 mathematics/holes.png
 
-# Parsers
-Parsers are a type of particle who's atoms and subparticles define holes. Parsers are pressed against other particles and bind to particles who's subparticles and atoms fit a parser's holes.
+# Parsers ★
+Parsers are a type of particle who's atoms and subparticles define holes. Parsers are pressed against other particles and bind to particles who's subparticles and atoms fit a parser's holes. I put a ★ next to Parsers to indicate that these are the thing you should study to understand this system.
 mathematics/parsers.png
 
 # Transforms
