@@ -1,0 +1,83 @@
+date 2025-3-2
+tags All Scroll
+title What is Particle Syntax?
+container 500px
+standardPost.scroll
+
+_The below is a chapter from a short book I am working on. Feedback appreciated_
+
+***
+
+Particle Syntax (Particles) is a minimal syntax for parsing documents.
+
+What is a syntax? Think of it like a set of rules that tell you how to split a document into components and what to label those components. Particles fits in the category of syntaxes that includes XML, S-Expressions, JSON, TOML or YAML.
+
+Particles is unique in that it is the most minimal of these.
+
+How minimal is Particles? Very! The file below uses everything in the syntax:
+
+code
+ post
+  title Particles
+
+Particles divides a document into 3 kinds of things:
+
+- *Atoms*
+- *Particles*
+- *Subparticles*
+
+*Atoms* are just words. A word is just a sequence of visible characters (no spaces in words). The document above has 3 atoms: "post", "title", and "Particles". In Particles, atoms are separated by a single space. Particles has no understanding of what these words mean. Particles does not have the concept of number, for example. Every visible character in Particles is just part of an atom and that's it. If you have the line `a b`, that would be be split into 2 atoms, "a" and "b". If you were to add an extra space `a  b`, that would now be 3 atoms, "a", "", and "b". So an atom can be of length 0.
+
+The *particles* in Particles contain 2 things: a list of atoms, and optionally, a list of subparticles.
+
+*Subparticles* are just particles that belong to a parent particle.
+
+In the example above, the particle starting with "post" is actually a subparticle of the root particle, which is the document itself.
+
+The particle starting with "title" is a subparticle of the particle starting with "post".
+
+The particle starting with "title" has 2 atoms, "title" and "Particles", and zero subparticles.
+
+The particle starting with "post" has 1 atom, "post", and 1 subparticle.
+
+You make one particle a subparticle of another by indenting it one more space than it's parent particle. If we deleted the space before "title", then the line beginning with "title" would become the second subparticle of the root particle, and the line beginning with "post" would have zero subparticles. If we added another space before "title", that line would still be a subparticle of the "post" particle, and all that would change would be that we added a blank atom at the beginning of that particle's atoms list, and it would now have three atoms.
+
+# Exercises
+Try to solve the exercises below. The answers are in the source code to this page.
+
+quizParser
+ extends scrollQuestionParser
+ cue quiz
+
+code
+ if true
+  print Hello world
+
+quiz In the code above, how many atoms are there?
+// 5
+
+quiz How many particles?
+// 3
+ The particles starting with if, print, and root document particle
+
+quiz How many subparticles?
+// 2
+ "if true" is a subparticle of the root particle, and "print Hello world" is a subparticle of "if true"
+
+quiz How many extra spaces does it take to make a particle a subparticle of the particle above it?
+// 1
+
+code
+ a
+ b
+ c
+
+quiz How many particles in the example above, excluding the root particle?
+// 3
+
+quiz How many atoms does a blank line have?
+// 1
+ The empty atom ""
+
+****
+
