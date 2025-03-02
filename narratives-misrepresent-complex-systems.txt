@@ -15,7 +15,7 @@ With this picture in mind, let's do a thought experiment.
 
 Let's imagine that right now, once again, Billy and his mom are standing in the laundry room and she's about to give him the mail. What are the odds that Billy gets to the mailbox in time?
 
-Pick a range, and then click here to see the answer.
+Pick a range, and then <a onclick="document.getElementById('answer').style.display='block'" style="color:blue; cursor: pointer;">click here</a> to see the answer.
 
 If you answered: "somewhere between 0 and 100%" you were correct! If your answer was any more precise than that, you were wrong. Given only the single narrative above, you would have no basis for being more confident than a random guess between 0 and 1.
 
@@ -94,4 +94,4 @@ English cannot encode Real News
 08/19/2019
 https://breckyunits.com/english-cannot-encode-real-news.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

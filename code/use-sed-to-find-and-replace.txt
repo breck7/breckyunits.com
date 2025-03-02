@@ -24,9 +24,9 @@ That's one command I used to add quotes around 1.0.1, which I forgot to do. Alas
 Notes
 =====
 
-- sed tutorial
-- findAndReplace with sed
-- sed on about.com
-- Very clear examples
+- sed <a href="https://www.grymoire.com/Unix/Sed.html">tutorial</a>
+- <a href="https://www.brunolinux.com/02-The_Terminal/Find_and%20Replace_with_Sed.html">findAndReplace</a> with sed
+- sed on <a href="https://linux.about.com/od/bgb_guide/a/gdebgb44t03.htm">about.com</a>
+- Very clear <a href="https://drupal.org/node/128513">examples</a>
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

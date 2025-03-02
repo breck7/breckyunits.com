@@ -40,7 +40,7 @@ My next move was to look closer at the open source implementation we were using.
 # Benchmarking shows closer to n² than n·log(n)
 Indeed, my benchmark results indicated `ckmeans` was closer to the much slower `O(n²)` class than the claimed `O(n·log(n))` class.
 
-table
+datatable
  delimiter ,
  data
   Rows,Time
@@ -98,7 +98,7 @@ the-three-byte-fix.png
 
 You can easily see the difference when you look at time needed per additional row as the number of rows increases:
 
-table
+datatable
  delimiter ,
  printTable
  data
@@ -107,7 +107,7 @@ table
   200000,17.60964,200000,569.43,1.62
 
 expander Full Dataset
-table
+datatable
  delimiter ,
  printTable
  data

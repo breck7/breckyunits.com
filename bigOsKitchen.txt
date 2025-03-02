@@ -6,7 +6,7 @@ Menu Instructions
 
 Congrats on landing a job at Big O's Kitchen!
 
-Our menu has *7 dishes*.
+Our menu has *<span style="color:#c42c1f;">7 dishes<span>*.
 
 Below are the instructions for making each dish.
 
@@ -99,4 +99,4 @@ Orders of Magnitude
 12/07/2009
 https://breckyunits.com/orders-of-magnitude.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

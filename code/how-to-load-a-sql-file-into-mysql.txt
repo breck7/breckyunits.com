@@ -2,7 +2,7 @@ How to load a sql file into MySql
 =================================
 January 6, 2010
 
-It's very simple thanks to pipes.
+It's very simple thanks to <a href="http://breckyunits.com/code/write?post=1264563439">pipes</a>.
 
 ```
 mysql -u username -p < sqlfile.sql
@@ -10,4 +10,4 @@ mysql -u username -p < sqlfile.sql
 
 Make sure your sql file has a "use database" line.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

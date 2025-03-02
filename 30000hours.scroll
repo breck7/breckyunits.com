@@ -20,7 +20,7 @@ But five coders wrote back.
 
 This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting--and a testament to practice!
 
-table
+datatable
  printTable
  delimiter ,
  data

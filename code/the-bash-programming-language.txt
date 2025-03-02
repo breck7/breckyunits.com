@@ -23,7 +23,7 @@ Start your scripts with #!/bin/bash
 Here's your first bash script (name it hello.sh):
 
 ```
-#!/bin/bash
+#!/bin/bash<br>
 echo "Hello World"
 ```
 
@@ -32,7 +32,7 @@ The *echo* command prints a string and also a new line at the end.
 Running your script
 ===================
 
-Your script must be **executable**. To make it executable, you need to change the file permissions. This would make your hello.sh script executable:
+Your script must be **executable**. To make it executable, you need to change the <a href="fix-permission-problems-using-chmod.html">file permissions</a>. This would make your hello.sh script executable:
 
 ```
 chmod 777 hello.sh
@@ -121,4 +121,4 @@ Notice what's going on with parameter passing and scope.
 
 That's it for now. As you can see, BASH is a very clean, simple, yet powerful programming language. Get started with it slowly and gradually build up your skills with it.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

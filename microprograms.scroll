@@ -23,7 +23,7 @@ Building these microprograms, aka _microprogramming_, is different than traditio
 
 In a microprogram every line of code can be its own program.
 
-table
+datatable
  printTable
  data
   Type,Files,Lines Of Code,Programs

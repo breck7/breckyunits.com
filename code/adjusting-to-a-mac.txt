@@ -6,7 +6,7 @@ For the third time in my life I've gotten a Macbook. The previous two times I re
 
 After a week I'm finally starting to get used to it. I'm starting to really customize it and that seems to make all the difference. I've removed nearly everything from the dock, added a bunch of things to my bash profile, and a friend at work gave me a crash course in Textmate.
 
-I've downloaded a program called Sizeup, which not only emulates the awesome "Snap" feature of Windows 7, but in fact is even better. It gives you the left/right 50% snap feature just like in Win7, but also lets you snap things into top/bottom and even snap things into quadrants. Pretty nice software.
+I've downloaded a program called <a href="http://www.irradiatedsoftware.com/sizeup/">Sizeup</a>, which not only emulates the awesome "Snap" feature of Windows 7, but in fact is even better. It gives you the left/right 50% snap feature just like in Win7, but also lets you snap things into top/bottom and even snap things into quadrants. Pretty nice software.
 
 Firefox is my favorite of the 3 browsers on the Mac. I loved Chrome on Windows because it was so fast, but this Air is so blazing fast that running Firefox or Chrome on Mac makes little difference.
 
@@ -24,4 +24,4 @@ All in all, I'm really enjoying the speed, instant on, the light weight of the c
 
 I'd say the odds at this point are 60-40 in favor of me sticking with it this time.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

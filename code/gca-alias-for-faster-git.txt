@@ -8,10 +8,10 @@ One of my most frequent commands is:
 git commit -am "message"
 ```
 
-I made a simple alias to save keystrokes:
+I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystrokes:
 
 ```
 alias gca="git commit -am "
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

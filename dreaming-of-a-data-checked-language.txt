@@ -3,13 +3,13 @@ Dreaming of a Data Checked Language
 
 January 3, 2020
 
-Speling errors and errors grammar are nearly extinct in published content. *Data errors*, however, are prolific.
+<span class="redSquig">Speling</span> errors and <span class="greenSquig">errors grammar</span> are <span class="dataError">nearly extinct in published content</span>. *Data errors*, however, <span class="dataError">are prolific</span>.
 
 By data error I mean one the following errors: a statement without a backing dataset and/or definitions, a statement with data but a bad reduction(s), or a statement with backing data but lacking integrated context. I will provide examples of these errors later.
 
-The hard sciences like physics, chemistry and most branches of engineering have low tolerance for data errors. But outside of those domains data errors are everywhere.
+The hard sciences like physics, chemistry and most branches of engineering have low tolerance for data errors. <span class="dataError">But outside of those domains data errors are everywhere</span>.
 
-Fields like medicine, law, media, policy,  the social sciences, and many more are teeming with data errors, which are far more consequential than spelling or grammar errors. If a drug company misspells the word dockter in some marketing material the effect will be trivial. But if that material contains data errors those often influence terrible medical decisions that lead to many deaths and wasted resources.
+<span class="dataError">Fields like medicine, law, media, policy,  the social sciences, and many more are teeming with data errors, which are far more consequential than spelling or grammar errors</span>. If a drug company misspells the word <span class="redSquig">dockter</span> in some marketing material the effect will be trivial. But if that material contains data errors those <span class="dataError">often influence terrible medical decisions that lead to many deaths and wasted resources</span>.
 
 If Data Errors Were Spelling Errors
 ===================================
@@ -19,7 +19,7 @@ You would be skeptical of National Geographic if their homepage looked like this
 
 We generally expect zero spelling errors when reading any published material.
 
-Spell checking is now an effortless technology and everyone uses it. Published books, periodicals, websites, tweets, advertisements, product labels: we are accustomed to reading content at least 99% free of spelling and grammar errors. But there's no equivalent to a spell checker for data errors and when you look for them you see them everywhere.
+Spell checking is now an effortless technology and <span class="dataError">everyone uses it</span>. Published books, periodicals, websites, tweets, advertisements, product labels: <span class="dataError">we are accustomed to reading content at least 99% free of spelling and grammar errors</span>. But there's no equivalent to a spell checker for data errors and when you look for them you see them everywhere.
 
 The Pandemic: An Experiment
 ===========================
@@ -80,28 +80,28 @@ The Problem is Language Tools
 =============================
 I don't think anyone's to blame for the proliferation of data errors. I think it's still relatively recent that we've harnessed the power of data in specialized domains, and no one has yet invented ways to easily and fluently incorporate true data into our human languages.
 
-Human languages have absorbed a number of sublanguages over thousands of years that have made it easier to communicate with ease in a more precise way. The base 10 number system  (0,1,2,3,4,5,6,7,8,9) is one example that made it a lot easier to utilize arithmetic.
+<span class="dataError">Human languages have absorbed a number of sublanguages over thousands of years</span> that have made it easier to communicate with ease in a more precise way. The base 10 number system  (0,1,2,3,4,5,6,7,8,9) is one example that made it a lot easier to utilize arithmetic.
 
 Taking Inspiration from Programming Language Design
 ===================================================
-Domains with low tolerance for data errors, like aeronautical engineering or computer chip design, are heavily reliant on programming languages. I think it's worthwhile to explore the world of programming language design for ideas that might inspire improvements to our everyday human languages.
+Domains with low tolerance for data errors, <span class="dataError">like aeronautical engineering or computer chip design</span>, are heavily reliant on programming languages. I think it's worthwhile to explore the world of programming language design for ideas that might inspire improvements to our everyday human languages.
 
-Some quick numbers for people not familiar with the world of programming languages. Around 10,000 computer languages have been released in history (most of them in the past 70 years). About 50-100 of those have more than a million users worldwide and the names of some of them may be familiar to even non-programmers such as Java, Javascript, Python, HTML or Excel.
+Some quick numbers for people not familiar with the world of programming languages. <span class="dataError">Around 10,000 computer languages have been released in history (most of them in the past 70 years)</span>. <span class="dataError">About 50-100 of those have more than a million users worldwide</span> and the names of some of them may be familiar to even non-programmers such as Java, Javascript, Python, HTML or Excel.
 
-Not all programming languages are created equal. The designers of a language end up making thousands of decisions about how their particular language works. While English has evolved with little guidance over millennia, programming languages are often designed consciously by small groups and can evolve much faster.
+Not all programming languages are created equal. The designers of a language end up making <span class="dataError">thousands of decisions</span> about how their particular language works. While <span class="dataError">English has evolved with little guidance over millennia</span>, programming languages are often designed consciously by small groups and <span class="dataError">can evolve much faster</span>.
 
 Often the designers change a language to make it easier to do something good or harder to do something bad.
 
 Sometimes what is good and bad is up to the whims of the designer. Imagine I was an overly optimistic person and decided that English was too boring or pessimistic. I may invent a language without periods, where all sentences must end with an exclamation point! I'll call it Relish!
 
-Most of the time though, as data and experience accumulates, a rough consensus emerges about what is good and bad in language design (though this too seesaws).
+<span class="dataError">Most of the time though, as data and experience accumulates, a rough consensus emerges</span> about what is good and bad in language design (though this too seesaws).
 
 Typed Checked Languages
 =======================
 
-One of the patterns that has emerged as generally a good thing over the decades to many languages is what's called "type checking". When you are programming you often create buckets that can hold values. For example, if you were programming a function that regulated how much power a jet engine should supply, you might take into account the reading from a wind speed sensor and so create a bucket named "windSpeed".
+One of the patterns that has <span class="dataError">emerged</span> as generally a good thing over the decades to many languages is what's called "type checking". When you are programming you often create buckets that can hold values. For example, if you were programming a function that regulated how much power a jet engine should supply, you might take into account the reading from a wind speed sensor and so create a bucket named "windSpeed".
 
-Some languages are designed to enforce stricter logic checking of your buckets to help catch mistakes. Others will try to make your program work as written. For example, if later in your jet engine program you mistakenly assigned the indoor air temperature to the "windSpeed" bucket, the parsers of some languages would alert you while you are writing the program, while with some other languages you'd discover your error in the air. The former style of languages generally do this by having "type checking".
+<span class="dataError">Some languages</span> are designed to enforce stricter logic checking of your buckets to help catch mistakes. <span class="dataError">Others</span> will try to make your program work as written. For example, if later in your jet engine program you mistakenly assigned the indoor air temperature to the "windSpeed" bucket, the parsers of some languages would alert you while you are writing the program, while with some other languages you'd discover your error in the air. The former style of languages generally do this by having "type checking".
 
 Type Checking of programming languages is somewhat similar to Grammar Checking of English, though it can be a lot more extensive. If you make a change in one part of the program in a typed language, the type checker can recheck the entire program to make sure everything still makes sense. This sort of thing would be very useful in a data checked language. If your underlying dataset changes and conclusions anywhere are suddenly invalid, it would be helpful to have the checker alert you.
 
@@ -112,22 +112,22 @@ A Blue Squiggly to Highlight Data Errors
 
 Perhaps what we need is a new color of squiggly:
 
-✅ Spell Checkers: red squiggly
+✅ Spell Checkers: <span class="redSquig">red squiggly</span>
 
-✅ Grammar Checkers: green squiggly
+✅ Grammar Checkers: <span class="greenSquig">green squiggly</span>
 
-❌ Data Checkers: blue squiggly
+❌ Data Checkers: <span class="blueSquig">blue squiggly</span>
 
-If we had a data checker that highlighted data errors we would eventually see a drastic reduction in data errors.
+If we had a data checker that highlighted data errors <span class="dataError" title="Dataless Forecast. Lack of Definitions.">we would eventually see a drastic reduction in data errors</span>.
 
-If we had a checker for data errors appear today our screens would be full of blue. For example, click the button below to highlight just some of the data errors on this page alone.
+If we had a checker for data errors appear today our screens <span class="dataError">would be full of blue</span>. For example, click the button below to highlight just some of the data errors on this page alone.
 
 How Do We Reduce Data Errors?
 =============================
 
-If someone created a working data checker today and applied it to all of our top publications, blue squigglies would be everywhere.
+If someone created a working data checker today and applied it to all of our top publications, <span class="dataError" title="Dataless Forecast">blue squigglies would be everywhere</span>.
 
-It is very expensive and time consuming to build datasets and make data driven statements without data errors, so am I saying until we can publish content free of data errors we should stop publishing most of our content? *YES*! If you don't have anything true to say, perhaps it's best not to say anything at all. At the very least, I wish all the publications above had disclaimers about how laden with data errors their stories are.
+<span class="dataError">It is very expensive and time consuming to build datasets</span> and make data driven statements without data errors, so am I saying until we can publish content free of data errors we should stop publishing most of our content? *YES*! If you don't have anything true to say, perhaps it's best not to say anything at all. At the very least, I wish all the publications above had disclaimers about how laden with data errors their stories are.
 
 Of course I don't believe either of those are likely to happen. I think we are stuck with data errors until people have invented great new things so that it becomes a lot easier to publish material without data errors. I hope we somehow create a data checked language.
 
@@ -137,7 +137,7 @@ While I don't know what the solution will be, I would not be surprised if the fo
 
 1. *Radical increases in collaborative data projects* It is very easy for a person or small group to crank out content laden with data errors. It takes small armies of people making steady contributions over a long time period to build the big datasets that can power content free of data errors.
 
-2. *Widespread improvements in data usability*. Lots of people and organizations have moved in the past decade to make more of their data open. However, it generally takes hours to become fluent with one dataset, and there are millions of them out there. Imagine if it took you hours to ramp on a single English word. That's the state of data usability right now. We need widespread improvements here to make integrated contexts easier.
+2. *Widespread improvements in data usability*. <span class="dataError">Lots of people and organizations have moved in the past decade to make more of their data open</span>. However, it generally <span class="dataError">takes hours</span> to become fluent with one dataset, and there are <span class="dataError">millions</span> of them out there. Imagine if it took you hours to ramp on a single English word. That's the state of data usability right now. We need widespread improvements here to make integrated contexts easier.
 
 3. *Stop subsidizing content laden with data errors*. We grant monopolies on information and so there's even more incentive to create stories laden with data errors—because there are more ways to lie than to tell the truth. We should revisit intellectual monopoly laws.
 
@@ -164,4 +164,4 @@ Dataset Needed
 01/23/2020
 https://breckyunits.com/dataset-needed.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

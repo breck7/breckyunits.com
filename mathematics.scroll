@@ -1,0 +1,74 @@
+date 2025-2-23
+tags All Scroll
+title What is Mathematics?
+container 430px
+standardPost.scroll
+
+// thinColumns 2
+
+center
+As single page PDF
+ link mathematics.pdf
+
+# Introduction
+
+I sit with my coffee and wonder, can I explain the general pattern of Mathematics on a single page?
+
+My gut says yes, my brain says maybe, and so I shall give it a go.
+
+### Mathematics, the written language
+
+I aim to explain the essential concepts of the Mathematics humans write on rectangular surfaces. In order words, I'm limiting my scope to talk about _2D written mathematics_ only. Even written math is out of scope, as I've already shown that in earlier work.
+ // Thanks to InterneticMdA for the feedback
+ treeNotation.html earlier work
+
+My claims are limited to that scope, though you may find these concepts useful beyond this.
+
+### Cheating, a bit
+
+I need to admit that although this essay shall not exceed a page (including illustrations), I am undercounting the length of my explanation of Mathematics because I am ignoring the considerable requirements the reader must have developed to be able to parse English.
+
+***
+
+Ok. No more caveats. Time for the essential concepts in Mathematics.
+
+***
+
+# Pixel Surface
+Mathematics requires a 2D contiguous grid of Pixels whose color can be altered.
+mathematics/pixels.png
+
+# Cells
+Mathematics requires the ability to draw or envision membranes around contiguous groups of pixels to form Cells.
+mathematics/cells.png
+
+# Atoms
+Mathematics requires Atoms, which are single indivisible cells with colored pixels.
+mathematics/atoms.png
+
+# Particles
+Mathematics requires Particles, which are contiguous regions that can contain atoms and other particles recursively (called subparticles).
+mathematics/particles.png
+
+# Holes
+Holes are Particles that contain an identification atom and a list of atoms that fit that hole.
+mathematics/holes.png
+
+# Parsers ★
+Parsers are a type of particle who's atoms and subparticles define holes. Parsers are pressed against other particles and bind to particles who's subparticles and atoms fit a parser's holes. I put a ★ next to Parsers to indicate that these are the thing you should study to understand this system.
+mathematics/parsers.png
+
+# Transforms
+Parsers can contain Transform definitions, which are Mathematics that transform one particle into another.
+mathematics/transforms.png
+
+***
+
+These meta concepts are enough to define all of Mathematics.
+
+mathematics/euclid.png
+ caption These concepts apply not just to formulae, but to geometry, et al as well.
+
+****
+
+

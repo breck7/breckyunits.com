@@ -61,5 +61,7 @@ Notes
 =====
 Livestream creation of this post
  https://www.youtube.com/watch?v=s8vQuCGCYPM Livestream creation of this post
+Latest research
+ https://pc.scroll.pub Latest research
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

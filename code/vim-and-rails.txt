@@ -19,8 +19,8 @@ let g:miniBufExplMapCTabSwitchBufs = 1
 let g:miniBufExplModSelTarget = 1
 
 " alt+n or alt+p to navigate between entries in QuickFix
-map   :cp 
-map   :cn 
+map <silent> <m-p> :cp <cr>
+map <silent> <m-n> :cn <cr>
 
 " Change which file opens after executing :Rails command
 let g:rails_default_file='config/database.yml'
@@ -39,4 +39,4 @@ set ts=2  " Tabs are 2 spaces
 set laststatus=2  " Always show status line.
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

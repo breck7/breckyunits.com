@@ -236,6 +236,16 @@ That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
 Related Posts
 =============
+What is Particle Syntax?
+========================
+03/02/2025
+https://breckyunits.com/whatIsParticles.html
+
+What is Mathematics?
+====================
+02/23/2025
+https://breckyunits.com/mathematics.html
+
 Why Define a New Language?
 ==========================
 12/10/2024
@@ -444,4 +454,4 @@ Notes
 ^note-risk: Note that this means I am between 90-99% confident that Tree Notation is _not_ a good idea. However, if it's a bad idea I am 40% confident the attempt to prove it a bad idea will have positive second-order effects. I am 50% confident that it will turn out I should have dropped this idea years ago, and it's a crackpot or Dunning–Kruger theory, and I'd be lying if I said I didn't recognize that as a highly probably scenario that has kept me up some nights.
 ^note-euclid: When it was first coming together, it wasn't a "book" as we think of books today and authorship is very fuzzy, but that doesn't affect things for my purposes here.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

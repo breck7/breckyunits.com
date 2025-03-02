@@ -1,9 +1,11 @@
-title Breck's Blog
+title Breck's Blog - Concise Index
+linkTitle Index
 
 settings.scroll
 topLinks.scroll
 printTitle
 categoryLinks.scroll
+tags categoryPages
 
 printShortSnippets All
 

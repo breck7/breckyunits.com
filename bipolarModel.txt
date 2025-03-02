@@ -5,15 +5,15 @@ by Breck Yunits
 November 7, 2024
 
 [Image Omitted]
- The model proposed here. Mania is too many mitochondria; depression too few. We predict it is possible to detect mood state from optical images of certain cells and counting stained mitochondria.
+ The model proposed here. Mania is too much mitochondria; depression too little. We predict it is possible to detect mood state from optical images of certain cells and counting mitochondrial volume.
 
 *
 
-Mania is too many mitochondria; depression too few.
+Mania is too much mitochondria; depression too little.
 
 *
 
-*Mitolevel* is mitochondrial count divided by cell count ($ML$ = $M/C$).
+*Mitolevel* is mitochondrial volume divided by cell volume ($ML$ = $M/C$).
 
 Mitolevel varies by cell type.
 
@@ -25,7 +25,7 @@ Mania is elevated mitolevels and depression is depressed mitolevels.
 
 Individuals who have experienced mania frequently report a feeling of quickening or acceleration, which matches this model as self-reproducing mitochondria change population exponentially over time.
 
-Individuals who experience severe depression take a long time to recover, which matches a model where the cell is filled with debris (likely from dead mitochondria from a manic episode) preventing the restoration of a healthy mitolevel.
+Individuals who experience severe depression take a long time to recover, which matches a model where the cell is depleted of mitochondria (likely from dead mitochondria from resource exhausition during a manic episode) preventing the restoration of a healthy mitolevel.
 
 Mitochondrial populations change much more gradually than substance levels in the bloodstream, which explains why mania is described as a "sustained high" and why depression can't be immediately "snapped out of".
 
@@ -62,4 +62,4 @@ As one can assume, hundreds of works directly contributed to the model above. So
 - Shebani Sethi
  https://x.com/shebanimd Shebani Sethi
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

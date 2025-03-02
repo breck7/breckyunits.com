@@ -3,68 +3,78 @@ Breck's Blog - Life Posts
 
 Breck's Blog - Writing Posts
 ============================
-01/09/2025
+03/02/2025
 https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-01/09/2025
+03/02/2025
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-01/09/2025
+03/02/2025
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-01/09/2025
+03/02/2025
 https://breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-01/09/2025
+03/02/2025
 https://breckyunits.com/society.html
+
+Breck's Blog - Concise Index
+============================
+03/02/2025
+https://breckyunits.com/short.html
 
 Search Breck's Blog
 ===================
-01/09/2025
+03/02/2025
 https://breckyunits.com/search.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-01/09/2025
+03/02/2025
 https://breckyunits.com/scrollPapers.html
 
 Breck's Blog - Programming Posts
 ================================
-01/09/2025
+03/02/2025
 https://breckyunits.com/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-01/09/2025
+03/02/2025
 https://breckyunits.com/mitochondria.html
 
 Breck's Blog - All Posts
 ========================
-01/09/2025
+03/02/2025
 https://breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-01/09/2025
+03/02/2025
 https://breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-01/09/2025
+03/02/2025
 https://breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-01/09/2025
+03/02/2025
 https://breckyunits.com/data.html
+
+Here's to Honest Work
+=====================
+02/22/2025
+https://breckyunits.com/honestWork.html
 
 On Focus
 ========
@@ -411,4 +421,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

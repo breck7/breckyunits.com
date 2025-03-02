@@ -49,4 +49,136 @@ Similarly, to survive, humans need to abolish the Permission Function.
 
 ⁂
 
-Built with Scroll v165.4.0
+Related Posts
+=============
+Owned Air
+=========
+02/17/2025
+https://breckyunits.com/ownedAir.html
+
+Information Cleaner
+===================
+02/16/2025
+https://breckyunits.com/ic.html
+
+All the benefits of property; none of the responsibility
+========================================================
+02/10/2025
+https://breckyunits.com/ipResponsibility.html
+
+Aaron's Amendment
+=================
+02/07/2025
+https://breckyunits.com/aaron.html
+
+Optimizing for Truth
+====================
+02/06/2025
+https://breckyunits.com/optimizingForTruth.html
+
+A New Coat of Paint
+===================
+01/13/2025
+https://breckyunits.com/aNewCoatOfPaint.html
+
+Writeable
+=========
+11/02/2024
+https://breckyunits.com/writeable.html
+
+Copyright is a mind virus
+=========================
+10/29/2024
+https://breckyunits.com/copyrightIsAMindVirus.html
+
+Patents are Poison
+==================
+10/27/2024
+https://breckyunits.com/patentsArePoison.html
+
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+IPDD
+====
+06/29/2024
+https://breckyunits.com/ipdd.html
+
+The Omni Restaurant
+===================
+05/23/2024
+https://breckyunits.com/omniRestaurant.html
+
+The law favors ChatGPT over humans
+==================================
+05/14/2024
+https://breckyunits.com/digitalCopyright.html
+
+Three Scientists Go To Heaven
+=============================
+05/05/2024
+https://breckyunits.com/aScientistGoesToHeaven.html
+
+Why do we subsidize lies?
+=========================
+02/14/2024
+https://breckyunits.com/whyDoWeSubsidizeLies.html
+
+A Mathematical Model of Copyright
+=================================
+05/26/2023
+https://breckyunits.com/a-mathematical-model-of-copyright.html
+
+Enchained Symbols
+=================
+04/28/2023
+https://breckyunits.com/enchained-symbols.html
+
+A Public Domain Human
+=====================
+03/06/2023
+https://breckyunits.com/a-public-domain-human.html
+
+SafeFS
+======
+01/27/2023
+https://breckyunits.com/safeFs.html
+
+Training a neural network to spot misinformation, fake news, and propaganda from a single image
+===============================================================================================
+10/15/2022
+https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
+
+Cancer and Copyright
+====================
+10/04/2022
+https://breckyunits.com/cancer-and-copyright.html
+
+How the public domain can win
+=============================
+08/30/2022
+https://breckyunits.com/how-the-public-domain-can-win.html
+
+The Public Domain Publishing Company
+====================================
+02/28/2021
+https://breckyunits.com/the-public-domain-publishing-company.html
+
+An Unpopular Phrase
+===================
+02/21/2020
+https://breckyunits.com/an-unpopular-phrase.html
+
+Dataset Needed
+==============
+01/23/2020
+https://breckyunits.com/dataset-needed.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html
+
+Built with Scroll v173.0.0

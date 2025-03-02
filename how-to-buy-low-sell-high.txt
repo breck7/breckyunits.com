@@ -25,7 +25,7 @@ Google's price today is $187 Billion. But what's its value? _The average investo
 
 Be frugal.
 ==========
-You've got to be in a position to take advantage of the market, and if you spend your cash on unnecessary things, you won't be. Buy food in bulk at Costco. Cut your cell phone bill or cancel it altogether. Trim the fat wherever you can. You'd be surprised how little you can live off of and be happy. Read P.T. Barnum's "The Art of Moneygetting" for some good perspective on how being frugal has been a key to success for a long time.
+You've got to be in a position to take advantage of the market, and if you spend your cash on unnecessary things, you won't be. Buy food in bulk at Costco. Cut your cell phone bill or cancel it altogether. Trim the fat wherever you can. You'd be surprised how little you can live off of and be happy. Read <a href="http://www.gutenberg.org/etext/8581">P.T. Barnum's "The Art of Moneygetting"</a> for some good perspective on how being frugal has been a key to success for a long time.
 
 *
 
@@ -65,4 +65,4 @@ Businesses can be the ultimate thing to buy low and sell high because they have 
 
 ⁂
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

@@ -20,11 +20,11 @@ I took a prob/stat course in high school. Is that good enough?
 Probably not. After you took your reading and writing classes in elementary school, did you stop reading and writing or did you start practicing these skills everyday? You continued to use and practice them, right? Did you continue to practice your prob/stat skills? You should.
 
 You're wrong. I've mastered probability and statistics, evolution, and psychology, and there are still subjects I can't find simple explanations for.
-I'm not wrong. You just need to look in the right places. You probably won't find simple explanations in school. Schools are in the business of making learning seem complex and expensive. Better places to search for simple explanations: 🌎 Online. Sites like Khan Academy, Ted, Wikipedia and Google. 📚 In books. Browse around Barnes & Noble or Borders. 💁‍♀️ From a friend. Find someone that knows the subject well and ask them to teach you.
+I'm not wrong. You just need to look in the right places. You probably won't find simple explanations in school. Schools are in the business of making learning seem complex and expensive. Better places to search for simple explanations: 🌎 Online. Sites like <a href="http://www.khanacademy.org">Khan Academy</a>, <a href="http://www.ted.com/">Ted</a>, Wikipedia and Google. 📚 In books. Browse around Barnes & Noble or Borders. 💁‍♀️ From a friend. Find someone that knows the subject well and ask them to teach you.
 
 Do I need to master the building blocks to be successful in life?
 No. But you need to know them if you want to be able to learn any subject.
 
 ⁂
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

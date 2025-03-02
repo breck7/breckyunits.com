@@ -1,0 +1,61 @@
+date 2025-2-20
+tags All
+title MODO: A Method to Increase Truth
+container 430px
+standardPost.scroll
+
+To understand something is to be able to mentally visualize it in motion in your head. Let's call this a truthful model.
+
+endSnippet
+
+People try to communicate these models in words. At best, these models will be lossy. Often, they are downright fraudulent.
+
+There is a _ton_ of hard earned truth out there, unfortunately it's unevenly distributed and often buried under lies.
+
+Whether the model you are given is a story made of words, or a film documentary, or a 3D simulation, how can you gauge its accuracy?
+
+I developed a technique that is very simple and works very well.
+
+It involves writing down simple facts in a simple way that easily converts to a spreadsheet.
+
+No matter what the thing you are trying to understand is, the trick to getting closer to truth is to build a spreadsheet with:
+
+*M*ore:
+1. *O*bservations
+2. *D*imensions
+3. *O*rthoganality
+
+# More Observations
+
+Observations are the rows in your spreadsheet.
+
+Let's say you are trying to understand the moon. If you only took 1 "shape" observation in the middle of a lunar cycle, you might say the moon is a half circle.
+
+If you take multiple observations your model of its shape will get closer to a true model.
+
+# More Dimensions
+
+Dimensions are the columns in your spreadsheet.
+
+If you not only measure the moon's shape but also it's position in the sky you will get closer to a true model.
+
+# More Orthogonality
+
+Orthogonality is a measure of how much redundancy there is in your observations.
+
+If you measure the moon's shape at 100 slightly different times a day from 100 slightly different locations, you've increased the observations and dimensions a lot without increasing your understanding much.
+
+If you were to plant a temperature sensor on the moon or add images from a high powered telescope, you are adding orthogonal data that improves the truthiness of your model.
+
+The idea is you want to not just make many measurements from many angles, but you also want to look at things from _wildly_ different angles. These different perspectives can often be critical for preventing cherry-picked datasets that present overly simplified or misleading models.
+
+The key thing to keep in mind that mining information has costs. It is much cheaper to add more information that looks at things from similar perspectives of existing information. So to arrive at truth you must make an extra effort to add orthoganal perspectives.
+
+***
+
+You can use this method to build a model to understand anything, no matter how complex.
+
+Of course, the human brain has a limited context window and you can only work on a little bit of your model at one time. To solve this we developed a technology called ScrollSets that let's you chip away at building a model of anything. ScrollSets let's you incrementally build a model, adding as many or as few concepts and measurements at once as you want. Everything is simple plain text, fully tracked by version control, and compiles to a spreadsheet. When a new idea strikes for increasing the orthogonality of your model, it's very easy to add.
+ link scrollsets.html ScrollSets
+
+****

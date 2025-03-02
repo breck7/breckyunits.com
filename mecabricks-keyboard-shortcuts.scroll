@@ -7,7 +7,7 @@ thinColumns 2
 
 ## Global
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -17,7 +17,7 @@ table
   Ctrl + Y|Redo
 
 ## Viewport and Graph Panel
-table
+datatable
  printTable
  delimiter |
  data
@@ -44,14 +44,14 @@ table
   W|Display selection tools
   Z|Toggle between shaded, shaded with edges and wireframe mode
 
-table
+datatable
  printTable
  delimiter |
  data
   Combo|Command
   CTRL + Left Click|Add or remove element to or from the selection
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -60,7 +60,7 @@ table
   NUMPAD 4 or 6|Translate along X axis
   Page Up or Page Down|Translate along Y axis
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -69,7 +69,7 @@ table
   ↑ or ↓|Rotate selection 45° along X axis
   Home or End|Rotate selection 45° along Z axis (keys next to page up and page down keys on an apple keyboard)
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -77,7 +77,7 @@ table
   Esc|Deactivate selected tool / Cancel rotation or translation
   Ctrl + Click|Add or remove a part/group to the selection
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -94,7 +94,7 @@ table
   Numpad .|Center selection or scene
   Space|Change camera orientation
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -102,7 +102,7 @@ table
   Del or Bak|Delete selection
 
 ## Flexible Tool
-table
+datatable
  printTable
  delimiter |
  data
@@ -118,7 +118,7 @@ table
   S|Snap anchor point or solid part selected
 
 ## Animation Editor
-table
+datatable
  printTable
  delimiter |
  data
@@ -131,7 +131,7 @@ table
   I|Invert node selection
   Ctrl + V|Paste nodes previously copied
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -140,7 +140,7 @@ table
   Numpad 0|Reset diagram position
   Numpad 1|Reset diagram zoom
 
-table
+datatable
  printTable
  delimiter |
  data

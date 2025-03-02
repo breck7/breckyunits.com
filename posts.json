@@ -1,13 +1,153 @@
 [
   {
+    "date": "03/02/2025",
+    "year": 2025,
+    "title": "What is Particle Syntax?",
+    "permalink": "whatIsParticles.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll",
+    "wordCount": 534,
+    "minutes": 2.7
+  },
+  {
+    "date": "03/01/2025",
+    "year": 2025,
+    "title": "Communicating with the Market",
+    "permalink": "market.html",
+    "authors": "Breck Yunits",
+    "tags": "All Startups",
+    "wordCount": 441,
+    "minutes": 2.2
+  },
+  {
+    "date": "02/25/2025",
+    "year": 2025,
+    "title": "A Mathematical Model of Trust",
+    "permalink": "trust.html",
+    "authors": "Breck Yunits",
+    "tags": "All",
+    "wordCount": 184,
+    "minutes": 0.9
+  },
+  {
+    "date": "02/24/2025",
+    "year": 2025,
+    "title": "What we published in 2024 for $70,000",
+    "permalink": "2024.html",
+    "authors": "Breck Yunits",
+    "tags": "All",
+    "wordCount": 1448,
+    "minutes": 7.2
+  },
+  {
+    "date": "02/23/2025",
+    "year": 2025,
+    "title": "What is Mathematics?",
+    "permalink": "mathematics.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll",
+    "wordCount": 390,
+    "minutes": 1.9
+  },
+  {
+    "date": "02/22/2025",
+    "year": 2025,
+    "title": "Here's to Honest Work",
+    "permalink": "honestWork.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life",
+    "wordCount": 104,
+    "minutes": 0.5
+  },
+  {
+    "date": "02/20/2025",
+    "year": 2025,
+    "title": "MODO: A Method to Increase Truth",
+    "permalink": "truth.html",
+    "authors": "Breck Yunits",
+    "tags": "All",
+    "wordCount": 561,
+    "minutes": 2.8
+  },
+  {
+    "date": "02/17/2025",
+    "year": 2025,
+    "title": "Owned Air",
+    "permalink": "ownedAir.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom Fiction",
+    "wordCount": 639,
+    "minutes": 3.2
+  },
+  {
+    "date": "02/16/2025",
+    "year": 2025,
+    "title": "Information Cleaner",
+    "permalink": "ic.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 908,
+    "minutes": 4.5
+  },
+  {
+    "date": "02/10/2025",
+    "year": 2025,
+    "title": "All the benefits of property; none of the responsibility",
+    "permalink": "ipResponsibility.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 613,
+    "minutes": 3.1
+  },
+  {
+    "date": "02/07/2025",
+    "year": 2025,
+    "title": "Aaron's Amendment",
+    "permalink": "aaron.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 618,
+    "minutes": 3.1
+  },
+  {
+    "date": "02/06/2025",
+    "year": 2025,
+    "title": "Optimizing for Truth",
+    "permalink": "optimizingForTruth.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 396,
+    "minutes": 2
+  },
+  {
+    "date": "01/22/2025",
+    "year": 2025,
+    "title": "The Greatest Prompt in the World",
+    "permalink": "greatestPrompt.html",
+    "authors": "Breck Yunits",
+    "tags": "All Programming",
+    "wordCount": 213,
+    "minutes": 1.1
+  },
+  {
+    "date": "01/13/2025",
+    "year": 2025,
+    "title": "A New Coat of Paint",
+    "permalink": "aNewCoatOfPaint.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom Society",
+    "wordCount": 56,
+    "minutes": 0.3
+  },
+  {
     "date": "12/15/2024",
     "year": 2024,
     "title": "The Permission Function",
     "permalink": "thePermissionFunction.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 289,
-    "minutes": 1.4
+    "wordCount": 636,
+    "minutes": 3.2
   },
   {
     "date": "12/10/2024",
@@ -16,7 +156,7 @@
     "permalink": "whyDefineANewLanguage.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll",
-    "wordCount": 845,
+    "wordCount": 846,
     "minutes": 4.2
   },
   {
@@ -66,7 +206,7 @@
     "permalink": "bipolarModel.html",
     "authors": "Breck Yunits",
     "tags": "BipolarEnergy AllPapers All Ketones Mitochondria",
-    "wordCount": 441,
+    "wordCount": 444,
     "minutes": 2.2
   },
   {
@@ -156,7 +296,7 @@
     "permalink": "microprograms.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll",
-    "wordCount": 1771,
+    "wordCount": 1775,
     "minutes": 8.9
   },
   {
@@ -216,7 +356,7 @@
     "permalink": "particleChain.html",
     "authors": "Breck Yunits",
     "tags": "All Startups Programming Scroll Society ScrollPapers",
-    "wordCount": 319,
+    "wordCount": 327,
     "minutes": 1.6
   },
   {
@@ -406,8 +546,8 @@
     "permalink": "patch.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll",
-    "wordCount": 469,
-    "minutes": 2.3
+    "wordCount": 478,
+    "minutes": 2.4
   },
   {
     "date": "05/27/2024",
@@ -446,8 +586,8 @@
     "permalink": "versionNumbers.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Data Scroll",
-    "wordCount": 479,
-    "minutes": 2.4
+    "wordCount": 724,
+    "minutes": 3.6
   },
   {
     "date": "05/24/2024",
@@ -476,8 +616,8 @@
     "permalink": "scrollsets.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers AllPapers",
-    "wordCount": 1287,
-    "minutes": 6.4
+    "wordCount": 1258,
+    "minutes": 6.3
   },
   {
     "date": "05/20/2024",
@@ -506,7 +646,7 @@
     "permalink": "digitalCopyright.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 368,
+    "wordCount": 362,
     "minutes": 1.8
   },
   {
@@ -546,7 +686,7 @@
     "permalink": "aScientistGoesToHeaven.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Data Fiction",
-    "wordCount": 109,
+    "wordCount": 99,
     "minutes": 0.5
   },
   {
@@ -586,7 +726,7 @@
     "permalink": "bigOsKitchen.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Data HasDataset Logeracy",
-    "wordCount": 392,
+    "wordCount": 397,
     "minutes": 2
   },
   {
@@ -606,8 +746,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1937,
-    "minutes": 9.7
+    "wordCount": 1960,
+    "minutes": 9.8
   },
   {
     "date": "03/30/2024",
@@ -706,8 +846,8 @@
     "permalink": "iThoughtWeCouldBuildAIExpertsByHand.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming Startups",
-    "wordCount": 5545,
-    "minutes": 27.7
+    "wordCount": 5565,
+    "minutes": 27.8
   },
   {
     "date": "06/16/2023",
@@ -746,8 +886,8 @@
     "permalink": "a-mathematical-model-of-copyright.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 1328,
-    "minutes": 6.6
+    "wordCount": 1716,
+    "minutes": 8.6
   },
   {
     "date": "05/19/2023",
@@ -836,17 +976,17 @@
     "permalink": "replies-always-welcome.html",
     "authors": "Breck Yunits",
     "tags": "All Programming NoNoReply",
-    "wordCount": 585,
-    "minutes": 2.9
+    "wordCount": 696,
+    "minutes": 3.5
   },
   {
     "date": "10/15/2022",
     "year": 2022,
-    "title": "Training a neural network to spot misinformation and fake news from a single image",
+    "title": "Training a neural network to spot misinformation, fake news, and propaganda from a single image",
     "permalink": "misinformationOrFakeNewsNeuralNetwork.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 75,
+    "wordCount": 76,
     "minutes": 0.4
   },
   {
@@ -866,7 +1006,7 @@
     "permalink": "cancer-and-copyright.html",
     "authors": "Breck Yunits",
     "tags": "All Society IntellectualFreedom",
-    "wordCount": 419,
+    "wordCount": 428,
     "minutes": 2.1
   },
   {
@@ -876,8 +1016,8 @@
     "permalink": "an-angel-investors-data.html",
     "authors": "Breck Yunits",
     "tags": "All Startups HasDataset AngelInvesting",
-    "wordCount": 541,
-    "minutes": 2.7
+    "wordCount": 555,
+    "minutes": 2.8
   },
   {
     "date": "08/30/2022",
@@ -916,8 +1056,8 @@
     "permalink": "brain-pilots.html",
     "authors": "Breck Yunits",
     "tags": "All Life Minsky",
-    "wordCount": 2726,
-    "minutes": 13.6
+    "wordCount": 2730,
+    "minutes": 13.7
   },
   {
     "date": "12/15/2021",
@@ -926,7 +1066,7 @@
     "permalink": "aftertext.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming Writing",
-    "wordCount": 2041,
+    "wordCount": 2048,
     "minutes": 10.2
   },
   {
@@ -970,24 +1110,14 @@
     "minutes": 0.7
   },
   {
-    "date": "05/12/2021",
-    "year": 2021,
-    "title": "The Intellectual Freedom Amendment",
-    "permalink": "ifa.html",
-    "authors": "Breck Yunits",
-    "tags": "All IntellectualFreedom",
-    "wordCount": 509,
-    "minutes": 2.5
-  },
-  {
     "date": "05/07/2021",
     "year": 2021,
     "title": "Some old blogs",
     "permalink": "some-old-blogs.html",
     "authors": "Breck Yunits",
     "tags": "All Writing",
-    "wordCount": 271,
-    "minutes": 1.4
+    "wordCount": 381,
+    "minutes": 1.9
   },
   {
     "date": "05/06/2021",
@@ -996,8 +1126,8 @@
     "permalink": "advice.html",
     "authors": "Breck Yunits",
     "tags": "All Data Writing Life",
-    "wordCount": 727,
-    "minutes": 3.6
+    "wordCount": 766,
+    "minutes": 3.8
   },
   {
     "date": "04/26/2021",
@@ -1076,8 +1206,8 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 3964,
-    "minutes": 19.8
+    "wordCount": 3987,
+    "minutes": 19.9
   },
   {
     "date": "03/02/2020",
@@ -1106,7 +1236,7 @@
     "permalink": "how-old-are-these-keys.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Society HasDataset",
-    "wordCount": 1530,
+    "wordCount": 1541,
     "minutes": 7.7
   },
   {
@@ -1176,8 +1306,8 @@
     "permalink": "dreaming-of-a-data-checked-language.html",
     "authors": "Breck Yunits",
     "tags": "All Data Programming Writing Thinking Scroll HasDataset IntellectualFreedom ScrollSets",
-    "wordCount": 2607,
-    "minutes": 13
+    "wordCount": 2740,
+    "minutes": 13.7
   },
   {
     "date": "08/19/2019",
@@ -1286,8 +1416,8 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1179,
-    "minutes": 5.9
+    "wordCount": 1214,
+    "minutes": 6.1
   },
   {
     "date": "04/02/2013",
@@ -1416,7 +1546,7 @@
     "permalink": "deliver.html",
     "authors": "Breck Yunits",
     "tags": "All Life",
-    "wordCount": 417,
+    "wordCount": 430,
     "minutes": 2.1
   },
   {
@@ -1426,8 +1556,8 @@
     "permalink": "black-swans-and-technology.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Startups",
-    "wordCount": 463,
-    "minutes": 2.3
+    "wordCount": 488,
+    "minutes": 2.4
   },
   {
     "date": "12/18/2012",
@@ -1466,8 +1596,8 @@
     "permalink": "narratives-misrepresent-complex-systems.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Writing Life Narratives",
-    "wordCount": 844,
-    "minutes": 4.2
+    "wordCount": 858,
+    "minutes": 4.3
   },
   {
     "date": "12/14/2012",
@@ -1816,8 +1946,8 @@
     "permalink": "hackernews-data-visits-as-a-function-of-karma.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Startups HasDataset",
-    "wordCount": 136,
-    "minutes": 0.7
+    "wordCount": 214,
+    "minutes": 1.1
   },
   {
     "date": "02/19/2010",
@@ -1876,8 +2006,8 @@
     "permalink": "if-you-can-explain-something-logically-you-can-explain-it-simply.html",
     "authors": "Breck Yunits",
     "tags": "All Writing",
-    "wordCount": 424,
-    "minutes": 2.1
+    "wordCount": 438,
+    "minutes": 2.2
   },
   {
     "date": "01/15/2010",
@@ -1906,7 +2036,7 @@
     "permalink": "how-to-buy-low-sell-high.html",
     "authors": "Breck Yunits",
     "tags": "All Life",
-    "wordCount": 773,
+    "wordCount": 782,
     "minutes": 3.9
   },
   {
@@ -1916,8 +2046,8 @@
     "permalink": "flee-the-bubble.html",
     "authors": "Breck Yunits",
     "tags": "All Startups",
-    "wordCount": 622,
-    "minutes": 3.1
+    "wordCount": 638,
+    "minutes": 3.2
   },
   {
     "date": "12/28/2009",
@@ -1926,8 +2056,8 @@
     "permalink": "checklist-for-new-products.html",
     "authors": "Breck Yunits",
     "tags": "All Startups",
-    "wordCount": 191,
-    "minutes": 1
+    "wordCount": 244,
+    "minutes": 1.2
   },
   {
     "date": "12/24/2009",
@@ -2016,7 +2146,7 @@
     "permalink": "why-you-shouldnt-save-blogging-for-old-age.html",
     "authors": "Breck Yunits",
     "tags": "All Writing",
-    "wordCount": 304,
+    "wordCount": 306,
     "minutes": 1.5
   },
   {
@@ -2256,8 +2386,8 @@
     "permalink": "analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html",
     "authors": "Breck Yunits",
     "tags": "All Startups HasDataset",
-    "wordCount": 1075,
-    "minutes": 5.4
+    "wordCount": 1096,
+    "minutes": 5.5
   },
   {
     "date": "09/28/2007",

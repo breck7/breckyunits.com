@@ -8,6 +8,6 @@ Say you're looking for all files starting with the word "breck". Using the linux
 find -name "breck*"
 ```
 
-Will search the current directory and all subdirectories for files starting with the word "breck".
+Will search the current directory <i>and all subdirectories</i> for files starting with the word "breck".
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

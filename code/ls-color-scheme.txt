@@ -2,7 +2,7 @@ ls color scheme
 ===============
 March 10, 2010
 
-Found this helpful color scheme for ls. toss in your bash_profile.
+Found this <a href="http://cygwin.com/ml/cygwin/2002-06/msg00594.html">helpful color scheme</a> for ls. toss in your bash_profile.
 
 ```
 alias ls="ls --color=auto"
@@ -10,4 +10,4 @@ LS_COLORS="di=31;1:ln=36;1:ex=31;1:*~=31;1:*.html=31;1:*.shtml=37;1"
 export LS_COLORS
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

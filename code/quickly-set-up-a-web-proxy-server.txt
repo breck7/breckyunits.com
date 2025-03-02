@@ -4,8 +4,8 @@ March 13, 2011
 
 Sometimes when abroad it becomes necessary to route your internet traffic through a proxy.
 
-Here's a great article that shows how.
+Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy">article</a> that shows how.
 
 I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

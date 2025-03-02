@@ -2,4 +2,4 @@ importOnly
 baseUrl https://breckyunits.com/code/
 description Helpful one liners, and more, that I may need later
 rssFeedUrl feed.xml
-editBaseUrl https://github.com/breck7/breckyunits.com/blob/main/code
+editBaseUrl /edit.html?fileName=code/

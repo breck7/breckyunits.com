@@ -63,7 +63,95 @@ A fashion $Z_{M_I}$ is a different encoding of the same idea $I$.
 Teachers
 ========
 \tau
-A teacher is a $T$ who communicates messages $M$ to other $T$. A thinker $T$ has access to a supply of teachers $\tau$ within geographic radius $r$ so that $\tau = \set{T|T -1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
+A teacher is a $T$ who communicates messages $M$ to other $T$. A thinker $T$ has access to a supply of teachers $\tau$ within geographic radius $r$ so that $\tau = \set{T|T < r}$.
+
+Learning
+========
+L: f(M_I, T) → T^\prime
+The learning function $L$ applies $M_I$ to $T$ to produce $T^\prime$ containing some memorization of the message $M_I$ and some learning of the idea $I$.
+
+Objectives
+==========
+B
+A thinker $T$ has a set of objectives $B_T$ that they can maximize using their skillset $S_T$.
+
+Technologies
+============
+X
+$T$ can use their skillset $S$ to modify the world to contain technologies $X$.
+
+Technology Creation
+===================
+\Pi: f(\set{T},\set{X}, t) → X_{new}
+Technology creation is a function that takes a set of thinkers and a set of existing technologies as input to produce a new technology $X_{new}$.
+
+Artifacts
+=========
+A
+With $X$ $M_I$ can be encoded to a kind of $X$ called an artifact $A$.
+
+Creators
+========
+\chi
+A creator $\chi$ is a $T$ who produces $A$.
+
+Outliers
+========
+\sigma
+An outlier $\sigma$ is a $\chi$ who produces exceptionally high quality $A$.
+
+Copies
+======
+K
+A copy $K_A$ is an artifact that contains the same $M$ as $A$.
+
+Derivatives
+===========
+A^{\prime}
+A derivative $A^{\prime}$ is an artifact updated by a $\chi$ to better serve the objectives $B$ of $\chi$.
+
+Libraries
+=========
+J
+A library $J$ is a collection of $A$.
+
+Attention
+=========
+N
+Thinkers $T$ have a finite amount of attention $N$ to process messages $M$.
+
+Distribution
+============
+D: f(A_o, T_o) → A_{T_o}
+Distribution is a function that takes artifact $A$ at location $o$ and moves it to the thinker's location $T_o$.
+
+Publishers
+==========
+Q
+A publisher is a set of $T$ specializing in production of $A$.
+
+Censors
+=======
+U: U(D)
+A censor is a function that wraps the distribution function and may prevent an $A$ from being distributed.
+
+Part 2: Adding copyright to the model
+=====================================
+
+Masters
+=======
+\Psi
+A master $\Psi$ is now legally assigned to each artifact for duration $d$ so $A$ becomes $A^{\Psi}$.
+
+Royalties
+=========
+R
+A royalty $R$ is a payment from $T$ to $\Psi$ for a permission on $A^\Psi$.
+
+Permission Function
+===================
+P: f(A^\Psi, T) → \{-1, 0, R\} * (\theta = Pr(\Psi, A^\Psi)) \text{ in } t < d
+For every $A^\Psi$ used in $\Pi$ a permission function $P$ must be called and resolve to $>-1$ and royalties of $\sum{R_{A^\Psi}}$ must be paid. If any call to $P$ returns $-1$ the creation function $\Pi$ fails. If a $P$ has not resolved for $A^{\Psi}$ in time $d$ it resolves to 0.^duration1 $P$ always resolves with an amount of uncertainty $\theta$ that the $\Psi$ is actually the legally correct $A^\Psi$.
 
 Classes
 =======
@@ -139,7 +227,12 @@ We should expect the rate of increase in new ideas to be lower due to the decrea
 Effect on Classes
 =================
 f^{\prime}(R, T_{R+}) > 0
-f^{\prime}(R, T_{R-})  0
+f^{\prime}(R, T_{R-}) < 0
+We should expect the Royal Class $T_{R+}$ to receive an increasing share of all royalties $R$ as surplus $R$ is used to obtain more $R$ streams.
+
+Effect on $\sigma$
+==================
+\sigma → T_{R+} > 0
 We should expect a small number of outlier creators to move from $T_{R-}$ to $T_{R+}$.
 
 Effect on $A^0$
@@ -195,4 +288,4 @@ Notes
 ^artists: The use of "fictions" here is in the sense of "lies" rather than stories. Fictional stories can sometimes contain true $I$, and sometimes that may be the only way when dealing with censors ("artists use lies to tell the truth").
 ^duration1: If copyright duration is 100 years then that is the max time it may take $P$ to resolve. Also worth noting is that even a duration of 1 year introduces the permission function which significantly complicates the creation function $\Pi$.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

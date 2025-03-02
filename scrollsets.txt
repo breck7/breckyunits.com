@@ -95,8 +95,8 @@ A Visualization
 ===============
 
 [Image Omitted]
- Blue dots are measure ids. The first blue dot is a measure definition (aka a parser). The red dot is a measurement value. The blue-red pair is a measurement, as well as a concept. The cyan dot is a comment. View Source
-  https://ohayo.breckyunits.com/?filename=scrollsets.ohayo-source-code-vis.ohayo-source-code-vis.ohayo&nodeBreakSymbol=%7E&edgeSymbol=_&data=data.inline%7E_hidden%7E_parser_text%7E_treeLanguage_ohayo%7E_treenotation.3d%7E__cameraPosition_5_0.1_1.5%7E_content%7E__doc.title%7E__show.median_lines%7E___doc.comment View Source
+ Dark blue dots are measure ids. The first sections are measure definitions (aka parsers). The next sections are concepts. The red dots are measurement values. The blue-red pairs are measurements. The light blue dots are comments/code. View Source
+  https://www.tldraw.com/ro/oUE--5xFwQOv5x1VtTkj_?d=v-705.-318.3370.1887.page View Source
 
 *
 
@@ -111,8 +111,8 @@ GNU Recutils^recutils deserves credit as the closest precursor to our system. If
 
 Initial Implementation and Experimental Evidence
 ================================================
-ScrollSets is the name of the first implementation of the system above. It is open source and dedicated to the public domain.
- https://scroll.pub/ ScrollSet
+ScrollSets is the name of the first implementation of the system above. It is open source and public domain.
+ https://scroll.pub/ ScrollSets
 
 ScrollSets are used to power the open source website PLDB.io. PLDB currently has over 300 measures, over 4,000 concepts and over 150,000 measurements, contributed by over 100 people, dozens of software crawlers, and a couple of artificial neural networks.
  https://pldb.io PLDB.io
@@ -197,4 +197,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

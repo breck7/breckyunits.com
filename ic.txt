@@ -1,0 +1,185 @@
+Information Cleaner
+===================
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+February 16, 2025
+
+There is a job that is currently illegal in the United States, to the great detriment of our citizens. That is the job of "Information Cleaner."
+
+An Information Cleaner is a person who takes in all the material being published in our information atmosphere and cleanses it: they make it transformable, searchable, modifiable, accessible, free of ads and trackers, auditable, connected to other information where relevant, and so on.
+
+These people are not primarily focused on the production of new information, but rather on cleaning and enhancing the information that has already been produced.
+
+This is a hard and _extremely_ important job-think of it like back propagation- and it's currently made illegal by copyright law. As a result, our information environment is as dirty and toxic as an aquarium with no filter.
+
+[Image Omitted]
+ Our information environment is as dirty and toxic as an aquarium with no filter.
+
+*
+
+Clean information
+=================
+
+Clean information is bits encoded as simply and noise-free as technology allows. Clean information is easy to move and to copy. Clean information is easy to search. It is easy to dice and remix. Clean information has had all toxins removed, such as ads and trackers (or at the least, it is in a form where those can be easily removed). Clean information comes with provenance information. It comes with hashed change information.
+
+Clean information is not Netflix. It is not Prime Video. It is not Disney Plus or Nature.com or The New York Times. All of those are _dirty_ information. Information with DRM; information claiming to be "licensed"; information with a paywall; information without source code; all of this is dirty information. And Americans should be allowed to clean it up.
+
+*
+
+The Underground Information Cleaners
+====================================
+
+Now some modern day heroes are clandestine Information Cleaners, building and expanding projects like LibGen and Anna's Archive and archive.today. These people are secretly keeping civilization from tumbling into a dark age.
+ https://en.wikipedia.org/wiki/Library_Genesis LibGen
+ https://annas-archive.org/ Anna's Archive
+ https://archive.vn/ archive.today
+
+While they risk their lives and liberty to prevent civilization from collapsing into an information-controlled dystopia, some of us need to be proselytizing in public and making the case as to why Information Cleaning should be a root right, enshrined in the Constitution and revered at the same level as freedom of speech; freedom of the press; freedom of religion.
+
+*
+
+Information does not lead to a better world; Clean information does
+===================================================================
+
+In the past 50 years Americans were misled to think it was the quantity of information that was the thing to optimize for. This is false. The thing to optimize for is the _cleanliness_ of information. It is far better to have the infrastructure in place to clean information, rather than to produce information. It is vastly easier to produce valuable new information once you've cleaned up all existing information.
+
+In that sense, the way to properly incentivize the production of new information is to make legal the cleaning of old information.
+
+If we want to make our air clean, if we want to make our food clean, if we want to make our bodies clean, we first have to make our information clean.
+
+⁂
+
+Related posts
+=============
+
+Owned Air
+=========
+02/17/2025
+https://breckyunits.com/ownedAir.html
+
+All the benefits of property; none of the responsibility
+========================================================
+02/10/2025
+https://breckyunits.com/ipResponsibility.html
+
+Aaron's Amendment
+=================
+02/07/2025
+https://breckyunits.com/aaron.html
+
+Optimizing for Truth
+====================
+02/06/2025
+https://breckyunits.com/optimizingForTruth.html
+
+A New Coat of Paint
+===================
+01/13/2025
+https://breckyunits.com/aNewCoatOfPaint.html
+
+The Permission Function
+=======================
+12/15/2024
+https://breckyunits.com/thePermissionFunction.html
+
+Writeable
+=========
+11/02/2024
+https://breckyunits.com/writeable.html
+
+Copyright is a mind virus
+=========================
+10/29/2024
+https://breckyunits.com/copyrightIsAMindVirus.html
+
+Patents are Poison
+==================
+10/27/2024
+https://breckyunits.com/patentsArePoison.html
+
+ETA!: A Measure of Evolution
+============================
+07/18/2024
+https://breckyunits.com/eta.html
+
+IPDD
+====
+06/29/2024
+https://breckyunits.com/ipdd.html
+
+The Omni Restaurant
+===================
+05/23/2024
+https://breckyunits.com/omniRestaurant.html
+
+The law favors ChatGPT over humans
+==================================
+05/14/2024
+https://breckyunits.com/digitalCopyright.html
+
+Three Scientists Go To Heaven
+=============================
+05/05/2024
+https://breckyunits.com/aScientistGoesToHeaven.html
+
+Why do we subsidize lies?
+=========================
+02/14/2024
+https://breckyunits.com/whyDoWeSubsidizeLies.html
+
+A Mathematical Model of Copyright
+=================================
+05/26/2023
+https://breckyunits.com/a-mathematical-model-of-copyright.html
+
+Enchained Symbols
+=================
+04/28/2023
+https://breckyunits.com/enchained-symbols.html
+
+A Public Domain Human
+=====================
+03/06/2023
+https://breckyunits.com/a-public-domain-human.html
+
+SafeFS
+======
+01/27/2023
+https://breckyunits.com/safeFs.html
+
+Training a neural network to spot misinformation, fake news, and propaganda from a single image
+===============================================================================================
+10/15/2022
+https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
+
+Cancer and Copyright
+====================
+10/04/2022
+https://breckyunits.com/cancer-and-copyright.html
+
+How the public domain can win
+=============================
+08/30/2022
+https://breckyunits.com/how-the-public-domain-can-win.html
+
+The Public Domain Publishing Company
+====================================
+02/28/2021
+https://breckyunits.com/the-public-domain-publishing-company.html
+
+An Unpopular Phrase
+===================
+02/21/2020
+https://breckyunits.com/an-unpopular-phrase.html
+
+Dataset Needed
+==============
+01/23/2020
+https://breckyunits.com/dataset-needed.html
+
+Dreaming of a Data Checked Language
+===================================
+01/03/2020
+https://breckyunits.com/dreaming-of-a-data-checked-language.html
+
+Built with Scroll v173.0.0

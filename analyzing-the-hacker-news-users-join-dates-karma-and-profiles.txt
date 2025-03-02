@@ -98,19 +98,23 @@ continue
 f=open(i, ‘r’)
 contents = f.read()
 start = contents.find(”user:”)+14
-if start ”,start)
+if start < 100 :  ## a couple files are messed up
+print i
+print start
+continue
+end = contents.find(”</td>”,start)
 user = contents[start:end]
 start = contents.find(”created:”)+17
-end = contents.find(””,start)
+end = contents.find(”</td>”,start)
 created = contents[start:end]
 start = contents.find(”karma:”)+15
-end = contents.find(””,start)
+end = contents.find(”</td>”,start)
 karma = contents[start:end]
 start = contents.find(”about:”)+15
-end = contents.find(””,start)
+end = contents.find(”</td>”,start)
 about = contents[start:end]
-about = about.replace(”\n”,””)
-about = about.replace(”\r”,””)
+about = about.replace(”\n”,”<br>”)
+about = about.replace(”\r”,”<br>”)
 about = about.replace(”;”,”")
 csv.write(user + sep + created + sep + karma + sep + about + term)
 f.close()
@@ -132,4 +136,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081205044245/http://www.breckyunits.com/statistics/2008/05/08/analyzing-the-hacker-news-users-join-dates-karma-and-profiles/ Original post
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

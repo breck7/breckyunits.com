@@ -19,6 +19,6 @@ cat /dev/clipboard
 Notes
 =====
 
-1. Fun with Cygwin's /dev/clipboard.
+1. <a href="http://williammitchell.blogspot.com/2008/03/fun-with-cygwins-devclipboard.html">Fun with Cygwin's /dev/clipboard</a>.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

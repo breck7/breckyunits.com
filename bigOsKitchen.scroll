@@ -75,7 +75,7 @@ wideColumns 1
 
 ## Plates needed
 
-table
+datatable
  printTable
  delimiter ,
  data

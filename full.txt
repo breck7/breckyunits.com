@@ -1,6 +1,76 @@
 Breck's Blog
 ============
 
+What is Particle Syntax?
+========================
+03/02/2025
+https://breckyunits.com/whatIsParticles.html
+
+Communicating with the Market
+=============================
+03/01/2025
+https://breckyunits.com/market.html
+
+A Mathematical Model of Trust
+=============================
+02/25/2025
+https://breckyunits.com/trust.html
+
+What we published in 2024 for $70,000
+=====================================
+02/24/2025
+https://breckyunits.com/2024.html
+
+What is Mathematics?
+====================
+02/23/2025
+https://breckyunits.com/mathematics.html
+
+Here's to Honest Work
+=====================
+02/22/2025
+https://breckyunits.com/honestWork.html
+
+MODO: A Method to Increase Truth
+================================
+02/20/2025
+https://breckyunits.com/truth.html
+
+Owned Air
+=========
+02/17/2025
+https://breckyunits.com/ownedAir.html
+
+Information Cleaner
+===================
+02/16/2025
+https://breckyunits.com/ic.html
+
+All the benefits of property; none of the responsibility
+========================================================
+02/10/2025
+https://breckyunits.com/ipResponsibility.html
+
+Aaron's Amendment
+=================
+02/07/2025
+https://breckyunits.com/aaron.html
+
+Optimizing for Truth
+====================
+02/06/2025
+https://breckyunits.com/optimizingForTruth.html
+
+The Greatest Prompt in the World
+================================
+01/22/2025
+https://breckyunits.com/greatestPrompt.html
+
+A New Coat of Paint
+===================
+01/13/2025
+https://breckyunits.com/aNewCoatOfPaint.html
+
 The Permission Function
 =======================
 12/15/2024
@@ -421,8 +491,8 @@ Replies always welcome
 11/14/2022
 https://breckyunits.com/replies-always-welcome.html
 
-Training a neural network to spot misinformation and fake news from a single image
-==================================================================================
+Training a neural network to spot misinformation, fake news, and propaganda from a single image
+===============================================================================================
 10/15/2022
 https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
 
@@ -485,11 +555,6 @@ Scrolldown now has Dialogues
 ============================
 05/14/2021
 https://breckyunits.com/dialogues.html
-
-The Intellectual Freedom Amendment
-==================================
-05/12/2021
-https://breckyunits.com/ifa.html
 
 Some old blogs
 ==============
@@ -1151,4 +1216,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

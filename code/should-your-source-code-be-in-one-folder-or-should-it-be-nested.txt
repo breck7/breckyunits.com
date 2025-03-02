@@ -4,7 +4,7 @@ January 25, 2010
 
 There are two ways to organize source code files for a project: flat or nested.
 
-Here's a simple example of a flat structure(1 directory, 4 files):
+Here's a simple example of a <b>flat</b> structure(1 directory, 4 files):
 
 ```
 📁myproject
@@ -14,7 +14,7 @@ Here's a simple example of a flat structure(1 directory, 4 files):
  logo.png
 ```
 
-Here's an example of a nested structure(4 directories, 4 files):
+Here's an example of a <b>nested</b> structure(4 directories, 4 files):
 ```
 📁myproject
  index.php
@@ -143,7 +143,7 @@ The optimal solution is to not put your stuff into drawers, but to:
 - 2. Put the remaining stuff out in the open in neats piles in separate parts of the room.
 - 3. If, and only if, you have a ton of the same type of thing, put those into their own drawer/cabinet.
 
-If you apply this algorithm to a sample project, you might get something like a project I just made with PHPUno
+If you apply this algorithm to a sample project, you might get something like a project I just made with <a href="http://github.com/breck7/uno">PHPUno</a>
 
 ```
 📁dropdate
@@ -185,4 +185,4 @@ In other words, the directory "icon" should never have a subdirectory in it.
 
 This means that any project should have at most 9 subdirectories.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

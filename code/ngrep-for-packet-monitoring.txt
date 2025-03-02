@@ -2,7 +2,7 @@ ngrep for packet monitoring
 ===========================
 July 13, 2011
 
-I just came across a neat command line tool, ngrep, via this site.
+I just came across a neat command line tool, ngrep, via this <a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">site</a>.
 
 Sample usage:
 
@@ -10,4 +10,4 @@ Sample usage:
 ngrep -q -W byline "^(GET|POST) .*"
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

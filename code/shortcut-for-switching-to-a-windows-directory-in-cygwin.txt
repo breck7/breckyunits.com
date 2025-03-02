@@ -35,6 +35,6 @@ wcd "C:\Users\breck\Documents\My Dropbox"
 
 Notes
 
-1. wcd gist.
+1. wcd <a href="https://gist.github.com/291822">gist</a>.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

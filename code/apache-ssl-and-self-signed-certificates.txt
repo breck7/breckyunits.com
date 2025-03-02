@@ -2,7 +2,7 @@ Apache, SSL and self signed certificates
 ========================================
 August 14, 2011
 
-Just read an excellent guide about how to create self-signed certificates.
+Just read an excellent guide about <a href="http://www.akadia.com/services/ssh_test_certificate.html">how to create self-signed certificates.</a>
 
 Here's what it boils down to:
 
@@ -46,4 +46,4 @@ SSLCertificateFile /etc/httpd/certs/self_signed_public_certificate.crt
 SSLCertificateKeyFile /etc/httpd/certs/private_key.pem
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

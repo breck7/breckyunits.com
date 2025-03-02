@@ -14,6 +14,6 @@ And to reverse:
 git update-index --no-assume-unchanged filepath
 ```
 
-Learn more here.
+Learn more <a href="https://www.pagebakers.nl/2009/01/29/git-ignoring-changes-in-tracked-files/">here</a>.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

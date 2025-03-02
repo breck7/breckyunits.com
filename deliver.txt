@@ -23,7 +23,7 @@ and one man is always alert, on his guard, lest he put in a minute too much;
 and one has a grouch or a temper that's bad, and one is a creature of moods;
 so it's hey for the joyous and rollicking lad--for the One Who Delivers the Goods!
 
-Walt Mason, his book (1916)
+<a href="http://books.google.com/books/about/Walt_Mason_his_book.html?id=kPo_AAAAYAAJ">Walt Mason, his book</a> (1916)
 
 December 19, 2012
 
@@ -39,4 +39,4 @@ Be the One who delivers the goods!
 
 ⁂
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

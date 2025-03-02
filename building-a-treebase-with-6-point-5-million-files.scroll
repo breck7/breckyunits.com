@@ -81,7 +81,7 @@ One file, the 500MB `title.basics.tsv`, contained basic data for all the movie a
 
 Here's what that file looks like with `head -5 title.basics.tsv`:
 
-table
+datatable
  printTable
  delimiter |
  data
@@ -384,7 +384,7 @@ treeCode
 
 The results for 6k are below.
 
-table
+datatable
  delimiter ,
  printTable
  data
@@ -419,7 +419,7 @@ The build script for the 60k TreeBase took 30 seconds or so, as expected. I can 
 
 I now repeat the tasks from above to see how things are holding up.
 
-table
+datatable
  delimiter ,
  printTable
  data
@@ -489,7 +489,7 @@ Rerunning the script...it worked! That line seemed to be the only problematic li
 
 We now have our 600k TreeBase.
 
-table
+datatable
  delimiter ,
  printTable
  data
@@ -618,7 +618,7 @@ Whenever running a long script, it's smart to test it with a smaller dataset fir
 
 It worked!!! I now have a TreeBase with over 6 million files in a single directory. Well, a few things worked, most things did not.
 
-table
+datatable
  delimiter ,
  printTable
  data

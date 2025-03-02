@@ -1,0 +1,120 @@
+date 2025-2-24
+tags All
+title What we published in 2024 for $70,000
+container 430px
+standardPost.scroll
+
+A nerveshaker is a trick performers can use to kickstart a performance. Once the generative networks in your brain are rolling they keep rolling but the inhibitory networks can keep them from starting. So if you have tricks that just divert energy away from the inhibitory networks and provide a jump to the generative networks, you can ensure your motor will start. For example, to kickstart an essay sometimes I will start by inventing a new term. Such as nerveshaker.
+ // though not sure if I invented this term or heard it on Conan O'Brien's interview with Kristin Wigg
+
+***
+
+Now that we have the motor running, let's turn to the matter at hand: judging our 2024 research results.
+
+***
+
+First, a note on pronouns  (no, not that kind of pronoun). In this report I use the terms "we" and "our", rather than I, because I had _tremendous_ help from over a hundred people throughout the year. Although I was not an "employee" of any lab, nor did I have "employees", I received significant help in many forms, from code and data contributions, to code and paper reviews, to lots of in person meetings and presentation opportunities, to resources including office, lab, equipment and housing, to even direct cash contributions.
+
+If the work done in 2024 grows into meaningful things, it is because of the help and spirit of these people throughout the world, who have believed in (or at least humored) what we are trying to do, and have helped advance things, despite my underwhelming leadership and engineering capabilities. So, that is why I mean it when I say this is a report of what _we_ published.
+
+***
+
+Second, a word on why this report is on research performance and not business performance. This answer is simple: business performance was abysmal. I started the year with about $70,000 and ended with a bit less than $0. If I were just to report on business performance it would just write a single letter: F.
+
+But, luckily (or delusionally), for me, there's another perspective to judge our 2024 results and that is the expected value of what these things might lead to.
+
+And I think that the expected value of what we did in 2024 will be very, very high. Let's take a look.
+
+***
+
+# ScrollSets
+ scrollsets.html
+
+Our top innovation, IMO, is ScrollSets. ScrollSets are a new simple alternative to knowledge bases that only require a simple plain text file. In 2024 we finally refined all the little pieces to make the whole thing just work. In 2025 we should be able to make them about 10-100x faster and then I think it will be off to the races.
+
+I think ScrollSets may evolve into being one of the premier tools for truth. They allow you to take very small, simple steps, to build a very large matrix where all of the vectors intertwine so that as it grows it becomes very difficult to hide lies.
+
+Money is a simple and available metric, even if suboptimal. If we look at the monetary impact this could have, well it's pretty big. On the order of $100 billion is spent on databases annually. So creating a potential game changer for <$70,000 I think is promising.
+
+***
+
+# Finding a cure for "Mood" Disorders
+ bipolarModel.html
+
+Building a ScrollSet about a topic is like building a compass that guides you to a true model of a topic. I used an early version of ScrollSets to build BrainDB, to solve a mysterious energy fluctuation I had experienced most of my life (erroneously called 'bipolar disorder'), that was said to be incurable. ScrollSets lead one to a thorough model, and eventually I stumbled upon a small group of researchers who were looking at this condition as a mitochondrial condition, caused in large part by a modern carb-heavy diet. After over a year of experimentation and a significant amount of research and microscopy I can now say with high confidence that this looks like exactly what it is, and we are now in the process of building a large image dataset of human mitochondria under the microscope to show this definitively. Again, money is a crude metric, but a simple one, and the estimated total annual global cost of "mood disorders" is on the order of $1 trillion. Making a significant contribution to a cure for $70,000 I think is a good ROI.
+
+***
+
+# Other Things
+
+Those are the two projects that I think will lead to the biggest long term impact on the world. And we're hard at work on taking them to the next level.
+
+In addition, we put out a lot of other stuff that is also promising:
+
+## ScrollHub
+ https://hub.scroll.pub/
+A very powerful web server and editing environment being built especially to accelerate the building of ScrollSets.
+## Particles, Parsers, and Scroll
+ https://scroll.pub/
+The Scroll language itself and the layers it is built on (Particles and Parsers) improved a great deal throughout the year. We started the year on version 72, and ended on version 162!
+# E=T/A! and The Permission Function
+ eta.html E=T/A!
+ thePermissionFunction.html The Permission Function
+We made good headway on providing new perspectives to show theoretically why copyrights and patents are bad for progress. The extreme energy waste of the Permission Function shows why the ideal term for these monopolies must be 0, and the E=T/A! equation explains why they slow down the evolution of bad ideas into good ideas. I think these arguments should help contribute to bringing the abolishment of imaginary property laws into the Overton Window, which will have profoundly positive effects for human kind.
+## PLDB
+ https://pldb.io/
+In addition to now running on ScrollHub, we added a lot more data as well as a few new interesting interviews with some accomplished creators.
+## Particle Chains
+ particleChain.html
+I think Particle Chains may turn out to be extremely useful, and that will be something interesting to watch in 2025.
+## World Wide Scroll
+ https://wws.scroll.pub/
+An experiment in building a successor to the web that works offline, in a more intelligent language, and is public domain. This did not immediately catch on but not ready to rule it out yet.
+
+***
+
+## Minor
+
+In addition, some fun side projects including:
+
+## Wifinder
+ https://wifinder.wiki/
+A side project to measure and share wifi speeds of public networks across the globe.
+## Togger
+ https://togger.com/
+A side project to provide a faster UI for people to find and connect with live streamers.
+## Builder News
+ https://news.pub/
+A side project to bring more positive energy than "Show HN", where web builders record and share user tests for other web builders.
+## This Blog
+ https://breckyunits.com/
+Over 70 posts in 2024, crushing my previous record of 37 in 2009. The Scroll language and ScrollHub were significant factors in increasing output.
+
+***
+
+# Public Domain
+
+As always, everything done was published to the public domain. I believe this is the way all research should be done.
+
+***
+
+# Expenses
+
+* ~80% of expenses went to lodging, food and transportation. I would like to cut those daily outlays in half. The reason it was so high is that my personal situation still has a conflict (I'm an open book and fine to share that my ex and her conspirers are still dishonestly persecuting me daily with secret motives. It is what it is. I don't try to focus on it but I don't want to hide anything). If I knew how long it was going to take to get things humming, I may have taken harder cost cutting measures earlier.
+
+In 2025, I would like to put every penny of expense on a public ledger to provide more transparency and commitment to our backers that we are allocating resources wisely.
+
+***
+
+# Conclusion
+
+In 2024, as in prior years, I was rejected from pretty much every source of funding I applied to. At one point I did have a handshake deal for $1M which would have accelerated things, but that fell through for some reason (I never did get a reason), which led to a challenging (but educational!) last couple of months.
+
+I hope some philanthropists and/or funders of research will take a look at what we did in 2024 and consider helping us do even better work in 2025.
+
+Thanks for reading.
+
+-Breck
+
+****
+

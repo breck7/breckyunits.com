@@ -1,1154 +1,1225 @@
-Source
- https://breckyunits.com/
- 
- Thu, 09 Jan 2025 17:26:55 +0000
- en-us
- 
-The Permission Function
-https://breckyunits.com/thePermissionFunction.html
-Invalid Date
-
- 
-Why Define a New Language?
-https://breckyunits.com/whyDefineANewLanguage.html
-Invalid Date
-
- 
-Mitocycles
-https://breckyunits.com/mitocycle.html
-Invalid Date
-
- 
-Breckchain
-https://breckyunits.com/breckchain.html
-Invalid Date
-
- 
-Particle Thinking
-https://breckyunits.com/particleThinking.html
-Invalid Date
-
- 
-On Focus
-https://breckyunits.com/focus.html
-Invalid Date
-
- 
-A New Scientific Model of Mania and Depression, with Testable Predictions
-https://breckyunits.com/bipolarModel.html
-Invalid Date
-
- 
-Comics
-https://breckyunits.com/comics.html
-Invalid Date
-
- 
-Writeable
-https://breckyunits.com/writeable.html
-Invalid Date
-
- 
-Why Scroll?
-https://breckyunits.com/whyScroll.html
-Invalid Date
-
- 
-Copyright is a mind virus
-https://breckyunits.com/copyrightIsAMindVirus.html
-Invalid Date
-
- 
-Patents are Poison
-https://breckyunits.com/patentsArePoison.html
-Invalid Date
-
- 
-Strong Startup Advice
-https://breckyunits.com/startupAdvice.html
-Invalid Date
-
- 
-What do you need to make our universe?
-https://breckyunits.com/essentials.html
-Invalid Date
-
- 
-sf: instant scratch folders
-https://breckyunits.com/sf.html
-Invalid Date
-
- 
-Microprogramming: A New Way to Program
-https://breckyunits.com/microprograms.html
-Invalid Date
-
- 
-The Liver Turns On and Off
-https://breckyunits.com/liver.html
-Invalid Date
-
- 
-Make Something You Love
-https://breckyunits.com/makeSomethingYouLove.html
-Invalid Date
-
- 
-Flaws in Heaven
-https://breckyunits.com/flawsInHeaven.html
-Invalid Date
-
- 
-The Galton Board
-https://breckyunits.com/hebner.html
-Invalid Date
-
- 
-Advice to the current batch of YCombinator companies: demand carry
-https://breckyunits.com/letter.html
-Invalid Date
-
- 
-Particle Chain: A New Kind of Blockchain
-https://breckyunits.com/particleChain.html
-Invalid Date
-
- 
-Humans
-https://breckyunits.com/humans.html
-Invalid Date
-
- 
-Nature's Eternal Omen: Do not ignore me.
-https://breckyunits.com/neo.html
-Invalid Date
-
- 
-Why Warpcast should not add blocking
-https://breckyunits.com/blocking.html
-Invalid Date
-
- 
-A Review of the South Park Commons Rejection Letter
-https://breckyunits.com/southPark.html
-Invalid Date
-
- 
-PAU: Patient Accessible and Understandable health records
-https://breckyunits.com/pau.html
-Invalid Date
-
- 
-The Journey of the Ketones
-https://breckyunits.com/ketoneMap.html
-Invalid Date
-
- 
-Part Assholes are Awesome
-https://breckyunits.com/assholes.html
-Invalid Date
-
- 
-David's Last Letter
-https://breckyunits.com/davidsLastLetter.html
-Invalid Date
-
- 
-Abraham Lincoln: "Discourage Litigation."
-https://breckyunits.com/litigation.html
-Invalid Date
-
- 
-ETA!: A Measure of Evolution
-https://breckyunits.com/eta.html
-Invalid Date
-
- 
-Early Source
-https://breckyunits.com/earlySource.html
-Invalid Date
-
- 
-Vest Early. Vest Often.
-https://breckyunits.com/vestEarlyVestOften.html
-Invalid Date
-
- 
-IPDD
-https://breckyunits.com/ipdd.html
-Invalid Date
-
- 
-CheckBox: An Online + Offline Voting System
-https://breckyunits.com/checkbox.html
-Invalid Date
-
- 
-The World Wide Scroll
-https://breckyunits.com/wws.html
-Invalid Date
-
- 
-Download this Blog
-https://breckyunits.com/download.html
-Invalid Date
-
- 
-ICS: A Measure of Intelligence
-https://breckyunits.com/intelligence.html
-Invalid Date
-
- 
-PTCRI: An Equation about Syntax Potential
-https://breckyunits.com/ptcri.html
-Invalid Date
-
- 
-Patch: a micro language to make pretty deep links easy
-https://breckyunits.com/patch.html
-Invalid Date
-
- 
-The Choice
-https://breckyunits.com/meaning.html
-Invalid Date
-
- 
-Breck's Lab
-https://breckyunits.com/lab.html
-Invalid Date
-
- 
-Bring back RadioShack?
-https://breckyunits.com/radioShack.html
-Invalid Date
-
- 
-What can we learn from programming language version numbers?
-https://breckyunits.com/versionNumbers.html
-Invalid Date
-
- 
-Abort Bars
-https://breckyunits.com/abortBar.html
-Invalid Date
-
- 
-The Omni Restaurant
-https://breckyunits.com/omniRestaurant.html
-Invalid Date
-
- 
-ScrollSets: A New Way to Store Knowledge
-https://breckyunits.com/scrollsets.html
-Invalid Date
-
- 
-High Impact Thoughts
-https://breckyunits.com/hits.html
-Invalid Date
-
- 
-PMF Mirages
-https://breckyunits.com/pmfMirage.html
-Invalid Date
-
- 
-The law favors ChatGPT over humans
-https://breckyunits.com/digitalCopyright.html
-Invalid Date
-
- 
-Corporate Email
-https://breckyunits.com/corporateEmail.html
-Invalid Date
-
- 
-Marks
-https://breckyunits.com/marks.html
-Invalid Date
-
- 
-The Tallest Tree
-https://breckyunits.com/theTallestTree.html
-Invalid Date
-
- 
-Three Scientists Go To Heaven
-https://breckyunits.com/aScientistGoesToHeaven.html
-Invalid Date
-
- 
-Hypothermia
-https://breckyunits.com/badModels.html
-Invalid Date
-
- 
-A Higher Language
-https://breckyunits.com/aHigherLanguage.html
-Invalid Date
-
- 
-Hot Coffee
-https://breckyunits.com/datasets.html
-Invalid Date
-
- 
-Big O's Kitchen
-https://breckyunits.com/bigOsKitchen.html
-Invalid Date
-
- 
-The Fastest in the World
-https://breckyunits.com/fastest.html
-Invalid Date
-
- 
-Final Tree Notation Report
-https://breckyunits.com/treeNotationFinalReport.html
-Invalid Date
-
- 
-The Box Method of Science
-https://breckyunits.com/boxMethod.html
-Invalid Date
-
- 
-Synthesizing Knowledge
-https://breckyunits.com/synthesizingKnowledge.html
-Invalid Date
-
- 
-Why do we subsidize lies?
-https://breckyunits.com/whyDoWeSubsidizeLies.html
-Invalid Date
-
- 
-Beliefs
-https://breckyunits.com/beliefs.html
-Invalid Date
-
- 
-On Eating Animals
-https://breckyunits.com/eatingAnimals.html
-Invalid Date
-
- 
-Words are Worse than Weights
-https://breckyunits.com/wordsAreWorseThanWeights.html
-Invalid Date
-
- 
-If nature is doing it...
-https://breckyunits.com/ifNatureIsDoingIt.html
-Invalid Date
-
- 
-Writing in 2024
-https://breckyunits.com/nyd2024.html
-Invalid Date
-
- 
-Could in vitro brains power AI?
-https://breckyunits.com/couldInVitroBrainsPowerAI.html
-Invalid Date
-
- 
-I thought we could build AI experts by hand
-https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
-Invalid Date
-
- 
-A Proposal to Solve Government Forms Worldwide, Forever
-https://breckyunits.com/a-proposal-on-government-forms.html
-Invalid Date
-
- 
-Many Narratives. All true.
-https://breckyunits.com/many-narratives-all-true.html
-Invalid Date
-
- 
-Live Free or AGI
-https://breckyunits.com/live-free-or-agi.html
-Invalid Date
-
- 
-A Mathematical Model of Copyright
-https://breckyunits.com/a-mathematical-model-of-copyright.html
-Invalid Date
-
- 
-Walking and other invisible tools of thought
-https://breckyunits.com/walking-as-a-tool-of-thought.html
-Invalid Date
-
- 
-The Magnificent Multi-Agent Mind of Marvin Minsky
-https://breckyunits.com/marvin-minsky.html
-Invalid Date
-
- 
-Enchained Symbols
-https://breckyunits.com/enchained-symbols.html
-Invalid Date
-
- 
-A Public Domain Human
-https://breckyunits.com/a-public-domain-human.html
-Invalid Date
-
- 
-SafeFS
-https://breckyunits.com/safeFs.html
-Invalid Date
-
- 
-Use the Spine
-https://breckyunits.com/useTheSpine.html
-Invalid Date
-
- 
-One Textarea
-https://breckyunits.com/oneTextarea.html
-Invalid Date
-
- 
-Root Thinking
-https://breckyunits.com/root-thinking.html
-Invalid Date
-
- 
-Replies always welcome
-https://breckyunits.com/replies-always-welcome.html
-Invalid Date
-
- 
-Training a neural network to spot misinformation and fake news from a single image
-https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html
-Invalid Date
-
- 
-A scratch ticket with a positive expected value
-https://breckyunits.com/scratch-ticket.html
-Invalid Date
-
- 
-Cancer and Copyright
-https://breckyunits.com/cancer-and-copyright.html
-Invalid Date
-
- 
-An Angel Investor's Data
-https://breckyunits.com/an-angel-investors-data.html
-Invalid Date
-
- 
-How the public domain can win
-https://breckyunits.com/how-the-public-domain-can-win.html
-Invalid Date
-
- 
-The Three Byte Fix
-https://breckyunits.com/ckmeans.html
-Invalid Date
-
- 
-Upstream of Everything
-https://breckyunits.com/upstream-of-everything.html
-Invalid Date
-
- 
-Brain Pilots
-https://breckyunits.com/brain-pilots.html
-Invalid Date
-
- 
-Aftertext
-https://breckyunits.com/aftertext.html
-Invalid Date
-
- 
-Write Thin to Write Fast
-https://breckyunits.com/write-thin-to-write-fast.html
-Invalid Date
-
- 
-User Methods
-https://breckyunits.com/user-methods.html
-Invalid Date
-
- 
-Goblin Interviews Alexandra Elbakian
-https://breckyunits.com/elbakian-interview.html
-Invalid Date
-
- 
-Scrolldown now has Dialogues
-https://breckyunits.com/dialogues.html
-Invalid Date
-
- 
-The Intellectual Freedom Amendment
-https://breckyunits.com/ifa.html
-Invalid Date
-
- 
-Some old blogs
-https://breckyunits.com/some-old-blogs.html
-Invalid Date
-
- 
-Strong Advice
-https://breckyunits.com/advice.html
-Invalid Date
-
- 
-Logeracy
-https://breckyunits.com/logeracy.html
-Invalid Date
-
- 
-How to fix the CDC, NIH, etc
-https://breckyunits.com/how-to-fix-the-cdc.html
-Invalid Date
-
- 
-How James Park built FitBit
-https://breckyunits.com/how-james-park-built-fitbit.html
-Invalid Date
-
- 
-Insist on Focus - Keith Rabois describes working at PayPal
-https://breckyunits.com/insist-on-focus.html
-Invalid Date
-
- 
-The Public Domain Publishing Company
-https://breckyunits.com/the-public-domain-publishing-company.html
-Invalid Date
-
- 
-Scroll Beta
-https://breckyunits.com/scroll-beta.html
-Invalid Date
-
- 
-Sleepy Time Conference
-https://breckyunits.com/sleepyTimeConference.html
-Invalid Date
-
- 
-2019 Tree Notation Annual Report
-https://breckyunits.com/tree-notation-annual-report-2019.html
-Invalid Date
-
- 
-Musing on the Future of Healthcare
-https://breckyunits.com/musing-on-the-future-of-healthcare.html
-Invalid Date
-
- 
-Medical Records to the Moon
-https://breckyunits.com/medical-records-to-the-moon.html
-Invalid Date
-
- 
-How Old Are These Keys? Five Eras of Human Progress
-https://breckyunits.com/how-old-are-these-keys.html
-Invalid Date
-
- 
-An Unpopular Phrase
-https://breckyunits.com/an-unpopular-phrase.html
-Invalid Date
-
- 
-Integrity and Perseverance in Business ensure success (1853)
-https://breckyunits.com/integrity-and-perseverance-in-business-ensure-success.html
-Invalid Date
-
- 
-Building a TreeBase with 6.5 million files
-https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
-Invalid Date
-
- 
-Dataset Needed
-https://breckyunits.com/dataset-needed.html
-Invalid Date
-
- 
-Type the World
-https://breckyunits.com/type-the-world.html
-Invalid Date
-
- 
-If stories are lies why do they work?
-https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
-Invalid Date
-
- 
-Dreaming of a Data Checked Language
-https://breckyunits.com/dreaming-of-a-data-checked-language.html
-Invalid Date
-
- 
-English cannot encode Real News
-https://breckyunits.com/english-cannot-encode-real-news.html
-Invalid Date
-
- 
-30,000 Hours
-https://breckyunits.com/30000hours.html
-Invalid Date
-
- 
-Removing the 2’s from Trinary Notation is a Terrible Idea.
-https://breckyunits.com/trinary.html
-Invalid Date
-
- 
-PC: Particle Complexity
-https://breckyunits.com/countingComplexity.html
-Invalid Date
-
- 
-Parsers: a language for making languages
-https://breckyunits.com/aGrammarNotationForTreeLanguages.html
-Invalid Date
-
- 
-Ohayo
-https://breckyunits.com/ohayo.html
-Invalid Date
-
- 
-Tree Notation: an antifragile program notation
-https://breckyunits.com/treenotationPaper.html
-Invalid Date
-
- 
-A New Discovery in Computer Science: 2-Dimensional Programming Languages
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
-Invalid Date
-
- 
-Big Data Notation
-https://breckyunits.com/big-data-notation.html
-Invalid Date
-
- 
-NudgePad: An IDE in Your Browser
-https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
-Invalid Date
-
- 
-ScrollNet: A successor to the Internet
-https://breckyunits.com/scrollnet.html
-Invalid Date
-
- 
-Software Should Save People Time
-https://breckyunits.com/software-should-save-people-time.html
-Invalid Date
-
- 
-Time
-https://breckyunits.com/time.html
-Invalid Date
-
- 
-Why 10,000 hours?
-https://breckyunits.com/why-10000-hours.html
-Invalid Date
-
- 
-Money is Meant to Circulate
-https://breckyunits.com/money-is-meant-to-circulate.html
-Invalid Date
-
- 
-Minor Epiphanies
-https://breckyunits.com/minor-epiphanies.html
-Invalid Date
-
- 
-The Booster Design Pattern
-https://breckyunits.com/the-booster-design-pattern.html
-Invalid Date
-
- 
-Startups and Planes
-https://breckyunits.com/startups-and-planes.html
-Invalid Date
-
- 
-Save Your Money for Great Values
-https://breckyunits.com/save-your-money-for-great-values.html
-Invalid Date
-
- 
-Infinite Futures
-https://breckyunits.com/infinite-futures.html
-Invalid Date
-
- 
-Prove It
-https://breckyunits.com/prove-it.html
-Invalid Date
-
- 
-The Great Bank Robbery
-https://breckyunits.com/the-great-bank-robbery.html
-Invalid Date
-
- 
-Responsibility
-https://breckyunits.com/responsibility.html
-Invalid Date
-
- 
-Deliver
-https://breckyunits.com/deliver.html
-Invalid Date
-
- 
-Black Swans and Technology
-https://breckyunits.com/black-swans-and-technology.html
-Invalid Date
-
- 
-Probability Makes Planes Fly
-https://breckyunits.com/probability-makes-planes-fly.html
-Invalid Date
-
- 
-Can't Lose. Could Win Big.
-https://breckyunits.com/cant-lose-could-win-big.html
-Invalid Date
-
- 
-Simple is...
-https://breckyunits.com/simple-is.html
-Invalid Date
-
- 
-Narratives Misrepresent Complex Systems
-https://breckyunits.com/narratives-misrepresent-complex-systems.html
-Invalid Date
-
- 
-Introducing Note
-https://breckyunits.com/introducing-note.html
-Invalid Date
-
- 
-Planets and Pebbles
-https://breckyunits.com/planets-and-pebbles.html
-Invalid Date
-
- 
-Publishing More
-https://breckyunits.com/publishing-more.html
-Invalid Date
-
- 
-Setplicity
-https://breckyunits.com/setplicity.html
-Invalid Date
-
- 
-Naming Things
-https://breckyunits.com/naming-things.html
-Invalid Date
-
- 
-What can a Programmer learn from Rock Climbing?
-https://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html
-Invalid Date
-
- 
-Look for a Line
-https://breckyunits.com/look-for-a-line.html
-Invalid Date
-
- 
-Backpack the World with Zero Planning
-https://breckyunits.com/backpack-the-world-with-zero-planning.html
-Invalid Date
-
- 
-The Economy Explained
-https://breckyunits.com/the-economy-explained.html
-Invalid Date
-
- 
-You Can't Predict the Future
-https://breckyunits.com/you-cant-predict-the-future.html
-Invalid Date
-
- 
-Ruby
-https://breckyunits.com/ruby.html
-Invalid Date
-
- 
-Recommendations Are Far From Good
-https://breckyunits.com/recommendations-are-far-from-good.html
-Invalid Date
-
- 
-Nature Verse Nurture
-https://breckyunits.com/nature-verse-nurture.html
-Invalid Date
-
- 
-Kids are Neat
-https://breckyunits.com/kids-are-neat.html
-Invalid Date
-
- 
-How is Intelligence Distributed?
-https://breckyunits.com/how-is-intelligence-distributed.html
-Invalid Date
-
- 
-Critical Thinking
-https://breckyunits.com/critical-thinking.html
-Invalid Date
-
- 
-Circle of Competence
-https://breckyunits.com/circle-of-competence.html
-Invalid Date
-
- 
-What Percentage of the Brain Does What?
-https://breckyunits.com/what-percentage-of-the-brain-does-what.html
-Invalid Date
-
- 
-The Recency Effect
-https://breckyunits.com/the-recency-effect.html
-Invalid Date
-
- 
-The Ovarian Lottery and Other Side Projects
-https://breckyunits.com/the-ovarian-lottery-and-other-side-projects.html
-Invalid Date
-
- 
-What I Want
-https://breckyunits.com/what-i-want.html
-Invalid Date
-
- 
-Orbits
-https://breckyunits.com/orbits.html
-Invalid Date
-
- 
-Happiness is in Mediocristan
-https://breckyunits.com/happiness-is-in-mediocristan.html
-Invalid Date
-
- 
-The Do You Know Game and Why We Need Celebrities
-https://breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.html
-Invalid Date
-
- 
-Design Matters. A lot.
-https://breckyunits.com/design-matters-a-lot.html
-Invalid Date
-
- 
-Competition and Specialization
-https://breckyunits.com/competition-and-specialization.html
-Invalid Date
-
- 
-Simple, but not easy
-https://breckyunits.com/simple-but-not-easy.html
-Invalid Date
-
- 
-Flip Flopping
-https://breckyunits.com/flip-flopping.html
-Invalid Date
-
- 
-The Churn Rate of Data
-https://breckyunits.com/the-churn-rate-of-data.html
-Invalid Date
-
- 
-Culture and Complexity
-https://breckyunits.com/culture-and-complexity.html
-Invalid Date
-
- 
-The Invention of Free Will
-https://breckyunits.com/the-invention-of-free-will.html
-Invalid Date
-
- 
-Why is it best to do one thing really, really well?
-https://breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.html
-Invalid Date
-
- 
-The Hidden Benefits of Automation
-https://breckyunits.com/the-hidden-benefits-of-automation.html
-Invalid Date
-
- 
-Metrics for Programmers
-https://breckyunits.com/metrics-for-programmers.html
-Invalid Date
-
- 
-HackerNews Data: Visits as a Function of Karma
-https://breckyunits.com/hackernews-data-visits-as-a-function-of-karma.html
-Invalid Date
-
- 
-Don't talk about what you will do, talk about what you have done
-https://breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.html
-Invalid Date
-
- 
-Why it's worth it to buy the book
-https://breckyunits.com/why-its-worth-it-to-buy-the-book.html
-Invalid Date
-
- 
-The Least You Can Do
-https://breckyunits.com/the-least-you-can-do.html
-Invalid Date
-
- 
-Four Tips to Improve Communication
-https://breckyunits.com/four-tips-to-improve-communication.html
-Invalid Date
-
- 
-Network Effects
-https://breckyunits.com/network-effects.html
-Invalid Date
-
- 
-If you can explain something logically, you can explain it simply
-https://breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.html
-Invalid Date
-
- 
-With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
-https://breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html
-Invalid Date
-
- 
-When forced to wait, wait!
-https://breckyunits.com/when-forced-to-wait-wait.html
-Invalid Date
-
- 
-How to Buy Low, Sell High
-https://breckyunits.com/how-to-buy-low-sell-high.html
-Invalid Date
-
- 
-Flee the Bubble
-https://breckyunits.com/flee-the-bubble.html
-Invalid Date
-
- 
-Checklist for New Products
-https://breckyunits.com/checklist-for-new-products.html
-Invalid Date
-
- 
-Diversification in Startups
-https://breckyunits.com/diversification-in-startups.html
-Invalid Date
-
- 
-Thoughts on Setting Goals
-https://breckyunits.com/thoughts-on-setting-goals.html
-Invalid Date
-
- 
-Problems Worth Solving
-https://breckyunits.com/problems-worth-solving.html
-Invalid Date
-
- 
-Make Something 40% of Your Customers Must Have
-https://breckyunits.com/make-something-40-of-your-customers-must-have.html
-Invalid Date
-
- 
-SEO Made Easy: LUMPS
-https://breckyunits.com/seo-made-easy-lumps.html
-Invalid Date
-
- 
-Don't Flip the Bit
-https://breckyunits.com/dont-flip-the-bozo-bit.html
-Invalid Date
-
- 
-(un)features
-https://breckyunits.com/unfeatures.html
-Invalid Date
-
- 
-Get Stuff Done By Setting Arbitrary Constraints
-https://breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.html
-Invalid Date
-
- 
-Why You Shouldn't Save Blogging for Old Age
-https://breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.html
-Invalid Date
-
- 
-6 Specific Ways to Find Programming Mentors
-https://breckyunits.com/6-specific-ways-to-find-programming-mentors.html
-Invalid Date
-
- 
-Orders of Magnitude
-https://breckyunits.com/orders-of-magnitude.html
-Invalid Date
-
- 
-The Many Worlds Law
-https://breckyunits.com/the-many-worlds-law.html
-Invalid Date
-
- 
-Twelve Tips to Master Programming Faster
-https://breckyunits.com/twelve-tips-to-master-programming-faster.html
-Invalid Date
-
- 
-What's Linear Algebra?
-https://breckyunits.com/whats-linear-algebra.html
-Invalid Date
-
- 
-Fiction or Nonfiction?
-https://breckyunits.com/fiction-or-nonfiction.html
-Invalid Date
-
- 
-Experience is What You Get
-https://breckyunits.com/experience-is-what-you-get.html
-Invalid Date
-
- 
-I'm Back
-https://breckyunits.com/im-back.html
-Invalid Date
-
- 
-What you focus on, increases
-https://breckyunits.com/what-you-focus-on-increases.html
-Invalid Date
-
- 
-The Truth about Web Design
-https://breckyunits.com/the-truth-about-web-design.html
-Invalid Date
-
- 
-Twitter Search Wins Again
-https://breckyunits.com/twitter-search-wins-again.html
-Invalid Date
-
- 
-Irrational Numbers
-https://breckyunits.com/irrational-numbers.html
-Invalid Date
-
- 
-Are you Making Something that will become ‘Absolutely Irrelevant’?
-https://breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.html
-Invalid Date
-
- 
-Meteorite Caught on Film
-https://breckyunits.com/meteorite-caught-on-film.html
-Invalid Date
-
- 
-When the Market Says No, Listen
-https://breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.html
-Invalid Date
-
- 
-San Francisco
-https://breckyunits.com/san-francisco.html
-Invalid Date
-
- 
-JustHackIt
-https://breckyunits.com/justhackit.html
-Invalid Date
-
- 
-How to Cure the Hiccups
-https://breckyunits.com/how-to-cure-the-hiccups.html
-Invalid Date
-
- 
-Bigger Telescopes are needed to Solve Global Warming
-https://breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.html
-Invalid Date
-
- 
-Trying Shelfari, GoodReads, and LibraryThing
-https://breckyunits.com/trying-shelfari-goodreads-and-librarything.html
-Invalid Date
-
- 
-Over Half of the World is Older Than Me
-https://breckyunits.com/over-half-of-the-world-is-older-than-me.html
-Invalid Date
-
- 
-Bloggers Turning Pro
-https://breckyunits.com/bloggers-who-turned-pro-and-their-famous-last-words.html
-Invalid Date
-
- 
-Daily Gas Use for the United States and the World
-https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html
-Invalid Date
-
- 
-Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles
-https://breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html
-Invalid Date
-
- 
-First Place in the Stock Market Game
-https://breckyunits.com/first-place-in-the-stock-market-game.html
-Invalid Date
-
- 
-Why a Team is Worth a lot more than an Idea
-https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html
-Invalid Date
-
- 
-Learning How to Program Part I
-https://breckyunits.com/learning-how-to-program-part-i.html
-Invalid Date
-
- 
-I guess the time has come
-https://breckyunits.com/i-guess-the-time-had-come.html
-Invalid Date
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>Source</title>
+ <link>https://breckyunits.com/</link>
+ <description></description>
+ <lastBuildDate>Sun, 02 Mar 2025 20:53:53 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+<title>What is Particle Syntax?</title>
+<link>https://breckyunits.com/whatIsParticles.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Communicating with the Market</title>
+<link>https://breckyunits.com/market.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Mathematical Model of Trust</title>
+<link>https://breckyunits.com/trust.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What we published in 2024 for $70,000</title>
+<link>https://breckyunits.com/2024.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What is Mathematics?</title>
+<link>https://breckyunits.com/mathematics.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Here's to Honest Work</title>
+<link>https://breckyunits.com/honestWork.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>MODO: A Method to Increase Truth</title>
+<link>https://breckyunits.com/truth.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Owned Air</title>
+<link>https://breckyunits.com/ownedAir.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Information Cleaner</title>
+<link>https://breckyunits.com/ic.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>All the benefits of property; none of the responsibility</title>
+<link>https://breckyunits.com/ipResponsibility.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Aaron's Amendment</title>
+<link>https://breckyunits.com/aaron.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Optimizing for Truth</title>
+<link>https://breckyunits.com/optimizingForTruth.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Greatest Prompt in the World</title>
+<link>https://breckyunits.com/greatestPrompt.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A New Coat of Paint</title>
+<link>https://breckyunits.com/aNewCoatOfPaint.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Permission Function</title>
+<link>https://breckyunits.com/thePermissionFunction.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why Define a New Language?</title>
+<link>https://breckyunits.com/whyDefineANewLanguage.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Mitocycles</title>
+<link>https://breckyunits.com/mitocycle.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Breckchain</title>
+<link>https://breckyunits.com/breckchain.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Particle Thinking</title>
+<link>https://breckyunits.com/particleThinking.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>On Focus</title>
+<link>https://breckyunits.com/focus.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A New Scientific Model of Mania and Depression, with Testable Predictions</title>
+<link>https://breckyunits.com/bipolarModel.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Comics</title>
+<link>https://breckyunits.com/comics.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Writeable</title>
+<link>https://breckyunits.com/writeable.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why Scroll?</title>
+<link>https://breckyunits.com/whyScroll.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Copyright is a mind virus</title>
+<link>https://breckyunits.com/copyrightIsAMindVirus.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Patents are Poison</title>
+<link>https://breckyunits.com/patentsArePoison.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Strong Startup Advice</title>
+<link>https://breckyunits.com/startupAdvice.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What do you need to make our universe?</title>
+<link>https://breckyunits.com/essentials.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>sf: instant scratch folders</title>
+<link>https://breckyunits.com/sf.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Microprogramming: A New Way to Program</title>
+<link>https://breckyunits.com/microprograms.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Liver Turns On and Off</title>
+<link>https://breckyunits.com/liver.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Make Something You Love</title>
+<link>https://breckyunits.com/makeSomethingYouLove.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Flaws in Heaven</title>
+<link>https://breckyunits.com/flawsInHeaven.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Galton Board</title>
+<link>https://breckyunits.com/hebner.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Advice to the current batch of YCombinator companies: demand carry</title>
+<link>https://breckyunits.com/letter.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Particle Chain: A New Kind of Blockchain</title>
+<link>https://breckyunits.com/particleChain.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Humans</title>
+<link>https://breckyunits.com/humans.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Nature's Eternal Omen: Do not ignore me.</title>
+<link>https://breckyunits.com/neo.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why Warpcast should not add blocking</title>
+<link>https://breckyunits.com/blocking.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Review of the South Park Commons Rejection Letter</title>
+<link>https://breckyunits.com/southPark.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>PAU: Patient Accessible and Understandable health records</title>
+<link>https://breckyunits.com/pau.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Journey of the Ketones</title>
+<link>https://breckyunits.com/ketoneMap.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Part Assholes are Awesome</title>
+<link>https://breckyunits.com/assholes.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>David's Last Letter</title>
+<link>https://breckyunits.com/davidsLastLetter.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Abraham Lincoln: "Discourage Litigation."</title>
+<link>https://breckyunits.com/litigation.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ETA!: A Measure of Evolution</title>
+<link>https://breckyunits.com/eta.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Early Source</title>
+<link>https://breckyunits.com/earlySource.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Vest Early. Vest Often.</title>
+<link>https://breckyunits.com/vestEarlyVestOften.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>IPDD</title>
+<link>https://breckyunits.com/ipdd.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>CheckBox: An Online + Offline Voting System</title>
+<link>https://breckyunits.com/checkbox.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The World Wide Scroll</title>
+<link>https://breckyunits.com/wws.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Download this Blog</title>
+<link>https://breckyunits.com/download.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ICS: A Measure of Intelligence</title>
+<link>https://breckyunits.com/intelligence.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>PTCRI: An Equation about Syntax Potential</title>
+<link>https://breckyunits.com/ptcri.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Patch: a micro language to make pretty deep links easy</title>
+<link>https://breckyunits.com/patch.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Choice</title>
+<link>https://breckyunits.com/meaning.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Breck's Lab</title>
+<link>https://breckyunits.com/lab.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bring back RadioShack?</title>
+<link>https://breckyunits.com/radioShack.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What can we learn from programming language version numbers?</title>
+<link>https://breckyunits.com/versionNumbers.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Abort Bars</title>
+<link>https://breckyunits.com/abortBar.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Omni Restaurant</title>
+<link>https://breckyunits.com/omniRestaurant.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ScrollSets: A New Way to Store Knowledge</title>
+<link>https://breckyunits.com/scrollsets.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>High Impact Thoughts</title>
+<link>https://breckyunits.com/hits.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>PMF Mirages</title>
+<link>https://breckyunits.com/pmfMirage.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The law favors ChatGPT over humans</title>
+<link>https://breckyunits.com/digitalCopyright.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Corporate Email</title>
+<link>https://breckyunits.com/corporateEmail.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Marks</title>
+<link>https://breckyunits.com/marks.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Tallest Tree</title>
+<link>https://breckyunits.com/theTallestTree.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Three Scientists Go To Heaven</title>
+<link>https://breckyunits.com/aScientistGoesToHeaven.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Hypothermia</title>
+<link>https://breckyunits.com/badModels.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Higher Language</title>
+<link>https://breckyunits.com/aHigherLanguage.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Hot Coffee</title>
+<link>https://breckyunits.com/datasets.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Big O's Kitchen</title>
+<link>https://breckyunits.com/bigOsKitchen.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Fastest in the World</title>
+<link>https://breckyunits.com/fastest.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Final Tree Notation Report</title>
+<link>https://breckyunits.com/treeNotationFinalReport.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Box Method of Science</title>
+<link>https://breckyunits.com/boxMethod.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Synthesizing Knowledge</title>
+<link>https://breckyunits.com/synthesizingKnowledge.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why do we subsidize lies?</title>
+<link>https://breckyunits.com/whyDoWeSubsidizeLies.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Beliefs</title>
+<link>https://breckyunits.com/beliefs.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>On Eating Animals</title>
+<link>https://breckyunits.com/eatingAnimals.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Words are Worse than Weights</title>
+<link>https://breckyunits.com/wordsAreWorseThanWeights.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>If nature is doing it...</title>
+<link>https://breckyunits.com/ifNatureIsDoingIt.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Writing in 2024</title>
+<link>https://breckyunits.com/nyd2024.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Could in vitro brains power AI?</title>
+<link>https://breckyunits.com/couldInVitroBrainsPowerAI.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>I thought we could build AI experts by hand</title>
+<link>https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Proposal to Solve Government Forms Worldwide, Forever</title>
+<link>https://breckyunits.com/a-proposal-on-government-forms.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Many Narratives. All true.</title>
+<link>https://breckyunits.com/many-narratives-all-true.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Live Free or AGI</title>
+<link>https://breckyunits.com/live-free-or-agi.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Mathematical Model of Copyright</title>
+<link>https://breckyunits.com/a-mathematical-model-of-copyright.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Walking and other invisible tools of thought</title>
+<link>https://breckyunits.com/walking-as-a-tool-of-thought.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Magnificent Multi-Agent Mind of Marvin Minsky</title>
+<link>https://breckyunits.com/marvin-minsky.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Enchained Symbols</title>
+<link>https://breckyunits.com/enchained-symbols.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A Public Domain Human</title>
+<link>https://breckyunits.com/a-public-domain-human.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>SafeFS</title>
+<link>https://breckyunits.com/safeFs.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Use the Spine</title>
+<link>https://breckyunits.com/useTheSpine.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>One Textarea</title>
+<link>https://breckyunits.com/oneTextarea.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Root Thinking</title>
+<link>https://breckyunits.com/root-thinking.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Replies always welcome</title>
+<link>https://breckyunits.com/replies-always-welcome.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Training a neural network to spot misinformation, fake news, and propaganda from a single image</title>
+<link>https://breckyunits.com/misinformationOrFakeNewsNeuralNetwork.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A scratch ticket with a positive expected value</title>
+<link>https://breckyunits.com/scratch-ticket.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Cancer and Copyright</title>
+<link>https://breckyunits.com/cancer-and-copyright.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>An Angel Investor's Data</title>
+<link>https://breckyunits.com/an-angel-investors-data.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How the public domain can win</title>
+<link>https://breckyunits.com/how-the-public-domain-can-win.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Three Byte Fix</title>
+<link>https://breckyunits.com/ckmeans.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Upstream of Everything</title>
+<link>https://breckyunits.com/upstream-of-everything.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Brain Pilots</title>
+<link>https://breckyunits.com/brain-pilots.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Aftertext</title>
+<link>https://breckyunits.com/aftertext.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Write Thin to Write Fast</title>
+<link>https://breckyunits.com/write-thin-to-write-fast.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>User Methods</title>
+<link>https://breckyunits.com/user-methods.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Goblin Interviews Alexandra Elbakian</title>
+<link>https://breckyunits.com/elbakian-interview.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Scrolldown now has Dialogues</title>
+<link>https://breckyunits.com/dialogues.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Some old blogs</title>
+<link>https://breckyunits.com/some-old-blogs.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Strong Advice</title>
+<link>https://breckyunits.com/advice.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Logeracy</title>
+<link>https://breckyunits.com/logeracy.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How to fix the CDC, NIH, etc</title>
+<link>https://breckyunits.com/how-to-fix-the-cdc.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How James Park built FitBit</title>
+<link>https://breckyunits.com/how-james-park-built-fitbit.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Insist on Focus - Keith Rabois describes working at PayPal</title>
+<link>https://breckyunits.com/insist-on-focus.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Public Domain Publishing Company</title>
+<link>https://breckyunits.com/the-public-domain-publishing-company.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Scroll Beta</title>
+<link>https://breckyunits.com/scroll-beta.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Sleepy Time Conference</title>
+<link>https://breckyunits.com/sleepyTimeConference.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>2019 Tree Notation Annual Report</title>
+<link>https://breckyunits.com/tree-notation-annual-report-2019.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Musing on the Future of Healthcare</title>
+<link>https://breckyunits.com/musing-on-the-future-of-healthcare.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Medical Records to the Moon</title>
+<link>https://breckyunits.com/medical-records-to-the-moon.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How Old Are These Keys? Five Eras of Human Progress</title>
+<link>https://breckyunits.com/how-old-are-these-keys.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>An Unpopular Phrase</title>
+<link>https://breckyunits.com/an-unpopular-phrase.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Integrity and Perseverance in Business ensure success (1853)</title>
+<link>https://breckyunits.com/integrity-and-perseverance-in-business-ensure-success.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Building a TreeBase with 6.5 million files</title>
+<link>https://breckyunits.com/building-a-treebase-with-6.5-million-files.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Dataset Needed</title>
+<link>https://breckyunits.com/dataset-needed.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Type the World</title>
+<link>https://breckyunits.com/type-the-world.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>If stories are lies why do they work?</title>
+<link>https://breckyunits.com/if-stories-are-lies-why-do-they-work.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Dreaming of a Data Checked Language</title>
+<link>https://breckyunits.com/dreaming-of-a-data-checked-language.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>English cannot encode Real News</title>
+<link>https://breckyunits.com/english-cannot-encode-real-news.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>30,000 Hours</title>
+<link>https://breckyunits.com/30000hours.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Removing the 2’s from Trinary Notation is a Terrible Idea.</title>
+<link>https://breckyunits.com/trinary.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>PC: Particle Complexity</title>
+<link>https://breckyunits.com/countingComplexity.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Parsers: a language for making languages</title>
+<link>https://breckyunits.com/aGrammarNotationForTreeLanguages.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Ohayo</title>
+<link>https://breckyunits.com/ohayo.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Tree Notation: an antifragile program notation</title>
+<link>https://breckyunits.com/treenotationPaper.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>A New Discovery in Computer Science: 2-Dimensional Programming Languages</title>
+<link>https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Big Data Notation</title>
+<link>https://breckyunits.com/big-data-notation.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>NudgePad: An IDE in Your Browser</title>
+<link>https://breckyunits.com/nudgepad-an-ide-in-your-browser.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>ScrollNet: A successor to the Internet</title>
+<link>https://breckyunits.com/scrollnet.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Software Should Save People Time</title>
+<link>https://breckyunits.com/software-should-save-people-time.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Time</title>
+<link>https://breckyunits.com/time.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why 10,000 hours?</title>
+<link>https://breckyunits.com/why-10000-hours.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Money is Meant to Circulate</title>
+<link>https://breckyunits.com/money-is-meant-to-circulate.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Minor Epiphanies</title>
+<link>https://breckyunits.com/minor-epiphanies.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Booster Design Pattern</title>
+<link>https://breckyunits.com/the-booster-design-pattern.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Startups and Planes</title>
+<link>https://breckyunits.com/startups-and-planes.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Save Your Money for Great Values</title>
+<link>https://breckyunits.com/save-your-money-for-great-values.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Infinite Futures</title>
+<link>https://breckyunits.com/infinite-futures.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Prove It</title>
+<link>https://breckyunits.com/prove-it.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Great Bank Robbery</title>
+<link>https://breckyunits.com/the-great-bank-robbery.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Responsibility</title>
+<link>https://breckyunits.com/responsibility.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Deliver</title>
+<link>https://breckyunits.com/deliver.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Black Swans and Technology</title>
+<link>https://breckyunits.com/black-swans-and-technology.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Probability Makes Planes Fly</title>
+<link>https://breckyunits.com/probability-makes-planes-fly.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Can't Lose. Could Win Big.</title>
+<link>https://breckyunits.com/cant-lose-could-win-big.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Simple is...</title>
+<link>https://breckyunits.com/simple-is.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Narratives Misrepresent Complex Systems</title>
+<link>https://breckyunits.com/narratives-misrepresent-complex-systems.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Introducing Note</title>
+<link>https://breckyunits.com/introducing-note.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Planets and Pebbles</title>
+<link>https://breckyunits.com/planets-and-pebbles.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Publishing More</title>
+<link>https://breckyunits.com/publishing-more.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Setplicity</title>
+<link>https://breckyunits.com/setplicity.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Naming Things</title>
+<link>https://breckyunits.com/naming-things.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What can a Programmer learn from Rock Climbing?</title>
+<link>https://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Look for a Line</title>
+<link>https://breckyunits.com/look-for-a-line.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Backpack the World with Zero Planning</title>
+<link>https://breckyunits.com/backpack-the-world-with-zero-planning.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Economy Explained</title>
+<link>https://breckyunits.com/the-economy-explained.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>You Can't Predict the Future</title>
+<link>https://breckyunits.com/you-cant-predict-the-future.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Ruby</title>
+<link>https://breckyunits.com/ruby.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Recommendations Are Far From Good</title>
+<link>https://breckyunits.com/recommendations-are-far-from-good.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Nature Verse Nurture</title>
+<link>https://breckyunits.com/nature-verse-nurture.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Kids are Neat</title>
+<link>https://breckyunits.com/kids-are-neat.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How is Intelligence Distributed?</title>
+<link>https://breckyunits.com/how-is-intelligence-distributed.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Critical Thinking</title>
+<link>https://breckyunits.com/critical-thinking.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Circle of Competence</title>
+<link>https://breckyunits.com/circle-of-competence.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What Percentage of the Brain Does What?</title>
+<link>https://breckyunits.com/what-percentage-of-the-brain-does-what.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Recency Effect</title>
+<link>https://breckyunits.com/the-recency-effect.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Ovarian Lottery and Other Side Projects</title>
+<link>https://breckyunits.com/the-ovarian-lottery-and-other-side-projects.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What I Want</title>
+<link>https://breckyunits.com/what-i-want.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Orbits</title>
+<link>https://breckyunits.com/orbits.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Happiness is in Mediocristan</title>
+<link>https://breckyunits.com/happiness-is-in-mediocristan.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Do You Know Game and Why We Need Celebrities</title>
+<link>https://breckyunits.com/the-do-you-know-game-and-why-we-need-celebrities.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Design Matters. A lot.</title>
+<link>https://breckyunits.com/design-matters-a-lot.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Competition and Specialization</title>
+<link>https://breckyunits.com/competition-and-specialization.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Simple, but not easy</title>
+<link>https://breckyunits.com/simple-but-not-easy.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Flip Flopping</title>
+<link>https://breckyunits.com/flip-flopping.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Churn Rate of Data</title>
+<link>https://breckyunits.com/the-churn-rate-of-data.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Culture and Complexity</title>
+<link>https://breckyunits.com/culture-and-complexity.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Invention of Free Will</title>
+<link>https://breckyunits.com/the-invention-of-free-will.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why is it best to do one thing really, really well?</title>
+<link>https://breckyunits.com/why-is-it-best-to-do-one-thing-really-really-well.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Hidden Benefits of Automation</title>
+<link>https://breckyunits.com/the-hidden-benefits-of-automation.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Metrics for Programmers</title>
+<link>https://breckyunits.com/metrics-for-programmers.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>HackerNews Data: Visits as a Function of Karma</title>
+<link>https://breckyunits.com/hackernews-data-visits-as-a-function-of-karma.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Don't talk about what you will do, talk about what you have done</title>
+<link>https://breckyunits.com/dont-talk-about-what-you-will-do-talk-about-what-you-have-done.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why it's worth it to buy the book</title>
+<link>https://breckyunits.com/why-its-worth-it-to-buy-the-book.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Least You Can Do</title>
+<link>https://breckyunits.com/the-least-you-can-do.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Four Tips to Improve Communication</title>
+<link>https://breckyunits.com/four-tips-to-improve-communication.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Network Effects</title>
+<link>https://breckyunits.com/network-effects.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>If you can explain something logically, you can explain it simply</title>
+<link>https://breckyunits.com/if-you-can-explain-something-logically-you-can-explain-it-simply.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself</title>
+<link>https://breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>When forced to wait, wait!</title>
+<link>https://breckyunits.com/when-forced-to-wait-wait.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How to Buy Low, Sell High</title>
+<link>https://breckyunits.com/how-to-buy-low-sell-high.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Flee the Bubble</title>
+<link>https://breckyunits.com/flee-the-bubble.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Checklist for New Products</title>
+<link>https://breckyunits.com/checklist-for-new-products.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Diversification in Startups</title>
+<link>https://breckyunits.com/diversification-in-startups.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Thoughts on Setting Goals</title>
+<link>https://breckyunits.com/thoughts-on-setting-goals.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Problems Worth Solving</title>
+<link>https://breckyunits.com/problems-worth-solving.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Make Something 40% of Your Customers Must Have</title>
+<link>https://breckyunits.com/make-something-40-of-your-customers-must-have.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>SEO Made Easy: LUMPS</title>
+<link>https://breckyunits.com/seo-made-easy-lumps.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Don't Flip the Bit</title>
+<link>https://breckyunits.com/dont-flip-the-bozo-bit.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>(un)features</title>
+<link>https://breckyunits.com/unfeatures.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Get Stuff Done By Setting Arbitrary Constraints</title>
+<link>https://breckyunits.com/get-stuff-done-by-setting-arbitrary-constraints.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why You Shouldn't Save Blogging for Old Age</title>
+<link>https://breckyunits.com/why-you-shouldnt-save-blogging-for-old-age.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>6 Specific Ways to Find Programming Mentors</title>
+<link>https://breckyunits.com/6-specific-ways-to-find-programming-mentors.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Orders of Magnitude</title>
+<link>https://breckyunits.com/orders-of-magnitude.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Many Worlds Law</title>
+<link>https://breckyunits.com/the-many-worlds-law.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Twelve Tips to Master Programming Faster</title>
+<link>https://breckyunits.com/twelve-tips-to-master-programming-faster.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What's Linear Algebra?</title>
+<link>https://breckyunits.com/whats-linear-algebra.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Fiction or Nonfiction?</title>
+<link>https://breckyunits.com/fiction-or-nonfiction.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Experience is What You Get</title>
+<link>https://breckyunits.com/experience-is-what-you-get.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>I'm Back</title>
+<link>https://breckyunits.com/im-back.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>What you focus on, increases</title>
+<link>https://breckyunits.com/what-you-focus-on-increases.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>The Truth about Web Design</title>
+<link>https://breckyunits.com/the-truth-about-web-design.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Twitter Search Wins Again</title>
+<link>https://breckyunits.com/twitter-search-wins-again.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Irrational Numbers</title>
+<link>https://breckyunits.com/irrational-numbers.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Are you Making Something that will become ‘Absolutely Irrelevant’?</title>
+<link>https://breckyunits.com/are-you-making-something-that-will-become-absolutely-irrelevant.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Meteorite Caught on Film</title>
+<link>https://breckyunits.com/meteorite-caught-on-film.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>When the Market Says No, Listen</title>
+<link>https://breckyunits.com/my-best-startup-advice-numbers-numbers-numbers.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>San Francisco</title>
+<link>https://breckyunits.com/san-francisco.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>JustHackIt</title>
+<link>https://breckyunits.com/justhackit.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>How to Cure the Hiccups</title>
+<link>https://breckyunits.com/how-to-cure-the-hiccups.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bigger Telescopes are needed to Solve Global Warming</title>
+<link>https://breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Trying Shelfari, GoodReads, and LibraryThing</title>
+<link>https://breckyunits.com/trying-shelfari-goodreads-and-librarything.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Over Half of the World is Older Than Me</title>
+<link>https://breckyunits.com/over-half-of-the-world-is-older-than-me.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Bloggers Turning Pro</title>
+<link>https://breckyunits.com/bloggers-who-turned-pro-and-their-famous-last-words.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Daily Gas Use for the United States and the World</title>
+<link>https://breckyunits.com/daily-gas-use-for-the-united-states-and-the-world.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Analyzing the Hacker News Users’ Join Dates, Karma, and Profiles</title>
+<link>https://breckyunits.com/analyzing-the-hacker-news-users-join-dates-karma-and-profiles.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>First Place in the Stock Market Game</title>
+<link>https://breckyunits.com/first-place-in-the-stock-market-game.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Why a Team is Worth a lot more than an Idea</title>
+<link>https://breckyunits.com/why-a-team-is-worth-a-lot-more-than-an-idea.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Learning How to Program Part I</title>
+<link>https://breckyunits.com/learning-how-to-program-part-i.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>I guess the time has come</title>
+<link>https://breckyunits.com/i-guess-the-time-had-come.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+</channel>
+</rss>

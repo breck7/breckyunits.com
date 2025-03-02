@@ -109,38 +109,39 @@ My Gmail filter
 Below is my Gmail filter. Paste it into `noReplyFilter.xml` then go to Settings > Filters > Import filters. Join the campaign to make email more human human again!
 
 ```
-
-    Mail Filters
-    tag:mail.google.com,2008:filters:z0000001687903548068*6834178925122906716
-    2023-06-27T22:06:11Z
-    
-        Breck Yunits
-        breck7@gmail.com
-    
-    
-        
-        Mail Filter
-        tag:mail.google.com,2008:filter:z0000001687903548068*6834178925122906716
-        2023-06-27T22:06:11Z
-        
-        
-        
-        
-        
-        
-        
-    
-    
-        
-        No no-reply email addresses
-        tag:mail.google.com,2009:cannedResponse:188fee33e5d0226e
-        2023-06-27T22:06:11Z
-        Hi! Did you know instead of a "no reply" email address there are ways to provide a better customer experience?
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+    <title>Mail Filters</title>
+    <id>tag:mail.google.com,2008:filters:z0000001687903548068*6834178925122906716</id>
+    <updated>2023-06-27T22:06:11Z</updated>
+    <author>
+        <name>Breck Yunits</name>
+        <email>breck7@gmail.com</email>
+    </author>
+    <entry>
+        <category term='filter'></category>
+        <title>Mail Filter</title>
+        <id>tag:mail.google.com,2008:filter:z0000001687903548068*6834178925122906716</id>
+        <updated>2023-06-27T22:06:11Z</updated>
+        <content></content>
+        <apps:property name='from' value='noreply@* | no-reply@* | donotreply@*'/>
+        <apps:property name='label' value='NoReplySpam'/>
+        <apps:property name='shouldArchive' value='true'/>
+        <apps:property name='cannedResponse' value='tag:mail.google.com,2009:cannedResponse:188fee33e5d0226e'/>
+        <apps:property name='sizeOperator' value='s_sl'/>
+        <apps:property name='sizeUnit' value='s_smb'/>
+    </entry>
+    <entry>
+        <category term='cannedResponse'></category>
+        <title>No no-reply email addresses</title>
+        <id>tag:mail.google.com,2009:cannedResponse:188fee33e5d0226e</id>
+        <updated>2023-06-27T22:06:11Z</updated>
+        <content type='text'>Hi! Did you know instead of a "no reply" email address there are ways to provide a better customer experience?
 
 Learn more: https://breckyunits.com/replies-always-welcome.html
-
-    
-
+</content>
+    </entry>
+</feed>
 ```
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

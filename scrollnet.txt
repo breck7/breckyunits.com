@@ -37,7 +37,7 @@ message Would love to hear your thoughts.
 
 This is simpler than how that message currently looks on the current Internet:
 
-`MIME-Version: 1.0 Received: by 10.76.12.234 with HTTP; Sun, 2 Jun 2013 16:36:57 -0700 (PDT) Date: Sun, 2 Jun 2013 16:36:57 -0700 Delivered-To: Vint Cerf , Bob Kahn  Subject: ScrollNet: Good idea or bad idea? From: Breck Yunits  To: Me  Content-Type: multipart/alternative; boundary=bcaec554097aeca02704de34521c —bcaec554097aeca02704de34521c Content-Type: text/plain; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c Content-Type: text/html; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c—`
+`MIME-Version: 1.0 Received: by 10.76.12.234 with HTTP; Sun, 2 Jun 2013 16:36:57 -0700 (PDT) Date: Sun, 2 Jun 2013 16:36:57 -0700 Delivered-To: Vint Cerf <vint@cerf.com>, Bob Kahn <bob@kahn.com> Subject: ScrollNet: Good idea or bad idea? From: Breck Yunits <breck7@gmail.com> To: Me <breck7@gmail.com> Content-Type: multipart/alternative; boundary=bcaec554097aeca02704de34521c —bcaec554097aeca02704de34521c Content-Type: text/plain; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c Content-Type: text/html; charset=ISO-8859-1 Would love to hear your thoughts. —bcaec554097aeca02704de34521c—`
 
 *
 
@@ -75,6 +75,16 @@ The complexity of current Internet protocols could be holding us back from an ev
 
 Related Posts
 =============
+What is Particle Syntax?
+========================
+03/02/2025
+https://breckyunits.com/whatIsParticles.html
+
+What is Mathematics?
+====================
+02/23/2025
+https://breckyunits.com/mathematics.html
+
 Why Define a New Language?
 ==========================
 12/10/2024
@@ -280,4 +290,4 @@ https://breckyunits.com/introducing-note.html
 _I originally published this on Medium._
  https://medium.com/space-net/spacenet-51aca95d49a2 published this on Medium
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

@@ -137,7 +137,7 @@ endColumns
 
 wideColumns 1
 
-table
+datatable
  delimiter ,
  printTable
  data

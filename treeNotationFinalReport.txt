@@ -66,6 +66,16 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 
 Related Posts
 =============
+What is Particle Syntax?
+========================
+03/02/2025
+https://breckyunits.com/whatIsParticles.html
+
+What is Mathematics?
+====================
+02/23/2025
+https://breckyunits.com/mathematics.html
+
 Why Define a New Language?
 ==========================
 12/10/2024
@@ -273,4 +283,4 @@ https://breckyunits.com/introducing-note.html
 ^ellipsis: The ellipsis here removes from the bet the words "perhaps a higher dimensional type of structure". Who knows? ;)
  http://longbets.org/793/ the bet
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

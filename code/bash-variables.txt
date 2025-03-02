@@ -49,6 +49,9 @@ echo "Your answer is $ANSWER"
 Notes
 =====
 
-1. Bash tutorial 2. Another tutorial 3. Bash parameters
+1. Bash <a href="https://steve-parker.org/sh/variables1.shtml
+">tutorial</a> 2. Another <a href="https://www.mcsr.olemiss.edu/unixhelp/environment/env3db.html
+">tutorial</a> 3. Bash <a href="https://steve-parker.org/sh/variables2.shtml
+">parameters</a>
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

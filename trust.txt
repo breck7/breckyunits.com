@@ -1,0 +1,45 @@
+A Mathematical Model of Trust
+=============================
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+February 25, 2025
+
+Can you think about trust mathematically? Yes.
+
+This makes it easier to design things to be more trustworthy.
+
+*
+
+You can think of anything and everything as an object that exists in 4D space.
+
+The ideas below can be used to maximize trust of that object.
+
+Inspection Vectors
+==================
+
+The amount you can trust an object is equivalent to the number of inspection vectors that intersect with that object.
+
+You want to minimize the number of planes that block inspection vectors.
+
+You want to minimize the number of complexity prisms that bend inspection vectors.
+
+You want to maximize the number of overlapping inspection vectors of different magnitudes (aka your zoom range).
+
+You want to maximize the time dimension of observability (version history).
+
+You want to maximize the number of simultaneous inspection vectors.
+
+Experimentation
+===============
+
+You want to maximize the number of copies of the object.
+
+You want to maximize the choppability of the object.
+
+*
+
+This is my initial list of guidelines for increasing trust.
+
+⁂
+
+Built with Scroll v173.0.0

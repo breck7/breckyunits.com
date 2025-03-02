@@ -19,4 +19,4 @@ doc/app
 - Source
  http://railstutorial.org/chapters/beginning#sec:adding_and_committing Source
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

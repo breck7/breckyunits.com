@@ -116,7 +116,8 @@ aupSymbol	1737	67	https://en.wikipedia.org/wiki/Arrow_(symbol)
 a/Symbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
 aSlashSymbol	1718	63	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
 a^Symbol	1681	61	https://www.merriam-webster.com/dictionary/caret
-aSymbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a<Symbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+a>Symbol	1631	61	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
 a=Symbol	1557	58	https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
 a(Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
 a)Symbol	1544	57	https://en.wikipedia.org/wiki/Bracket#Parentheses_(_)
@@ -176,4 +177,4 @@ aoSymbol	-2000	8	https://www.daytranslations.com/blog/origin-english-alphabet/
 aqSymbol	-2000	8	https://en.wikipedia.org/wiki/Q
 asSymbol	-2000	8	https://en.wikipedia.org/wiki/S
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

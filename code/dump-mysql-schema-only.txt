@@ -2,12 +2,12 @@ Dump MySQL schema only
 ======================
 March 10, 2010
 
-I found this command to dump just the schema.
+I found this command to <a href="http://www.postal-code.com/binarycode/2008/01/21/mysqldump-dumping-just-the-schema/">dump just the schema</a>.
 
 ```
 mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=false > test_dump.sql
 ```
 
-You can then load the file easily.
+You can then <a href="how-to-load-a-sql-file-into-mysql.html">load the file easily</a>.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

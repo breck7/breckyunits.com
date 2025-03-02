@@ -44,8 +44,8 @@ Humans in America have to choose: use a criminal library, or fall behind AIs?
 A Proposed Fix
 ==============
 
-Some smart people want to abolish copyright on digital publications.
- https://www.stephankinsella.com/publications/#againstip smart people
+We can just abolish copyright.
+ https://breckyunits.com/ifa.html abolish copyright
 
 Among other benefits, this would ensure all Americans have the same freedom to learn as AIs.
 
@@ -75,4 +75,4 @@ Notes
 
 ^billion: Well, there is no legal way for YOU to do it. A billionaire could theoretically afford to buy the "rights" and build their own library as good as a big corporation. But no billionaire is reading this post. Nevertheless, to be precise, only ~756 out of ~333,333,000 Americans ~have a legal way to train on the same materials as AIs.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

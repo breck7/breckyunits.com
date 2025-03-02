@@ -19,7 +19,7 @@ My Gmail account had become a firehose.
 
 This was bad for two reasons.
 
-First, I started missing important emails. Not many, but a few per month. I had to write my own simple Bayes filter to find them.
+First, I started missing important emails. Not many, but a few per month. I had to write my own <a href="http://github.com/breck7/checkmygmail/">simple Bayes filter</a> to find them.
 
 Second, I couldn't do what most people do: use my inbox as a "todo" list. Most people immediately archive or delete an email when they're done with it. This is a great organizational trick. I wanted to do this again.
 
@@ -34,6 +34,6 @@ As it turns out, the solution was simple.
 
 Notes
 =====
-1. Thanks to this site for telling me how to archive all my gmail messages.
+1. Thanks to this site for telling me how to <a href="http://www.supriyadisw.net/2008/04/how-to-archive-all-your-gmail-messages">archive all my gmail messages</a>.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

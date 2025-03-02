@@ -2,6 +2,6 @@ Recursive ls
 ============
 March 10, 2010
 
-Add the -R option to ls to recursively list the contents of a directroy.
+Add the <code>-R</code> option to <code>ls</code> to recursively list the contents of a directroy.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

@@ -12,7 +12,7 @@ endSnippet
 According to the World Factbook:
  https://web.archive.org/web/20081120163150/https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
 
-table
+datatable
  printTable
  delimiter ,
  data

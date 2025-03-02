@@ -126,7 +126,7 @@ description News for builders.
 header.scroll
 
 // A 1 line microprogram that outputs a div tag
-
+<div class="container">
 // A 1 line microprogram that outputs a h1 tag
 # BuilderNews
 // A 1 line microprogram that outputs a h3 tag
@@ -162,6 +162,7 @@ modal.html
 footer.scroll
 
 // A 1 line microprogram that outputs an html div tag
+</div>
 
 // A 1 line microprogram that outputs a javascript tag
 tableSearch
@@ -193,4 +194,4 @@ loblawslawcah says "The post didn't really show or explain it all that well."
 
 Perhaps a video explanation would be better:
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0

@@ -31,7 +31,7 @@ How to use
  https://breckyunits.com/patch.js copy/paste the code
 
 ```
-
+<script src="patch.js"></script>
 ```
 
 2. Give your Javascript object to Patch, and it will give you the prettiest query string it can make:
@@ -121,8 +121,8 @@ Why Patch?
 QueryStrings can be thought of as a domain specific language for describing this structure:
 
 ```
-type QueryStrings = Omit
-Map
+type QueryStrings = Omit<string, [RestrictedCharacters]>
+Map<QueryStrings, QueryStrings>
 ```
 
 - QueryStrings has one very restricted string type and a simple map type.
@@ -150,4 +150,4 @@ I made Patch in 2020 for Our World in Data.
 
 This is an updated fork.
 
-Built with Scroll v165.4.0
+Built with Scroll v173.0.0
