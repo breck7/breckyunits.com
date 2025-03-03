@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Sun, 02 Mar 2025 20:53:53 +0000</lastBuildDate>
+ <lastBuildDate>Mon, 03 Mar 2025 23:08:03 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Thinking in Parsers</title>
+<link>https://breckyunits.com/thinkingInParsers.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>What is Particle Syntax?</title>
 <link>https://breckyunits.com/whatIsParticles.html</link>

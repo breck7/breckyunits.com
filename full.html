@@ -31,6 +31,148 @@
 <div class="scrollColumns" style="column-width:35ch;column-count:2;max-width:90ch;">
 <div class="scrollColumns" style="column-width:35ch;"><div class="scrollSnippetContainer"><style>html, body, h1,h2,h3 { font-family: Helvetica Neue;}</style>
 <style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
+<div class="scrollSection"><h1 id="particle38" class="printTitleParser"><a href="thinkingInParsers.html">Thinking in Parsers</a></h1>
+<p id="particle12" class="printAuthorsParser">by <a href="https://twitter.com/breckyunits">Breck Yunits</a></p>
+<div class="printDateParser">March 3, 2025</div>
+</div>
+<p id="particle44" class="scrollParagraph">Do you want to learn a new way to think? And a new way to write? Do you want to learn how to look at <em>everything</em> from a new perspective?</p>
+<p id="particle46" class="scrollParagraph">If so, read on.</p>
+<p id="particle48" class="scrollParagraph">I will try to explain to you how to "think in Parsers". I'll also then go into "writing with Parsers", a computer language we've made. It might not click immediately, but when it finally does I think you'll find it wonderfully useful.</p>
+<p id="particle50" class="scrollParagraph">No matter what topic you want to learn, from music to math, chemistry to carpentry, mechanics to quantum mechanics, thinking in parsers gives you another path to understanding any domain.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle54" class="scrollParagraph">Parsers match patterns</h1>
+</div>
+<p id="particle56" class="scrollParagraph">Look for a tree. (If you're inside, you may need to go to a window)</p>
+<p id="particle58" class="scrollParagraph">Did you see one? Great! That means you have a "TreeParser" in your brain that is capable of recognizing trees.</p>
+<p id="particle60" class="scrollParagraph">Now, look for a rock. See one? Great! You brain also has a "RockParser".</p>
+<p id="particle62" class="scrollParagraph">Parsers are things that match certain patterns and are inert to others.</p>
+<p id="particle64" class="scrollParagraph">Your TreeParser fired when you saw a tree, but not when you saw a rock, and vice versa.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle68" class="scrollParagraph">Parsers are composable</h1>
+</div>
+<p id="particle70" class="scrollParagraph">The tree you looked at may have also activated another Parser specific to that species. I am writing this in Massachusetts and so for me that was my PineTreeParser. Usually I am in Hawai'i and my PalmTreeParser activates. For you it might be another kind. The point is parsers can be derivatives of other Parsers.</p>
+<p id="particle72" class="scrollParagraph">But that's not the only way Parsers can compose.</p>
+<p id="particle74" class="scrollParagraph">For example, you can also have Parsers that parse parts of a pattern. Think of a BranchParser or a LeafParser.</p>
+<p id="particle76" class="scrollParagraph">Parsers can combine in many ways.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle80" class="scrollParagraph">Parsers are contextual</h1>
+</div>
+<p id="particle82" class="scrollParagraph">Imagine taking a leaf from the tree and looking at it under a microscope. If you remember your biology class, your "CellParser" may activate. But if you were given a blurry image and not told its source, your "TurtleShellParser" may activate instead.</p>
+<p id="particle84" class="scrollParagraph">Because you have context you know which Parser is the one to use.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle89" class="scrollParagraph">Parsers hold logic</h1>
+</div>
+<p id="particle91" class="scrollParagraph">Imagine pulling the tree you saw out of the ground and into the sky. Now imagine throwing the rock into the sky.</p>
+<p id="particle93" class="scrollParagraph">I bet when you imagined lifting the tree, you imagined pulling up roots, but you didn't imagine roots attached to the rock.</p>
+<p id="particle95" class="scrollParagraph">You can attach knowledge to parsers that can be used in combination with the pattern that activated the parser.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle99" class="scrollParagraph">Patterns Exist Without Parsers</h1>
+</div>
+<p id="particle101" class="scrollParagraph">The patterns that trees or rocks or turtles emit exist whether or not we have a parser that recognizes them. Patterns exist without parsers.</p>
+<p id="particle103" class="scrollParagraph">A baby starts with very few parsers and things for them are largely a blur until they have developed the parsers to make sense of their sensory data.</p>
+<p id="particle105" class="scrollParagraph">Often, especially when growing up, we see and record raw patterns that we don't fully understand. Eventually we stumble upon parsers that match those patterns and give us deeper understanding of what we witnessed earlier.</p>
+<p id="particle107" class="scrollParagraph">Sometimes we only notice a pattern after we've learned a parser for it. For example, if you've ever gotten a new car, you've probably experienced the phenomena of suddenly noticing that model of car all around you. This is because you have acquired more parsers for that pattern that are now getting activated when you encounter it.</p>
+<p id="particle109" class="scrollParagraph">And often the parsers we have don't actually best fit the universe's patterns and we update them later. The pattern of the earth revolving around the sun has existed always, for example, even though humans previously had parsers that parsed it in a different way.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle113" class="scrollParagraph">Recap</h1>
+</div>
+<p id="particle115" class="scrollParagraph">Let's recap so far. Parsers:</p>
+<ul ><li id="particle117" >Match patterns</li>
+<li id="particle118" >Are composable</li>
+<li id="particle119" >Are context-sensitive</li>
+<li id="particle120" >Hold logic</li></ul>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle124" class="scrollParagraph">Parsers in the symbolic world</h1>
+</div>
+<p id="particle126" class="scrollParagraph">So far we've been talking about Parsers for objects in the real world that are stored in the neural networks of your brain. These Parsers are neat, and you don't even have to be human to have them (dogs, for example have parsers to recognize their master) but Parsers work the same way in the symbolic world.</p>
+<p id="particle128" class="scrollParagraph">For example, you have an oParser that:</p>
+<ul ><li id="particle130" >recognizes the letter "o"</li>
+<li id="particle131" >also activates your LetterParser</li>
+<li id="particle132" >is context sensitive (so you can recognize the letter "o" versus the number "0")</li>
+<li id="particle133" >and holds logic related to "o", such as it's sound.</li></ul>
+<p id="particle135" class="scrollParagraph">And then you can have a WordParser that recognizes words, such as "color".</p>
+<p id="particle137" class="scrollParagraph">You can then have a PropertyParser that recognizes a pair of words like "color blue".</p>
+<p id="particle139" class="scrollParagraph">Parsers never stop composing like this. If you were to look at the source code of this post you would even see that this sentence is parsed by a ParagraphParser.</p>
+<p id="particle141" class="scrollParagraph">It's Parsers all the way down! And all the way up!</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle145" class="scrollParagraph">Membranes</h1>
+</div>
+<p id="particle147" class="scrollParagraph">One thing you'll notice about parsing objects is that all Parsers assume membranes. Whether it's the edges of the tree or the space around words, there are lines, either visible or invisible, that separate what is being parsed versus not parsed.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle151" class="scrollParagraph">The Parsers Programming Language</h1>
+</div>
+<p id="particle153" class="scrollParagraph">Now let's combine the sections above by making a language of symbolic parsers about things we encounter in the physical world.</p>
+<p id="particle155" class="scrollParagraph">First, we need to set some rules as to the membranes of our language - where do we draw the lines around the atomic units that we will parse? For this, we'll use <a href="whatIsParticles.html">Particle Syntax</a> (aka Particles). Particles splits our writings into atoms (words), particles (lines), and subparticles (indented lines that belong to the "scope" of the parent line). The nice thing about Particles is that there is no visible syntax at all, and yet it gives us the building blocks to represent any kind of structure.</p>
+<p id="particle157" class="scrollParagraph">Now, imagine we wrote the lines below on a walk in the woods.</p>
+<code class="scrollCodeBlock">pineTree
+ height 20ft
+ circumference .5ft
+pineTree
+ height 10ft
+ circumference .3ft
+oakTree
+ height 30ft
+ circumference .8ft</code>
+<p id="particle161" class="scrollParagraph">Right now all we have is some patterns, but no parsers.</p>
+<p id="particle163" class="scrollParagraph">Let's write some parsers to parse the lines above:</p>
+<code class="scrollCodeBlock">abstractTreeParser
+ pattern *Tree
+ heightParser
+  atoms lengthAtom
+ circumferenceParser
+  atoms lengthAtom
+ calculateVolume
+  return height * surfaceArea
+pineTree extends abstractTreeParser
+oakTree extends abstractTreeParser</code>
+<p id="particle167" class="scrollParagraph">Now we have five parsers with which to understand our original program.</p>
+<p id="particle169" class="scrollParagraph">Of course, the parsers themselves also make use of various parsers (such as "pattern" and "atoms"), which I've left out, so in reality there would be quite a bit more.</p>
+<p id="particle171" class="scrollParagraph">I've left out some details to focus on the core ideas of how you can define Parsers symbolically that match patterns, are composable, context-sensitive, and hold logic.</p>
+<p id="particle173" class="scrollParagraph">You may notice that the Parsers language is not very much concerned with computers and fitting the world to match the structures in a computer. Although the parsers can carry logic to execute on computers, Parsers is really focused more on organizing knowledge into parsers. Parsers is a knowledge storage language first--a way to think first--and a computational language second. Parsers does not say "here is a set of structures that work well on the computer, fit your knowledge of the world into them." Instead the approach of Parsers is to "mine the minimal, ideal set of symbols to represent the patterns you see, and then we'll have the computer adjust to those".</p>
+<p id="particle175" class="scrollParagraph">Now, if you want to dive deeper into Parsers, an ever evolving language, the <a href="https://scroll.pub">Scroll website</a> is a good place to visit next.</p>
+<p id="particle177" class="scrollParagraph">But now let's keep going and connect the dots.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle181" class="scrollParagraph">How to Understand Anything</h1>
+</div>
+<p id="particle183" class="scrollParagraph">Now I'm going to get to the fun claim of this essay: <strong>every subject can be represented as a list of simple parsers in the Parsers language</strong>.</p>
+<p id="particle185" class="scrollParagraph">Parsers are the building blocks of knowledge, much like atoms are the building blocks of molecules.</p>
+<p id="particle187" class="scrollParagraph">It doesn't matter how "complex" the subject is, everything can be broken down (and built up) by simple parsers.</p>
+<p id="particle189" class="scrollParagraph">Now, don't get me wrong, I'm not saying quantum mechanics is the same thing as arithmetic. What I'm saying is that quantum mechanics is merely a larger list of parsers. Each parser in quantum mechanics is not more complex than the parsers in arithmetic, it's just that there are more of them.</p>
+<p id="particle191" class="scrollParagraph">If you are struggling to master a new subject, you can just start writing out all the parsers in the subject in a flat list. You can then work on your understanding of each one, refining your parser definition as you go. You'll find that before you can understand some parsers, you'll have to understand some other parsers it uses.</p>
+<p id="particle193" class="scrollParagraph">You can also organize parsers by which ones are used the most. (Often you'll find many parsers that are taught in books are not very important, and you'll start to pick up on the core set that are heavily used and should be mastered).</p>
+<p id="particle195" class="scrollParagraph">Eventually you'll have a long list of parsers that together describe a subject in a very accurate, precise, and computable way. It's like an encyclopedia but better, because the parsers are linked in ways that can be logically computed over.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle199" class="scrollParagraph">Wrapping Up</h1>
+</div>
+<p id="particle201" class="scrollParagraph">This was a brief introduction to my primary mode of thinking: "thinking in parsers". I've personally found this a universally useful way to think about the world. The great thing about it is it works for both understanding objects in the 4D world and also for objects in the symbolic world (including <a href="mathematics.html">2D math</a>).</p>
+<p id="particle203" class="scrollParagraph">When I was younger I was overwhelmed by the amount of symbolic knowledge we have in our world. Now that I'm able to think in parsers, I find it all far less intimidating, because I know it's just a big list of parsers, and I can take it one parser at a time.</p>
+<p id="particle205" class="scrollParagraph">I hope you find thinking in parsers as useful as I do.</p>
+<div class="abstractDinkusParser"><span>*</span></div>
+<div class="scrollSection"><h1 id="particle209" class="scrollParagraph">FAQ</h1>
+</div>
+<div class="scrollSection"><h4 id="particle211" class="scrollQuestion">Are Parsers just Object Oriented Programming?</h4>
+<p id="particle212" class="scrollParagraph">From an OO perspective, think of Parsers as ClassDefinitions initialized with particles that always have methods for parsing subparticles. Like OO, parsed particles can have methods and state and communicate via message passing. But with Parsers the focus is on parsing and patterns.</p>
+</div>
+<div class="scrollSection"><h4 id="particle214" class="scrollQuestion">Are Parsers just functions?</h4>
+<p id="particle215" class="scrollParagraph">From a functional programming perspective, you can think of Parsers as a function that takes pattern matching and other logic and returns functions that can parse patterns.</p>
+</div>
+<div class="scrollSection"><h4 id="particle217" class="scrollQuestion">Are Parsers just Lisp?</h4>
+<p id="particle218" class="scrollParagraph">From a Lisp perspective, you can think of Parsers as like Racket with its "Language Oriented Programming", but with Particle syntax which compose better than S-Expressions.</p>
+</div>
+<div class="scrollSection"><h4 id="particle220" class="scrollQuestion">Are Parsers just XML?</h4>
+<p id="particle221" class="scrollParagraph">From an XML perspective, think of Parsers as XML with a much slimmer syntax and a built-in language for defining schemas.</p>
+</div>
+<div class="scrollSection"><h4 id="particle223" class="scrollQuestion">Does the rigidness of Parsers and the whitespace syntax in Particles dampen creativity?</h4>
+<p id="particle224" class="scrollParagraph">No. First, you can have Parsers like a PoemParser that are very loose in what they accept. Second, no matter what, symbols are a poor approximation to patterns in the physical world, and so it's better to optimize for efficiency in symbolic patterns over looseness.</p>
+</div>
+<div class="abstractDinkusParser"><span>⁂</span></div>
+<br>
+<center><p id="particle241" class="scrollParagraph"></p>
+<br><br>
+</center><a href="edit.html?fileName=/thinkingInParsers.scroll" class="abstractTextLinkParser">Edit</a></div>
+
+<div class="scrollSnippetContainer"><style>html, body, h1,h2,h3 { font-family: Helvetica Neue;}</style>
+<style>img {border: 2px solid #e9e9e9; border-radius: 5px;}</style>
 <div class="scrollSection"><h1 id="particle38" class="printTitleParser"><a href="whatIsParticles.html">What is Particle Syntax?</a></h1>
 <p id="particle12" class="printAuthorsParser">by <a href="https://twitter.com/breckyunits">Breck Yunits</a></p>
 <div class="printDateParser">March 2, 2025</div>
@@ -292,8 +434,11 @@ c</code>
 <p id="particle101" class="scrollParagraph">These meta concepts are enough to define all of Mathematics.</p>
 <figure class="scrollCaptionedFigure" style="width:1126px; margin: auto;"><a href="mathematics/euclid.png" target="_blank"  ><img src="mathematics/euclid.png" width="1126" height="966" loading="lazy"></a><figcaption><p id="particle0" class="scrollParagraph">These concepts apply not just to formulae, but to geometry, et al as well.</p></figcaption></figure>
 <div class="abstractDinkusParser"><span>⁂</span></div>
+<div class="scrollSection"><h1 id="particle107" class="scrollParagraph">Related Reading</h1>
+<ul ><li id="particle108" ><a href="https://www.math.toronto.edu/mccann/199/thurston.pdf">On Proof and Progress in Mathematics (1994)</a></li></ul>
+</div>
 <br>
-<center><p id="particle121" class="scrollParagraph"></p>
+<center><p id="particle123" class="scrollParagraph"></p>
 <br><br>
 </center><a href="edit.html?fileName=/mathematics.scroll" class="abstractTextLinkParser">Edit</a></div>
 
@@ -4464,48 +4609,49 @@ temperature 14
 <p id="particle84" class="scrollParagraph">It took me a while to let Tree Notation go. Even after LLMs destroyed the potential upside of pragmatic utility of the notation, I still liked it because it gave me an interesting way to work on problems of knowledge itself. It wasn't until I had some insights into 4D languages that I finally could say there was no longer <em>any</em> need for Tree Notation. I am grateful for the experience and have now moved on to a new research journey.</p>
 <div class="abstractDinkusParser"><span>⁂</span></div>
 <div class="scrollSection"><h1 id="particle88" class="scrollParagraph">Related Posts</h1>
-<ul ><li id="particle119" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
-<li id="particle120" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
-<li id="particle121" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
-<li id="particle122" ><a href="breckchain.html">Breckchain (2024)</a></li>
-<li id="particle123" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
-<li id="particle124" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
-<li id="particle125" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
-<li id="particle126" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
-<li id="particle127" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
-<li id="particle128" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
-<li id="particle129" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
-<li id="particle130" ><a href="download.html">Download this Blog (2024)</a></li>
-<li id="particle131" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
-<li id="particle132" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
-<li id="particle133" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
-<li id="particle134" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
-<li id="particle135" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
-<li id="particle136" ><a href="datasets.html">Hot Coffee (2024)</a></li>
-<li id="particle137" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
-<li id="particle138" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
-<li id="particle139" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
-<li id="particle140" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
-<li id="particle141" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
-<li id="particle142" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
-<li id="particle143" ><a href="aftertext.html">Aftertext (2021)</a></li>
-<li id="particle144" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
-<li id="particle145" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
-<li id="particle146" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
-<li id="particle147" ><a href="tree-notation-annual-report-2019.html">2019 Tree Notation Annual Report (2020)</a></li>
-<li id="particle148" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
-<li id="particle149" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
-<li id="particle150" ><a href="type-the-world.html">Type the World (2020)</a></li>
-<li id="particle151" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
-<li id="particle152" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
-<li id="particle153" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
-<li id="particle154" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
-<li id="particle155" ><a href="ohayo.html">Ohayo (2017)</a></li>
-<li id="particle156" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
-<li id="particle157" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
-<li id="particle158" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
-<li id="particle159" ><a href="scrollnet.html">ScrollNet: A successor to the Internet (2013)</a></li>
-<li id="particle160" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
+<ul ><li id="particle119" ><a href="thinkingInParsers.html">Thinking in Parsers (2025)</a></li>
+<li id="particle120" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
+<li id="particle121" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
+<li id="particle122" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
+<li id="particle123" ><a href="breckchain.html">Breckchain (2024)</a></li>
+<li id="particle124" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
+<li id="particle125" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
+<li id="particle126" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
+<li id="particle127" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
+<li id="particle128" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
+<li id="particle129" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
+<li id="particle130" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
+<li id="particle131" ><a href="download.html">Download this Blog (2024)</a></li>
+<li id="particle132" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
+<li id="particle133" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
+<li id="particle134" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
+<li id="particle135" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
+<li id="particle136" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
+<li id="particle137" ><a href="datasets.html">Hot Coffee (2024)</a></li>
+<li id="particle138" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
+<li id="particle139" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
+<li id="particle140" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
+<li id="particle141" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
+<li id="particle142" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
+<li id="particle143" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
+<li id="particle144" ><a href="aftertext.html">Aftertext (2021)</a></li>
+<li id="particle145" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
+<li id="particle146" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
+<li id="particle147" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
+<li id="particle148" ><a href="tree-notation-annual-report-2019.html">2019 Tree Notation Annual Report (2020)</a></li>
+<li id="particle149" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
+<li id="particle150" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
+<li id="particle151" ><a href="type-the-world.html">Type the World (2020)</a></li>
+<li id="particle152" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
+<li id="particle153" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
+<li id="particle154" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
+<li id="particle155" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
+<li id="particle156" ><a href="ohayo.html">Ohayo (2017)</a></li>
+<li id="particle157" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
+<li id="particle158" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
+<li id="particle159" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
+<li id="particle160" ><a href="scrollnet.html">ScrollNet: A successor to the Internet (2013)</a></li>
+<li id="particle161" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
 </div>
 <div class="abstractDinkusParser"><span>*</span></div>
 <p id="note1" class="scrollParagraph"><a class="scrollFootNoteUsageLink" href="#noteUsage1">[1]</a> Program synthesis: the ability for a computer to generate the right code. Just a unique term for the concept of <em>really</em> good autocomplete.</p>
@@ -7347,48 +7493,49 @@ book
 <p id="particle220" class="scrollParagraph">That's it for the recap of 2019! Tune in next year for a recap of 2020.</p>
 <div class="abstractDinkusParser"><span>⁂</span></div>
 <div class="scrollSection"><h1 id="particle224" class="scrollParagraph">Related Posts</h1>
-<ul ><li id="particle256" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
-<li id="particle257" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
-<li id="particle258" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
-<li id="particle259" ><a href="breckchain.html">Breckchain (2024)</a></li>
-<li id="particle260" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
-<li id="particle261" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
-<li id="particle262" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
-<li id="particle263" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
-<li id="particle264" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
-<li id="particle265" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
-<li id="particle266" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
-<li id="particle267" ><a href="download.html">Download this Blog (2024)</a></li>
-<li id="particle268" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
-<li id="particle269" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
-<li id="particle270" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
-<li id="particle271" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
-<li id="particle272" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
-<li id="particle273" ><a href="datasets.html">Hot Coffee (2024)</a></li>
-<li id="particle274" ><a href="treeNotationFinalReport.html">Final Tree Notation Report (2024)</a></li>
-<li id="particle275" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
-<li id="particle276" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
-<li id="particle277" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
-<li id="particle278" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
-<li id="particle279" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
-<li id="particle280" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
-<li id="particle281" ><a href="aftertext.html">Aftertext (2021)</a></li>
-<li id="particle282" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
-<li id="particle283" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
-<li id="particle284" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
-<li id="particle285" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
-<li id="particle286" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
-<li id="particle287" ><a href="type-the-world.html">Type the World (2020)</a></li>
-<li id="particle288" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
-<li id="particle289" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
-<li id="particle290" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
-<li id="particle291" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
-<li id="particle292" ><a href="ohayo.html">Ohayo (2017)</a></li>
-<li id="particle293" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
-<li id="particle294" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
-<li id="particle295" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
-<li id="particle296" ><a href="scrollnet.html">ScrollNet: A successor to the Internet (2013)</a></li>
-<li id="particle297" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
+<ul ><li id="particle256" ><a href="thinkingInParsers.html">Thinking in Parsers (2025)</a></li>
+<li id="particle257" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
+<li id="particle258" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
+<li id="particle259" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
+<li id="particle260" ><a href="breckchain.html">Breckchain (2024)</a></li>
+<li id="particle261" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
+<li id="particle262" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
+<li id="particle263" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
+<li id="particle264" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
+<li id="particle265" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
+<li id="particle266" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
+<li id="particle267" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
+<li id="particle268" ><a href="download.html">Download this Blog (2024)</a></li>
+<li id="particle269" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
+<li id="particle270" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
+<li id="particle271" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
+<li id="particle272" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
+<li id="particle273" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
+<li id="particle274" ><a href="datasets.html">Hot Coffee (2024)</a></li>
+<li id="particle275" ><a href="treeNotationFinalReport.html">Final Tree Notation Report (2024)</a></li>
+<li id="particle276" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
+<li id="particle277" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
+<li id="particle278" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
+<li id="particle279" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
+<li id="particle280" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
+<li id="particle281" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
+<li id="particle282" ><a href="aftertext.html">Aftertext (2021)</a></li>
+<li id="particle283" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
+<li id="particle284" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
+<li id="particle285" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
+<li id="particle286" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
+<li id="particle287" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
+<li id="particle288" ><a href="type-the-world.html">Type the World (2020)</a></li>
+<li id="particle289" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
+<li id="particle290" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
+<li id="particle291" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
+<li id="particle292" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
+<li id="particle293" ><a href="ohayo.html">Ohayo (2017)</a></li>
+<li id="particle294" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
+<li id="particle295" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
+<li id="particle296" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
+<li id="particle297" ><a href="scrollnet.html">ScrollNet: A successor to the Internet (2013)</a></li>
+<li id="particle298" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
 </div>
 <div class="abstractDinkusParser"><span>*</span></div>
 <div class="scrollSection"><h1 id="particle229" class="scrollParagraph">Notes</h1>
@@ -9793,48 +9940,49 @@ message Would love to hear your thoughts.</code>
 <p id="particle86" class="scrollParagraph">The complexity of current Internet protocols could be holding us back from an even better successor that can benefit from orders of magnitude more tinkerers and experimenters.</p>
 <div class="abstractDinkusParser"><span>⁂</span></div>
 <div class="scrollSection"><h1 id="particle90" class="scrollParagraph">Related Posts</h1>
-<ul ><li id="particle119" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
-<li id="particle120" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
-<li id="particle121" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
-<li id="particle122" ><a href="breckchain.html">Breckchain (2024)</a></li>
-<li id="particle123" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
-<li id="particle124" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
-<li id="particle125" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
-<li id="particle126" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
-<li id="particle127" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
-<li id="particle128" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
-<li id="particle129" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
-<li id="particle130" ><a href="download.html">Download this Blog (2024)</a></li>
-<li id="particle131" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
-<li id="particle132" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
-<li id="particle133" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
-<li id="particle134" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
-<li id="particle135" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
-<li id="particle136" ><a href="datasets.html">Hot Coffee (2024)</a></li>
-<li id="particle137" ><a href="treeNotationFinalReport.html">Final Tree Notation Report (2024)</a></li>
-<li id="particle138" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
-<li id="particle139" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
-<li id="particle140" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
-<li id="particle141" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
-<li id="particle142" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
-<li id="particle143" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
-<li id="particle144" ><a href="aftertext.html">Aftertext (2021)</a></li>
-<li id="particle145" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
-<li id="particle146" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
-<li id="particle147" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
-<li id="particle148" ><a href="tree-notation-annual-report-2019.html">2019 Tree Notation Annual Report (2020)</a></li>
-<li id="particle149" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
-<li id="particle150" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
-<li id="particle151" ><a href="type-the-world.html">Type the World (2020)</a></li>
-<li id="particle152" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
-<li id="particle153" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
-<li id="particle154" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
-<li id="particle155" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
-<li id="particle156" ><a href="ohayo.html">Ohayo (2017)</a></li>
-<li id="particle157" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
-<li id="particle158" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
-<li id="particle159" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
-<li id="particle160" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
+<ul ><li id="particle119" ><a href="thinkingInParsers.html">Thinking in Parsers (2025)</a></li>
+<li id="particle120" ><a href="whatIsParticles.html">What is Particle Syntax? (2025)</a></li>
+<li id="particle121" ><a href="mathematics.html">What is Mathematics? (2025)</a></li>
+<li id="particle122" ><a href="whyDefineANewLanguage.html">Why Define a New Language? (2024)</a></li>
+<li id="particle123" ><a href="breckchain.html">Breckchain (2024)</a></li>
+<li id="particle124" ><a href="particleThinking.html">Particle Thinking (2024)</a></li>
+<li id="particle125" ><a href="whyScroll.html">Why Scroll? (2024)</a></li>
+<li id="particle126" ><a href="microprograms.html">Microprogramming: A New Way to Program (2024)</a></li>
+<li id="particle127" ><a href="particleChain.html">Particle Chain: A New Kind of Blockchain (2024)</a></li>
+<li id="particle128" ><a href="eta.html">ETA!: A Measure of Evolution (2024)</a></li>
+<li id="particle129" ><a href="checkbox.html">CheckBox: An Online + Offline Voting System (2024)</a></li>
+<li id="particle130" ><a href="wws.html">The World Wide Scroll (2024)</a></li>
+<li id="particle131" ><a href="download.html">Download this Blog (2024)</a></li>
+<li id="particle132" ><a href="intelligence.html">ICS: A Measure of Intelligence (2024)</a></li>
+<li id="particle133" ><a href="ptcri.html">PTCRI: An Equation about Syntax Potential (2024)</a></li>
+<li id="particle134" ><a href="patch.html">Patch: a micro language to make pretty deep links easy (2024)</a></li>
+<li id="particle135" ><a href="versionNumbers.html">What can we learn from programming language version numbers? (2024)</a></li>
+<li id="particle136" ><a href="scrollsets.html">ScrollSets: A New Way to Store Knowledge (2024)</a></li>
+<li id="particle137" ><a href="datasets.html">Hot Coffee (2024)</a></li>
+<li id="particle138" ><a href="treeNotationFinalReport.html">Final Tree Notation Report (2024)</a></li>
+<li id="particle139" ><a href="wordsAreWorseThanWeights.html">Words are Worse than Weights (2024)</a></li>
+<li id="particle140" ><a href="iThoughtWeCouldBuildAIExpertsByHand.html">I thought we could build AI experts by hand (2023)</a></li>
+<li id="particle141" ><a href="a-proposal-on-government-forms.html">A Proposal to Solve Government Forms Worldwide, Forever (2023)</a></li>
+<li id="particle142" ><a href="useTheSpine.html">Use the Spine (2023)</a></li>
+<li id="particle143" ><a href="oneTextarea.html">One Textarea (2022)</a></li>
+<li id="particle144" ><a href="root-thinking.html">Root Thinking (2022)</a></li>
+<li id="particle145" ><a href="aftertext.html">Aftertext (2021)</a></li>
+<li id="particle146" ><a href="dialogues.html">Scrolldown now has Dialogues (2021)</a></li>
+<li id="particle147" ><a href="the-public-domain-publishing-company.html">The Public Domain Publishing Company (2021)</a></li>
+<li id="particle148" ><a href="scroll-beta.html">Scroll Beta (2021)</a></li>
+<li id="particle149" ><a href="tree-notation-annual-report-2019.html">2019 Tree Notation Annual Report (2020)</a></li>
+<li id="particle150" ><a href="building-a-treebase-with-6.5-million-files.html">Building a TreeBase with 6.5 million files (2020)</a></li>
+<li id="particle151" ><a href="dataset-needed.html">Dataset Needed (2020)</a></li>
+<li id="particle152" ><a href="type-the-world.html">Type the World (2020)</a></li>
+<li id="particle153" ><a href="dreaming-of-a-data-checked-language.html">Dreaming of a Data Checked Language (2020)</a></li>
+<li id="particle154" ><a href="trinary.html">Removing the 2’s from Trinary Notation is a Terrible Idea. (2019)</a></li>
+<li id="particle155" ><a href="countingComplexity.html">PC: Particle Complexity (2017)</a></li>
+<li id="particle156" ><a href="aGrammarNotationForTreeLanguages.html">Parsers: a language for making languages (2017)</a></li>
+<li id="particle157" ><a href="ohayo.html">Ohayo (2017)</a></li>
+<li id="particle158" ><a href="treenotationPaper.html">Tree Notation: an antifragile program notation (2017)</a></li>
+<li id="particle159" ><a href="show-hn-programming-is-now-two-dimensional.html">A New Discovery in Computer Science: 2-Dimensional Programming Languages (2017)</a></li>
+<li id="particle160" ><a href="nudgepad-an-ide-in-your-browser.html">NudgePad: An IDE in Your Browser (2013)</a></li>
+<li id="particle161" ><a href="introducing-note.html">Introducing Note (2012)</a></li></ul>
 </div>
 <div class="abstractDinkusParser"><span>*</span></div>
 <p id="particle95" class="scrollParagraph"><em>I originally <a href="https://medium.com/space-net/spacenet-51aca95d49a2">published this on Medium</a>.</em></p>

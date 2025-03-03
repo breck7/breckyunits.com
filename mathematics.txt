@@ -77,4 +77,9 @@ These meta concepts are enough to define all of Mathematics.
 
 ⁂
 
+Related Reading
+===============
+- On Proof and Progress in Mathematics (1994)
+ https://www.math.toronto.edu/mccann/199/thurston.pdf On Proof and Progress in Mathematics (1994)
+
 Built with Scroll v173.0.0

@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+Thinking in Parsers
+===================
+03/03/2025
+https://breckyunits.com/thinkingInParsers.html
+
 What is Particle Syntax?
 ========================
 03/02/2025

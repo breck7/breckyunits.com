@@ -236,6 +236,11 @@ That's it for the recap of 2019! Tune in next year for a recap of 2020.
 
 Related Posts
 =============
+Thinking in Parsers
+===================
+03/03/2025
+https://breckyunits.com/thinkingInParsers.html
+
 What is Particle Syntax?
 ========================
 03/02/2025
