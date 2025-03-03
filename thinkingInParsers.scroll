@@ -154,9 +154,7 @@ Of course, the parsers themselves also make use of various parsers (such as "pat
 
 I've left out some details to focus on the core ideas of how you can define Parsers symbolically that match patterns, are composable, context-sensitive, and hold logic.
 
-You may notice that the Parsers language is not very much concerned with computers. Although the parsers can carry logic to execute on computers, Parsers is really focused more on organizing knowledge into parsers.
-
-Parsers is a knowledge storage language first--a way to think first--and a computational language second.
+You may notice that the Parsers language is not very much concerned with computers and fitting the world to match the structures in a computer. Although the parsers can carry logic to execute on computers, Parsers is really focused more on organizing knowledge into parsers. Parsers is a knowledge storage language first--a way to think first--and a computational language second. Parsers does not say "here is a set of structures that work well on the computer, fit your knowledge of the world into them." Instead the approach of Parsers is to "mine the minimal, ideal set of symbols to represent the patterns you see, and then we'll have the computer adjust to those".
 
 Now, if you want to dive deeper into Parsers, an ever evolving language, the Scroll website is a good place to visit next.
  https://scroll.pub Scroll website
@@ -197,7 +195,7 @@ I hope you find thinking in parsers as useful as I do.
 # FAQ
 
 ? Are Parsers just Object Oriented Programming?
-From an OO perspective, think of Parsers as ClassDefinitions initialized with particles that always have methods for parsing subparticles.
+From an OO perspective, think of Parsers as ClassDefinitions initialized with particles that always have methods for parsing subparticles. Like OO, parsed particles can have methods and state and communicate via message passing. But with Parsers the focus is on parsing and patterns.
 
 ? Are Parsers just functions?
 From a functional programming perspective, you can think of Parsers as a function that takes pattern matching and other logic and returns functions that can parse patterns.
