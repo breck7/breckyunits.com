@@ -1,5 +1,5 @@
-Breck's Blog - Concise Index
-============================
+Breck's Blog - All Posts
+========================
 
 Breck's Blog - Writing Posts
 ============================
@@ -26,6 +26,11 @@ Breck's Blog - Society Posts
 03/03/2025
 https://breckyunits.com/society.html
 
+Breck's Blog - Concise Index
+============================
+03/03/2025
+https://breckyunits.com/short.html
+
 Search Breck's Blog
 ===================
 03/03/2025
@@ -50,11 +55,6 @@ Breck's Blog - Life Posts
 =========================
 03/03/2025
 https://breckyunits.com/life.html
-
-Breck's Blog - All Posts
-========================
-03/03/2025
-https://breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
