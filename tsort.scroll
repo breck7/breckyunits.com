@@ -25,11 +25,29 @@ Encyclopedias are sorted alphabetically.
 
 I am unaware of an encyclopedia sorted topologically.
 
-How would you do it?
+***
+
+Why would you want an encyclopedia sorted topologically?
+
+Well, topological sorting tells you the logical importance of things. Things further down are built on things at the top (or vice versa, if you prepend new things to your files rather than append).
+
+What parts of the encyclopedia should you learn first?
+
+It makes more sense to learn the things with a high topological ranking, rather than a high alphabetical ranking. A lot of things turn out to be fads.
+
+Popularity sorting such as by number of inbound links is an improvement over alphabetical sorting, but seems very susceptible to bias and fads.
+
+***
+
+How would you create a topologically sorted encyclopedia?
 
 I have been attempting to build a topologically sorted encyclopedia for a long time, though I had never described it like that. It's only recently when I realized I wanted to change Scroll to be topologically-sorted by default that I went looking for the definitive term to describe the concept.
  iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
  https://scroll.pub Scroll
+
+I think using parsers all the way down might work, though I could be wrong. The nice thing about this strategy is that you can build stuff that is useful along the way even if the vision of the topological encyclopedia doesn't materialize.
+ thinkingInParsers.html parsers all the way down
+ https://pldb.io stuff that is useful
 
 ***
 
