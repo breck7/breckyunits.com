@@ -4,8 +4,18 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Mon, 03 Mar 2025 23:11:43 +0000</lastBuildDate>
+ <lastBuildDate>Wed, 05 Mar 2025 23:07:00 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Topological Sorting</title>
+<link>https://breckyunits.com/tsort.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
+ <item>
+<title>Scales</title>
+<link>https://breckyunits.com/scales.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>Thinking in Parsers</title>
 <link>https://breckyunits.com/thinkingInParsers.html</link>

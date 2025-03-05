@@ -1,6 +1,16 @@
 Breck's Blog
 ============
 
+Topological Sorting
+===================
+03/05/2025
+https://breckyunits.com/tsort.html
+
+Scales
+======
+03/05/2025
+https://breckyunits.com/scales.html
+
 Thinking in Parsers
 ===================
 03/03/2025

@@ -1,11 +1,31 @@
 [
   {
+    "date": "03/05/2025",
+    "year": 2025,
+    "title": "Topological Sorting",
+    "permalink": "tsort.html",
+    "authors": "Breck Yunits",
+    "tags": "All Science",
+    "wordCount": 558,
+    "minutes": 2.8
+  },
+  {
+    "date": "03/05/2025",
+    "year": 2025,
+    "title": "Scales",
+    "permalink": "scales.html",
+    "authors": "Breck Yunits",
+    "tags": "All Science",
+    "wordCount": 785,
+    "minutes": 3.9
+  },
+  {
     "date": "03/03/2025",
     "year": 2025,
     "title": "Thinking in Parsers",
     "permalink": "thinkingInParsers.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll",
+    "tags": "All Scroll Science",
     "wordCount": 1882,
     "minutes": 9.4
   },
@@ -535,7 +555,7 @@
     "title": "ICS: A Measure of Intelligence",
     "permalink": "intelligence.html",
     "authors": "Breck Yunits",
-    "tags": "All Programming Scroll ScrollPapers AllPapers",
+    "tags": "All Programming Scroll ScrollPapers AllPapers Science",
     "wordCount": 259,
     "minutes": 1.3
   },
@@ -575,7 +595,7 @@
     "title": "Breck's Lab",
     "permalink": "lab.html",
     "authors": "Breck Yunits",
-    "tags": "All Science Startups Programming Writing",
+    "tags": "All Startups Programming Writing",
     "wordCount": 464,
     "minutes": 2.3
   },
@@ -625,7 +645,7 @@
     "title": "ScrollSets: A New Way to Store Knowledge",
     "permalink": "scrollsets.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers AllPapers",
+    "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers AllPapers Science",
     "wordCount": 1258,
     "minutes": 6.3
   },
@@ -765,7 +785,7 @@
     "title": "The Box Method of Science",
     "permalink": "boxMethod.html",
     "authors": "Breck Yunits",
-    "tags": "All Data Thinking",
+    "tags": "All Data Thinking Science",
     "wordCount": 1163,
     "minutes": 5.8
   },
@@ -855,7 +875,7 @@
     "title": "I thought we could build AI experts by hand",
     "permalink": "iThoughtWeCouldBuildAIExpertsByHand.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Programming Startups",
+    "tags": "All Scroll Programming Startups Science",
     "wordCount": 5565,
     "minutes": 27.8
   },
@@ -1295,7 +1315,7 @@
     "title": "Type the World",
     "permalink": "type-the-world.html",
     "authors": "Breck Yunits",
-    "tags": "All Programming Thinking Scroll",
+    "tags": "All Programming Thinking Scroll Science",
     "wordCount": 2413,
     "minutes": 12.1
   },
@@ -1355,7 +1375,7 @@
     "title": "PC: Particle Complexity",
     "permalink": "countingComplexity.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll ScrollPapers AllPapers",
+    "tags": "All Scroll ScrollPapers AllPapers Science",
     "wordCount": 1509,
     "minutes": 7.5
   },
