@@ -1,0 +1,75 @@
+date 2025-3-5
+tags All Science
+title Scales
+container 500px
+standardPost.scroll
+keywords scales measurements metrics dimensions comparibility
+
+A scale is an ordering of numbers. Objects map to a scale to allow comparibility in that dimension.
+
+The word scale is an overloaded term. Usually when I use the word "scale" I am using a different version of it, such as "scale it up" or "economies of scale". In this post I'm using it in the sense of a measurement or yardstick or number-line or type.
+
+***
+
+Blog posts are mostly "unscaled". It is hard to compare this line with the line below it.
+
+But this post does contain some lines that are scaled. For example, it has a date line, which maps this post to a date scale. So you can compare this post to others, and say which came before, and _how much_ they came before.
+
+Scroll, the language and software that powers this blog, does compute some scaled metrics on each post. The number of words, for example. You can see the number of words for this post and all others on the search page.
+ https://scroll.pub Scroll
+ search.html search page
+
+***
+
+I like the definition of scales in the d3 data visualization library:
+ https://d3js.org/d3-scale definition of scales
+
+> Scales are a convenient abstraction for a fundamental task in visualization: mapping a dimension of abstract data to a visual representation. Although most often used for position-encoding quantitative data, such as mapping a measurement in meters to a position in pixels for dots in a scatterplot, scales can represent virtually any visual encoding, such as diverging colors, stroke widths, or symbol size. Scales can also be used with virtually any type of data, such as named categorical data or discrete data that requires sensible breaks.
+
+I remember when I was struggling to use d3 and then finally their definition of scales clicked in my head and I realized what a simple, beautiful and widely applicable concept it was.
+
+***
+
+Scales make things comparable. Measure different concepts using the same scale and now you can compare those things symbolically.
+
+The more scales you use, the more sophisticated your symbolic models become. You can measure two buildings with a height scale to create some comparisons, but you can greatly increase those comparisons if you also measure them with a "year built" scale.
+
+A dimension is just a set of different measurements with the same scale.
+
+***
+
+You can think of any scale as just a line.
+
+Measure objects and draw a point on the line for where each measurement falls.
+
+You can draw a high dimensional dataset as just a lot of independent lines. Not the most useful visualization, but can be helpful sometimes to break things down into really simply pieces.
+
+***
+
+Wikipedia does not make heavy use of scales. It relies more on text. I often wonder if the focus was more on adding data in typed dimensions, if it would allow it to become a more truthful symbolic model of the world.
+
+They do increasingly populate those infoboxes with scaled data. The syntax is nasty, but the scaled data is wonderfully useful.
+
+The more scales you have, the more trustworthy a model is.
+ trust.html trustworthy
+
+***
+
+I often think about complexity scales. I proposed if you think in parsers you can measure the complexity of any idea. Perhaps the "parser" is a good unit for complexity. If two models of the world are equally intelligent, pick the less complex one - the one with fewer parsers.
+ thinkingInParsers.html think in parsers
+ countingComplexity.html measure the complexity of any idea
+ intelligence.html intelligent
+
+***
+
+I don't have anything too profound to say about scales. (On the profoundness scale, this post ranks low.)
+
+I just want to make sure I am deliberately thinking enough about them. If you measure concepts on an importance scale, they are high on the list.
+
+***
+
+# Related Posts
+printRelated Science
+
+****
+
