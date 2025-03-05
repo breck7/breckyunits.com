@@ -1,0 +1,55 @@
+date 2025-3-5
+tags All Science
+title Topological Sorting
+container 500px
+standardPost.scroll
+
+Topological sorting is something I've been thinking about lately.
+ https://en.wikipedia.org/wiki/Topological_sorting Topological sorting
+
+This is sorting concepts in dependency order.
+
+For example, if you wanted to sort "fire" and "internal combustion engine", fire would come first. To explain ICEs, you need fire, but to explain fire you don't need ICEs.
+
+***
+
+Sorting concepts topologically versus chronologically can create different rankings.
+
+Sorting numbers topologically puts binary (0 and 1) before the Hindu-Arabic numerals (0 - 9), even though humans used 0-9 way before using 0 and 1.
+
+Our topological knowledge base often has missing or incorrect concepts that may not be fixed for centuries.
+
+***
+
+Encyclopedias are sorted alphabetically.
+
+I am unaware of an encyclopedia sorted topologically.
+
+How would you do it?
+
+I have been attempting to build a topologically sorted encyclopedia for a long time, though I had never described it like that. It's only recently when I realized I wanted to change Scroll to be topologically-sorted by default that I went looking for the definitive term to describe the concept.
+ iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
+ https://scroll.pub Scroll
+
+***
+
+Today I started looking at older programming languages that have lasted like C, Fortran, Ada, et cetera, and realized that topological sorting used to be the default. Newer languages aren't as strict, and that's the pattern I copied. But I wonder whether it's a better design to make the rule topologically sorted, and the looser version the exception.
+
+When dealing with larger programs it seems you can do things a lot faster if you know things are sorted topologically.
+
+***
+
+Is the universe topologically sorted?
+
+It seems to be. The present depends upon the past, and so comes after the past.
+
+***
+
+Which came first, the chicken or the egg?
+
+If we are talking about the words, that might be easy to determine with a good etymology reference.
+
+If we are talking about the patterns represented by the words, then it's a bit more interesting. We know the bacteria came before either. But my guess is we had objects closer in appearance to chicken eggs before we had objects resembling chickens. So I would say the egg came first, topologically.
+
+****
+
