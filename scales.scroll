@@ -37,6 +37,10 @@ Scales make things comparable. Measure different concepts using the same scale a
 
 The more scales you use, the more sophisticated your symbolic models become. You can measure two buildings with a height scale to create some comparisons, but you can greatly increase those comparisons if you also measure them with a "year built" scale.
 
+One of the most important scales is the computational complexity scale. Nature loves inequality, our universe has ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
+ bigOsKitchen.html computational complexity scale
+ orders-of-magnitude.html orders of magnitude
+
 A dimension is just a set of different measurements with the same scale.
 
 ***
