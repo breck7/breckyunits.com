@@ -1,7 +1,7 @@
 parserId,uses
 BlobParser,14876
-blankLineParser,13159
-catchAllParagraphParser,5132
+blankLineParser,13161
+catchAllParagraphParser,5134
 scrollImportedParser,2061
 importOnlyParser,1486
 slashCommentParser,1097
@@ -44,7 +44,7 @@ h2Parser,189
 orderedListAftertextParser,184
 quoteLineParser,149
 endSnippetParser,139
-quickRelativeLinkParser,135
+quickRelativeLinkParser,137
 captionAftertextParser,116
 scrollQuestionParser,88
 cssLineParser,87
