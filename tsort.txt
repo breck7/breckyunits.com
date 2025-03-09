@@ -4,10 +4,10 @@ by Breck Yunits
  https://twitter.com/breckyunits Breck Yunits
 March 5, 2025
 
-Topological sorting is something I've been thinking about lately.
- https://en.wikipedia.org/wiki/Topological_sorting Topological sorting
+Lately I've been thinking about topological sorting.
+ https://en.wikipedia.org/wiki/Topological_sorting topological sorting
 
-This is sorting concepts in dependency order.
+Topological sorting is sorting concepts in dependency order.
 
 For example, if you wanted to sort "fire" and "internal combustion engine", fire would come first. To explain ICEs, you need fire, but to explain fire you don't need ICEs.
 
@@ -28,10 +28,15 @@ I am unaware of an encyclopedia sorted topologically.
 *
 
 Why would you want an encyclopedia sorted topologically?
+========================================================
 
 Well, topological sorting tells you the logical importance of things. Things further down are built on things at the top (or vice versa, if you prepend new things to your files rather than append).
 
+If you want to get the most bang for your bits, sort your ideas topologically.
+ https://breckyunits.com/intelligence.html the most bang for your bits
+
 What parts of the encyclopedia should you learn first?
+======================================================
 
 It makes more sense to learn the things with a high topological ranking, rather than a high alphabetical ranking. A lot of things turn out to be fads.
 
@@ -40,6 +45,7 @@ Popularity sorting such as by number of inbound links is an improvement over alp
 *
 
 How would you create a topologically sorted encyclopedia?
+=========================================================
 
 I have been attempting to build a topologically sorted encyclopedia for a long time, though I had never described it like that. It's only recently when I realized I wanted to change Scroll to be topologically-sorted by default that I went looking for the definitive term to describe the concept.
  https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
@@ -58,12 +64,14 @@ When dealing with larger programs it seems you can do things a lot faster if you
 *
 
 Is the universe topologically sorted?
+=====================================
 
 It seems to be. The present depends upon the past, and so comes after the past.
 
 *
 
 Which came first, the chicken or the egg?
+=========================================
 
 If we are talking about the words, that might be easy to determine with a good etymology reference.
 

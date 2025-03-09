@@ -15,9 +15,9 @@ https://breckyunits.com/society.html
 https://breckyunits.com/short.html
 https://breckyunits.com/search.html
 https://breckyunits.com/scrollPapers.html
+https://breckyunits.com/posts.html
 https://breckyunits.com/programming.html
 https://breckyunits.com/portfolio.html
-https://breckyunits.com/posts.html
 https://breckyunits.com/pcri.html
 https://breckyunits.com/papers.html
 https://breckyunits.com/parserStats.html
@@ -25,14 +25,14 @@ https://breckyunits.com/parserUsage.html
 https://breckyunits.com/mitochondria.html
 https://breckyunits.com/mecabricks-keyboard-shortcuts.html
 https://breckyunits.com/life.html
-https://breckyunits.com/index.html
 https://breckyunits.com/ifa.html
+https://breckyunits.com/index.html
 https://breckyunits.com/heatmap.html
 https://breckyunits.com/gazetteTag.html
 https://breckyunits.com/freedom.html
 https://breckyunits.com/full.html
-https://breckyunits.com/fiction.html
 https://breckyunits.com/feed.html
+https://breckyunits.com/fiction.html
 https://breckyunits.com/emailBanner.html
 https://breckyunits.com/data.html
 https://breckyunits.com/bipolar.html
