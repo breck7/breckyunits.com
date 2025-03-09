@@ -11,7 +11,7 @@ The word scale is an overloaded term. Usually when I use the word "scale" I am u
 
 ***
 
-English is generally scaled. A small subset of it is scaled.
+English is generally unscaled. A small subset of it is scaled.
  // All human languages are, really
 
 So blog posts are mostly "unscaled". It is hard to compare this line with the line below it.
@@ -37,13 +37,19 @@ Scales make things comparable. Measure different concepts using the same scale a
 
 The more scales you use, the more sophisticated your symbolic models become. You can measure two buildings with a height scale to create some comparisons, but you can greatly increase those comparisons if you also measure them with a "year built" scale.
 
-One of the most important scales is the computational complexity scale. Nature loves inequality, our universe has ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
- bigOsKitchen.html computational complexity scale
- orders-of-magnitude.html orders of magnitude
+***
 
-A dimension is just a set of different measurements with the same scale.
+One of the most important scales is the computational complexity scale.
+ bigOsKitchen.html computational complexity scale
 
 ***
+
+Nature loves inequality, our universe has ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
+ orders-of-magnitude.html orders of magnitude
+
+***
+
+A dimension is just a set of different measurements with the same scale.
 
 You can think of any scale as just a line.
 
@@ -53,9 +59,11 @@ You can draw a high dimensional dataset as just a lot of independent lines. Not 
 
 ***
 
-Wikipedia does not make heavy use of scales. It relies more on text. I often wonder if the focus was more on adding data in typed dimensions, if it would allow it to become a more truthful symbolic model of the world.
+Wikipedia does not make heavy use of scales. It relies more on unscaled narratives. I often wonder if the focus was more on adding data in typed dimensions, if it would allow it to become a more truthful symbolic model of the world.
 
-They do increasingly populate those infoboxes with scaled data. The syntax is nasty, but the scaled data is wonderfully useful.
+To be fair, the infoboxes on Wikipedia are scaled data. The syntax is nasty, but the scaled data is wonderfully useful.
+
+***
 
 The more scales you have, the more trustworthy a model is.
  trust.html trustworthy
@@ -69,7 +77,8 @@ I often think about complexity scales. I proposed if you think in parsers you ca
 
 ***
 
-I don't have anything too profound to say about scales. (On the profoundness scale, this post ranks low.)
+I don't have anything too profound to say about scales. (On the impact scale, this post ranks low.)
+ hits.html impact scale
 
 I just want to make sure I am deliberately thinking enough about them. If you measure concepts on an importance scale, they are high on the list.
 
