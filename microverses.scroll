@@ -1,0 +1,127 @@
+date 2025-3-12
+tags All
+title Microverses
+container 500px
+standardPost.scroll
+
+We live above 7 microverses that we cannot see no matter how hard we squint.
+
+Each microverse is ten times larger than the one above.
+
+Each is its own land with unique creatures, phenomena and rules.
+
+We rely on scopes, and experiments, and symbols to map the territory.
+
+How many concepts to describe each world? 1,000? 10,000? More?
+
+And that just gets us to the atomic level. But there are more lands we still cannot see.
+
+// buildParsers
+ nameDef string Object name
+ microverseDef string Name of the microverse
+ diameterDef float Diameter in angstroms
+  // https://en.wikipedia.org/wiki/Angstrom
+ sourceDef url URL to source.
+ visibleSinceDef int What year did technology first allow this microverse to be seen?
+
+// todo: allow building of Parsers inline. Perhaps via new kind of macro.
+
+nameDefParser
+ cue name
+ extends abstractStringMeasureParser
+ description Object name
+ float sortIndex 1
+ boolean isMeasure true
+ boolean isMeasureRequired true
+ boolean isConceptDelimiter true
+microverseDefParser
+ cue microverse
+ extends abstractStringMeasureParser
+ description Name of the microverse
+ float sortIndex 1.1
+diameterDefParser
+ cue diameter
+ extends abstractFloatMeasureParser
+ description Diameter in angstroms
+ float sortIndex 1.2
+sourceDefParser
+ cue source
+ extends abstractUrlMeasureParser
+ description URL to source.
+ float sortIndex 1.3
+visibleSinceDefParser
+ cue visibleSince
+ extends abstractIntMeasureParser
+ description What year did technology first allow this microverse to be seen?
+ float sortIndex 1.4
+
+name Hydrogen Atom
+microverse Atomboro
+diameter 1
+source https://en.wikipedia.org/wiki/Bohr_radius
+visibleSince 1970
+ // https://doi.org/10.2307/1295589
+
+//
+ name Oxygen Atom
+ diameter 1.3
+ source https://dept.harpercollege.edu/chemistry/chm/100/dgodambe/thedisk/periodic/periodic.htm
+ 
+ name Water Molecule
+ diameter 2.8
+ source https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=6&id=103723
+ 
+ name ATP
+ diameter 14
+ source https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=5&id=106978
+ 
+name Glucose
+microverse Moleculeville
+diameter 15
+source https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=106979
+ // https://bionumbers.hms.harvard.edu/bionumber.aspx?&id=110368
+visibleSince 1961
+ // https://news.berkeley.edu/2013/05/30/scientists-capture-first-images-of-molecules-before-and-after-reaction/
+
+name Hemoglobin
+microverse Proteinplace
+diameter 85
+source https://bionumbers.hms.harvard.edu/bionumber.aspx?id=105116&ver=4&trm=hemoglobin&org=
+visibleSince 1840
+
+name SARS-CoV-2
+microverse Viralworld
+diameter 1000
+source https://pmc.ncbi.nlm.nih.gov/articles/PMC7224694/
+visibleSince 1931
+ // https://en.wikipedia.org/wiki/History_of_virology
+
+name Mitochondria
+microverse Mitotown
+diameter 10000
+source https://www.ncbi.nlm.nih.gov/books/NBK26894/
+ // Mitochondria are usually depicted as stiff, elongated cylinders with a diameter of 0.5–1 μm, resembling bacteria.
+visibleSince 1857
+
+name Red Blood Cell
+microverse Bloodland
+diameter 80000
+source https://pmc.ncbi.nlm.nih.gov/articles/PMC2998922/
+visibleSince 1678
+ https://pubmed.ncbi.nlm.nih.gov/11505724/
+
+name Human ovum
+microverse Hairfield
+diameter 1200000
+source https://en.wikipedia.org/wiki/Egg_cell
+visibleSince 1677
+ https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0531.2012.02105.x
+
+concepts
+ printTable
+
+****
+
+sizeOfEverything.jpg
+ caption The Size of Everything by Olaf Frohn
+  https://armchairastronautics.blogspot.com/p/size-of-everything.html
