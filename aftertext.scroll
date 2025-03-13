@@ -39,7 +39,7 @@ Here is a silly another example, with a lot of aftertext.
  italics a lot
  bold with
  underline aftertext
- https://try.scroll.pub/#scroll%0A%20aftertext%0A%20%20Here%20is%20another%20a%20richer%20example%2C%20showing%20more%20features.%0A%20%20strike%20another%0A%20%20link%20oldhomepage.html%20Here%0A%20%20italics%20more%0A%20%20bold%20showing%0A%20%20underline%20features Here
+ https://try.scroll.pub/#scroll%0A%20Here%20is%20a%20silly%20another%20example%2C%20with%20a%20lot%20of%20aftertext.%0A%20%20strike%20a%20silly%0A%20%20italics%20a%20lot%0A%20%20bold%20with%0A%20%20underline%20aftertext Here
 aboveAsCode
 
 The first implementation of Aftertext ships in the newest version of Scroll. You can also play with it here.
@@ -145,9 +145,10 @@ Thank you to Kartik, Shalabh, Mariano, Joe and rau for pointing me to related wo
 In 1997 Ted Nelson proposed parallel markup.
  https://www.xml.com/pub/a/w3j/s3.nelson.html parallel markup
 
-quote
- The text and the markup are treated as separate parallel members, presumably (but not necessarily) in different files.
- @ Ted Nelson
+> The text and the markup are treated as separate parallel members, presumably (but not necessarily) in different files.
+ Ted Nelson
+  right
+  https://www.xml.com/pub/a/w3j/s3.nelson.html
 
 When searching for '"parallel markup implementation"' I also came across a Wikipedia page titled Overlapping markup, which contains a number of related points.
  https://www.google.com/search?q=%22parallel+markup%22+implementation "parallel markup implementation"
