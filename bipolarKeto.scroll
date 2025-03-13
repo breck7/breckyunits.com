@@ -6,7 +6,7 @@ header.scroll
 
 // Adapted from one of my reddit posts: https://www.reddit.com/r/bipolarketo/comments/17k2pg3/keto_was_not_mentioned_in_the_top_50_books_on/
 
-mediumColumns 1
+container 600px
 
 printTitle
 
@@ -43,5 +43,12 @@ I am very grateful for all of the researchers who started seriously studying thi
 I still have a ton to learn but I wanted to share this simple book scan in case anyone else was wondering why they hadn't heard of this option before.
 
 ****
+
+clearStack
+
+container 1000px
+bpBooks.tsv
+ printTable
+tableSearch
 
 footer.scroll
