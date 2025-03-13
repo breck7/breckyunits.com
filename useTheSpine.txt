@@ -27,7 +27,7 @@ There are many other terms for _using the spine_. The off-side rule. Semantic in
  https://pldb.io/posts/which-programming-languages-use-indentation.html Semantic indentation
  https://en.wikipedia.org/wiki/Off-side_rule off-side rule
 
-To use the spine is to recognize that all programs in your language will be read and written on surfaces with not only a horizontal but also a vertical axis—the spine—and thus you should design your language to exploit this free and guaranteed resource.
+> To use the spine is to recognize that all programs in your language will be read and written on surfaces with not only a horizontal but also a vertical axis—the spine—and thus you should design your language to exploit this free and guaranteed resource.
 
 *
 
@@ -63,4 +63,4 @@ I firmly believe that this simple trick—using the spine—will unleash a wave 
 
 ⁂
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

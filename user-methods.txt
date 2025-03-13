@@ -5,14 +5,14 @@ August 11, 2021
 
 In this essay I'm going to talk about a design pattern in writing applications that requires effectively no extra work and more than triples the power of your code. It's one of the biggest wins I've found in programming and I don't think this pattern is emphasized enough. The tldr; is this:
 
-When building applications, distinguish methods that will be called by the user.
+> When building applications, distinguish methods that will be called by the user.
 
 The Missing Access Modifier
 ===========================
 All Object Oriented Programmers are familiar with the concept of `PrivateMethods` and `PublicMethods`. `PrivateMethods` methods are functions called by programmers inside your class; `PublicMethods` are functions called by programmers outside your class. `Private` and `Public` (as well as `Protected`), are commonly called AccessModifiers and are ubitquitous in software engineering.
  https://https://en.wikipedia.org/wiki/Access_modifiers AccessModifiers
 
-A UserMethod is a class method called by the user through a non-programmatic interface
+> A UserMethod is a class method called by the user through a non-programmatic interface
 
 `UserMethods` are all the entry points a user has to interact with your application. All interactions users have with your application can be represented by a sequence of calls to UserMethods.
 
@@ -35,7 +35,7 @@ Advice: When building applications, distinguish your UserMethods
 ================================================================
 If you are just building a library used by other programmers programmatically, then the public/private/protected access modifiers are likely sufficient. In those situations, your UserMethods are identical to your PublicMethods. But if there is a user facing component, some wisdom:
 
-I have never seen a single application with a user facing component, whether it be a Graphical Interface, Command Line Interface, Voice Interface, et cetera, that doesn't benefit significantly from following the UserMethod Pattern.
+> I have never seen a single application with a user facing component, whether it be a Graphical Interface, Command Line Interface, Voice Interface, et cetera, that doesn't benefit significantly from following the UserMethod Pattern.
 
 Implementation Costs
 ====================
@@ -111,4 +111,4 @@ Yes. But they are a special category of PublicMethod and it's a distinction wort
 
 ⁂
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

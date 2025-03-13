@@ -7,7 +7,7 @@ It is better to set small, meaningful goals than to set wild, audacious goals.
 
 Here's one way to set goals:
 
-Make them good. Make them small.
+> Make them good. Make them small.
 
 Make them Good
 ==============
@@ -45,4 +45,4 @@ If you exceed your low bar, you can be happy. If you exceed your high bar, you c
 
 ⁂
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

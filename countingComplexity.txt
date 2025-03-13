@@ -13,8 +13,8 @@ December 20, 2017
 Introduction
 ============
 
-...make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.
-- On the Method of Theoretical Physics, Albert Einstein
+> ...make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.
+ _On the Method of Theoretical Physics_ by Albert Einstein
 
 The above quote is commonly paraphrased as "Make things as simple as possible, but not simpler."
 
@@ -286,4 +286,4 @@ A New Discovery in Computer Science: 2-Dimensional Programming Languages
 06/21/2017
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

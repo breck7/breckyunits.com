@@ -6,7 +6,7 @@ March 22, 2010
 Google has a list of 10 principles that guide its actions. Number 2 on this list is:
  http://www.google.com/intl/en/corporate/tenthings.html 10 principles
 
-It's best to do one thing really, really well.
+> It's best to do one thing really, really well.
 
 This advice is so often repeated that I thought it would be worthwhile to think hard about why this might be the case.
 
@@ -52,4 +52,4 @@ Microsoft Windows brings in something like $15 billion per year. Google Adwords 
 
 ⁂
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

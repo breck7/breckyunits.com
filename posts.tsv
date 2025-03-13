@@ -13,7 +13,6 @@ date	year	title	permalink	authors	tags	wordCount	minutes
 02/17/2025	2025	Owned Air	ownedAir.html	Breck Yunits	All IntellectualFreedom Fiction	639	3.2
 02/16/2025	2025	Information Cleaner	ic.html	Breck Yunits	All IntellectualFreedom	908	4.5
 02/10/2025	2025	All the benefits of property; none of the responsibility	ipResponsibility.html	Breck Yunits	All IntellectualFreedom	613	3.1
-02/07/2025	2025	Aaron's Amendment	aaron.html	Breck Yunits	All IntellectualFreedom	618	3.1
 02/06/2025	2025	Optimizing for Truth	optimizingForTruth.html	Breck Yunits	All IntellectualFreedom	396	2
 01/22/2025	2025	The Greatest Prompt in the World	greatestPrompt.html	Breck Yunits	All Programming	213	1.1
 01/13/2025	2025	A New Coat of Paint	aNewCoatOfPaint.html	Breck Yunits	All IntellectualFreedom Society	56	0.3
@@ -108,14 +107,15 @@ date	year	title	permalink	authors	tags	wordCount	minutes
 08/30/2022	2022	How the public domain can win	how-the-public-domain-can-win.html	Breck Yunits	All IntellectualFreedom	799	4
 06/09/2022	2022	The Three Byte Fix	ckmeans.html	Breck Yunits	All Programming Data HasDataset Logeracy	1005	5
 02/28/2022	2022	Upstream of Everything	upstream-of-everything.html	Breck Yunits	All Life Thinking	1246	6.2
-02/18/2022	2022	Brain Pilots	brain-pilots.html	Breck Yunits	All Life Minsky	2730	13.7
-12/15/2021	2021	Aftertext	aftertext.html	Breck Yunits	All Scroll Programming Writing	2048	10.2
+02/18/2022	2022	Brain Pilots	brain-pilots.html	Breck Yunits	All Life Minsky	2726	13.6
+12/15/2021	2021	Aftertext	aftertext.html	Breck Yunits	All Scroll Programming Writing	2055	10.3
 10/15/2021	2021	Write Thin to Write Fast	write-thin-to-write-fast.html	Breck Yunits	All Writing HasDataset	1148	5.7
 08/11/2021	2021	User Methods	user-methods.html	Breck Yunits	All Programming	1466	7.3
 05/22/2021	2021	Goblin Interviews Alexandra Elbakian	elbakian-interview.html	Breck Yunits	All OtherAuthor	17154	85.8
 05/14/2021	2021	Scrolldown now has Dialogues	dialogues.html	Breck Yunits	All Scroll	143	0.7
+05/12/2021	2021	Aaron's Amendment	aaron.html	Breck Yunits	All IntellectualFreedom	618	3.1
 05/07/2021	2021	Some old blogs	some-old-blogs.html	Breck Yunits	All Writing	381	1.9
-05/06/2021	2021	Strong Advice	advice.html	Breck Yunits	All Data Writing Life	766	3.8
+05/06/2021	2021	Strong Advice	advice.html	Breck Yunits	All Data Writing Life	757	3.8
 04/26/2021	2021	Logeracy	logeracy.html	Breck Yunits	All Data Thinking Society Hits Logeracy	1596	8
 03/30/2021	2021	How to fix the CDC, NIH, etc	how-to-fix-the-cdc.html	Breck Yunits	All Society	1076	5.4
 03/11/2021	2021	How James Park built FitBit	how-james-park-built-fitbit.html	Breck Yunits	All OtherAuthor	11709	58.5
@@ -137,7 +137,7 @@ date	year	title	permalink	authors	tags	wordCount	minutes
 08/19/2019	2019	English cannot encode Real News	english-cannot-encode-real-news.html	Breck Yunits	All Writing Society Data Narratives	811	4.1
 07/18/2019	2019	30,000 Hours	30000hours.html	Breck Yunits	All Programming Life HasDataset MasterProgramming	491	2.5
 07/14/2019	2019	Removing the 2’s from Trinary Notation is a Terrible Idea.	trinary.html	Breck Yunits	All Scroll Programming	535	2.7
-12/20/2017	2017	PC: Particle Complexity	countingComplexity.html	Breck Yunits	All Scroll ScrollPapers AllPapers Science	1509	7.5
+12/20/2017	2017	PC: Particle Complexity	countingComplexity.html	Breck Yunits	All Scroll ScrollPapers AllPapers Science	1510	7.5
 09/10/2017	2017	Parsers: a language for making languages	aGrammarNotationForTreeLanguages.html	Breck Yunits	All Scroll ScrollPapers AllPapers	400	2
 06/23/2017	2017	Ohayo	ohayo.html	Breck Yunits	All Data Programming Startups Scroll	76	0.4
 06/21/2017	2017	Tree Notation: an antifragile program notation	treenotationPaper.html	Breck Yunits	All Scroll ScrollPapers AllPapers	1299	6.5
@@ -158,7 +158,7 @@ date	year	title	permalink	authors	tags	wordCount	minutes
 12/23/2012	2012	The Great Bank Robbery	the-great-bank-robbery.html	Breck Yunits	All Society HasDataset	188	0.9
 12/22/2012	2012	Responsibility	responsibility.html	Breck Yunits	All Life	424	2.1
 12/19/2012	2012	Deliver	deliver.html	Breck Yunits	All Life	430	2.1
-12/19/2012	2012	Black Swans and Technology	black-swans-and-technology.html	Breck Yunits	All Thinking Startups	488	2.4
+12/19/2012	2012	Black Swans and Technology	black-swans-and-technology.html	Breck Yunits	All Thinking Startups	486	2.4
 12/18/2012	2012	Probability Makes Planes Fly	probability-makes-planes-fly.html	Breck Yunits	All Thinking Life	386	1.9
 12/18/2012	2012	Can't Lose. Could Win Big.	cant-lose-could-win-big.html	Breck Yunits	All Life Startups	468	2.3
 12/16/2012	2012	Simple is...	simple-is.html	Breck Yunits	All Life Thinking	176	0.9
@@ -217,7 +217,7 @@ date	year	title	permalink	authors	tags	wordCount	minutes
 12/13/2009	2009	Don't Flip the Bit	dont-flip-the-bozo-bit.html	Breck Yunits	All Programming Life	393	2
 12/11/2009	2009	(un)features	unfeatures.html	Breck Yunits	All Programming Startups	479	2.4
 12/10/2009	2009	Get Stuff Done By Setting Arbitrary Constraints	get-stuff-done-by-setting-arbitrary-constraints.html	Breck Yunits	All Life	501	2.5
-12/09/2009	2009	Why You Shouldn't Save Blogging for Old Age	why-you-shouldnt-save-blogging-for-old-age.html	Breck Yunits	All Writing	306	1.5
+12/09/2009	2009	Why You Shouldn't Save Blogging for Old Age	why-you-shouldnt-save-blogging-for-old-age.html	Breck Yunits	All Writing	304	1.5
 12/08/2009	2009	6 Specific Ways to Find Programming Mentors	6-specific-ways-to-find-programming-mentors.html	Breck Yunits	All Programming MasterProgramming	908	4.5
 12/07/2009	2009	Orders of Magnitude	orders-of-magnitude.html	Breck Yunits	All Thinking Logeracy Hits	912	4.6
 12/06/2009	2009	The Many Worlds Law	the-many-worlds-law.html	Breck Yunits	All Life Thinking	363	1.8

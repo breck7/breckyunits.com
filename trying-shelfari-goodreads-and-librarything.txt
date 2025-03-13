@@ -31,4 +31,4 @@ Note: I imported this post from my original Wordpress blog.
 Original post
  https://web.archive.org/web/20081120163150/http://www.breckyunits.com/ideas/2008/07/27/trying-shelfari-goodreads-and-librarything/ Original post
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

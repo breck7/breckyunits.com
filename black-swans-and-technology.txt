@@ -5,8 +5,9 @@ December 19, 2012
 
 For the past year I've been raving about Node.js, so I cracked a huge smile when I saw this question on Quora:
 
-In five years, which language is likely to be most prominent, Node.js, Python, or Ruby, and why?
-- <a href="http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why">Quora</a>
+> In five years, which language is likely to be most prominent, Node.js, Python, or Ruby, and why?
+ Quora
+  http://www.quora.com/In-five-years-which-language-is-likely-to-be-most-prominent-Node-js-Python-or-Ruby-and-why Quora
 
 For months I had been repeating the same answer to friends: "Node.js hands down. If you want to build great web apps, you don't have a choice, you have to master Javascript. Why then master two languages when you don't need to?"
 
@@ -34,4 +35,4 @@ Notes
 =====
 _All that being said, Node.js kicks ass *today*(the Javascript thing, the community, the speed, the packages, the fact I don't need a separate web server anymore...it is awesome), and I would not be surprised if Javascript becomes 10-100x bigger in the years ahead, while I can't say the same about other languages. And if Javascript doesn't become that big, worst case is it's still a very powerful language and you'll benefit a lot from focusing on it._
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

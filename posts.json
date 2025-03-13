@@ -140,16 +140,6 @@
     "minutes": 3.1
   },
   {
-    "date": "02/07/2025",
-    "year": 2025,
-    "title": "Aaron's Amendment",
-    "permalink": "aaron.html",
-    "authors": "Breck Yunits",
-    "tags": "All IntellectualFreedom",
-    "wordCount": 618,
-    "minutes": 3.1
-  },
-  {
     "date": "02/06/2025",
     "year": 2025,
     "title": "Optimizing for Truth",
@@ -1096,8 +1086,8 @@
     "permalink": "brain-pilots.html",
     "authors": "Breck Yunits",
     "tags": "All Life Minsky",
-    "wordCount": 2730,
-    "minutes": 13.7
+    "wordCount": 2726,
+    "minutes": 13.6
   },
   {
     "date": "12/15/2021",
@@ -1106,8 +1096,8 @@
     "permalink": "aftertext.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming Writing",
-    "wordCount": 2048,
-    "minutes": 10.2
+    "wordCount": 2055,
+    "minutes": 10.3
   },
   {
     "date": "10/15/2021",
@@ -1150,6 +1140,16 @@
     "minutes": 0.7
   },
   {
+    "date": "05/12/2021",
+    "year": 2021,
+    "title": "Aaron's Amendment",
+    "permalink": "aaron.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 618,
+    "minutes": 3.1
+  },
+  {
     "date": "05/07/2021",
     "year": 2021,
     "title": "Some old blogs",
@@ -1166,7 +1166,7 @@
     "permalink": "advice.html",
     "authors": "Breck Yunits",
     "tags": "All Data Writing Life",
-    "wordCount": 766,
+    "wordCount": 757,
     "minutes": 3.8
   },
   {
@@ -1386,7 +1386,7 @@
     "permalink": "countingComplexity.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll ScrollPapers AllPapers Science",
-    "wordCount": 1509,
+    "wordCount": 1510,
     "minutes": 7.5
   },
   {
@@ -1596,7 +1596,7 @@
     "permalink": "black-swans-and-technology.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Startups",
-    "wordCount": 488,
+    "wordCount": 486,
     "minutes": 2.4
   },
   {
@@ -2186,7 +2186,7 @@
     "permalink": "why-you-shouldnt-save-blogging-for-old-age.html",
     "authors": "Breck Yunits",
     "tags": "All Writing",
-    "wordCount": 306,
+    "wordCount": 304,
     "minutes": 1.5
   },
   {

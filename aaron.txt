@@ -4,7 +4,7 @@ Aaron's Amendment
 > New: let's get to work! Join the subreddit
  https://www.reddit.com/r/AaronsAmendment/ subreddit
 
-February 7, 2025
+May 12, 2021
 
 If you've thought deeply about copyrights and patents, you've probably figured out that they are bad for progress and deeply unjust. This post is for you.
 
@@ -71,4 +71,4 @@ The kind of people I think may be ready to organize would be lovers of open sour
  https://x.com/ringo_ring Alexandra Elbakian
  https://www.stephankinsella.com/ Stephan Kinsella
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

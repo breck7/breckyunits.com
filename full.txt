@@ -71,11 +71,6 @@ All the benefits of property; none of the responsibility
 02/10/2025
 https://breckyunits.com/ipResponsibility.html
 
-Aaron's Amendment
-=================
-02/07/2025
-https://breckyunits.com/aaron.html
-
 Optimizing for Truth
 ====================
 02/06/2025
@@ -575,6 +570,11 @@ Scrolldown now has Dialogues
 ============================
 05/14/2021
 https://breckyunits.com/dialogues.html
+
+Aaron's Amendment
+=================
+05/12/2021
+https://breckyunits.com/aaron.html
 
 Some old blogs
 ==============
@@ -1236,4 +1236,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

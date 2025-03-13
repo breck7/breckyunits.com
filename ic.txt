@@ -62,11 +62,6 @@ All the benefits of property; none of the responsibility
 02/10/2025
 https://breckyunits.com/ipResponsibility.html
 
-Aaron's Amendment
-=================
-02/07/2025
-https://breckyunits.com/aaron.html
-
 Optimizing for Truth
 ====================
 02/06/2025
@@ -162,6 +157,11 @@ How the public domain can win
 08/30/2022
 https://breckyunits.com/how-the-public-domain-can-win.html
 
+Aaron's Amendment
+=================
+05/12/2021
+https://breckyunits.com/aaron.html
+
 The Public Domain Publishing Company
 ====================================
 02/28/2021
@@ -182,4 +182,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0

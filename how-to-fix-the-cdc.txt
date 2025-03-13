@@ -56,8 +56,8 @@ I'm adding two very clear and specific examples to illustrate the problem. But m
 #1 - COVID-19 in kids vs the Flu
 ================================
 
-For young children, especially children younger than 5 years old, the risk of serious complications is higher for flu compared with COVID-19.
-@ CDC
+> For young children, especially children younger than 5 years old, the risk of serious complications is higher for flu compared with COVID-19.
+ CDC
 
 This statement appeared on the CDC's website for more than a year. As it should have. Every big dataset I've looked at agrees with this, from the very first COVID-19 data dump in February 2020.
  https://twitter.com/breckyunits/status/1228117546974371840 first COVID-19 data dump
@@ -87,4 +87,4 @@ Notes
 =====
 - Perhaps by "reviewed", they mean experts last reviewed it then, and all subsequent changes were made by an intern, on their own, which I also don't think would be a good explanation.
 
-Built with Scroll v173.0.0
+Built with Scroll v174.1.0
