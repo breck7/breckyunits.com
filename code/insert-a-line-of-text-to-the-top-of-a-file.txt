@@ -8,4 +8,4 @@ If you have a massive text file you want to add a line to without opening the fi
 sed -e '1i\text_to_insert' -i file.txt
 ```
 
-Built with Scroll v174.1.1
+Built with Scroll v174.2.0

@@ -82,4 +82,4 @@ Related Reading
 - On Proof and Progress in Mathematics (1994)
  https://www.math.toronto.edu/mccann/199/thurston.pdf On Proof and Progress in Mathematics (1994)
 
-Built with Scroll v174.1.1
+Built with Scroll v174.2.0
