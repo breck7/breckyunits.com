@@ -11,11 +11,12 @@ printTitle
 printAuthors
 printDate
 center
-The Atlantic | Txt | PDF
+The Atlantic | Txt | PDF | Source
  italics
  https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ The Atlantic
  link asWeMayThink.txt Txt
  link memex.pdf PDF
+ link asWeMayThink.scroll Source
 
 wideColumns 1
 
