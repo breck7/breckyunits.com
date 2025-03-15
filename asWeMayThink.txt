@@ -3,10 +3,11 @@ As We May Think
 by Vannevar Bush, Director of the Office of Scientific Research and Development
  https://en.wikipedia.org/wiki/Vannevar_Bush Vannevar Bush
 July 1, 1945
-The Atlantic | Txt | PDF
+The Atlantic | Txt | PDF | Source
  https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ The Atlantic
  /asWeMayThink.txt Txt
  /memex.pdf PDF
+ /asWeMayThink.scroll Source
 
 [Image Omitted]
  A scientist of the future records experiments with a tiny camera fitted with universal-focus lens. The small square in the eyeglass at the left sights the object.

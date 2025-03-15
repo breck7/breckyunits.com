@@ -57,7 +57,7 @@ printDateParser,49
 h3Parser,46
 codeParser,44
 mediumColumnsParser,42
-scrollLinkParser,41
+scrollLinkParser,42
 printTableParser,38
 scrollTableDataParser,34
 scrollTableParser,34
