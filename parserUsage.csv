@@ -22,7 +22,7 @@ baseUrlParser,310
 editBaseUrlParser,309
 rssFeedUrlParser,309
 buildHtmlParser,308
-metaTagsParser,307
+metaTagsParser,308
 printTitleParser,306
 homeButtonParser,305
 scrollFontParser,305
@@ -151,8 +151,8 @@ scrollComposeParser,1
 scrollLimitParser,1
 scrollWhereParser,1
 scrollPostsParser,1
-printSiteMapParser,1
 printShortSnippetsParser,1
+printSiteMapParser,1
 printSourceParser,1
 htmlAParser,1
 slideshowParser,1
