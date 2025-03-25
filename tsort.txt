@@ -32,9 +32,9 @@ Why would you want an encyclopedia sorted topologically?
 
 Well, topological sorting tells you the logical importance of things. Things further down are built on things at the top (or vice versa, if you prepend new things to your files rather than append).
 
-A topologically sorted encyclopedia would also be _hard to vary_. Computational logic tests would trigger if someone tried to add non-sense to a low level piece.
+A topologically sorted encyclopedia would also be _hard to vary_. Computational logic tests would trigger if someone tried to add non-sense to a low level piece. You could tell how important something is by how hard it would be to vary-how much load do these symbols support?
 
-And when revolutionary new low-level scientific insights are discovered that refine our models, you can actually numerically see and measure the downstream impact of those breakthroughs.
+When revolutionary new low-level scientific insights are discovered that refine our models, you could actually numerically see and measure the downstream impact of those breakthroughs.
 
 If you want to get the most bang for your bits, sort your ideas topologically.
  https://breckyunits.com/intelligence.html the most bang for your bits
