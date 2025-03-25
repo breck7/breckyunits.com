@@ -8,4 +8,4 @@ Add this to your /etc/defaults/etc/ssh_config file to prevent SSH servers from d
 ServerAliveInterval 60
 ```
 
-Built with Scroll v175.1.0
+Built with Scroll v175.2.1

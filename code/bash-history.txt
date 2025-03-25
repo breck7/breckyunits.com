@@ -9,4 +9,4 @@ Understanding and mastering bash history can:
 
 Here's a terrific guide on using <a href="http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/">Bash History effectively</a>.
 
-Built with Scroll v175.1.0
+Built with Scroll v175.2.1

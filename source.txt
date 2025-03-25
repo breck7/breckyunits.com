@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Mon, 24 Mar 2025 20:15:50 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 25 Mar 2025 14:46:26 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>The Consultation Problem and Why Copyright is Dishonest at its Core</title>
+<link>https://breckyunits.com/copyrightIsDishonest.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>Tech's Dirty Secret</title>
 <link>https://breckyunits.com/dirtySecret.html</link>

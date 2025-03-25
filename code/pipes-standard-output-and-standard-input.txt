@@ -38,4 +38,4 @@ Notes
 - Linux <a href="https://www.amazon.com/Linux-Phrasebook-Granneman-Scott-Paperback/dp/B011DB5ZDQ">Phrasebook</a>
 - <a href="https://ubuntuforums.org/showthread.php?t=713210">pipe</a> to vim
 
-Built with Scroll v175.1.0
+Built with Scroll v175.2.1

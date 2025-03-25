@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+The Consultation Problem and Why Copyright is Dishonest at its Core
+===================================================================
+03/25/2025
+https://breckyunits.com/copyrightIsDishonest.html
+
 Tech's Dirty Secret
 ===================
 03/21/2025
@@ -1241,4 +1246,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v175.1.0
+Built with Scroll v175.2.1

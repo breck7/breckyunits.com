@@ -1,5 +1,15 @@
 [
   {
+    "date": "03/25/2025",
+    "year": 2025,
+    "title": "The Consultation Problem and Why Copyright is Dishonest at its Core",
+    "permalink": "copyrightIsDishonest.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom Society",
+    "wordCount": 299,
+    "minutes": 1.5
+  },
+  {
     "date": "03/21/2025",
     "year": 2025,
     "title": "Tech's Dirty Secret",
@@ -136,8 +146,8 @@
     "permalink": "ic.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 920,
-    "minutes": 4.6
+    "wordCount": 939,
+    "minutes": 4.7
   },
   {
     "date": "02/10/2025",
@@ -146,8 +156,8 @@
     "permalink": "ipResponsibility.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 625,
-    "minutes": 3.1
+    "wordCount": 644,
+    "minutes": 3.2
   },
   {
     "date": "02/06/2025",
@@ -186,8 +196,8 @@
     "permalink": "thePermissionFunction.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 648,
-    "minutes": 3.2
+    "wordCount": 667,
+    "minutes": 3.3
   },
   {
     "date": "12/10/2024",
@@ -606,7 +616,7 @@
     "permalink": "lab.html",
     "authors": "Breck Yunits",
     "tags": "All Startups Programming Writing",
-    "wordCount": 463,
+    "wordCount": 464,
     "minutes": 2.3
   },
   {
