@@ -44,7 +44,7 @@ One of the most important scales is the computational complexity scale.
 
 ***
 
-Nature loves inequality, our universe has ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
+Nature loves inequality, the size scale of our universe is vast with ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
  orders-of-magnitude.html orders of magnitude
 
 ***
@@ -59,7 +59,7 @@ You can draw a high dimensional dataset as just a lot of independent lines. Not 
 
 ***
 
-Wikipedia does not make heavy use of scales. It relies more on unscaled narratives. I often wonder if the focus was more on adding data in typed dimensions, if it would allow it to become a more truthful symbolic model of the world.
+Wikipedia does not make heavy use of scales. It relies more on unscaled narratives. I often wonder if the focus was more on adding scaled data-data in typed dimensions-if it would allow it to become a more truthful symbolic model of the world.
 
 To be fair, the infoboxes on Wikipedia are scaled data. The syntax is nasty, but the scaled data is wonderfully useful.
 
@@ -70,7 +70,7 @@ The more scales you have, the more trustworthy a model is.
 
 ***
 
-I often think about complexity scales. I proposed if you think in parsers you can measure the complexity of any idea. Perhaps the "parser" is a good unit for complexity. If two models of the world are equally intelligent, pick the less complex one - the one with fewer parsers.
+I often think about complexity scales. I proposed if you think in parsers you can measure the complexity of any idea. Perhaps the "parser" is a good unit for a complexity scale. If two models of the world are equally intelligent, pick the less complex one - the one with fewer parsers.
  thinkingInParsers.html think in parsers
  countingComplexity.html measure the complexity of any idea
  intelligence.html intelligent
