@@ -1,7 +1,7 @@
 parserId,uses
 BlobParser,15046
-blankLineParser,13419
-catchAllParagraphParser,5290
+blankLineParser,13417
+catchAllParagraphParser,5291
 scrollImportedParser,2082
 importOnlyParser,1501
 slashCommentParser,1109
@@ -68,10 +68,10 @@ openGraphParser,30
 aftertextClassParser,29
 scrollTableDelimiterParser,27
 htmlInlineParser,24
+replaceParser,23
 scrollNavParser,20
 scrollLinkTitleParser,19
 openGraphDescriptionParser,19
-replaceParser,19
 quoteParser,18
 printSnippetsParser,15
 scrollChatParser,14
