@@ -8,4 +8,4 @@ Here's a great <a href="https://articles.slicehost.com/2009/1/6/ssh-socks-proxy"
 
 I also recommend the QuickProxy Firefox addon which lets you quickly toggle the proxy on and off.
 
-Built with Scroll v175.2.1
+Built with Scroll v176.0.1

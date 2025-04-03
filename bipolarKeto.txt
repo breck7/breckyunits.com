@@ -216,4 +216,4 @@ SearchGroup	KetoMentions	MitoMentions	Title	Edition	Year	Author	Category	Focus	A
 1	0	0	Bipolar, Not So Much: Understanding Your Mood Swings and Depression	1	2017	James R. Phelps and Chris Aiken	Self-help	Bipolar	https://www.amazon.com/Bipolar-Not-Much-Understanding-Depression-ebook/dp/B01CKZM3A2/
 2	0	0	Burn Rate: Launching a Startup and Losing My Mind	1	2022	Andy Dunn	Biography	Bipolar	https://www.amazon.com/Burn-Rate-Launching-Startup-Losing/dp/0593238265
 
-Built with Scroll v175.2.1
+Built with Scroll v176.0.1
