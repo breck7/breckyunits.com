@@ -4,11 +4,11 @@ title What Science May Be
 css
  .printAuthorsParser {text-transform: none !important;}
  @media print {.abstractTextLinkParser {display: none !important;}}
-container 530px
+// container 530px
 standardPost.scroll
 openGraphImage WhatScienceMayBe.jpg
 
-// thinColumns 2
+thinColumns 2
 
 We can embody all of science into a single fully connected text file.
  class dropcap
@@ -26,11 +26,11 @@ This file would allow everyone to get state-of-the-art, logical answers to any q
 
 ***
 
-How do we connect every word? A new language consisting of a simple universal syntax and list of objects called parsers would create an invisible wired grid.
-
-This file would be topologically ordered, meaning concepts are defined only out of already defined concepts. For example, addition and uncertainty would be defined before quantum mechanics.
+How do we connect every word? A new language consisting of a simple universal syntax that denotes words and recursive blocks, along with type definitions called parsers, creates an invisible wired grid. A Reader moves down the blocks of the file, encountering new parsers or pattern matching words and blocks to existing parsers, and then loads blocks into memory for later computations.
 
 All words are typed and the file is mostly structured data, with exceptions for sections of visual and free-text data, called groundings.
+
+This file would be topologically ordered, meaning concepts are defined only out of already defined concepts. For example, addition and uncertainty would be defined before quantum mechanics.
 
 Experimental procedures and actual scaled measurements would be found early and often, as reproducible experiments are the bedrock of science.
 
