@@ -4,11 +4,11 @@ title What Science May Be
 css
  .printAuthorsParser {text-transform: none !important;}
  @media print {.abstractTextLinkParser {display: none !important;}}
-// container 530px
+container 530px
 standardPost.scroll
 openGraphImage WhatScienceMayBe.jpg
 
-thinColumns 2
+// thinColumns 2
 
 We can embody all of science into a single fully connected text file.
  class dropcap
