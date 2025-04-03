@@ -6,7 +6,6 @@ css
  @media print {.abstractTextLinkParser {display: none !important;}}
 // container 530px
 standardPost.scroll
-theme prestige
 openGraphImage WhatScienceMayBe.jpg
 
 thinColumns 2
@@ -16,6 +15,7 @@ We can embody all of science into a single fully connected text file.
  style margin-top:0;
 
 endSnippet
+theme prestige
 
 Scientists would contribute blocks to this file like they now contribute papers to journals and datasets to databases.
 
