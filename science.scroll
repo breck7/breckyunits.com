@@ -5,7 +5,16 @@ css
  .printAuthorsParser {text-transform: none !important;}
  @media print {.abstractTextLinkParser {display: none !important;}}
 container 530px
-standardPost.scroll
+
+header.scroll
+printTitle
+center
+pdf | txt
+ link WhatScienceMayBe.pdf pdf
+ link science.txt txt
+printAuthors
+printDate
+
 openGraphImage WhatScienceMayBe.jpg
 
 // thinColumns 2
@@ -63,3 +72,5 @@ A number of developments have made it more feasible than ever to build this syst
 ****
 
 // Though nothing is fully predictable. Who knows how AI will change things, or what other surprises are ahead.
+
+footer.scroll
