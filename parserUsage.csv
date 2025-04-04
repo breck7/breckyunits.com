@@ -38,7 +38,7 @@ scrollTagsParser,286
 scrollDateParser,280
 endOfPostDinkusParser,267
 quickImageParser,230
-scrollContainerParser,219
+scrollContainerParser,220
 datelineParser,213
 h2Parser,200
 orderedListAftertextParser,184
@@ -61,8 +61,8 @@ scrollLinkParser,42
 printTableParser,38
 scrollTableDataParser,34
 scrollTableParser,34
-thinColumnsParser,34
 openGraphImageParser,34
+thinColumnsParser,33
 quickParagraphParser,31
 openGraphParser,30
 aftertextClassParser,30
