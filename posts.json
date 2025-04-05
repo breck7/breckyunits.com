@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/05/2025",
+    "year": 2025,
+    "title": "The Lisp Enlightenment Trap",
+    "permalink": "lispet.html",
+    "authors": "Breck Yunits",
+    "tags": "All Programming Comics",
+    "wordCount": 21,
+    "minutes": 0.1
+  },
+  {
     "date": "04/03/2025",
     "year": 2025,
     "title": "What Science May Be",
@@ -286,8 +296,8 @@
     "permalink": "comics.html",
     "authors": "Breck Yunits",
     "tags": "All Comics",
-    "wordCount": 102,
-    "minutes": 0.5
+    "wordCount": 111,
+    "minutes": 0.6
   },
   {
     "date": "11/02/2024",

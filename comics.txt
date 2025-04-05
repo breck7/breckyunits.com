@@ -1,6 +1,14 @@
 Comics
 ======
 
+4/05/2025
+
+The Lisp Enlightenment Trap
+===========================
+[Image Omitted]
+
+*
+
 12/06/2024
 
 Questionable Engineering

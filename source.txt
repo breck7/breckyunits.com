@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Fri, 04 Apr 2025 00:36:39 +0000</lastBuildDate>
+ <lastBuildDate>Sat, 05 Apr 2025 13:45:23 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>The Lisp Enlightenment Trap</title>
+<link>https://breckyunits.com/lispet.html</link>
+<pubDate>Invalid Date</pubDate>
+</item>
  <item>
 <title>What Science May Be</title>
 <link>https://breckyunits.com/science.html</link>
