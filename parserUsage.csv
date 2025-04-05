@@ -6,7 +6,7 @@ scrollImportedParser,2102
 importOnlyParser,1201
 slashCommentParser,1121
 quickLinkParser,1108
-h1Parser,788
+h1Parser,789
 scrollDinkusParser,692
 scrollBrParser,659
 quickCssParser,622
@@ -52,7 +52,7 @@ footnoteDefinitionParser,77
 katexParser,70
 quickQuoteParser,63
 printAuthorsParser,63
-printRelatedParser,55
+printRelatedParser,56
 printDateParser,53
 h3Parser,46
 codeParser,44
