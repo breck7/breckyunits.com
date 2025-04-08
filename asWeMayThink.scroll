@@ -1,11 +1,10 @@
 buildHtml
 buildTxt
-theme gazette
-
 title As We May Think
 authors Vannevar Bush, Director of the Office of Scientific Research and Development
  https://en.wikipedia.org/wiki/Vannevar_Bush Vannevar Bush
 date July 1945
+theme gazette
 
 printTitle
 printAuthors

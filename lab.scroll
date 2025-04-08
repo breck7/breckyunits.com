@@ -1,8 +1,8 @@
 date 5/27/2024
-replace COMMITMENT 31
-replace PRICE $499,999
 tags All Startups Programming Writing
 title Breck's Lab
+replace COMMITMENT 31
+replace PRICE $499,999
 
 header.scroll
 printTitle
