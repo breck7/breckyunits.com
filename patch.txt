@@ -150,4 +150,4 @@ I made Patch in 2020 for Our World in Data.
 
 This is an updated fork.
 
-Built with Scroll v176.0.1
+Built with Scroll v177.0.0

@@ -210,4 +210,3 @@ From an XML perspective, think of Parsers as XML with a much slimmer syntax and 
 No. First, you can have Parsers like a PoemParser that are very loose in what they accept. Second, no matter what, symbols are a poor approximation to patterns in the physical world, and so it's better to optimize for efficiency in symbolic patterns over looseness.
 
 ****
-

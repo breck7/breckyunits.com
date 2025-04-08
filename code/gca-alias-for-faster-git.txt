@@ -14,4 +14,4 @@ I made a simple <a href="use-aliases-to-save-time.html">alias</a> to save keystr
 alias gca="git commit -am "
 ```
 
-Built with Scroll v176.0.1
+Built with Scroll v177.0.0

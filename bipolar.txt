@@ -3,77 +3,77 @@ Breck's Blog - CAT_TITLE Posts
 
 Breck's Blog - Writing Posts
 ============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-04/06/2025
+04/08/2025
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/society.html
 
 Breck's Blog - Concise Index
 ============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/short.html
 
 Search Breck's Blog
 ===================
-04/06/2025
+04/08/2025
 https://breckyunits.com/search.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-04/06/2025
+04/08/2025
 https://breckyunits.com/scrollPapers.html
 
 Breck's Blog - Programming Posts
 ================================
-04/06/2025
+04/08/2025
 https://breckyunits.com/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-04/06/2025
+04/08/2025
 https://breckyunits.com/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-04/06/2025
+04/08/2025
 https://breckyunits.com/life.html
 
 Breck's Blog - All Posts
 ========================
-04/06/2025
+04/08/2025
 https://breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-04/06/2025
+04/08/2025
 https://breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-04/06/2025
+04/08/2025
 https://breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-04/06/2025
+04/08/2025
 https://breckyunits.com/data.html
 
 Censorship on Reddit is likely deadly
@@ -186,4 +186,4 @@ Going Manic with a FitBit
 01/13/2018
 https://breckyunits.com/going-manic-with-a-fitbit.html
 
-Built with Scroll v176.0.1
+Built with Scroll v177.0.0

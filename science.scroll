@@ -1,6 +1,7 @@
 date 2025-4-03 4
 tags All Scroll Programming Science
 title What Science May Be
+openGraphImage WhatScienceMayBe.jpg
 css
  .printAuthorsParser {text-transform: none !important;}
  @media print {.abstractTextLinkParser {display: none !important;}}
@@ -14,8 +15,6 @@ pdf | txt
  link science.txt txt
 printAuthors
 printDate
-
-openGraphImage WhatScienceMayBe.jpg
 
 // thinColumns 2
 
