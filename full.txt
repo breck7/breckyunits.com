@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+A funny thing about the original Microsoft Source Code
+======================================================
+04/10/2025
+https://breckyunits.com/basic.html
+
 The Lisp Enlightenment Trap
 ===========================
 04/05/2025
@@ -1261,4 +1266,4 @@ I guess the time has come
 08/24/2007
 https://breckyunits.com/i-guess-the-time-had-come.html
 
-Built with Scroll v177.0.0
+Built with Scroll v177.0.1

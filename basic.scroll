@@ -1,0 +1,27 @@
+date 4/10/2025
+tags All IntellectualFreedom
+title A funny thing about the original Microsoft Source Code
+
+singleHeader.scroll
+printDate
+
+In 1976, Bill Gates accused computer users of "stealing" software.
+ https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists accused
+
+***
+
+BASIC is a language created at Dartmouth in 1964 by John Kemeny and Thomas Kurtz.
+ https://pldb.io/concepts/basic.html BASIC
+ https://en.wikipedia.org/wiki/John_G._Kemeny John Kemeny
+ https://en.wikipedia.org/wiki/Thomas_E._Kurtz Thomas Kurtz
+
+To celebrate its 50th, Microsoft released the source code to their first product, Altair BASIC, written in 1975.
+ https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code celebrate
+ https://github.com/microsoft/GW-BASIC source code
+ https://pldb.io/concepts/altair-basic.html Altair BASIC
+
+***
+
+The 157 pages of source code contain zero mentions of Kemeny, Kurtz or Dartmouth.
+
+footer.scroll

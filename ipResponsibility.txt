@@ -28,6 +28,11 @@ Or do they just want all of the benefits of property rights, with none of the re
 Related posts
 =============
 
+A funny thing about the original Microsoft Source Code
+======================================================
+04/10/2025
+https://breckyunits.com/basic.html
+
 The Consultation Problem and Why Copyright is Dishonest at its Core
 ===================================================================
 03/25/2025
@@ -168,4 +173,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v177.0.0
+Built with Scroll v177.0.1

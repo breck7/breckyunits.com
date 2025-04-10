@@ -4,8 +4,13 @@
  <title>Breck's Blog</title>
  <link>https://breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Tue, 08 Apr 2025 18:10:10 +0000</lastBuildDate>
+ <lastBuildDate>Thu, 10 Apr 2025 12:31:26 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>A funny thing about the original Microsoft Source Code</title>
+<link>https://breckyunits.com/basic.html</link>
+<pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>The Lisp Enlightenment Trap</title>
 <link>https://breckyunits.com/lispet.html</link>

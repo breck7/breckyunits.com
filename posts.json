@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/10/2025",
+    "year": 2025,
+    "title": "A funny thing about the original Microsoft Source Code",
+    "permalink": "basic.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 138,
+    "minutes": 0.7
+  },
+  {
     "date": "04/05/2025",
     "year": 2025,
     "title": "The Lisp Enlightenment Trap",
@@ -176,8 +186,8 @@
     "permalink": "ic.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 939,
-    "minutes": 4.7
+    "wordCount": 956,
+    "minutes": 4.8
   },
   {
     "date": "02/10/2025",
@@ -186,8 +196,8 @@
     "permalink": "ipResponsibility.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 644,
-    "minutes": 3.2
+    "wordCount": 661,
+    "minutes": 3.3
   },
   {
     "date": "02/06/2025",
@@ -226,8 +236,8 @@
     "permalink": "thePermissionFunction.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 667,
-    "minutes": 3.3
+    "wordCount": 684,
+    "minutes": 3.4
   },
   {
     "date": "12/10/2024",
