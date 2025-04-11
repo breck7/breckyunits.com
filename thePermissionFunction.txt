@@ -41,9 +41,7 @@ When the term is 0, there is no Permission Function, and the progress of arts an
 
 *
 
-There is no way AGI will be wasting all this energy on a Permission Function.
-
-Any AI that does that is doomed to extinction.
+No AGI will waste energy running a Permission Function. AIs that do will be outcompeted.
 
 Similarly, to survive, humans need to abolish the Permission Function.
 
