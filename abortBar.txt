@@ -8,7 +8,7 @@ May 24, 2024
 
 When I was a programmer at Microsoft I participated in a lot of internal betas.
 
-So I saw a lot of animated "progress" bars in software that was actually hung.
+So I saw a lot of animated "progress" bars in software that were actually hung.
 
 _I bet you could invent a better progress bar_, I thought.
 

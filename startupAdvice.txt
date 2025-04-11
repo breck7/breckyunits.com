@@ -30,4 +30,6 @@ Strong Startup Advice from others:
 
 > *Read:* in my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time – none, zero. - Charlie Munger
 
+> *Cold emails:* Every single person I’ve interviewed thus far, even those working with billions of dollars, have all sent cold emails. - Sonith Sunku
+
 Built with Scroll v177.0.1
