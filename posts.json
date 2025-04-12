@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/12/2025",
+    "year": 2025,
+    "title": "Movement",
+    "permalink": "move.html",
+    "authors": "Breck Yunits",
+    "tags": "All IntellectualFreedom",
+    "wordCount": 496,
+    "minutes": 2.5
+  },
+  {
     "date": "04/11/2025",
     "year": 2025,
     "title": "Mind Changers",
@@ -196,7 +206,7 @@
     "permalink": "ic.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 956,
+    "wordCount": 965,
     "minutes": 4.8
   },
   {
@@ -206,8 +216,8 @@
     "permalink": "ipResponsibility.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 661,
-    "minutes": 3.3
+    "wordCount": 670,
+    "minutes": 3.4
   },
   {
     "date": "02/06/2025",
@@ -246,7 +256,7 @@
     "permalink": "thePermissionFunction.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 675,
+    "wordCount": 684,
     "minutes": 3.4
   },
   {
