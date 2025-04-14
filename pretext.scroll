@@ -1,0 +1,41 @@
+date 2025-4-14
+tags All Scroll Thinking
+title Pretext
+container 500px
+standardPost.scroll
+
+Texts are far smaller than their pretexts.
+
+The text `E=mc²` is short; the pretext long.
+
+Pretexts are all the words, all the definitions, all the patterns not in the text but that the text depends on. The texts that the author possesses and the reader requires.
+
+Texts are like the tip of the iceberg. But that's overselling texts, for the tip of the iceberg is 10% of the thing, whereas texts are far less a percentage of the text+pretext combination.
+
+Perhaps the better metaphor is that texts are like the tip of a new Hawai'ian island poking above the surface, built on an Everest-sized mountain underneath.
+
+***
+
+# The Pretext Button
+
+We can build a machine, a function, that generates the pretext for a text.
+
+Generated pretext would help find logical mistakes and/or experimental holes.
+
+Pretexts would also give us measurable quantities. We could compare the true size of text A and text B by measuring both with their pretexts.
+
+***
+
+What should be in the pretext?
+
+- Every word should be declared
+- Every word should be grounded
+- Every word should be defined
+- And the same for multiword constructs
+- The text should be fully parseable by the above
+
+***
+
+I'm excited to work more on pretext. Should have some demos soon.
+
+****
