@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/15/2025",
+    "year": 2025,
+    "title": "Experiments",
+    "permalink": "experiments.html",
+    "authors": "Breck Yunits",
+    "tags": "All Science Thinking Scroll",
+    "wordCount": 162,
+    "minutes": 0.8
+  },
+  {
     "date": "04/14/2025",
     "year": 2025,
     "title": "Pretext",
@@ -116,8 +126,8 @@
     "permalink": "scales.html",
     "authors": "Breck Yunits",
     "tags": "All Science",
-    "wordCount": 868,
-    "minutes": 4.3
+    "wordCount": 877,
+    "minutes": 4.4
   },
   {
     "date": "03/03/2025",
@@ -866,7 +876,7 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1992,
+    "wordCount": 2001,
     "minutes": 10
   },
   {
@@ -1336,7 +1346,7 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 4019,
+    "wordCount": 4028,
     "minutes": 20.1
   },
   {
@@ -1546,8 +1556,8 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1246,
-    "minutes": 6.2
+    "wordCount": 1255,
+    "minutes": 6.3
   },
   {
     "date": "04/02/2013",
