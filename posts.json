@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/14/2025",
+    "year": 2025,
+    "title": "Pretext",
+    "permalink": "pretext.html",
+    "authors": "Breck Yunits",
+    "tags": "All Scroll Thinking",
+    "wordCount": 232,
+    "minutes": 1.2
+  },
+  {
     "date": "04/12/2025",
     "year": 2025,
     "title": "Movement",
@@ -856,8 +866,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 1983,
-    "minutes": 9.9
+    "wordCount": 1992,
+    "minutes": 10
   },
   {
     "date": "03/30/2024",
@@ -1326,7 +1336,7 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 4010,
+    "wordCount": 4019,
     "minutes": 20.1
   },
   {
@@ -1536,7 +1546,7 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1237,
+    "wordCount": 1246,
     "minutes": 6.2
   },
   {
