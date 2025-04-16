@@ -1,5 +1,5 @@
-Breck's Blog - CAT_TITLE Posts
-==============================
+Breck's Blog - Science Posts
+============================
 
 Breck's Blog - Writing Posts
 ============================
@@ -41,11 +41,6 @@ Breck's Blog - Scroll Papers Posts
 04/16/2025
 https://breckyunits.com/scrollPapers.html
 
-Breck's Blog - Science Posts
-============================
-04/16/2025
-https://breckyunits.com/sciencePage.html
-
 Breck's Blog - Programming Posts
 ================================
 04/16/2025
@@ -81,49 +76,74 @@ Breck's Blog - Data Posts
 04/16/2025
 https://breckyunits.com/data.html
 
-A New Scientific Model of Mania and Depression, with Testable Predictions
-=========================================================================
-11/07/2024
-https://breckyunits.com/bipolarModel.html
+Experiments
+===========
+04/15/2025
+https://breckyunits.com/experiments.html
 
-ETA!: A Measure of Evolution
-============================
-07/18/2024
-https://breckyunits.com/eta.html
+Pretext
+=======
+04/14/2025
+https://breckyunits.com/pretext.html
+
+What Science May Be
+===================
+04/03/2025
+https://breckyunits.com/science.html
+
+Topological Sorting
+===================
+03/05/2025
+https://breckyunits.com/tsort.html
+
+Scales
+======
+03/05/2025
+https://breckyunits.com/scales.html
+
+Thinking in Parsers
+===================
+03/03/2025
+https://breckyunits.com/thinkingInParsers.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
 https://breckyunits.com/intelligence.html
 
-PTCRI: An Equation about Syntax Potential
-=========================================
-05/31/2024
-https://breckyunits.com/ptcri.html
-
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
 
+Marks
+=====
+05/11/2024
+https://breckyunits.com/marks.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
+
+The Box Method of Science
+=========================
+03/30/2024
+https://breckyunits.com/boxMethod.html
+
+I thought we could build AI experts by hand
+===========================================
+12/28/2023
+https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
+
+Type the World
+==============
+01/20/2020
+https://breckyunits.com/type-the-world.html
+
 PC: Particle Complexity
 =======================
 12/20/2017
 https://breckyunits.com/countingComplexity.html
-
-Parsers: a language for making languages
-========================================
-09/10/2017
-https://breckyunits.com/aGrammarNotationForTreeLanguages.html
-
-Tree Notation: an antifragile program notation
-==============================================
-06/21/2017
-https://breckyunits.com/treenotationPaper.html
-
-A New Discovery in Computer Science: 2-Dimensional Programming Languages
-========================================================================
-06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Built with Scroll v177.0.1

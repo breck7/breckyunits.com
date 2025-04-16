@@ -89,6 +89,11 @@ Experiments
 04/15/2025
 https://breckyunits.com/experiments.html
 
+Pretext
+=======
+04/14/2025
+https://breckyunits.com/pretext.html
+
 What Science May Be
 ===================
 04/03/2025
@@ -113,6 +118,16 @@ ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
 https://breckyunits.com/scrollsets.html
+
+Marks
+=====
+05/11/2024
+https://breckyunits.com/marks.html
+
+Hot Coffee
+==========
+04/23/2024
+https://breckyunits.com/datasets.html
 
 The Box Method of Science
 =========================
