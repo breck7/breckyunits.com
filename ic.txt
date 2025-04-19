@@ -52,6 +52,11 @@ If we want to make our air clean, if we want to make our food clean, if we want 
 Related posts
 =============
 
+The Infosphere
+==============
+04/19/2025
+https://breckyunits.com/infosphere.html
+
 Movement
 ========
 04/12/2025
@@ -202,4 +207,4 @@ Dreaming of a Data Checked Language
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0

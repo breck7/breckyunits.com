@@ -14,4 +14,4 @@ alias pconf='vim /etc/php.ini' # edit php.ini
 alias lsd="ls -l | egrep '^d'" # list only directories
 ```
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0

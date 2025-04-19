@@ -182,4 +182,4 @@ Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
 2003 August 2 MD ❌ No No
 2002 October 1 AP ❌ No No
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0

@@ -39,4 +39,4 @@ Notes
 - 2. <A href="http://vlaurie.com/computers2/Articles/characters.htm">Cast of Characters- ASCII, ANSI, UTF-8 and all that</a>
 - 3. <a href="http://www.rapidintellect.com/AEQweb/mansub1.htm">ANSI versus Unicode</a>
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0

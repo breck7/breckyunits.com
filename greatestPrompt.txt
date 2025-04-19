@@ -31,4 +31,4 @@ Continually refine your encyclopedia until it is encodes all knowledge in as few
 
 ⁂
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0

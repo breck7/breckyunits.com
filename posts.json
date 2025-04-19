@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/19/2025",
+    "year": 2025,
+    "title": "The Infosphere",
+    "permalink": "infosphere.html",
+    "authors": "Breck Yunits",
+    "tags": "All Science Thinking IntellectualFreedom",
+    "wordCount": 735,
+    "minutes": 3.7
+  },
+  {
     "date": "04/15/2025",
     "year": 2025,
     "title": "Experiments",
@@ -126,8 +136,8 @@
     "permalink": "scales.html",
     "authors": "Breck Yunits",
     "tags": "All Science",
-    "wordCount": 905,
-    "minutes": 4.5
+    "wordCount": 915,
+    "minutes": 4.6
   },
   {
     "date": "03/03/2025",
@@ -226,8 +236,8 @@
     "permalink": "ic.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 965,
-    "minutes": 4.8
+    "wordCount": 975,
+    "minutes": 4.9
   },
   {
     "date": "02/10/2025",
@@ -236,7 +246,7 @@
     "permalink": "ipResponsibility.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom",
-    "wordCount": 670,
+    "wordCount": 680,
     "minutes": 3.4
   },
   {
@@ -276,8 +286,8 @@
     "permalink": "thePermissionFunction.html",
     "authors": "Breck Yunits",
     "tags": "All IntellectualFreedom Society",
-    "wordCount": 684,
-    "minutes": 3.4
+    "wordCount": 694,
+    "minutes": 3.5
   },
   {
     "date": "12/10/2024",

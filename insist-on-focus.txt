@@ -40,4 +40,4 @@ I absolutely love the math behind this strategy. There are a few other terms to 
 
 ⁂
 
-Built with Scroll v177.0.1
+Built with Scroll v178.0.0
