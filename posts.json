@@ -1,13 +1,23 @@
 [
   {
+    "date": "04/20/2025",
+    "year": 2025,
+    "title": "Ford",
+    "permalink": "ford.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Writing Scroll",
+    "wordCount": 288,
+    "minutes": 1.4
+  },
+  {
     "date": "04/19/2025",
     "year": 2025,
     "title": "The Infosphere",
     "permalink": "infosphere.html",
     "authors": "Breck Yunits",
     "tags": "All Science Thinking IntellectualFreedom",
-    "wordCount": 735,
-    "minutes": 3.7
+    "wordCount": 823,
+    "minutes": 4.1
   },
   {
     "date": "04/15/2025",
@@ -25,7 +35,7 @@
     "title": "Pretext",
     "permalink": "pretext.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Science Thinking",
+    "tags": "All Scroll Science Thinking Writing",
     "wordCount": 232,
     "minutes": 1.2
   },
@@ -886,8 +896,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 2001,
-    "minutes": 10
+    "wordCount": 2010,
+    "minutes": 10.1
   },
   {
     "date": "03/30/2024",
@@ -1356,8 +1366,8 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 4028,
-    "minutes": 20.1
+    "wordCount": 4037,
+    "minutes": 20.2
   },
   {
     "date": "03/02/2020",
@@ -1566,7 +1576,7 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1255,
+    "wordCount": 1264,
     "minutes": 6.3
   },
   {
@@ -2516,8 +2526,8 @@
     "permalink": "bloggers-who-turned-pro-and-their-famous-last-words.html",
     "authors": "Breck Yunits",
     "tags": "All Writing HasDataset",
-    "wordCount": 1064,
-    "minutes": 5.3
+    "wordCount": 1082,
+    "minutes": 5.4
   },
   {
     "date": "05/14/2008",

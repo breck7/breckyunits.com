@@ -1,0 +1,59 @@
+Ford
+====
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+April 20, 2025
+
+This post is written in Scroll, a 2D language.
+
+I have a new language, a 4D one, I've been working on for over a year now. I call it Ford (get it?).
+
+I don't have much to share yet but I wanted to write about it anyway. Maybe someone is working on a similar thing and would like to collaborate.
+
+*
+
+The brain is a 4D prediction engine.
+
+All that is selected for is our ability to predict 4D.
+
+*
+
+4D patterns in nature can be folded into lower dimensions, like reverse-origami. Folding makes ideas easier to transport.
+
+Writing is folding 4D into 2D.
+
+Reading is unfolding 2D back into 4D.
+
+*
+
+A single word is a point representation of a 4D concept. _Fire_, for example. It unfolds to 2D then to 3D and 4D.
+
+*
+
+To fold concepts from 4D to 2D and back, there is an overall causal order, though parts can be parallelized.
+
+*
+
+All sensible symbols can be unfolded to accurate predictions of the 4D world.
+
+Symbols that don't unfold accurately are non-sense.
+
+(Symbols that purposefully perplex are not necessarily non-sense, if intended as art)
+
+*
+
+Our modeling engines are not infinite. Our brains have limits.
+
+At each instant we expose ~200 million cells in our eyes to light.
+
+Perhaps a number based on physical limits like that is the ceiling for the number of voxels we can model at once.
+
+Perhaps the true number is far smaller.
+
+*
+
+I believe thinking about the 4D nature of concepts and the folds that best get them to and from 2D may lead to more useful 2D languages.
+
+⁂
+
+Built with Scroll v178.0.0
