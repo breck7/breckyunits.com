@@ -31,4 +31,4 @@ We need to do everything we can to fix this.
 [Image Omitted]
  The deadly censorship on Reddit.
 
-Built with Scroll v178.0.0
+Built with Scroll v178.1.0

@@ -9,7 +9,8 @@ categoryLinks.scroll
 
 wideColumns 2
 posts All
- printTable
+ unselect authors
+  printTable
 tableSearch
 
 footer.scroll

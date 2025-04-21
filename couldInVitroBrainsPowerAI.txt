@@ -66,4 +66,4 @@ I have no conclusions yet. If I tried to reach conclusions on these ideas before
 Edit 4/5/2025. We're getting closer: Cortical Labs
  https://corticallabs.com/ Cortical Labs
 
-Built with Scroll v178.0.0
+Built with Scroll v178.1.0

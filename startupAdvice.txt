@@ -32,4 +32,4 @@ Strong Startup Advice from others:
 
 > *Cold emails:* Every single person I’ve interviewed thus far, even those working with billions of dollars, have all sent cold emails. - Sonith Sunku
 
-Built with Scroll v178.0.0
+Built with Scroll v178.1.0
