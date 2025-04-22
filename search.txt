@@ -3,80 +3,81 @@ Search Breck's Blog
 
 Breck's Blog - Writing Posts
 ============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-04/21/2025
+04/22/2025
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/society.html
 
 Breck's Blog - Concise Index
 ============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/short.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-04/21/2025
+04/22/2025
 https://breckyunits.com/scrollPapers.html
 
 Breck's Blog - Science Posts
 ============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/sciencePage.html
 
 Breck's Blog - Programming Posts
 ================================
-04/21/2025
+04/22/2025
 https://breckyunits.com/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-04/21/2025
+04/22/2025
 https://breckyunits.com/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-04/21/2025
+04/22/2025
 https://breckyunits.com/life.html
 
 Breck's Blog - All Posts
 ========================
-04/21/2025
+04/22/2025
 https://breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-04/21/2025
+04/22/2025
 https://breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-04/21/2025
+04/22/2025
 https://breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-04/21/2025
+04/22/2025
 https://breckyunits.com/data.html
 
 title,titleLink,text,date,year,wordCount,minutes
+The Internal Comparison Trap,improvement.html,"The Internal Comparison Trap ============================ by Breck Yunits  https://twitter.com/breckyunits Breck Yunits April 22, 2025  With Scroll I am trying to make a product I love and a product other people love so much it spreads via word-of-mouth.  https://breckyunits.com/makeSomethingYouLove.html make a product I love  Word-of-mouth spread! The holy grail of startups.  It has been harder than I expected.  *  I think a cognitive mistake I've been making is comparing new versions of Scroll to older versions and not comparing new versions of Scroll to the best available alternatives in the market.  In other words, I keep thinking this new version is _so mucher_ better (or has so much more potential) than the old version, so of course the old version wasn't good enough to have a viral coefficient greater than 1 (but this one will!).  I'll call this the *Internal Comparison Trap*. You _feel_ like you're making significant progress because the new version of your product is significantly better. But the market doesn't care about internal comparisons. The market only cares about your best versus the market's best. And that gap might be as wide as ever, and widening the resource gap.  *  In most things in life it's healthy not to be comparing yourself to the market's best. Instead, be the best you can be-compete against your prior self! But when making investment decisions you have to compare your bet to the market's best. The market is very much winner take most. It's better to have a small slice of #1 than a big slice of #10.  *  Externally I see this playing out a lot with the various AI companies. If you look at each in isolation, they all seem to be making incredible progress. But if you compare each new release to the market's best, the improvements are often marginal or even non-existent.  *  It gets especially hard in a competitive market. At first you are on the low part of the S-Curve so it's relatively easy to make major jumps in product improvement. But then the improvements naturally get harder (technical debt builds up, for instance), and meanwhile you enter the ranks of the top competitors, who are innovating as hard as ever.  *  There are other ways to get word-of-mouth spread, other than having a breakthrough product. I think if you are financially disciplined with great customer service you can build a word-of-mouth flywheel machine.  But if your strategy is get ahead of the market with a better product, you have to really have a strong differentiator that the alternatives just can't provide.  *  I am really proud of Scroll and how much it has improved over the years. I think it's helped me become a stronger thinker.  But the alternative tools in the market have also improved a tremendous amount.  If Scroll is going to take the lead, it can't just keep improving significantly relative to itself, it needs to make a leap where it becomes significantly better than the market's best.  ⁂  Built with Scroll v178.1.0 ",04/22/2025,2025,530,2.6
 Ford,ford.html,"Ford ==== by Breck Yunits  https://twitter.com/breckyunits Breck Yunits April 20, 2025  This post is written in Scroll, a 2D language.  I have a new language, a 4D one, I've been working on for over a year now. I call it Ford (get it?).  I don't have much to share yet but I wanted to write about it anyway. Maybe someone is working on a similar thing and would like to collaborate.  *  The brain is a 4D prediction engine.  All that is selected for is our ability to predict 4D.  *  4D patterns in nature can be folded into lower dimensions, like reverse-origami. Folding makes ideas easier to transport.  Writing is folding 4D into 2D.  Reading is unfolding 2D back into 4D.  *  A single word is a point representation of a 4D concept. _Fire_, for example. It unfolds to 2D then to 3D and 4D.  *  To fold concepts from 4D to 2D and back, there is an overall causal order, though parts can be parallelized.  *  All sensible symbols can be unfolded to accurate predictions of the 4D world.  Symbols that don't unfold accurately are non-sense.  (Symbols that purposefully perplex are not necessarily non-sense, if intended as art)  *  Our modeling engines are not infinite. Our brains have limits.  At each instant we expose ~200 million cells in our eyes to light.  Perhaps a number based on physical limits like that is the ceiling for the number of voxels we can model at once.  Perhaps the true number is far smaller.  *  I believe thinking about the 4D nature of concepts and the folds that best get them to and from 2D may lead to more useful 2D languages.  ⁂  Built with Scroll v178.1.0 ",04/20/2025,2025,288,1.4
 The Infosphere,infosphere.html,"The Infosphere ============== by Breck Yunits  https://twitter.com/breckyunits Breck Yunits April 19, 2025  Symbols can live more than fifty times longer than humans. They require almost no energy to persist, just the occasional refresh every fifty years or so to not fade. How do we talk about this space where symbols are popping up, fading or being replicated, on surfaces and screens? I suggest a new word: *Infosphere*.  *  The Infosphere refers to the collection of all man-made, public, persisting symbols.  The Infosphere is not the natural part of nature. The Infosphere is not present in the woods, or on the beach, or in the mountains.  Books, newspapers, magazines, televisions, phone screens, radios - these are the realm of the Infosphere.  Your eyes and ears breathe the Infosphere as your lungs breathe the atmosphere.  *  We depend on the atmosphere to live and we depend on the infosphere to thrive.  A century ago in the western world new industrial technologies polluted our atmosphere.  We largely fixed this, but now our infosphere is heavily polluted.  Information pollution is very real.  *  Earlier generations spent far more time in nature. It simply wasn't possible to be exposed to the infosphere so much.  Now the infosphere is increasingly omnipresent, and, as it is filled with toxins, the latest generations, including mine, are the most lied to people in history.  You wouldn't want your children to breathe toxic air, why would you want them to breathe toxic information?  *  What is the source of these toxins?  The infosphere can nourish or poison, instruct or distract.  You would think our laws would be designed to encourage the former and discourage the latter.  But it is the opposite.  The primary source of infosphere pollution are those unarchived symbols that we are not permitted to adjust.  We have made widespread a thing called ""copyright"" law. What does this do?  It orders that new symbols be frozen for over 100 years.  It pretends that this would lead to a healthier infosphere, but any thinking man can see how clearly false this is.  Ideas work best continually refined. Freezing is non-nonsensical.  No honest scientist or engineer would ever say their symbols are perfect. Instead they constantly strive to correct them, iterating upon them until they die, and hoping that future generations will continue to iterate upon them after that. The scientist also publishes their work for all to see and learn from. Meanwhile, the copyrighter demands payment before one can see their work, then puts out dribble after dribble, and claims their symbols are immune from defects, and must not be altered without permission for over a century.  Which symbols do you think are healthier for the infosphere?  *  Nature provides incentives for improving the infosphere. Copyright provides incentives for polluting the infosphere.  Believing one can centrally set the optimal ""term limits"" on information is as naive as believing one can centrally set prices.  Free markets would far more intelligently organize the infosphere.  *  The information filter strips toxic information, such as orthogonal advertising, from the infosphere.  But information filtering is made illegal by copyright law.  As a result, toxins are incentivized and linger.  *  Advertising, the mixing of undesired symbols with desired ones, is like an industrial age smoke stack spewing soot into the air.  Advertising pollutes our infosphere.  Honest advertising needs no captive audience or copyright protection. Thus, most in the advertising business are liars.  Liars pay top dollar for ads. Often the purveyor of copyrighted materials tries to pretend they are in an honest business but their material is bundled with advertisements for dishonest products.  When you see ""Our business model is advertising"" you should interpret as ""Our business model is lying.""  *  What kinds of information are we most exposed to?  Are we exposed to high value, instructive information, or are we exposed to information trying to distract and mislead?  I often find high quality information buried under mountains of junk. We are exposed to the information on top, while the truth seeker has to go digging.  Sadly people are not allowed to filter the junk for others and so each one must waste their time doing so (or more commonly, give up and just accept what they are told).  *  What is the harm of a polluted infosphere?  Significant time wasting, for one. When one man's time is wasted, everyone is worse off.  But it does not stop there.  We saw in 2020 people worldwide held prisoner in their homes, ordered to cover their faces, and receiving forced injections, all uninformed orders made possible by a toxic infosphere.  There are countless Salem witch trials going on right now for conditions that don't exist; immunizations that doesn't immunize; medicines that don't heal.  An unhealthy infosphere is as deadly as an unhealthy atmosphere.  *  We have recognized that we need to take care of our atmosphere.  Similarly, we need to take care of our infosphere.  ⁂  Built with Scroll v178.1.0 ",04/19/2025,2025,823,4.1
 Experiments,experiments.html,"Experiments =========== by Breck Yunits  https://twitter.com/breckyunits Breck Yunits April 15, 2025  I believe learning through motion-through conducting physical experiments in the real world-is vastly superior to learning through reading.  But the number of experiments one can do is vast, with some being far more informative than others, and time and resources are limited. Reading can point one to the motions-the experiments-that are most informative.  Thus, the most valuable symbols are the ones that guide one to conduct the most useful experiments.  Lately I've been figuring out how to put all of science into one file. I think the file would largely be experiment after experiment after experiment. Each one, the near minimum number of symbols to communicate the easiest experiment that can be done to cause learning the next most useful set of patterns about the world.  https://breckyunits.com/science.html put all of science into one file  ⁂  Built with Scroll v178.1.0 ",04/15/2025,2025,162,0.8

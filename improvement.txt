@@ -1,0 +1,50 @@
+The Internal Comparison Trap
+============================
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+April 22, 2025
+
+With Scroll I am trying to make a product I love and a product other people love so much it spreads via word-of-mouth.
+ https://breckyunits.com/makeSomethingYouLove.html make a product I love
+
+Word-of-mouth spread! The holy grail of startups.
+
+It has been harder than I expected.
+
+*
+
+I think a cognitive mistake I've been making is comparing new versions of Scroll to older versions and not comparing new versions of Scroll to the best available alternatives in the market.
+
+In other words, I keep thinking this new version is _so mucher_ better (or has so much more potential) than the old version, so of course the old version wasn't good enough to have a viral coefficient greater than 1 (but this one will!).
+
+I'll call this the *Internal Comparison Trap*. You _feel_ like you're making significant progress because the new version of your product is significantly better. But the market doesn't care about internal comparisons. The market only cares about your best versus the market's best. And that gap might be as wide as ever, and widening the resource gap.
+
+*
+
+In most things in life it's healthy not to be comparing yourself to the market's best. Instead, be the best you can be-compete against your prior self! But when making investment decisions you have to compare your bet to the market's best. The market is very much winner take most. It's better to have a small slice of #1 than a big slice of #10.
+
+*
+
+Externally I see this playing out a lot with the various AI companies. If you look at each in isolation, they all seem to be making incredible progress. But if you compare each new release to the market's best, the improvements are often marginal or even non-existent.
+
+*
+
+It gets especially hard in a competitive market. At first you are on the low part of the S-Curve so it's relatively easy to make major jumps in product improvement. But then the improvements naturally get harder (technical debt builds up, for instance), and meanwhile you enter the ranks of the top competitors, who are innovating as hard as ever.
+
+*
+
+There are other ways to get word-of-mouth spread, other than having a breakthrough product. I think if you are financially disciplined with great customer service you can build a word-of-mouth flywheel machine.
+
+But if your strategy is get ahead of the market with a better product, you have to really have a strong differentiator that the alternatives just can't provide.
+
+*
+
+I am really proud of Scroll and how much it has improved over the years. I think it's helped me become a stronger thinker.
+
+But the alternative tools in the market have also improved a tremendous amount.
+
+If Scroll is going to take the lead, it can't just keep improving significantly relative to itself, it needs to make a leap where it becomes significantly better than the market's best.
+
+⁂
+
+Built with Scroll v178.1.0
