@@ -44,4 +44,6 @@ Links
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

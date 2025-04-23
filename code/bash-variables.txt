@@ -54,4 +54,6 @@ Notes
 ">tutorial</a> 3. Bash <a href="https://steve-parker.org/sh/variables2.shtml
 ">parameters</a>
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

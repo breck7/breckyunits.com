@@ -10,4 +10,6 @@ mysqldump -u root -pmypassword test_database --no-data=true --add-drop-table=fal
 
 You can then <a href="how-to-load-a-sql-file-into-mysql.html">load the file easily</a>.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

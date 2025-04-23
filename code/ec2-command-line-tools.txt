@@ -23,4 +23,6 @@ export EC2_HOME=/Users/breck/Downloads/ec2-api-tools-1.4.4.1
 export PATH=$PATH:$EC2_HOME/bin
 ```
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

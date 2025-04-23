@@ -198,4 +198,6 @@ Notes
 =====
 ^insight: In 2016 I once misconfigured Google Analytics and thought users were using our data visualization tool for far longer than they actually were. Luckily in that case, it only took a few weeks to realize my error, not months.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

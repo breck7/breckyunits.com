@@ -18,4 +18,6 @@ git config --global core.excludesfile ~/.gitignore_global
 
 Thanks to <a href="https://web.archive.org/web/20120614225952/http://help.github.com/ignore-files/">github</a>
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

@@ -34,4 +34,6 @@ Notes
 
 - 1. "At least" 14 keystrokes, because the # of typos increases as the # of characters typed increases.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

@@ -10,4 +10,6 @@ git clone --depth 1 your_repo_url
 
 http://git.or.cz/gitwiki/GitFaq#HowdoIdoaquickclonewithouthistoryrevisions.3F
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

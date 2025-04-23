@@ -18,4 +18,6 @@ ctrl+a - home/start of line
 ctrl+e - end
 ```
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

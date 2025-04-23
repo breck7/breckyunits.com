@@ -10,4 +10,6 @@ To get v1.0.4 working with Ruby 1.9.2, I had to make the following changes to th
 - Line 19 - comment out 'require 'jcode''
 - Line 233 - remove the colon
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

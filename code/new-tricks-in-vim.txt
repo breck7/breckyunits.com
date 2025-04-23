@@ -19,4 +19,6 @@ Notes
 
 1. [Vim Tips and Tricks](http://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

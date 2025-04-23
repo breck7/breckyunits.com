@@ -8,4 +8,6 @@ cd -
 
 To go back to the last directory you were in. Basically an "undo" for the cd command.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

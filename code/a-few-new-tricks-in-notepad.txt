@@ -15,4 +15,6 @@ Here are some things I'm using a lot more now in Notepad++:
 - Column Editor. Pretty handy sometimes.
 - Automation PHP Plugin. F9 to run your script. Great for quickly testing small sections of code.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

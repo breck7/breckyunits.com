@@ -18,4 +18,6 @@ Notes
 
 1. Found this <a href="http://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/">tip here</a>.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

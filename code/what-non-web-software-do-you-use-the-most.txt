@@ -52,4 +52,6 @@ Monthly
 
 - <b>Visual Studio</b>. When I get an urge to write a new desktop program.
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

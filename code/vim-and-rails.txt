@@ -39,4 +39,6 @@ set ts=2  " Tabs are 2 spaces
 set laststatus=2  " Always show status line.
 ```
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

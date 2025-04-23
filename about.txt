@@ -7,4 +7,6 @@ This is my personal Scroll. I am a scientist, software engineer, programming lan
 You can find me on github or contact me via email. breck7 at google's awesome mail service.
  https://github.com/breck7 github
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0

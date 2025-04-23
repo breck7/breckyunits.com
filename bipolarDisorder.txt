@@ -182,4 +182,6 @@ Year Month PeakSeverity Project SleepTracked MoodStabilizers? Psychedelics?
 2003 August 2 MD ❌ No No
 2002 October 1 AP ❌ No No
 
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.1.0
