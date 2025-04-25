@@ -1,0 +1,37 @@
+Knowledge
+=========
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+April 24, 2025
+
+1. Human population has grown exponentially.
+
+2. Words are 2D signals that can convey information about the 4D world.
+
+3. The maximum number of words generated per year is a constant times human population.
+
+4. Written words persist and so the maximum number of written words increases by maximum number of words generated.
+
+5. The maximum number of words a human can perceive per year is a constant.
+
+6. It follows from the above that humans perceive a decreasing percentage of the world's total words per year.
+
+7. Knowledge is words that make accurate predictions of many more words.
+
+8. Noise is words that don't predict many more words.
+
+9. Patterns in words are sometimes recognized and formed into knowledge words.
+
+10. The fundamental generators of the patterns in the 4D world seem to be static, but may not be.
+
+11. The absolute number of knowledge words increases over time.
+
+12. Knowledge seems to grow logarithmically.
+
+13. If one ruthlessly focuses on knowledge over noise, one may predict more of the 4D world than their ancestors.
+
+⁂
+
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
+Built with Scroll v178.2.0

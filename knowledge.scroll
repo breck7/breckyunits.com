@@ -1,0 +1,50 @@
+date 2025-4-24
+tags All Thinking Scroll
+title Knowledge
+container 500px
+standardPost.scroll
+
+1. Human population has grown exponentially.
+ // Currently it is ~8 billion.
+ // 8e9
+
+2. Words are 2D signals that can convey information about the 4D world.
+
+endSnippet
+
+3. The maximum number of words generated per year is a constant times human population.
+ // If we set the constant to 10 million then the max words per year is:
+  1e7 * 8e9 = 8e16
+
+4. Written words persist and so the maximum number of written words increases by maximum number of words generated.
+
+5. The maximum number of words a human can perceive per year is a constant.
+
+6. It follows from the above that humans perceive a decreasing percentage of the world's total words per year.
+
+7. Knowledge is words that make accurate predictions of many more words.
+
+8. Noise is words that don't predict many more words.
+
+9. Patterns in words are sometimes recognized and formed into knowledge words.
+
+10. The fundamental generators of the patterns in the 4D world seem to be static, but may not be.
+ // Could new forces arise over time? Do new forces assembly and evolve just like everything else?
+
+11. The absolute number of knowledge words increases over time.
+
+12. Knowledge seems to grow logarithmically.
+// measured as the growth of the english language over time?
+
+13. If one ruthlessly focuses on knowledge over noise, one may predict more of the 4D world than their ancestors.
+
+// what is the growth in knowledge over time?
+// what is the compression rate of words to knowledge?
+// quickPlot year vs humanPopulation
+// An offline dictionary of equations would be cool
+// Topological dictioanry of equations?
+
+// Intelligence is compression
+
+****
+

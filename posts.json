@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/24/2025",
+    "year": 2025,
+    "title": "Knowledge",
+    "permalink": "knowledge.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Scroll",
+    "wordCount": 209,
+    "minutes": 1
+  },
+  {
     "date": "04/23/2025",
     "year": 2025,
     "title": "How to get rid of advertising",
@@ -916,8 +926,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 2022,
-    "minutes": 10.1
+    "wordCount": 2031,
+    "minutes": 10.2
   },
   {
     "date": "03/30/2024",
@@ -1386,8 +1396,8 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 4049,
-    "minutes": 20.2
+    "wordCount": 4058,
+    "minutes": 20.3
   },
   {
     "date": "03/02/2020",
@@ -1596,7 +1606,7 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1276,
+    "wordCount": 1285,
     "minutes": 6.4
   },
   {

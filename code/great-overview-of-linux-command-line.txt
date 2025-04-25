@@ -6,4 +6,4 @@ Just read an awesome <a href="http://www.funtoo.org/wiki/Linux_Fundamentals,_Par
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.1.0
+Built with Scroll v178.2.0

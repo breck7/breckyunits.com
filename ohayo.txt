@@ -14,4 +14,4 @@ I wanted to try and make a fast, visual app for doing data science. I can't quit
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.1.0
+Built with Scroll v178.2.0
