@@ -104,4 +104,4 @@ Of over 9,000 YCombinator alumni, I am the only founder who was part of both the
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.0
+Built with Scroll v178.2.1
