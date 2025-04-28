@@ -4,7 +4,7 @@
  <title>Source</title>
  <link>https://breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Fri, 25 Apr 2025 22:15:30 +0000</lastBuildDate>
+ <lastBuildDate>Mon, 28 Apr 2025 14:35:48 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
 <title>Knowledge</title>
@@ -752,7 +752,7 @@
 <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
 </item>
  <item>
-<title>Dreaming of a Data Checked Language</title>
+<title>Dreaming of a Logic Checked Language</title>
 <link>https://breckyunits.com/dreaming-of-a-data-checked-language.html</link>
 <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
 </item>

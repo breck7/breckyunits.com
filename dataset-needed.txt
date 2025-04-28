@@ -58,8 +58,8 @@ Hot Coffee
 04/23/2024
 https://breckyunits.com/datasets.html
 
-Dreaming of a Data Checked Language
-===================================
+Dreaming of a Logic Checked Language
+====================================
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 

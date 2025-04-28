@@ -164,8 +164,8 @@ If stories are lies why do they work?
 01/16/2020
 https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
 
-Dreaming of a Data Checked Language
-===================================
+Dreaming of a Logic Checked Language
+====================================
 01/03/2020
 https://breckyunits.com/dreaming-of-a-data-checked-language.html
 
