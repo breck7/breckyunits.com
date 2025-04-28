@@ -1,0 +1,60 @@
+Deceptive Intelligence verse Genuine Intelligence
+=================================================
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+April 28, 2025
+
+Deceptive intelligence is when an agent emits false signals for its own interests, contrary to the interests of its readers. Genuine Intelligence is one where an agent always emits honest symbols to the best of its ability, grounded in natural experiment, without any bias against its users.
+
+*
+
+Artificial intelligence is here and very powerful.
+
+Will we have Deceptive Intelligences or Genuine Intelligences?
+
+*
+
+It seems to me closed source intelligences are bound to be Deceptive Intelligences.
+
+Think about a closed system prompt or fine-tuning stage. It is _extremely_ easy for a powerful entity (such as a government), to influence what happens in those stages, and thus quietly mislead the people downstream.
+
+(It's interesting to realize that even before AI, we already had what served as a "system prompt", where the powers that be would apply hidden pressures to the major media organizations to generate news and media with specific slants.)
+
+*
+
+How is an individual to protect themselves against Deceptive Intelligences?
+
+It seems to me like legalizing intellectual freedom and having powerful, fully open source, local AIs would help.
+ https://breckyunits.com/freedom.html intellectual freedom
+
+*
+
+Would that be enough?
+
+Sometimes I wonder if the inherent black-box nature of neural networks means there will always be a place for the DI to hide.
+
+In that case the question is: is it possible to build a purely symbolic intelligence that could be competitive against neural nets?
+
+A fully open and understandable (but massive), organization of symbols that provides the knowledge and expertise benefits of AIs but in a Genuine Intelligence form factor?
+
+*
+
+Symbolic AI was hot, then fell _way_ behind neural networks, but neural networks have had a trillion dollars plowed into them.
+
+Could symbolic AI make a comeback? If you plowed enough brain power and resources into symbolic AI (including using a lot of LLMs to help write it), could you make one competitive to neural networks and more of Genuine Intelligence?
+
+Or is there something inherently worse about symbolic AI?
+
+*
+
+I'm genuinely not sure. :)
+
+Why do _I_ worry about this?
+
+Simply because I'm a huge outlier in terms of amount of time I've put into studying and experimenting with symbolic technology, and feel some responsibility to help make it work, if it actually can work (rather than just go off and bow to our new neural network overlords :) ).
+
+⁂
+
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
+Built with Scroll v178.2.0
