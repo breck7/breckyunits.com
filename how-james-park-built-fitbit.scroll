@@ -5,7 +5,7 @@ title How James Park built FitBit
 
 header.scroll
 printTitle
-thinColumns 4
+container 500px
 
 comment
  todo: add custom grammar.
