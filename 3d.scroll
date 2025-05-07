@@ -1,0 +1,50 @@
+date 2025-5-06
+tags All Thinking
+title Does 3D exist?
+container 500px
+standardPost.scroll
+
+I just watched a great presentation from Jon Barron (of NeRF fame).
+ https://www.youtube.com/watch?v=hFlF33JZbA0 presentation
+
+Deep neural networks can now generate video nearly indistinguishable from "real" world video and/or video generated from 3D engines.
+
+Does this provide evidence that the 3D/4D world doesn't actually exist?
+
+***
+
+What is at the root of our conscious experience?
+
+I can see at least 2 possible topological orderings:
+
+codeWithHeader 1. 4D is real
+ 4dSpaceTime
+  mind
+   4dSpaceTimeModel
+
+or
+
+codeWithHeader 2. 4D is only a mental construct
+ generator
+  mind
+   4dSpaceTimeModel
+
+In the latter you are observing not a real 4D world but the generative output of some kind of network.
+
+In (1) you have a 4d universe and light rays bounce around and hit observers who form a model of that 4d world; in (2) you don't actually have light rays or spacetime, you just generate signals to the observer's inputs and somehow we came up with the spacetime model.
+
+When you turn your head, are you seeing new light rays or is the generator giving you simulated values?
+
+***
+
+These ideas are so far upstream they are probably unanswerable, so why think about it?
+ upstream-of-everything.html upstream
+
+Well, I came across this talk while working on a new language for the 4D world.
+
+If the 4D world is actually "fake", and the world is neural network generated, then that might be a waste of time.
+
+For now I still strongly lean in favor of spacetime being real but at least I'm aware of another possibility.
+
+****
+
