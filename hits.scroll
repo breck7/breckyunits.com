@@ -17,6 +17,7 @@ hits.png
 
 Leibniz thought of Binary Notation; Lovelace of Computers; Darwin of Evolution; Marconi of the Wireless Telegraph; Einstein of Relativity; Watson & Crick of the Double Helix; Tim Berners-Lee of the Web; Linus of Git.
  scene leibniz; 1600's; 01's; writing
+  scale 1
  scene lovelace; 1800's; babbage; computation engine
  scene darwin; galapolos; natural selection; 1800s
  scene marconi; wireless; telegraph; italy; late 1800s
