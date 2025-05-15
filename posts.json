@@ -1,13 +1,23 @@
 [
   {
+    "date": "05/15/2025",
+    "year": 2025,
+    "title": "Dreaming of a 4D Wikipedia",
+    "permalink": "fordDream.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Ford",
+    "wordCount": 554,
+    "minutes": 2.8
+  },
+  {
     "date": "05/06/2025",
     "year": 2025,
     "title": "Does 3D exist?",
     "permalink": "3d.html",
     "authors": "Breck Yunits",
-    "tags": "All Thinking",
-    "wordCount": 295,
-    "minutes": 1.5
+    "tags": "All Thinking Ford",
+    "wordCount": 317,
+    "minutes": 1.6
   },
   {
     "date": "04/28/2025",
@@ -65,9 +75,9 @@
     "title": "Ford",
     "permalink": "ford.html",
     "authors": "Breck Yunits",
-    "tags": "All Thinking Writing Scroll",
-    "wordCount": 300,
-    "minutes": 1.5
+    "tags": "All Thinking Writing Scroll Ford",
+    "wordCount": 324,
+    "minutes": 1.6
   },
   {
     "date": "04/19/2025",
