@@ -72,9 +72,13 @@ https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Notes
 =====
-ICS is a way to measure what Wikipedians call Explanatory Power.
+- ICS is a way to measure what Wikipedians call Explanatory Power.
  https://en.wikipedia.org/wiki/Explanatory_power Explanatory Power
+- Karl Pearson said the same thing:
+
+> The object of science is to describe in the fewest words the widest range of phenomena.
+ Karl Pearson, The Grammar of Science, pg 339 (1892)
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.1
+Built with Scroll v178.2.2
