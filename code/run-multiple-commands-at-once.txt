@@ -24,4 +24,4 @@ You can swap the && for || to run a command if the previous one fails.
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.2
+Built with Scroll v178.2.3

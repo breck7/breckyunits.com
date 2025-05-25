@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+The Spherical Object Model
+==========================
+05/25/2025
+https://breckyunits.com/som.html
+
 Dreaming of a 4D Wikipedia
 ==========================
 05/15/2025
@@ -1333,4 +1338,4 @@ https://breckyunits.com/i-guess-the-time-had-come.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.2
+Built with Scroll v178.2.3

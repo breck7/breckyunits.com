@@ -31,4 +31,4 @@ Then, if you want to make yourself open to positive black swans, you can put 10%
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
-Built with Scroll v178.2.2
+Built with Scroll v178.2.3

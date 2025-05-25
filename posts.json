@@ -1,12 +1,22 @@
 [
   {
+    "date": "05/25/2025",
+    "year": 2025,
+    "title": "The Spherical Object Model",
+    "permalink": "som.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Ford",
+    "wordCount": 679,
+    "minutes": 3.4
+  },
+  {
     "date": "05/15/2025",
     "year": 2025,
     "title": "Dreaming of a 4D Wikipedia",
     "permalink": "fordDream.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 554,
+    "wordCount": 566,
     "minutes": 2.8
   },
   {
@@ -16,7 +26,7 @@
     "permalink": "3d.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 317,
+    "wordCount": 329,
     "minutes": 1.6
   },
   {
@@ -76,8 +86,8 @@
     "permalink": "ford.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Writing Scroll Ford",
-    "wordCount": 324,
-    "minutes": 1.6
+    "wordCount": 336,
+    "minutes": 1.7
   },
   {
     "date": "04/19/2025",
@@ -86,7 +96,7 @@
     "permalink": "infosphere.html",
     "authors": "Breck Yunits",
     "tags": "All Science Thinking IntellectualFreedom",
-    "wordCount": 835,
+    "wordCount": 834,
     "minutes": 4.2
   },
   {

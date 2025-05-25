@@ -1,0 +1,80 @@
+The Spherical Object Model
+==========================
+by Breck Yunits
+ https://twitter.com/breckyunits Breck Yunits
+May 25, 2025
+
+[Image Omitted]
+ A language where all concepts are defined out of spheres with radii that accurately contain instances of the concept. In the simple prototype above, spheres are hyperlinked and clicking on one loads and zooms in on its contents.
+
+Imagine a language where the only primitive is the *sphere*. Everything is composed of spheres. Spheres contain spheres and can be recursive. It's spheres all the way down.
+
+*
+
+Is this even possible? So far it seems to me it might be, if you get the "Grammar of Spheres" correct.
+
+All spheres have a diameter. If you use Planck Lengths, base 2, you can use ~206 bits for the size property to cover every sphere up to the sphere of the observable universe.
+
+Recursion is essential. A line sphere is a sphere containing two unit spheres, with a recursive line sphere in between.
+
+Spin might be key (though it may be better to represent spin via an internal "spin state" sphere). A NAND gate could be 2 input spheres with a spin which touch an output sphere that only changes spin if both input spheres are going in the right direction. Numeral base systems could be represented with spin or internal state spheres.
+
+Spheres would abut input and output spheres. A human sphere would have input sphere for oxygen, food, water, etc, and output spheres for carbon dioxide, waste, and so on.
+
+Time spheres would contain spheres of a concept at different times. Ie., humans would have an embryo, infant, toddler, and adult sphere, among others.
+
+Even ideas would be represented as spheres. Ideas would be spheres inside neuron spheres, perhaps.
+
+I haven't yet been able to use only spheres to model electromagnetic fields accurately, but it feels doable.
+
+*
+
+What would the source code for a Spherical Object Model look like?
+
+It would be very similar to the DOM, with spheres instead of rectangular divs as the primitive.
+
+The code for the water molecule above looks like:
+```
+waterMoleculeSphere
+ oxygenSphere
+  radius 1.5
+  x 0
+  y 0
+  z 0
+ leftHydrogenSphere
+  radius 1
+  x 1.5
+  y 1.5
+  z 0
+ rightHydrogenSphere
+  radius 1
+  x -1.5
+  y 1.5
+  z 0
+```
+
+Nailing the semantic details would be essential, but I think the standard language wouldn't look more complex than that.
+
+*
+
+What about the dozens of existing 3D languages? Existing languages are generally domain specific (like in chemistry) or focused on representing the visuals of scenes, for film or video games, and not on the causal relationships between objects that this would be. The Spherical Object Model would be a domain-agnostic, general purpose language containing the spherical primitives that can model all the causal patterns in our universe.
+
+*
+
+Why not other primitives like cubes? You can make other primitives out of spheres, but it seems the sphere is all you need. As the bit is the primitive in one dimension, the sphere seems to be the primitive in 3 dimensions. Dimensionless quantities like points don't seem to be a good primitive-for a thing to exist it must take up at least some space.
+
+*
+
+Why would we want this?
+
+A universal spherical language would be _grounded to reality_ in a way that no other language is. We could sort all concepts across all domains by their size and/or frequency in the real world.
+
+It might take longer, at first, to build up a shared 4D encyclopedia, but the _physical constraints from the 4D laws of nature_ would force it to contain a truth that can't be matched by lower dimensional languages. Just as a Mercator projection contains unavoidable bias, so does a flat encyclopedia relative to a spherical one.
+
+It is extremely easy to build false models out of words, so switching to a well-designed sphere based language might be a radically better way to create and communicate true models.
+
+⁂
+
+Follow me on X
+ https://twitter.com/breckyunits Follow me on X
+Built with Scroll v178.2.3
