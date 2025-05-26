@@ -13,13 +13,13 @@ Imagine a language where the only primitive is the *sphere*. Everything is compo
 
 ***
 
-Is this even possible? So far it seems to me it might be, if you get the "Grammar of Spheres" correct.
+? Is this even possible?
+
+So far it seems to me it might be, if you get the "Grammar of Spheres" correct.
 
 All spheres have a diameter. If you use Planck Lengths, base 2, you can use ~206 bits for the size property to cover every sphere up to the sphere of the observable universe.
 
-Recursion is essential.
-
-A line sphere is a sphere containing two unit spheres, with a recursive line sphere in between.
+Recursion is essential. A line sphere is a sphere containing two unit spheres, with a recursive line sphere in between.
 
 Spin might be key (though it may be better to represent spin via an internal "spin state" sphere). A NAND gate could be 2 input spheres with a spin which touch an output sphere that only changes spin if both input spheres are going in the right direction. Numeral base systems could be represented with spin or internal state spheres.
 
@@ -33,7 +33,7 @@ I haven't yet been able to use only spheres to model electromagnetic fields accu
 
 ***
 
-What would the source code for a Spherical Object Model look like?
+? What would the source code for a Spherical Object Model look like?
 
 It would be very similar to the DOM, with spheres instead of rectangular divs as the primitive.
 
@@ -60,15 +60,27 @@ Nailing the semantic details would be essential, but I think the standard langua
 
 ***
 
-What about the dozens of existing 3D languages? Existing languages are generally domain specific (like in chemistry) or focused on representing the visuals of scenes, for film or video games, and not on the causal relationships between objects that this would be. The Spherical Object Model would be a domain-agnostic, general purpose language containing the spherical primitives that can model all the causal patterns in our universe.
+? What about the dozens of existing 3D languages^langs?
+
+Existing languages are generally domain specific (like in chemistry) or focused on representing the visuals of scenes, for film or video games, and not on the causal relationships between objects that this would be. The Spherical Object Model would be a domain-agnostic, general purpose language containing the spherical primitives that can model all the causal patterns in our universe.
 
 ***
 
-Why not other primitives like cubes? You can make other primitives out of spheres, but it seems the sphere is all you need. As the bit is the primitive in one dimension, the sphere seems to be the primitive in 3 dimensions. Dimensionless quantities like points don't seem to be a good primitive-for a thing to exist it must take up at least some space.
+? Why only one primitive?
+
+In my mind's eye I can instantly, and in parallel, draw spheres around the boundaries of all objects I see. It seems I can visualize hundreds, if not thousands or more, spheres at once. This parallelization capability goes away if I were to add even one more shape, such as the cube. I then need to consciously decide whether each object should be surrounded by a sphere or a cube, and it becomes more of a sequential process. It seems a single primitive allows for a massive parallelization speedup.
+
+? Of the various primitives, why the sphere, as opposed to the cube?
+
+I think the sphere is the obvious choice, since it is easy to construct other primitives out of them, and in my experience spheres are far more common in nature than other 3D shapes.
+
+? Why not point clouds?
+
+As far as I can figure, everything in this world needs to take up space. Spheres are points that take up space. As the bit is the primitive in one dimension, the sphere seems to be the primitive in 3 dimensions.
 
 ***
 
-Why would we want this?
+? Why would we want this?
 
 A universal spherical language would be _grounded to reality_ in a way that no other language is. We could sort all concepts across all domains by their size and/or frequency in the real world.
 
@@ -77,3 +89,8 @@ It might take longer, at first, to build up a shared 4D encyclopedia, but the _p
 It is extremely easy to build false models out of words, so switching to a well-designed sphere based language might be a radically better way to create and communicate true models.
 
 ****
+
+# Notes
+
+^langs The list of 3D languages I've studied to date.
+ https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22contains%22%2C%22data%22%3A%22tags%22%2C%22origData%22%3A%22tags%22%2C%22type%22%3A%22string%22%2C%22value%22%3A%5B%223d%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D The list of 3D languages
