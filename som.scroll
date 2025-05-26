@@ -17,7 +17,9 @@ Is this even possible? So far it seems to me it might be, if you get the "Gramma
 
 All spheres have a diameter. If you use Planck Lengths, base 2, you can use ~206 bits for the size property to cover every sphere up to the sphere of the observable universe.
 
-Recursion is essential. A line sphere is a sphere containing two unit spheres, with a recursive line sphere in between.
+Recursion is essential.
+
+A line sphere is a sphere containing two unit spheres, with a recursive line sphere in between.
 
 Spin might be key (though it may be better to represent spin via an internal "spin state" sphere). A NAND gate could be 2 input spheres with a spin which touch an output sphere that only changes spin if both input spheres are going in the right direction. Numeral base systems could be represented with spin or internal state spheres.
 
