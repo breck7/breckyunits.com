@@ -62,7 +62,7 @@ Nailing the semantic details would be essential, but I think the standard langua
 
 ? What about the dozens of existing 3D languages^langs?
 
-Existing languages are generally domain specific (like in chemistry) or focused on representing the visuals of scenes, for film or video games, and not on the causal relationships between objects that this would be. The Spherical Object Model would be a domain-agnostic, general purpose language containing the spherical primitives that can model all the causal patterns in our universe.
+Existing 3D languages are generally domain specific (like in chemistry) or focused on representing the visuals of scenes, for film or video games, and not on the causal relationships between objects that this would be. The Spherical Object Model would be a domain-agnostic, general purpose language containing the spherical primitives that can model all the causal patterns in our universe.
 
 ***
 
