@@ -1,12 +1,12 @@
 parserId,uses
 BlobParser,16059
-blankLineParser,14726
+blankLineParser,14734
 catchAllParagraphParser,5901
 scrollImportedParser,2221
-quickLinkParser,1457
+quickLinkParser,1458
 slashCommentParser,1190
 scrollBrParser,1014
-h1Parser,800
+h1Parser,801
 scrollDinkusParser,755
 quickCssParser,656
 editButtonParser,648
@@ -47,9 +47,9 @@ quickRelativeLinkParser,149
 endSnippetParser,143
 captionAftertextParser,121
 quoteLineParser,113
-scrollQuestionParser,93
+scrollQuestionParser,100
 cssLineParser,91
-footnoteDefinitionParser,77
+footnoteDefinitionParser,78
 printAuthorsParser,77
 katexParser,70
 quickQuoteParser,68
