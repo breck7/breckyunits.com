@@ -106,6 +106,8 @@ What do you think? Send feedback you'd like me to post to breck7@gmail.com, or a
 - gwern points out the relevance of "epicycles/Fourier decomposition, Gaussian splatting". Playing with Gaussian splats in part encouraged me to try using spheres as the primitive. I particularly enjoyed this overview.
  https://www.reddit.com/r/LessWrong/comments/1kvu02g/comment/mufaxe5/ gwern
  https://nianticlabs.com/news/splats-change-everything overview
+- A reader suggests the reason for spheres is they are "the most efficient container". Their perspective is its not sphers all the way down, its pattern recursion, and spheres are just "the most elegant expression of those patterns".
+ https://www.reddit.com/r/complexsystems/comments/1kvtkpp/comment/muhp6hk/ suggests
 - First draft posted 5/25/2025
 ^langs The list of 3D languages I've studied to date.
  https://pldb.io/lists/explorer.html#searchBuilder=%7B%22criteria%22%3A%5B%7B%22condition%22%3A%22contains%22%2C%22data%22%3A%22tags%22%2C%22origData%22%3A%22tags%22%2C%22type%22%3A%22string%22%2C%22value%22%3A%5B%223d%22%5D%7D%5D%2C%22logic%22%3A%22AND%22%7D The list of 3D languages
