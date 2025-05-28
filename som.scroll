@@ -36,6 +36,7 @@ I haven't yet been able to use only spheres to model electromagnetic fields accu
 ? What would the source code for a Spherical Object Model look like?
 
 It would be very similar to the DOM, with spheres instead of rectangular divs as the primitive.
+ https://en.wikipedia.org/wiki/Document_Object_Model DOM
 
 The code for the water molecule above looks like:
 code
