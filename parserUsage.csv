@@ -3,14 +3,14 @@ BlobParser,16059
 blankLineParser,14734
 catchAllParagraphParser,5902
 scrollImportedParser,2221
-quickLinkParser,1474
+quickLinkParser,1476
 slashCommentParser,1194
 scrollBrParser,1014
 h1Parser,801
 scrollDinkusParser,755
 quickCssParser,656
 editButtonParser,648
-listAftertextParser,578
+listAftertextParser,579
 lineOfCodeParser,549
 chatLineParser,408
 scrollCenterParser,361
