@@ -1,0 +1,47 @@
+
+fishClass
+ width 30
+ height 30
+ speed 10
+ onTick
+  move
+ angle West
+
+🐠
+ fishClass
+ onTick .2
+  turnRandomly
+
+✨
+ width 30
+ height 30
+☠️
+ width 30
+ height 30
+
+🐟
+ fishClass
+ onLeftEdge
+  replaceWith ✨
+ onTopEdge
+  replaceWith ☠️
+ onRightEdge
+  replaceWith ☠️
+ onBottomEdge
+  replaceWith ☠️
+ onHit
+  🐟
+   turnRandomly
+  🐠
+   turnRandomly
+  
+ 
+
+insertAt 🐠 400 100
+insertCluster 50 🐟 400 100
+
+atTime 20
+ insertCluster 50 🐟 1000 100
+atTime 50
+ insertCluster 60 🐟 1000 100
+

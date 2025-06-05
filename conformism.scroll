@@ -1,0 +1,50 @@
+date 2025-6-04
+tags All Thinking
+title Understanding Conformism
+container 500px
+standardPost.scroll
+
+Every time I see a school of fish, I'm bewildered by the conformity. Every fish looks and swims the same.
+
+Don't fish have a desire to be individuals? Where are all the contrarians?
+
+Today I coded a little simoji simulation and surprised myself-even well meaning contrarians can cause a lot of damage!
+
+***
+
+# The Simulation
+
+In this very simple sim every fish swims to the edge of the screen.
+
+If every fish conforms every fish makes it safe:
+
+conformist.mp4
+ width 500
+Explore in Simoji
+ center
+ https://simoji.scroll.pub/#simoji%0A%20%0A%20fishClass%0A%20%20width%2030%0A%20%20height%2030%0A%20%20speed%2010%0A%20%20onTick%0A%20%20%20move%0A%20%20angle%20West%0A%20%0A%20%F0%9F%90%A0%0A%20%20fishClass%0A%20%20onTick%20.05%0A%20%20%20turnRandomly%0A%20%0A%20%E2%9C%A8%0A%20%20width%2030%0A%20%20height%2030%0A%20%E2%98%A0%EF%B8%8F%0A%20%20width%2030%0A%20%20height%2030%0A%20%0A%20%F0%9F%90%9F%0A%20%20fishClass%0A%20%20onLeftEdge%0A%20%20%20replaceWith%20%E2%9C%A8%0A%20%20onTopEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onRightEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onBottomEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onHit%0A%20%20%20%F0%9F%90%9F%0A%20%20%20%20turnRandomly%0A%20%20%20%F0%9F%90%A0%0A%20%20%20%20turnRandomly%0A%20%20%20%0A%20%0A%20%2F%2F%20insertAt%20%F0%9F%90%A0%20300%20100%0A%20insertCluster%20200%20%F0%9F%90%9F%20400%20100%0A%20
+  target _blank
+
+However, if even a single fish gets curious and goes in a contrarian direction, all hell breaks loose:
+
+contrarian.mp4
+ width 500
+Explore in Simoji
+ center
+ https://simoji.scroll.pub/#simoji%0A%20%0A%20fishClass%0A%20%20width%2030%0A%20%20height%2030%0A%20%20speed%2010%0A%20%20onTick%0A%20%20%20move%0A%20%20angle%20West%0A%20%0A%20%F0%9F%90%A0%0A%20%20fishClass%0A%20%20onTick%20.05%0A%20%20%20turnRandomly%0A%20%0A%20%E2%9C%A8%0A%20%20width%2030%0A%20%20height%2030%0A%20%E2%98%A0%EF%B8%8F%0A%20%20width%2030%0A%20%20height%2030%0A%20%0A%20%F0%9F%90%9F%0A%20%20fishClass%0A%20%20onLeftEdge%0A%20%20%20replaceWith%20%E2%9C%A8%0A%20%20onTopEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onRightEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onBottomEdge%0A%20%20%20replaceWith%20%E2%98%A0%EF%B8%8F%0A%20%20onHit%0A%20%20%20%F0%9F%90%9F%0A%20%20%20%20turnRandomly%0A%20%20%20%F0%9F%90%A0%0A%20%20%20%20turnRandomly%0A%20%20%20%0A%20%0A%20insertAt%20%F0%9F%90%A0%20300%20100%0A%20insertCluster%20200%20%F0%9F%90%9F%20400%20100%0A%20
+  target _blank
+
+# Takeaways
+
+I have been a brash contrarian in my life. Perhaps too unsympathetic to those following the herd and/or attempting to guide the herd.
+
+While I maintain that the payoffs in nature are extremely variable and warrant thorough exploration of ideaspace, I can see that perhaps I should strive to be a more _courtesous_ contrarian.
+
+To not be contrarian excessively just to practice being contrarian, but to only be contrarian for a few rare ideas, and courteously from the edges.
+
+To explore contrarian ideas while respecting the schools who have gotten us this far.
+
+****
+
+
+
