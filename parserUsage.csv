@@ -10,7 +10,7 @@ h1Parser,803
 scrollDinkusParser,756
 quickCssParser,658
 editButtonParser,650
-listAftertextParser,579
+listAftertextParser,580
 lineOfCodeParser,549
 chatLineParser,408
 scrollCenterParser,362
@@ -38,7 +38,7 @@ scrollTagsParser,304
 scrollDateParser,297
 endOfPostDinkusParser,283
 scrollContainerParser,239
-quickImageParser,234
+quickImageParser,235
 datelineParser,213
 h2Parser,200
 sceneCommentParser,199
