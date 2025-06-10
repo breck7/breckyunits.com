@@ -1,0 +1,116 @@
+date 2025-6-10
+tags All Thinking Ford
+title Juggling Ideas
+container 500px
+standardPost.scroll
+
+# A few words about juggling
+
+When I was a kid I learned to juggle.
+
+Barely.
+
+I could handle 3 balls for about 30 seconds.
+
+I bluster, that if I practiced, I could handle 5 and go for minutes.
+
+This Reddit thread estimates a week of practice to juggle 3, a month to juggle 4, and a year to juggle 5.
+ https://www.reddit.com/r/juggling/comments/oafk92/how_long_did_it_take_you_to_learn_to_juggle_5/ Reddit thread
+
+Wikipedia has a whole page on Juggling world records. No one can _continuously_ juggle more than 7 balls. The time record for 7 is 16 minutes. Someone juggled 6 for 30 minutes. The record for 5 is 3 hours and 44 minutes. For 3 it's 13 hours.
+ https://en.wikipedia.org/wiki/Juggling_world_records Juggling world records
+
+The takeaway is this: *some humans can juggle more than others but even the greatest max out at 7.*
+
+***
+
+# Mental juggling and JIQ
+
+It is not physical juggling that I'm interested in.
+
+I'm interested in mental juggling.
+
+What if humans had the same mental juggling limits as physical?
+
+We could compress the IQ scale to a JIQ scale of 1-7.
+
+A person with a JIQ of 1 could handle only 1 mental ball at a time. Dogs would have a JIQ of 1.
+
+// can animals juggle? how many? why do i have a mental image of a seal juggling?
+
+A person with a JIQ of 6 gets overloaded by adding 1 more concept, and the whole thing comes tumbling down.
+
+A person with a JIQ of 7, could handle 7 without becoming overloaded. These would be the geniuses of the world.
+
+You can imagine a superlinear difference between the solutions from a 6 versus a 7.
+
+***
+
+# Where do I rank?
+
+On the JIQ scale, I think I'm a 5. Probably a 4 on a lot of days, and maybe a 6 on a really exceptional day.
+
+I should probably be very grateful for this. Instead, I'm annoyed I'm not a 7. I've encountered a number of 7s in my life, and am in awe--and a bit jealous--of their mental capabilities.
+
+I'm constantly looking for/trying to invent new thinking tools to help me mentally juggle more, to be able to think, if even briefly, as a 7.
+
+***
+
+# Concepts as Balls
+
+Lately I've been exploring a minimal universal 3D/4D language where all concepts are represented by balls.
+ som.html exploring
+
+A simple example is thinking of a water molecule as a ball containing 2 balls of hydrogen and 1 ball of oxygen.
+
+A larger example would be particle physics, where each particle type is a ball. Most people can juggle the simpler 3 ball particle set of electrons, protons and neutrons.
+
+But the current full Standard Model set contains over a dozen balls, which already exceeds humanity's juggling limit:
+ // and that's ignoring their anti-particles! 
+
+standardModel.png
+ caption A chart of the Standard Model of Particle Physics. I think each of these also has an anti-particle, but we're already way over the juggling limit.
+  https://en.wikipedia.org/wiki/Standard_Model Standard Model of Particle Physics
+
+***
+
+# Trying to Juggle Thousands of Balls
+
+I've been reading microbiology papers and mentally turning each sentence into scenes of balls. Often there are many hundreds of concepts (balls) explicitly discussed in these papers. And not only that, but these concepts depend on other concepts, so there's another 10-100x dependency balls to juggle to fully grok a paper - tens of thousands of balls!
+
+How does one mentally juggle that many?!
+
+With practice you can probably get a little better.
+
+There are probably tricks, such as fasting, that might put your mind in a state that can handle a few more.
+
+But even then, you are orders of magnitude away from being able to juggle everything all at once and so you must focus on one set at a time.
+
+***
+
+# Focusing on Subsets
+
+Humans divide and conquer. Different groups of humans have focused on different, small subsets of balls, mastering those and contributing their insights to the common body of knowledge.
+
+Where should the divisions be? You want to find causally linked subsets. Juggling insulin, toenails, and hair follicles is not as useful as juggling insulin, glucose, and the pancreas.
+
+***
+
+# Collective Juggling
+
+Simple causal models can build upon each other to create things of tremendous complexity.
+
+If you spherically modeled a modern CPU/GPU, you'd have billions of balls, with perhaps a million unique conceptual balls needed to describe it.
+
+No human can juggle that many in their head all at once, but a million humans, each refining and assembling a subset of 5 - 7, can do a collective juggling act that dwarfs any individual performance.
+
+****
+
+# Related posts
+
+printRelated Ford
+
+// Claude Shannon wrote an interesting paper on juggling.
+
+
+

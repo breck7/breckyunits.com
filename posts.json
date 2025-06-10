@@ -1,5 +1,15 @@
 [
   {
+    "date": "06/10/2025",
+    "year": 2025,
+    "title": "Juggling Ideas",
+    "permalink": "juggling.html",
+    "authors": "Breck Yunits",
+    "tags": "All Thinking Ford",
+    "wordCount": 854,
+    "minutes": 4.3
+  },
+  {
     "date": "06/04/2025",
     "year": 2025,
     "title": "Understanding Conformism",
@@ -26,8 +36,8 @@
     "permalink": "fordDream.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 566,
-    "minutes": 2.8
+    "wordCount": 578,
+    "minutes": 2.9
   },
   {
     "date": "05/06/2025",
@@ -36,8 +46,8 @@
     "permalink": "3d.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Ford",
-    "wordCount": 329,
-    "minutes": 1.6
+    "wordCount": 339,
+    "minutes": 1.7
   },
   {
     "date": "04/28/2025",
@@ -96,7 +106,7 @@
     "permalink": "ford.html",
     "authors": "Breck Yunits",
     "tags": "All Thinking Writing Scroll Ford",
-    "wordCount": 336,
+    "wordCount": 346,
     "minutes": 1.7
   },
   {
