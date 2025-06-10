@@ -1,5 +1,5 @@
 date 2009-12-13
-tags All Programming Life
+tags All Programming Life Arguments
 title Don't Flip the Bit
 
 singleHeader.scroll
@@ -41,5 +41,8 @@ But this is a bad solution. The two presented above are better.
  https://en.wikipedia.org/wiki/Bozo_bit
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
+
+# Related
+printRelated Arguments
 
 footer.scroll

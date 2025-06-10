@@ -44,6 +44,18 @@ Links
 - Origin of the term?
  https://www.amazon.com/Dynamics-Software-Development-Jim-McCarthy/dp/1556158238 Origin
 
+Related
+=======
+Understanding Conformism
+========================
+06/04/2025
+https://breckyunits.com/conformism.html
+
+Part Assholes are Awesome
+=========================
+08/05/2024
+https://breckyunits.com/assholes.html
+
 Follow me on X
  https://twitter.com/breckyunits Follow me on X
 Built with Scroll v178.2.3

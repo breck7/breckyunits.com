@@ -123,7 +123,8 @@ What do you think? Send feedback you'd like me to post to breck7@gmail.com, or a
  https://en.wikipedia.org/wiki/Uniform_tilings_in_hyperbolic_plane tiling
 - Maciek pointed me to the highly relevant "holons" and "holarchies":
 [Image Omitted]
-- First draft posted 5/25/2025
+- A tangental note from Anton makes me wonder if angular diameter would be a useful primitive to keep in mind.
+ https://en.wikipedia.org/wiki/Angular_diameter angular diameter
 - Another way to frame this idea could be an attempt to come up with a simple grammar to allow the techniques of finite element method/discrete element method to be more widely applied. FEM is "the mesh discretization of a continuous domain into a set of discrete sub-domains, usually called elements."
  https://en.wikipedia.org/wiki/Finite_element_method finite element method
  https://en.wikipedia.org/wiki/Discrete_element_method discrete element method
