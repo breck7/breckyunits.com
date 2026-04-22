@@ -1,5 +1,15 @@
 [
   {
+    "date": "04/21/2026",
+    "year": 2026,
+    "title": "Screens",
+    "permalink": "sim.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life",
+    "wordCount": 69,
+    "minutes": 0.3
+  },
+  {
     "date": "06/10/2025",
     "year": 2025,
     "title": "Juggling Ideas",
@@ -986,7 +996,7 @@
     "permalink": "fastest.html",
     "authors": "Breck Yunits",
     "tags": "All Life Thinking Data Fiction",
-    "wordCount": 343,
+    "wordCount": 334,
     "minutes": 1.7
   },
   {
