@@ -2,4 +2,5 @@ authors Breck Yunits
  https://twitter.com/breckyunits Breck Yunits
 baseUrl https://breckyunits.com/
 rssFeedUrl feed.xml
-editBaseUrl edit.html?fileName=
+editBaseUrl https://github.com/breck7/breckyunits.com/blob/main/
+// editBaseUrl edit.html?fileName=
