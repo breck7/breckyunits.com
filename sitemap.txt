@@ -28,6 +28,7 @@ https://breckyunits.com/badModels.html
 https://breckyunits.com/basic.html
 https://breckyunits.com/beliefs.html
 https://breckyunits.com/big-data-notation.html
+https://breckyunits.com/bigBrotherPoem.html
 https://breckyunits.com/bigOsKitchen.html
 https://breckyunits.com/bigger-telescopes-are-needed-to-solve-global-warming.html
 https://breckyunits.com/bipolar.html
@@ -250,7 +251,7 @@ https://breckyunits.com/settings.html
 https://breckyunits.com/sf.html
 https://breckyunits.com/short.html
 https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
-https://breckyunits.com/sim.html
+https://breckyunits.com/simPoem.html
 https://breckyunits.com/simple-but-not-easy.html
 https://breckyunits.com/simple-is.html
 https://breckyunits.com/sleepWriting.html

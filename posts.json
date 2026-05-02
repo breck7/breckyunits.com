@@ -1,11 +1,21 @@
 [
   {
+    "date": "05/02/2026",
+    "year": 2026,
+    "title": "P2P",
+    "permalink": "bigBrotherPoem.html",
+    "authors": "Breck Yunits",
+    "tags": "All Life Fiction Poems",
+    "wordCount": 65,
+    "minutes": 0.3
+  },
+  {
     "date": "04/21/2026",
     "year": 2026,
     "title": "Screens",
-    "permalink": "sim.html",
+    "permalink": "simPoem.html",
     "authors": "Breck Yunits",
-    "tags": "All Life Fiction",
+    "tags": "All Life Fiction Poems",
     "wordCount": 69,
     "minutes": 0.3
   },
@@ -1705,7 +1715,7 @@
     "title": "Time",
     "permalink": "time.html",
     "authors": "Breck Yunits",
-    "tags": "All Life",
+    "tags": "All Life Poems",
     "wordCount": 99,
     "minutes": 0.5
   },
