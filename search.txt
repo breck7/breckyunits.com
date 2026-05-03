@@ -3,80 +3,81 @@ Search Breck's Blog
 
 Breck's Blog - Writing Posts
 ============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-05/02/2026
+05/03/2026
 https://breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/society.html
 
 Breck's Blog - Concise Index
 ============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/short.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-05/02/2026
+05/03/2026
 https://breckyunits.com/scrollPapers.html
 
 Breck's Blog - Science Posts
 ============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/sciencePage.html
 
 Breck's Blog - Programming Posts
 ================================
-05/02/2026
+05/03/2026
 https://breckyunits.com/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-05/02/2026
+05/03/2026
 https://breckyunits.com/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-05/02/2026
+05/03/2026
 https://breckyunits.com/life.html
 
 Breck's Blog - All Posts
 ========================
-05/02/2026
+05/03/2026
 https://breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-05/02/2026
+05/03/2026
 https://breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-05/02/2026
+05/03/2026
 https://breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-05/02/2026
+05/03/2026
 https://breckyunits.com/data.html
 
 title,titleLink,text,date,year,wordCount,minutes
+Psychedelics and the law,psychedelics.html,"Psychedelics and the law ========================  May 2, 2026  Chemical is just another name for a tiny spatial mathematical pattern.  Some of these patterns, like oxygen and water, we require in large quantities.  For metabolism we consume a huge variety of patterns we categorize as food.  In general, consuming small does of these patterns has little noticeable affect on our experiences.  But then there are some patterns, that if you drop tiny doses on your tongue, will take your consciousness on a metaphorical roller coaster ride, that extends for many slow moving hours, and then continues to uplift your spirit for months afterwards.  *  I love trip report websites like Erowid and r/Psychonaut. Personally I've done more than 10, but far less than 50 experiments with psychedelics, so mostly would refer people who are curious to those far more experienced psychonauts rather than my own data on the matters.  https://erowid.org Erowid  https://www.reddit.com/r/Psychonaut r/Psychonaut  What I want to write about here though is what I think is a very important issue that I want to add my voice in support of those trying to legalize these substances.  https://archive.vn/WKsQJ those  *  The Elephant in the (Legislative) Room ======================================   It is hard to take our governments seriously when something as important as psychedelics are illegal.  The problem of consciousness is upstream of everything and one of-if not _the_- most important in the world, and that we have such an accessible approach angle to conduct experiments on consciousness, and yet not only basically ignore psychedelics in our reporting of what's going on, and even worse, make them _illegal_ is really a shame.  https://breckyunits.com/upstream-of-everything.html upstream of everything  Psychedelics are to consciousness what sex is to reproduction. Sure, you _could_ outlaw sex and have all reproduction and reproduction studies happen in a lab, but 1) that bottlenecks in labs something that should be widely decentralized and 2) where's the fun in that?  Not to mention the effects on well-being. Personally the handful of times I've tripped on mushrooms^1 and LSD with friends are some of the best days of my life (surpassed only by having kids), and preceded long periods of physical and spiritual well being. In contrast, the times I sought help from ""legal"" channels were completely ineffective or worse.  From the experiments and data I've seen I expect it will turn out that making illegal the patterns of psychedelics while promoting far less effective patterns will explain immense numbers of individuals who needlessly suffer and die.  The fact that we put people like Pickard in jail for _decades_ is mind boggling. For comparison, Jesus's campaign from preaching to crucifixion was only ~3.5 years.  https://en.wikipedia.org/wiki/William_Leonard_Pickard Pickard  *How can we explain this tragedy?*  Maybe there are strong second order effects I am not taking into account. Perhaps psychedelics are good now, but if they were legalized, the industrial optimization process will transform them into something with terrible effects. (my personal stance is that deleting IP law would reduce capitalism's tendency to enshittify things)  https://breckyunits.com/freedom.html deleting IP law  Or perhaps there is an explanation from natural selection: psychedelics are good patterns but societies that allow them see their members take them until they vaporize off to a collective enlightened harmonious consciousness, and so given you are having a conscious individual experience means you are likely living in a society that has temporarily reduced the enlightening patterns.  Maybe getting the right rules is a long annealing process. Maybe I'm just impatient and that in the years and decades ahead these laws will self-correct.  It could be utter incompetence. Maybe we are governed by fools.  It could be that everyone ""knows"" the law is not to be taken seriously. Perhaps I am a bit autistic in that I prefer people to tell things as they are and I believe things are as I'm told. Historically I took much longer than my siblings to realize that a lot of what we are told is bulls_it (I remember still writing letters to Santa when I was over 10, and dragging my mother to church well past the time my siblings stopped going).  It could be malice. It is well known how the government secretly experimented with psychedelics maliciously so it's plausible our true government lives in the shadows and does things against our interests.  https://en.wikipedia.org/wiki/MKUltra experimented  It could be that we live in a government of the rich, by the rich, for the rich; in reality the rich don't have to worry about the laws and can easily get psychedelics.  It could be that our system is so corrupted by financial interests that good things like psychedelics are banned so bad things (like big pharma) can make more money.  *  A Country Full of Bad Things ============================  Boris Yeltsin has a quote after visiting a grocery store in Texas in 1989:  https://en.wikipedia.org/wiki/1989_visit_by_Boris_Yeltsin_to_the_United_States visiting  When I saw those shelves crammed with hundreds, thousands of cans, cartons and goods of every possible sort, for the first time I felt quite frankly sick with despair for the Soviet people. That such a potentially super-rich country as ours has been brought to a state of such poverty! It is terrible to think of it.  I often think about that quote when I walk through American stores. So much of these 'products' are actually poisons in disguise.  We are a nation with an endless variety of bad things and an artificially reduced supply of good things.  ⁂  Notes =====  ^1: ""Woaaaaahh,"" I thought to myself after seeing a rock, which had been sitting motionless-as rocks generally do-suddenly slide multiple feet to the other side of the sidewalk.  That was my first visual hallucination on my first mushroom trip, twenty years ago in North Carolina. The next six or so hours hanging with my friends and fellow trippers were moments of pure childhood wonder, followed by months of physical and spiritual well being.  Ten years later was my first acid trip, similarly fun, profound, and restorative. I think _stopping_ psychedelics after moving to Hawai'i was a huge health mistake.  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",05/02/2026,2026,1068,5.3
 P2P,bigBrotherPoem.html,P2P === by Breck Yunits  https://twitter.com/breckyunits Breck Yunits  First I spoke unaided And people looked away So then I used AI To get the time of day  ...  Others followed suit And slowly none were seen Who spoke to one another Without big brother in between  ⁂  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ,05/02/2026,2026,65,0.3
 Screens,simPoem.html,Screens ======= by Breck Yunits  https://twitter.com/breckyunits Breck Yunits  Earth was once 4D. But the simulation used too much power. So the simulators added smart phones. And gradually got humans to stare at those all day long. Then they switched Earth to 2D. To save power. And no one noticed.  ⁂  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ,04/21/2026,2026,69,0.3
 Juggling Ideas,juggling.html,"Juggling Ideas ============== by Breck Yunits  https://twitter.com/breckyunits Breck Yunits June 10, 2025  A few words about juggling ==========================  When I was a kid I learned to juggle.  Barely.  I could handle 3 balls for about 30 seconds.  I bluster, that if I practiced, I could handle 5 and go for minutes.  This Reddit thread estimates a week of practice to juggle 3, a month to juggle 4, and a year to juggle 5.  https://www.reddit.com/r/juggling/comments/oafk92/how_long_did_it_take_you_to_learn_to_juggle_5/ Reddit thread  Wikipedia has a whole page on Juggling world records. No one can _continuously_ juggle more than 7 balls. The time record for 7 is 16 minutes. Someone juggled 6 for 30 minutes. The record for 5 is 3 hours and 44 minutes. For 3 it's 13 hours.  https://en.wikipedia.org/wiki/Juggling_world_records Juggling world records  The takeaway is this: *some humans can juggle more than others but even the greatest max out at 7.*  *  Mental juggling and JIQ =======================  It is not physical juggling that I'm interested in.  I'm interested in mental juggling.  What if humans had the same mental juggling limits as physical?  We could compress the IQ scale to a JIQ scale of 1-7.  A person with a JIQ of 1 could handle only 1 mental ball at a time. Dogs would have a JIQ of 1.  A person with a JIQ of 6 gets overloaded by adding 1 more concept, and the whole thing comes tumbling down.  A person with a JIQ of 7, could handle 7 without becoming overloaded. These would be the geniuses of the world.  You can imagine a superlinear difference between the solutions from a 6 versus a 7.  *  Where do I rank? ================  On the JIQ scale, I think I'm a 5. Probably a 4 on a lot of days, and maybe a 6 on a really exceptional day.  I should probably be very grateful for this. Instead, I'm annoyed I'm not a 7. I've encountered a number of 7s in my life, and am in awe--and a bit jealous--of their mental capabilities.  I'm constantly looking for/trying to invent new thinking tools to help me mentally juggle more, to be able to think, if even briefly, as a 7.  *  Concepts as Balls =================  Lately I've been exploring a minimal universal 3D/4D language where all concepts are represented by balls.  https://breckyunits.com/som.html exploring  A simple example is thinking of a water molecule as a ball containing 2 balls of hydrogen and 1 ball of oxygen.  A larger example would be particle physics, where each particle type is a ball. Most people can juggle the simpler 3 ball particle set of electrons, protons and neutrons.  But the current full Standard Model set contains over a dozen balls, which already exceeds humanity's juggling limit:  [Image Omitted]  A chart of the Standard Model of Particle Physics. I think each of these also has an anti-particle, but we're already way over the juggling limit.   https://en.wikipedia.org/wiki/Standard_Model Standard Model of Particle Physics  *  Trying to Juggle Thousands of Balls ===================================  I've been reading microbiology papers and mentally turning each sentence into scenes of balls. Often there are many hundreds of concepts (balls) explicitly discussed in these papers. And not only that, but these concepts depend on other concepts, so there's another 10-100x dependency balls to juggle to fully grok a paper - tens of thousands of balls!  How does one mentally juggle that many?!  With practice you can probably get a little better.  There are probably tricks, such as fasting, that might put your mind in a state that can handle a few more.  But even then, you are orders of magnitude away from being able to juggle everything all at once and so you must focus on one set at a time.  *  Focusing on Subsets ===================  Humans divide and conquer. Different groups of humans have focused on different, small subsets of balls, mastering those and contributing their insights to the common body of knowledge.  Where should the divisions be? You want to find causally linked subsets. Juggling insulin, toenails, and hair follicles is not as useful as juggling insulin, glucose, and the pancreas.  *  Collective Juggling ===================  Simple causal models can build upon each other to create things of tremendous complexity.  If you spherically modeled a modern CPU/GPU, you'd have billions of balls, with perhaps a million unique conceptual balls needed to describe it.  No human can juggle that many in their head all at once, but a million humans, each refining and assembling a subset of 5 - 7, can do a collective juggling act that dwarfs any individual performance.  ⁂  Related posts =============  The Spherical Object Model ========================== 05/25/2025 https://breckyunits.com/som.html  Dreaming of a 4D Wikipedia ========================== 05/15/2025 https://breckyunits.com/fordDream.html  Does 3D exist? ============== 05/06/2025 https://breckyunits.com/3d.html  Ford ==== 04/20/2025 https://breckyunits.com/ford.html  Follow me on X  https://twitter.com/breckyunits Follow me on X Built with Scroll v178.2.3 ",06/10/2025,2025,854,4.3
