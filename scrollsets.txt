@@ -2,9 +2,9 @@ ScrollSets: A New Way to Store Knowledge
 ========================================
 
 HTML | TXT | PDF
- https://breckyunits.com/scrollsets.html HTML
- https://breckyunits.com/scrollsets.txt TXT
- https://breckyunits.com/scrollsets.pdf PDF
+ https://breck7.github.io/breckyunits.com/scrollsets.html HTML
+ https://breck7.github.io/breckyunits.com/scrollsets.txt TXT
+ https://breck7.github.io/breckyunits.com/scrollsets.pdf PDF
 
 by Breck Yunits
  https://twitter.com/breckyunits Breck Yunits
@@ -185,17 +185,17 @@ Related Posts
 Hot Coffee
 ==========
 04/23/2024
-https://breckyunits.com/datasets.html
+https://breck7.github.io/breckyunits.com/datasets.html
 
 Dataset Needed
 ==============
 01/23/2020
-https://breckyunits.com/dataset-needed.html
+https://breck7.github.io/breckyunits.com/dataset-needed.html
 
 Dreaming of a Logic Checked Language
 ====================================
 01/03/2020
-https://breckyunits.com/dreaming-of-a-data-checked-language.html
+https://breck7.github.io/breckyunits.com/dreaming-of-a-data-checked-language.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

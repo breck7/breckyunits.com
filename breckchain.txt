@@ -7,7 +7,7 @@ December 2, 2024
 We're building a new blockchain (L1).
 
 This chain will leapfrog all others on trust and speed.
- https://breckyunits.com/particleChain.html This chain
+ https://breck7.github.io/breckyunits.com/particleChain.html This chain
 
 We will be misunderstood, ignored, and mocked.
 

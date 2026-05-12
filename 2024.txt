@@ -27,8 +27,8 @@ And I think that the expected value of what we did in 2024 will be very, very hi
 *
 
 ScrollSets
- https://breckyunits.com/scrollsets.html ScrollSets
-==============================================================
+ https://breck7.github.io/breckyunits.com/scrollsets.html ScrollSets
+===============================================================================
 
 Our top innovation, IMO, is ScrollSets. ScrollSets are a new simple alternative to knowledge bases that only require a simple plain text file. In 2024 we finally refined all the little pieces to make the whole thing just work. In 2025 we should be able to make them about 10-100x faster and then I think it will be off to the races.
 
@@ -39,8 +39,8 @@ Money is a simple and available metric, even if suboptimal. If we look at the mo
 *
 
 Finding a cure for "Mood" Disorders
- https://breckyunits.com/bipolarModel.html Finding a cure for "Mood" Disorders
-==================================================================================================================
+ https://breck7.github.io/breckyunits.com/bipolarModel.html Finding a cure for "Mood" Disorders
+===================================================================================================================================
 
 Building a ScrollSet about a topic is like building a compass that guides you to a true model of a topic. I used an early version of ScrollSets to build BrainDB, to solve a mysterious energy fluctuation I had experienced most of my life (erroneously called 'bipolar disorder'), that was said to be incurable. ScrollSets lead one to a thorough model, and eventually I stumbled upon a small group of researchers who were looking at this condition as a mitochondrial condition, caused in large part by a modern carb-heavy diet. After over a year of experimentation and a significant amount of research and microscopy I can now say with high confidence that this looks like exactly what it is, and we are now in the process of building a large image dataset of human mitochondria under the microscope to show this definitively. Again, money is a crude metric, but a simple one, and the estimated total annual global cost of "mood disorders" is on the order of $1 trillion. Making a significant contribution to a cure for $70,000 I think is a good ROI.
 
@@ -62,17 +62,17 @@ Particles, Parsers, and Scroll
 ==================================================================================
 The Scroll language itself and the layers it is built on (Particles and Parsers) improved a great deal throughout the year. We started the year on version 72, and ended on version 162!
 E=T/A! and The Permission Function
- https://breckyunits.com/eta.html E=T/A!
- https://breckyunits.com/thePermissionFunction.html The Permission Function
-=======================================================================================================================================================
+ https://breck7.github.io/breckyunits.com/eta.html E=T/A!
+ https://breck7.github.io/breckyunits.com/thePermissionFunction.html The Permission Function
+=========================================================================================================================================================================================
 We made good headway on providing new perspectives to show theoretically why copyrights and patents are bad for progress. The extreme energy waste of the Permission Function shows why the ideal term for these monopolies must be 0, and the E=T/A! equation explains why they slow down the evolution of bad ideas into good ideas. I think these arguments should help contribute to bringing the abolishment of imaginary property laws into the Overton Window, which will have profoundly positive effects for human kind.
 PLDB
  https://pldb.io/ PLDB
 ===========================
 In addition to now running on ScrollHub, we added a lot more data as well as a few new interesting interviews with some accomplished creators.
 Particle Chains
- https://breckyunits.com/particleChain.html Particle Chains
-===========================================================================
+ https://breck7.github.io/breckyunits.com/particleChain.html Particle Chains
+============================================================================================
 I think Particle Chains may turn out to be extremely useful, and that will be something interesting to watch in 2025.
 World Wide Scroll
  https://wws.scroll.pub/ World Wide Scroll

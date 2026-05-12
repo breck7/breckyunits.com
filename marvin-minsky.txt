@@ -69,12 +69,12 @@ Related reading
 A Different Kind of Mindmap
 ===========================
 02/24/2024
-https://breckyunits.com/mindmap.html
+https://breck7.github.io/breckyunits.com/mindmap.html
 
 Brain Pilots
 ============
 02/18/2022
-https://breckyunits.com/brain-pilots.html
+https://breck7.github.io/breckyunits.com/brain-pilots.html
 
 - The second best place I've seen these ideas written about so far is LessWrong, which calls this the Subagent Model of the Mind.
  https://www.lesswrong.com/tag/subagents Subagent Model of the Mind

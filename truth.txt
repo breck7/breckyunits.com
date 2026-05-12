@@ -57,7 +57,7 @@ The key thing to keep in mind that mining information has costs. It is much chea
 You can use this method to build a model to understand anything, no matter how complex.
 
 Of course, the human brain has a limited context window and you can only work on a little bit of your model at one time. To solve this we developed a technology called ScrollSets that let's you chip away at building a model of anything. ScrollSets let's you incrementally build a model, adding as many or as few concepts and measurements at once as you want. Everything is simple plain text, fully tracked by version control, and compiles to a spreadsheet. When a new idea strikes for increasing the orthogonality of your model, it's very easy to add.
- https://breckyunits.com/scrollsets.html ScrollSets
+ https://breck7.github.io/breckyunits.com/scrollsets.html ScrollSets
 
 ⁂
 

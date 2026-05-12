@@ -69,42 +69,42 @@ Related Posts
 Particle Chain: A New Kind of Blockchain
 ========================================
 09/01/2024
-https://breckyunits.com/particleChain.html
+https://breck7.github.io/breckyunits.com/particleChain.html
 
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
-https://breckyunits.com/eta.html
+https://breck7.github.io/breckyunits.com/eta.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breckyunits.com/intelligence.html
+https://breck7.github.io/breckyunits.com/intelligence.html
 
 PTCRI: An Equation about Syntax Potential
 =========================================
 05/31/2024
-https://breckyunits.com/ptcri.html
+https://breck7.github.io/breckyunits.com/ptcri.html
 
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
-https://breckyunits.com/scrollsets.html
+https://breck7.github.io/breckyunits.com/scrollsets.html
 
 PC: Particle Complexity
 =======================
 12/20/2017
-https://breckyunits.com/countingComplexity.html
+https://breck7.github.io/breckyunits.com/countingComplexity.html
 
 Tree Notation: an antifragile program notation
 ==============================================
 06/21/2017
-https://breckyunits.com/treenotationPaper.html
+https://breck7.github.io/breckyunits.com/treenotationPaper.html
 
 A New Discovery in Computer Science: 2-Dimensional Programming Languages
 ========================================================================
 06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+https://breck7.github.io/breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

@@ -110,27 +110,27 @@ Related Posts
 Big O's Kitchen
 ===============
 04/23/2024
-https://breckyunits.com/bigOsKitchen.html
+https://breck7.github.io/breckyunits.com/bigOsKitchen.html
 
 The Three Byte Fix
 ==================
 06/09/2022
-https://breckyunits.com/ckmeans.html
+https://breck7.github.io/breckyunits.com/ckmeans.html
 
 Planets and Pebbles
 ===================
 11/26/2012
-https://breckyunits.com/planets-and-pebbles.html
+https://breck7.github.io/breckyunits.com/planets-and-pebbles.html
 
 Orders of Magnitude
 ===================
 12/07/2009
-https://breckyunits.com/orders-of-magnitude.html
+https://breck7.github.io/breckyunits.com/orders-of-magnitude.html
 
 Notes
 =====
 ^coinage: I was very surprised to be the one to invent the word logeracy(proof). Only needed to change 2 letters in a popular word. All the TLDs including dot coms are still available.
- https://breckyunits.com/logeracy.png proof
+ https://breck7.github.io/breckyunits.com/logeracy.png proof
 
 [Image Omitted]
 

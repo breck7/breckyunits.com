@@ -27,7 +27,7 @@ How do you count complexity?
 One 1999 survey of complexity measures found 48 systems in use^Edmonds. Despite the abundance of proposed systems, some of which have proved useful in isolated domains, no general measurement system has emerged as a defacto standard^Mitchell.
 
 In this paper I add to the pile, and propose using Particle Syntax as a tool for counting complexity.
- https://breckyunits.com/treenotationPaper.html Particle Syntax
+ https://breck7.github.io/breckyunits.com/treenotationPaper.html Particle Syntax
 
 *
 
@@ -37,7 +37,7 @@ The method introduced here, named Particle Complexity (PC), can be used to measu
 
 1. It is assumed that all ideas are graphs that can be sliced into tree structures.
 2. Given the assumption that all structures can be represented as trees, we can then use Particle Syntax, a simple encoding of tree structures, to encode the components of `X`, in a program `P`, parseable by a set of Parsers, `P0`.
- https://breckyunits.com/aGrammarNotationForTreeLanguages.html Parsers
+ https://breck7.github.io/breckyunits.com/aGrammarNotationForTreeLanguages.html Parsers
 3. We can then describe that set `P0` in a recursive series (`P1`, `P2`, ...).
 4. We can then stop at a desired level of abstraction (to get _Relative Complexity_), or continue until we reach irreducible trees (to get _Total Complexity_).
 5. We can use simple arithmetic to count the atomic components of our program and parsers and get complexity measurements for a system.
@@ -249,42 +249,42 @@ Related Posts
 Particle Chain: A New Kind of Blockchain
 ========================================
 09/01/2024
-https://breckyunits.com/particleChain.html
+https://breck7.github.io/breckyunits.com/particleChain.html
 
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
-https://breckyunits.com/eta.html
+https://breck7.github.io/breckyunits.com/eta.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breckyunits.com/intelligence.html
+https://breck7.github.io/breckyunits.com/intelligence.html
 
 PTCRI: An Equation about Syntax Potential
 =========================================
 05/31/2024
-https://breckyunits.com/ptcri.html
+https://breck7.github.io/breckyunits.com/ptcri.html
 
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
-https://breckyunits.com/scrollsets.html
+https://breck7.github.io/breckyunits.com/scrollsets.html
 
 Parsers: a language for making languages
 ========================================
 09/10/2017
-https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+https://breck7.github.io/breckyunits.com/aGrammarNotationForTreeLanguages.html
 
 Tree Notation: an antifragile program notation
 ==============================================
 06/21/2017
-https://breckyunits.com/treenotationPaper.html
+https://breck7.github.io/breckyunits.com/treenotationPaper.html
 
 A New Discovery in Computer Science: 2-Dimensional Programming Languages
 ========================================================================
 06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+https://breck7.github.io/breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

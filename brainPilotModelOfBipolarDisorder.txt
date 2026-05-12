@@ -5,10 +5,10 @@ February 20, 2024
 
 A lot of people, including me, are excited about an ambitious new research effort to see if bipolar disorder is best modeled as a mitochondrial disorder. I've started writing about it, and expect to write more about it in the future. But that's not what I'm writing about today.
  https://www.metabolicmind.org research effort
- https://breckyunits.com/bipolarKeto.html writing about it
+ https://breck7.github.io/breckyunits.com/bipolarKeto.html writing about it
 
 Today I want to explore a model of bipolar disorder that I've wondered about for a few years, after reading about Marvin Minsky's "Society of Mind" model of the brain. In the model I explore today, mania and depression are not the result of a chemical imbalance, nor the result of a metabolic disorder, but instead are two neural circuits that are learned over time and persist in the brain, whether active or not, like learned skills. This post explores the brain pilot model of bipolar disorder.
- https://breckyunits.com/marvin-minsky.html Marvin Minsky's "Society of Mind" model of the brain
+ https://breck7.github.io/breckyunits.com/marvin-minsky.html Marvin Minsky's "Society of Mind" model of the brain
 
 Brain Circuits
 ==============
@@ -21,7 +21,7 @@ To learn how to ride a bike, your body experiments with a lot of different circu
 Brain Pilots
 ============
 The circuits at the highest level, the ones that you might say experience consciousness, I call brain pilots. Brain pilots are neural circuits that compete against each other for root level control of a brain. You might say the brain pilot in control is the one that experiences consciousness. To a brain pilot, the well being of their host is not the primary measure of success. Instead, the primary measure of success is how long that brain pilot is in control.
- https://breckyunits.com/brain-pilots.html brain pilots
+ https://breck7.github.io/breckyunits.com/brain-pilots.html brain pilots
 
 Learning how to mania
 =====================

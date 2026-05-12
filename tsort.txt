@@ -37,7 +37,7 @@ A topologically sorted encyclopedia would also be _hard to vary_. Computational 
 When revolutionary new low-level scientific insights are discovered that refine our models, you could actually numerically see and measure the downstream impact of those breakthroughs.
 
 If you want to get the most bang for your bits, sort your ideas topologically.
- https://breckyunits.com/intelligence.html the most bang for your bits
+ https://breck7.github.io/breckyunits.com/intelligence.html the most bang for your bits
 
 What parts of the encyclopedia should you learn first?
 ======================================================
@@ -52,11 +52,11 @@ How would you create a topologically sorted encyclopedia?
 =========================================================
 
 I have been attempting to build a topologically sorted encyclopedia for a long time, though I had never described it like that. It's only recently when I realized I wanted to change Scroll to be topologically-sorted by default that I went looking for the definitive term to describe the concept.
- https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
+ https://breck7.github.io/breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html attempting to build
  https://scroll.pub Scroll
 
 I think using parsers all the way down might work, though I could be wrong. The nice thing about this strategy is that you can build stuff that is useful along the way even if the vision of the topological encyclopedia doesn't materialize.
- https://breckyunits.com/thinkingInParsers.html parsers all the way down
+ https://breck7.github.io/breckyunits.com/thinkingInParsers.html parsers all the way down
  https://pldb.io stuff that is useful
 
 *

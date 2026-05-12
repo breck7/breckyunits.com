@@ -4,9 +4,9 @@ If stories are lies why do they work?
 January 16, 2020
 
 I often rail against narratives. Stories always oversimplify things, have hindsight bias, and often mislead.
- https://breckyunits.com/narratives-misrepresent-complex-systems.html rail
- https://breckyunits.com/english-cannot-encode-real-news.html against
- https://breckyunits.com/dreaming-of-a-data-checked-language.html narratives
+ https://breck7.github.io/breckyunits.com/narratives-misrepresent-complex-systems.html rail
+ https://breck7.github.io/breckyunits.com/english-cannot-encode-real-news.html against
+ https://breck7.github.io/breckyunits.com/dreaming-of-a-data-checked-language.html narratives
 
 I spend a lot of time inventing tools for making data derived thinking as effortless as narrative thinking (so far, mostly in vain).
 
@@ -58,17 +58,17 @@ Related Posts
 Many Narratives. All true.
 ==========================
 06/13/2023
-https://breckyunits.com/many-narratives-all-true.html
+https://breck7.github.io/breckyunits.com/many-narratives-all-true.html
 
 English cannot encode Real News
 ===============================
 08/19/2019
-https://breckyunits.com/english-cannot-encode-real-news.html
+https://breck7.github.io/breckyunits.com/english-cannot-encode-real-news.html
 
 Narratives Misrepresent Complex Systems
 =======================================
 12/16/2012
-https://breckyunits.com/narratives-misrepresent-complex-systems.html
+https://breck7.github.io/breckyunits.com/narratives-misrepresent-complex-systems.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

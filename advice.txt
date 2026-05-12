@@ -60,7 +60,7 @@ Example
 =======
 
 In 2009 I wrote:
- https://breckyunits.com/twelve-tips-to-master-programming-faster.html I wrote
+ https://breck7.github.io/breckyunits.com/twelve-tips-to-master-programming-faster.html I wrote
 
 > 🥠 to master programming, it might take you 10,000 hours of being actively coding or thinking about coding.
 

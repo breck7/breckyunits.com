@@ -25,7 +25,7 @@ Think about a closed system prompt or fine-tuning stage. It is _extremely_ easy 
 How is an individual to protect themselves against Deceptive Intelligences?
 
 It seems to me like legalizing intellectual freedom and having powerful, fully open source, local AIs would help.
- https://breckyunits.com/freedom.html intellectual freedom
+ https://breck7.github.io/breckyunits.com/freedom.html intellectual freedom
 
 *
 

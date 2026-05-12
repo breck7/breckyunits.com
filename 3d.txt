@@ -40,7 +40,7 @@ When you turn your head, are you seeing new light rays or is the generator givin
 *
 
 These ideas are so far upstream they are probably unanswerable, so why think about it?
- https://breckyunits.com/upstream-of-everything.html upstream
+ https://breck7.github.io/breckyunits.com/upstream-of-everything.html upstream
 
 Well, I came across this talk while working on a new language for the 4D world.
 
@@ -53,22 +53,22 @@ For now I still strongly lean in favor of spacetime being real but at least I'm 
 Juggling Ideas
 ==============
 06/10/2025
-https://breckyunits.com/juggling.html
+https://breck7.github.io/breckyunits.com/juggling.html
 
 The Spherical Object Model
 ==========================
 05/25/2025
-https://breckyunits.com/som.html
+https://breck7.github.io/breckyunits.com/som.html
 
 Dreaming of a 4D Wikipedia
 ==========================
 05/15/2025
-https://breckyunits.com/fordDream.html
+https://breck7.github.io/breckyunits.com/fordDream.html
 
 Ford
 ====
 04/20/2025
-https://breckyunits.com/ford.html
+https://breck7.github.io/breckyunits.com/ford.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

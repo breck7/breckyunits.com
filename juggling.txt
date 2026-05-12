@@ -61,7 +61,7 @@ Concepts as Balls
 =================
 
 Lately I've been exploring a minimal universal 3D/4D language where all concepts are represented by balls.
- https://breckyunits.com/som.html exploring
+ https://breck7.github.io/breckyunits.com/som.html exploring
 
 A simple example is thinking of a water molecule as a ball containing 2 balls of hydrogen and 1 ball of oxygen.
 
@@ -116,22 +116,22 @@ Related posts
 The Spherical Object Model
 ==========================
 05/25/2025
-https://breckyunits.com/som.html
+https://breck7.github.io/breckyunits.com/som.html
 
 Dreaming of a 4D Wikipedia
 ==========================
 05/15/2025
-https://breckyunits.com/fordDream.html
+https://breck7.github.io/breckyunits.com/fordDream.html
 
 Does 3D exist?
 ==============
 05/06/2025
-https://breckyunits.com/3d.html
+https://breck7.github.io/breckyunits.com/3d.html
 
 Ford
 ====
 04/20/2025
-https://breckyunits.com/ford.html
+https://breck7.github.io/breckyunits.com/ford.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

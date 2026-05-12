@@ -124,7 +124,7 @@ The Parsers Programming Language
 Now let's combine the sections above by making a language of symbolic parsers about things we encounter in the physical world.
 
 First, we need to set some rules as to the membranes of our language - where do we draw the lines around the atomic units that we will parse? For this, we'll use Particle Syntax (aka Particles). Particles splits our writings into atoms (words), particles (lines), and subparticles (indented lines that belong to the "scope" of the parent line). The nice thing about Particles is that there is no visible syntax at all, and yet it gives us the building blocks to represent any kind of structure.
- https://breckyunits.com/whatIsParticles.html Particle Syntax
+ https://breck7.github.io/breckyunits.com/whatIsParticles.html Particle Syntax
 
 Now, imagine we wrote the lines below on a walk in the woods.
 
@@ -195,7 +195,7 @@ Wrapping Up
 ===========
 
 This was a brief introduction to my primary mode of thinking: "thinking in parsers". I've personally found this a universally useful way to think about the world. The great thing about it is it works for both understanding objects in the 4D world and also for objects in the symbolic world (including 2D math).
- https://breckyunits.com/mathematics.html 2D math
+ https://breck7.github.io/breckyunits.com/mathematics.html 2D math
 
 When I was younger I was overwhelmed by the amount of symbolic knowledge we have in our world. Now that I'm able to think in parsers, I find it all far less intimidating, because I know it's just a big list of parsers, and I can take it one parser at a time.
 

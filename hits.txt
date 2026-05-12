@@ -11,7 +11,7 @@ Even more importantly _to you_ and _to me_, at some point our mothers and father
 And since we were born, many people throughout our lives have had thoughts that had high positive impact on us.
 
 If you believe we live in a Power Law World, then it follows that there is nothing with higher expected value; nothing with more leverage; nothing with higher ROI; nothing with higher impact; than High Impact Thoughts (HITs).
- https://breckyunits.com/planets-and-pebbles.html Power Law World
+ https://breck7.github.io/breckyunits.com/planets-and-pebbles.html Power Law World
 
 HITs dominate both our professional and personal lives. Let's take a closer look.
 
@@ -32,7 +32,7 @@ What is the difference in magnitude between the lowest impact thought and the hi
 I have found it very hard to predict in advance what the impact of a HIT is going to be. I have to act on the HIT first.
 
 I am often off by many orders of magnitude. Sometimes I predict a thought is a surefire HIT but then after I act on it the predicted high impact is nowhere to be found. Instead the real impact is like that of a falling leaf.
- https://breckyunits.com/orders-of-magnitude.html orders of magnitude
+ https://breck7.github.io/breckyunits.com/orders-of-magnitude.html orders of magnitude
 
 Other times I see what seems like a small, mildly interesting idea, I act on it in minutes, and it impacts my life for decades.
 
@@ -68,7 +68,7 @@ What's the point of thinking about lowly HITs when *HITs!* dominate?
 I can think of five reasons.
 
 The first is that you don't know whether you've got a HIT until you act on it and get it past the payoff point. Focus and details matter. Nature does not care if you are _close_ to a HIT, you've got to get it all the way past the payoff point.
- https://breckyunits.com/focus.html past the payoff point
+ https://breck7.github.io/breckyunits.com/focus.html past the payoff point
 
 The second is that your brain needs data to generate HITs. You've got to balance experience with reflection. Too much reflection and your brain won't have enough data to generate novel HITs.
 
@@ -87,8 +87,8 @@ Alright, so if one believes in the strategic importance of HITs, but also unders
 The most important thing is probably to setup your life so you can spend a substantial amount of time HIT Seeking. I like to aim for 2 - 4 hours per day.
 
 What does HIT Seeking look like? Walks in the woods, meals with friends, yoga, naps, long hot showers, quiet sitting, conversations with LLMs, drawing, playing in the sand with your kids, doing at home experiments. That sort of thing. The highest impact work often doesn't look like work.
- https://breckyunits.com/walking-as-a-tool-of-thought.html Walks
- https://breckyunits.com/datasets.html at home experiments
+ https://breck7.github.io/breckyunits.com/walking-as-a-tool-of-thought.html Walks
+ https://breck7.github.io/breckyunits.com/datasets.html at home experiments
 
 Ask a lot of questions. Really drill down into the details. Don't worry much about words. Mental models—being able to picture things in your head, and rotate them—that is what matters.
 
@@ -107,42 +107,42 @@ Related Posts
 The Choice
 ==========
 05/27/2024
-https://breckyunits.com/meaning.html
+https://breck7.github.io/breckyunits.com/meaning.html
 
 The Tallest Tree
 ================
 05/07/2024
-https://breckyunits.com/theTallestTree.html
+https://breck7.github.io/breckyunits.com/theTallestTree.html
 
 Walking and other invisible tools of thought
 ============================================
 05/19/2023
-https://breckyunits.com/walking-as-a-tool-of-thought.html
+https://breck7.github.io/breckyunits.com/walking-as-a-tool-of-thought.html
 
 Logeracy
 ========
 04/26/2021
-https://breckyunits.com/logeracy.html
+https://breck7.github.io/breckyunits.com/logeracy.html
 
 Save Your Money for Great Values
 ================================
 02/16/2013
-https://breckyunits.com/save-your-money-for-great-values.html
+https://breck7.github.io/breckyunits.com/save-your-money-for-great-values.html
 
 Planets and Pebbles
 ===================
 11/26/2012
-https://breckyunits.com/planets-and-pebbles.html
+https://breck7.github.io/breckyunits.com/planets-and-pebbles.html
 
 Why it's worth it to buy the book
 =================================
 02/17/2010
-https://breckyunits.com/why-its-worth-it-to-buy-the-book.html
+https://breck7.github.io/breckyunits.com/why-its-worth-it-to-buy-the-book.html
 
 Orders of Magnitude
 ===================
 12/07/2009
-https://breckyunits.com/orders-of-magnitude.html
+https://breck7.github.io/breckyunits.com/orders-of-magnitude.html
 
 ⁂
 

@@ -22,7 +22,7 @@ Most posts above 7 hours of sleep do not need a sleep disclaimer. Most posts bel
 Interactive Table
 =================
 Static image of table above.
- https://breckyunits.com/seven-years-of-blog-posts-sorted-by-sleep.png Static image
+ https://breck7.github.io/breckyunits.com/seven-years-of-blog-posts-sorted-by-sleep.png Static image
 
 [Image Omitted]
 

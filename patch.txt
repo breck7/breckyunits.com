@@ -28,7 +28,7 @@ Becomes `countries=Canada=France&selection=France` (and vice versa).
 How to use
 ==========
 1. Include patch.js or just copy/paste the code:
- https://breckyunits.com/patch.js copy/paste the code
+ https://breck7.github.io/breckyunits.com/patch.js copy/paste the code
 
 ```
 <script src="patch.js"></script>
@@ -139,7 +139,7 @@ Some benefits of Patch
 Live examples of Patch
 ======================
 - This blog
- https://breckyunits.com/search.html#q=patch This blog
+ https://breck7.github.io/breckyunits.com/search.html#q=patch This blog
 - PLDB
  https://pldb.io/lists/explorer.html#columns=rank~name~id~appeared~tags~creators~blog PLDB
 

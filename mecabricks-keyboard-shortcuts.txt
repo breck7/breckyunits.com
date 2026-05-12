@@ -100,7 +100,7 @@ Combo|Command
 Del or Bak|Delete selected nodes
 
 As Printable Image
- https://breckyunits.com/mecabricks-keyboard-shortcuts.png As Printable Image
+ https://breck7.github.io/breckyunits.com/mecabricks-keyboard-shortcuts.png As Printable Image
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

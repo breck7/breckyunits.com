@@ -55,7 +55,7 @@ Particle Thinking Pays Compound Interest
 What's so good about this approach?
 
 Learning is programming except instead of creating functions in code you are creating functions in neurons. Like programming, a poorly created function can be vastly slower than a well crafted one. Evaluating mental functions takes time and requires energy. If your neural functions are wasteful you will compute slower, miss optimal thoughts, and waste a lot of ATP.
- https://breckyunits.com/bigOsKitchen.html a poorly created function can be vastly slower than a well crafted one
+ https://breck7.github.io/breckyunits.com/bigOsKitchen.html a poorly created function can be vastly slower than a well crafted one
 
 If instead, you refine your thinking to where you understand exactly what concepts are necessary and what are not, you will think faster, come up with better ideas, and have more ATP to spend on enjoying life.
 

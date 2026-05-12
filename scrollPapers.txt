@@ -3,123 +3,123 @@ Breck's Blog - Scroll Papers Posts
 
 Breck's Blog - Writing Posts
 ============================
-05/11/2026
-https://breckyunits.com/writing.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-05/11/2026
-https://breckyunits.com/treeNotation.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-05/11/2026
-https://breckyunits.com/thinking.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-05/11/2026
-https://breckyunits.com/startups.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-05/11/2026
-https://breckyunits.com/society.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/society.html
 
 Breck's Blog - Concise Index
 ============================
-05/11/2026
-https://breckyunits.com/short.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/short.html
 
 Search Breck's Blog
 ===================
-05/11/2026
-https://breckyunits.com/search.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/search.html
 
 Breck's Blog - Science Posts
 ============================
-05/11/2026
-https://breckyunits.com/sciencePage.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/sciencePage.html
 
 Breck's Blog - Programming Posts
 ================================
-05/11/2026
-https://breckyunits.com/programming.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/programming.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-05/11/2026
-https://breckyunits.com/mitochondria.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-05/11/2026
-https://breckyunits.com/life.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/life.html
 
 Breck's Blog - All Posts
 ========================
-05/11/2026
-https://breckyunits.com/index.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-05/11/2026
-https://breckyunits.com/freedom.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-05/11/2026
-https://breckyunits.com/fiction.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-05/11/2026
-https://breckyunits.com/data.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/data.html
 
 Particle Chain: A New Kind of Blockchain
 ========================================
 09/01/2024
-https://breckyunits.com/particleChain.html
+https://breck7.github.io/breckyunits.com/particleChain.html
 
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
-https://breckyunits.com/eta.html
+https://breck7.github.io/breckyunits.com/eta.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breckyunits.com/intelligence.html
+https://breck7.github.io/breckyunits.com/intelligence.html
 
 PTCRI: An Equation about Syntax Potential
 =========================================
 05/31/2024
-https://breckyunits.com/ptcri.html
+https://breck7.github.io/breckyunits.com/ptcri.html
 
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
-https://breckyunits.com/scrollsets.html
+https://breck7.github.io/breckyunits.com/scrollsets.html
 
 PC: Particle Complexity
 =======================
 12/20/2017
-https://breckyunits.com/countingComplexity.html
+https://breck7.github.io/breckyunits.com/countingComplexity.html
 
 Parsers: a language for making languages
 ========================================
 09/10/2017
-https://breckyunits.com/aGrammarNotationForTreeLanguages.html
+https://breck7.github.io/breckyunits.com/aGrammarNotationForTreeLanguages.html
 
 Tree Notation: an antifragile program notation
 ==============================================
 06/21/2017
-https://breckyunits.com/treenotationPaper.html
+https://breck7.github.io/breckyunits.com/treenotationPaper.html
 
 A New Discovery in Computer Science: 2-Dimensional Programming Languages
 ========================================================================
 06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+https://breck7.github.io/breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

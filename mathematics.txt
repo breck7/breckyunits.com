@@ -5,7 +5,7 @@ by Breck Yunits
 February 23, 2025
 
 As single page PDF
- https://breckyunits.com/mathematics.pdf As single page PDF
+ https://breck7.github.io/breckyunits.com/mathematics.pdf As single page PDF
 
 Introduction
 ============
@@ -18,7 +18,7 @@ Mathematics, the written language
 =================================
 
 I aim to explain the essential concepts of the Mathematics humans write on rectangular surfaces. In other words, I'm limiting my scope to talk about _2D written mathematics_ only. Even math implented as computer programs (Mathematica, for example) is out of scope, as I've already examined thosein earlier work.
- https://breckyunits.com/treeNotation.html earlier work
+ https://breck7.github.io/breckyunits.com/treeNotation.html earlier work
 
 My claims are limited to that scope, though you may find these concepts useful beyond this.
 

@@ -16,7 +16,7 @@ We include a Visual Abstract to succinctly display the problem and discovery. Th
 
 [Image Omitted]
  Figure 1. This Visual Abstract explains the core idea of the paper. This diagram is also the output of a program written in a new Tree Language called Flow.
-  https://breckyunits.com/diagram.flow program
+  https://breck7.github.io/breckyunits.com/diagram.flow program
 
 The Problem
 ===========

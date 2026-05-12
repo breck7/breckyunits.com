@@ -3,7 +3,7 @@ BlobParser,16362
 blankLineParser,14985
 catchAllParagraphParser,6007
 scrollImportedParser,2263
-slashCommentParser,1556
+slashCommentParser,1893
 quickLinkParser,1501
 scrollBrParser,1032
 h1Parser,820

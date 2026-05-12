@@ -4,10 +4,10 @@ Many Narratives. All true.
 June 13, 2023
 
 I often write about the unreliability of narratives. It is even worse than I thought. Trying to write a narrative of one's own life in the traditional way is impossible. I am writing a narrative of my past year and realized while there is a single thread about *where* my body was and *what* I was doing there are _multiple_ independent threads explaining the *why*.
- https://breckyunits.com/if-stories-are-lies-why-do-they-work.html unreliability of narratives
+ https://breck7.github.io/breckyunits.com/if-stories-are-lies-why-do-they-work.html unreliability of narratives
 
 Luckily I now know this is what the science predicts! Specifically, Marvin Minsky's Society of Mind model.
- https://breckyunits.com/marvin-minsky.html Society of Mind model
+ https://breck7.github.io/breckyunits.com/marvin-minsky.html Society of Mind model
 
 The Model
 =========
@@ -56,17 +56,17 @@ Related Posts
 If stories are lies why do they work?
 =====================================
 01/16/2020
-https://breckyunits.com/if-stories-are-lies-why-do-they-work.html
+https://breck7.github.io/breckyunits.com/if-stories-are-lies-why-do-they-work.html
 
 English cannot encode Real News
 ===============================
 08/19/2019
-https://breckyunits.com/english-cannot-encode-real-news.html
+https://breck7.github.io/breckyunits.com/english-cannot-encode-real-news.html
 
 Narratives Misrepresent Complex Systems
 =======================================
 12/16/2012
-https://breckyunits.com/narratives-misrepresent-complex-systems.html
+https://breck7.github.io/breckyunits.com/narratives-misrepresent-complex-systems.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

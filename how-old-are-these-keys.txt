@@ -2,16 +2,16 @@ How Old Are These Keys? Five Eras of Human Progress
 ===================================================
 
 [Image Omitted]
- https://breckyunits.com/keyboard/index.html undefined
+ https://breck7.github.io/breckyunits.com/keyboard/index.html undefined
  My keyboard, if you removed the symbols from the typewriter and computer eras. Try it yourself.
-  https://breckyunits.com/keyboard/index.html Try it yourself
+  https://breck7.github.io/breckyunits.com/keyboard/index.html Try it yourself
 
 February 25, 2020
 
 One of the questions I often come back to is this: how much of our collective wealth is inherited by our generation versus created by our generation?
 
 I realized that the keys on the keyboard in front of me might make a good dataset to attack that problem. So I built a small interactive experiment to explore the history of the keys on my keyboard.
- https://breckyunits.com/keyboard/index.html interactive experiment
+ https://breck7.github.io/breckyunits.com/keyboard/index.html interactive experiment
 
 *
 

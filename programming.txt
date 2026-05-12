@@ -3,423 +3,423 @@ Breck's Blog - Programming Posts
 
 Breck's Blog - Writing Posts
 ============================
-05/11/2026
-https://breckyunits.com/writing.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/writing.html
 
 Breck's Blog - Scroll Posts
 ===========================
-05/11/2026
-https://breckyunits.com/treeNotation.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/treeNotation.html
 
 Breck's Blog - Thinking Posts
 =============================
-05/11/2026
-https://breckyunits.com/thinking.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/thinking.html
 
 Breck's Blog - Startups Posts
 =============================
-05/11/2026
-https://breckyunits.com/startups.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/startups.html
 
 Breck's Blog - Society Posts
 ============================
-05/11/2026
-https://breckyunits.com/society.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/society.html
 
 Breck's Blog - Concise Index
 ============================
-05/11/2026
-https://breckyunits.com/short.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/short.html
 
 Search Breck's Blog
 ===================
-05/11/2026
-https://breckyunits.com/search.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/search.html
 
 Breck's Blog - Scroll Papers Posts
 ==================================
-05/11/2026
-https://breckyunits.com/scrollPapers.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/scrollPapers.html
 
 Breck's Blog - Science Posts
 ============================
-05/11/2026
-https://breckyunits.com/sciencePage.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/sciencePage.html
 
 Breck's Blog - Mitochondria Posts
 =================================
-05/11/2026
-https://breckyunits.com/mitochondria.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/mitochondria.html
 
 Breck's Blog - Life Posts
 =========================
-05/11/2026
-https://breckyunits.com/life.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/life.html
 
 Breck's Blog - All Posts
 ========================
-05/11/2026
-https://breckyunits.com/index.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/index.html
 
 Breck's Blog - Intellectual Freedom Posts
 =========================================
-05/11/2026
-https://breckyunits.com/freedom.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/freedom.html
 
 Breck's Blog - Fiction Posts
 ============================
-05/11/2026
-https://breckyunits.com/fiction.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/fiction.html
 
 Breck's Blog - Data Posts
 =========================
-05/11/2026
-https://breckyunits.com/data.html
+05/12/2026
+https://breck7.github.io/breckyunits.com/data.html
 
 The Internal Comparison Trap
 ============================
 04/22/2025
-https://breckyunits.com/improvement.html
+https://breck7.github.io/breckyunits.com/improvement.html
 
 The Lisp Enlightenment Trap
 ===========================
 04/05/2025
-https://breckyunits.com/lispet.html
+https://breck7.github.io/breckyunits.com/lispet.html
 
 What Science May Be
 ===================
 04/03/2025
-https://breckyunits.com/science.html
+https://breck7.github.io/breckyunits.com/science.html
 
 The Greatest Prompt in the World
 ================================
 01/22/2025
-https://breckyunits.com/greatestPrompt.html
+https://breck7.github.io/breckyunits.com/greatestPrompt.html
 
 sf: instant scratch folders
 ===========================
 10/19/2024
-https://breckyunits.com/sf.html
+https://breck7.github.io/breckyunits.com/sf.html
 
 Microprogramming: A New Way to Program
 ======================================
 09/24/2024
-https://breckyunits.com/microprograms.html
+https://breck7.github.io/breckyunits.com/microprograms.html
 
 Particle Chain: A New Kind of Blockchain
 ========================================
 09/01/2024
-https://breckyunits.com/particleChain.html
+https://breck7.github.io/breckyunits.com/particleChain.html
 
 ETA!: A Measure of Evolution
 ============================
 07/18/2024
-https://breckyunits.com/eta.html
+https://breck7.github.io/breckyunits.com/eta.html
 
 The World Wide Scroll
 =====================
 06/12/2024
-https://breckyunits.com/wws.html
+https://breck7.github.io/breckyunits.com/wws.html
 
 Download this Blog
 ==================
 06/11/2024
-https://breckyunits.com/download.html
+https://breck7.github.io/breckyunits.com/download.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breckyunits.com/intelligence.html
+https://breck7.github.io/breckyunits.com/intelligence.html
 
 PTCRI: An Equation about Syntax Potential
 =========================================
 05/31/2024
-https://breckyunits.com/ptcri.html
+https://breck7.github.io/breckyunits.com/ptcri.html
 
 Patch: a micro language to make pretty deep links easy
 ======================================================
 05/27/2024
-https://breckyunits.com/patch.html
+https://breck7.github.io/breckyunits.com/patch.html
 
 Breck's Lab
 ===========
 05/27/2024
-https://breckyunits.com/lab.html
+https://breck7.github.io/breckyunits.com/lab.html
 
 Bring back RadioShack?
 ======================
 05/26/2024
-https://breckyunits.com/radioShack.html
+https://breck7.github.io/breckyunits.com/radioShack.html
 
 What can we learn from programming language version numbers?
 ============================================================
 05/25/2024
-https://breckyunits.com/versionNumbers.html
+https://breck7.github.io/breckyunits.com/versionNumbers.html
 
 Abort Bars
 ==========
 05/24/2024
-https://breckyunits.com/abortBar.html
+https://breck7.github.io/breckyunits.com/abortBar.html
 
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
-https://breckyunits.com/scrollsets.html
+https://breck7.github.io/breckyunits.com/scrollsets.html
 
 Corporate Email
 ===============
 05/12/2024
-https://breckyunits.com/corporateEmail.html
+https://breck7.github.io/breckyunits.com/corporateEmail.html
 
 Hot Coffee
 ==========
 04/23/2024
-https://breckyunits.com/datasets.html
+https://breck7.github.io/breckyunits.com/datasets.html
 
 Big O's Kitchen
 ===============
 04/23/2024
-https://breckyunits.com/bigOsKitchen.html
+https://breck7.github.io/breckyunits.com/bigOsKitchen.html
 
 Final Tree Notation Report
 ==========================
 04/02/2024
-https://breckyunits.com/treeNotationFinalReport.html
+https://breck7.github.io/breckyunits.com/treeNotationFinalReport.html
 
 A Different Kind of Mindmap
 ===========================
 02/24/2024
-https://breckyunits.com/mindmap.html
+https://breck7.github.io/breckyunits.com/mindmap.html
 
 Synthesizing Knowledge
 ======================
 02/21/2024
-https://breckyunits.com/synthesizingKnowledge.html
+https://breck7.github.io/breckyunits.com/synthesizingKnowledge.html
 
 Words are Worse than Weights
 ============================
 01/12/2024
-https://breckyunits.com/wordsAreWorseThanWeights.html
+https://breck7.github.io/breckyunits.com/wordsAreWorseThanWeights.html
 
 Could in vitro brains power AI?
 ===============================
 01/01/2024
-https://breckyunits.com/couldInVitroBrainsPowerAI.html
+https://breck7.github.io/breckyunits.com/couldInVitroBrainsPowerAI.html
 
 I thought we could build AI experts by hand
 ===========================================
 12/28/2023
-https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
+https://breck7.github.io/breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
 
 A Proposal to Solve Government Forms Worldwide, Forever
 =======================================================
 06/16/2023
-https://breckyunits.com/a-proposal-on-government-forms.html
+https://breck7.github.io/breckyunits.com/a-proposal-on-government-forms.html
 
 Use the Spine
 =============
 01/03/2023
-https://breckyunits.com/useTheSpine.html
+https://breck7.github.io/breckyunits.com/useTheSpine.html
 
 One Textarea
 ============
 12/30/2022
-https://breckyunits.com/oneTextarea.html
+https://breck7.github.io/breckyunits.com/oneTextarea.html
 
 Root Thinking
 =============
 11/16/2022
-https://breckyunits.com/root-thinking.html
+https://breck7.github.io/breckyunits.com/root-thinking.html
 
 Replies always welcome
 ======================
 11/14/2022
-https://breckyunits.com/replies-always-welcome.html
+https://breck7.github.io/breckyunits.com/replies-always-welcome.html
 
 The Three Byte Fix
 ==================
 06/09/2022
-https://breckyunits.com/ckmeans.html
+https://breck7.github.io/breckyunits.com/ckmeans.html
 
 Aftertext
 =========
 12/15/2021
-https://breckyunits.com/aftertext.html
+https://breck7.github.io/breckyunits.com/aftertext.html
 
 User Methods
 ============
 08/11/2021
-https://breckyunits.com/user-methods.html
+https://breck7.github.io/breckyunits.com/user-methods.html
 
 Scroll Beta
 ===========
 02/22/2021
-https://breckyunits.com/scroll-beta.html
+https://breck7.github.io/breckyunits.com/scroll-beta.html
 
 2019 Tree Notation Annual Report
 ================================
 12/09/2020
-https://breckyunits.com/tree-notation-annual-report-2019.html
+https://breck7.github.io/breckyunits.com/tree-notation-annual-report-2019.html
 
 Building a TreeBase with 6.5 million files
 ==========================================
 01/29/2020
-https://breckyunits.com/building-a-treebase-with-6.5-million-files.html
+https://breck7.github.io/breckyunits.com/building-a-treebase-with-6.5-million-files.html
 
 Type the World
 ==============
 01/20/2020
-https://breckyunits.com/type-the-world.html
+https://breck7.github.io/breckyunits.com/type-the-world.html
 
 Dreaming of a Logic Checked Language
 ====================================
 01/03/2020
-https://breckyunits.com/dreaming-of-a-data-checked-language.html
+https://breck7.github.io/breckyunits.com/dreaming-of-a-data-checked-language.html
 
 30,000 Hours
 ============
 07/18/2019
-https://breckyunits.com/30000hours.html
+https://breck7.github.io/breckyunits.com/30000hours.html
 
 Removing the 2’s from Trinary Notation is a Terrible Idea.
 ==========================================================
 07/14/2019
-https://breckyunits.com/trinary.html
+https://breck7.github.io/breckyunits.com/trinary.html
 
 Ohayo
 =====
 06/23/2017
-https://breckyunits.com/ohayo.html
+https://breck7.github.io/breckyunits.com/ohayo.html
 
 A New Discovery in Computer Science: 2-Dimensional Programming Languages
 ========================================================================
 06/21/2017
-https://breckyunits.com/show-hn-programming-is-now-two-dimensional.html
+https://breck7.github.io/breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 
 Big Data Notation
 =================
 09/24/2013
-https://breckyunits.com/big-data-notation.html
+https://breck7.github.io/breckyunits.com/big-data-notation.html
 
 NudgePad: An IDE in Your Browser
 ================================
 09/23/2013
-https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
+https://breck7.github.io/breckyunits.com/nudgepad-an-ide-in-your-browser.html
 
 ScrollNet: A successor to the Internet
 ======================================
 06/02/2013
-https://breckyunits.com/scrollnet.html
+https://breck7.github.io/breckyunits.com/scrollnet.html
 
 Software Should Save People Time
 ================================
 04/02/2013
-https://breckyunits.com/software-should-save-people-time.html
+https://breck7.github.io/breckyunits.com/software-should-save-people-time.html
 
 Why 10,000 hours?
 =================
 03/30/2013
-https://breckyunits.com/why-10000-hours.html
+https://breck7.github.io/breckyunits.com/why-10000-hours.html
 
 Minor Epiphanies
 ================
 03/16/2013
-https://breckyunits.com/minor-epiphanies.html
+https://breck7.github.io/breckyunits.com/minor-epiphanies.html
 
 Introducing Note
 ================
 12/14/2012
-https://breckyunits.com/introducing-note.html
+https://breck7.github.io/breckyunits.com/introducing-note.html
 
 Setplicity
 ==========
 11/20/2012
-https://breckyunits.com/setplicity.html
+https://breck7.github.io/breckyunits.com/setplicity.html
 
 Naming Things
 =============
 10/20/2012
-https://breckyunits.com/naming-things.html
+https://breck7.github.io/breckyunits.com/naming-things.html
 
 What can a Programmer learn from Rock Climbing?
 ===============================================
 03/30/2011
-https://breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html
+https://breck7.github.io/breckyunits.com/what-can-a-programmer-learn-from-rock-climbing.html
 
 Ruby
 ====
 08/25/2010
-https://breckyunits.com/ruby.html
+https://breck7.github.io/breckyunits.com/ruby.html
 
 Design Matters. A lot.
 ======================
 07/02/2010
-https://breckyunits.com/design-matters-a-lot.html
+https://breck7.github.io/breckyunits.com/design-matters-a-lot.html
 
 The Churn Rate of Data
 ======================
 06/15/2010
-https://breckyunits.com/the-churn-rate-of-data.html
+https://breck7.github.io/breckyunits.com/the-churn-rate-of-data.html
 
 The Hidden Benefits of Automation
 =================================
 03/17/2010
-https://breckyunits.com/the-hidden-benefits-of-automation.html
+https://breck7.github.io/breckyunits.com/the-hidden-benefits-of-automation.html
 
 Metrics for Programmers
 =======================
 03/16/2010
-https://breckyunits.com/metrics-for-programmers.html
+https://breck7.github.io/breckyunits.com/metrics-for-programmers.html
 
 HackerNews Data: Visits as a Function of Karma
 ==============================================
 03/08/2010
-https://breckyunits.com/hackernews-data-visits-as-a-function-of-karma.html
+https://breck7.github.io/breckyunits.com/hackernews-data-visits-as-a-function-of-karma.html
 
 With Computers: Don't Repeat Yourself. With People: DO Repeat Yourself
 ======================================================================
 01/15/2010
-https://breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html
+https://breck7.github.io/breckyunits.com/with-computers-dont-repeat-yourself-with-people-do-repeat-yourself.html
 
 Problems Worth Solving
 ======================
 12/20/2009
-https://breckyunits.com/problems-worth-solving.html
+https://breck7.github.io/breckyunits.com/problems-worth-solving.html
 
 SEO Made Easy: LUMPS
 ====================
 12/15/2009
-https://breckyunits.com/seo-made-easy-lumps.html
+https://breck7.github.io/breckyunits.com/seo-made-easy-lumps.html
 
 Don't Flip the Bit
 ==================
 12/13/2009
-https://breckyunits.com/dont-flip-the-bozo-bit.html
+https://breck7.github.io/breckyunits.com/dont-flip-the-bozo-bit.html
 
 (un)features
 ============
 12/11/2009
-https://breckyunits.com/unfeatures.html
+https://breck7.github.io/breckyunits.com/unfeatures.html
 
 6 Specific Ways to Find Programming Mentors
 ===========================================
 12/08/2009
-https://breckyunits.com/6-specific-ways-to-find-programming-mentors.html
+https://breck7.github.io/breckyunits.com/6-specific-ways-to-find-programming-mentors.html
 
 Twelve Tips to Master Programming Faster
 ========================================
 12/04/2009
-https://breckyunits.com/twelve-tips-to-master-programming-faster.html
+https://breck7.github.io/breckyunits.com/twelve-tips-to-master-programming-faster.html
 
 The Truth about Web Design
 ==========================
 04/14/2009
-https://breckyunits.com/the-truth-about-web-design.html
+https://breck7.github.io/breckyunits.com/the-truth-about-web-design.html
 
 Learning How to Program Part I
 ==============================
 08/28/2007
-https://breckyunits.com/learning-how-to-program-part-i.html
+https://breck7.github.io/breckyunits.com/learning-how-to-program-part-i.html
 
 Follow me on X
  https://twitter.com/breckyunits Follow me on X

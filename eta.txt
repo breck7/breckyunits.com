@@ -5,8 +5,8 @@ by Breck Yunits
 July 18, 2024
 
 HTML | TXT
- https://breckyunits.com/eta.html HTML
- https://breckyunits.com/eta.txt TXT
+ https://breck7.github.io/breckyunits.com/eta.html HTML
+ https://breck7.github.io/breckyunits.com/eta.txt TXT
 
 Are some intellectual environments better than others? Yes.
 

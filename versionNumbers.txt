@@ -26,7 +26,7 @@ In particular, I followed his advice in Major Version Numbers are Not Sacred.
 Pushing so many major versions was no big deal because Scroll was a toy.
 
 But Scroll now has a novel feature that makes it very useful.
- https://breckyunits.com/scrollsets.html novel feature
+ https://breck7.github.io/breckyunits.com/scrollsets.html novel feature
 
 I need to decide if I should ship fewer major versions with higher quality.
 

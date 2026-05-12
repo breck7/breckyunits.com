@@ -81,7 +81,7 @@ Helpful Links for Population Statistics(beyond wikipedia):
 - US Census Bureau Historical Stats
  https://census.gov/ipc/www/worldhis.html US Census Bureau Historical Stats
 - Human population by year rough approximation
- https://breckyunits.com/population.html Human population by year rough approximation
+ https://breck7.github.io/breckyunits.com/population.html Human population by year rough approximation
 - NationMaster.com
  https://nationmaster.com NationMaster.com
 

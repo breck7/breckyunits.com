@@ -102,7 +102,7 @@ That might be because:
 *
 
 It does seem like the process of finding the right formula is not so hard, once the right data has been collected.
- https://breckyunits.com/datasets.html right data has been collected
+ https://breck7.github.io/breckyunits.com/datasets.html right data has been collected
 
 *
 

@@ -11,7 +11,7 @@ But the number of experiments one can do is vast, with some being far more infor
 Thus, the most valuable symbols are the ones that guide one to conduct the most useful experiments.
 
 Lately I've been figuring out how to put all of science into one file. I think the file would largely be experiment after experiment after experiment. Each one, the near minimum number of symbols to communicate the easiest experiment that can be done to cause learning the next most useful set of patterns about the world.
- https://breckyunits.com/science.html put all of science into one file
+ https://breck7.github.io/breckyunits.com/science.html put all of science into one file
 
 ⁂
 

@@ -9,7 +9,7 @@ May 12, 2021
 If you've thought deeply about copyrights and patents, you've probably figured out that they are bad for progress and deeply unjust. This post is for you.
 
 (If you are new to this issues, you might be more interested in my other posts on Intellectual Freedom)
- https://breckyunits.com/freedom.html Intellectual Freedom
+ https://breck7.github.io/breckyunits.com/freedom.html Intellectual Freedom
 
 *
 
@@ -36,7 +36,7 @@ I am not 100% certain that if we abolished copyright and patent systems the worl
 It would be intellectually dishonest of me to say that. I am always open to intelligent experiments that would show otherwise.
 
 But at this point I am _99% confident_ it would be the single most massive positive improvement we can make in our world, based on empirical evidence and theoretical math.
- https://breckyunits.com/eta.html theoretical math
+ https://breck7.github.io/breckyunits.com/eta.html theoretical math
  https://cds.cern.ch/record/1164399/ empirical evidence
 
 It would take a lot of thought to do it right, but I know we could pull the transition off without as much disruption as people fear.

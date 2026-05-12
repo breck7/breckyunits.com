@@ -9,8 +9,8 @@ by Breck Yunits
 September 1, 2024
 
 HTML | TXT
- https://breckyunits.com/particleChain.html HTML
- https://breckyunits.com/particleChain.txt TXT
+ https://breck7.github.io/breckyunits.com/particleChain.html HTML
+ https://breck7.github.io/breckyunits.com/particleChain.txt TXT
 
 Is there a better way to build a blockchain? Yes.
 

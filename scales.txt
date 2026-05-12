@@ -18,7 +18,7 @@ But this post does contain some lines that are scaled. For example, it has a dat
 
 Scroll, the language and software that powers this blog, does compute some scaled metrics on each post. The number of words, for example. You can see the number of words for this post and all others on the search page.
  https://scroll.pub Scroll
- https://breckyunits.com/search.html search page
+ https://breck7.github.io/breckyunits.com/search.html search page
 
 *
 
@@ -38,12 +38,12 @@ The more scales you use, the more sophisticated your symbolic models become. You
 *
 
 One of the most important scales is the computational complexity scale.
- https://breckyunits.com/bigOsKitchen.html computational complexity scale
+ https://breck7.github.io/breckyunits.com/bigOsKitchen.html computational complexity scale
 
 *
 
 Nature loves inequality, the size scale of our universe is vast with ~65 orders of magnitude buckets, and so rarely do 2 random things fall in the same bucket.
- https://breckyunits.com/orders-of-magnitude.html orders of magnitude
+ https://breck7.github.io/breckyunits.com/orders-of-magnitude.html orders of magnitude
 
 *
 
@@ -64,19 +64,19 @@ To be fair, the infoboxes on Wikipedia are scaled data. The syntax is nasty, but
 *
 
 The more scales you have, the more trustworthy a model is.
- https://breckyunits.com/trust.html trustworthy
+ https://breck7.github.io/breckyunits.com/trust.html trustworthy
 
 *
 
 I often think about complexity scales. I proposed if you think in parsers you can measure the complexity of any idea. Perhaps the "parser" is a good unit for a complexity scale. If two models of the world are equally intelligent, pick the less complex one - the one with fewer parsers.
- https://breckyunits.com/thinkingInParsers.html think in parsers
- https://breckyunits.com/countingComplexity.html measure the complexity of any idea
- https://breckyunits.com/intelligence.html intelligent
+ https://breck7.github.io/breckyunits.com/thinkingInParsers.html think in parsers
+ https://breck7.github.io/breckyunits.com/countingComplexity.html measure the complexity of any idea
+ https://breck7.github.io/breckyunits.com/intelligence.html intelligent
 
 *
 
 I don't have anything too profound to say about scales. (On the impact scale, this post ranks low.)
- https://breckyunits.com/hits.html impact scale
+ https://breck7.github.io/breckyunits.com/hits.html impact scale
 
 I just want to make sure I am deliberately thinking enough about them. If you measure concepts on an importance scale, they are high on the list.
 
@@ -87,72 +87,72 @@ Related Posts
 The Infosphere
 ==============
 04/19/2025
-https://breckyunits.com/infosphere.html
+https://breck7.github.io/breckyunits.com/infosphere.html
 
 Experiments
 ===========
 04/15/2025
-https://breckyunits.com/experiments.html
+https://breck7.github.io/breckyunits.com/experiments.html
 
 Pretext
 =======
 04/14/2025
-https://breckyunits.com/pretext.html
+https://breck7.github.io/breckyunits.com/pretext.html
 
 What Science May Be
 ===================
 04/03/2025
-https://breckyunits.com/science.html
+https://breck7.github.io/breckyunits.com/science.html
 
 Topological Sorting
 ===================
 03/05/2025
-https://breckyunits.com/tsort.html
+https://breck7.github.io/breckyunits.com/tsort.html
 
 Thinking in Parsers
 ===================
 03/03/2025
-https://breckyunits.com/thinkingInParsers.html
+https://breck7.github.io/breckyunits.com/thinkingInParsers.html
 
 ICS: A Measure of Intelligence
 ==============================
 06/06/2024
-https://breckyunits.com/intelligence.html
+https://breck7.github.io/breckyunits.com/intelligence.html
 
 ScrollSets: A New Way to Store Knowledge
 ========================================
 05/21/2024
-https://breckyunits.com/scrollsets.html
+https://breck7.github.io/breckyunits.com/scrollsets.html
 
 Marks
 =====
 05/11/2024
-https://breckyunits.com/marks.html
+https://breck7.github.io/breckyunits.com/marks.html
 
 Hot Coffee
 ==========
 04/23/2024
-https://breckyunits.com/datasets.html
+https://breck7.github.io/breckyunits.com/datasets.html
 
 The Box Method of Science
 =========================
 03/30/2024
-https://breckyunits.com/boxMethod.html
+https://breck7.github.io/breckyunits.com/boxMethod.html
 
 I thought we could build AI experts by hand
 ===========================================
 12/28/2023
-https://breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
+https://breck7.github.io/breckyunits.com/iThoughtWeCouldBuildAIExpertsByHand.html
 
 Type the World
 ==============
 01/20/2020
-https://breckyunits.com/type-the-world.html
+https://breck7.github.io/breckyunits.com/type-the-world.html
 
 PC: Particle Complexity
 =======================
 12/20/2017
-https://breckyunits.com/countingComplexity.html
+https://breck7.github.io/breckyunits.com/countingComplexity.html
 
 ⁂
 

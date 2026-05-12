@@ -188,7 +188,7 @@ I told you they were tiny.
 Of course, the amount of ketones in my blood at any one moment is not the same as the amount of ketones my liver is producing. I mean, the purpose of ketones aren't to circulate in the blood but to be consumed by cells.
 
 We measure ketones in the blood, because that's the easiest place to measure them, but they are in other places too, like your cerebral spinal fluid, sweat, urine, and 💩.
- https://breckyunits.com/ketones/felby2007.pdf in other places
+ https://breck7.github.io/breckyunits.com/ketones/felby2007.pdf in other places
 
 Estimates vary on how many ketones my body would produce in a day while in ketosis, but 100 grams of ketones per day seems to be a decent ballpark, which amounts to around one mole of ketons (1,000 millimoles), which, if we wanted to visualize it, would be about the size of 200 blueberries:
 
@@ -237,7 +237,7 @@ When a lithium ion enters a cell, it may hang around for quite a bit, but eventu
 Like ketones, your body excretes lithium in your urine and sweat. (Sidenote: Unlike ketones, humans have not evolved a smell sensitivity to lithium).
 
 Another lithium test a lab can do is called an RBC test. This test measures the levels of lithium ions that have entered your cells (red blood cells specifically). To perform this test, your red blood cells are first separated from your blood plasma, then they are lysed (split open) so their contents can be measured. It seems lithium levels in blood plasma spike quickly after ingestion, then decrease quickly, but levels change more slowly in other places, like red blood cells, neurons, and CSF (Cerebrospinal fluid).
- https://breckyunits.com/ketones/white1979.pdf It seems
+ https://breck7.github.io/breckyunits.com/ketones/white1979.pdf It seems
  https://en.wikipedia.org/wiki/Lysis lysed
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1668326/pdf/brjpharm00429-0107.pdf CSF
  https://en.wikipedia.org/wiki/Cerebrospinal_fluid Cerebrospinal fluid
@@ -321,7 +321,7 @@ I was thrilled to find this information on Wikipedia, but still it seemed like a
  https://hmdb.ca/about team
 
 Finally I had enough raw material to start building my first structured, clean, tabular dataset to answer my question. It was a bit of data cleaning grunt work, and v1 is pretty ugly and I'm sure is packed with loads of errors, but finally I had a dataset of the reference levels for around 240 chemicals found in human blood.
- https://breckyunits.com/ketones/chemicalBloodTests.html dataset of the reference levels for around 240 chemicals found in human blood
+ https://breck7.github.io/breckyunits.com/ketones/chemicalBloodTests.html dataset of the reference levels for around 240 chemicals found in human blood
 
 So now I can finally answer: one millimole, what are the odds?
 
