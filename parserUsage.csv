@@ -4,13 +4,13 @@ blankLineParser,14985
 catchAllParagraphParser,6007
 scrollImportedParser,2263
 slashCommentParser,1893
-quickLinkParser,1501
+quickLinkParser,1502
 scrollBrParser,1032
 h1Parser,820
 scrollDinkusParser,766
 quickCssParser,668
 editButtonParser,660
-listAftertextParser,581
+listAftertextParser,582
 lineOfCodeParser,549
 chatLineParser,408
 scrollCenterParser,367
