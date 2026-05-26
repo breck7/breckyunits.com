@@ -10,3 +10,5 @@ printTitle
 categoryLinks.scroll
 
 css html {font-size: var(--base-font-size, 8px);}
+// Justify looks funny on single posts. We turn it off on those, and turn it back on cat pages.
+css .scrollParagraph { text-align: justify !important; }
