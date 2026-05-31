@@ -1,5 +1,15 @@
 [
   {
+    "date": "05/30/2026",
+    "year": 2026,
+    "title": "Why Databases Still Beat Text Files",
+    "permalink": "dbsVsText.html",
+    "authors": "Breck Yunits",
+    "tags": "All Programming Scroll Databases",
+    "wordCount": 743,
+    "minutes": 3.7
+  },
+  {
     "date": "05/10/2026",
     "year": 2026,
     "title": "To Be An Ant",
@@ -905,7 +915,7 @@
     "title": "ScrollSets: A New Way to Store Knowledge",
     "permalink": "scrollsets.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers AllPapers Science",
+    "tags": "All Scroll Programming Data Life ScrollSets ScrollPapers AllPapers Science Databases",
     "wordCount": 1288,
     "minutes": 6.4
   },
@@ -1036,8 +1046,8 @@
     "permalink": "treeNotationFinalReport.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 2187,
-    "minutes": 10.9
+    "wordCount": 2204,
+    "minutes": 11
   },
   {
     "date": "03/30/2024",
@@ -1506,8 +1516,8 @@
     "permalink": "tree-notation-annual-report-2019.html",
     "authors": "Breck Yunits",
     "tags": "All Scroll Programming",
-    "wordCount": 4207,
-    "minutes": 21
+    "wordCount": 4224,
+    "minutes": 21.1
   },
   {
     "date": "03/02/2020",
@@ -1565,7 +1575,7 @@
     "title": "Building a TreeBase with 6.5 million files",
     "permalink": "building-a-treebase-with-6.5-million-files.html",
     "authors": "Breck Yunits",
-    "tags": "All Scroll Programming HasDataset",
+    "tags": "All Scroll Programming HasDataset Databases",
     "wordCount": 7098,
     "minutes": 35.5
   },
@@ -1585,7 +1595,7 @@
     "title": "Type the World",
     "permalink": "type-the-world.html",
     "authors": "Breck Yunits",
-    "tags": "All Programming Thinking Scroll Science",
+    "tags": "All Programming Thinking Scroll Science Databases",
     "wordCount": 2425,
     "minutes": 12.1
   },
@@ -1716,8 +1726,8 @@
     "permalink": "scrollnet.html",
     "authors": "Breck Yunits",
     "tags": "All Programming Scroll WWS",
-    "wordCount": 1429,
-    "minutes": 7.1
+    "wordCount": 1446,
+    "minutes": 7.2
   },
   {
     "date": "04/02/2013",

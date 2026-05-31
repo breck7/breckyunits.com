@@ -66,6 +66,11 @@ It took me a while to let Tree Notation go. Even after LLMs destroyed the potent
 
 Related Posts
 =============
+Why Databases Still Beat Text Files
+===================================
+05/30/2026
+https://breck7.github.io/breckyunits.com/dbsVsText.html
+
 Knowledge
 =========
 04/24/2025

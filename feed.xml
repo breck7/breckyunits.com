@@ -4,8 +4,13 @@
  <title>Breck's Blog</title>
  <link>https://breck7.github.io/breckyunits.com/</link>
  <description>Some writing about probability, programming, economics and life.</description>
- <lastBuildDate>Tue, 26 May 2026 18:18:52 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 31 May 2026 03:15:17 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Why Databases Still Beat Text Files</title>
+<link>https://breck7.github.io/breckyunits.com/dbsVsText.html</link>
+<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>To Be An Ant</title>
 <link>https://breck7.github.io/breckyunits.com/beePoem.html</link>

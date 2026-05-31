@@ -1,6 +1,11 @@
 Breck's Blog
 ============
 
+Why Databases Still Beat Text Files
+===================================
+05/30/2026
+https://breck7.github.io/breckyunits.com/dbsVsText.html
+
 To Be An Ant
 ============
 05/10/2026
