@@ -49,6 +49,8 @@ Databases are ints, and textfiles are varchars. Its the numerics that make datab
 
 The important thing is not the data. It's the real world activities that the data helps coordinate.
 
+Textfiles are great for KnowledgeBases, databases are great for CoordinationBases.
+
 There is a place for text files but I can see how even if we had all the optimizations in place to make them as fast and efficient as databases the latter would still preferable because it constrains the technology and keeps the focus on the real world activities that the technology enables.
 
 The technology is the least important thing and just needs to keep the data constrained and safe and fast.
