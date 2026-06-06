@@ -1,5 +1,15 @@
 [
   {
+    "date": "06/06/2026",
+    "year": 2026,
+    "title": "A Word Arena",
+    "permalink": "theArena.html",
+    "authors": "Breck Yunits",
+    "tags": "All Writing Thinking",
+    "wordCount": 115,
+    "minutes": 0.6
+  },
+  {
     "date": "06/04/2026",
     "year": 2026,
     "title": "Random Thoughts on Consciousness",
@@ -2686,8 +2696,8 @@
     "permalink": "bloggers-who-turned-pro-and-their-famous-last-words.html",
     "authors": "Breck Yunits",
     "tags": "All Writing HasDataset",
-    "wordCount": 1181,
-    "minutes": 5.9
+    "wordCount": 1195,
+    "minutes": 6
   },
   {
     "date": "05/14/2008",
