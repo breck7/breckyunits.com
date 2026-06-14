@@ -4,8 +4,13 @@
  <title>Source</title>
  <link>https://breck7.github.io/breckyunits.com/</link>
  <description></description>
- <lastBuildDate>Fri, 12 Jun 2026 07:08:09 +0000</lastBuildDate>
+ <lastBuildDate>Sun, 14 Jun 2026 23:07:27 +0000</lastBuildDate>
  <language>en-us</language>
+ <item>
+<title>Life Bombs</title>
+<link>https://breck7.github.io/breckyunits.com/lifeBombs.html</link>
+<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+</item>
  <item>
 <title>A Word Arena</title>
 <link>https://breck7.github.io/breckyunits.com/theArena.html</link>

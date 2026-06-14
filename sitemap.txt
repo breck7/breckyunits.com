@@ -161,6 +161,7 @@ https://breck7.github.io/breckyunits.com/lab.html
 https://breck7.github.io/breckyunits.com/learning-how-to-program-part-i.html
 https://breck7.github.io/breckyunits.com/letter.html
 https://breck7.github.io/breckyunits.com/life.html
+https://breck7.github.io/breckyunits.com/lifeBombs.html
 https://breck7.github.io/breckyunits.com/lispet.html
 https://breck7.github.io/breckyunits.com/litigation.html
 https://breck7.github.io/breckyunits.com/live-free-or-agi.html
