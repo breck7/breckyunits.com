@@ -1,10 +1,10 @@
 parserId,uses
 BlobParser,16563
-blankLineParser,14835
-catchAllParagraphParser,6069
+blankLineParser,14836
+catchAllParagraphParser,6070
 scrollImportedParser,2291
 slashCommentParser,2250
-quickLinkParser,1517
+quickLinkParser,1519
 scrollBrParser,1044
 h1Parser,825
 scrollDinkusParser,778
