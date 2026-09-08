@@ -1,0 +1,88 @@
+Breck Yunits: A Case for Academic Courage
+=========================================
+
+Draft nomination for the Carob Trust Prize. Prepared for an independent nominator to review and adapt.
+
+Intellectual Independence
+=========================
+
+Breck Yunits has pursued a sustained inquiry into how the rules and tools governing information affect our ability to discover, scrutinize, and use knowledge. His work questions the assumption that exclusive control over copying is necessary for intellectual progress. He has made that disagreement concrete through public-domain software and databases that others can inspect, modify, and redistribute.
+
+In <em>A Mathematical Model of Copyright</em> (2023), Yunits sets out an explicit model of ideas, communication, permission, and production, and develops predictions about the consequences of copyright. The model gives readers something specific to examine and challenge. His related software work makes the practical alternatives inspectable: PLDB and Scroll are publicly available projects, with their source and development histories accessible to others.
+
+In 2019, before ChatGPT, his Long Bets prediction anticipated a major disruption of programming by 2027. His accompanying argument explicitly considered an alternative to his own preferred technology: something better than Tree Languages, potentially a higher-dimensional structure. Yunits now believes LLMs fit that possibility and that the transformation they are driving makes his prediction likely to succeed. This is his current assessment, revised from his pessimistic 2024 retrospective. The prediction's formal outcome remains unresolved and depends on its specific 2027 language-ranking conditions.
+
+Yunits also describes a personal cost to questioning prevailing views during the pandemic. In his account, raising critical questions led to ostracism, loss of his job, and bans from Twitter and Facebook. He reports subsequently experiencing homelessness and separation from his family, and connects those losses to that period of dissent. He says he continued researching, writing, and advocating for open knowledge, taking up carpentry to support himself and sustain his work. His account makes persistence under adversity a central part of his nomination.
+
+That record demonstrates independence from his own prior commitments as well as from prevailing assumptions. His nomination rests on the combination of explicit arguments, publicly inspectable work, and a documented willingness to revise his conclusions.
+
+Sources: copyright model; PLDB; Scroll; Long Bets prediction; final report. Current prediction confidence and personal experiences: candidate's account supplied for this draft. The personal events and their causal connections have not been independently corroborated.
+ https://breck.lol/a-mathematical-model-of-copyright.html copyright model
+ https://github.com/breck7/pldb PLDB
+ https://github.com/breck7/scroll Scroll
+ https://longbets.org/793/ Long Bets prediction
+ https://breck.lol/treeNotationFinalReport.html final report
+
+Non-Conformist Ideas
+====================
+
+Yunits's central unconventional argument is that restrictions on copying can impose substantial social costs by obstructing the recombination, correction, and distribution of knowledge. His research asks whether information institutions should be judged primarily by how well they help people learn and discover truths, and whether prevailing arrangements instead reward control over existing information.
+
+His 2023 copyright model treats permission as an additional step in producing and improving informational artifacts. He uses this framework to predict slower production of derivative works, increased concentration of control, and a poorer information environment. These are theoretical claims for scrutiny and empirical testing, rather than established measurements of copyright's net effects.
+
+Yunits connects this argument to scientific infrastructure. PLDB is a public-domain programming-language database; Scroll supports publishing structured information; and CancerDB explores a computable encyclopedia about cancer. The projects express a common practical aim: make knowledge easier to inspect, combine, correct, and reuse. His <em>ScrollSets</em> essay proposes a simple text-based approach to storing tabular knowledge.
+
+His PleaseCopy project also collects arguments from other writers in favor of copying and sharing, connecting his own work to a wider intellectual tradition. The collection is evidence of curation and public engagement, with the underlying arguments attributed to their respective authors.
+
+Yunits argues that barriers to scientific information contribute to preventable suffering, including cancer deaths. The importance of that question is clear; the size of the proposed causal effect remains to be demonstrated. His distinctive contribution is to connect a critique of information policy with working examples of an alternative, open information infrastructure.
+
+Sources: copyright model; PLDB; Scroll; CancerDB; ScrollSets; PleaseCopy. The cancer-death causal argument is also stated by the candidate in preparing this nomination.
+ https://breck.lol/a-mathematical-model-of-copyright.html copyright model
+ https://github.com/breck7/pldb PLDB
+ https://github.com/breck7/scroll Scroll
+ https://github.com/breck7/CancerDB CancerDB
+ https://breck.lol/scrollsets.html ScrollSets
+ https://pleasecopy.breck.lol/ PleaseCopy
+
+Impact and Vindication
+======================
+
+Yunits's work on Our World in Data contributed to an information resource with reach into major public institutions. OWID's pandemic data has been reported as used by the White House, the World Health Organization, and the United Nations. His contribution was to the shared infrastructure behind the publication: OWID's June and July 2020 product update explicitly credits him for improvements to its Data Explorer, including embedding visualizations without the surrounding controls. His work belongs in the story of the team that made public data easier to access and communicate at global scale.
+
+His scientific publication record includes coauthorship of <em>DeepImpute</em>, a deep-learning method for imputing single-cell RNA-sequencing data, published in <em>Genome Biology</em> in 2019. The publisher displayed 314 citations when checked for this draft. The paper credits Yunits with helping the implementation and analysis and with writing the manuscript. He also coauthored <em>GranatumX</em>, a modular webtool for single-cell data analysis. These collaborations establish concrete participation in scientific software development and research communication.
+
+PLDB's project documentation describes a public-domain resource containing over 135,000 facts about more than 5,000 programming languages. Together with Scroll, it provides a concrete demonstration of building and distributing structured knowledge openly. PleaseCopy makes a collection of arguments about information freedom accessible through a browsable, downloadable website.
+
+His 2019 Long Bets argument also anticipated the possibility that a higher-dimensional alternative could supersede Tree Languages. Yunits sees the rise of LLMs as evidence for that broader foresight and now expects the prediction to succeed. Whether it wins under its language-ranking conditions remains to be determined in 2027.
+
+His strongest established impact lies in research tools and public knowledge infrastructure. The larger claim that ending copying restrictions would substantially reduce cancer deaths remains a research argument awaiting empirical validation.
+
+His case for recognition is therefore grounded in sustained work connecting information policy, scientific practice, and public access, accompanied by a record that other researchers can examine and build upon.
+
+Sources: Our World in Data credit; OWID institutional-use overview; DeepImpute and publisher citation metric; DeepImpute author contributions; GranatumX; PLDB; PleaseCopy; Long Bets. Citation count checked September 7, 2026; it is a publisher metric, not a Google Scholar count. Institutional use refers to OWID's collective work; direct use of Yunits's particular code by each institution has not been established.
+ https://ourworldindata.org/whats-new-june-july-2020 Our World in Data credit
+ https://en.wikipedia.org/wiki/Our_World_in_Data OWID institutional-use overview
+ https://link.springer.com/article/10.1186/s13059-019-1837-6 DeepImpute and publisher citation metric
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC6798445/ DeepImpute author contributions
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC8864242/ GranatumX
+ https://github.com/breck7/pldb PLDB
+ https://pleasecopy.breck.lol/ PleaseCopy
+ https://longbets.org/793/ Long Bets
+
+Selected publications
+=====================
+
+The form requires at least one and allows up to three published works uploaded as PDFs. These are proposed choices; PDFs have not been attached.
+
+1. <strong>A Mathematical Model of Copyright (2023).</strong> Best fit for the information-policy argument. Self-published theoretical essay; do not describe it as peer reviewed. https://breck.lol/a-mathematical-model-of-copyright.html
+2. <strong>ScrollSets: A New Way to Store Knowledge (2024).</strong> Connects the argument to a technical proposal for reusable scientific information. Self-published essay. Published PDF linked from the papers category: https://breck.lol/scrollsets.pdf
+3. <strong>DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data (2019).</strong> Peer-reviewed collaborative research in <em>Genome Biology</em>, with 314 citations displayed by the publisher when checked for this draft. https://link.springer.com/article/10.1186/s13059-019-1837-6
+
+An alternative third attachment is <strong>GranatumX: A Community-engaging, Modularized, and Flexible Webtool for Single-cell Data Analysis (2021)</strong>, https://pmc.ncbi.nlm.nih.gov/articles/PMC8864242/.
+
+Required filename format: `Yunits.PaperTitle.YearPublished.pdf`.
+
+A note on this draft
+====================
+
+The Carob Trust does not accept self-nominations. This is preparation for an independent nominator, not a submitted nomination. The personal history above is my account; a nominator should add firsthand knowledge or corroborating records. Institutional reach refers to OWID’s collective work. The Long Bets outcome remains unresolved under its exact terms.
