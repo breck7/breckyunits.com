@@ -4,7 +4,7 @@ blankLineParser,15352
 catchAllParagraphParser,6227
 scrollImportedParser,2356
 slashCommentParser,1954
-quickLinkParser,1557
+quickLinkParser,1559
 scrollBrParser,1071
 h1Parser,829
 scrollDinkusParser,800
@@ -45,7 +45,7 @@ h2Parser,205
 orderedListAftertextParser,200
 sceneCommentParser,199
 scriptLineParser,171
-quickRelativeLinkParser,162
+quickRelativeLinkParser,160
 topRankParser,154
 topLanguageParser,154
 homepageParser,154
