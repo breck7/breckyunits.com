@@ -97,6 +97,7 @@
   .resize-handle{position:absolute;bottom:0;right:0;width:28px;height:28px;padding:0;border:0;color:#76d9f4;background:#122630;cursor:nwse-resize;touch-action:none;font-size:19px}
   .manipulating .floating-media{pointer-events:none}.manipulating .window-head{cursor:grabbing}
   .view-number{position:absolute;top:7px;left:7px;z-index:5;display:grid;place-items:center;min-width:23px;height:23px;padding:0 5px;border:1px solid #497c90;border-radius:6px;background:#07151ee8;color:#d4f5ff;font:700 12px ui-monospace,monospace;pointer-events:none;box-shadow:0 2px 7px #0006}
+.unavailable-view{display:grid;place-items:center;width:100%;height:100%;min-height:0;background:#09151b;color:#87a6b6;font-size:13px}.status.offline{color:#ffc792}.status.offline:before{background:#ffc792}
 </style>
 </head>
 <body>
@@ -125,7 +126,7 @@ const yt=(id)=>'https://www.youtube.com/embed/'+id+'?autoplay=1&mute=1&playsinli
 const cameras=[
  {id:'poipu',title:'Poʻipū Beach',place:'Nukumoi · South shore',lat:21.8733,lng:-159.4538,src:'https://iframe.dacast.com/b/125968/c/496219',source:'https://nukumoi.com/live-cam/'},
  {id:'sheraton',title:'Sheraton Kauai',place:'Kiahuna Beach · South shore',lat:21.8758,lng:-159.4616,youtube:'tuj4OvU6UZI'},
- {id:'lawai',title:'Lāwaʻi Beach',place:'Lawai Beach Resort · South shore',lat:21.8802,lng:-159.4747,youtube:'3ATYHKN2hIg'},
+ {id:'lawai',title:'Lāwaʻi Beach',place:'Lawai Beach Resort · South shore',lat:21.8802,lng:-159.4747,youtube:'3ATYHKN2hIg',offline:true},
  {id:'kalapaki',title:'Kalapaki Bay',place:'Royal Sonesta · Līhuʻe',lat:21.9625,lng:-159.3507,youtube:'M6kN1wlNSk4'},
  {id:'golf',title:'Poipu Bay Golf Course',place:'Poipu Bay · South shore',lat:21.8756,lng:-159.4338,youtube:'kP3JW-K59-c'},
  {id:'field',title:'Kauaʻi live field camera',place:'DL Scales · Mobile storm coverage',youtube:'Hxn3IcYvy9M'}
@@ -151,6 +152,7 @@ let youtubeReady,dacastReady;
 function loadPlayer(url,ready){return new Promise((resolve,reject)=>{if(ready()){resolve();return;}const script=document.createElement('script');script.src=url;script.onload=resolve;script.onerror=reject;document.head.append(script);});}
 function youtubeAPI(){if(window.YT?.Player)return Promise.resolve();return youtubeReady ||= new Promise((resolve,reject)=>{window.onYouTubeIframeAPIReady=resolve;const script=document.createElement('script');script.src='https://www.youtube.com/iframe_api';script.onerror=reject;document.head.append(script);});}
 function createMedia(item,expanded=false){
+ if(item.offline){const notice=document.createElement('div');notice.className='unavailable-view';notice.textContent='Camera unavailable';return notice;}
  if(item.kind==='image'){
   const img=document.createElement('img');img.alt=item.title+' — '+item.place+'; issue time shown on graphic';img.src=item.currentSrc||item.src;return img;
  }
@@ -162,7 +164,7 @@ function createMedia(item,expanded=false){
  return f;
 }
 function activate(el,item){const badge=document.createElement('span');badge.className='view-number';badge.textContent=item.number;badge.title='Press '+item.number+' to open';badge.setAttribute('aria-hidden','true');el.append(badge);el.tabIndex=0;el.setAttribute('role','button');el.setAttribute('aria-label','Expand '+item.number+'. '+item.title);el.onclick=()=>openModal(item,el);el.onkeydown=e=>{if(e.target===el&&(e.key==='Enter'||e.key===' ')){e.preventDefault();openModal(item,el);}};}
-function cameraWindow(item,parent){const el=document.createElement('article');el.className='cam';el.id=item.id;el.append(createMedia(item));const meta=document.createElement('div');meta.className='cam-meta';meta.innerHTML='<div><div class="cam-title"></div><div class="cam-place"></div></div><span class="status">Live feed</span>';meta.querySelector('.cam-title').textContent=item.title+' ↗';meta.querySelector('.cam-place').textContent=item.place;el.append(meta);activate(el,item);$(parent).append(el);item.element=el;}
+function cameraWindow(item,parent){const el=document.createElement('article');el.className='cam';el.id=item.id;el.append(createMedia(item));const meta=document.createElement('div');meta.className='cam-meta';meta.innerHTML='<div><div class="cam-title"></div><div class="cam-place"></div></div><span class="status">Live feed</span>';if(item.offline){meta.querySelector('.status').textContent='Unavailable';meta.querySelector('.status').classList.add('offline');}meta.querySelector('.cam-title').textContent=item.title+' ↗';meta.querySelector('.cam-place').textContent=item.place;el.append(meta);activate(el,item);$(parent).append(el);item.element=el;}
 cameras.forEach((c,i)=>cameraWindow(c,i<3?'leftRail':'rightRail'));broadcasts.forEach(c=>cameraWindow(c,'tv'));
 weather.forEach(item=>{const el=document.createElement('article');el.className='weather-window';el.id=item.id;const media=createMedia(item);el.append(media);const label=document.createElement('div');label.className='window-label';const name=document.createElement('b');name.textContent=item.title+' ↗';const place=document.createElement('span');place.textContent=item.place;label.append(name,place);const state=document.createElement('div');state.className='window-status';state.textContent='Loading NOAA…';state.setAttribute('role','status');el.append(label,state);activate(el,item);$('weather').append(el);item.element=el;media.addEventListener(item.kind==='video'?'loadeddata':'load',()=>status(item,'NOAA · Auto-refresh 10 min'));media.addEventListener('error',()=>showError(item));if(item.kind==='image'&&media.complete&&media.naturalWidth)status(item,'NOAA · Auto-refresh 10 min');});
 function status(item,text){item.element?.querySelector('.window-status')?.replaceChildren(document.createTextNode(text));}
@@ -182,7 +184,8 @@ function openModal(item,opener){
  const media=createMedia(item,true);mediaBox.append(media);panel.media=media;
  const labelAudio=()=>{audio.textContent=panel.muted?'Unmute':'Mute';audio.setAttribute('aria-label',(panel.muted?'Unmute ':'Mute ')+item.title);audio.setAttribute('aria-pressed',String(!panel.muted));};labelAudio();
  audio.onclick=()=>{panel.muted=!panel.muted;if(item.youtube){panel.muted?panel.player.mute():panel.player.unMute();}else if(panel.player){panel.muted?panel.player.muteOn():panel.player.muteOff();}else{media.muted=panel.muted;}labelAudio();};
- if(item.kind==='image'||item.kind==='video'){audio.hidden=true;note.textContent=item.kind==='image'?'NOAA · Issue time on graphic':'NOAA · Satellite animation (no audio)';}
+ if(item.offline){audio.hidden=true;note.textContent='No replacement stream available.';}
+ else if(item.kind==='image'||item.kind==='video'){audio.hidden=true;note.textContent=item.kind==='image'?'NOAA · Issue time on graphic':'NOAA · Satellite animation (no audio)';}
  else if(item.youtube){note.textContent='';youtubeAPI().then(()=>{if(!el.isConnected)return;panel.player=new YT.Player(media,{events:{onReady:()=>{panel.player.mute();audio.disabled=false;},onError:()=>{note.textContent='Use player controls or open source';}}});}).catch(()=>{note.textContent='Use the player’s volume control';audio.hidden=true;});}
  else {
   note.textContent='';dacastReady ||= loadPlayer('https://prod-player.dacast.com/js/player.js',()=>typeof window.dacast==='function');
