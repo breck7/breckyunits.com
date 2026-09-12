@@ -19,14 +19,14 @@ The zip file includes the Scroll source code for every post; the generated HTML;
 # Instructions
 
 1. Download
- https://github.com/breck7/blog/archive/refs/heads/wws.zip
+ https://github.com/breck7/breck.lol/archive/refs/heads/wws.zip
 2. Unzip
 3. Open `index.html`
 
 ***
 
 Technical users can still clone and build the repo, but sometimes you just want the compiled HTML for offline reading.
- https://github.com/breck7/blog repo
+ https://github.com/breck7/breck.lol repo
 
 ***
 
