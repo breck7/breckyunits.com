@@ -1,4 +1,54 @@
 .gazette.css
 .scroll.css
 
-font Helvetica Neue
+font "Helvetica Neue", Helvetica, Arial, sans-serif
+
+// Keep the compact newspaper geometry; use only fonts installed on the reader's device.
+css
+ :root {
+  --scrollColorBackground: #faf8f3;
+  --scrollColorText: #242622;
+  --scrollColorLink: #245b68;
+  --scrollColorSubdued: #62665f;
+  --scrollSurfaceRgb: 210, 207, 197;
+  --scrollPrimaryRgb: 36, 91, 104;
+ }
+ h1.printTitleParser, .scrollSection h2, .scrollSection h3, .scrollSection h4 {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.2;
+  text-wrap: pretty;
+ }
+ .scrollParagraph {
+  line-height: 1.5;
+ }
+ .scrollColumns {
+  column-rule: 1px solid #dedbd2;
+ }
+ .scrollSnippetContainer + .scrollSnippetContainer {
+  border-top: 1px solid #dedbd2;
+ }
+ nav.scrollNavParser {
+  border-top: 1px solid #dedbd2;
+  border-bottom: 1px solid #dedbd2;
+  padding: 5px 0;
+  line-height: 1.6;
+ }
+ .printDateParser, .printAuthorsParser, .scrollDateline {
+  color: var(--scrollColorSubdued);
+ }
+ .scrollParagraph a {
+  text-decoration-color: #94afb2;
+  text-underline-offset: 0.15em;
+ }
+ a:hover {
+  color: #163e48;
+  text-decoration-color: currentColor;
+ }
+ a:focus-visible {
+  outline: 2px solid #245b68;
+  outline-offset: 2px;
+ }
+ ::selection {
+  background: #d9e6df;
+  color: #242622;
+ }
