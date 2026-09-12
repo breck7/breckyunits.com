@@ -57,7 +57,7 @@ But of course, as I mentioned above, it is hard to predict in advance how big a 
 If this essay you are reading now does not have a big impact, perhaps a future version will.
 
 I share the git for this blog, so if this essay does become a HIT we'd be able to see which tweaks caused that phase change.
- https://github.com/breck7/blog git for this blog
+ https://github.com/breck7/breck.lol git for this blog
 
 *
 

@@ -1,6 +1,6 @@
 title Chemical Blood Tests Dataset
 buildConcepts chemicalBloodTests.tsv chemicalBloodTests.csv
-editBaseUrl https://github.com/breck7/blog/blob/main/ketones
+editBaseUrl https://github.com/breck7/breck.lol/blob/main/ketones
 
 ../settings.scroll
 metaTags

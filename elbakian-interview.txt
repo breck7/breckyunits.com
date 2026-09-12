@@ -7,7 +7,7 @@ In this video Dmitry Puchkov interviews Alexandra Elbakian. I do not speak Russi
  https://youtube.com/watch?v=RyTRyRwsTp4 video
  https://en.wikipedia.org/wiki/Dmitry_Puchkov Dmitry Puchkov
  https://en.wikipedia.org/wiki/Alexandra_Elbakyan Alexandra Elbakian
- https://github.com/breck7/blog/blob/main/elbakian-interview.scroll source
+ https://github.com/breck7/breck.lol/blob/main/elbakian-interview.scroll source
 
 D: I salute you profoundly. Alexandra good afternoon.
 A: Hello.
