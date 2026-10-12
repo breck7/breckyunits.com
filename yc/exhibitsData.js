@@ -27,6 +27,14 @@ const exhibitsData = [
     "context": "https://x.com/breckyunits/status/2103150019314585747"
   },
   {
+    "id": "startup-school-equity-swap",
+    "title": "Startup School Equity Swap",
+    "image": "startupSchoolEquitySwap.png",
+    "year": 2021,
+    "source": "Kyle Corbitt",
+    "kind": "email"
+  },
+  {
     "id": "all-your-investments-will-go-to-zero",
     "title": "All Your Investments Will Go to $0",
     "image": "allYourInvestmentsWillGoToZero.png",
@@ -111,6 +119,14 @@ const exhibitsData = [
     "title": "YC Alumni Nominated for Crunchies",
     "image": "crunchies.png",
     "year": 2014,
+    "source": "Paul Graham",
+    "kind": "email"
+  },
+  {
+    "id": "cut-your-losses",
+    "title": "Did You Cut Your Losses?",
+    "image": "cutYourLosses.png",
+    "year": 2013,
     "source": "Paul Graham",
     "kind": "email"
   },
