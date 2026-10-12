@@ -27,6 +27,13 @@ kind email
 image imMad.png
 context https://x.com/breckyunits/status/2103150019314585747
 
+id startup-school-equity-swap
+title Startup School Equity Swap
+year 2021
+source Kyle Corbitt
+kind email
+image startupSchoolEquitySwap.png
+
 id all-your-investments-will-go-to-zero
 title All Your Investments Will Go to $0
 year 2021
@@ -104,6 +111,13 @@ year 2014
 source Paul Graham
 kind email
 image crunchies.png
+
+id cut-your-losses
+title Did You Cut Your Losses?
+year 2013
+source Paul Graham
+kind email
+image cutYourLosses.png
 
 id swanky
 title YC S09 4-Year Reunion
