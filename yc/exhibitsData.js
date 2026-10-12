@@ -128,7 +128,8 @@ const exhibitsData = [
     "image": "cutYourLosses.png",
     "year": 2013,
     "source": "Paul Graham",
-    "kind": "email"
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2109672516184924446"
   },
   {
     "id": "swanky",
