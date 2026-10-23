@@ -11,7 +11,7 @@ html
   <aside class="sidebar" aria-label="Y Combinator emails">
    <div class="sidebarLabel">Emails</div>
    <div class="sidebarFilter">
-    <input type="search" id="filterInput" placeholder="Filter emails…" autocomplete="off" spellcheck="false" aria-label="Filter emails" aria-controls="makerList">
+    <input type="search" id="filterInput" placeholder="Filter emails & transcripts…" autocomplete="off" spellcheck="false" aria-label="Filter emails and transcripts" aria-controls="makerList">
     <button type="button" id="filterClear" class="filterClear" aria-label="Clear filter" hidden>×</button>
    </div>
    <nav class="makerList" id="makerList"></nav>
@@ -412,7 +412,7 @@ exhibitsData.js
 script
  (() => {
   "use strict"
-  const items = exhibitsData.map(exhibit => ({...exhibit, slug: exhibit.id, context: exhibit.context || "", contextLabel: exhibit.contextLabel || ""}))
+  const items = exhibitsData.map(exhibit => ({...exhibit, slug: exhibit.id, context: exhibit.context || "", contextLabel: exhibit.contextLabel || "", transcript: exhibit.transcript || ""}))
   const kindLabels = {email: "Email", tweet: "Tweet", photo: "Photo", meme: "Meme", screenshot: "Screenshot", pdf: "PDF"}
   const list = document.getElementById("makerList")
   const carousel = document.getElementById("carousel")
@@ -445,7 +445,8 @@ script
   const matches = item => {
    const q = query.trim().toLowerCase()
    if (!q) return true
-   return [item.title, item.year, item.source, item.kind].filter(Boolean).join(" ").toLowerCase().includes(q)
+   const haystack = [item.title, item.year, item.source, item.kind, item.transcript].filter(Boolean).join(" ").replace(/\\n/g, " ").toLowerCase()
+   return haystack.includes(q)
   }
   const spotOf = index => order.indexOf(index)
   const sideIndex = delta => {

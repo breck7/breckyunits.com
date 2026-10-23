@@ -1,6 +1,7 @@
 // The exhibits behind "Investigate YCombinator".
 // This compiles to exhibitsData.js (and .json), which readme.scroll iterates over.
 // Add a `context` URL to any exhibit to show a Context / commentary link on its card.
+// Add an indented `transcript` blob with the readable text of the artifact so sidebar search can match contents.
 buildConcepts exhibitsData.js exhibitsData.json
 
 id coffee
@@ -57,6 +58,128 @@ source Patrick Collison
 kind email
 image acquihires-longpic.jpg
 context https://x.com/breckyunits/status/2113624565570289677
+transcript
+ 'Stripe: frontend hiring + acquihires
+ 
+ 'Bookface Forum Digest <sgest@ycombinator con Faun 7, 2049 at 448 Nk
+ 'beck malcom
+ 
+ Your Bookface Forum Digest
+ 
+ General jis)
+ 
+ Stripe: frontend hiring + acquihires
+ Hifolks- | posted a fow months ago about acquisitions and leadership hiing at
+ Stripe. Alot of people reached out and we've made some great hires. Those
+ individuals are now leading some major projects at Sipe. We have a
+ particulary acute need for frontend teams right now, todo things ike build the
+ By Patrick Collson (Stripe S09) » Read mace -
+ 
+ Launch Bookface: Actiondesk (YC $19) Edit your data from
+ any application on a spreadsheet
+ 
+ HiYC fellows, Do you felis a pain to edit record by record data in your CRM
+ or other apps? We'e testing a new iteration of our product where you can create
+ 2 spreadsheet connected to dala ftom any app edt that data in th spreadsheet
+ and have a two way syne between the spreadsheet and the app. Our ask If you
+ 
+ By Jonathan Parsot(Actiondesk $19) + Read moro >
+ 
+ Advice/help on ios app submission rejection (using celebrity
+ photos)
+ 
+ im wondering any has experince with the following reason for ejection. "Your
+ app or ts metadata appears to contain misleading content. Specialy, your app
+ includes content that resembles several brand names without the necessary
+ authorization. Also, upon futher review, we found that your app includes images
+ By Lisha Li (Rosebud A, Inc $19) + Read more ~
+ 
+ Books on Business similar to Patagonia's Yvon Chouinard Let
+ My People Go Surfing?
+ 
+ ound Chouinare's book extremely refreshing and a diferent perspective from
+ 'most books ve read on buiding businesses. Does anyone know of any Books
+ that write about similar values and strategies in growing businesses? | guoss
+ any recommendations for creating sucessful 8 corporations would be the
+ 
+ By Brian Liou (Lead $18) + Read moro
+ 
+ Can anyone provide clarity on how OfferUp serves their ads
+ on mobile?
+ 
+ | want o show relevant product ads that blend in wit a produc list being
+ viewed, ust ike OfferUp does, For example, i you search "Patagonia jacket" on
+ OfferUp, they wil show ads that take you to rd party retailers with something
+ very cose to whal you searched fr. cant soem to find a mobile ad platform
+ 
+ By Ell Alen (Curtsy $16) + Read more --
+ 
+ Marketing & Growth iunsu)
+ 
+ YC W17 - Insurance for Al Liability
+ Wie can help you sell A-related products with nancial and legal protection. You
+ can reply here or send me a message at juien@ledgerinvesting.com to set up a
+ '0sminute call.
+ 
+ By Jullon Brissonneau (Ledger Investing W'17) + Read more
+ 
+ 'Seeking feedback on how you use push notifications
+ you use push natications in your app, our head of product and I would ke
+ chat with you. We're thinking about what features to prioritize building and wo'd
+ love your feedback. | return, we can share best practices and recommendations
+ 'we've learned from several hundred thousand developers that use OneSignal to
+ By George Degln (OneSignal St1) + Read mace -
+ 
+ Legal wn
+ 
+ Anyone have experience with US border crossings? Perhaps
+ know a lawyer?
+ 
+ Holo al, havea friend who has had dificult experiences atthe US border
+ despite having a visa. She has an upcoming trip planned and is woried that she
+ might be heavily interogated of denied entry. Does anyone have experience
+ navigating their way through this or know a lawyer that specializes in such a
+ 
+ By Wu Tran (Color Dating S14) + Read moro
+ 
+ Job Openings ins»
+ 
+ Contractor to help run SaaS customer segmentation &
+ persona creation
+ 
+ Im looking to get a itte help going deeper on our customers. We have existing
+ personas but fe! lke they have gone stale and ike a new set of eyes on
+ the problem. {would lke to understand: Who are our customers? What
+ motivates them to look fora soluton in our space? Why did they choose
+ 
+ By Amir Elaguizy (Cratejoy $13) + Read moro ->
+ 
+ Job Candidates ins.)
+ 
+ Waa: Data Engineering intern from Uber and Lime (seeking
+ summer 2019 internship)
+ 
+ Itps:finkedin comfivestlazx What are you looking for in your next ole? just
+ looking to learn, make an impact, and be challenged. | ove working wth data
+ but that snot the ony thing m limiting myself to. | would ike to avold front ond
+ 'work hitps/bookface ycombinatorcom/workatastartupappicants/13Bgyowln?
+ By Jose Guardado (Y Combinator) » Read more ->
+ 
+ Offices & Housing jn
+ 
+ '1bd/'1br sublet in Buena Vista, SF available July to March-ish
+ 625 sq.ft. tha/tbr apartment in Buena Vista/Corona Heights. Somi-furished
+ (0 desk, no bookshelves, lt to no kitchenware). Includes 46° TV, surround
+ sound systom, smal kitchen (no dishwasher), showor over bathtub, full bod.
+ CCheap coin-op laundry in-bulding. Located near the west end of 16th St, San
+ By Danie! DeCovnick (Observant W18) + Read moro -+
+ 
+ Have a question?
+ Cone of cur funders may have spent 10,00 hour thinking about it
+ 
+ Change how frequently | go this email »
+ 
+ https://mail.google.com/mail/u/0/?ik=996fd27c6f&view=pt&search=all &permmsgid=ms¢g-f: 16356935 16324054239 WV
 
 id garry-vs-breck
 title Garry vs Breck
@@ -81,6 +204,113 @@ source Patrick Collison
 kind email
 image bookfaceRandomSample-longpic.jpg
 context https://x.com/breckyunits/status/2113624565570289677
+transcript
+ Atlas for YC founders
+ 
+ 'Brack Yunits<breck7@gmallcom>
+ 
+ 'Bookface Daly Digest <algest@ycombinetorcom>
+ 'Tor breckr gma com
+ 
+ Your Bookface Daily Digest
+ 
+ Discussion
+ 
+ 'Atlas for YC founders
+ 'Sco we launched he new Aas his moring (tig coma) fen peopl hve emsled me asking
+ fos nV can uo Answer yes, dena. us ora mo (patie com) for an evs.
+ 
+ by Patrick Calison (Srp S08)
+ 
+ Getting sued by patent toll for using Apifie to scrape websites
+ 'Sol gat nema ey fom sme random lawyer saying he sw ha my company was peng sed fr
+ Intngng an pent psiseran pear cmvedee 175278 lier search arly chard
+ projectne-é-ahip-aath Sp.
+ 
+ by Bran Car HOP Heath F2)
+ 
+ General Advice on Finding a CEO/Executive Coach
+ (Ts inresponce to hipebookacsyeambinaocomipstG457 bl! serdar a goat
+ 'coment have spent years wih 2 amazng CEO coaches (Jy Colona m NY, and Kral Han
+ ') lam sigan exelent
+ 
+ by Ben Hu ¥ Conia 505)
+ 
+ Looking for itam donations for the homeless in Berkeley
+ Ceretesage sparen wih one feu Paint Advisory Bard member alt dena ame fr
+ curhomalos neighbors th Berl area I you ae nsrested hoping ou ad hae any of 6
+ foonna toms, you can doh,
+ 
+ by Ceca Coral (Coeeesage W)
+ 
+ Spelicheck /link-checking as a service?
+ one have a god series for marion a web and ering you fie patio eos a kak i
+ ead? Exarle ve cate wd be fo meio an erly hele support tor be,
+ 
+ by Day Wong (Cty S11),
+ 
+ D&O and EPL insurance?
+ 'Were working wie Cotalo an Son (econmended on okt) fo ut eororteratrance needs
+ \Wore coming up on our enews and te quoted us aw rece & Ofer (080) and Erployment
+ races ably (Pt) plans. Does ano
+ 
+ by Ts Blosser WerkRamp S16)
+ 
+ Request an Intro
+ 
+ Intro to Sendgrid? (urgent)
+ My sores Farmepesjo sens indrds of tousands of ena a month and arent our oecunt has
+ on locked Not ure whats gig on but our ony ecoue support an theyre a beng espns
+ Hfanyone know a point of et,
+ 
+ by Coo Krumopoiz (aco W'2)
+ 
+ 'SF Film Fest organizers [e.g. Noah Cowan]?
+ [ito wacky equet att honing tout hare, Thar la SF Fin Fest vet nxt wen tg 8)
+ enaing Shah Ruth Khana pope Soywacd actor wih an cone ie & personaly
+ Intestin oratesiainoune.
+ 
+ by Soha Shot (Oost Esucaon WI)
+ 
+ Job Candidates
+ 
+ Dartmouth intem available this summer
+ Resume: Mpastunwrpbox canishurehelResumeCalCabie peAe0
+ by Nick lander Yosh 16)
+ 
+ Jeff Uram seeks Technical Product Manager Role
+ From Je Simmary: tong lachnicl product manage that ows how ola tems, ship products, an
+ hat des experince in dla avai, atogy cea, ad lawl mating Mot rece, was at.
+ Cesta wer ld
+ 
+ by cory bray (Caserta 2)
+ 
+ Stellar Purdue PhD looking for industry experience as summer intern
+ Prashastia a tar computer sence PrD student at Prd. Excelen UG ab wo He a sels,
+ tet layer, arora an can se projects Bough om lato esha i ishigh Wal ea 8
+ by Saurabh Srivastava (On W715)
+ 
+ Michigan Software Engineer Looking for Full-Time Position
+ ve noi Pack fora fow years on parson lvl andrea wih abo 20 Pure wook whl
+ rising ie astra hin hs ps! son yor. Has a eel gy an eal passnate engineer
+ by Te Jones (Crospot Wi)
+ 
+ Got a question?
+ 
+ 'Someone among the hundreds of YC alums probably spent 10,000 hours
+ thinking about
+ 
+ Chang ow equ ge ema»
+ 
+ https://mail google.com/mail/w/0/2i
+ 
+ = 996 fd27e6f&view=pt&search=all&permmsgid=msg-f: 1564030274813353094é-simpl=msg-
+ 
+ 5640302748 13353094
+ 
+ FeApr 7.2017 at 431 AM
+ 
+ wl
 
 id hair-stand-on-end
 title Spend Slowly Because the World Is Unpredictable
@@ -104,6 +334,115 @@ source Daniel Sugarman
 kind email
 image fraud-longpic.jpg
 context https://x.com/breckyunits/status/2113624565570289677
+transcript
+ [ycfounders] Fraud
+ 
+ Daniel Sugarman <dsugarman@zentail.com> Thu, Sep 11, 2014 at 7:07 AM
+ Reply-To: dsugarman@hdtradeservices.com
+ To: ycfounders@googlegroups.com
+ 
+ Thank you everyone who followed up: David Cann, Tom Sparks, Doug Feigelson, Zaid Farooqui, Benjamin Bryant, Russell Smith, Charlie Pinto, Daniel Conrad, Simon Tisminezky, Kai Stinchcombe, Jesse Cooke, Eric
+ Migicovsky (& James Pierson @ pebble). Thanks especially to Jason Tan and Patrick Collison for speaking to me on the phone so I can better understand your services. | wanted to put together a basic guide to our findings, |
+ hope people find this useful. tidr: manually approve any and all orders.
+ 
+ Fraud & Me (as a startup merchant)
+ 
+ The issue of fraud can be quite serious as a startup merchant, especially selling physical products. Your supplier isn't going to eat the cost, neither will the credit card companies which leaves all the liability on you. If you aren't
+ careful, you will not find out about these issues until the customer issues a chargeback with their credit card companies. This means that you may be selling products for 4+ weeks before you find out you have a problem. A
+ 'company with low margins, like ours, could lose a month of runway a day and wind up out of business by the time the problem is identified.
+ 
+ How to fight fraud
+ 
+ It is important to keep a close eye on your transactions. There is a fine line between providing excellent service to your good customers and preventing bad behaviour. There doesn't seem to be a better solution than to manually
+ approve every single order at first, and automate more and more as you collect data. The key data points you want to look for are:
+ 
+ Billing Address
+ Shipping Address
+ 
+ Billing Phone Number
+ Shipping Phone Number
+ IP Address (geolocated)
+ Card Type
+ 
+ Order Size ($ & Quantity)
+ 
+ Most fraud we see is different billing & shipping addresses. The best review process seems to be googling street addresses, checking white page results (or safecaller.com) on the phone numbers and calling the phone
+ numbers. If you aren't sure, you have a decision to make whether you want to side towards customer service or fraud prevention and that might likely be a calculation with respect to the order size, frequency of fraud and your
+ runway. | am told that verifying billing phone numbers is impossible, otherwise it would be simple to verify a phone number and then hold the package until you receive a response from the customer.
+ 
+ Friendly" Fraud
+ 
+ Defined as a customer who buys a product and later files a chargeback claim. Make sure that your company name appropriately represents you on your customer's credit card statement. The more data you keep track of, the
+ easier it will be to win one of these claims. If you use Stripe, they will actually eat the cost of the chargeback claim even though they are charged regardless. To win a claim, provide the IP address, carrier and tracking info as
+ well as proof of delivery. If you have it, any engagement with support, discovery, registration and shopping cart should be included.
+ 
+ Sift Science
+ 
+ You should definitely use Sift Science, but itis important to really understand their product, they likely won't protect you very much in the beginning. We use their magento plugin and originally wrongfully assumed that they would
+ automatically prevent orders going through that were fraudulent, this is NOT the case. They provide a machine learning algorithm that will learn your specific attackers pattems as well as more global fraud trends. Their magento
+ plugin will never prevent an order. The Sift Science global model (data collected from all of their users) will likely not be sufficient in catching your fraud attempts. This means that you must see a number of attacks before the
+ model leams what attributes are likely to identify a fraudulent attack. If you have repeated attacks of a certain type, the system will become hypersensitive to your attackers. It will also become hypersensitive to vulnerabilities
+ specific to your platform and customers. It is very important that you manually label fraudulent orders on your dashboard or the system will never learn.
+ 
+ Stripe
+ 
+ You all know and love Stripe, they lead the space in ease of connectivity for developers. Stripe is also great for chargebacks because they will pay the fee if you win a claim (normally you are charged either way). Stripe might
+ lead you to a catch 22, do you store credit card info or not. With this info, you are strongly liable. Without it, it will be very hard to troubleshoot to a certain degree; it will be downright impossible (without custom work*) to contact
+ the issuing bank to find out more information or to provide the FBI with the information they request. Stripe does not currently provide phone support, do not expect to get enough information from their email support to make a
+ decision on intercepting a package. The issue is that there really isn't much they can do on a complex attack and the time window is so small, just intercept the package. If you can, hold off on shipping any suspicious order.
+ I would email patrick@stripe.com right away if you have any major problems, he is very responsive and deeply wants to help YC companies (he even offered custom work if that was the diagnosis).
+ 
+ "Itis possible to use Stripe's API to get the issuing bank information. You can be proactive and record this information on every order and contact the bank where necessary. | am told these inquiries don't generally go far.
+ 
+ Loo! ito (help if you can!)
+ + Insurance
+ 
+ + Fraudster Databases
+ + Auto-reporting with ic3.gov
+ 
+ 'Our Attack
+ 
+ We have seen a diverse set of attacks from friendly to really technically advanced. Some were easy to detect, ex. IP from foreign address and shipping to a freight forwarder. Our biggest attack was really hard to detect. Our
+ attackers used stolen credit card information to send packages to residential addresses close to the credit card holder. They would also use a proxy to access our website close to the shipping and billing addresses. They would
+ list the billing and shipping phone to be the same phone number and these numbers would be from the correct area as our "customer". Without verification on the billing phone #, we didn't know if these #s are real or fake.
+ Thankfully all of these phone numbers went to the same 2 people.
+ 
+ Select Raw Responses
+ 
+ 'Tom Sparks - Sounds like you could use IPViking, its a live list of attackers/fraudsters. If you've got a list of the IP's from the folks who've ripped you off, I'l run it against the list and see how many of them would've been caught.
+ 
+ Charlie Pinto - This is what happens when you deal with payments. The best course of action would be to store the cards yourselves, save as much contextual data as you can (geo-location, information, card type, amount,
+ etc.) then ship card data off to stripe,js, and build an in-house fraud system based on the card and contextual data you store. It's really the only way to stop all their fraud bullshit.
+ 
+ Daniel Conrad - My experience selling a physical product (a smart phone) we had to do manual review of transactions, sometimes rejecting transactions after manual review 24+ hours later. Review might involve checking google
+ street view on addresses and other manual activities. Not sure what Stripe/Sift will let you do (| was at Google and using Checkout so had total access) but | don't think there's any way of getting around human input; fraudsters
+ will find the weakness in an automated system by trial and error and unchecked fraud quickly goes to infinity. Law enforcement can't move fast enough. Physical products are different!
+ 
+ Kai Stinchcombe - Nobody has yet built a neural network one one-billionth as powerful as the human brain. When paypal was losing $10m a month to fraud they moved back to human review and fixed the problem. Pull out a
+ step in the automation and let someone review it manually, like set up a pending orders dashboard where someone clicks to release each order. Put down the list of goods ordered, shipping address, billing address, phone
+ number, name, email address, and geolocation of the IP address ordered from, that kind of basic stuff, and it'll be pretty obvious who is legit and who isn't. And if t's unclear, call the billing phone number, the customer will be
+ happy to hear from you either way. The reason you're being targeted is because you're still shipping goods to thieves - if you fix the problem entirely for even just six weeks they'll realize they're wasting their time and go steal
+ from someone else.
+ 
+ On Tue, Sep 9, 2014 at 5:02 PM, Daniel Sugarman <dsugarman@zentail.com> wrote:
+ background: we sell physical product. we are dealing with a distributed fraudulent attack, likely orders with stolen credit cards. we thought we were set up well to combat fraud as we have an integration with Sift Science, but
+ all of these orders have extremely low sift scores. what other methods do you use to prevent and detect fraud?
+ 
+ to report fraudulent orders with the issuing banks, we need the credit card information, which we don't store. this info is also blocked out on our stripe dashboard. anyone know how to actually get this information or contact
+ stripe? customer service is virtually non-existent, waiting 6 hours + on their only contact method (email).
+ 
+ what steps do you take to report fraudulent attacks? we have been in contact with our local FBI unit as well as the Internet Crime Complaint Center because this is America and we don't negotiate with terrorists
+ 
+ You received this message because you are subscribed to the Google Groups "yofounders" group.
+ 
+ To unsubscribe from this group and stop receiving emails from it, send an email to ycfounders+unsubscribe @googlegroups.com.
+ To post to this group, send email to ycfounders@googlegroups.com.
+ 
+ Visit this group at http://groups.google.com/group/ycfounders.
+ 
+ For more options, visit https://groups. google.com/d/optout.
+ 
+ https://mail.google.com/mail/u/0/?ik=996fd27c6f&view=pt&search=all &permmsgid=msg-f: 1478987563795059937 &dsqt=1 &simpl=msg-f: 1478987563795059937 WV
 
 id make-it-easier-to-bring-in-foreign-programmers
 title Make It Easier to Bring In Foreign Programmers
@@ -456,3 +795,6 @@ contextParser
 
 contextLabelParser
  extends abstractStringMeasureParser
+
+transcriptParser
+ extends abstractTextareaMeasureParser
