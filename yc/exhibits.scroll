@@ -50,6 +50,14 @@ kind email
 image reunion.png
 context https://x.com/breckyunits/status/2105655822357553387
 
+id stripe-frontend-hiring-acquihires
+title Stripe Frontend Hiring + Acquihires
+year 2019
+source Patrick Collison
+kind email
+image acquihires-longpic.jpg
+context https://x.com/breckyunits/status/2113624565570289677
+
 id garry-vs-breck
 title Garry vs Breck
 year 2019
@@ -66,6 +74,14 @@ kind email
 image campYC.png
 context https://x.com/breckyunits/status/2108672067734585825
 
+id atlas-for-yc-founders
+title Atlas for YC Founders
+year 2017
+source Patrick Collison
+kind email
+image bookfaceRandomSample-longpic.jpg
+context https://x.com/breckyunits/status/2113624565570289677
+
 id hair-stand-on-end
 title Spend Slowly Because the World Is Unpredictable
 year 2015
@@ -80,6 +96,14 @@ source Sam Altman
 kind email
 image democracyTheConway.jpeg
 context https://x.com/breckyunits/status/2099537384518103355
+
+id we-dont-negotiate-with-terrorists
+title We Don't Negotiate with Terrorists
+year 2014
+source Daniel Sugarman
+kind email
+image fraud-longpic.jpg
+context https://x.com/breckyunits/status/2113624565570289677
 
 id make-it-easier-to-bring-in-foreign-programmers
 title Make It Easier to Bring In Foreign Programmers
