@@ -53,6 +53,15 @@ const exhibitsData = [
     "context": "https://x.com/breckyunits/status/2105655822357553387"
   },
   {
+    "id": "stripe-frontend-hiring-acquihires",
+    "title": "Stripe Frontend Hiring + Acquihires",
+    "image": "acquihires-longpic.jpg",
+    "year": 2019,
+    "source": "Patrick Collison",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2113624565570289677"
+  },
+  {
     "id": "garry-vs-breck",
     "title": "Garry vs Breck",
     "image": "garryVsBreck.png",
@@ -71,6 +80,15 @@ const exhibitsData = [
     "context": "https://x.com/breckyunits/status/2108672067734585825"
   },
   {
+    "id": "atlas-for-yc-founders",
+    "title": "Atlas for YC Founders",
+    "image": "bookfaceRandomSample-longpic.jpg",
+    "year": 2017,
+    "source": "Patrick Collison",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2113624565570289677"
+  },
+  {
     "id": "hair-stand-on-end",
     "title": "Spend Slowly Because the World Is Unpredictable",
     "image": "hairStandOnEnd.png",
@@ -86,6 +104,15 @@ const exhibitsData = [
     "source": "Sam Altman",
     "kind": "email",
     "context": "https://x.com/breckyunits/status/2099537384518103355"
+  },
+  {
+    "id": "we-dont-negotiate-with-terrorists",
+    "title": "We Don't Negotiate with Terrorists",
+    "image": "fraud-longpic.jpg",
+    "year": 2014,
+    "source": "Daniel Sugarman",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2113624565570289677"
   },
   {
     "id": "make-it-easier-to-bring-in-foreign-programmers",
