@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <title>How many Oahus fit in Texas?</title>
+ <script>/* This HTML was generated from texas.scroll by 📜 Scroll v180.0.1. https://scroll.surf */</script>
+ <style>@media print {.doNotPrint {display: none !important;}}</style>
+ <link rel="canonical" href="https://breck.lol/texas.html">
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="description" content="Real Census outlines of Oahu nested inside Texas at true scale, packed live in your browser with SVGnest's no-fit-polygon nesting.">
+ 
+ <meta name="generator" content="Scroll v180.0.1">
+ <meta property="og:title" content="How many Oahus fit in Texas?">
+ <meta property="og:description" content="Real Census outlines of Oahu nested inside Texas at true scale, packed live in your browser with SVGnest's no-fit-polygon nesting.">
+ <meta property="og:image" content="">
+ 
+ <link rel="source" type="application/git" title="Source Code Repository" href="texas.scroll">
+ 
+ <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<main class="tx">
+ <header>
+  <h1><span id="count">0</span> Oahus fit in Texas</h1>
+  <p class="sub">By area alone you'd expect <b id="ratio">…</b>. Real shapes don't tile, so here they are nested for real, at true scale.</p>
+  <p class="status" id="status">Loading…</p>
+ </header>
+ <svg id="map" role="img" aria-label="Oahu outlines packed inside an outline of Texas"><defs><path id="oahu"/></defs><path id="texas"/><g id="oahus"></g></svg>
+ <footer>Outlines: US Census Bureau 2023 cartographic boundaries (1:500k), simplified · Projection: <a href="https://d3js.org/d3-geo">d3-geo</a> conic equal-area, same scale for both · Nesting: <a href="https://github.com/Jack000/SVGnest">SVGnest</a> no-fit polygons + Clipper, in web workers · <a href="https://github.com/breck7/breck.lol/blob/main/texas.scroll">Source</a></footer>
+</main>
+<style>body { margin: 0; background: #f4ecdd; color: #2a2433; font-family: Georgia, "Iowan Old Style", serif; }
+.tx { height: 100dvh; display: flex; flex-direction: column; align-items: center; padding: 18px 16px 10px; box-sizing: border-box; }
+.tx header { text-align: center; }
+.tx h1 { margin: 0; font-size: clamp(28px, 5vw, 52px); letter-spacing: -0.02em; }
+#count { color: #0f7c83; font-variant-numeric: tabular-nums; }
+.sub { margin: 6px 0 0; font-size: clamp(14px, 1.8vw, 18px); color: #5b5266; }
+.status { margin: 4px 0 0; font: 12px ui-monospace, Menlo, monospace; color: #8a7f74; min-height: 1.3em; }
+#map { flex: 1; width: 100%; min-height: 0; margin-top: 8px; }
+#texas { fill: #fbf6ec; stroke: #2a2433; stroke-width: 1.6; stroke-linejoin: round; filter: drop-shadow(0 6px 14px rgba(60,40,20,.18)); }
+#oahus use { stroke: #fbf6ec; stroke-width: .35; transform-box: fill-box; transform-origin: center; animation: pop .45s cubic-bezier(.3,1.6,.5,1) both; }
+@keyframes pop { from { transform: scale(0); opacity: 0; } }
+.tx footer { font-size: 11px; color: #8a7f74; text-align: center; max-width: 900px; }
+.tx footer a { color: inherit; }</style>
+<script>(async () => {
+const status = msg => (document.getElementById("status").textContent = msg)
+const SVGNEST = "https://cdn.jsdelivr.net/gh/Jack000/SVGnest@1248dc21efd3f90d1aa52ba5785e27e5217ed2c9/util/"
+// US Census cb_2023_us_state_500k: Texas mainland and Oahu, [lon, lat, lon, lat, ...]
+const TEXAS=[-103.0024,36.5004,-103.0419,36.5004,-103.0408,36.0552,-103.0424,35.1831,-103.0428,34.6712,-103.0436,34.0036,-103.0567,33.3884,-103.0646,32.9999,-103.0646,32.3347,-103.0644,32.0005,-103.7229,32.0002,-104.3296,32.0001,-104.8329,32,-105.4733,32.0007,-106.1255,32.0025,-106.6185,32.0005,-106.6359,31.8662,-106.4895,31.7484,-106.4511,31.7643,-106.381,31.7321,-106.2196,31.4816,-106.0745,31.3976,-105.9538,31.3647,-105.9326,31.3131,-105.8692,31.2888,-105.7733,31.1669,-105.6061,31.085,-105.5562,30.9889,-105.4138,30.8996,-105.3954,30.8491,-105.2177,30.806,-105.12,30.75,-105.0484,30.6805,-105.0074,30.6865,-104.9721,30.6103,-104.899,30.5704,-104.8719,30.5109,-104.8595,30.3904,-104.8107,30.3627,-104.6867,30.1786,-104.6858,30.0823,-104.7069,30.0507,-104.6741,29.9105,-104.6138,29.846,-104.5498,29.7406,-104.5157,29.6405,-104.3381,29.52,-104.2617,29.5135,-104.209,29.481,-104.1684,29.3965,-104.0194,29.3119,-103.784,29.2655,-103.7192,29.1814,-103.5924,29.1503,-103.5505,29.1562,-103.4154,29.0379,-103.1546,28.9716,-103.0978,29.027,-103.0801,29.0869,-103.036,29.0987,-102.998,29.1757,-102.878,29.2147,-102.9064,29.2621,-102.878,29.3545,-102.8394,29.3589,-102.8087,29.5223,-102.74,29.599,-102.6914,29.7214,-102.4873,29.7866,-102.4098,29.7647,-102.341,29.8693,-102.3014,29.8777,-102.0736,29.7869,-101.9812,29.8154,-101.8829,29.7935,-101.8036,29.8034,-101.6464,29.7543,-101.5677,29.7987,-101.4504,29.7533,-101.4098,29.7706,-101.3731,29.6802,-101.3001,29.6405,-101.3118,29.5855,-101.2612,29.5368,-101.1738,29.5146,-101.1519,29.477,-101.0602,29.4587,-101.0042,29.3648,-100.8868,29.3078,-100.7977,29.2469,-100.7378,29.1391,-100.6747,29.0998,-100.6507,28.942,-100.5473,28.8258,-100.5076,28.7406,-100.4981,28.6596,-100.4457,28.6406,-100.4114,28.5519,-100.3362,28.4302,-100.3496,28.4026,-100.2886,28.317,-100.2943,28.2844,-100.2121,28.1965,-100.0834,28.144,-100.0179,28.0648,-99.9898,27.9929,-99.8941,27.893,-99.878,27.8007,-99.7707,27.7321,-99.7215,27.6662,-99.6035,27.642,-99.5111,27.5645,-99.5283,27.4989,-99.4793,27.4786,-99.5044,27.3399,-99.4966,27.2717,-99.4415,27.2499,-99.4263,27.1763,-99.4461,27.0233,-99.3773,26.9738,-99.3289,26.8798,-99.2686,26.8432,-99.24,26.7459,-99.2089,26.7248,-99.1667,26.5361,-99.0916,26.477,-99.082,26.3965,-99.0116,26.3925,-98.8967,26.3533,-98.8274,26.3691,-98.7566,26.331,-98.6542,26.236,-98.5875,26.2578,-98.5003,26.2098,-98.4627,26.2258,-98.2487,26.072,-98.1055,26.0675,-98.0392,26.0413,-97.8874,26.0667,-97.8003,26.0594,-97.7777,26.0294,-97.7025,26.0312,-97.6456,26.0068,-97.5198,25.886,-97.443,25.8481,-97.3729,25.8401,-97.366,25.9024,-97.2254,25.9591,-97.1473,25.9533,-97.1532,26.0389,-97.208,26.0796,-97.2798,26.0921,-97.3167,26.224,-97.297,26.2961,-97.3805,26.4806,-97.421,26.5355,-97.4647,26.6942,-97.4786,26.8067,-97.4603,26.8473,-97.4223,27.2577,-97.5296,27.2292,-97.6311,27.2422,-97.6072,27.287,-97.4979,27.3722,-97.4829,27.2979,-97.4144,27.3216,-97.3694,27.4104,-97.3222,27.5691,-97.256,27.6917,-97.3437,27.724,-97.3933,27.7829,-97.3857,27.84,-97.3378,27.8836,-97.2494,27.8762,-97.1906,27.8233,-97.0437,28.0281,-97.0996,28.0781,-97.1389,28.0269,-97.2228,28.0773,-97.1459,28.1411,-97.0319,28.1887,-96.9834,28.1249,-96.9316,28.1239,-96.8455,28.1798,-96.7843,28.2437,-96.8096,28.2903,-96.7868,28.4022,-96.7062,28.4046,-96.6844,28.3145,-96.5851,28.3508,-96.4529,28.4187,-96.4406,28.343,-96.6036,28.2926,-96.7162,28.1932,-96.7984,28.1856,-96.8109,28.1234,-96.8739,28.1335,-96.9678,28.0175,-96.9619,27.9559,-96.7522,28.1411,-96.5606,28.264,-96.4428,28.3177,-96.3904,28.3818,-96.2704,28.4619,-96.0833,28.5548,-95.772,28.6867,-95.4632,28.8489,-95.3837,28.87,-95.1238,29.0706,-95.1673,29.1212,-95.1499,29.1793,-95.0345,29.2115,-94.9709,29.2832,-94.8664,29.3673,-94.892,29.4337,-94.9518,29.4675,-95.0183,29.5549,-95.0152,29.6325,-94.9427,29.6978,-94.8726,29.6713,-94.8152,29.7585,-94.7312,29.7896,-94.6959,29.7591,-94.7013,29.6394,-94.7626,29.5242,-94.5451,29.5719,-94.6316,29.4518,-94.4901,29.5112,-94.0958,29.6605,-94.0014,29.6815,-93.8377,29.679,-93.9288,29.7971,-93.8551,29.8641,-93.7869,29.9906,-93.7397,30.024,-93.6963,30.1516,-93.719,30.2087,-93.7046,30.2899,-93.763,30.3441,-93.6993,30.4374,-93.7338,30.5314,-93.6831,30.6408,-93.6204,30.6942,-93.5531,30.8331,-93.5741,30.8845,-93.5309,30.9245,-93.5391,31.0083,-93.5189,31.0619,-93.5489,31.1866,-93.5885,31.1656,-93.6441,31.2716,-93.6879,31.3098,-93.6706,31.3888,-93.7428,31.5269,-93.7808,31.5254,-93.8394,31.5991,-93.7945,31.7021,-93.8234,31.7751,-93.8748,31.8217,-93.8974,31.8944,-93.9739,31.9217,-94.0427,31.9993,-94.0431,32.4866,-94.0431,32.91,-94.0435,33.5523,-94.1623,33.5889,-94.2984,33.5762,-94.3895,33.5468,-94.4485,33.6345,-94.5514,33.6285,-94.5803,33.6788,-94.7359,33.6916,-94.7482,33.7247,-94.8747,33.7492,-95.0601,33.9019,-95.2141,33.9621,-95.2788,33.8779,-95.4409,33.8664,-95.5333,33.8812,-95.5967,33.9421,-95.7516,33.8611,-95.8452,33.8391,-95.9413,33.8616,-96.0488,33.8365,-96.1481,33.8378,-96.1781,33.7605,-96.2965,33.7658,-96.338,33.6887,-96.4226,33.776,-96.5003,33.7726,-96.5267,33.8209,-96.6734,33.9123,-96.6907,33.85,-96.7616,33.8244,-96.7943,33.8689,-96.8664,33.8531,-96.9221,33.9596,-96.995,33.932,-96.9838,33.8909,-97.0481,33.8175,-97.0948,33.7985,-97.0972,33.7278,-97.1722,33.7375,-97.2057,33.8029,-97.1666,33.8473,-97.1796,33.8923,-97.3056,33.8864,-97.3729,33.8195,-97.4629,33.8418,-97.4604,33.9039,-97.5515,33.8979,-97.5888,33.9519,-97.6718,33.9914,-97.7323,33.9367,-97.8658,33.8494,-97.9678,33.8824,-97.9459,33.9884,-98.0828,34.0024,-98.1194,34.0845,-98.1691,34.1142,-98.364,34.1571,-98.4116,34.0881,-98.4863,34.0626,-98.5998,34.1606,-98.6906,34.133,-98.7656,34.1364,-99.0008,34.2176,-99.0435,34.1982,-99.1895,34.2143,-99.2101,34.3377,-99.2946,34.4154,-99.381,34.4569,-99.3968,34.3794,-99.5801,34.4167,-99.6,34.3747,-99.695,34.3783,-99.8871,34.549,-99.9457,34.5793,-100.0004,34.5605,-100.0004,35.0299,-100.0004,35.7462,-100.0004,36.4997,-100.5222,36.4993,-101.0852,36.4992,-101.8266,36.4997,-102.5707,36.5004]
+const OAHU=[-158.2776,21.577,-158.2507,21.5574,-158.2315,21.5372,-158.2291,21.525,-158.2311,21.4827,-158.2181,21.4676,-158.2037,21.4579,-158.1796,21.4286,-158.173,21.3986,-158.162,21.3959,-158.1411,21.3764,-158.1298,21.3551,-158.1283,21.3407,-158.1127,21.3019,-158.1029,21.2957,-158.0502,21.3011,-157.9783,21.3159,-157.9652,21.3275,-157.9472,21.3155,-157.9472,21.3038,-157.9067,21.3033,-157.8867,21.3066,-157.846,21.2817,-157.8232,21.2714,-157.8149,21.2561,-157.7959,21.2572,-157.7644,21.2752,-157.7194,21.2844,-157.7095,21.2775,-157.7093,21.2597,-157.6915,21.2643,-157.6858,21.2758,-157.651,21.2988,-157.6593,21.3102,-157.6938,21.3329,-157.709,21.3603,-157.7059,21.3803,-157.7159,21.3933,-157.7339,21.4006,-157.7445,21.4224,-157.7358,21.4324,-157.7357,21.4452,-157.7632,21.4595,-157.7783,21.4465,-157.758,21.4369,-157.77,21.4133,-157.7872,21.4137,-157.7891,21.4253,-157.8052,21.4351,-157.8166,21.4546,-157.8381,21.4567,-157.8493,21.4874,-157.8506,21.5063,-157.8348,21.509,-157.8345,21.5269,-157.8467,21.5498,-157.8638,21.5602,-157.8769,21.5574,-157.8752,21.5731,-157.8867,21.5806,-157.8981,21.6026,-157.9077,21.6078,-157.9194,21.6263,-157.9168,21.6474,-157.9282,21.6538,-157.9379,21.6769,-157.9491,21.693,-157.9674,21.7104,-157.9835,21.7107,-158.0093,21.7003,-158.0323,21.6828,-158.0623,21.6554,-158.0651,21.6391,-158.0858,21.6184,-158.1067,21.603,-158.1128,21.5898,-158.1228,21.5835,-158.1543,21.5808,-158.1914,21.5827,-158.216,21.5801,-158.2348,21.5819]
+const ROTATIONS = 8, GAP = 0.5 // km of breathing room between islands
+const d3 = await import("https://cdn.jsdelivr.net/npm/d3-geo@3/+esm")
+// One equal-area conic (true at 21.5°N and 31°N) at one scale: 1 unit = 1 km. Each shape uses its own central meridian.
+const R = 6371.0088
+const project = (flat, lon) => {
+ const p = d3.geoConicEqualArea().parallels([21.5, 31]).rotate([-lon, 0]).scale(R).translate([0, 0]), out = []
+ for (let i = 0; i < flat.length; i += 2) { const [x, y] = p([flat[i], flat[i + 1]]); out.push({x, y}) }
+ return out
+}
+const area = p => Math.abs(p.reduce((s, a, i) => { const b = p[(i + 1) % p.length]; return s + a.x * b.y - b.x * a.y }, 0) / 2)
+const T = project(TEXAS, -99.5), O0 = project(OAHU, -157.98)
+const cx = O0.reduce((s, q) => s + q.x, 0) / O0.length, cy = O0.reduce((s, q) => s + q.y, 0) / O0.length
+const O = O0.map(q => ({x: q.x - cx, y: q.y - cy}))
+const fmt = n => Math.round(n).toLocaleString()
+document.getElementById("ratio").textContent = fmt(area(T) / area(O))
+document.getElementById("ratio").title = `Texas ${fmt(area(T))} km² ÷ Oahu ${fmt(area(O))} km²`
+const d = p => "M" + p.map(q => q.x.toFixed(2) + "," + q.y.toFixed(2)).join("L") + "Z"
+const xs = T.map(q => q.x), ys = T.map(q => q.y), pad = 12
+const svg = document.getElementById("map")
+svg.setAttribute("viewBox", [Math.min(...xs) - pad, Math.min(...ys) - pad, Math.max(...xs) - Math.min(...xs) + 2 * pad, Math.max(...ys) - Math.min(...ys) + 2 * pad].join(" "))
+document.getElementById("texas").setAttribute("d", d(T))
+document.getElementById("oahu").setAttribute("d", d(O))
+// Worker: SVGnest's geometry + Clipper compute no-fit polygons; SVGnest's PlacementWorker places each island.
+const workerMain = () => {
+ const S = 1e4, CL = ClipperLib
+ const C = p => p.map(q => ({X: Math.round(q.x * S), Y: Math.round(q.y * S)})), U = p => p.map(q => ({x: q.X / S, y: q.Y / S}))
+ const big = ps => ps.sort((a, b) => Math.abs(CL.Clipper.Area(b)) - Math.abs(CL.Clipper.Area(a)))[0]
+ const shift = (p, dx, dy) => p.map(q => ({x: q.x + dx, y: q.y + dy}))
+ const clip = (type, subj, clp) => {
+  const c = new CL.Clipper(), out = new CL.Paths()
+  c.AddPaths(subj, CL.PolyType.ptSubject, true); if (clp) c.AddPaths(clp, CL.PolyType.ptClip, true)
+  c.Execute(type, out, CL.PolyFillType.pftNonZero, CL.PolyFillType.pftNonZero)
+  return CL.Clipper.CleanPolygons(out, 1e-4 * S).filter(p => p.length > 2 && Math.abs(CL.Clipper.Area(p)) > 0.01 * S * S)
+ }
+ const offset = (p, delta) => { const co = new CL.ClipperOffset(2, 0.25 * S), out = new CL.Paths(); co.AddPath(C(p), CL.JoinType.jtRound, CL.EndType.etClosedPolygon); co.Execute(out, delta * S); return U(big(out)) }
+ onmessage = ({data}) => {
+  const {T, O, gap, angles} = data, Ob = offset(O, gap / 2), Tb = offset(T, -gap / 2)
+  if (data.task === "nfp") {
+   // Inner-fit polygon (where this rotation's reference point may sit inside Texas) and no-fit polygons vs every rotation, via Minkowski sums.
+   const a = data.angle, B = rotatePolygon(Ob, a), negB = C(B.map(q => ({x: -q.x, y: -q.y})))
+   const ifp = clip(CL.ClipType.ctDifference, [C(Tb)], CL.Clipper.MinkowskiSum(negB, C(Tb), true)).map(p => shift(U(p), B[0].x, B[0].y))
+   const nfp = {}
+   for (const b of angles) nfp[b] = shift(U(big(CL.Clipper.MinkowskiSum(C(rotatePolygon(Ob, b)), negB, true))), B[0].x, B[0].y)
+   return postMessage({a, ifp, nfp})
+  }
+  // Pack: each step asks SVGnest's PlacementWorker to place one island per rotation into the remaining free space; keep the leftmost.
+  const free = {}; for (const a of angles) free[a] = data.ifp[a].map(C)
+  while (true) {
+   const cache = {}
+   for (const a of angles) {
+    if (free[a].length) cache[JSON.stringify({A: -1, B: 0, inside: true, Arotation: 0, Brotation: a})] = free[a].map(U)
+   }
+   let best = null
+   for (const a of angles) {
+    if (!free[a].length) continue
+    const part = Ob.map(q => ({...q})); part.id = 0; part.source = 0; part.rotation = a
+    const worker = new PlacementWorker(Tb, [part], [0], [a], {clipperScale: S}, cache)
+    self.global = {env: {self: worker}}
+    const pl = (worker.placePaths([part]).placements[0] || [])[0]
+    if (pl && (!best || pl.x < best.x)) best = pl
+   }
+   if (!best) return postMessage({done: true})
+   postMessage({x: best.x, y: best.y, r: best.rotation})
+   for (const a of angles) if (free[a].length) free[a] = clip(CL.ClipType.ctDifference, free[a], [C(shift(data.nfp[best.rotation + "," + a], best.x, best.y))])
+  }
+ }
+}
+const src = `importScripts(${["clipper.js", "geometryutil.js", "placementworker.js"].map(f => JSON.stringify(SVGNEST + f)).join(",")});(${workerMain})()`
+const workerUrl = URL.createObjectURL(new Blob([src], {type: "text/javascript"}))
+const angles = Array.from({length: ROTATIONS}, (_, i) => i * 360 / ROTATIONS)
+const job = {T, O, gap: GAP, angles}
+const t0 = performance.now()
+let done = 0
+status(`Computing no-fit polygons for ${ROTATIONS} rotations…`)
+const parts = await Promise.all(angles.map(angle => new Promise((resolve, reject) => {
+ const w = new Worker(workerUrl)
+ w.onerror = e => reject(e.message || "worker failed")
+ w.onmessage = e => { w.terminate(); status(`Computing no-fit polygons… ${++done}/${ROTATIONS}`); resolve(e.data) }
+ w.postMessage({...job, task: "nfp", angle})
+}))).catch(e => { status("Could not load SVGnest from the CDN: " + e); throw e })
+const ifp = {}, nfp = {}
+for (const p of parts) { ifp[p.a] = p.ifp; for (const b of angles) nfp[b + "," + p.a] = p.nfp[b] }
+status("Nesting…")
+const colors = ["#0f7c83", "#1f9e89", "#3a7ca5", "#2a9d8f", "#16697a", "#48a9a6", "#27839c", "#5aa17f"]
+const g = document.getElementById("oahus"), queue = []
+let count = 0, finished = false
+const draw = () => {
+ for (let i = 0; i < 2 && queue.length; i++) {
+  const p = queue.shift(), use = document.createElementNS("http://www.w3.org/2000/svg", "use")
+  use.setAttribute("href", "#oahu")
+  use.setAttribute("transform", `translate(${p.x.toFixed(2)},${p.y.toFixed(2)}) rotate(${p.r})`)
+  use.style.fill = colors[angles.indexOf(p.r) % colors.length]
+  g.appendChild(use)
+  document.getElementById("count").textContent = ++count
+ }
+ if (queue.length || !finished) requestAnimationFrame(draw)
+ else status(`Done: ${count} Oahus, ${ROTATIONS} rotations, finished in ${((performance.now() - t0) / 1000).toFixed(1)}s`)
+}
+requestAnimationFrame(draw)
+const packer = new Worker(workerUrl)
+packer.onmessage = e => { if (e.data.done) { finished = true; packer.terminate() } else queue.push(e.data) }
+packer.postMessage({...job, task: "pack", ifp, nfp})
+})()</script>
+</body>
+</html>
