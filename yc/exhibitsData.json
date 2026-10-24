@@ -311,6 +311,46 @@
     "context": "https://x.com/breckyunits/status/2102413821247692815"
   },
   {
+    "id": "surrogates-opening-party",
+    "title": "Surrogates Opening Party",
+    "image": "surrogates.png",
+    "year": 2009,
+    "source": "Trevor Blackwell",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2114002257280958671",
+    "transcript": "[ycfounders] Surrogates Opening Party\\n\\nTrevor Blackwell <tlb@tlb.org> via googlegroups.com\\nto ycfounders\\nThu, Sep 24, 2009, 1:25 PM\\n\\nAnybots invites you to a Surrogates opening party. The movie is set in a future where people stay home and send telepresence robots to the office. I was interviewed for a mini-documentary about how close the film's tech is to real life:\\nhttp://splashpage.mtv.com/2009/08/05/surrogates-mini-documentary-explores-how-close-the-films-tech-is-to-real-life/\\nhttp://www.chooseyoursurrogate.com/\\n\\nFriday 5:30 PM at Anybots (320 Pioneer Way, Mountain View): snacks, robot demos, and free movie tickets for the first 40 people. Then Shoreline Theater for the 7:20 show. Kids welcome (PG-13).\\n\\n--\\nTrevor Blackwell tlb@tlb.org 650-XXX-XXXX"
+  },
+  {
+    "id": "talking-out-of-asses",
+    "title": "Handling Technical Due Diligence with VCs",
+    "image": "talkingOutOfAsses-longpic.jpg",
+    "year": 2009,
+    "source": "Paul Graham",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2114002257280958671",
+    "transcript": "Handling technical due diligence with VCs\\n\\nPaul Graham <cryptograham@gmail.com> Mon, Sep 7, 2009 at 6:20 PM\\nReply-To: cryptograham@gmail.com\\nTo: Slava Akhmechet <coffeemug@gmail.com>\\nCc: s2009 founders <s2009founders@googlegroups.com>\\n\\nIf the \"experts\" are talking out of their asses, you ought\\nto be able to turn the tables on them by asking questions\\nlike \"What about them seems similar to us?\"\\n\\nOn Mon, Sep 7, 2009 at 9:17 PM, Trevor Blackwell <tlb@tlb.org> wrote:\\n\\n\"Isn't [first related thing that comes to mind] doing the same thing?\"\\nis a great interviewing trick. Ask a random question, then whatever\\narea they seem most defensive about you drill down into. You don't\\nhave to know anything about the topic to do it, and you learn a lot\\nfrom the way people handle it.\\n\\nIf you're on the receiving end and you know what you're talking\\nabout, then answer. But if you don't, you can only dig yourself a hole\\nby engaging. The best answer is to say, confidently, \"I don't know\\nwhat they're doing. I don't think it can be very similar, or I'd know\\nabout it. But I'll check them out tonight and email everyone about it.\"\\n\\nThat email is a perfect pretext to be on the VC's radar screen the\\nnext day. Start the email with something like:\\n\\nX asked in the meeting if Y was already doing what we're doing.\\nThey're not (see detailed explanation below). Were there any other\\nissues? Otherwise, what's the next step towards closing?\\n\\nOn Sep 7, 2009, at 20:04, Slava Akhmechet wrote:\\n\\nWe recently had a somewhat unpleasant technical due diligence\\nexperience. There were a couple of technical experts at the meeting,\\nand a partner. We explained our technology, and the experts said a\\nnumber of things along the lines of \"this isn't new, company X has\\ndone this before and failed\", \"company Y already does what you're\\ndoing with simpler technology\", etc. We knew nothing about X and Y.\\nWhen we got home and checked, it turned out that these companies have\\nabsolutely nothing in common with what we're doing (technically, and\\nin terms of the value proposition) - this is why we didn't know about\\nthem.\\n\\nAs a result, the experts looked good in front of the partner, and we\\nlooked like we don't know what we're doing. It's usually very easy for\\nthe experts to set this situation up - they just have to mention an\\nunrelated technology. The odds are good we won't know about it because\\nit's unrelated to what we're doing, which means we can't reason about\\nit.\\n\\nCould someone suggest how to handle this situation? How could one\\ncounter these objections at a meeting? Also, should we e-mail the\\npartner after the meeting and counter the objections after we do the\\nresearch?\\n\\n- Slava (RethinkDB)"
+  },
+  {
+    "id": "dday-videos",
+    "title": "Dday Videos",
+    "image": "dDay-longpic.jpg",
+    "year": 2009,
+    "source": "Jessica Livingston",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2114002257280958671",
+    "transcript": "Dday videos\\n\\nJessica Livingston <x@ycombinator.com> Wed, Aug 19, 2009 at 5:57 PM\\nReply-To: x@ycombinator.com\\nTo: s2009 founders <s2009founders@googlegroups.com>\\n\\nGreat job today everyone! I was so impressed and feedback from investors was very positive.\\n\\nKate is going to send out tomorrow's line-up, but we'll also have the schedule posted in Trevor's office area.\\n\\nBTW, we are expecting even more investors tomorrow-- same quality mix as today, which I thought was very high.\\n\\nOn Wed, Aug 19, 2009 at 8:33 PM, Paul Graham <cryptograham@gmail.com> wrote:\\n\\nIf you want models, look at Bump and FanChatter. We all agreed\\nafterward that those two really nailed it. Notice how clear and calm\\nthey seem.\\n\\nOn Wed, Aug 19, 2009 at 8:20 PM, Trevor Blackwell <tlb@tlb.org> wrote:\\n\\nGreat job today, guys. Here are the videos. They're Quicktime (sorry)\\nand 10MB and 40MB each.\\n\\nFor those of you that mumble a lot, listen to yourself and see how\\nmany useless syllables you can cut out. Compare with, say, Marty of\\nFanChatter, who sounds conversational and yet has zero mumbles or\\nwasted words. The mic was on the table, so the signal-to-noise ratio\\nis generally much better than in the back of the room.\\n\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/DirectedEdge.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/FanChatter.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/HighlightCam.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/JobSpice.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/Jobpic.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/Lingt.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/Listia.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/Plurchase.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/RentHop.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/RethinkDB.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/RoboHR.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/Tuxebo.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/WakeMate.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/adthrow.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/apigy.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/bump.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/carwoo.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/instantQ.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/mixpanel.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/olark.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/stackq.mov\\nhttp://www.ycombinator.com/demoday-d9a0e5103b8c/wePay.mov\\n\\n--\\nTrevor Blackwell tlb@tlb.org\\n\\n**Please note new phone number**\\nJessica Livingston Partner, Y Combinator 650.704.9738\\nwww.ycombinator.com www.foundersatwork.com"
+  },
+  {
+    "id": "robots-eye-view",
+    "title": "Robot's-Eye-View Videos of Prototype Day",
+    "image": "robotsEyeView.png",
+    "year": 2009,
+    "source": "Trevor Blackwell",
+    "kind": "email",
+    "context": "https://x.com/breckyunits/status/2114002257280958671",
+    "transcript": "Videos\\n\\nTrevor Blackwell <tlb@tlb.org> via googlegroups.com\\nto s2009\\nThu, Jun 25, 2009, 8:30 AM\\n\\nHere's a link to robot's-eye-view videos of yesterday's prototype day talks.\\n\\nhttps://www.getdropbox.com/link/17.CxVwnz9VMj?k=971e8c044e0b028895388ef3ce7cc15b\\n\\n--\\nTrevor Blackwell tlb@tlb.org 650-XXX-XXXX\\n\\nTrevor Blackwell <tlb@tlb.org> via googlegroups.com\\nto s2009\\nThu, Jun 25, 2009, 9:19 AM\\n\\nThe previous link doesn't work. Use this instead:\\n\\nhttp://www.ycombinator.com/s2009-protoday-lnkpexnxcjnvjqta"
+  },
+  {
     "id": "should-we-fund-alex-andon",
     "title": "Should We Fund Alex Andon?",
     "image": "Al.jpeg",
